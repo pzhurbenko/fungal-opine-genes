@@ -94,6 +94,7 @@ def tsv_to_md(path: Path) -> list[str]:
     with path.open(encoding="utf-8", newline="") as fh:
         rows = list(csv.reader(fh, delimiter="\t"))
     head = [h.replace("_", " ") for h in rows[0]]
+    head = [h[:1].upper() + h[1:] for h in head]  # 2026-10-14 (author): column headers in sentence case, as in the MDPI template and Table 3
     out = ["| " + " | ".join(head) + " |", "|" + "---|" * len(head)]
     for r in rows[1:]:
         r = r + [""] * (len(head) - len(r))
