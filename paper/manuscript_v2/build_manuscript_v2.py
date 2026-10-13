@@ -36,9 +36,13 @@ TABLES = PAPER / "tables"
 
 TITLE = "Opine metabolism genes of rhizobial origin in fungal genomes"  # decided 2026-10-12 (docs/decisions.md)
 # The colleague's docx has no author block; keep a visible mark until it is provided.
-AUTHORS = ("[TO FILL: First Author 1,*, Second Author 2 and Third Author 1]  \n"
-           "[TO FILL: 1 Department, Institute, City, Country; 2 Department, Institute, City, Country]  \n"
-           "[TO FILL: * Correspondence: email@institution.org]")
+# Authors and affiliations given by the author 2026-10-13; corresponding author/e-mail still to be chosen.
+AUTHORS = ("Peter Zhurbenko 1,2, Adelya Duskaeva 3, Elizaveta Safonova 3 and Tatiana Matveeva 4  \n"
+           "1 Komarov Botanical Institute of the Russian Academy of Sciences, Saint Petersburg, Russia  \n"
+           "2 Weizmann Institute of Science, Rehovot, Israel  \n"
+           "3 Pirogov Russian National Research Medical University, Moscow, Russia  \n"
+           "4 Department of Genetics and Biotechnology, Saint Petersburg State University, Saint Petersburg, Russia  \n"
+           "[TO FILL: * Correspondence: corresponding author and e-mail]")
 
 # (file, top heading to insert or None, demote '## N.x' subsections to '###')
 SECTIONS = [
@@ -199,7 +203,7 @@ def main():
     doc += ["## Supplementary Materials", "", _supp.replace("**Supplementary Materials:** ", ""), "", ""]
     # Back matter (MDPI Biology): placeholders for the authors, marked [TO FILL] (author decision 2026-10-13)
     doc += ["## Author Contributions", "",
-            "Conceptualization, [TO FILL: initials]; methodology, [TO FILL: initials]; software, [TO FILL: initials]; validation, [TO FILL: initials]; formal analysis, [TO FILL: initials]; investigation, [TO FILL: initials]; data curation, [TO FILL: initials]; writing—original draft preparation, [TO FILL: initials]; writing—review and editing, [TO FILL: initials]; visualization, [TO FILL: initials]; supervision, [TO FILL: initials]; funding acquisition, [TO FILL: initials]. All authors have read and agreed to the published version of the manuscript.", "",
+            "Conceptualization, T.M.; methodology, P.Z.; software, P.Z.; validation, P.Z.; formal analysis, A.D. and E.S.; investigation, P.Z., A.D., E.S. and T.M.; data curation, P.Z.; writing—original draft preparation, P.Z. and T.M.; writing—review and editing, P.Z. and T.M.; visualization, P.Z.; supervision, T.M.; funding acquisition, T.M. All authors have read and agreed to the published version of the manuscript.", "",
             "## Funding", "",
             "This research was funded by [TO FILL: funder and grant number], or: This research received no external funding.", "",
             "## Institutional Review Board Statement", "", "Not applicable.", "",

@@ -122,17 +122,17 @@ SRC = {"sus-like (T-DNA type)": "T-DNA *sus*", "cus-like (T-DNA type)": "T-DNA *
 # 2026-10-13h (comments block 1): entry route in words
 ROUTE = {"profile screen (HMM/blastx) of 517 Boletales + 1,386 other assemblies": "HMM profiles of the family vs. assemblies", "targeted scan (miniprot) of 324 Fusarium-related genomes": "miniprot scan of *Fusarium* assemblies",
          "blastx of 388 plasmid proteins on 517 Boletales assemblies": "blastx of plasmid proteins vs. Boletales assemblies"}
-# identity of intact genes to the nearest reference, % (range; median) - values from Results 3.4 and Table S14c; pKerr14a-type not reported in the text (n.d.)
-IDENT = {"sus-like (T-DNA type)": "38–68; median 46", "cus-like (T-DNA type)": "46–65; median 57", "chs-like (T-DNA type)": "59–60 (chrysopine synthase)",
-         "acc-type GDPD": "60–66 (GDPD of *Mesorhizobium*, *Neorhizobium*)", "pKerr14a-type acs-like": "30–37 (*acs* of pKerr14a)",
-         "nos-subfamily opine dehydrogenase (Boletales)": "36–40 (nopaline synthase)", "odh island: opine dehydrogenase": "78–79", "odh island: Xaa-Pro aminopeptidase": "87", "odh island: third gene": "70"}
+# 2026-10-13ah: identity of intact genes to the closest bacterial protein, % (range only; medians stay in Results 3.4)
+IDENT = {"sus-like (T-DNA type)": "38–68", "cus-like (T-DNA type)": "46–65", "chs-like (T-DNA type)": "59–60",
+         "acc-type GDPD": "60–66", "pKerr14a-type acs-like": "30–37",
+         "nos-subfamily opine dehydrogenase (Boletales)": "36–40", "odh island: opine dehydrogenase": "78–79", "odh island: Xaa-Pro aminopeptidase": "87", "odh island: third gene": "70"}
 NAME = {"nos-subfamily opine dehydrogenase (Boletales)": "nos-subfamily opine dehydrogenase (Boletales)", "odh island: opine dehydrogenase": "odh island: *odh*",
         "odh island: Xaa-Pro aminopeptidase": "odh island: *pepP*", "odh island: third gene": "odh island: *orf3*"}
 main = []
 for r in rows:
     if not r["main_lineage"]: continue
     byo = f'{r["Boletales"]} / {r["Agaricales"]} / {r["Hypocreales"]} / {r["other_orders"]}'
-    main.append({"lineage": NAME.get(r["group"], r["group"]).replace(" (T-DNA type)", ""), "family": r["family"], "source (closest bacterial relatives)": SRC[r["group"]], "entry route": ROUTE[r["entry_route"]], "identity to nearest reference, % (intact genes; range, median)": IDENT[r["group"]],
+    main.append({"lineage": NAME.get(r["group"], r["group"]).replace(" (T-DNA type)", ""), "family": r["family"], "source (closest bacterial relatives)": SRC[r["group"]], "entry route": ROUTE[r["entry_route"]], "identity to the closest bacterial protein, % (intact genes)": IDENT[r["group"]],
                  "loci": r["n_loci"], "intact / pseudogene / truncated / fragment": f'{r["intact"]} / {r["pseudogene"]} / {r["truncated"]} / {r["fragment"]}',
                  "assemblies: Boletales / Agaricales / Hypocreales / other orders": byo, "species": r["n_species"]})
 with open(T + "Table2_main.tsv", "w", newline="") as f:

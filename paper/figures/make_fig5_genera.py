@@ -37,7 +37,7 @@ for r in csv.DictReader(open(f'{OUT}/Fig2_genus_counts.tsv'), delimiter='\t'):
     data[r['row']] = r
 def rec(r):
     n = int(r['n_clusters'])
-    k = [(int(r[f'{l}_k_any']), int(r[f'{l}_k_intact'])) for l, _, _ in LIN]
+    k = [(int(r[f'{l}_k_any']), int(r[f'{l}_k_intact']), int(r[f'{l}_k_supported'])) for l, _, _ in LIN]
     return n, k
 known = {g for _, s in SUB for g in s.split()} | set(NA_GEN) | {UNRES}
 other_rows = [g for g, r in data.items() if r['family'] != 'Boletaceae']
@@ -59,7 +59,7 @@ def split(gs):
         lab = f'other genera ({len(rest)}): none\u200b' + '\u200b' * len(OTHER_ROWS)   # unique key, same display
         n = sum(int(data[g]['n_clusters']) for g in rest)
         OTHER_ROWS[lab] = (len(rest), n)
-        data[lab] = {'n_clusters': str(n), **{f'{l}_k_any': '0' for l, _, _ in LIN}, **{f'{l}_k_intact': '0' for l, _, _ in LIN}}
+        data[lab] = {'n_clusters': str(n), **{f'{l}_k_any': '0' for l, _, _ in LIN}, **{f'{l}_k_intact': '0' for l, _, _ in LIN}, **{f'{l}_k_supported': '0' for l, _, _ in LIN}}
         keep.append(lab)
     return keep
 groups = []
@@ -69,21 +69,21 @@ for n, s in SUB:
     groups.append((n, gs))
 na = split(NA_GEN + extra) + [UNRES]
 groups.append((NA_LABEL, na))
-on, ok = 0, [[0, 0] for _ in LIN]
+on, ok = 0, [[0, 0, 0] for _ in LIN]
 for g in other_rows:
     n, k = rec(data[g]); on += n
-    for i, (a, b) in enumerate(k): ok[i][0] += a; ok[i][1] += b
+    for i, (a, b, c) in enumerate(k): ok[i][0] += a; ok[i][1] += b; ok[i][2] += c
 print('other Boletales pooled from', len(other_rows), 'rows;', on, 'clusters')
 R = {}
 for n, gs in groups:
     for g in gs: R[g] = rec(data[g])
 R[OTHER] = (on, [tuple(x) for x in ok])
-KMAX = max(a for n, k in R.values() for a, b in k)
+KMAX = max(t[0] for n, k in R.values() for t in k)
 
 # layout (inches)
 W = 170 / 25.4
 PITCH, HDR, GAP = 0.125, 0.125, 0.07
-TOP, BOT = 0.5, 0.93
+TOP, BOT = 0.5, 1.13
 items = []   # (kind, label, y_centre)
 y = TOP
 for n, gs in groups:
@@ -107,6 +107,7 @@ for j, (lin, short, col) in enumerate(LIN):
 ax.text(X_N, 0.12, 'Species', ha='right', va='top', fontsize=FS, weight='bold')
 ax.plot([0.05, W - 0.05], [TOP - 0.02] * 2, color='#333333', lw=0.5)
 stripe = 0
+DOT = []
 for kind, lab, yc in items:
     if kind == 'hdr':
         ax.text(X_HDR, yc, lab, ha='left', va='center', fontsize=FS, weight='bold', color='#333333')
@@ -126,16 +127,21 @@ for kind, lab, yc in items:
     else:
         ax.text(X_GEN, yc, lab, ha='left', va='center', fontsize=FS, style='italic')
     ax.text(X_N, yc, str(n), ha='right', va='center', fontsize=FS)
-    for j, ((a, b), (_, _, col)) in enumerate(zip(k, LIN)):
+    for j, ((a, b, sp), (_, _, col)) in enumerate(zip(k, LIN)):
         if not a: continue
         r = RMAX * (a / KMAX) ** 0.5
         cx = X0 + j * STEP
-        ax.add_patch(mp.Circle((cx, yc), r, fc='white', ec=col, lw=0.6, zorder=3))
-        if b == a:
-            ax.add_patch(mp.Circle((cx, yc), r, fc=col, ec=col, lw=0.6, zorder=4))
-        elif b:
-            # y axis is inverted: angles measured in data space, so mirror to start at 12 o'clock going clockwise
-            ax.add_patch(mp.Wedge((cx, yc), r, -90 - 360 * b / a, -90, fc=col, ec='none', zorder=4))
+        if sp == 0:   # integration of the loci not assessable: dotted outline, no fill
+            ax.add_patch(mp.Circle((cx, yc), r, fc='none', ec=col, lw=0.7, ls=(0, (1, 1.2)), zorder=3))
+        else:
+            ax.add_patch(mp.Circle((cx, yc), r, fc='white', ec=col, lw=0.6, zorder=3))
+            if b == a:
+                ax.add_patch(mp.Circle((cx, yc), r, fc=col, ec=col, lw=0.6, zorder=4))
+            elif b:
+                # y axis is inverted: angles measured in data space, so mirror to start at 12 o'clock going clockwise
+                ax.add_patch(mp.Wedge((cx, yc), r, -90 - 360 * b / a, -90, fc=col, ec='none', zorder=4))
+        ax.text(cx + RMAX + 0.04, yc, str(a), ha='left', va='center', fontsize=FS - 1.5, color=col, zorder=5)
+        if sp == 0: DOT.append((lab, short.replace('\n', ' '), a))
 # subfamily brackets
 i = 0
 for n, gs in groups:
@@ -145,6 +151,7 @@ for n, gs in groups:
     ax.plot([X_BR, X_BR], [y1, y2], color='#333333', lw=0.9, solid_capstyle='butt')
 # legend
 ly = H - BOT + 0.15
+print('dotted outline:', DOT)
 ax.text(0.1, ly, 'Circle area: number of species with the gene', fontsize=FS, va='center')
 for i, k in enumerate((1, 3, KMAX)):
     xx = 2.75 + i * 0.5
@@ -158,9 +165,12 @@ for i, (fr, lab) in enumerate(((1, 'all intact'), (0.5, 'some intact'), (0, 'pse
     ax.add_patch(mp.Circle((xx, ly2), 0.055, fc='white', ec='#666666', lw=0.6))
     if fr: ax.add_patch(mp.Wedge((xx, ly2), 0.055, -90 - 360 * fr, -90, fc='#666666', ec='none'))
     ax.text(xx + 0.09, ly2, lab, fontsize=FS, va='center')
-ax.text(0.1, ly2 + 0.22, 'Genera are grouped by subfamily; species = species-level clusters; genera without any gene are pooled per subfamily',
+xd = 2.75
+ax.add_patch(mp.Circle((xd, ly2 + 0.22), 0.055, fc='none', ec='#666666', lw=0.7, ls=(0, (1, 1.2))))
+ax.text(xd + 0.09, ly2 + 0.22, 'dotted outline: integration of the loci not assessable (short contigs or contig ends)', fontsize=FS, va='center')
+ax.text(0.1, ly2 + 0.44, 'Genera are grouped by subfamily; species = species-level clusters; genera without any gene are pooled per subfamily',
         fontsize=FS - 0.5, va='center', color='#333333')
-ax.text(0.1, ly2 + 0.40, '(other genera: number of genera; species = their species); other Boletales = all other families and unresolved.',
+ax.text(0.1, ly2 + 0.62, '(other genera: number of genera; species = their species); other Boletales = all other families and unresolved.',
         fontsize=FS - 0.5, va='center', color='#333333')
 for ext, kw in (('png', dict(dpi=int(os.environ.get("FIG_DPI", "300")))), ('svg', {}), ('pdf', {})):
     fig.savefig(f'{OUT}/Fig5_boletales_genera.{ext}', **kw)

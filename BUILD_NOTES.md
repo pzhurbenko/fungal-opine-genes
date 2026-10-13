@@ -74,3 +74,11 @@ their sources being unchanged). Added:
   `analysis/data_checks_20261013/` (notes, scripts, small outputs); `analysis/dnds/extra/` with `cus_Bol/`, `cus_Bol_sp/`, `prep_cusBol.py`.
 * Not shipped (as before): `PATCH_*.md` working notes, per-locus `round2/loci` and `round2/proteins` trees, mash/Dollo files in `boletales_mash_517`.
 * Two scripts (`analysis/expression/summarize.py`, `analysis/dnds/extra/yn00_pairwise_loose.py`) have f-strings the tokenizer-based replacement could not rewrite; edited by hand to `{GMO_ROOT}`.
+
+## Refresh 2026-10-13 night
+
+Only the `paper/` build scripts and tables were re-copied (same filters, same path replacement); nothing else in the repo was touched. Changed:
+* `paper/tables/`: `Table1_funnel.tsv` (the two identity columns merged into one), `build_catalog.py` (simplified IDENT dict) and its output `Table2_main.tsv`.
+* `paper/manuscript_v2/build_manuscript_v2.py`: author block, affiliations and author contributions filled in.
+* `paper/figures/`: `make_fig5_genera.py` (Figure 5 rework) and `Fig2_genus_counts.tsv`.
+* Manuscript text (`draft_v2_*.md`, `manuscript_v2*.md`) and PNG figures are still not shipped, as before.
