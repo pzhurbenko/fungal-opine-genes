@@ -706,6 +706,24 @@ Pairwise comparison of every plant cT-DNA and fungal T-DNA-candidate protein wit
 | identity_to_plant_cTDNA_protein_pct | Identity to the plant cT-DNA protein, % |
 | query_coverage_plant_cTDNA_protein | Fraction of the protein covered by the alignment to the plant cT-DNA protein |
 
+### Table S18. Evidence for each lineage by the three criteria of horizontal transfer and the tests against contamination
+
+File: `TableS18_Evidence_for_each_lineage_by_the_three_criteria_of.tsv` (9 rows, 9 columns); sheet `S18` of Supplementary_Tables.xlsx
+
+The seven lineages of bacterial origin (cus-like split into Boletales and other orders): evidence by the three criteria of the Introduction (rows 1-5), the prerequisite that contamination is excluded (rows 6-7), the fate of the genes (row 8) and the closest sampled relatives (row 9); Table 3 of the main text gives the same lineages in words. Clusters with: the bacterial genes with which the fungal genes group in the tree of the family, with the support of the node that joins them (SH-aLRT/UFBoot, %; the support of the fungal clade itself is in Figure 3 of the main text); the alternative placements rejected by the AU test, and which constraints are informative, are in Tables S11 and S11b. For the pKerr14a-type lineage the grouping node is weakly supported and placement with the acc-type GDPD is not rejected (p = 0.415 and 0.132), so criterion 1 is met with low confidence. Patchy distribution: species with the gene among the species screened (358 species-level clusters of Boletales; 90 species of Fusarium and relatives; Tables S6, S7). Genomic context: a single gene among fungal genes or an island with genes of other acquired lineages (Table S12). Intact genes with introns: genes with at least one intron over all intact genes of the lineage (Table S1a). GC: median difference of the genes' GC from the carrier genome in percentage points (Boletales, from the median of the neighbouring genes; Fusarium, from the assembly) and the number of genes above the 95th percentile of the genome's genes (Table S14); met, at least half of the genes above that percentile or a difference above 5 points; partly, fewer than half; not met otherwise. Contamination excluded by: the tests passed by at least one locus of the lineage: F, fungal genes on both flanks; A, the locus at the same place with the same flanks in an independent assembly of the species (Table S9); S, a gene of the lineage present in several assemblies of the species, flanks not compared; C, the locus on an assembled chromosome; R, read depth equal to the genome and reads spanning the junctions (Table S8); P, no plasmid vir, tra or rep genes on the contig (Table S5b); a letter is omitted when the test was not done. Loci with integration confirmed / supported / not assessable: per-locus status (Table S1a, column integration_status; rules in Methods 2.5 of the main text). omega, dN/dS of the M0 model (Table S15; in parentheses, pairs with dS <= 2); transcription from RNA-seq (Table S16); n.d., not determined. Closest sampled relatives and locus context: affinities, not established sources of transfer. Numbers of loci, assemblies and species are in Table 2 of the main text.
+
+| Column | Description |
+|---|---|
+| Test | Row: criterion, test or summary statistic (see legend) |
+| sus-like | Evidence for the sus-like lineage |
+| cus-like, Boletales | Evidence for the cus-like, Boletales lineage |
+| cus-like, other orders | Evidence for the cus-like, other orders lineage |
+| chs-like | Evidence for the chs-like lineage |
+| acc-type GDPD | Evidence for the acc-type GDPD lineage |
+| pKerr14a-type | Evidence for the pKerr14a-type lineage |
+| nos-subfamily, Boletales | Evidence for the nos-subfamily, Boletales lineage |
+| odh island | Evidence for the odh island lineage |
+
 ## Supplementary Figures
 
 ### Figure S1. Distributions of the statistics underlying the thresholds
