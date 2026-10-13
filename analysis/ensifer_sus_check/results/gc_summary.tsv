@@ -1,0 +1,20 @@
+item	value
+contig	NZ_PVZR01000036.1
+contig_length_bp	60479
+cds_on_contig	51
+target_coords	45794..46879 strand -1
+target_len_bp	1086
+target_parts	1
+gc_gene_pct	58.5
+gc3_gene_pct	77.6
+gc_window_20kb_pct	59.0
+gc_contig_pct	58.5
+gc_genome_pct	61.0
+window_coords	25794..60479
+contig_spades_cov	22.69
+contigs_ge10kb	49
+cov_median_ge10kb	21.66
+cov_lenweighted_mean_ge10kb	20.09
+cov_min_max_ge10kb	15.54..30.51
+gc_median_contigs_ge10kb	60.8
+genome_total_bp	8066211

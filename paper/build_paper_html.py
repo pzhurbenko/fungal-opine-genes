@@ -278,7 +278,7 @@ def main():
     title = m.group(1).strip() if m else 'Manuscript'
     if m:
         text = text[m.end():]
-    n_marks = {k: len(re.findall(r'\[' + k + r'(?::[^\]]*)?\]', text)) for k in ('CHECK', 'REF', 'PENDING')}
+    n_marks = {k: len(re.findall(r'\[' + k + r'(?::[^\]]*)?\]', text)) for k in ('CHECK', 'REF', 'PENDING', 'TO FILL', 'VERIFY WITH AUTHOR')}
 
     toc, used = [], set()
     body = md_to_html(text)
@@ -294,7 +294,7 @@ def main():
 
     today = datetime.date.today().isoformat()
     sub = (f'Manuscript v2 — assembled {today} from manuscript_v2.md — target journal: Biology (MDPI). '
-           f'Open marks: {n_marks["CHECK"]} [CHECK], {n_marks["REF"]} [REF], {n_marks["PENDING"]} [PENDING] '
+           f'Open marks: {n_marks["CHECK"]} [CHECK], {n_marks["REF"]} [REF], {n_marks["PENDING"]} [PENDING], {n_marks["TO FILL"]} [TO FILL], {n_marks["VERIFY WITH AUTHOR"]} [VERIFY WITH AUTHOR] '
            f'(hidden by “clean reading”).')
     page = PAGE.format(title=esc(title), sub=esc(sub), toc=build_toc(toc), body=body,
                        supp_id=supp_id, supp=supp, css=CSS, js=JS)
@@ -366,7 +366,7 @@ PAGE = """<!DOCTYPE html>
 <h1>{title}</h1><div class="sub">{sub}</div>
 <div id="top"><label><input type="checkbox" id="clean"> clean reading (hide marks)</label>
 <span class="legend"><b>Marks for the co-author:</b> <mark class="flag f-chk">[CHECK]</mark> verify
-<mark class="flag f-ref">[REF]</mark> reference needed <mark class="flag f-todo">[PENDING]</mark> not done</span></div>
+<mark class="flag f-ref">[REF]</mark> reference needed <mark class="flag f-todo">[PENDING]</mark> not done <mark class="flag f-todo">[TO FILL]</mark> authors to fill in <mark class="flag f-chk">[VERIFY WITH AUTHOR]</mark> reference to verify</span></div>
 {body}
 <h2 id="{supp_id}">Supplementary tables, figures and data</h2>
 {supp}

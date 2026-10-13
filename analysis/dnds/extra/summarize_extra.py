@@ -5,7 +5,7 @@ from gmo_paths import GMO_ROOT  # noqa: E402
 import re, statistics, os
 from scipy.stats import chi2
 X = f'{GMO_ROOT}/analysis/dnds/extra'
-SETS = ['chs', 'odh', 'pepP', 'g3', 'nosODH_Bol', 'cus_nonBol', 'cus_nonBol_sp', 'acs_pKerr14a']
+SETS = ['chs', 'odh', 'pepP', 'g3', 'nosODH_Bol', 'cus_nonBol', 'cus_nonBol_sp', 'acs_pKerr14a', 'cus_Bol', 'cus_Bol_sp']
 def sites(p):
     try: return int(open(p).readline().split()[1]) // 3
     except Exception: return ''

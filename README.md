@@ -16,7 +16,7 @@ all figures, tables and supplementary files.
 | `analysis/` | One folder per analysis step used in the paper (same relative structure as in the working project): `refset/` (seeds, plasmid catalogue, protein screen, step 2/3 screens of other orders), `funnel/`, `loci_pipeline/` (registry, guides, round-2 table), `trees_final/` (alignments, ML trees, AU tests), `chs_fusarium/`, `fusarium_odh_island/`, `pleurotus_gdpd/`, `fold/` (ColabFold, FoldMason), `dnds/`, `conservation/`, `composition/`, `islands/`, `island_order/`, `synteny/islands_hq/`, `indep_assemblies/`, `read_coverage/`, `expression/`, `boletales_mash_517/`, `thresholds/`, `ctdna_plants_identity/`, `report_A/`, `report_B/`, `clustering/scripts/`, `curated/` |
 | `paper/figures/` | Figure scripts (`make_fig*.py`, `make_figS*.py`, `common.py`), `export_tiff.py`, small plot inputs |
 | `paper/tables/` | `build_table1.py`, `build_catalog.py`, `check_order.py` and the main tables / catalogue inputs |
-| `paper/supplementary/` | `build_supplementary.py`, supplementary tables S1-S17, Data S1 (proteins of the loci), Data S3 (screened assemblies), tree files |
+| `paper/supplementary/` | `build_supplementary.py`, supplementary tables S1-S17, Data S1 (proteins of the loci), Data S2b (AU constraints, tar.gz), Data S3 (screened assemblies), tree files |
 | `paper/rebuild_all.sh` | Rebuilds figures (300 dpi PNG and 600 dpi TIFF), supplementary tables and, if the manuscript text is present, the manuscript files |
 | `docs/methods_extended.md` | Extended Methods |
 | `data/` | Small inputs only (BLAST hit table, representative sequences, assembly accession lists, proteome download script) |
@@ -88,6 +88,12 @@ are produced by `paper/tables/build_table1.py` and `build_catalog.py`; the funne
 The assemblies and proteomes analysed are public NCBI records; their accessions are listed in
 `paper/supplementary/Data_S3_screened_assemblies.tsv` (Data S3) and, for subsets, in `data/fungal_genomes/` and
 `analysis/refset/screen/`. Proteins of all loci of bacterial origin are in `paper/supplementary/Data_S1_proteins_of_loci_of_bacterial_origin.faa`.
+Further tables: Table S1d (sensitivity of the lineage counts to the integration status of the loci; computed by
+`paper/tables/integration_status.py` and `sensitivity_uncertain_loci.py`, outputs `integration_status*.tsv`), Table S11b (mapping of each
+AU constraint to the biological alternative it tests; `analysis/au_mapping/`, `paper/supplementary/TableS11_constraint_mapping.tsv` with legend) and
+Data S2b (constraint files, alignments and reports of the AU tests: `paper/supplementary/data/Data_S2b_AU_constraints.tar.gz`, file list in
+`paper/supplementary/data/au_constraints/MANIFEST.tsv`). Additional checks from the review response are in `analysis/pkerr14a_borders/`,
+`analysis/ensifer_sus_check/`, `analysis/data_checks_20261013/` and `analysis/dnds/extra/` (dN/dS of cus-like Boletales genes, `cus_Bol*`).
 Raw genomes, reads and the NCBI nr database are not redistributed.
 
 ## Licences

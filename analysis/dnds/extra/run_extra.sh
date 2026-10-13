@@ -29,5 +29,5 @@ Phylo.write(t,'$FAM.tree.nwk','newick')"
   fi
   echo "$FAM done N=$N $(date)"
 }
-for F in chs odh pepP g3 nosODH_Bol cus_nonBol cus_nonBol_sp acs_pKerr14a; do one $F > $X/$F.run.log 2>&1 & done
-wait; echo "EXTRA_DONE $(date)" >> $X/timing.txt
+for F in cus_Bol cus_Bol_sp; do one $F > $X/$F.run.log 2>&1 & done
+wait; echo "EXTRA_BOL_DONE $(date)" >> $X/timing.txt

@@ -23,6 +23,12 @@ FAM = {"ACS": "GDPD", "CUS": "cucumopine synthase (Cus)", "SUS": "OCD fold (Sus)
 def NOTE_FIX(v):
     v = v.replace("at the rule-B threshold", "at the identity threshold of T-DNA candidates")
     return re.sub(r"\s*\(20\d\d-\d\d-\d\d\)", "", v)
+# 2026-10-13w: row-level notes added to the catalogue notes (S1b, hence S1a) and to S10b / S12
+SPLIT_NOTE = "merged AUGUSTUS model split into two genes by HMM envelope (GDPD and mis); coordinates re-derived with miniprot"
+MIS_NOTE = "AUGUSTUS had merged this gene with the nos-subfamily pseudogene 3.9 kb downstream (ODH_JBBPKX010000014.1); model re-derived as the single-exon ORF 13898-15079"
+ODH_NOTE = "lies 3.9 kb downstream of the mis-group gene CUS_JBBPKX010000014_S2L2 (13898-15079), same strand; three nonsense mutations (Gln codons in the intact sisters)"
+NOTE_ADD = {"ACS_JBBPKL010003317_L1": SPLIT_NOTE, "CUS_JBBPKL010003317_S2L1": SPLIT_NOTE, "ODH_JBBPKX010000014.1": ODH_NOTE, "CUS_JBBPKX010000014_S2L2": MIS_NOTE}
+def add_note(old, new): return (old + "; " + new) if old else new
 DETMAP = {"Table S1 (profile screen)": "Table S1b (profile screen)", "Table S12a": "Table S13a", "Table S14a": "Table S13b", "Table S11b": "Table S10b", "Table S3b": "Table S3"}
 SUBG = {"kerr14": "pKerr14a-type acs-like", "gdpd_meso": "acc-type GDPD",
         "cus_actinobacteria": "actinobacterial-type", "sus": "sus-like", "cus": "cus-like",
@@ -114,6 +120,7 @@ s1 = []
 for r in rd(G + "/paper/tables/TableS1_all_lineages.tsv"):
     c = _cat.get(r["locus_id"], {})
     row = dict(r)
+    if r["locus_id"] in NOTE_ADD: row["note"] = add_note(r["note"], NOTE_ADD[r["locus_id"]])
     row["lineage_of_bacterial_origin"] = r["lineage"].replace(" (not placed)", "") in MAIN_RAW
     assert row["lineage_of_bacterial_origin"] == r["origin"].startswith(("T-DNA", "non-T-DNA")), r["locus_id"]
     row["basis"] = c.get("basis", "")
@@ -125,6 +132,13 @@ for r in rd(G + "/paper/tables/TableS1_all_lineages.tsv"):
 assert len(s1) == 2864, len(s1)
 s1_note = {}
 PLEN_DESC = "Length of the fungal protein model, aa (for loci with a sequence in Data S1 it equals the length of that sequence; blank where no model could be built; for profile-screen loci with a gene model, the length of that model)"
+# 2026-10-13af: Table S1d - sensitivity of the counts to the integration status (paper/tables/sensitivity_uncertain_loci.py)
+_sens = rd(G + "/paper/tables/sensitivity_uncertain_loci.tsv")
+add("S1d", "Sensitivity of the lineage counts to the integration status of the loci",
+    "The counts of Table 2 (loci, intact loci, carrier species and assemblies per lineage) and the inputs of Figure 5 (genus rows and species-level clusters of Boletales with the lineage, and with an intact copy) "
+    "computed from all 254 loci placed on the trees (column all_loci) and from the loci whose integration in the fungal genome is confirmed or supported only (column confirmed_supported_only; Table S1a, column integration_status).",
+    _sens, [("lineage", "lineage", "Lineage (prefixed by the table or figure the metric belongs to)"), ("metric", "metric", "Metric"),
+            ("all_loci", "all_loci", "Value over all 254 loci"), ("confirmed_supported_only", "confirmed_supported_only", "Value over the confirmed and supported loci only")])
 add("S1b", "Complete catalogue of loci",
     "All loci of all lineages found in fungal genomes by the two routes of the screen: the profile screen (HMM/tblastn) of the "
     "GDPD, Cus and Sus families, and the targeted scans (chs-like loci, odh island, nos-subfamily opine dehydrogenases; "
@@ -474,7 +488,7 @@ for f, fn in FILES.items():
         else:
             hyp = HYP[f][i - 1]
         p = float(pau)
-        rows5.append({"fam": FAM[f], "n": i, "hyp": hyp, "lnl": lg, "dl": dl, "p": pau,
+        rows5.append({"fam": FAM[f], "n": i, "hyp": hyp, "lnl": lg, "dl": dl, "p": pau, "cid": f"{f}-{i}",
                       "v": "reference" if i == 0 else ("rejected" if p < 0.05 else "not rejected")})
 add("S5", "Approximately unbiased (AU) topology tests",
     "AU tests of constrained topologies against the unconstrained ML tree, per family (IQ-TREE, 10,000 RELL resamplings). "
@@ -485,7 +499,20 @@ add("S5", "Approximately unbiased (AU) topology tests",
         ("fam", "family", "Protein family"), ("n", "tree_number", "Tree number in the IQ-TREE user-tree set (0 = unconstrained ML tree)"),
         ("hyp", "tested_topology_constraint", "Tested topology (constraint)"), ("lnl", "logL", "Log-likelihood of the tree"),
         ("dl", "deltaL", "Log-likelihood difference from the best tree in the set"), ("p", "p_AU", "p-value of the AU test"),
-        ("v", "verdict", "rejected / not rejected (p-AU < 0.05)")])
+        ("v", "verdict", "rejected / not rejected (p-AU < 0.05)"),
+        ("cid", "constraint_id", "Identifier of the constraint (run code and tree number); key to Table S11b and Data S2b")])
+# 2026-10-13af: Table S11b - mapping of the AU constraints to the biological alternatives (reviewer point 3; TableS11_constraint_mapping.tsv by build_au_mapping.py)
+_map = rd(OUT + "/TableS11_constraint_mapping.tsv")
+assert len(_map) == 60, len(_map)
+_leg = open(OUT + "/TableS11_constraint_mapping_LEGEND.md", encoding="utf-8").read().strip()
+_leg = re.sub(r"^\*\*Table S11b\.[^*]*\*\*\s*", "", _leg).replace("\n", " ")
+_MAPDESC = {"constraint_id": "Identifier of the constraint (run code and tree number), as in Table S11 and Data S2b", "family": "Protein family", "tree_number": "Tree number in the IQ-TREE user-tree set",
+            "tested_topology_constraint": "Tested topology (constraint), as in Table S11", "p_AU": "p-value of the AU test", "deltaL": "Log-likelihood difference from the best tree", "verdict": "rejected / not rejected (p-AU < 0.05)",
+            "biological_alternative": "The biological alternative the constraint tests", "constraint_definition": "Leaf sets forced into one clade (all other leaves free)", "constraint_leaves": "Number of leaves in the forced clade",
+            "candidate_leaves": "Number of fungal genes under test in the forced clade", "partner_leaves": "Number of partner leaves in the forced clade", "partner_set_monophyletic_in_ML_tree": "Whether the partner set is monophyletic in the unconstrained ML tree",
+            "native_fungal_set_in_constraint": "Whether the constraint includes a native fungal set", "native_set_monophyletic_in_ML_tree": "Whether that native set is monophyletic in the unconstrained ML tree",
+            "interpretation": "What rejection or non-rejection of the constraint allows one to conclude", "caveat": "Caveat on the interpretation (e.g. the native set is not itself monophyletic)", "constraint_file": "Constraint tree file in Data S2b"}
+add("S5b", "Mapping of the AU constraints to the biological alternatives they test", _leg, _map, [(c, c, _MAPDESC.get(c, c.replace("_", " "))) for c in _map[0].keys()])
 
 # ---------------------------------------------------------------- S6
 cov = [r for r in rd(A + "/report_A/tables/locus_coverage.tsv") if r["fam"] in FAM]
@@ -540,6 +567,7 @@ for r in isl:
 isl = [r for r in isl if "ORF358" not in r["kind"]]
 for r in isl:   # gene identifiers g<n> are unique only within a contig: prefix with the contig
     if re.match(r"g\d+$", r["gene"]): r["gene"] = r["island_contig"] + ":" + r["gene"]
+    r["note"] = MIS_NOTE if r["gene"] in ("T_CUS_JBBPKX010000014_S2L2", "JBBPKX010000014:g4") else ""
 add("S8", "Gene content of the islands",
     "Genes on the contigs carrying the loci (focal loci and their annotated neighbours), with the best match to plasmid (T-DNA/Ti/Ri) proteins where found. "
     "Neighbouring genes are named <contig>:g<n> (the number is unique only within a contig).",
@@ -553,7 +581,7 @@ add("S8", "Gene content of the islands",
         ("in_TDNA", "match_in_T-DNA", "Whether the matched plasmid gene lies in a T-DNA (yes/no)"),
         ("plasmid_start", "plasmid_match_start", "Start of the match on the plasmid record"), ("plasmid_end", "plasmid_match_end", "End of the match on the plasmid record"),
         ("pident", "identity_pct", "Identity of the match, %"), ("qcov", "query_coverage", "Query coverage of the match"),
-        ("evalue", "evalue", "E-value of the match")])
+        ("evalue", "evalue", "E-value of the match"), ("note", "note", "Comment on the row")])
 
 # ---------------------------------------------------------------- S9
 dn = rd(A + "/report_B/tables/dnds_summary.tsv")
@@ -661,6 +689,7 @@ for r in od:
     c = cat_odh[r["contig"]]
     r["lineage"], r["status"] = c["lineage"], c["status"]
     r["catalog_note"] = "" if c["note"].startswith("best plasmid protein") else c["note"]
+    if "ODH_" + r["contig"] in NOTE_ADD: r["catalog_note"] = add_note(r["catalog_note"], NOTE_ADD["ODH_" + r["contig"]])
 add("S11b", "Opine dehydrogenase-like loci in Boletales assemblies",
     "Loci in Boletales assemblies matching bacterial opine (nopaline) dehydrogenase queries.", od, [
         ("gca", "assembly", "Genome assembly accession"), ("organism", "organism", "Organism"), ("contig", "contig", "Contig"),
@@ -671,7 +700,7 @@ add("S11b", "Opine dehydrogenase-like loci in Boletales assemblies",
         ("contig_has_carrier_locus", "contig_carries_lineage_locus", "1 if the same contig carries such a locus"),
         ("carrier_lineages_on_contig", "lineages_on_contig", "Lineages of loci on the same contig", clean),
         ("lineage", "lineage", "Lineage in the catalogue (Table S1b); '(profile only)' = locus not placed on the nos tree"),
-        ("status", "status", "Gene-model state (as in Table S1b)"), ("catalog_note", "note", "Reason for a manual reclassification")])
+        ("status", "status", "Gene-model state (as in Table S1b)"), ("catalog_note", "note", "Reason for a manual reclassification, or other comment on the locus")])
 
 # ---------------------------------------------------------------- S12
 CH = A + "/chs_fusarium"
@@ -903,7 +932,8 @@ add("S15c", "vir, tra and rep genes in the Boletales assemblies",
 # ---------------------------------------------------------------- S16 (dN/dS of the remaining lineages; journal 2026-10-12 dnds_extra)
 SET17 = {"chs": "chs-like", "odh": "odh island: odh", "pepP": "odh island: pepP", "g3": "odh island: orf3",
          "nosODH_Bol": "nos-subfamily opine dehydrogenase (Boletales)", "cus_nonBol": "cus-like, outside Boletales (all intact copies)",
-         "cus_nonBol_sp": "cus-like, outside Boletales (one copy per species)", "acs_pKerr14a": "pKerr14a-type acs-like"}
+         "cus_nonBol_sp": "cus-like, outside Boletales (one copy per species)", "acs_pKerr14a": "pKerr14a-type acs-like",
+         "cus_Bol": "cus-like, Boletales (all intact copies)", "cus_Bol_sp": "cus-like, Boletales (one copy per species)"}
 s17 = rd(A + "/dnds/extra/summary.tsv")
 for r in s17: r["set_name"] = SET17.get(r["set"], r["set"])
 s17.sort(key=lambda r: lineage_rank(r["set_name"].split(",")[0].split(" (")[0] if r["set"].startswith("cus") else r["set_name"]))
@@ -1042,6 +1072,17 @@ for f in ("ACS", "CUS", "SUS"):
     for suffix in ("_remnants_fragments", "_models"):   # models take precedence
         for k, (h, sq) in read_fa(PRT + f + suffix + ".faa").items():
             prof_prot[k] = (sq, "models" if suffix == "_models" else "remnants_fragments")
+# 2026-10-13w: JBBPKL010003317 - the merged AUGUSTUS model (657 aa) is replaced by the two proteins split by the HMM envelope (251 aa GDPD, 203 aa mis);
+# coordinates re-derived with miniprot (analysis/data_checks_20261013/work/split.gff)
+SPLIT_SEQ = {}
+for _l in open(A + "/curated/split_models/JBBPKL010003317_ACS_CUS_split_by_HMM_envelope.faa"):
+    _l = _l.rstrip()
+    if _l.startswith(">"): _k = _l[1:].split("__")[1]; SPLIT_SEQ[_k] = ""
+    else: SPLIT_SEQ[_k] += _l
+_l2 = [x.rstrip() for x in open(A + "/curated/split_models/JBBPKX010000014_CUS_S2L2_single_exon_ORF_13898-15079.faa")]
+SPLIT_SEQ["CUS_JBBPKX010000014_S2L2"] = "".join(_l2[1:])   # 2026-10-13w: AUGUSTUS model (616 aa) merged this gene with the nos-subfamily pseudogene; single-exon ORF 13898-15079 (-)
+assert sorted(SPLIT_SEQ) == ["ACS_JBBPKL010003317_L1", "CUS_JBBPKL010003317_S2L1", "CUS_JBBPKX010000014_S2L2"] and [len(v) for _, v in sorted(SPLIT_SEQ.items())] == [251, 203, 393]
+for _k, _v in SPLIT_SEQ.items(): prof_prot[_k] = (_v, "models")
 def mp_translation(gff, contig, start, end, strand):
     sta = ""
     with open(gff) as fh:
@@ -1102,6 +1143,7 @@ print("protein_length_aa: changed for", sum(len_changed.values()), "loci (lineag
 models_seq = {}
 for f in ("ACS", "CUS", "SUS"):
     for k, (h, sq) in read_fa(PRT + f + "_models.faa").items(): models_seq[k] = sq
+models_seq.update(SPLIT_SEQ)   # 2026-10-13w
 _cat_ids = {r["locus_id"] for r in s1b_rows}
 _nb_new = _nb_m1 = 0
 for r in s1b_rows:
@@ -1134,11 +1176,27 @@ print("Data S1:", n_prot, "sequences", dict(src_cnt), "; without protein:", n_no
 ln_np = collections.Counter(r["lineage_clean"] for r in s1a)
 print("S1a loci by lineage:", sorted(ln_np.items()))
 n_frag = len(s1a_all) - len(s1a)
+# 2026-10-13af: integration status per locus (paper/tables/integration_status.py; reviewer point 4)
+INTST = {r["locus_id"]: r["status"] for r in rd(G + "/paper/tables/integration_status.tsv")}
+assert set(INTST) == {o["locus_id"] for o in s1a}, "integration_status.tsv out of date: run paper/tables/integration_status.py"
+for o in s1a: o["integration_status"] = INTST[o["locus_id"]]
+print("S1a integration status:", collections.Counter(INTST.values()))
 add("S1a", "Loci of bacterial origin",
-    "The %d loci of the seven lineages of bacterial origin placed on the phylogenetic trees (three T-DNA lineages, four non-T-DNA rhizobial lineages) - one row per locus, "
+    "The %d loci of the seven lineages of bacterial origin placed on the phylogenetic trees (named after their closest bacterial relatives) - one row per locus, "
     "with coordinates, structural status, the route of detection and the supplementary tables in which the locus appears. "
     "The %d additional fragments and remnants of the same lineages assigned by HMM profile only (not placed on a tree) are listed in Table S1b "
-    "(lineage_of_bacterial_origin = True, lineage with the suffix '(profile only)'). Protein sequences in Data S1 (%d of the %d loci)." % (len(s1a), n_frag, n_prot, len(s1a)),
+    "(lineage_of_bacterial_origin = True, lineage with the suffix '(profile only)'). Protein sequences in Data S1 (%d of the %d loci)." % (len(s1a), n_frag, n_prot, len(s1a)) +
+    " Integration status (column integration_status), assigned by fixed rules from Tables S1a, S8, S9, S12, S13a, S13b: "
+    "confirmed = at least one of (i) fungal genes on both flanks (genomic_context = fungal context, or annotated genes on both sides of the locus in Table S12), "
+    "(ii) reproduction with both flanks in an independent assembly (Table S9: locus and both flanks covered >= 0.5), "
+    "(iii) read-depth ratio of the locus 0.5-2 with junction reads on both flanks (Table S8), "
+    "(iv) for chs-like and odh-island loci, a chromosome-level sequence (Tables S13a, S13b) with the locus >1 kb from both ends, or "
+    "(v) the same gene present in two or more assemblies of the species (Tables S13a, S13b), the locus being neither on a contig shorter than the locus plus 2 kb nor at a contig end; "
+    "supported = a fungal gene on one flank only (genomic_context = mixed, or Table S12 genes on one side), read-depth ratio 0.5-2 without junction reads on both flanks, "
+    "or a contig of at least 100 kb with the locus not at a contig end and a depth ratio not outside 0.5-2; "
+    "uncertain = none of the above and either a contig shorter than the locus plus 1 kb on each side, a locus touching a contig end, "
+    "a depth ratio < 0.5 or > 2 without other support, or no neighbour information. Rules are applied in the order confirmed, then uncertain by contig geometry, then supported; "
+    "the per-locus rule tags are in paper/tables/integration_status.tsv of the code repository.",
     s1a, [
         ("locus_id", "locus_id", "Locus identifier (as in Table S1b and in the headers of Data S1)"),
         ("lineage_clean", "lineage", "Lineage of bacterial origin (seven lineages; the odh island has three genes)"),
@@ -1150,6 +1208,7 @@ add("S1a", "Loci of bacterial origin",
         ("start", "start", "Locus start on the contig (1-based)"), ("end", "end", "Locus end on the contig"), ("strand", "strand", "Strand"),
         ("n_exons", "n_exons", "Number of exons in the gene model"), ("protein_length_aa", "protein_length_aa", PLEN_DESC),
         ("genomic_context", "genomic_context", "Flanking-gene context call (fungal, mixed, bacterial, short contig, no neighbours)"),
+        ("integration_status", "integration_status", "Integration status of the locus in the fungal genome: confirmed, supported or uncertain (rules in the table legend)"),
         ("detection_route", "detection_route", "Route by which the locus was found: profile screen, targeted scan (miniprot), blastx of plasmid proteins, or protein-level screen"),
         ("detailed_in", "detailed_in", "Table with the per-locus details of the corresponding screen"),
         ("evidence_tables", "evidence_tables", "Supplementary tables in which the locus appears: by locus_id (S8, S14, S13a, S13b, S16), by contig and assembly (S9, S12, S10b, S5a; contig-level, "
@@ -1218,11 +1277,17 @@ pr14, cols14 = proj(comp, S14_SPEC)
 
 # ---- S15: dN/dS of all lineages
 d9 = OLD["S9a"][4]; d16 = OLD["S16"][4]
+def loose_sf(fam):
+    # <=20%-gap codeml M0 run of the sus-like / cus-like (all intact copies) sets (analysis/dnds/loose; same CDS, alignment and tree as the strict run, checked 2026-10-13)
+    import re as _re
+    w = _re.search(r"omega \(dN/dS\) =\s*([\d.]+)", open(A + "/dnds/loose/%s.M0.out" % fam).read()).group(1)
+    return str(int(open(A + "/dnds/loose/%s.codon.phy" % fam).readline().split()[1]) // 3), w
+LOOSE15 = {"OCD fold (Sus)": loose_sf("SUS"), "cucumopine synthase (Cus)": loose_sf("CUS")}
 def dn_rows():
     out = []
     for r in d9:
         out.append({"gene_set": {"OCD fold (Sus)": "sus-like", "cucumopine synthase (Cus)": "cus-like (all intact copies)"}.get(r["family"], r["family"]),
-                    "n": r["n_sequences"], "cs": r["codon_sites"], "cl": "", "m0s": r["omega_M0"], "m0l": "", "lrt": r["LRT_2dlnL_M7_vs_M8"], "p78": r["p_M7_vs_M8"],
+                    "n": r["n_sequences"], "cs": r["codon_sites"], "cl": LOOSE15[r["family"]][0], "m0s": r["omega_M0"], "m0l": LOOSE15[r["family"]][1], "lrt": r["LRT_2dlnL_M7_vs_M8"], "p78": r["p_M7_vs_M8"],
                     "p8a": r["p_M8a_vs_M8"], "beb": r["positively_selected_sites_BEB_gt_0.95"], "yn": r["pairwise_median_dNdS_yn00"], "yn2": "", "gt2": "", "np": r["pairwise_comparisons_yn00"]})
     for r in d16:
         out.append({"gene_set": r["gene_set"], "n": r["n_CDS"], "cs": r["codons_strict"], "cl": r["codons_le20pct_gaps"], "m0s": r["M0_omega_strict"], "m0l": r["M0_omega_le20pct_gaps"],
@@ -1230,10 +1295,10 @@ def dn_rows():
                     "yn2": r["yn00_strict_dNdS_median_dS_le2"], "gt2": r["yn00_strict_pairs_dS_gt2"], "np": r["yn00_strict_pairs_used"]})
     return out
 dn_all = dn_rows()
-assert len(dn_all) == 10, len(dn_all)
+assert len(dn_all) == 12, len(dn_all)
 S15_SPEC = [
     ("gene_set", "gene_set", "Gene set (intact copies; CDS of the Boletales nos-subfamily ODH from miniprot models)"), ("n", "n_sequences", "Number of CDS"),
-    ("cs", "codons_strict", "Codons in the alignment without gap columns"), ("cl", "codons_le20pct_gaps", "Codons in the alignment with <=20% gaps per column (blank for sus-like and cus-like, for which only the strict alignment was analysed)"),
+    ("cs", "codons_strict", "Codons in the alignment without gap columns"), ("cl", "codons_le20pct_gaps", "Codons in the alignment with <=20% gaps per column"),
     ("m0s", "omega_M0_strict", "codeml M0 omega, strict alignment"), ("m0l", "omega_M0_le20pct_gaps", "codeml M0 omega, <=20% gaps alignment"),
     ("lrt", "LRT_M7_vs_M8", "Likelihood-ratio statistic, model M7 vs M8"), ("p78", "p_M7_vs_M8", "p-value, M7 vs M8"), ("p8a", "p_M8a_vs_M8", "p-value, M8a vs M8"),
     ("beb", "BEB_sites_P_gt_0.95", "Sites under positive selection (Bayes empirical Bayes posterior > 0.95) under M8"),
@@ -1287,14 +1352,14 @@ pr16 = [{k: r.get(k, "") for k, _, _ in S16_SPEC} for r in rows16]
 assert len(pr16) == len(OLD["S13"][4]) + len(OLD["S12c"][4]) + len(OLD["S14d"][4])
 
 # ---- assemble in the new order
-moved("S1a", "S1a"); moved("S1b", "S1b"); moved("S1c", "S18", title="Summary of the catalogue by group")
+moved("S1a", "S1a"); moved("S1b", "S1b"); moved("S1c", "S18", title="Summary of the catalogue by group"); moved("S1d", "S1d")
 moved("S2", "S2"); moved("S3", "S3b"); moved("S4", "S15a"); moved("S5a", "S15b")
 moved("S5b", "S15c"); moved("S6", "S4")
 FINAL.append(("S7", "The 324 assemblies of Fusarium, Neocosmospora and Dactylonectria",
     "The 324 genome assemblies of Fusarium, Neocosmospora and Dactylonectria screened for the chs-like gene and for the three genes of the odh island (odh, pepP, orf3): "
     "one row per assembly with the state of each gene and the number of loci (%d assemblies carry a chs-like locus, %d carry genes of the odh island; loci in Tables S13a and S13b)."
     % (sum(r["chs_like_status"] != "absent" for r in f324), sum(any(r[k] != "absent" for k in ("odh_status", "pepP_status", "orf3_status")) for r in f324)), cols, pr))
-moved("S8", "S6"); moved("S9", "S7"); moved("S10a", "S11a"); moved("S10b", "S11b"); moved("S11", "S5"); moved("S12", "S8")
+moved("S8", "S6"); moved("S9", "S7"); moved("S10a", "S11a"); moved("S10b", "S11b"); moved("S11", "S5"); moved("S11b", "S5b"); moved("S12", "S8")
 moved("S13a", "S12a"); moved("S13b", "S14a"); moved("S13c", "S14c")
 FINAL.append(("S14", "Nucleotide composition of the loci and of bacterial reference genes",
     "GC and GC3 of the intact fungal locus CDSs (sus-like, cus-like, acc-type GDPD, pKerr14a-type and nos-subfamily loci of Boletales, two nos-subfamily pseudogenes included) compared with background genes of the same genome and with a pooled Boletales gene set; "
@@ -1302,8 +1367,8 @@ FINAL.append(("S14", "Nucleotide composition of the loci and of bacterial refere
     "One row per locus or reference gene.", cols14, pr14))
 FINAL.append(("S15", "dN/dS of the intact genes of all lineages",
     "Codon-model tests of selection (PAML codeml M0, M7/M8, M8a; pairwise yn00) on the intact copies of each lineage with at least two copies of a gene, on codon alignments (MAFFT, IQ-TREE tree). "
-    "The sus-like and cus-like rows (all intact copies) were analysed on the strict alignment only; the remaining rows on both the strict alignment and the alignment with <=20% gaps per column. "
-    "cus-like outside Boletales is given for all intact copies and for one copy per species. One row per gene set.", cols15, pr15))
+    "For the sus-like and cus-like rows (all intact copies) the <=20%-gap alignment was analysed with codeml M0 only (same sequences and tree as the strict run); the remaining rows were analysed on both alignments with all tests. "
+    "cus-like is given for all intact copies, and separately for Boletales and for outside Boletales, each for all intact copies and for one copy per species (longest CDS of each species for the Boletales set). One row per gene set.", cols15, pr15))
 FINAL.append(("S16", "RNA-seq at the loci: Boletaceae, Fusarium chs-like locus and Fusarium poae odh island",
     "Expression of the loci in public RNA-seq runs, in three datasets (column dataset): Boletaceae (reads mapped to the loci of the corresponding assemblies), the chs-like locus in the Fusarium reference strains and the genes of the odh island in F. poae Fp133 "
     "(first 10 million reads of each run mapped to the Fp133 assembly). Columns that apply to only some datasets are marked; blank = not applicable. One row per run and locus.", [(c, d) for _, c, d in S16_SPEC], pr16))
@@ -1355,7 +1420,7 @@ FIGS = [("S1", "Distributions of the statistics underlying the thresholds", "fig
          "In panel (b) of Figure 3 one native fungal gene detected by the cus profile (Boletus austroedulis; excluded from the analysis) is omitted from the schematic; it is labelled here as \"native fungal gene, excluded\". Supports, rooting and scale as in Figure S2; because of the size of the tree the labels are small and the vector files (.svg, .pdf) should be used for reading. Data S2: cus.*."),
         ("S4", "Full tree of the M24 aminopeptidase family (Chs, Ags)", "figures/FigureS4_tree_chs.png",
          "The Fusarium chs-like genes are sister to the Ti-plasmid chs clade and are not nested within it. Full maximum-likelihood tree of the M24 aminopeptidase family (58 sequences, 687 sites, Q.PFAM+I+G4), from which panel (c) of Figure 3 was collapsed: "
-         "Fusarium and Dactylonectria chs-like genes, Ti-plasmid chs clade (chs seed of pTi14-818c and four other agrobacterial chs), native fungal Ags homologs, other bacterial M24 aminopeptidases; rooted on the ags seed. Supports and scale as in Figure S2. Data S2: chs.*."),
+         "Fusarium and Dactylonectria chs-like genes, Ti-plasmid chs clade (the chs of pTi14-818c and other agrobacterial chs), native fungal Ags homologs, other bacterial M24 aminopeptidases; rooted on the ags seed. Supports and scale as in Figure S2. Data S2: chs.*."),
         ("S5", "Full tree of the GDPD family", "figures/FigureS5_tree_gdpd.png",
          "The acc-type and pKerr14a-type GDPD genes group with the GDPD of rhizobial acc-like loci and with the acs of pKerr14a, respectively, and not with the T-DNA acs clade. Full maximum-likelihood tree of the GDPD family (259 sequences, 989 sites, JTT+R5), from which panel (d) of Figure 3 was collapsed: "
          "T-DNA acs clade, acc-type GDPD with the bacterial acc-locus references, pKerr14a-type acs-like with the acs of pKerr14a and the Parasponia cT-DNA fragment, native fungal GDPD, fungal GDPD of unresolved position, outgroup. Supports, rooting and scale as in Figure S2. Data S2: gdpd.*."),
@@ -1372,11 +1437,11 @@ FIGS = [("S1", "Distributions of the statistics underlying the thresholds", "fig
          "A tree built from predicted protein structures reproduces the sequence-based GDPD lineages. Maximum-likelihood tree built from the structural alignment (FoldMason, 3Di and amino-acid alphabets) of ColabFold models of the GDPD family (Methods 2.6). Shaded: the T-DNA acs references, the acc-type lineage (48 fungal genes with the acc-locus references) and the pKerr14a-type lineage (fungal genes with the acs of pKerr14a and the Parasponia cT-DNA fragment). "
          "Leaf colours: fungal loci (intact, pseudogene-like), T-DNA and plant cT-DNA references, bacterial references, native fungal homologs, outgroup."),
         ("S10", "All opine islands of Boletaceae", "figures/FigureS10_islands.png",
-         "All opine islands of Boletaceae: the 12 contigs (6 assemblies of 5 species or species-level taxa) carrying two or more loci of bacterial type at distinct positions (Table S12), drawn to a common scale as in Figure 4a; "
+         "All opine islands of Boletaceae: the 13 contigs (7 assemblies of 6 species or species-level taxa) carrying two or more loci of bacterial type at distinct positions (Table S12), drawn to a common scale as in Figure 4a; "
          "each window spans the loci with 12 kb on each side (within the gene set of Table S12). Genes of the lineages of bacterial origin (sus-like, cus-like, acc-type GDPD, nos-subfamily opine dehydrogenase) are coloured as in Figure 4; loci of the nos-subfamily opine dehydrogenase lineage, found by blastx and therefore absent from Table S12, are included (Table S1b; contigs with such a locus and no other locus of bacterial type are not shown); "
          "other genes of bacterial type (mis group; other bacterial-type ORF) and the GDPD gene of unresolved position are shown in separate colours (legend); fungal neighbour genes grey; transposases and integrases black; dashed outline, pseudogene, fragment or remnant. "
          "Lineages and gene states are those of Table S1b. Arrows show the strand. Repeats are not drawn, because repeat annotation exists only for the contigs of Figure 4a. "
-         "Contigs with a single locus (or two loci at identical coordinates, JBBPKL010003317) are not shown. On JBBPKX010000014 the nos-subfamily gene (pseudogene) lies inside the span of the intact mis-group gene on the opposite strand and is drawn on top of it."),
+         "Contigs with a single locus are not shown. On JBBPKX010000014 the nos-subfamily gene (pseudogene) lies on the same strand as the intact mis-group gene, 3.9 kb downstream of it."),
         ("S11", "Pairwise dN/dS of the intact genes of each lineage", "figures/FigureS11_dnds.png",
          "Pairwise dN/dS (yn00) between intact genes of each lineage: (a) sus-like genes of Boletales (31 genes, 464 pairs); (b) all cus-like genes (27 genes, 347 pairs); "
          "(c) cus-like genes outside Boletales (20 genes; 59 pairs with dS <= 2 shown, 120 of 179 pairs excluded as saturated); (d) chs-like genes of Fusarium (6 genes, 13 pairs); "
@@ -1384,13 +1449,14 @@ FIGS = [("S1", "Distributions of the statistics underlying the thresholds", "fig
          "(g) odh-island genes of Fusarium (5 loci, 7 pairs; unreliable, dS about 0.02). Histograms (a-d) or individual pairs (e-g); solid coloured line, median pairwise dN/dS; "
          "dotted line, omega of the M0 model (codeml); dashed black line, dN/dS = 1. The acc-type GDPD lineage (3 intact of 60 loci) was not tested. Values in Table S15."),
         ("S12", "The strain-specific insertion on contig JBBPRY010001778 of Boletus edulis", "figures/FigureS12_bedulis_insertion.png",
-         "The strain-specific insertion on contig JBBPRY010001778 of Boletus edulis (7.4 kb; Figure 4b). Top, read depth along the contig (smoothed over 200 bp; dashed line, genome median 91x); the repeat-insertion junction at 1,313 bp (dotted line) is spanned by 19 reads (9 read pairs), so the assembly is not chimeric. "
+         "The strain-specific insertion on contig JBBPRY010001778 of Boletus edulis (7.4 kb; Figure 4b). Top, read depth along the contig (smoothed over 200 bp; dashed line, genome median 91x); the repeat-insertion junction at 1,313 bp (dotted line) is spanned by 19 reads (9 read pairs), which supports the continuity of the contig across this junction. "
          "Bottom, the gene model of the pKerr14a-type acs-like gene (five exons, purple), flanking repeats (hatched), and the 5.9-kb segment (1,313-7,202 bp; red) absent from five other assemblies of the species, with the flanks present in other assemblies (green). Read depth of all loci in Table S8; reproducibility in independent assemblies in Table S9."),
         ("S13", "Both chromosomal copies of the odh island of Fusarium poae Fp133", "figures/FigureS13_fp133_island_two_copies.png",
          "Both chromosomal copies of the odh island of F. poae Fp133 compared with the homologous locus of the A. larrymoorei plasmid NZ_JAVIZC010000002.1 (Figure 4c shows the chromosome 2 copy only). Top, plasmid locus (110.9-137.3 kb), where the cassette is bounded by IS3-, IS110- and IS66-family transposases; "
          "middle, chromosome 2 (CM100255.1, 9,450.2-9,476.6 kb; 346.9 kb to the chromosome end); bottom, chromosome 3 (CM100256.1, 8,410.4-8,436.8 kb, shown as the reverse complement; 217.6 kb to the chromosome end). Ribbons connect the homologous genes orf3, pepP and odh; dashed outline, pseudogene or fragment; arrows indicate strand. Scale bar, 5 kb.")]
 DATA = [("S1", "Proteins of the loci of bacterial origin", DATA_S1),
         ("S2", "Protein-family trees, alignments and IQ-TREE reports", "data/Supplementary_Data_trees.tar.gz"),
+        ("S2b", "Constraint trees and IQ-TREE outputs of the AU tests", "data/Data_S2b_AU_constraints.tar.gz"),
         ("S3", "Genome assemblies screened", DATA_S3)]
 DATA_DESC = {
  "S1": "Predicted protein sequences of the loci of Table S1a (%d loci placed on the trees; the fragments assigned by profile only are not included). "
@@ -1401,6 +1467,8 @@ DATA_DESC = {
            src_cnt["miniprot"], src_cnt["nos_check"], n_noprot, "; ".join("%s, status %s: %d" % (k[0], k[1], v) for k, v in sorted(noprot.items())) or "none", n_prot),
  "S2": "For each of the protein-family trees of Figure 3 and Figures S2-S7 (sus, cus, chs, gdpd, nos, odh): the maximum-likelihood tree with SH-aLRT/UFBoot supports (`<family>.treefile`), the UFBoot consensus tree (`<family>.contree`), "
        "the trimmed protein alignment given to IQ-TREE (`<family>.aln.faa`) and the IQ-TREE report with model and run settings (`<family>.iqtree`). MANIFEST.tsv lists for each file the family, the number of sequences and sites and the substitution model. Compressed archive (also unpacked in `data/trees/`).",
+ "S2b": "Constraint trees (Newick) and IQ-TREE outputs (.treefile, .iqtree, .log) of the 60 constrained maximum-likelihood searches behind Table S11, with the IQ-TREE AU reports (.iqtree, .log, .trees) and the user-tree sets of each run; "
+        "MANIFEST.tsv gives for each constraint_id (as in Tables S11 and S11b) the files. Layout <family>/<run>/{constraint,search,run}. Compressed archive (tar.gz, 2.1 MB).",
  "S3": "The 2,215 distinct genome assemblies screened, 2,227 rows because 12 assemblies of Fusarium relatives belong to both the 1,386 and the 324 set: the 517 assemblies of Boletales (Table S6), 1,386 assemblies of other fungal orders (accession, organism, order, class; a note where the order was inferred) and the 324 assemblies of Fusarium, Neocosmospora and Dactylonectria (Table S7), "
        "in one table with the column set identifying the group (12 assemblies of Fusarium-related genera were included in both the preliminary screen of other orders and the Fusarium set and appear twice; 2,215 distinct assemblies). Tab-separated file."}
 
@@ -1457,7 +1525,7 @@ except ImportError:
 # ---------------------------------------------------------------- Supplementary_Materials.md / .docx
 TITLE = "Opine metabolism genes of rhizobial origin in fungal genomes"
 md = ["# Supplementary Materials for: %s" % TITLE, "",
-      "This document contains the legends of Figures S1-S11, Tables S1-S17 and Data S1-S3. The tables are in Supplementary_Tables.xlsx (one sheet per table), the figures in the folder figures/, the data files as named below.", "", "## Figures", ""]
+      "This document contains the legends of Figures S1-S13, Tables S1a-S17b (including S1d and S11b) and Data S1-S3 and S2b. The tables are in Supplementary_Tables.xlsx (one sheet per table), the figures in the folder figures/, the data files as named below.", "", "## Figures", ""]
 for fid, ftitle, ffile, fcap in FIGS:
     md += ["![Figure S%s](%s)" % (fid[1:], ffile), "", "**Figure %s. %s.** %s" % (fid, ftitle, fcap), ""]
 md += ["## Tables", ""]
@@ -1500,7 +1568,7 @@ except ImportError:
     print("python-docx not available: docx skipped")
 
 # ---------------------------------------------------------------- paragraph for the article
-SHORT_DATA = {"S1": "protein sequences of the loci of bacterial origin", "S2": "protein-family trees, alignments and IQ-TREE reports", "S3": "genome assemblies screened"}
+SHORT_DATA = {"S1": "protein sequences of the loci of bacterial origin", "S2": "protein-family trees, alignments and IQ-TREE reports", "S3": "genome assemblies screened", "S2b": "constraint trees and IQ-TREE outputs of the AU tests"}
 def low(t): return t if t[:2].isupper() or t.startswith(("chs", "vir")) else t[0].lower() + t[1:]
 PARA_T = {"S16": "RNA-seq at the loci of Boletaceae and Fusarium"}
 items = ["Figure S%s: %s" % (f[0][1:], low(f[1])) for f in FIGS] + ["Table S%s: %s" % (t[0][1:], PARA_T.get(t[0]) or low(t[1]).replace(": ", ", ")) for t in TABLES] + ["Data S%s: %s" % (d[0][1:], SHORT_DATA[d[0]]) for d in DATA]

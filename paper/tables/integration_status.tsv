@@ -1,0 +1,255 @@
+locus_id	lineage	species	assembly	status	rules_matched
+SUS_JBBPOG010000890_L1	sus-like	Austroboletus festivus (cluster C222)	GCA_038091375.1	confirmed	D2
+SUS_JBBPWO010009350_L1	sus-like	Boletaceae sp. TRTC157229	GCA_041722635.1	uncertain	SHORT;NONB
+SUS_JBBPWO010073651_L1	sus-like	Boletaceae sp. TRTC157229	GCA_041722635.1	uncertain	SHORT;NONB
+SUS_JBBPWT010000047_L1	sus-like	Boletaceae sp. UT-M0000358	GCA_041722595.1	confirmed	F2
+SUS_JBBPTT010006837_L1	sus-like	Boletellus aff. lepidospora	GCA_038094175.1	uncertain	SHORT;NONB
+SUS_JBBPLV010001121_L1	sus-like	Boletellus ananiceps	GCA_038089975.1	supported	F1
+SUS_JBBPLV010001943_S2L1	sus-like	Boletellus ananiceps	GCA_038089975.1	uncertain	EDGE;NONB
+SUS_JBBPLV010001943_L1	sus-like	Boletellus ananiceps	GCA_038089975.1	uncertain	NONB
+SUS_JBBPMG010000116_L1	sus-like	Boletellus deceptivus	GCA_038090195.1	confirmed	F2
+SUS_JBBPMG010000116_S2L1	sus-like	Boletellus deceptivus	GCA_038090195.1	confirmed	F2
+SUS_JBBPMG010001931_L1	sus-like	Boletellus deceptivus	GCA_038090195.1	uncertain	EDGE;NONB
+SUS_JBBPMG010004664_L1	sus-like	Boletellus deceptivus	GCA_038090195.1	uncertain	SHORT;EDGE;NONB
+SUS_JBBPMG010004664_S2L1	sus-like	Boletellus deceptivus	GCA_038090195.1	uncertain	SHORT;NONB
+SUS_JBBPLU010000323_L1	sus-like	Boletellus emodensis	GCA_038089935.1	confirmed	F2
+SUS_JBBPXB010001911_L1	sus-like	Boletellus sp. UT-M0000026	GCA_041722855.1	uncertain	NONB
+SUS_JBBPXB010001911_S2L1	sus-like	Boletellus sp. UT-M0000026	GCA_041722855.1	uncertain	NONB
+SUS_JBBPXB010007365_L1	sus-like	Boletellus sp. UT-M0000026	GCA_041722855.1	uncertain	SHORT;EDGE;NONB
+SUS_JAGFBS010000039_L1	sus-like	Boletus reticuloceps	GCA_018397855.1	confirmed	F2
+SUS_JBBPJQ010000015_L1	sus-like	Boletus rex-veris	GCA_038088795.1	confirmed	F2
+SUS_JBBPJQ010001889_L1	sus-like	Boletus rex-veris	GCA_038088795.1	uncertain	NONB
+SUS_JBBPJM010005915_L1	sus-like	Boletus variipes (cluster C130)	GCA_038088695.1	uncertain	SHORT;NONB
+SUS_JBBPJZ010002221_L1	sus-like	Chalciporus aff. trinitensis	GCA_038089015.1	uncertain	NONB
+SUS_JBBPJZ010007258_L1	sus-like	Chalciporus aff. trinitensis	GCA_038089015.1	uncertain	SHORT;NONB
+SUS_JBBPTS010002895_L1	sus-like	Fistulinella staudtii	GCA_038094235.1	uncertain	SHORT;NONB
+SUS_JBBPND010000159_L1	sus-like	Gastroboletus turbinatus	GCA_038090655.1	supported	F1
+SUS_MU123924_S2L1	sus-like	Melanogaster broomeanus	GCA_014904935.1	confirmed	F2
+SUS_WIOP01000636_L1	sus-like	Melanogaster broomeanus	GCA_014904935.1	confirmed	F2
+SUS_JANATF010000012_L1	sus-like	Mortierella alpina	GCA_029449245.1	confirmed	F2
+SUS_JBBPJX010000484_L1	sus-like	Neotropicomus parvogracilis	GCA_038088955.1	supported	F1
+SUS_JBBPJX010000568_L1	sus-like	Neotropicomus parvogracilis	GCA_038088955.1	supported	F1
+SUS_JBBPKI010000406_L1	sus-like	Nevesoporus exiguus	GCA_038089155.1	uncertain	NONB
+SUS_JBBPKI010000567_L1	sus-like	Nevesoporus exiguus	GCA_038089155.1	confirmed	F2
+SUS_JBBPKI010000725_L1	sus-like	Nevesoporus exiguus	GCA_038089155.1	confirmed	F2
+SUS_JBBPKI010000869_L1	sus-like	Nevesoporus exiguus	GCA_038089155.1	confirmed	F2
+SUS_JBBPKI010001675_L1	sus-like	Nevesoporus exiguus	GCA_038089155.1	supported	F1
+SUS_JBBPUD010000148_L1	sus-like	Phylloporus aff. rhodophaeus	GCA_038094475.1	confirmed	F2
+SUS_JBBPVF010000849_L1	sus-like	Phylloporus sp. TRTC163509	GCA_041721835.1	confirmed	F2
+SUS_JBBPWB010005531_L1	sus-like	Phylloporus sp. TRTC163509	GCA_041722235.1	uncertain	SHORT;NONB
+SUS_JBBPXK010000119_L1	sus-like	Porphyrellus sp. 'aff. excedens' UT-M0000382	GCA_041722655.1	confirmed	F2
+SUS_JBBPVZ010000240_L1	sus-like	Porphyrellus sp. KM206675	GCA_041722315.1	confirmed	F2
+SUS_JBBPVZ010000240_S2L1	sus-like	Porphyrellus sp. KM206675	GCA_041722315.1	confirmed	F2
+SUS_JBBPVZ010030891_L1	sus-like	Porphyrellus sp. KM206675	GCA_041722315.1	uncertain	SHORT;NONB
+SUS_JBBPNB010002703_L1	sus-like	Rubroboletus satanas	GCA_038090635.1	uncertain	DEPTH
+SUS_JBBPTQ010005164_L1	sus-like	Tylopilus aff. beelii	GCA_038098575.1	uncertain	SHORT;NONB
+SUS_JBBPTU010001785_L1	sus-like	Tylopilus aff. beelii	GCA_038094295.1	confirmed	F2
+SUS_JBBPXA010000488_L1	sus-like	Tylopilus sp. UT-M0000054	GCA_041722795.1	confirmed	F2
+SUS_JBBPWX010000117_L1	sus-like	Tylopilus sp. UT-M0000335	GCA_041722695.1	confirmed	D2
+SUS_JBBPWX010000117_S2L1	sus-like	Tylopilus sp. UT-M0000335	GCA_041722695.1	confirmed	D2
+SUS_JBBPWX010001246_L1	sus-like	Tylopilus sp. UT-M0000335	GCA_041722695.1	confirmed	D2
+SUS_JBBPWX010001359_L1	sus-like	Tylopilus sp. UT-M0000335	GCA_041722695.1	uncertain	EDGE;D1
+SUS_JBBPWX010003574_L1	sus-like	Tylopilus sp. UT-M0000335	GCA_041722695.1	confirmed	D2
+SUS_JBBPWX010003679_L1	sus-like	Tylopilus sp. UT-M0000335	GCA_041722695.1	confirmed	D2
+SUS_JBBPJJ010005399_L1	sus-like	Veloboletus limbatus	GCA_038088635.1	uncertain	NONB
+SUS_JBBPLJ010000677_L1	sus-like	Veloporphyrellus conicus	GCA_038089715.1	supported	F1
+SUS_JBBPLJ010000841_L1	sus-like	Veloporphyrellus conicus	GCA_038089715.1	uncertain	NONB
+SUS_JBBPLY010003693_L1	sus-like	Xerocomus nothofagi	GCA_038090035.1	uncertain	SHORT;NONB
+SUS_JBBPXF010000575_L1	sus-like	aff. Porphyrellus sp. UT-M0000030	GCA_041722915.1	confirmed	F2
+SUS_JBBPWU010000114_L1	sus-like	aff. Porphyrellus sp. UT-M0000367	GCA_041722675.1	confirmed	F2
+CUS_JNHV02000108_L1	cus-like	Amanita brunnescens	GCA_001691785.3	confirmed	F2
+CUS_JBBPWL010005527_L1	cus-like	Boletaceae sp. TRTC157251	GCA_041722475.1	uncertain	SHORT;EDGE;NONB
+CUS_JBBPKL010012429_L1	cus-like	Boletellus ananas (cluster C154)	GCA_038089235.1	confirmed	D2
+CUS_JBBPKL010015704_L1	cus-like	Boletellus ananas (cluster C154)	GCA_038089235.1	confirmed	D2
+CUS_JBBPKL010026335_L1	cus-like	Boletellus ananas (cluster C154)	GCA_038089235.1	uncertain	SHORT;EDGE;D1
+CUS_JBBPKB010004347_L1	cus-like	Boletellus dicymbophilus	GCA_038089035.1	uncertain	NONB
+CUS_JBBPKB010004400_L1	cus-like	Boletellus dicymbophilus	GCA_038089035.1	uncertain	NONB
+CUS_JBBPUH010005932_L1	cus-like	Boletus aff. phaeocephalus	GCA_038094555.1	uncertain	SHORT;NONB
+CUS_JBBPKX010002099_L1	cus-like	Boletus austroedulis	GCA_038089435.1	confirmed	D2
+CUS_JBBPKX010013957_L1	cus-like	Boletus austroedulis	GCA_038089435.1	uncertain	SHORT;EDGE;D1
+CUS_JBBPJK010006192_L1	cus-like	Boletus variipes (cluster C020)	GCA_038088715.1	confirmed	R;D2
+CUS_JBBPJK010006205_L1	cus-like	Boletus variipes (cluster C020)	GCA_038088715.1	confirmed	R;D2
+CUS_JBBPQG010007212_L1	cus-like	Boletus variipes (cluster C020)	GCA_038092395.1	uncertain	SHORT;EDGE;NONB
+CUS_JBBPRQ010000133_L1	cus-like	Boletus variipes (cluster C020)	GCA_038093095.1	confirmed	F2
+CUS_JAGTXK010000090_L1	cus-like	Butyriboletus roseoflavus	GCA_019096195.1	confirmed	F2
+CUS_JAGTXK010000187_L1	cus-like	Butyriboletus roseoflavus	GCA_019096195.1	confirmed	F2
+CUS_JAGTXK010000187_L2	cus-like	Butyriboletus roseoflavus	GCA_019096195.1	confirmed	F2
+CUS_JAHRGV010000044_L1	cus-like	Butyriboletus roseoflavus	GCA_019364595.1	confirmed	F2
+CUS_JAHRGV010000044_L2	cus-like	Butyriboletus roseoflavus	GCA_019364595.1	confirmed	F2
+CUS_JAHRGV010000066_L1	cus-like	Butyriboletus roseoflavus	GCA_019364595.1	confirmed	F2
+CUS_QFEE01000702_L1	cus-like	Butyriboletus roseoflavus	GCA_003315995.1	confirmed	R
+CUS_QFEH01000205_L1	cus-like	Butyriboletus roseoflavus	GCA_003316065.1	supported	F1
+CUS_QFEH01001931_L1	cus-like	Butyriboletus roseoflavus	GCA_003316065.1	confirmed	F2
+CUS_QFEH01003570_L1	cus-like	Butyriboletus roseoflavus	GCA_003316065.1	uncertain	NONB
+CUS_JABYQR010000063_L1	cus-like	Cytidiella melzeri	GCA_022592445.1	confirmed	F2
+CUS_JABYQR010000141_L1	cus-like	Cytidiella melzeri	GCA_022592445.1	confirmed	F2
+CUS_JABYQR010000229_L1	cus-like	Cytidiella melzeri	GCA_022592445.1	confirmed	F2
+CUS_JACCMO010000008_L1	cus-like	Epicoccum latusicollum	GCA_015266435.1	confirmed	F2
+CUS_JANURY010000003_L1	cus-like	Epicoccum latusicollum	GCA_025677925.1	confirmed	F2
+CUS_JBEEQB010000010_L1	cus-like	Epicoccum sorghinum	GCA_040893085.1	confirmed	F2
+CUS_JBBPLP010000068_L1	cus-like	Fistulinella prunicolor	GCA_038089875.1	confirmed	F2
+CUS_JBZWEJ010000015_A1	cus-like	Hebeloma velutipes	GCA_058411305.1	supported	LONG
+CUS_RCFS01000014_L1	cus-like	Lepiota venenata	GCA_004296355.1	confirmed	F2
+CUS_CAVMBW010000015_L1	cus-like	Monosporozyma servazzii	GCA_963678725.1	confirmed	F2
+CUS_JAKOOT010000021_L1	cus-like	Monosporozyma servazzii	GCA_028408395.1	confirmed	F2
+CUS_JAKTTD010000547_L1	cus-like	Monosporozyma servazzii	GCA_030580535.1	confirmed	F2
+CUS_JAXQHM010000038_L1	cus-like	Monosporozyma servazzii	GCA_037040905.1	confirmed	F2
+CUS_NJIJ01000084_L1	cus-like	Monosporozyma servazzii	GCA_002214935.1	confirmed	F2
+CUS_OZ188520_A1	cus-like	Monosporozyma servazzii	GCA_964275055.1	supported	LONG
+CUS_PTQT01000015_L1	cus-like	Monosporozyma servazzii	GCA_003243735.1	confirmed	F2
+CUS_VWSB01000009_L1	cus-like	Monosporozyma servazzii	GCA_008802755.1	confirmed	F2
+CUS_VWSC01000016_L1	cus-like	Monosporozyma servazzii	GCA_008802765.1	confirmed	F2
+CUS_JARJCM010000025_L1	cus-like	Mycena alexandri	GCA_029233265.1	confirmed	F2
+CUS_JARKIB010000016_L1	cus-like	Mycena metata	GCA_029378385.1	confirmed	F2
+CUS_JARJCX010000004_L1	cus-like	Mycena rebaudengoi	GCA_029282285.1	confirmed	F2
+CUS_JARJCX010000328_L1	cus-like	Mycena rebaudengoi	GCA_029282285.1	confirmed	F2
+CUS_JAVLWG010000008_L1	cus-like	Phoma sp.	GCA_033444525.1	confirmed	F2
+CUS_JBBPWY010000053_L1	cus-like	Phylloporus sp. UT-M0000405	GCA_041722775.1	confirmed	F2
+CUS_JBBPMB010002223_L1	cus-like	Pulveroboletus ravenelii (cluster C192)	GCA_038090135.1	uncertain	NONB
+CUS_JAFJTQ020000041_L1	cus-like	Septoria petroselini	GCA_022559915.2	supported	LONG;F1
+GCA_020744375.1_L1	chs-like	Dactylonectria estremocensis	GCA_020744375.1	supported	LONG
+GCA_020744425.1_L1	chs-like	Dactylonectria macrodidyma	GCA_020744425.1	supported	LONG
+GCA_027945495.1_L1	chs-like	Fusarium falciforme	GCA_027945495.1	supported	LONG
+GCA_054098485.1_L1	chs-like	Fusarium nematophilum	GCA_054098485.1	confirmed	R2
+GCA_054098565.1_L1	chs-like	Fusarium nematophilum	GCA_054098565.1	confirmed	R2
+GCA_000149955.2_L1	chs-like	Fusarium oxysporum	GCA_000149955.2	confirmed	CHR;R2
+GCA_001702695.2_L1	chs-like	Fusarium oxysporum	GCA_001702695.2	confirmed	CHR;R2
+GCA_032206225.1_L1	chs-like	Fusarium oxysporum	GCA_032206225.1	confirmed	CHR;R2
+GCA_013085055.1_L1	chs-like	Fusarium oxysporum	GCA_013085055.1	confirmed	R2
+GCA_013363075.1_L1	chs-like	Fusarium oxysporum	GCA_013363075.1	confirmed	R2
+GCA_026229875.1_L1	chs-like	Fusarium oxysporum	GCA_026229875.1	confirmed	R2
+GCA_020796175.1_L1	chs-like	Fusarium oxysporum	GCA_020796175.1	confirmed	R2
+GCA_023509805.1_L1	chs-like	Fusarium oxysporum	GCA_023509805.1	confirmed	R2
+GCA_027945555.1_L1	chs-like	Fusarium oxysporum	GCA_027945555.1	confirmed	R2
+GCA_027945405.1_L1	chs-like	Fusarium oxysporum	GCA_027945405.1	confirmed	R2
+GCA_054098455.1_L1	chs-like	Fusarium oxysporum	GCA_054098455.1	confirmed	R2
+GCA_000260155.3_L1	chs-like	Fusarium oxysporum	GCA_000260155.3	confirmed	R2
+GCA_000260495.2_L1	chs-like	Fusarium oxysporum	GCA_000260495.2	confirmed	R2
+GCA_000271745.2_L1	chs-like	Fusarium oxysporum	GCA_000271745.2	confirmed	R2
+GCA_000271705.2_L1	chs-like	Fusarium oxysporum	GCA_000271705.2	confirmed	R2
+GCA_000259975.2_L1	chs-like	Fusarium oxysporum	GCA_000259975.2	confirmed	R2
+GCA_004141715.1_L1	chs-like	Fusarium oxysporum	GCA_004141715.1	confirmed	R2
+GCA_003615085.1_L1	chs-like	Fusarium oxysporum	GCA_003615085.1	confirmed	CHR;R2
+GCA_003615095.1_L1	chs-like	Fusarium oxysporum	GCA_003615095.1	confirmed	R2
+GCA_003615075.1_L1	chs-like	Fusarium oxysporum	GCA_003615075.1	confirmed	R2
+GCA_003615155.1_L1	chs-like	Fusarium oxysporum	GCA_003615155.1	confirmed	R2
+GCA_003615165.1_L1	chs-like	Fusarium oxysporum	GCA_003615165.1	confirmed	R2
+GCA_003615185.1_L1	chs-like	Fusarium oxysporum	GCA_003615185.1	confirmed	R2
+GCA_030020275.1_L1	chs-like	Fusarium oxysporum	GCA_030020275.1	confirmed	R2
+GCA_050370095.1_L1	chs-like	Fusarium phalaenopsidis	GCA_050370095.1	supported	LONG
+GCA_023101225.1_L1	chs-like	Fusarium solani-melongenae	GCA_023101225.1	supported	LONG
+GCA_025433565.1_L1	chs-like	Fusarium sp.	GCA_025433565.1	confirmed	CHR
+GCA_000151355.1_L1	chs-like	Fusarium vanettenii	GCA_000151355.1	supported	LONG
+ACS_JBBPWO010001296_L1	acc-type GDPD	Boletaceae sp. TRTC157229	GCA_041722635.1	uncertain	NONB
+ACS_JBBPWO010001920_L1	acc-type GDPD	Boletaceae sp. TRTC157229	GCA_041722635.1	uncertain	NONB
+ACS_JBBPLS010001065_L1	acc-type GDPD	Boletellus ananas (cluster C181)	GCA_038089895.1	uncertain	NONB
+ACS_JBBPLV010001121_L1	acc-type GDPD	Boletellus ananiceps	GCA_038089975.1	supported	F1
+ACS_JBBPMG010000767_L1	acc-type GDPD	Boletellus deceptivus	GCA_038090195.1	confirmed	F2
+ACS_JBBPNQ010000179_L1	acc-type GDPD	Boletellus pseudochrysenteroides	GCA_038090975.1	supported	F1
+ACS_JAGFBS010000039_L1	acc-type GDPD	Boletus reticuloceps	GCA_018397855.1	confirmed	F2
+ACS_JBBPJI010000362_L1	acc-type GDPD	Boletus rex-veris	GCA_038088615.1	confirmed	F2
+ACS_JBBPJQ010000087_S2L1	acc-type GDPD	Boletus rex-veris	GCA_038088795.1	confirmed	F2
+ACS_JBBPJQ010001228_L1	acc-type GDPD	Boletus rex-veris	GCA_038088795.1	confirmed	F2
+ACS_JBBPJQ010004352_L1	acc-type GDPD	Boletus rex-veris	GCA_038088795.1	uncertain	SHORT;NONB
+ACS_JBBPJK010000045_L1	acc-type GDPD	Boletus variipes (cluster C020)	GCA_038088715.1	confirmed	F2;R;D2
+ACS_JBBPJK010000239_L1	acc-type GDPD	Boletus variipes (cluster C020)	GCA_038088715.1	confirmed	F2;R;D2
+ACS_JBBPJK010000591_L1	acc-type GDPD	Boletus variipes (cluster C020)	GCA_038088715.1	confirmed	R;D2
+ACS_JBBPJK010000640_L1	acc-type GDPD	Boletus variipes (cluster C020)	GCA_038088715.1	confirmed	R;D2
+ACS_JBBPQG010001754_S2L1	acc-type GDPD	Boletus variipes (cluster C020)	GCA_038092395.1	uncertain	NONB
+ACS_JBBPQG010002236_L1	acc-type GDPD	Boletus variipes (cluster C020)	GCA_038092395.1	confirmed	R
+ACS_JBBPQG010005583_S2L1	acc-type GDPD	Boletus variipes (cluster C020)	GCA_038092395.1	uncertain	SHORT;NONB
+ACS_JBBPQG010006035_L1	acc-type GDPD	Boletus variipes (cluster C020)	GCA_038092395.1	uncertain	SHORT;NONB
+ACS_JBBPQG010006152_L1	acc-type GDPD	Boletus variipes (cluster C020)	GCA_038092395.1	uncertain	SHORT;NONB
+ACS_JBBPRQ010000079_L1	acc-type GDPD	Boletus variipes (cluster C020)	GCA_038093095.1	confirmed	F2
+ACS_JBBPRQ010000133_L1	acc-type GDPD	Boletus variipes (cluster C020)	GCA_038093095.1	confirmed	F2
+ACS_JBBPJM010000052_S2L1	acc-type GDPD	Boletus variipes (cluster C130)	GCA_038088695.1	confirmed	F2
+ACS_JBBPJM010001346_L1	acc-type GDPD	Boletus variipes (cluster C130)	GCA_038088695.1	confirmed	R
+ACS_JAGTXK010000179_L1	acc-type GDPD	Butyriboletus roseoflavus	GCA_019096195.1	supported	F1
+ACS_JAHRGV010000067_L1	acc-type GDPD	Butyriboletus roseoflavus	GCA_019364595.1	confirmed	F2
+ACS_QFEE01000814_L1	acc-type GDPD	Butyriboletus roseoflavus	GCA_003315995.1	supported	F1
+ACS_QFEG01000039_L1	acc-type GDPD	Butyriboletus roseoflavus	GCA_003316055.1	uncertain	NONB
+ACS_JBBPQD010001794_L1	acc-type GDPD	Caloboletus inedulis	GCA_038092355.1	uncertain	NONB
+ACS_JBBPQD010009048_L1	acc-type GDPD	Caloboletus inedulis	GCA_038092355.1	uncertain	SHORT;NONB
+ACS_JBBPUP010001145_L1	acc-type GDPD	Exsudoporus floridanus	GCA_038094735.1	uncertain	NONB
+ACS_JBBPTS010002188_L1	acc-type GDPD	Fistulinella staudtii	GCA_038094235.1	uncertain	SHORT;NONB
+ACS_JAHTMQ010000251_L1	acc-type GDPD	Leucocoprinus sp.	GCA_019327925.1	confirmed	F2
+ACS_JBBPJX010000568_L1	acc-type GDPD	Neotropicomus parvogracilis	GCA_038088955.1	supported	F1
+ACS_JBBPJX010000732_L1	acc-type GDPD	Neotropicomus parvogracilis	GCA_038088955.1	confirmed	F2
+ACS_JBBPKI010001770_L1	acc-type GDPD	Nevesoporus exiguus	GCA_038089155.1	uncertain	NONB
+ACS_JBBPMY010000159_L1	acc-type GDPD	Phylloporus gajari	GCA_038090615.1	supported	F1
+ACS_JBBPMY010001662_L1	acc-type GDPD	Phylloporus gajari	GCA_038090615.1	uncertain	NONB
+ACS_JBBPMY010001721_L1	acc-type GDPD	Phylloporus gajari	GCA_038090615.1	uncertain	NONB
+ACS_JBBPMY010003005_L1	acc-type GDPD	Phylloporus gajari	GCA_038090615.1	uncertain	NONB
+ACS_JBBPKZ010000232_S2L1	acc-type GDPD	Phylloporus pelletieri	GCA_038089575.1	uncertain	NONB
+ACS_JBBPMB010001777_L1	acc-type GDPD	Pulveroboletus ravenelii (cluster C192)	GCA_038090135.1	uncertain	NONB
+ACS_JBBPVR010004442_L1	acc-type GDPD	Tylopilus sp. KM206722	GCA_041722095.1	uncertain	SHORT;EDGE;NONB
+ACS_JBBPWX010000022_L1	acc-type GDPD	Tylopilus sp. UT-M0000335	GCA_041722695.1	confirmed	F2;D2
+ACS_JBBPWX010000056_L1	acc-type GDPD	Tylopilus sp. UT-M0000335	GCA_041722695.1	confirmed	D2
+ACS_JBBPWX010000076_S2L1	acc-type GDPD	Tylopilus sp. UT-M0000335	GCA_041722695.1	confirmed	F2;D2
+ACS_JBBPWX010000121_L1	acc-type GDPD	Tylopilus sp. UT-M0000335	GCA_041722695.1	confirmed	F2;D2
+ACS_JBBPWX010000128_L1	acc-type GDPD	Tylopilus sp. UT-M0000335	GCA_041722695.1	confirmed	D2
+ACS_JBBPWX010000210_L1	acc-type GDPD	Tylopilus sp. UT-M0000335	GCA_041722695.1	confirmed	F2;D2
+ACS_JBBPWX010000321_L1	acc-type GDPD	Tylopilus sp. UT-M0000335	GCA_041722695.1	confirmed	D2
+ACS_JBBPWX010000393_L1	acc-type GDPD	Tylopilus sp. UT-M0000335	GCA_041722695.1	confirmed	D2
+ACS_JBBPWX010000400_S2L1	acc-type GDPD	Tylopilus sp. UT-M0000335	GCA_041722695.1	confirmed	D2
+ACS_JBBPWX010000844_L1	acc-type GDPD	Tylopilus sp. UT-M0000335	GCA_041722695.1	confirmed	D2
+ACS_JBBPWX010000915_S2L1	acc-type GDPD	Tylopilus sp. UT-M0000335	GCA_041722695.1	confirmed	D2
+ACS_JBBPWX010001194_L1	acc-type GDPD	Tylopilus sp. UT-M0000335	GCA_041722695.1	confirmed	D2
+ACS_JBBPWX010003662_L1	acc-type GDPD	Tylopilus sp. UT-M0000335	GCA_041722695.1	uncertain	SHORT;EDGE;D1
+ACS_JBBPJJ010011893_L1	acc-type GDPD	Veloboletus limbatus	GCA_038088635.1	uncertain	SHORT;NONB
+ACS_JBBPLJ010000677_L1	acc-type GDPD	Veloporphyrellus conicus	GCA_038089715.1	supported	F1
+ACS_JBBPLJ010000841_L1	acc-type GDPD	Veloporphyrellus conicus	GCA_038089715.1	uncertain	NONB
+ACS_JBBPLY010001749_L1	acc-type GDPD	Xerocomus nothofagi	GCA_038090035.1	uncertain	SHORT;NONB
+ACS_JBBPOG010012756_L1	pKerr14a-type acs-like	Austroboletus festivus (cluster C222)	GCA_038091375.1	uncertain	SHORT;EDGE;DEPTH
+ACS_JBBPOG010027429_L1	pKerr14a-type acs-like	Austroboletus festivus (cluster C222)	GCA_038091375.1	uncertain	SHORT;EDGE;DEPTH
+ACS_JBBPOG010029588_L1	pKerr14a-type acs-like	Austroboletus festivus (cluster C222)	GCA_038091375.1	uncertain	SHORT;EDGE;DEPTH
+ACS_JBBPOG010041986_L1	pKerr14a-type acs-like	Austroboletus festivus (cluster C222)	GCA_038091375.1	uncertain	SHORT;EDGE;DEPTH
+ACS_JBBPOG010058934_L1	pKerr14a-type acs-like	Austroboletus festivus (cluster C222)	GCA_038091375.1	uncertain	SHORT;EDGE;DEPTH
+ACS_JBBPOG010076209_L1	pKerr14a-type acs-like	Austroboletus festivus (cluster C222)	GCA_038091375.1	uncertain	SHORT;EDGE;DEPTH
+ACS_JBBPOG010076899_L1	pKerr14a-type acs-like	Austroboletus festivus (cluster C222)	GCA_038091375.1	uncertain	SHORT;EDGE;DEPTH
+ACS_JBBPKL010003317_L1	pKerr14a-type acs-like	Boletellus ananas (cluster C154)	GCA_038089235.1	supported	F1;D1
+ACS_JBBPKL010018021_L1	pKerr14a-type acs-like	Boletellus ananas (cluster C154)	GCA_038089235.1	uncertain	SHORT;EDGE;DEPTH
+ACS_JBBPNQ010000794_L1	pKerr14a-type acs-like	Boletellus pseudochrysenteroides	GCA_038090975.1	confirmed	F2
+ACS_JBBPTD010000005_L1	pKerr14a-type acs-like	Boletus aff. mottiae	GCA_038093895.1	confirmed	F2
+ACS_JBBPNO010000485_L1	pKerr14a-type acs-like	Boletus eberwhitei	GCA_038090915.1	confirmed	F2
+ACS_JBBPRY010001778_L1	pKerr14a-type acs-like	Boletus edulis (cluster C016)	GCA_038093215.1	confirmed	D2
+ACS_JBBPRV010002497_L1	pKerr14a-type acs-like	Boletus harrisonii	GCA_038093235.1	uncertain	NONB
+ACS_JBBPNB010000203_L1	pKerr14a-type acs-like	Rubroboletus satanas	GCA_038090635.1	confirmed	F2;D2
+ACS_JBBPNB010000705_L1	pKerr14a-type acs-like	Rubroboletus satanas	GCA_038090635.1	confirmed	D2
+ACS_JBBPNB010000771_L1	pKerr14a-type acs-like	Rubroboletus satanas	GCA_038090635.1	supported	F1
+ACS_JBBPNB010002022_L1	pKerr14a-type acs-like	Rubroboletus satanas	GCA_038090635.1	confirmed	D2
+ACS_JBBPNB010009505_L1	pKerr14a-type acs-like	Rubroboletus satanas	GCA_038090635.1	uncertain	SHORT;EDGE;D1
+ODH_JBBPKX010000014.1	nos-subfamily opine dehydrogenase (Boletales)	Boletus austroedulis	GCA_038089435.1	uncertain	NONB
+ODH_JBBPKX010000046.1	nos-subfamily opine dehydrogenase (Boletales)	Boletus austroedulis	GCA_038089435.1	uncertain	NONB
+ODH_JAGTXK010000179.1	nos-subfamily opine dehydrogenase (Boletales)	Boletus sp.	GCA_019096195.1	uncertain	NONB
+ODH_QFEG01003584.1	nos-subfamily opine dehydrogenase (Boletales)	Boletus speciosus	GCA_003316055.1	uncertain	NONB
+ODH_JAHRGV010000067.1	nos-subfamily opine dehydrogenase (Boletales)	Butyriboletus roseoflavus	GCA_019364595.1	supported	LONG
+ODH_QFEE01000845.1	nos-subfamily opine dehydrogenase (Boletales)	Butyriboletus roseoflavus	GCA_003315995.1	uncertain	NONB
+GCA_022180325.1_odh1	odh island: odh	Fusarium langsethiae	GCA_022180325.1	uncertain	SHORT;EDGE;NONB
+GCA_022180345.1_odh1	odh island: odh	Fusarium langsethiae	GCA_022180345.1	uncertain	SHORT;EDGE;NONB
+GCA_001292635.1_odh1	odh island: odh	Fusarium langsethiae	GCA_001292635.1	confirmed	R2
+GCA_019609905.1_odh1	odh island: odh	Fusarium poae	GCA_019609905.1	confirmed	CHR;R2
+GCA_046056315.1_odh1	odh island: odh	Fusarium poae	GCA_046056315.1	confirmed	R2
+GCA_046056315.1_odh2	odh island: odh	Fusarium poae	GCA_046056315.1	confirmed	R2
+GCA_019609905.1_odh2	odh island: odh	Fusarium poae	GCA_019609905.1	confirmed	CHR;R2
+GCA_019609905.1_odh3	odh island: odh	Fusarium poae	GCA_019609905.1	confirmed	CHR;R2
+GCA_022180325.1_pepP1	odh island: pepP	Fusarium langsethiae	GCA_022180325.1	uncertain	SHORT;NONB
+GCA_022180345.1_pepP1	odh island: pepP	Fusarium langsethiae	GCA_022180345.1	uncertain	SHORT;NONB
+GCA_001292635.1_pepP1	odh island: pepP	Fusarium langsethiae	GCA_001292635.1	confirmed	R2
+GCA_019609905.1_pepP1	odh island: pepP	Fusarium poae	GCA_019609905.1	confirmed	CHR;R2
+GCA_046056315.1_pepP1	odh island: pepP	Fusarium poae	GCA_046056315.1	confirmed	R2
+GCA_046056315.1_pepP2	odh island: pepP	Fusarium poae	GCA_046056315.1	confirmed	R2
+GCA_019609905.1_pepP2	odh island: pepP	Fusarium poae	GCA_019609905.1	confirmed	CHR;R2
+GCA_019609905.1_pepP3	odh island: pepP	Fusarium poae	GCA_019609905.1	confirmed	CHR;R2
+GCA_022180325.1_g31	odh island: orf3	Fusarium langsethiae	GCA_022180325.1	confirmed	R2
+GCA_022180325.1_g32	odh island: orf3	Fusarium langsethiae	GCA_022180325.1	uncertain	SHORT;NONB
+GCA_022180345.1_g31	odh island: orf3	Fusarium langsethiae	GCA_022180345.1	uncertain	EDGE;NONB
+GCA_022180345.1_g32	odh island: orf3	Fusarium langsethiae	GCA_022180345.1	uncertain	SHORT;NONB
+GCA_001292635.1_g31	odh island: orf3	Fusarium langsethiae	GCA_001292635.1	confirmed	R2
+GCA_001292635.1_g32	odh island: orf3	Fusarium langsethiae	GCA_001292635.1	confirmed	R2
+GCA_019609905.1_g31	odh island: orf3	Fusarium poae	GCA_019609905.1	confirmed	CHR;R2
+GCA_046056315.1_g31	odh island: orf3	Fusarium poae	GCA_046056315.1	confirmed	R2
+GCA_046056315.1_g32	odh island: orf3	Fusarium poae	GCA_046056315.1	confirmed	R2
+GCA_046056315.1_g33	odh island: orf3	Fusarium poae	GCA_046056315.1	confirmed	R2
+GCA_019609905.1_g32	odh island: orf3	Fusarium poae	GCA_019609905.1	confirmed	CHR;R2
+GCA_019609905.1_g33	odh island: orf3	Fusarium poae	GCA_019609905.1	confirmed	CHR;R2

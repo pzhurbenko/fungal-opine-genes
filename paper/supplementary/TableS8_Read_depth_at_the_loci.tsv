@@ -7,7 +7,7 @@ GCA_038090635.1	Rubroboletus_satanas	ACS_JBBPNB010000771_L1	GDPD	pKerr14a-type a
 GCA_038090635.1	Rubroboletus_satanas	ACS_JBBPNB010002022_L1	GDPD	pKerr14a-type acs-like	remnant	JBBPNB010002022.1	5284	58.7	163.2	2.78	73.6	42	1.25	42	42	0.97	0.98	0.421	0.506	37.5
 GCA_038090635.1	Rubroboletus_satanas	ACS_JBBPNB010009505_L1	GDPD	pKerr14a-type acs-like	remnant	JBBPNB010009505.1	449	58.7	23.5	0.40	29.7	19	0.51	edge	edge	0.95	0.98	0.439	0.506	0.7
 GCA_038090635.1	Rubroboletus_satanas	SUS_JBBPNB010002703_L1	OCD fold (Sus)	sus-like	pseudogene	JBBPNB010002703.1	3836	58.7	112.5	1.91	129.0	83	2.20	37	68	1.00	0.98	0.460	0.506	56.7
-GCA_038089235.1	Boletellus_ananas_JBBPKL	ACS_JBBPKL010003317_L1	GDPD	pKerr14a-type acs-like	intact	JBBPKL010003317.1	7549	22.9	13.3	0.58	13.9	5	0.61	6	10	0.98	0.93	0.502	0.465	58.8
+GCA_038089235.1	Boletellus_ananas_JBBPKL	ACS_JBBPKL010003317_L1	GDPD	pKerr14a-type acs-like	intact	JBBPKL010003317.1	7549	22.9	13.3	0.58	12.8	5	0.56	7	0	0.98	0.93	0.502	0.465	58.8
 GCA_038089235.1	Boletellus_ananas_JBBPKL	ACS_JBBPKL010018021_L1	GDPD	pKerr14a-type acs-like	intact	JBBPKL010018021.1	1645	22.9	10.0	0.44	10.6	3	0.46	edge	7	0.95	0.93	0.472	0.465	59.3
 GCA_038089235.1	Boletellus_ananas_JBBPKL	CUS_JBBPKL010012429_L1	cucumopine synthase (Cus)	cus-like	intact	JBBPKL010012429.1	2573	22.9	13.3	0.58	15.6	8	0.68	3	8	0.89	0.93	0.487	0.465	55.2
 GCA_038089235.1	Boletellus_ananas_JBBPKL	CUS_JBBPKL010012764_L1	cucumopine synthase (Cus)	cus-like (profile only)	fragment	JBBPKL010012764.1	2497	22.9	13.7	0.60	10.2	1	0.45	12	edge	0.93	0.93	0.552	0.465	58.4
@@ -19,7 +19,7 @@ GCA_038089235.1	Boletellus_ananas_JBBPKL	CUS_JBBPKL010040134_L1	cucumopine synth
 GCA_038089235.1	Boletellus_ananas_JBBPKL	CUS_JBBPKL010043234_L1	cucumopine synthase (Cus)	cus-like (profile only)	fragment	JBBPKL010043234.1	432	22.9	7.3	0.32	7.5	0	0.33	edge	edge	0.91	0.93	0.523	0.465	58.9
 GCA_038089235.1	Boletellus_ananas_JBBPKL	CUS_JBBPKL010048140_L1	cucumopine synthase (Cus)	cus-like (profile only)	fragment	JBBPKL010048140.1	384	22.9	9.3	0.41	9.4	2	0.41	edge	edge	0.75	0.93	0.534	0.465	54.8
 GCA_038089235.1	Boletellus_ananas_JBBPKL	CUS_JBBPKL010056113_L1	cucumopine synthase (Cus)	cus-like (profile only)	fragment	JBBPKL010056113.1	330	22.9	11.9	0.52	12.0	1	0.52	edge	edge	0.81	0.93	0.506	0.465	41.9
-GCA_038089235.1	Boletellus_ananas_JBBPKL	CUS_JBBPKL010003317_S2L1	cucumopine synthase (Cus)	mis group	intact	JBBPKL010003317.1	7549	22.9	13.3	0.58	13.9	5	0.61	6	10	0.98	0.93	0.502	0.465	58.8
+GCA_038089235.1	Boletellus_ananas_JBBPKL	CUS_JBBPKL010003317_S2L1	cucumopine synthase (Cus)	mis group	intact	JBBPKL010003317.1	7549	22.9	13.3	0.58	14.0	7	0.61	6	7	0.98	0.93	0.502	0.465	58.8
 GCA_038089235.1	Boletellus_ananas_JBBPKL	CUS_JBBPKL010012412_S2L1	cucumopine synthase (Cus)	other bacterial-type small ORF (cusrel181) (profile only)	remnant	JBBPKL010012412.1	2577	22.9	14.5	0.63	12.1	4	0.53	edge	7	0.92	0.93	0.458	0.465	54.2
 GCA_038089235.1	Boletellus_ananas_JBBPKL	CUS_JBBPKL010013445_S2L1	cucumopine synthase (Cus)	other bacterial-type Cus (profile only)	ambiguous	JBBPKL010013445.1	2364	22.9	13.7	0.60	16.5	3	0.72	4	1	0.94	0.93	0.493	0.465	56.4
 GCA_038089235.1	Boletellus_ananas_JBBPKL	CUS_JBBPKL010032073_S2L1	cucumopine synthase (Cus)	mis group (profile only)	fragment	JBBPKL010032073.1	640	22.9	10.0	0.44	10.0	3	0.44	edge	edge	0.89	0.93	0.503	0.465	55.1
@@ -29,7 +29,7 @@ GCA_038089435.1	Boletus_austroedulis	CUS_JBBPKX010002099_L1	cucumopine synthase 
 GCA_038089435.1	Boletus_austroedulis	CUS_JBBPKX010002805_L1	cucumopine synthase (Cus)	not a homolog	intact	JBBPKX010002805.1	4828	39.6	42.7	1.08	42.5	1	1.07	edge	26	0.99	0.91	0.508	0.481	56.2
 GCA_038089435.1	Boletus_austroedulis	CUS_JBBPKX010013957_L1	cucumopine synthase (Cus)	cus-like	pseudogene	JBBPKX010013957.1	700	39.6	39.2	0.99	42.6	13	1.08	edge	edge	0.83	0.91	0.513	0.481	57.5
 GCA_038089435.1	Boletus_austroedulis	CUS_JBBPKX010000014_S2L1	cucumopine synthase (Cus)	mis group	pseudogene	JBBPKX010000014.1	51716	39.6	35.2	0.89	32.6	19	0.82	20	21	0.99	0.91	0.419	0.481	59.2
-GCA_038089435.1	Boletus_austroedulis	CUS_JBBPKX010000014_S2L2	cucumopine synthase (Cus)	mis group	intact	JBBPKX010000014.1	51716	39.6	35.2	0.89	30.3	12	0.77	12	11	0.99	0.91	0.419	0.481	59.2
+GCA_038089435.1	Boletus_austroedulis	CUS_JBBPKX010000014_S2L2	cucumopine synthase (Cus)	mis group	intact	JBBPKX010000014.1	51716	39.6	35.2	0.89	29.5	13	0.74	15	11	0.99	0.91	0.419	0.481	59.2
 GCA_038089435.1	Boletus_austroedulis	CUS_JBBPKX010000046_S2L1	cucumopine synthase (Cus)	other bacterial-type small ORF (cusrel181) (profile only)	remnant	JBBPKX010000046.1	36221	39.6	35.0	0.88	24.3	13	0.61	14	9	0.98	0.91	0.426	0.481	59.1
 GCA_038089435.1	Boletus_austroedulis	CUS_JBBPKX010001928_S2L1	cucumopine synthase (Cus)	mis group	pseudogene	JBBPKX010001928.1	6830	39.6	32.0	0.81	29.9	11	0.76	21	13	0.98	0.91	0.463	0.481	59.1
 GCA_038091375.1	Austroboletus_festivus_JBBPOG	ACS_JBBPOG010012756_L1	GDPD	pKerr14a-type acs-like	intact	JBBPOG010012756.1	1076	216.3	34.6	0.16	36.9	1	0.17	edge	edge	0.95	0.93	0.506	0.477	38.6

@@ -1,0 +1,53 @@
+start	end	strand	protein_id	product
+1	314	1	WP_371412336.1	CDS:LysR substrate-binding domain-containing protein
+719	4195	-1	WP_107028650.1	CDS:type 2 periplasmic-binding domain-containing protein
+4687	6084	-1	WP_107028651.1	CDS:Dyp-type peroxidase
+6135	6596	-1	WP_107028691.1	CDS:hypothetical protein
+6700	8364	-1	WP_107028652.1	CDS:DUF2272 domain-containing protein
+8467	9093	-1	WP_146160963.1	CDS:hypothetical protein
+9706	10869	1	WP_107028654.1	CDS:hypothetical protein
+10866	12038	1	WP_107028655.1	CDS:caspase family protein
+12035	13282	1	WP_107028656.1	CDS:hypothetical protein
+13385	14179	1	WP_146160964.1	CDS:fatty acid desaturase CarF family protein
+14166	14591	-1	WP_158269004.1	CDS:PaaI family thioesterase
+15378	15935	-1	-	CDS:IS110 family transposase [pseudo]
+15929	16312	1	WP_107028692.1	CDS:oxidoreductase dimerization domain-containing protein
+16678	17079	-1	WP_107028659.1	CDS:RidA family protein
+17375	17968	-1	WP_107028660.1	CDS:TetR/AcrR family transcriptional regulator
+18353	19300	-1	WP_107028661.1	CDS:alpha/beta hydrolase family protein
+19354	20109	-1	WP_107028662.1	CDS:SDR family oxidoreductase
+20206	21123	1	WP_107028663.1	CDS:helix-turn-helix transcriptional regulator
+21706	22416	1	-	CDS:IS5 family transposase [pseudo]
+22962	23531	-1	WP_199197116.1	CDS:hypothetical protein
+23790	25196	1	WP_107028664.1	CDS:LLM class flavin-dependent oxidoreductase
+25324	26115	1	WP_107028665.1	CDS:ABC transporter ATP-binding protein
+26112	26993	1	WP_107028666.1	CDS:branched-chain amino acid ABC transporter permease
+26997	28043	1	WP_107028667.1	CDS:branched-chain amino acid ABC transporter permease
+28079	29407	1	WP_107028668.1	CDS:ABC transporter substrate-binding protein
+29429	30775	1	WP_107028669.1	CDS:ABC transporter substrate-binding protein
+30834	31616	1	WP_107028670.1	CDS:ABC transporter ATP-binding protein
+31654	32880	1	WP_107028671.1	CDS:acyl-CoA dehydrogenase family protein
+32892	34307	1	WP_107028693.1	CDS:FAD/NAD(P)-binding protein
+34554	34844	1	-	CDS:ABC transporter permease subunit [pseudo]
+34918	36087	-1	WP_107028672.1	CDS:FMNH2-dependent alkanesulfonate monooxygenase
+36669	36948	1	-	CDS:dienelactone hydrolase-related enzyme [pseudo]
+38356	39675	-1	WP_107028675.1	CDS:sensor histidine kinase
+39675	40349	-1	WP_107028676.1	CDS:response regulator transcription factor
+40531	40606	-1	-	tRNA:tRNA-Ile
+40824	41720	-1	WP_245449331.1	CDS:alpha/beta fold hydrolase
+41667	42566	1	WP_107028677.1	CDS:LysR family transcriptional regulator
+42992	43633	-1	WP_107028678.1	CDS:hydrolase
+44235	44795	1	WP_107028679.1	CDS:FMN reductase
+45794	46879	-1	WP_107028680.1	CDS:Rossmann-fold NAD(P)-binding domain-containing protein
+47654	49018	1	WP_107028681.1	CDS:hypothetical protein
+49633	50367	1	WP_107028682.1	CDS:hypothetical protein
+50806	51699	-1	WP_107028696.1	CDS:LysR family transcriptional regulator
+51827	52678	1	WP_107028683.1	CDS:transporter substrate-binding domain-containing protein
+52771	53076	1	WP_107028684.1	CDS:(2Fe-2S)-binding protein
+53115	54602	1	WP_107028685.1	CDS:FAD/NAD(P)-dependent oxidoreductase
+54595	55761	1	WP_107028686.1	CDS:NAD(P)/FAD-dependent oxidoreductase
+55758	56471	1	WP_107028687.1	CDS:ABC transporter permease
+56474	57166	1	WP_107028688.1	CDS:ABC transporter permease
+57189	57998	1	WP_107028689.1	CDS:ABC transporter ATP-binding protein
+58156	59118	-1	WP_245449333.1	CDS:SDR family NAD(P)-dependent oxidoreductase
+59596	60479	-1	WP_107028690.1	CDS:IS256 family transposase

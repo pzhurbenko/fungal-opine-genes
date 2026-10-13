@@ -19,6 +19,9 @@ ORIGIN = {"sus-like (T-DNA type)": "T-DNA (sus)", "cus-like (T-DNA type)": "T-DN
           "OCD-like, outside T-DNA sus clade": "OCD-fold homologs outside the sus-like clade (not analysed)", "not a homolog": "not a homolog of the lineages", "T-DNA acs clade": "T-DNA (acs)", "nos-subfamily ODH homolog (Rhypophila, not assigned)": "not assigned to any lineage (not counted)"}
 FAM = {"ACS": "GDPD", "CUS": "cucumopine synthase (Cus)", "SUS": "OCD fold (Sus)"}
 STATUS = {"pseudogene_like": "pseudogene", "fragment": "fragment", "remnant": "remnant", "intact": "intact", "ambiguous": "ambiguous", "not_homolog": "not a homolog", "not_run": "not modelled"}
+# 2026-10-13w: TableS1_loci_catalog.tsv was edited by hand (backup .bak_20261013w) for ACS_JBBPKL010003317_L1 and CUS_JBBPKL010003317_S2L1 (Boletellus ananas, contig JBBPKL010003317):
+# the merged AUGUSTUS model 2957-6067 (7 exons, 657 aa) was recorded twice; replaced by the two genes split by HMM envelope, coordinates re-derived with miniprot
+# (analysis/data_checks_20261013/work/split.gff): ACS 2972-3880 (+, 3 exons, 251 aa), mis 4172-5543 (+, 3 exons, 203 aa). Re-running any generator of that TSV would undo this.
 out = []
 # ---- 1. profile screen
 for r in rd(T + "TableS1_loci_catalog.tsv"):
@@ -121,7 +124,7 @@ ROUTE = {"profile screen (HMM/blastx) of 517 Boletales + 1,386 other assemblies"
          "blastx of 388 plasmid proteins on 517 Boletales assemblies": "blastx of plasmid proteins vs. Boletales assemblies"}
 # identity of intact genes to the nearest reference, % (range; median) - values from Results 3.4 and Table S14c; pKerr14a-type not reported in the text (n.d.)
 IDENT = {"sus-like (T-DNA type)": "38–68; median 46", "cus-like (T-DNA type)": "46–65; median 57", "chs-like (T-DNA type)": "59–60 (chrysopine synthase)",
-         "acc-type GDPD": "60–66 (GDPD of *Mesorhizobium*, *Neorhizobium*)", "pKerr14a-type acs-like": "n.d.",
+         "acc-type GDPD": "60–66 (GDPD of *Mesorhizobium*, *Neorhizobium*)", "pKerr14a-type acs-like": "30–37 (*acs* of pKerr14a)",
          "nos-subfamily opine dehydrogenase (Boletales)": "36–40 (nopaline synthase)", "odh island: opine dehydrogenase": "78–79", "odh island: Xaa-Pro aminopeptidase": "87", "odh island: third gene": "70"}
 NAME = {"nos-subfamily opine dehydrogenase (Boletales)": "nos-subfamily opine dehydrogenase (Boletales)", "odh island: opine dehydrogenase": "odh island: *odh*",
         "odh island: Xaa-Pro aminopeptidase": "odh island: *pepP*", "odh island: third gene": "odh island: *orf3*"}
@@ -129,7 +132,7 @@ main = []
 for r in rows:
     if not r["main_lineage"]: continue
     byo = f'{r["Boletales"]} / {r["Agaricales"]} / {r["Hypocreales"]} / {r["other_orders"]}'
-    main.append({"lineage": NAME.get(r["group"], r["group"]), "family": r["family"], "source (closest bacterial relatives)": SRC[r["group"]], "entry route": ROUTE[r["entry_route"]], "identity to nearest reference, % (intact genes; range, median)": IDENT[r["group"]],
+    main.append({"lineage": NAME.get(r["group"], r["group"]).replace(" (T-DNA type)", ""), "family": r["family"], "source (closest bacterial relatives)": SRC[r["group"]], "entry route": ROUTE[r["entry_route"]], "identity to nearest reference, % (intact genes; range, median)": IDENT[r["group"]],
                  "loci": r["n_loci"], "intact / pseudogene / truncated / fragment": f'{r["intact"]} / {r["pseudogene"]} / {r["truncated"]} / {r["fragment"]}',
                  "assemblies: Boletales / Agaricales / Hypocreales / other orders": byo, "species": r["n_species"]})
 with open(T + "Table2_main.tsv", "w", newline="") as f:

@@ -1,0 +1,18 @@
+rank	locus_tag	protein_id	start	end	strand	len_aa	parts	gc_pct	product
+-8	C6558_RS36820	WP_107028672.1	34918	36087	-1	389	1	60.6	FMNH2-dependent alkanesulfonate monooxygenase
+-7	C6558_RS41255	-	36669	36948	1	0	1	52.1	dienelactone hydrolase-related enzyme
+-6	C6558_RS36840	WP_107028675.1	38356	39675	-1	439	1	56.8	sensor histidine kinase
+-5	C6558_RS36845	WP_107028676.1	39675	40349	-1	224	1	57.2	response regulator transcription factor
+-4	C6558_RS36855	WP_245449331.1	40824	41720	-1	298	1	53.0	alpha/beta fold hydrolase
+-3	C6558_RS36860	WP_107028677.1	41667	42566	1	299	1	56.4	LysR family transcriptional regulator
+-2	C6558_RS36865	WP_107028678.1	42992	43633	-1	213	1	54.4	hydrolase
+-1	C6558_RS36870	WP_107028679.1	44235	44795	1	186	1	56.3	FMN reductase
+TARGET	C6558_RS36880	WP_107028680.1	45794	46879	-1	361	1	58.5	Rossmann-fold NAD(P)-binding domain-containing protein
+1	C6558_RS36885	WP_107028681.1	47654	49018	1	454	1	55.9	hypothetical protein
+2	C6558_RS36890	WP_107028682.1	49633	50367	1	244	1	54.0	hypothetical protein
+3	C6558_RS41260	WP_107028696.1	50806	51699	-1	297	1	62.2	LysR family transcriptional regulator
+4	C6558_RS36900	WP_107028683.1	51827	52678	1	283	1	58.8	transporter substrate-binding domain-containing protein
+5	C6558_RS36905	WP_107028684.1	52771	53076	1	101	1	60.8	(2Fe-2S)-binding protein
+6	C6558_RS36910	WP_107028685.1	53115	54602	1	495	1	66.5	FAD/NAD(P)-dependent oxidoreductase
+7	C6558_RS36915	WP_107028686.1	54595	55761	1	388	1	63.2	NAD(P)/FAD-dependent oxidoreductase
+8	C6558_RS36920	WP_107028687.1	55758	56471	1	237	1	62.5	ABC transporter permease

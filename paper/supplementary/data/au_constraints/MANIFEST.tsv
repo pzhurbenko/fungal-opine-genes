@@ -1,0 +1,74 @@
+family	run	constraint_id	role	files
+SUS	SUS	SUS-1	constraint	SUS/SUS/constraint/SUS.H_tdna.constraint.nwk;SUS/SUS/search/SUS.H_tdna.treefile;SUS/SUS/search/SUS.H_tdna.iqtree;SUS/SUS/search/SUS.H_tdna.log
+SUS	SUS	SUS-2	constraint	SUS/SUS/constraint/SUS.H_alt.constraint.nwk;SUS/SUS/search/SUS.H_alt.treefile;SUS/SUS/search/SUS.H_alt.iqtree;SUS/SUS/search/SUS.H_alt.log
+SUS	SUS	(all constraints of the run)	AU test and ML/user trees	SUS/SUS/run/SUS.AU.iqtree;SUS/SUS/run/SUS.AU.log;SUS/SUS/run/SUS.AU.trees;SUS/SUS/run/SUS.mafft.iqtree.treefile
+SUS	SUS_nat	SUS_nat-3	constraint	SUS/SUS_nat/constraint/SUS.sus_natv_core.constraint.nwk;SUS/SUS_nat/search/SUS.sus_natv_core.treefile;SUS/SUS_nat/search/SUS.sus_natv_core.iqtree;SUS/SUS_nat/search/SUS.sus_natv_core.log
+SUS	SUS_nat	SUS_nat-4	constraint	SUS/SUS_nat/constraint/SUS.sus_natv_all.constraint.nwk;SUS/SUS_nat/search/SUS.sus_natv_all.treefile;SUS/SUS_nat/search/SUS.sus_natv_all.iqtree;SUS/SUS_nat/search/SUS.sus_natv_all.log
+SUS	SUS_nat	(all constraints of the run)	AU test and ML/user trees	SUS/SUS_nat/run/SUS.mafft.iqtree.treefile;SUS/SUS_nat/run/au_sus_native.iqtree;SUS/SUS_nat/run/au_sus_native.log;SUS/SUS_nat/run/au_sus_native.trees;SUS/SUS_nat/run/au_trees.nwk;SUS/SUS_nat/run/groups.txt;SUS/SUS_nat/run/hyp_order.txt;SUS/SUS_nat/run/run_au_sus_native.sh
+GDPD	ACS	ACS-1	constraint	GDPD/ACS/constraint/ACS.six_tdna.constraint.nwk;GDPD/ACS/search/ACS.six_tdna.treefile;GDPD/ACS/search/ACS.six_tdna.iqtree;GDPD/ACS/search/ACS.six_tdna.log
+GDPD	ACS	ACS-2	constraint	GDPD/ACS/constraint/ACS.six_kerr.constraint.nwk;GDPD/ACS/search/ACS.six_kerr.treefile;GDPD/ACS/search/ACS.six_kerr.iqtree;GDPD/ACS/search/ACS.six_kerr.log
+GDPD	ACS	ACS-3	constraint	GDPD/ACS/constraint/ACS.six_acc.constraint.nwk;GDPD/ACS/search/ACS.six_acc.treefile;GDPD/ACS/search/ACS.six_acc.iqtree;GDPD/ACS/search/ACS.six_acc.log
+GDPD	ACS	ACS-4	constraint	GDPD/ACS/constraint/ACS.six_natv.constraint.nwk;GDPD/ACS/search/ACS.six_natv.treefile;GDPD/ACS/search/ACS.six_natv.iqtree;GDPD/ACS/search/ACS.six_natv.log
+GDPD	ACS	ACS-5	constraint	GDPD/ACS/constraint/ACS.meso_acc.constraint.nwk;GDPD/ACS/search/ACS.meso_acc.treefile;GDPD/ACS/search/ACS.meso_acc.iqtree;GDPD/ACS/search/ACS.meso_acc.log
+GDPD	ACS	ACS-6	constraint	GDPD/ACS/constraint/ACS.meso_tdna.constraint.nwk;GDPD/ACS/search/ACS.meso_tdna.treefile;GDPD/ACS/search/ACS.meso_tdna.iqtree;GDPD/ACS/search/ACS.meso_tdna.log
+GDPD	ACS	(all constraints of the run)	AU test and ML/user trees	GDPD/ACS/run/ACS.lineage.AU.iqtree;GDPD/ACS/run/ACS.lineage.AU.log;GDPD/ACS/run/ACS.lineage.AU.order.txt;GDPD/ACS/run/ACS.lineage.AU.trees;GDPD/ACS/run/ACS.mafft.iqtree.treefile;GDPD/ACS/run/au_lineage_acs.sh
+GDPD	ACS_nat	ACS_nat-7	constraint	GDPD/ACS_nat/constraint/ACS.meso_natv.constraint.nwk;GDPD/ACS_nat/search/ACS.meso_natv.treefile;GDPD/ACS_nat/search/ACS.meso_natv.iqtree;GDPD/ACS_nat/search/ACS.meso_natv.log
+GDPD	ACS_nat	(all constraints of the run)	AU test and ML/user trees	GDPD/ACS_nat/run/ACS.mafft.iqtree.treefile;GDPD/ACS_nat/run/au_acc_native.iqtree;GDPD/ACS_nat/run/au_acc_native.log;GDPD/ACS_nat/run/au_acc_native.trees;GDPD/ACS_nat/run/au_trees.nwk;GDPD/ACS_nat/run/groups.txt;GDPD/ACS_nat/run/hyp_order.txt;GDPD/ACS_nat/run/run_au_acc_native.sh
+CUS	CUS	CUS-1	constraint	CUS/CUS/constraint/CUS.cus_tdna_x.constraint.nwk;CUS/CUS/search/CUS.cus_tdna_x.treefile;CUS/CUS/search/CUS.cus_tdna_x.iqtree;CUS/CUS/search/CUS.cus_tdna_x.log
+CUS	CUS	CUS-2	constraint	CUS/CUS/constraint/CUS.cus_tdna4_x.constraint.nwk;CUS/CUS/search/CUS.cus_tdna4_x.treefile;CUS/CUS/search/CUS.cus_tdna4_x.iqtree;CUS/CUS/search/CUS.cus_tdna4_x.log
+CUS	CUS	CUS-3	constraint	CUS/CUS/constraint/CUS.cus_act_x.constraint.nwk;CUS/CUS/search/CUS.cus_act_x.treefile;CUS/CUS/search/CUS.cus_act_x.iqtree;CUS/CUS/search/CUS.cus_act_x.log
+CUS	CUS	CUS-4	constraint	CUS/CUS/constraint/CUS.cus_mis_x.constraint.nwk;CUS/CUS/search/CUS.cus_mis_x.treefile;CUS/CUS/search/CUS.cus_mis_x.iqtree;CUS/CUS/search/CUS.cus_mis_x.log
+CUS	CUS	CUS-5	constraint	CUS/CUS/constraint/CUS.cus_bact_x.constraint.nwk;CUS/CUS/search/CUS.cus_bact_x.treefile;CUS/CUS/search/CUS.cus_bact_x.iqtree;CUS/CUS/search/CUS.cus_bact_x.log
+CUS	CUS	CUS-6	constraint	CUS/CUS/constraint/CUS.cus_mono_x.constraint.nwk;CUS/CUS/search/CUS.cus_mono_x.treefile;CUS/CUS/search/CUS.cus_mono_x.iqtree;CUS/CUS/search/CUS.cus_mono_x.log
+CUS	CUS	CUS-7	constraint	CUS/CUS/constraint/CUS.bol_tdna_x.constraint.nwk;CUS/CUS/search/CUS.bol_tdna_x.treefile;CUS/CUS/search/CUS.bol_tdna_x.iqtree;CUS/CUS/search/CUS.bol_tdna_x.log
+CUS	CUS	CUS-8	constraint	CUS/CUS/constraint/CUS.bol_act_x.constraint.nwk;CUS/CUS/search/CUS.bol_act_x.treefile;CUS/CUS/search/CUS.bol_act_x.iqtree;CUS/CUS/search/CUS.bol_act_x.log
+CUS	CUS	CUS-9	constraint	CUS/CUS/constraint/CUS.bol_mis_x.constraint.nwk;CUS/CUS/search/CUS.bol_mis_x.treefile;CUS/CUS/search/CUS.bol_mis_x.iqtree;CUS/CUS/search/CUS.bol_mis_x.log
+CUS	CUS	CUS-10	constraint	CUS/CUS/constraint/CUS.bol_othercus_x.constraint.nwk;CUS/CUS/search/CUS.bol_othercus_x.treefile;CUS/CUS/search/CUS.bol_othercus_x.iqtree;CUS/CUS/search/CUS.bol_othercus_x.log
+CUS	CUS	(all constraints of the run)	AU test and ML/user trees	CUS/CUS/run/CUS.lineage_x.AU.iqtree;CUS/CUS/run/CUS.lineage_x.AU.log;CUS/CUS/run/CUS.lineage_x.AU.order.txt;CUS/CUS/run/CUS.lineage_x.AU.trees;CUS/CUS/run/CUS.mafft.iqtree.treefile;CUS/CUS/run/au_lineage_cus.sh
+CUS	CUS_nb	CUS_nb-1	constraint	CUS/CUS_nb/constraint/CUS.nb_tdna_x.constraint.nwk;CUS/CUS_nb/search/CUS.nb_tdna_x.treefile;CUS/CUS_nb/search/CUS.nb_tdna_x.iqtree;CUS/CUS_nb/search/CUS.nb_tdna_x.log
+CUS	CUS_nb	CUS_nb-2	constraint	CUS/CUS_nb/constraint/CUS.nb_tdna4_x.constraint.nwk;CUS/CUS_nb/search/CUS.nb_tdna4_x.treefile;CUS/CUS_nb/search/CUS.nb_tdna4_x.iqtree;CUS/CUS_nb/search/CUS.nb_tdna4_x.log
+CUS	CUS_nb	CUS_nb-3	constraint	CUS/CUS_nb/constraint/CUS.nb_act_x.constraint.nwk;CUS/CUS_nb/search/CUS.nb_act_x.treefile;CUS/CUS_nb/search/CUS.nb_act_x.iqtree;CUS/CUS_nb/search/CUS.nb_act_x.log
+CUS	CUS_nb	CUS_nb-4	constraint	CUS/CUS_nb/constraint/CUS.nb_mis_x.constraint.nwk;CUS/CUS_nb/search/CUS.nb_mis_x.treefile;CUS/CUS_nb/search/CUS.nb_mis_x.iqtree;CUS/CUS_nb/search/CUS.nb_mis_x.log
+CUS	CUS_nb	CUS_nb-5	constraint	CUS/CUS_nb/constraint/CUS.nb_bact_x.constraint.nwk;CUS/CUS_nb/search/CUS.nb_bact_x.treefile;CUS/CUS_nb/search/CUS.nb_bact_x.iqtree;CUS/CUS_nb/search/CUS.nb_bact_x.log
+CUS	CUS_nb	CUS_nb-6	constraint	CUS/CUS_nb/constraint/CUS.nb_mono_x.constraint.nwk;CUS/CUS_nb/search/CUS.nb_mono_x.treefile;CUS/CUS_nb/search/CUS.nb_mono_x.iqtree;CUS/CUS_nb/search/CUS.nb_mono_x.log
+CUS	CUS_nb	(all constraints of the run)	AU test and ML/user trees	CUS/CUS_nb/run/CUS.lineage_nb.AU.iqtree;CUS/CUS_nb/run/CUS.lineage_nb.AU.log;CUS/CUS_nb/run/CUS.lineage_nb.AU.order.txt;CUS/CUS_nb/run/CUS.lineage_nb.AU.trees;CUS/CUS_nb/run/CUS.mafft.iqtree.treefile
+CUS	CUS_bm	CUS_bm-5	constraint	CUS/CUS_bm/constraint/CUS.bol_mono_x.constraint.nwk;CUS/CUS_bm/search/CUS.bol_mono_x_s2.treefile;CUS/CUS_bm/search/CUS.bol_mono_x_s2.iqtree;CUS/CUS_bm/search/CUS.bol_mono_x_s2.log
+CUS	CUS_bm	(all constraints of the run)	AU test and ML/user trees	CUS/CUS_bm/run/CUS.lineage_bm_s2.AU.iqtree;CUS/CUS_bm/run/CUS.lineage_bm_s2.AU.log;CUS/CUS_bm/run/CUS.lineage_bm_s2.AU.trees;CUS/CUS_bm/run/CUS.lineage_bm_s2.candidates.nwk;CUS/CUS_bm/run/CUS.mafft.iqtree.treefile;CUS/CUS_bm/run/run_au_bolmono_s2.sh
+CHS	CHS	CHS-1	constraint	CHS/CHS/constraint/chs_tdna.nwk;CHS/CHS/search/chs_tdna.treefile;CHS/CHS/search/chs_tdna.iqtree;CHS/CHS/search/chs_tdna.log
+CHS	CHS	CHS-2	constraint	CHS/CHS/constraint/chs_bactchs.nwk;CHS/CHS/search/chs_bactchs.treefile;CHS/CHS/search/chs_bactchs.iqtree;CHS/CHS/search/chs_bactchs.log
+CHS	CHS	CHS-3	constraint	CHS/CHS/constraint/chs_ags.nwk;CHS/CHS/search/chs_ags.treefile;CHS/CHS/search/chs_ags.iqtree;CHS/CHS/search/chs_ags.log
+CHS	CHS	CHS-4	constraint	CHS/CHS/constraint/chs_nat.nwk;CHS/CHS/search/chs_nat.treefile;CHS/CHS/search/chs_nat.iqtree;CHS/CHS/search/chs_nat.log
+CHS	CHS	CHS-5	constraint	CHS/CHS/constraint/chs_bact.nwk;CHS/CHS/search/chs_bact.treefile;CHS/CHS/search/chs_bact.iqtree;CHS/CHS/search/chs_bact.log
+CHS	CHS	CHS-6	constraint	CHS/CHS/constraint/chs_mono.nwk;CHS/CHS/search/chs_mono.treefile;CHS/CHS/search/chs_mono.iqtree;CHS/CHS/search/chs_mono.log
+CHS	CHS	(all constraints of the run)	AU test and ML/user trees	CHS/CHS/run/au_test.iqtree;CHS/CHS/run/au_test.log;CHS/CHS/run/au_test.trees;CHS/CHS/run/au_trees.nwk;CHS/CHS/run/run_au.sh
+CHS	CHS_nest	CHS_nest-1	constraint	CHS/CHS_nest/constraint/nest_seed.nwk;CHS/CHS_nest/search/nest_seed.treefile;CHS/CHS_nest/search/nest_seed.iqtree;CHS/CHS_nest/search/nest_seed.log
+CHS	CHS_nest	CHS_nest-2	constraint	CHS/CHS_nest/constraint/fnest_seed.nwk;CHS/CHS_nest/search/fnest_seed.treefile;CHS/CHS_nest/search/fnest_seed.iqtree;CHS/CHS_nest/search/fnest_seed.log
+CHS	CHS_nest	CHS_nest-3	constraint	CHS/CHS_nest/constraint/nest_b139.nwk;CHS/CHS_nest/search/nest_b139.treefile;CHS/CHS_nest/search/nest_b139.iqtree;CHS/CHS_nest/search/nest_b139.log
+CHS	CHS_nest	CHS_nest-4	constraint	CHS/CHS_nest/constraint/fnest_b139.nwk;CHS/CHS_nest/search/fnest_b139.treefile;CHS/CHS_nest/search/fnest_b139.iqtree;CHS/CHS_nest/search/fnest_b139.log
+CHS	CHS_nest	CHS_nest-5	constraint	CHS/CHS_nest/constraint/nest_b272871.nwk;CHS/CHS_nest/search/nest_b272871.treefile;CHS/CHS_nest/search/nest_b272871.iqtree;CHS/CHS_nest/search/nest_b272871.log
+CHS	CHS_nest	CHS_nest-6	constraint	CHS/CHS_nest/constraint/fnest_b272871.nwk;CHS/CHS_nest/search/fnest_b272871.treefile;CHS/CHS_nest/search/fnest_b272871.iqtree;CHS/CHS_nest/search/fnest_b272871.log
+CHS	CHS_nest	CHS_nest-7	constraint	CHS/CHS_nest/constraint/nest_b272951.nwk;CHS/CHS_nest/search/nest_b272951.treefile;CHS/CHS_nest/search/nest_b272951.iqtree;CHS/CHS_nest/search/nest_b272951.log
+CHS	CHS_nest	CHS_nest-8	constraint	CHS/CHS_nest/constraint/fnest_b272951.nwk;CHS/CHS_nest/search/fnest_b272951.treefile;CHS/CHS_nest/search/fnest_b272951.iqtree;CHS/CHS_nest/search/fnest_b272951.log
+CHS	CHS_nest	CHS_nest-9	constraint	CHS/CHS_nest/constraint/nest_b084.nwk;CHS/CHS_nest/search/nest_b084.treefile;CHS/CHS_nest/search/nest_b084.iqtree;CHS/CHS_nest/search/nest_b084.log
+CHS	CHS_nest	CHS_nest-10	constraint	CHS/CHS_nest/constraint/fnest_b084.nwk;CHS/CHS_nest/search/fnest_b084.treefile;CHS/CHS_nest/search/fnest_b084.iqtree;CHS/CHS_nest/search/fnest_b084.log
+CHS	CHS_nest	(all constraints of the run)	AU test and ML/user trees	CHS/CHS_nest/run/au_nested.iqtree;CHS/CHS_nest/run/au_nested.log;CHS/CHS_nest/run/au_nested.trees;CHS/CHS_nest/run/au_trees.nwk;CHS/CHS_nest/run/hyp_order.txt;CHS/CHS_nest/run/run_au_nested.sh
+NOS	NOS	NOS-1	constraint	NOS/NOS/constraint/c1_bol_in_tdna.nwk;NOS/NOS/search/c1_bol_in_tdna.treefile;NOS/NOS/search/c1_bol_in_tdna.iqtree;NOS/NOS/search/c1_bol_in_tdna.log
+NOS	NOS	NOS-2	constraint	NOS/NOS/constraint/c2_rh_in_tdna.nwk;NOS/NOS/search/c2_rh_in_tdna.treefile;NOS/NOS/search/c2_rh_in_tdna.iqtree;NOS/NOS/search/c2_rh_in_tdna.log
+NOS	NOS	NOS-3	constraint	NOS/NOS/constraint/c3_fungal_mono.nwk;NOS/NOS/search/c3_fungal_mono.treefile;NOS/NOS/search/c3_fungal_mono.iqtree;NOS/NOS/search/c3_fungal_mono.log
+NOS	NOS	(all constraints of the run)	AU test and ML/user trees	NOS/NOS/run/au_test.iqtree;NOS/NOS/run/au_test.log;NOS/NOS/run/au_test.trees;NOS/NOS/run/au_trees.nwk;NOS/NOS/run/run_au.sh
+NOS	NOS_nat	NOS_nat-4	constraint	NOS/NOS_nat/constraint/c4_bol_nat.nwk;NOS/NOS_nat/search/c4_bol_nat.treefile;NOS/NOS_nat/search/c4_bol_nat.iqtree;NOS/NOS_nat/search/c4_bol_nat.log
+NOS	NOS_nat	NOS_nat-5	constraint	NOS/NOS_nat/constraint/c5_bol_rh_nat.nwk;NOS/NOS_nat/search/c5_bol_rh_nat.treefile;NOS/NOS_nat/search/c5_bol_rh_nat.iqtree;NOS/NOS_nat/search/c5_bol_rh_nat.log
+NOS	NOS_nat	(all constraints of the run)	AU test and ML/user trees	NOS/NOS_nat/run/au_native.iqtree;NOS/NOS_nat/run/au_native.log;NOS/NOS_nat/run/au_native.trees;NOS/NOS_nat/run/au_trees.nwk;NOS/NOS_nat/run/hyp_order.txt;NOS/NOS_nat/run/run_au_native.sh
+NOS	NOS_rh	NOS_rh-6	constraint	NOS/NOS_rh/constraint/c6_rh_2sord.nwk;NOS/NOS_rh/search/c6_rh_2sord.treefile;NOS/NOS_rh/search/c6_rh_2sord.iqtree;NOS/NOS_rh/search/c6_rh_2sord.log
+NOS	NOS_rh	NOS_rh-7	constraint	NOS/NOS_rh/constraint/c7_rh_sord.nwk;NOS/NOS_rh/search/c7_rh_sord.treefile;NOS/NOS_rh/search/c7_rh_sord.iqtree;NOS/NOS_rh/search/c7_rh_sord.log
+NOS	NOS_rh	NOS_rh-8	constraint	NOS/NOS_rh/constraint/c8_rh_nat.nwk;NOS/NOS_rh/search/c8_rh_nat.treefile;NOS/NOS_rh/search/c8_rh_nat.iqtree;NOS/NOS_rh/search/c8_rh_nat.log
+NOS	NOS_rh	(all constraints of the run)	AU test and ML/user trees	NOS/NOS_rh/run/au_rhypo.iqtree;NOS/NOS_rh/run/au_rhypo.log;NOS/NOS_rh/run/au_rhypo.trees;NOS/NOS_rh/run/au_trees.nwk;NOS/NOS_rh/run/groups.txt;NOS/NOS_rh/run/hyp_order.txt;NOS/NOS_rh/run/run_au_rhypo.sh
+ODH	ODH	ODH-1	constraint	ODH/ODH/constraint/H1_isl_native.nwk;ODH/ODH/search/H1_isl_native.treefile;ODH/ODH/search/H1_isl_native.iqtree;ODH/ODH/search/H1_isl_native.log
+ODH	ODH	ODH-2	constraint	ODH/ODH/constraint/H1b_isl_sordario.nwk;ODH/ODH/search/H1b_isl_sordario.treefile;ODH/ODH/search/H1b_isl_sordario.iqtree;ODH/ODH/search/H1b_isl_sordario.log
+ODH	ODH	ODH-3	constraint	ODH/ODH/constraint/H1c_native_only.nwk;ODH/ODH/search/H1c_native_only.treefile;ODH/ODH/search/H1c_native_only.iqtree;ODH/ODH/search/H1c_native_only.log
+ODH	ODH	ODH-4	constraint	ODH/ODH/constraint/H2_isl_tdna.nwk;ODH/ODH/search/H2_isl_tdna.treefile;ODH/ODH/search/H2_isl_tdna.iqtree;ODH/ODH/search/H2_isl_tdna.log
+ODH	ODH	ODH-5	constraint	ODH/ODH/constraint/H2s_isl_seeds.nwk;ODH/ODH/search/H2s_isl_seeds.treefile;ODH/ODH/search/H2s_isl_seeds.iqtree;ODH/ODH/search/H2s_isl_seeds.log
+ODH	ODH	ODH-6	constraint	ODH/ODH/constraint/H3_isl_larry.nwk;ODH/ODH/search/H3_isl_larry.treefile;ODH/ODH/search/H3_isl_larry.iqtree;ODH/ODH/search/H3_isl_larry.log
+ODH	ODH	ODH-7	constraint	ODH/ODH/constraint/H4_isl_bact.nwk;ODH/ODH/search/H4_isl_bact.treefile;ODH/ODH/search/H4_isl_bact.iqtree;ODH/ODH/search/H4_isl_bact.log
+ODH	ODH	ODH-8	constraint	ODH/ODH/constraint/H5_isl_nos.nwk;ODH/ODH/search/H5_isl_nos.treefile;ODH/ODH/search/H5_isl_nos.iqtree;ODH/ODH/search/H5_isl_nos.log
+ODH	ODH	(all constraints of the run)	AU test and ML/user trees	ODH/ODH/run/au_summary.tsv;ODH/ODH/run/au_test.iqtree;ODH/ODH/run/au_test.log;ODH/ODH/run/au_test.trees;ODH/ODH/run/au_trees.nwk;ODH/ODH/run/au_trees.order.txt;ODH/ODH/run/make_constraints.py;ODH/ODH/run/run_au.sh

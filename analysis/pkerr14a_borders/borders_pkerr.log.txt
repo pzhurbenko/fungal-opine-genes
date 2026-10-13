@@ -1,0 +1,135 @@
+length 292852 CDS 266
+acs (84168, 85428, 1)
+
+borders >= 18/25: 1
+  pos=  82583 + 20/25 TGGCAGGATATATTGCGATGTAGGA dist_to_acs=1585
+
+borders >= 17/25: 3
+  pos=  33833 - 17/25 TGGCCGAAGATCGTCTGCTGGAAAC dist_to_acs=50335
+  pos=  43063 + 17/25 TAACGGGATCTATTCCGGCGTAAGC dist_to_acs=41105
+  pos=  82583 + 20/25 TGGCAGGATATATTGCGATGTAGGA dist_to_acs=1585
+
+borders >= 16/25: 14
+  pos=  33833 - 17/25 TGGCCGAAGATCGTCTGCTGGAAAC dist_to_acs=50335
+  pos=  43063 + 17/25 TAACGGGATCTATTCCGGCGTAAGC dist_to_acs=41105
+  pos=  65289 - 16/25 GAGCACGATATTTTGTAGCCTATAG dist_to_acs=18879
+  pos=  70020 - 16/25 TTTCAGGATGATTTCGGGCGGAAAC dist_to_acs=14148
+  pos=  81379 - 16/25 GGGCAGGAGATACCGGCTTCTGAAC dist_to_acs=2789
+  pos=  82583 + 20/25 TGGCAGGATATATTGCGATGTAGGA dist_to_acs=1585
+  pos=  89928 + 16/25 CTGAAGGATATGATGTCGTGCAGAA dist_to_acs=4500
+  pos= 105052 + 16/25 TGGCGTGATTTCCTGTGTGTTCAAC dist_to_acs=19624
+  pos= 116050 + 16/25 TGACAAGATCGAGTGCAGTTTTAAC dist_to_acs=30622
+  pos= 141162 + 16/25 GGTCCTGATATATCGTGGCGAGGAC dist_to_acs=55734
+  pos= 170034 - 16/25 CGGCAGGACGGGATGTGCGGTGAAC dist_to_acs=84606
+  pos= 259326 + 16/25 TGGAAGCCTCTCTCATAGTGTAAGC dist_to_acs=173898
+  pos= 270293 - 16/25 CGGCGGGATATCTCGTGCGGCGAAT dist_to_acs=184865
+  pos= 279547 - 16/25 TGGCAGGCTCATATCAGGAGTAACC dist_to_acs=194119
+
+vir/tra/rep/opine-related CDS:
+    11088-  12006 + CUX64962.1          Transcriptional regulator
+    17245-  17950 - CUX65009.1          putative transcriptional activator protein TraR
+    22184-  22832 + CUX65074.1          Transcriptional regulator, TetR family
+    29593-  31102 + CUX65150.1   yufO   Uncharacterized ABC transporter ATP-binding protein YufO
+    31098-  32160 + CUX65157.1          ABC transporter, permease
+    32156-  33089 + CUX65166.1          Inner-membrane translocator
+    35812-  36463 + CUX65182.1          Glutathione S-transferase domain
+    41602-  42508 + CUX65217.1          Transcriptional regulator, LysR family
+    45057-  46014 + CUX65237.1          putative Ribose/xylose/arabinose/galactoside ABC-type transport system, permease components AraH
+    46010-  47531 + CUX65242.1          Ribose ABC transporter, ATP-binding protein
+    47540-  48533 + CUX65248.1          Ribose ABC transporter, permease protein
+    49816-  50227 - CUX65258.1          putative MarR-family transcriptional regulator
+    50343-  51078 + CUX65262.1          putative hydrolase
+    59709-  60813 + CUX65338.1          putative transcriptional regulator PurR
+    64735-  65266 - CUX65373.1          Transcriptional regulator, BadM/Rrf2 family (modular protein)
+    65439-  66126 + CUX65378.1          Methyltransferase type 11
+    67344-  69294 + CUX65404.1   virD   Protein virD4
+    84168-  85428 + CUX65485.1          putative Agrocinopine synthase
+   103439- 104678 - CUX65574.1   mas    Agropine synthesis reductase
+   113492- 114272 - CUX65618.1          ABC-type spermidine/putrescine transport system, permease component II
+   114268- 115138 - CUX65623.1          Opine/polyamine ABC transporter permease
+   121229- 121973 + CUX65704.1          putative transcriptional regulator, GntR
+   122383- 123901 + CUX65709.1          Extracellular solute-binding protein, family 5
+   123903- 124845 + CUX65717.1   dppB   Dipeptide transport system permease protein dppB (ABC transporter)
+   124841- 125738 + CUX65725.1          ABC transporter permease protein; putative dipeptide transport protein
+   125749- 127561 + CUX65732.1          putative ABC transporter (ATP-binding protein); putative dipeptide/oligopeptide/nickel transporter
+   127860- 128565 + CUX65738.1   traR   Transcriptional activator protein TraR
+   128757- 129462 - CUX65747.1   virC   Protein virC2
+   129463- 130159 - CUX65755.1   virC   Protein virC1
+   130352- 130853 + CUX65761.1          T-DNA border endonuclease virD1 (modular protein)
+   132952- 133777 + CUX65776.1   virC   Protein virC1
+   134933- 135875 - CUX65788.1          Response regulator receiver modulated metal dependent phosphohydrolase
+   135871- 137683 - CUX65794.1          putative Integral membrane sensor signal transduction histidine kinase
+   139067- 140033 + CUX65810.1          putative HTH-type transcriptional regulator SyrM
+   140057- 141020 + CUX65818.1          putative HTH-type transcriptional regulator SyrM
+   141093- 141816 - CUX65823.1   virG   Regulatory protein VirG
+   142228- 143209 + CUX65830.1          putative transglycosylase SLT domain protein
+   143220- 143550 + CUX65836.1          putative transmembrane protein
+   143587- 143866 + CUX65843.1          putative transmembrane protein homolog
+   147157- 148435 + CUX65865.1          putative transmembrane conjugal transfer protein
+   148454- 149129 + CUX65873.1   traJ   putative conjugative transfer protein
+   149125- 149932 + CUX65881.1   trbGp  putative conjugative DNA transfer protein
+   149921- 151307 + CUX65889.1   trbLp  putative conjugative DNA transfer protein
+   151303- 152305 + CUX65896.1          putative conjugative DNA transfer/component of type IV secretion system
+   167570- 168485 - CUX65986.1          Transcriptional regulator
+   170325- 171933 - CUX66000.1          ABC-type dipeptide transport system, periplasmic component
+   189878- 190859 - CUX66081.1          putative transcriptional regulator PurR
+   193073- 194648 + CUX66102.1   pntA   NAD(P) transhydrogenase subunit alpha
+   194669- 196118 + CUX66108.1   pntB   NAD(P)+ transhydrogenase beta chain
+   196065- 196407 + CUX66113.1          Hydrolase protein (fragment)
+   199727- 201239 + CUX66142.1   imuB   DNA damage; DNA repair, DNA polymerase
+   212365- 213322 - CUX66202.1   accR   Transcriptional repressor AccR
+   213565- 214669 + CUX66208.1          ABC transporter ATP-binding protein
+   234633- 234912 - CUX66405.1   hup    HU, DNA-binding transcriptional regulator, alpha subunit
+   236140- 238060 - CUX66417.1   traG   Conjugal transfer protein TraG
+   238046- 238262 - CUX66420.1          Conjugal transfer protein traD
+   238266- 238563 - CUX66425.1   traC   Conjugal transfer protein TraC
+   238818- 242121 + CUX66429.1   traA   Conjugal transfer protein TraA
+   242117- 242648 + CUX66433.1   traF   Conjugal transfer protein TraF
+   242718- 243864 + CUX66437.1   traB   Conjugal transfer protein TraB
+   244805- 245114 + CUX66449.1   traM   Transcriptional repressor TraM
+   246297- 247617 - CUX66467.1   trbI   Conjugal transfer protein TrbI
+   247613- 248096 - CUX66471.1   trbH   Conjugal transfer protein TrbH
+   248092- 248968 - CUX66477.1   trbG   Conjugal transfer protein TrbG
+   248964- 249627 - CUX66483.1   trbF   Conjugal transfer protein TrbF
+   249642- 250833 - CUX66487.1   trbL   Conjugal transfer protein TrbL
+   250826- 251060 - CUX66489.1   trbK   Conjugal transfer protein TrbK
+   251056- 251863 - CUX66494.1   trbJ   Conjugal transfer protein TrbJ
+   251834- 254297 - CUX66499.1   trbE   Conjugal transfer protein TrbE
+   254308- 254608 - CUX66503.1   trbD   Conjugal transfer protein TrbD
+   254600- 255011 - CUX66508.1   trbC   Conjugal transfer protein TrbC
+   255000- 255972 - CUX66513.1   trbB   Conjugal transfer protein TrbB
+   255968- 256604 - CUX66517.1   traI   Acyl-homoserine-lactone synthase
+   256903- 258178 + CUX66524.1   repA   putative replication protein A
+   259444- 260686 + CUX66543.1   repC   putative replication protein C
+   265638- 266340 + CUX66592.1          putative transcriptional regulator containing the HTH domain
+   274933- 276460 - CUX66639.1   nmoT   transposase
+   276705- 277128 - CUX66649.1          Uncharacterized HTH-type transcriptional regulator Smed_0045
+   281727- 282333 + CUX66667.1          Phosphopantetheinyl transferase
+
+neighbours of acs (±15 kb):
+    67344-  69294 + CUX65404.1   virD   Protein virD4
+    69278-  69389 + CUX65408.1          hypothetical protein
+    69966-  70158 + CUX65416.1          hypothetical protein
+    70192-  71806 + CUX65421.1          hypothetical protein
+    71865-  73758 + CUX65428.1          hypothetical protein
+    73903-  74080 - CUX65436.1          hypothetical protein
+    74148-  75471 - CUX65440.1          HipA domain-containing protein
+    75537-  75834 + CUX65446.1          hypothetical protein
+    76077-  79707 + CUX65452.1          conserved hypothetical protein
+    79846-  80788 + CUX65459.1          hypothetical protein
+    81067-  82306 - CUX65467.1          hypothetical protein
+    82383-  82773 + CUX65472.1          hypothetical protein
+    82818-  83025 + CUX65479.1          hypothetical protein
+    84168-  85428 + CUX65485.1          putative Agrocinopine synthase
+    85840-  86050 - CUX65492.1          hypothetical protein
+    86954-  87638 - CUX65499.1          hypothetical protein
+    87817-  88285 + CUX65503.1          hypothetical protein
+    88919-  89021 - CUX65509.1          hypothetical protein
+    89081-  90413 - CUX65515.1          hypothetical protein
+    90884-  91100 + CUX65522.1          hypothetical protein
+    91570-  91777 - CUX65527.1          hypothetical protein
+    92630-  92759 - CUX65532.1          hypothetical protein
+    93198-  93831 - CUX65538.1          hypothetical protein
+    93949-  94855 - CUX65546.1          hypothetical protein
+    95486-  96386 - CUX65555.1          hypothetical protein
+    98774-  99416 + CUX65561.1          hypothetical protein

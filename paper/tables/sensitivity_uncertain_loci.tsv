@@ -1,0 +1,65 @@
+lineage	metric	all_loci	confirmed_supported_only
+Table 2: acc-type GDPD	loci	60	36
+Table 2: acc-type GDPD	intact_loci	3	1
+Table 2: acc-type GDPD	species	23	12
+Table 2: acc-type GDPD	assemblies	30	18
+Table 2: chs-like	loci	33	33
+Table 2: chs-like	intact_loci	6	6
+Table 2: chs-like	species	9	9
+Table 2: chs-like	assemblies	33	33
+Table 2: cus-like	loci	50	41
+Table 2: cus-like	intact_loci	34	27
+Table 2: cus-like	species	22	18
+Table 2: cus-like	assemblies	36	31
+Table 2: nos-subfamily opine dehydrogenase (Boletales)	loci	6	1
+Table 2: nos-subfamily opine dehydrogenase (Boletales)	intact_loci	4	1
+Table 2: nos-subfamily opine dehydrogenase (Boletales)	species	4	1
+Table 2: nos-subfamily opine dehydrogenase (Boletales)	assemblies	5	1
+Table 2: odh island: odh	loci	8	6
+Table 2: odh island: odh	intact_loci	7	5
+Table 2: odh island: odh	species	2	2
+Table 2: odh island: odh	assemblies	5	3
+Table 2: odh island: orf3	loci	12	9
+Table 2: odh island: orf3	intact_loci	4	3
+Table 2: odh island: orf3	species	2	2
+Table 2: odh island: orf3	assemblies	5	4
+Table 2: odh island: pepP	loci	8	6
+Table 2: odh island: pepP	intact_loci	5	5
+Table 2: odh island: pepP	species	2	2
+Table 2: odh island: pepP	assemblies	5	3
+Table 2: pKerr14a-type acs-like	loci	19	9
+Table 2: pKerr14a-type acs-like	intact_loci	6	4
+Table 2: pKerr14a-type acs-like	species	8	6
+Table 2: pKerr14a-type acs-like	assemblies	8	6
+Table 2: sus-like	loci	58	33
+Table 2: sus-like	intact_loci	36	17
+Table 2: sus-like	species	31	22
+Table 2: sus-like	assemblies	33	22
+Table 2: TOTAL	loci	254	174
+Table 2: TOTAL	intact_loci	105	69
+Table 2: TOTAL	species	76	58
+Table 2: TOTAL	assemblies	121	100
+Fig5: sus-like	genus rows with the lineage	17	12
+Fig5: sus-like	genus rows with an intact copy	12	8
+Fig5: sus-like	sum over rows of species clusters with the lineage	30	21
+Fig5: sus-like	sum over rows of clusters with an intact copy	21	14
+Fig5: cus-like	genus rows with the lineage	7	5
+Fig5: cus-like	genus rows with an intact copy	5	3
+Fig5: cus-like	sum over rows of species clusters with the lineage	10	6
+Fig5: cus-like	sum over rows of clusters with an intact copy	8	4
+Fig5: acc-type_GDPD	genus rows with the lineage	15	7
+Fig5: acc-type_GDPD	genus rows with an intact copy	3	1
+Fig5: acc-type_GDPD	sum over rows of species clusters with the lineage	23	12
+Fig5: acc-type_GDPD	sum over rows of clusters with an intact copy	3	1
+Fig5: pKerr14a-type_acs-like	genus rows with the lineage	4	3
+Fig5: pKerr14a-type_acs-like	genus rows with an intact copy	4	3
+Fig5: pKerr14a-type_acs-like	sum over rows of species clusters with the lineage	8	6
+Fig5: pKerr14a-type_acs-like	sum over rows of clusters with an intact copy	4	3
+Fig5: nos-subfamily_ODH	genus rows with the lineage	2	1
+Fig5: nos-subfamily_ODH	genus rows with an intact copy	1	1
+Fig5: nos-subfamily_ODH	sum over rows of species clusters with the lineage	2	1
+Fig5: nos-subfamily_ODH	sum over rows of clusters with an intact copy	1	1
+Fig5: ALL5	genus rows with the lineage	45	28
+Fig5: ALL5	genus rows with an intact copy	25	16
+Fig5: ALL5	sum over rows of species clusters with the lineage	73	46
+Fig5: ALL5	sum over rows of clusters with an intact copy	37	23

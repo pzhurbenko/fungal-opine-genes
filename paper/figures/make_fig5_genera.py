@@ -113,7 +113,9 @@ for kind, lab, yc in items:
         continue
     n, k = R[lab]
     if stripe % 2 == 0:
-        ax.add_patch(mp.Rectangle((0.03, yc - PITCH / 2), W - 0.06, PITCH, fc='#f0f0f0', ec='none', zorder=0))
+        ax.add_patch(mp.Rectangle((0.03, yc - PITCH / 2), W - 0.06, PITCH, fc='#e8e8e8', ec='none', zorder=0))
+    # straight separator line below every row, full width (author request 2026-10-13)
+    ax.plot([0.03, W - 0.03], [yc + PITCH / 2, yc + PITCH / 2], color='#bdbdbd', lw=0.3, zorder=0.5, solid_capstyle='butt')
     stripe += 1
     if lab == OTHER:
         ax.text(X_HDR, yc, lab, ha='left', va='center', fontsize=FS, weight='bold')

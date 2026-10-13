@@ -1,0 +1,31 @@
+group	background	n_loci	median_delta_gc3	n_gc3_above_p95	n_gc3_below_p5	median_gc3_pctile	n_codon_dist_above_p95	n_codon_dist_below_p5	median_codon_dist_pctile
+all	own	24	0.0670	9	0	78.4	8	2	50.8
+all	bolpool	55	0.0069	6	0	55.2	0	5	22.7
+sus-like (T-DNA type)	own	1	-0.0463	0	0	26.7	0	0	66.7
+sus-like (T-DNA type)	bolpool	34	-0.0221	0	0	35.2	0	0	24.5
+cus-like (T-DNA type)	own	22	0.0979	9	0	86.3	8	2	50.8
+cus-like (T-DNA type)	bolpool	14	0.1140	6	0	94.4	0	5	6.1
+acc-type GDPD	own	1	0.0298	0	0	69.2	0	0	28.2
+acc-type GDPD	bolpool	3	0.0634	0	0	82.7	0	0	29.1
+pKerr14a-type acs-like	own	0							
+pKerr14a-type acs-like	bolpool	4	-0.0375	0	0	25.5	0	0	61.2
+Boletales	own	5	0.0298	0	0	69.2	0	1	28.2
+Boletales	bolpool	55	0.0069	6	0	55.2	0	5	22.7
+non-Boletales	own	19	0.1302	9	0	90.0	8	1	63.0
+non-Boletales	bolpool	0							
+sus-like (T-DNA type) | Boletales	own	1	-0.0463	0	0	26.7	0	0	66.7
+sus-like (T-DNA type) | Boletales	bolpool	34	-0.0221	0	0	35.2	0	0	24.5
+cus-like (T-DNA type) | Boletales	own	3	0.0359	0	0	74.2	0	1	22.6
+cus-like (T-DNA type) | Boletales	bolpool	14	0.1140	6	0	94.4	0	5	6.1
+acc-type GDPD | Boletales	own	1	0.0298	0	0	69.2	0	0	28.2
+acc-type GDPD | Boletales	bolpool	3	0.0634	0	0	82.7	0	0	29.1
+pKerr14a-type acs-like | Boletales	own	0							
+pKerr14a-type acs-like | Boletales	bolpool	4	-0.0375	0	0	25.5	0	0	61.2
+sus-like (T-DNA type) | non-Boletales	own	0							
+sus-like (T-DNA type) | non-Boletales	bolpool	0							
+cus-like (T-DNA type) | non-Boletales	own	19	0.1302	9	0	90.0	8	1	63.0
+cus-like (T-DNA type) | non-Boletales	bolpool	0							
+acc-type GDPD | non-Boletales	own	0							
+acc-type GDPD | non-Boletales	bolpool	0							
+pKerr14a-type acs-like | non-Boletales	own	0							
+pKerr14a-type acs-like | non-Boletales	bolpool	0							

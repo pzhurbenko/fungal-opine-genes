@@ -1,0 +1,2 @@
+Check1: ACS_JBBPKL010003317_L1 and CUS_JBBPKL010003317_S2L1 both 2957-6067 + 657aa 7 exons (S1_all_lineages, S1a(ACS only), S1b, S8, S9, S12, S14). Split: ACS 251aa, mis/CUS 203aa (split_models faa, no coords; journal HSP 3106-4276 and 4956-5294).
+Check2: ODH_JBBPKX010000014.1 8989-9999 - pseudogene lies inside CUS_JBBPKX010000014_S2L2 8860-15079 - intact (same strand, not opposite). Counted in Table 2 nos (6) and S6.

@@ -17,16 +17,16 @@ from common import load, categories, grp, sup, collapse
 plt.rcParams.update({'font.family': 'sans-serif', 'font.sans-serif': ['Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans'],
                      'font.size': 6.0, 'pdf.fonttype': 42, 'svg.fonttype': 'none'})
 FS = 6.0
-W = 17.5  # cm
+W = 17.0  # cm
 CM = 1 / 2.54
 RED, BLUE, GREEN, PURP = '#D7301F', '#0072B2', '#009E73', '#7B3294'
 LRED, LBLUE, LGREEN, LPURP = '#F4B6AE', '#A9D0E8', '#A6DCCB', '#CDB7DD'
 DG, MG, LG, NAT = '#6E6E6E', '#A0A0A0', '#D9D9D9', '#E6E6E6'
 ORANGE, LORANGE = '#E69F00', '#F6D9A3'   # chs-like
-PINK, LPINK = '#CC79A7', '#EBC3DA'       # nos-ODH Boletales
+PINK, LPINK = '#ff7f0e', '#FFD0A8'       # nos-ODH Boletales (orange, as in Figures 4 and 5)
 BROWN, LBROWN = '#A0522D', '#DDB89F'     # nos-ODH Rhypophila
 INDIGO, LINDIGO = '#332288', '#B8B0DC'   # odh island
-TEAL, LTEAL = '#1B7F8C', '#A8D5DB'       # A. larrymoorei plasmid ODH (donor)
+TEAL, LTEAL = '#1B7F8C', '#A8D5DB'       # A. larrymoorei plasmid ODH (source)
 INFO = {}  # numbers for report
 FUNG_DOM = {'native', 'fungunres', 'fungOCD', 'fungother', 'agsnat'}  # fungal grey blocks -> light grey; bacterial/reference -> mid grey
 MERGED = []  # report of merged ladder blocks
@@ -54,13 +54,13 @@ def rich(ax, x, y, text, fs=FS, color='k', bold=False, va='center'):
 
 # ---------- family definitions ----------
 NAMES = {
- 'SUS': {'chromOCD': 'Rhizobiales chromosomal OCD', 'bactOCD': 'other bacterial OCD', 'fungOCD': 'other fungal OCD-like',
+ 'SUS': {'chromOCD': 'Rhizobiales chromosomal OCD', 'bactOCD': 'other bacterial OCD', 'fungOCD': 'native fungal OCD',
          'native': 'native fungal OCD', 'OG': 'outgroup'},
- 'CUS': {'bact': 'other bacterial CUS', 'fungother': 'native fungal gene', 'OG': 'outgroup'},
- 'ACS': {'bact': 'bacterial GDPD', 'fungunres': 'unresolved fungal GDPD', 'native': 'other native fungal GDPD', 'OG': 'outgroup'},
- 'CHS': {'bact': 'other bacterial M24 aminopeptidases', 'agsnat': 'native fungal Ags homologs', 'OG': 'outgroup (Ags seed)'},
- 'NOS': {'noslike': 'rhizobial nos-like (non-T-DNA)', 'bact': 'other bacterial ODH', 'native': 'native fungal ODH', 'OG': 'outgroup (ocs/vis seeds)'},
- 'ODH': {'bact': 'other bacterial ODH', 'native': 'native fungal ODH', 'OG': 'outgroup (ocs/vis seeds)'},
+ 'CUS': {'bact': 'other bacterial Cus-like', 'fungother': 'native fungal Cus-like', 'OG': 'outgroup'},
+ 'ACS': {'bact': 'other bacterial GDPD', 'fungunres': 'native fungal GDPD', 'native': 'native fungal GDPD', 'OG': 'outgroup'},
+ 'CHS': {'bact': 'other bacterial M24 aminopeptidases', 'agsnat': 'native fungal Ags-like aminopeptidases', 'OG': 'outgroup: T-DNA Ags'},
+ 'NOS': {'noslike': 'rhizobial nos-like, outside the T-DNA', 'bact': 'other bacterial ODH', 'native': 'native fungal ODH', 'OG': 'outgroup: T-DNA Ocs and Vis'},
+ 'ODH': {'bact': 'other bacterial ODH', 'native': 'native fungal ODH', 'OG': 'outgroup: T-DNA Ocs and Vis'},
 }
 KEY = {'SUS': {'sus'}, 'CUS': {'cus', 'actino', 'mis'}, 'ACS': {'tdna', 'acc', 'kerr', 'natfung'},
        'CHS': {'fus', 'dac', 'tichs'}, 'NOS': {'nosbol', 'nosrhy', 'tdnanos', 'isl'}, 'ODH': {'isl', 'larry', 'nossub'}}
@@ -87,14 +87,14 @@ def key_label(fam, k, names, L):
             return ['T-DNA *cus* clade', f'{nrc - plc} Ti/Ri plasmid + {plc} plant cT-DNA references (+{oth} other bacterial); {nf} fungal (*cus*-like)',
                     'fungal sequences interleaved with references']
         if k == 'actino':
-            return ['Actinobacterial-type *cus* clade', f'{nf} fungal sequences only (no bacterial or plant references)',
-                    'contains the *Beauveria bassiana* gene *Fcs1* (Li et al. [61])']
+            return ['Actinobacterial-type *cus* clade', f'{nf} fungal sequences; their closest relatives in nr are actinobacterial and are not in this tree',
+                    'contains the *Beauveria bassiana* gene *Fcs1* (Li et al.)']
         if k == 'mis':
             nm = g['FUNGI_mis'] + g['FUNGI_cusrel181']
-            return ['*mis* lineage', f'{nm} fungal + {nref} reference sequences (Ti/Ri plasmid, plant cT-DNA, bacterial)']
+            return ['*mis* group', f'{nm} fungal + {nref} reference sequences (Ti/Ri plasmid, plant cT-DNA, bacterial)']
     if fam == 'ACS':
-        if k == 'tdna': return ['T-DNA *acs* clade', f'{g["REF_acs"]} Ti/Ri plasmid + plant cT-DNA references + {g["BACT_acc"]} bacterial; no fungal']
-        if k == 'acc': return ['Acc-type GDPD', f'{nf} fungal (Boletales) + {nref} bacterial acc-locus references']
+        if k == 'tdna': return ['T-DNA *acs* clade', f'{g["REF_acs"]} Ti/Ri plasmid + plant cT-DNA references + {g["BACT_acc"]} other bacterial; no fungal']
+        if k == 'acc': return ['Acc-type GDPD', f'{nf} fungal (Boletales) + {nref} GDPD of rhizobial acc-like loci']
         if k == 'kerr':
             return ['pKerr14a-type *acs*-like', f'{nf} fungal (Boletales) + pKerr14a *acs* + Parasponia cT-DNA fragment']
         if k == 'natfung': return ['Native fungal GDPD (main clade)', f'{nf} fungal sequences only (no bacterial or plant references)']
@@ -102,24 +102,27 @@ def key_label(fam, k, names, L):
     if fam == 'CHS':
         if k == 'fus': return ['*Fusarium* *chs*-like', f'{nf} sequences ({len({n.split("_")[2] for n in names})} species)']
         if k == 'dac': return ['*Dactylonectria estremocensis* *chs*-like', '1 sequence (KAH7120428.1)']
-        if k == 'tichs': return ['Ti-plasmid *chs* clade', f'*chs* seed (pTi14-818c) + {len(names) - 1} other agrobacterial *chs*']
+        if k == 'tichs': return ['Ti-plasmid *chs* clade', 'chrysopine synthases of Ti plasmids, incl. pTi14-818c']
     if fam == 'NOS':
         if k == 'nosbol': return ['*nos*-subfamily ODH, Boletales', f'{nf} loci (*Boletus*, *Butyriboletus*)']
-        if k == 'nosrhy': return ['*Rhypophila* *nos* homolog (not assigned)', f'{nf} sequences (2 species)']
+        if k == 'nosrhy': return ['*Rhypophila* *nos*-like genes (origin not resolved)', f'{nf} sequences (2 species)']
         if k == 'tdnanos':
             nt = sum(n.startswith('NOS_TDNA') for n in names); nl = len(names) - nt
             return ['T-DNA *nos* clade', f'{nt} Ti-plasmid *nos* references + {nl} rhizobial *nos*-like']
         if k == 'isl': return ['*odh*-island ODH (*F. poae*) + *A. larrymoorei* plasmid ODH', 'not in the *nos* subfamily']
     if fam == 'ODH':
         if k == 'isl': return ['*odh*-island ODH (*Fusarium*)', f'{nf} sequences (*F. poae* ×2, *F. langsethiae*)']
-        if k == 'larry': return ['*A. larrymoorei* plasmid ODH', 'WP_309770759 (donor locus)']
+        if k == 'larry': return ['*A. larrymoorei* plasmid ODH', 'WP_309770759 (source locus)']
         if k == 'nossub':
-            return ['*nos* subfamily (T-DNA type)', 'T-DNA *nos* seeds (2), *Rhypophila* (2), *Butyriboletus* (1), WP_309770762']
+            return ['*nos* subfamily', 'T-DNA Nos (2), *Rhypophila* (2), *Butyriboletus* (1), *A. larrymoorei* *nos*-type gene']
 
 def mixed_label(fam, names, cat, L):
     c = collections.Counter(cat[n] for n in names)
     nm = NAMES[fam]
-    items = [f'{nm.get(k, k)} ({v})' for k, v in c.most_common()]
+    agg = {}   # merge categories that share a display name (e.g. screen-derived and reference native fungal genes)
+    for k, v in c.most_common():
+        agg[nm.get(k, k)] = agg.get(nm.get(k, k), 0) + v
+    items = [f'{name} ({v})' for name, v in sorted(agg.items(), key=lambda x: -x[1])]
     return items
 
 
@@ -189,35 +192,18 @@ def build(fam):
     KEYS = KEY[fam]
     def haskey(node): return any(cat[x.name] in KEYS for x in node.get_terminals())
     def rec(node, depth_sup):
+        # collapsing rule (2026-10-13): a collapsed block is exactly one monophyletic clade with a single category;
+        # monophyletic clade without focal leaves = one block (may mix non-focal categories); no merging of siblings / grades
         names = [x.name for x in node.get_terminals()]
         n = N(); n.sup = sup(node) if not node.is_terminal() else ''; n.names = names; n.kids = []
         cs = {cat[x] for x in names}
-        if len(cs) == 1 and cs <= KEYS:
-            n.kind = 'key'; n.cat = cs.pop(); n.label = key_label(fam, n.cat, names, L); return n
-        if not haskey(node):
+        if len(cs) == 1 and next(iter(cs)) in KEYS:
+            c0 = next(iter(cs)); n.kind = 'key'; n.cat = c0; n.label = key_label(fam, c0, names, L); return n
+        if not (cs & KEYS):   # maximal monophyletic clade without any focal leaf -> one grey block labelled by composition
             c = collections.Counter(cat[x] for x in names)
-            if depth_sup >= 1 or len(names) <= 25 or c.most_common(1)[0][1] / len(names) >= 0.7:
-                n.kind = 'mixed'; n.label = mixed_label(fam, names, cat, L); n.cat = 'mixed'
-                n.dom = c.most_common(1)[0][0]
-                if len(c) == 1 and list(c)[0] == 'OG': n.cat = 'OG'
-                return n
-            depth_sup = 1
-        n.kind = 'node'; kids = [rec(c, depth_sup) for c in node.clades]
-        bydom = collections.defaultdict(list)
-        for k in kids:
-            if k.kind == 'mixed': bydom[k.dom].append(k)
-        for dom, nk in bydom.items():
-            if len(nk) > 1:  # merge non-key siblings with the same dominant category into one schematic triangle
-                m = N(); m.sup = ''; m.names = [x for k in nk for x in k.names]; m.kids = []; m.kind = 'mixed'; m.dom = dom
-                c = collections.Counter(cat[x] for x in m.names); m.label = mixed_label(fam, m.names, cat, L)
-                m.cat = 'OG' if set(c) == {'OG'} else 'mixed'
-                kids = [k for k in kids if k not in nk] + [m]
-        if len(kids) > 1 and all(k.kind == 'mixed' for k in kids):  # all children are grey triangles: draw the whole clade as one triangle
-            n.kind = 'mixed'; n.names = [x for k in kids for x in k.names]; n.kids = []
-            c = collections.Counter(cat[x] for x in n.names); n.dom = c.most_common(1)[0][0]
-            n.label = mixed_label(fam, n.names, cat, L); n.cat = 'OG' if set(c) == {'OG'} else 'mixed'
-            return n
-        n.kids = kids
+            n.kind = 'mixed'; n.dom = c.most_common(1)[0][0]; n.cat = 'OG' if set(c) == {'OG'} else 'mixed'
+            n.label = mixed_label(fam, names, cat, L); return n
+        n.kind = 'node'; n.kids = [rec(c, depth_sup) for c in node.clades]
         return n
     root = rec(t.root, 0)
     return root, t, L, cat
@@ -238,7 +224,7 @@ def wrap_label(n, maxc):
     s = '; '.join(n.label)
     return [('n', ln) for ln in textwrap.wrap(s, maxc)]
 
-LH = 0.195  # line height cm
+LH = 0.215  # line height cm
 def merge_ladders(root, fam, cat, L):
     """Consecutive (vertical order) mixed tips with the same category set that sit on one ladder
     (the MRCA of two neighbours has one of them as a direct child) are drawn as one block."""
@@ -247,7 +233,10 @@ def merge_ladders(root, fam, cat, L):
         if not n.kids: tips.append(n)
         for k in n.kids: parent[id(k)] = n; collect(k)
     collect(root)
-    def base(t): return frozenset(cat[x] for x in t.names) if t.kind == 'mixed' else None
+    def base(t):
+        if t.kind != 'mixed': return None
+        b = frozenset(cat[x] for x in t.names)
+        return b if len(b) == 1 else None   # grades only for single-category non-focal blocks (not outgroup)
     def anc(t):
         a = []
         while id(t) in parent: t = parent[id(t)]; a.append(t)
@@ -267,9 +256,7 @@ def merge_ladders(root, fam, cat, L):
         if len(g) > 1:
             names = [x for t in g for x in t.names]; b = len(g)
             c = collections.Counter(cat[x] for x in names); nm = NAMES[fam]
-            items = [f'{nm.get(k, k)} ({v})' for k, v in c.most_common()]
-            if len(items) == 1: items[0] = items[0][:-1] + f'; {b} branches)'
-            else: items.append(f'{b} branches')
+            k0 = next(iter(c)); items = [f'{nm.get(k0, k0)} ({len(names)} in {b} branches)']
             g[0].label = items
             MERGED.append((fam, '; '.join(items), [len(t.names) for t in g]))
     return groups
@@ -279,10 +266,12 @@ def layout(root, maxc, groups):
     for g in groups:
         for t in g: t.h = tri_h(t)
         n = g[0]; n.lines = wrap_label(n, maxc)
-        rh = max(sum(t.h for t in g), len(n.lines) * LH) + 0.025
+        STUB = 0.5 * LH
+        rh = (max(len(g) * STUB, len(n.lines) * LH) if len(g) > 1 else max(sum(t.h for t in g), len(n.lines) * LH)) + 0.025
         if len(g) > 1:
+            y0 = y + (rh - len(g) * STUB) / 2
             for i, t in enumerate(g):
-                t.y = y + rh * (i + 0.5) / len(g); t.h = rh / len(g) - 0.01
+                t.y = y0 + STUB * (i + 0.5); t.h = STUB
         else: n.y = y + rh / 2
         y += rh
     def setx(n):
@@ -312,14 +301,13 @@ def draw_tree(ax, root, fam, ytop, total, x0=1.3, xw=3.6, tw=0.8, xl=5.9, nested
             h = n.h
             if getattr(n, 'skip', False): return
             g = getattr(n, 'grp', [n])
-            if len(g) > 1:  # merged ladder block: stepped polygon touching every branch tip
-                pts = [[x + tw, Y(g[0]) + g[0].h / 2]]
-                for i, t in enumerate(g):
-                    pts.append([x, Y(t)])
-                    if i < len(g) - 1: pts.append([x + 0.3 * tw, (Y(t) + Y(g[i + 1])) / 2])
-                pts.append([x + tw, Y(g[-1]) - g[-1].h / 2])
-                ax.add_patch(Polygon(pts, closed=True, fc=col, ec=edge, lw=0.7, joinstyle='miter'))
-                y = sum(Y(t) for t in g) / len(g)
+            if len(g) > 1:  # paraphyletic grade: short stubs + bracket on the label side, one label
+                for t in g:
+                    ax.plot([x, x + 0.35 * tw], [Y(t), Y(t)], color=lc, lw=0.8, solid_capstyle='butt')
+                    ax.plot([x + 0.35 * tw], [Y(t)], marker='o', ms=1.8, color=DG, mew=0, zorder=3)
+                xb = xl - 0.12; y1, y2 = Y(g[0]) + 0.05, Y(g[-1]) - 0.05
+                ax.plot([xb - 0.05, xb, xb, xb - 0.05], [y1, y1, y2, y2], color='#555555', lw=0.7, solid_capstyle='butt')
+                y = (Y(g[0]) + Y(g[-1])) / 2
             else:
                 ax.add_patch(Polygon([[x, y], [x + tw, y + h / 2], [x + tw, y - h / 2]], closed=True, fc=col, ec=edge, lw=0.7))
             if nested and n.kind == 'key' and n.cat == nested[0]:
@@ -362,29 +350,37 @@ def main():
                                        ('NOS', 'e', 'Opine dehydrogenase family, *nos* subfamily', None),
                                        ('ODH', 'f', 'Opine dehydrogenase family, *odh* island', None)):
         root, t, L, cat = build(fam)
-        groups = merge_ladders(root, fam, cat, L)
+        tips_ = []
+        def _c(n):
+            if not n.kids: tips_.append(n)
+            for k in n.kids: _c(k)
+        _c(root)
+        groups = merge_ladders(root, fam, cat, L)   # grades only for same-category non-focal ladders
         tot = layout(root, MAXC_WIDE if fam in ('ACS', 'CHS', 'NOS', 'ODH') else MAXC_MAIN, groups)
-        panels.append((fam, letter, title, nested, root, tot))
+        panels.append((fam, letter, title, nested, root, tot, len(groups)))
         INFO[(fam, 'height_cm')] = tot
+        print('PANEL', fam, 'rows(blocks)', len(groups), 'height', round(tot, 2))
+    plt.close(fig)
     hts = [p[5] + PANEL_PAD for p in panels]
     total = sum(hts) + 0.15
-    print('panel heights', [round(h, 2) for h in hts], 'total', round(total, 2))
-    fig.set_size_inches(W * CM, total * CM)
-    cur = total
-    letters = iter('abcdefghij')
-    for fam, letter, title, nested, root, tot in panels:
-        letter = next(letters)
-        hp = tot + PANEL_PAD
-        ax = fig.add_axes([0, (cur - hp) / total, 1, hp / total]); ax.set_xlim(0, W); ax.set_ylim(0, hp); ax.axis('off')
-        ax.text(0.05, hp - 0.1, letter, fontsize=9, fontweight='bold', va='top')
-        rich(ax, 0.75, hp - 0.1, title, fs=FS + 1, bold=True, va='top')
-        draw_tree(ax, root, fam, hp - PANEL_PAD, tot, nested=nested, **({'xw': 4.6, 'xl': 7.0} if fam in ('ACS', 'CHS', 'NOS', 'ODH') else {'xw': 3.4, 'xl': 5.95}))
-        cur -= hp
-    for ext, kw in (('png', dict(dpi=int(os.environ.get("FIG_DPI", "300")))), ('svg', {}), ('pdf', {})):
-        fig.savefig(os.path.join(os.path.dirname(os.path.abspath(__file__)), f'Fig3_trees.{ext}'), **kw)
-    for m in MERGED: print('MERGED', m)
-    for k, v in INFO.items(): print(k, v)
-    print('fig size cm', W, round(total, 2))
+    print('single-figure height', round(total, 2), 'cm')
+    parts = [('Fig3_trees', panels)]
+    for base, ps in parts:
+        tt = sum(p[5] + PANEL_PAD for p in ps) + 0.15 + 0.4
+        fig = plt.figure(figsize=(W * CM, tt * CM)); fig.canvas.draw()
+        cur = tt
+        for fam, letter, title, nested, root, tot, _n in ps:
+            hp = tot + PANEL_PAD
+            ax = fig.add_axes([0, (cur - hp) / tt, 1, hp / tt]); ax.set_xlim(0, W); ax.set_ylim(0, hp); ax.axis('off')
+            ax.text(0.05, hp - 0.1, letter, fontsize=9, fontweight='bold', va='top')
+            rich(ax, 0.75, hp - 0.1, title, fs=FS + 1, bold=True, va='top')
+            draw_tree(ax, root, fam, hp - PANEL_PAD, tot, nested=nested, **({'xw': 4.6, 'xl': 7.0} if fam in ('ACS', 'CHS', 'NOS', 'ODH') else {'xw': 3.4, 'xl': 5.95}))
+            cur -= hp
+        fig.text(0.0035, 0.21 / tt, 'Triangle: one monophyletic clade. Bracketed stubs: consecutive branches of one category that do not form a clade (a paraphyletic grade).', fontsize=FS, va='center', ha='left')
+        for ext, kw in (('png', dict(dpi=int(os.environ.get("FIG_DPI", "300")))), ('svg', {}), ('pdf', {})):
+            fig.savefig(os.path.join(os.path.dirname(os.path.abspath(__file__)), f'{base}.{ext}'), **kw)
+        plt.close(fig)
+        print(base, 'fig size cm', W, round(tt, 2))
 
 if __name__ == '__main__':
     main()

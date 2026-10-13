@@ -6,9 +6,9 @@ Tables S1-S17 are in `Supplementary_Tables.xlsx` (one sheet per table; each shee
 
 ### Table S1a. Loci of bacterial origin
 
-File: `TableS1a_Loci_of_bacterial_origin.tsv` (254 rows, 21 columns); sheet `S1a` of Supplementary_Tables.xlsx
+File: `TableS1a_Loci_of_bacterial_origin.tsv` (254 rows, 22 columns); sheet `S1a` of Supplementary_Tables.xlsx
 
-The 254 loci of the seven lineages of bacterial origin placed on the phylogenetic trees (three T-DNA lineages, four non-T-DNA rhizobial lineages) - one row per locus, with coordinates, structural status, the route of detection and the supplementary tables in which the locus appears. The 152 additional fragments and remnants of the same lineages assigned by HMM profile only (not placed on a tree) are listed in Table S1b (lineage_of_bacterial_origin = True, lineage with the suffix '(profile only)'). Protein sequences in Data S1 (252 of the 254 loci).
+The 254 loci of the seven lineages of bacterial origin placed on the phylogenetic trees (named after their closest bacterial relatives) - one row per locus, with coordinates, structural status, the route of detection and the supplementary tables in which the locus appears. The 152 additional fragments and remnants of the same lineages assigned by HMM profile only (not placed on a tree) are listed in Table S1b (lineage_of_bacterial_origin = True, lineage with the suffix '(profile only)'). Protein sequences in Data S1 (252 of the 254 loci). Integration status (column integration_status), assigned by fixed rules from Tables S1a, S8, S9, S12, S13a, S13b: confirmed = at least one of (i) fungal genes on both flanks (genomic_context = fungal context, or annotated genes on both sides of the locus in Table S12), (ii) reproduction with both flanks in an independent assembly (Table S9: locus and both flanks covered >= 0.5), (iii) read-depth ratio of the locus 0.5-2 with junction reads on both flanks (Table S8), (iv) for chs-like and odh-island loci, a chromosome-level sequence (Tables S13a, S13b) with the locus >1 kb from both ends, or (v) the same gene present in two or more assemblies of the species (Tables S13a, S13b), the locus being neither on a contig shorter than the locus plus 2 kb nor at a contig end; supported = a fungal gene on one flank only (genomic_context = mixed, or Table S12 genes on one side), read-depth ratio 0.5-2 without junction reads on both flanks, or a contig of at least 100 kb with the locus not at a contig end and a depth ratio not outside 0.5-2; uncertain = none of the above and either a contig shorter than the locus plus 1 kb on each side, a locus touching a contig end, a depth ratio < 0.5 or > 2 without other support, or no neighbour information. Rules are applied in the order confirmed, then uncertain by contig geometry, then supported; the per-locus rule tags are in paper/tables/integration_status.tsv of the code repository.
 
 | Column | Description |
 |---|---|
@@ -28,6 +28,7 @@ The 254 loci of the seven lineages of bacterial origin placed on the phylogeneti
 | n_exons | Number of exons in the gene model |
 | protein_length_aa | Length of the fungal protein model, aa (for loci with a sequence in Data S1 it equals the length of that sequence; blank where no model could be built; for profile-screen loci with a gene model, the length of that model) |
 | genomic_context | Flanking-gene context call (fungal, mixed, bacterial, short contig, no neighbours) |
+| integration_status | Integration status of the locus in the fungal genome: confirmed, supported or uncertain (rules in the table legend) |
 | detection_route | Route by which the locus was found: profile screen, targeted scan (miniprot), blastx of plasmid proteins, or protein-level screen |
 | detailed_in | Table with the per-locus details of the corresponding screen |
 | evidence_tables | Supplementary tables in which the locus appears: by locus_id (S8, S14, S13a, S13b, S16), by contig and assembly (S9, S12, S10b, S5a; contig-level, so also listed for other loci on the same contig), for the odh island by gene (S13c, reverse search of the island genes; S16, RNA-seq of the Fp133 copies); blank = none |
@@ -99,6 +100,19 @@ Per-group summary of the catalogue of loci (Table S1b): the seven lineages of ba
 | fragments_assigned_by_profile_only | Loci detected only by the profile scan and not placed on a tree |
 | assemblies_incl_fragments | Assemblies with any locus of the group, including profile-only fragments |
 | lineage_of_bacterial_origin | True for the seven lineages of bacterial origin |
+
+### Table S1d. Sensitivity of the lineage counts to the integration status of the loci
+
+File: `TableS1d_Sensitivity_of_the_lineage_counts_to_the_integrati.tsv` (64 rows, 4 columns); sheet `S1d` of Supplementary_Tables.xlsx
+
+The counts of Table 2 (loci, intact loci, carrier species and assemblies per lineage) and the inputs of Figure 5 (genus rows and species-level clusters of Boletales with the lineage, and with an intact copy) computed from all 254 loci placed on the trees (column all_loci) and from the loci whose integration in the fungal genome is confirmed or supported only (column confirmed_supported_only; Table S1a, column integration_status).
+
+| Column | Description |
+|---|---|
+| lineage | Lineage (prefixed by the table or figure the metric belongs to) |
+| metric | Metric |
+| all_loci | Value over all 254 loci |
+| confirmed_supported_only | Value over the confirmed and supported loci only |
 
 ### Table S2. Seed proteins
 
@@ -353,11 +367,11 @@ Loci in Boletales assemblies matching bacterial opine (nopaline) dehydrogenase q
 | lineages_on_contig | Lineages of loci on the same contig |
 | lineage | Lineage in the catalogue (Table S1b); '(profile only)' = locus not placed on the nos tree |
 | status | Gene-model state (as in Table S1b) |
-| note | Reason for a manual reclassification |
+| note | Reason for a manual reclassification, or other comment on the locus |
 
 ### Table S11. Approximately unbiased (AU) topology tests
 
-File: `TableS11_Approximately_unbiased_AU_topology_tests.tsv` (73 rows, 7 columns); sheet `S11` of Supplementary_Tables.xlsx
+File: `TableS11_Approximately_unbiased_AU_topology_tests.tsv` (73 rows, 8 columns); sheet `S11` of Supplementary_Tables.xlsx
 
 AU tests of constrained topologies against the unconstrained ML tree, per family (IQ-TREE, 10,000 RELL resamplings). Verdict: rejected if p-AU < 0.05. The first row of each family is the unconstrained ML tree used as the reference (its deltaL is not necessarily 0 when a constrained tree has a higher likelihood). Within each family, Holm adjustment of the p-values over the listed constraints changes no verdict. Where a family has several reference rows, the rows form separate runs (separate user-tree sets), and p-values are comparable only within a run.
 
@@ -370,10 +384,38 @@ AU tests of constrained topologies against the unconstrained ML tree, per family
 | deltaL | Log-likelihood difference from the best tree in the set |
 | p_AU | p-value of the AU test |
 | verdict | rejected / not rejected (p-AU < 0.05) |
+| constraint_id | Identifier of the constraint (run code and tree number); key to Table S11b and Data S2b |
+
+### Table S11b. Mapping of the AU constraints to the biological alternatives they test
+
+File: `TableS11b_Mapping_of_the_AU_constraints_to_the_biological_al.tsv` (60 rows, 18 columns); sheet `S11b` of Supplementary_Tables.xlsx
+
+One row per constraint (constraint_id = run code and tree number, e.g. ODH-1; the same identifier is the folder key in Data S2b). Columns: tested_topology_constraint, p_AU, deltaL and verdict repeat Table S11; biological_alternative, the hypothesis the constraint stands for; constraint_definition, the leaf sets forced into one clade, read from the constraint tree actually used (all other leaves free; the forced clade must contain exactly the listed leaves); constraint_leaves, candidate_leaves (fungal genes under test) and partner_leaves, the numbers of leaves; partner_set_monophyletic_in_ML_tree, whether the partner (non-candidate) leaves of the constraint form a clade in the unconstrained ML tree after the fungal genes under test are pruned from it; native_fungal_set_in_constraint and native_set_monophyletic_in_ML_tree, the same for constraints that force a native fungal set into the clade (yes/no/n.a.); interpretation, what rejection or non-rejection means; caveat, limits on that reading. Where the native fungal set is not itself monophyletic in the ML tree (SUS_nat-3 and -4, ACS-4, ACS_nat-7, NOS_nat-4 and -5, NOS_rh-7 and -8, ODH-1 and -2), rejection of the constraint shows that the fungal genes do not fall inside one clade with all of those native genes, not by itself that they are of non-fungal origin; the control ODH-3 (native fungal ODH forced together, island free) is itself rejected (p = 0.0064). Non-rejection is compatibility only. The constraint trees and the IQ-TREE outputs of the constrained searches are in Data S2b.
+
+| Column | Description |
+|---|---|
+| constraint_id | Identifier of the constraint (run code and tree number), as in Table S11 and Data S2b |
+| family | Protein family |
+| tree_number | Tree number in the IQ-TREE user-tree set |
+| tested_topology_constraint | Tested topology (constraint), as in Table S11 |
+| p_AU | p-value of the AU test |
+| deltaL | Log-likelihood difference from the best tree |
+| verdict | rejected / not rejected (p-AU < 0.05) |
+| biological_alternative | The biological alternative the constraint tests |
+| constraint_definition | Leaf sets forced into one clade (all other leaves free) |
+| constraint_leaves | Number of leaves in the forced clade |
+| candidate_leaves | Number of fungal genes under test in the forced clade |
+| partner_leaves | Number of partner leaves in the forced clade |
+| partner_set_monophyletic_in_ML_tree | Whether the partner set is monophyletic in the unconstrained ML tree |
+| native_fungal_set_in_constraint | Whether the constraint includes a native fungal set |
+| native_set_monophyletic_in_ML_tree | Whether that native set is monophyletic in the unconstrained ML tree |
+| interpretation | What rejection or non-rejection of the constraint allows one to conclude |
+| caveat | Caveat on the interpretation (e.g. the native set is not itself monophyletic) |
+| constraint_file | Constraint tree file in Data S2b |
 
 ### Table S12. Gene content of the islands
 
-File: `TableS12_Gene_content_of_the_islands.tsv` (160 rows, 21 columns); sheet `S12` of Supplementary_Tables.xlsx
+File: `TableS12_Gene_content_of_the_islands.tsv` (160 rows, 22 columns); sheet `S12` of Supplementary_Tables.xlsx
 
 Genes on the contigs carrying the loci (focal loci and their annotated neighbours), with the best match to plasmid (T-DNA/Ti/Ri) proteins where found. Neighbouring genes are named <contig>:g<n> (the number is unique only within a contig).
 
@@ -400,6 +442,7 @@ Genes on the contigs carrying the loci (focal loci and their annotated neighbour
 | identity_pct | Identity of the match, % |
 | query_coverage | Query coverage of the match |
 | evalue | E-value of the match |
+| note | Comment on the row |
 
 ### Table S13a. chs-like loci in Fusarium and relatives
 
@@ -539,16 +582,16 @@ GC and GC3 of the intact fungal locus CDSs (sus-like, cus-like, acc-type GDPD, p
 
 ### Table S15. dN/dS of the intact genes of all lineages
 
-File: `TableS15_dN_dS_of_the_intact_genes_of_all_lineages.tsv` (10 rows, 14 columns); sheet `S15` of Supplementary_Tables.xlsx
+File: `TableS15_dN_dS_of_the_intact_genes_of_all_lineages.tsv` (12 rows, 14 columns); sheet `S15` of Supplementary_Tables.xlsx
 
-Codon-model tests of selection (PAML codeml M0, M7/M8, M8a; pairwise yn00) on the intact copies of each lineage with at least two copies of a gene, on codon alignments (MAFFT, IQ-TREE tree). The sus-like and cus-like rows (all intact copies) were analysed on the strict alignment only; the remaining rows on both the strict alignment and the alignment with <=20% gaps per column. cus-like outside Boletales is given for all intact copies and for one copy per species. One row per gene set.
+Codon-model tests of selection (PAML codeml M0, M7/M8, M8a; pairwise yn00) on the intact copies of each lineage with at least two copies of a gene, on codon alignments (MAFFT, IQ-TREE tree). For the sus-like and cus-like rows (all intact copies) the <=20%-gap alignment was analysed with codeml M0 only (same sequences and tree as the strict run); the remaining rows were analysed on both alignments with all tests. cus-like is given for all intact copies, and separately for Boletales and for outside Boletales, each for all intact copies and for one copy per species (longest CDS of each species for the Boletales set). One row per gene set.
 
 | Column | Description |
 |---|---|
 | gene_set | Gene set (intact copies; CDS of the Boletales nos-subfamily ODH from miniprot models) |
 | n_sequences | Number of CDS |
 | codons_strict | Codons in the alignment without gap columns |
-| codons_le20pct_gaps | Codons in the alignment with <=20% gaps per column (blank for sus-like and cus-like, for which only the strict alignment was analysed) |
+| codons_le20pct_gaps | Codons in the alignment with <=20% gaps per column |
 | omega_M0_strict | codeml M0 omega, strict alignment |
 | omega_M0_le20pct_gaps | codeml M0 omega, <=20% gaps alignment |
 | LRT_M7_vs_M8 | Likelihood-ratio statistic, model M7 vs M8 |
@@ -686,7 +729,7 @@ The fungal cus-like genes lie within the T-DNA cus clade, interleaved with the r
 
 File: `figures/FigureS4_tree_chs.png` (and `.svg`, `.pdf`)
 
-The Fusarium chs-like genes are sister to the Ti-plasmid chs clade and are not nested within it. Full maximum-likelihood tree of the M24 aminopeptidase family (58 sequences, 687 sites, Q.PFAM+I+G4), from which panel (c) of Figure 3 was collapsed: Fusarium and Dactylonectria chs-like genes, Ti-plasmid chs clade (chs seed of pTi14-818c and four other agrobacterial chs), native fungal Ags homologs, other bacterial M24 aminopeptidases; rooted on the ags seed. Supports and scale as in Figure S2. Data S2: chs.*.
+The Fusarium chs-like genes are sister to the Ti-plasmid chs clade and are not nested within it. Full maximum-likelihood tree of the M24 aminopeptidase family (58 sequences, 687 sites, Q.PFAM+I+G4), from which panel (c) of Figure 3 was collapsed: Fusarium and Dactylonectria chs-like genes, Ti-plasmid chs clade (the chs of pTi14-818c and other agrobacterial chs), native fungal Ags homologs, other bacterial M24 aminopeptidases; rooted on the ags seed. Supports and scale as in Figure S2. Data S2: chs.*.
 
 ### Figure S5. Full tree of the GDPD family
 
@@ -722,7 +765,7 @@ A tree built from predicted protein structures reproduces the sequence-based GDP
 
 File: `figures/FigureS10_islands.png` (and `.svg`, `.pdf`)
 
-All opine islands of Boletaceae: the 12 contigs (6 assemblies of 5 species or species-level taxa) carrying two or more loci of bacterial type at distinct positions (Table S12), drawn to a common scale as in Figure 4a; each window spans the loci with 12 kb on each side (within the gene set of Table S12). Genes of the lineages of bacterial origin (sus-like, cus-like, acc-type GDPD, nos-subfamily opine dehydrogenase) are coloured as in Figure 4; loci of the nos-subfamily opine dehydrogenase lineage, found by blastx and therefore absent from Table S12, are included (Table S1b; contigs with such a locus and no other locus of bacterial type are not shown); other genes of bacterial type (mis group; other bacterial-type ORF) and the GDPD gene of unresolved position are shown in separate colours (legend); fungal neighbour genes grey; transposases and integrases black; dashed outline, pseudogene, fragment or remnant. Lineages and gene states are those of Table S1b. Arrows show the strand. Repeats are not drawn, because repeat annotation exists only for the contigs of Figure 4a. Contigs with a single locus (or two loci at identical coordinates, JBBPKL010003317) are not shown. On JBBPKX010000014 the nos-subfamily gene (pseudogene) lies inside the span of the intact mis-group gene on the opposite strand and is drawn on top of it.
+All opine islands of Boletaceae: the 13 contigs (7 assemblies of 6 species or species-level taxa) carrying two or more loci of bacterial type at distinct positions (Table S12), drawn to a common scale as in Figure 4a; each window spans the loci with 12 kb on each side (within the gene set of Table S12). Genes of the lineages of bacterial origin (sus-like, cus-like, acc-type GDPD, nos-subfamily opine dehydrogenase) are coloured as in Figure 4; loci of the nos-subfamily opine dehydrogenase lineage, found by blastx and therefore absent from Table S12, are included (Table S1b; contigs with such a locus and no other locus of bacterial type are not shown); other genes of bacterial type (mis group; other bacterial-type ORF) and the GDPD gene of unresolved position are shown in separate colours (legend); fungal neighbour genes grey; transposases and integrases black; dashed outline, pseudogene, fragment or remnant. Lineages and gene states are those of Table S1b. Arrows show the strand. Repeats are not drawn, because repeat annotation exists only for the contigs of Figure 4a. Contigs with a single locus are not shown. On JBBPKX010000014 the nos-subfamily gene (pseudogene) lies on the same strand as the intact mis-group gene, 3.9 kb downstream of it.
 
 ### Figure S11. Pairwise dN/dS of the intact genes of each lineage
 
@@ -734,7 +777,7 @@ Pairwise dN/dS (yn00) between intact genes of each lineage: (a) sus-like genes o
 
 File: `figures/FigureS12_bedulis_insertion.png` (and `.svg`, `.pdf`)
 
-The strain-specific insertion on contig JBBPRY010001778 of Boletus edulis (7.4 kb; Figure 4b). Top, read depth along the contig (smoothed over 200 bp; dashed line, genome median 91x); the repeat-insertion junction at 1,313 bp (dotted line) is spanned by 19 reads (9 read pairs), so the assembly is not chimeric. Bottom, the gene model of the pKerr14a-type acs-like gene (five exons, purple), flanking repeats (hatched), and the 5.9-kb segment (1,313-7,202 bp; red) absent from five other assemblies of the species, with the flanks present in other assemblies (green). Read depth of all loci in Table S8; reproducibility in independent assemblies in Table S9.
+The strain-specific insertion on contig JBBPRY010001778 of Boletus edulis (7.4 kb; Figure 4b). Top, read depth along the contig (smoothed over 200 bp; dashed line, genome median 91x); the repeat-insertion junction at 1,313 bp (dotted line) is spanned by 19 reads (9 read pairs), which supports the continuity of the contig across this junction. Bottom, the gene model of the pKerr14a-type acs-like gene (five exons, purple), flanking repeats (hatched), and the 5.9-kb segment (1,313-7,202 bp; red) absent from five other assemblies of the species, with the flanks present in other assemblies (green). Read depth of all loci in Table S8; reproducibility in independent assemblies in Table S9.
 
 ### Figure S13. Both chromosomal copies of the odh island of Fusarium poae Fp133
 
@@ -755,6 +798,12 @@ Predicted protein sequences of the loci of Table S1a (254 loci placed on the tre
 File: `data/Supplementary_Data_trees.tar.gz`
 
 For each of the protein-family trees of Figure 3 and Figures S2-S7 (sus, cus, chs, gdpd, nos, odh): the maximum-likelihood tree with SH-aLRT/UFBoot supports (`<family>.treefile`), the UFBoot consensus tree (`<family>.contree`), the trimmed protein alignment given to IQ-TREE (`<family>.aln.faa`) and the IQ-TREE report with model and run settings (`<family>.iqtree`). MANIFEST.tsv lists for each file the family, the number of sequences and sites and the substitution model. Compressed archive (also unpacked in `data/trees/`).
+
+### Data S2b. Constraint trees and IQ-TREE outputs of the AU tests
+
+File: `data/Data_S2b_AU_constraints.tar.gz`
+
+Constraint trees (Newick) and IQ-TREE outputs (.treefile, .iqtree, .log) of the 60 constrained maximum-likelihood searches behind Table S11, with the IQ-TREE AU reports (.iqtree, .log, .trees) and the user-tree sets of each run; MANIFEST.tsv gives for each constraint_id (as in Tables S11 and S11b) the files. Layout <family>/<run>/{constraint,search,run}. Compressed archive (tar.gz, 2.1 MB).
 
 ### Data S3. Genome assemblies screened
 

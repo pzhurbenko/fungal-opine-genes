@@ -59,3 +59,18 @@ boletales_mash_517, seeds11, `analysis/trees`, `analysis/loci`, `my_code`, all `
 * Total is ~69 MB / ~1,660 files (above the ~50 MB target): `trees_final` (19 MB, AU-test constrained-run reports) and `refset/screen/step3` (10 MB) dominate. Candidates to prune: constrained-run `*.iqtree` reports in `trees_final/*/`, `hmmalign` variants (1.8 MB).
 * GitHub owner `pzhurbenko`, repository `fungal-opine-genes`; citation line in README is a placeholder.
 * ClipKIT 2.7.0 is a pip install (not in the conda export); BLAST+ version is not named in the Methods.
+
+## Refresh 2026-10-13 (evening), after the review response
+
+All sources listed above were re-copied (overwrite) with the same filters and the same path replacement (hand-edited files
+`pipeline/scripts/common.py`, `pipeline/run_pipeline.sh`, `pipeline/README.md`, `analysis/report_A/build_report.py`, `paper/rebuild_all.sh` were kept as they were,
+their sources being unchanged). Added:
+* `paper/supplementary/`: rebuilt `build_supplementary.py` and the whole current `*.tsv` set, new Tables S1d, S11b, `TableS11_constraint_mapping.tsv` + legend,
+  `data/Data_S2b_AU_constraints.tar.gz` and `data/au_constraints/MANIFEST.tsv` (the unpacked 12 MB constraint tree is not duplicated; it is inside the tarball).
+* `paper/tables/`: `integration_status.py/.tsv`, `integration_status_summary.tsv`, `sensitivity_uncertain_loci.py/.tsv`, `intact_but_uncertain_loci.tsv`, updated catalogue and Tables 1-2.
+* `paper/manuscript_v2/`: `build_docx_mdpi.py`, `reference_map.tsv`, updated builders; `paper/figures/`: `make_fig3_phylogram.py`, `make_figS10/12/13`, `Fig5_subfamilies_Tremble2024.tsv`.
+* `analysis/funnel/carriers_by_order.py/.tsv`; `analysis/au_mapping/` (from `_au_mapping_tmp`: `build_au_mapping.py`, `parse.py`, `comp.py`);
+  `analysis/pkerr14a_borders/` (the `.gb` record is not shipped; the script log is `borders_pkerr.log.txt`); `analysis/ensifer_sus_check/` (no `ncbi/` downloads);
+  `analysis/data_checks_20261013/` (notes, scripts, small outputs); `analysis/dnds/extra/` with `cus_Bol/`, `cus_Bol_sp/`, `prep_cusBol.py`.
+* Not shipped (as before): `PATCH_*.md` working notes, per-locus `round2/loci` and `round2/proteins` trees, mash/Dollo files in `boletales_mash_517`.
+* Two scripts (`analysis/expression/summarize.py`, `analysis/dnds/extra/yn00_pairwise_loose.py`) have f-strings the tokenizer-based replacement could not rewrite; edited by hand to `{GMO_ROOT}`.

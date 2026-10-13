@@ -205,7 +205,7 @@ def main():
             "## Institutional Review Board Statement", "", "Not applicable.", "",
             "## Informed Consent Statement", "", "Not applicable.", "",
             "## Data Availability Statement", "",
-            "All genome assemblies and proteomes analysed are public NCBI records; their accessions are listed in Tables S6 and S7 and Data S3. The protein sequences of the loci of bacterial origin (Data S1), the alignments, trees and IQ-TREE reports (Data S2) and all Supplementary Tables are provided with this article. The code of the screening pipeline and of all analyses, together with the small input files needed to regenerate the tables and figures, is available at [TO FILL: GitHub URL https://github.com/pzhurbenko/fungal-opine-genes] under the MIT licence (code) and CC BY 4.0 (data).", "",
+            "All genome assemblies and proteomes analysed are public NCBI records; their accessions are listed in Tables S6 and S7 and Data S3. The protein sequences of the loci of bacterial origin (Data S1), the alignments, trees and IQ-TREE reports (Data S2) and all Supplementary Tables are provided with this article. The code of the screening pipeline and of all analyses, together with the small input files needed to regenerate the tables and figures, is available at https://github.com/pzhurbenko/fungal-opine-genes under the MIT licence (code) and CC BY 4.0 (data).", "",
             "## Acknowledgments", "",
             "[TO FILL: e.g. We thank the sequencing consortia whose public genome assemblies made this study possible, and the Weizmann Institute HPC team for computing resources.]", "",
             "## Conflicts of Interest", "", "The authors declare no conflicts of interest.", ""]
