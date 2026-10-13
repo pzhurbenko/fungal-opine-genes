@@ -24,6 +24,8 @@ What it does
   * checks that no '*[' remains, reports Cyrillic lines left in the output, and prints
     word counts per section.
 """
+import sys as _sys, os as _os; _sys.path.insert(0, _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..', '..')))
+from gmo_paths import GMO_ROOT  # noqa: E402
 import argparse
 import csv
 import re
@@ -36,13 +38,13 @@ TABLES = PAPER / "tables"
 
 TITLE = "Opine metabolism genes of rhizobial origin in fungal genomes"  # decided 2026-10-12 (docs/decisions.md)
 # The colleague's docx has no author block; keep a visible mark until it is provided.
-# Authors and affiliations given by the author 2026-10-13; corresponding author/e-mail still to be chosen.
-AUTHORS = ("Peter Zhurbenko 1,2, Adelya Duskaeva 3, Elizaveta Safonova 3 and Tatiana Matveeva 4  \n"
+# Authors and affiliations given by the author 2026-10-13; corresponding author T. Matveeva.
+AUTHORS = ("Peter Zhurbenko 1,2, Adelya Duskaeva 3, Elizaveta Safonova 3 and Tatiana Matveeva 4,*  \n"
            "1 Komarov Botanical Institute of the Russian Academy of Sciences, Saint Petersburg, Russia  \n"
            "2 Weizmann Institute of Science, Rehovot, Israel  \n"
            "3 Pirogov Russian National Research Medical University, Moscow, Russia  \n"
            "4 Department of Genetics and Biotechnology, Saint Petersburg State University, Saint Petersburg, Russia  \n"
-           "[TO FILL: * Correspondence: corresponding author and e-mail]")
+           "* Correspondence: radishlet@gmail.com")
 
 # (file, top heading to insert or None, demote '## N.x' subsections to '###')
 SECTIONS = [

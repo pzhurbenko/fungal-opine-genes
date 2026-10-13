@@ -1,0 +1,31 @@
+YN00 in paml version 4.10.7, June 2023
+
+Reading options from nosODH_Bol_conf.yn00.ctl..
+
+ns = 3  	ls = 822
+Reading sequences, sequential format..
+Counting site patterns..  0:00
+
+Compressing,    111 patterns at    274 /    274 sites (100.0%),  0:00
+
+Collecting fpatt[] & pose[],    111 patterns at    274 /    274 sites (100.0%),  0:00
+
+
+(A) Nei-Gojobori (1986) method
+
+
+
+(B) Yang & Nielsen (2000) method
+
+kappa = 47.08
+
+  2 vs.   1
+  3 vs.   1
+  3 vs.   2
+
+
+(C) LWL85, LPB93 & LWLm methods
+
+   1   2   3
+
+Time used:  0:00

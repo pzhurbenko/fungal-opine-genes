@@ -1,0 +1,59 @@
+
+error: end of tree file.CODONML in paml version 4.10.7, June 2023
+NSsites batch run (ncatG as in YNGP2000):   7  8
+
+
+      168 bytes for distance
+   158112 bytes for conP
+    14256 bytes for fhK
+  5000000 bytes for space
+
+
+NSsites Model 7: beta
+
+TREE #  1
+(1, ((2, (6, 7)), 5), (3, 4));   MP score: 315
+   395280 bytes for conP, adjusted
+
+ntime & nrate & np:    11     1    14
+Qfactor_NS = 10.502490
+Out..
+lnL  = -2042.288166
+748 lfun, 8228 eigenQcodon, 82280 P(t)
+
+
+NSsites Model 8: beta&w>1
+
+TREE #  1
+(1, ((2, (6, 7)), 5), (3, 4));   MP score: 315
+initial w for M8:NSbetaw>1 reset.
+
+ntime & nrate & np:    11     2    16
+Qfactor_NS = 3.807628
+Out..
+lnL  = -2042.253773
+1414 lfun, 16968 eigenQcodon, 171094 P(t)
+
+BEBing (dim = 4).  This may take several minutes.
+Calculating f(x_h|w): 10 categories 20 w sets.
+Calculating f(X), the marginal likelihood.
+	log(fX) = -2050.759058  S = -1919.333832  -127.276964
+Calculating f(w|X), posterior probabilities of site classes.
+
+	did  10 / 162 patterns   1:35
+	did  20 / 162 patterns   1:35
+	did  30 / 162 patterns   1:35
+	did  40 / 162 patterns   1:35
+	did  50 / 162 patterns   1:35
+	did  60 / 162 patterns   1:36
+	did  70 / 162 patterns   1:36
+	did  80 / 162 patterns   1:36
+	did  90 / 162 patterns   1:36
+	did 100 / 162 patterns   1:36
+	did 110 / 162 patterns   1:36
+	did 120 / 162 patterns   1:36
+	did 130 / 162 patterns   1:36
+	did 140 / 162 patterns   1:36
+	did 150 / 162 patterns   1:36
+	did 160 / 162 patterns   1:36
+	did 162 / 162 patterns   1:36

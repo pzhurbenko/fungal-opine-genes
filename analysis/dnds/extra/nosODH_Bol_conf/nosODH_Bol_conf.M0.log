@@ -1,0 +1,15 @@
+
+error: end of tree file.CODONML in paml version 4.10.7, June 2023
+
+
+       24 bytes for distance
+   108336 bytes for conP
+        0 bytes for fhK
+  5000000 bytes for space
+
+TREE #  1
+(1, 2, 3);   MP score: 76
+ntime & nrate & np:     3     2     5
+Out..
+lnL  = -1462.667036
+311 lfun, 311 eigenQcodon, 933 P(t)

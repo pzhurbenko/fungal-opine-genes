@@ -4,6 +4,7 @@ import sys, json, re, collections
 import numpy as np, pandas as pd
 sys.path.insert(0,f'{GMO_ROOT}/analysis/refset/screen/seeds_ext/reciprocal/scripts')
 from importlib import import_module
+orgs_from_stitle=import_module('02b_taxonomy_fix').orgs_from_stitle  # trailing organism bracket(s) only (2026-10-13; description fragments such as "[acyl-carrier-protein]" are not organisms)
 R=f'{GMO_ROOT}/analysis/refset/screen/seeds_ext/reciprocal/'
 BR=re.compile(r'\[([^\[\]]+)\]')
 tax=json.load(open(R+'organism_taxonomy.json'))
@@ -15,7 +16,7 @@ h['stitle']=h.stitle.fillna('')
 recs=[]
 n_rows_multi=0
 for qs,pid,bits,st in zip(h.qseqid,h.pident,h.bitscore,h.stitle):
-    os_=list(dict.fromkeys(o.strip() for o in BR.findall(st)))
+    os_=orgs_from_stitle(st)
     if len(os_)>1: n_rows_multi+=1
     if not os_: os_=['']
     for o in os_: recs.append((qs,o,pid,bits))

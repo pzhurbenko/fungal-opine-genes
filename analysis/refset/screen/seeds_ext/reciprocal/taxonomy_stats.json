@@ -1,27 +1,32 @@
 {
  "rows": 1043583,
- "records": 1045884,
- "rows_multi_org": 2301,
- "records_no_bracket": 0,
- "records_king_NA": 4439,
- "frac_king_NA": 0.004244256533229306,
- "frac_NA_incl_nobracket": 0.004244256533229306,
+ "records": 1043849,
+ "rows_multi_org": 266,
+ "records_no_bracket": 6,
+ "records_king_NA": 1703,
+ "frac_king_NA": 0.001631462021805836,
+ "frac_NA_incl_nobracket": 0.001631462021805836,
  "king_counts": {
-  "Fungi": 593776,
-  "Bacteria": 430830,
-  "Archaea": 6938,
-  "Viridiplantae": 5611,
-  "NA": 4439,
-  "Metazoa": 4027,
-  "Eukaryota_other": 263
+  "Fungi": 592836,
+  "Bacteria": 432864,
+  "Archaea": 6927,
+  "Viridiplantae": 5244,
+  "Metazoa": 4013,
+  "NA": 1703,
+  "Eukaryota_other": 262
  },
- "fungal_records_no_order": 3987,
- "n_fungal_records": 593776,
- "unique_orgs": 17946,
- "unresolved_orgs": 58,
- "cache_crosscheck_agree": 5948,
- "cache_crosscheck_disagree": 309,
+ "fungal_records_no_order": 3152,
+ "n_fungal_records": 592836,
+ "unique_orgs": 17963,
+ "unresolved_orgs": 51,
+ "cache_crosscheck_agree": 5918,
+ "cache_crosscheck_disagree": 336,
  "cache_disagree_examples": [
+  [
+   "Bosea sp. RAC05",
+   "Plants",
+   "Bacteria"
+  ],
   [
    "Bosea sp. (in: a-proteobacteria)",
    "Plants",
@@ -38,28 +43,23 @@
    "Bacteria"
   ],
   [
+   "Bosea sp. BIWAKO-01",
+   "Plants",
+   "Bacteria"
+  ],
+  [
    "Cryptococcus neoformans var. neoformans B-3501A",
    "Metazoa",
    "Fungi"
   ],
   [
-   "Bacillus",
-   "Metazoa",
+   "Bosea sp. BE125",
+   "Plants",
    "Bacteria"
   ],
   [
-   "Bacillus sp. FJAT-22090",
-   "Metazoa",
-   "Bacteria"
-  ],
-  [
-   "Bacillus sp. MMSF_3328",
-   "Metazoa",
-   "Bacteria"
-  ],
-  [
-   "Bacillus sp. IITD106",
-   "Metazoa",
+   "Bosea sp. 685",
+   "Plants",
    "Bacteria"
   ]
  ]

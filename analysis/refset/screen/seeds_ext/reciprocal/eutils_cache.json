@@ -1,0 +1,4978 @@
+{
+"AWT60430.1": {
+"taxid": 2200854,
+"organism": "Candidatus Moanibacter tarae"
+},
+"AZO81620.1": {
+"taxid": 1867715,
+"organism": "Allobosea sp. Tri-49"
+},
+"BAL58647.1": {
+"taxid": 1446466,
+"organism": "Candidatus Acetithermum autotrophicum"
+},
+"CAG1016182.1": {
+"taxid": 2030806,
+"organism": "Burkholderiaceae bacterium"
+},
+"CAH2805863.1": {
+"taxid": 1827198,
+"organism": "uncultured Caballeronia sp."
+},
+"EDW8109268.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"ENH63426.1": {
+"taxid": 1229664,
+"organism": "Fusarium oxysporum f. sp. cubense race 1"
+},
+"ENH67866.1": {
+"taxid": 1229664,
+"organism": "Fusarium oxysporum f. sp. cubense race 1"
+},
+"ERI72526.1": {
+"taxid": 1226325,
+"organism": "Clostridium sp. KLE 1755"
+},
+"ETE63713.1": {
+"taxid": 8665,
+"organism": "Ophiophagus hannah"
+},
+"GAM82907.1": {
+"taxid": 1603295,
+"organism": "Dothideomycetidae sp. 11243"
+},
+"GAM83396.1": {
+"taxid": 1603295,
+"organism": "Dothideomycetidae sp. 11243"
+},
+"GAM84152.1": {
+"taxid": 1603295,
+"organism": "Dothideomycetidae sp. 11243"
+},
+"GAM88822.1": {
+"taxid": 1603295,
+"organism": "Dothideomycetidae sp. 11243"
+},
+"GAM90146.1": {
+"taxid": 1603295,
+"organism": "Dothideomycetidae sp. 11243"
+},
+"GAQ11436.1": {
+"taxid": 293939,
+"organism": "Aspergillus lentulus"
+},
+"GAU86112.1": {
+"taxid": 506668,
+"organism": "Allobosea sp. BIWAKO-01"
+},
+"GCL62110.1": {
+"taxid": 2315236,
+"organism": "Pseudaquabacterium pictum"
+},
+"GFF60338.1": {
+"taxid": 91492,
+"organism": "Aspergillus udagawae"
+},
+"GFF76829.1": {
+"taxid": 293939,
+"organism": "Aspergillus lentulus"
+},
+"GJC77500.1": {
+"taxid": 708192,
+"organism": "Colletotrichum liriopes"
+},
+"GJC79948.1": {
+"taxid": 708192,
+"organism": "Colletotrichum liriopes"
+},
+"HDJ22397.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HET6510598.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HET6511835.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HET9136845.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HEU5222142.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HEX4140891.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HKA11053.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HKM83641.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HME13403.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HMT22411.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HPX96339.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HQA28339.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HTA50094.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HTA50118.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HTD28400.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HTM09806.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HTU34234.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HTZ48507.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HUA13753.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HUB66695.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HUC28114.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HVA35979.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HWW14682.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HXM67647.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HXP72077.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HYM20493.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HYM78712.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HZV13351.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"KAE8441435.1": {
+"taxid": 2728926,
+"organism": "Mollisiaceae sp. DMI_Dod_QoI"
+},
+"KAE8443503.1": {
+"taxid": 2728926,
+"organism": "Mollisiaceae sp. DMI_Dod_QoI"
+},
+"KAE8449856.1": {
+"taxid": 2728926,
+"organism": "Mollisiaceae sp. DMI_Dod_QoI"
+},
+"KAE8452040.1": {
+"taxid": 2728926,
+"organism": "Mollisiaceae sp. DMI_Dod_QoI"
+},
+"KAE8452432.1": {
+"taxid": 2728926,
+"organism": "Mollisiaceae sp. DMI_Dod_QoI"
+},
+"KAF3065519.1": {
+"taxid": 1567552,
+"organism": "Trichoderma lentiforme"
+},
+"KAF3073110.1": {
+"taxid": 1567552,
+"organism": "Trichoderma lentiforme"
+},
+"KAF4415638.1": {
+"taxid": 78861,
+"organism": "Fusarium acutatum"
+},
+"KAF5352465.1": {
+"taxid": 201217,
+"organism": "Leucocoprinus leucothites"
+},
+"KAF5354175.1": {
+"taxid": 201217,
+"organism": "Leucocoprinus leucothites"
+},
+"KAF5357216.1": {
+"taxid": 201217,
+"organism": "Leucocoprinus leucothites"
+},
+"KAF5358504.1": {
+"taxid": 201217,
+"organism": "Leucocoprinus leucothites"
+},
+"KAF5360613.1": {
+"taxid": 201217,
+"organism": "Leucocoprinus leucothites"
+},
+"KAF6054294.1": {
+"taxid": 5480,
+"organism": "Lodderomyces parapsilosis"
+},
+"KAF7186350.1": {
+"taxid": 685502,
+"organism": "Pseudocercospora fuligena"
+},
+"KAF7197849.1": {
+"taxid": 685502,
+"organism": "Pseudocercospora fuligena"
+},
+"KAG0015671.1": {
+"taxid": 101097,
+"organism": "Entomortierella chlamydospora"
+},
+"KAG0670361.1": {
+"taxid": 34358,
+"organism": "Maudiozyma exigua"
+},
+"KAG0670980.1": {
+"taxid": 34358,
+"organism": "Maudiozyma exigua"
+},
+"KAG0671562.1": {
+"taxid": 34358,
+"organism": "Maudiozyma exigua"
+},
+"KAG0671563.1": {
+"taxid": 34358,
+"organism": "Maudiozyma exigua"
+},
+"KAG0672655.1": {
+"taxid": 34358,
+"organism": "Maudiozyma exigua"
+},
+"KAG5288364.1": {
+"taxid": 2902605,
+"organism": "Histoplasma ohiense"
+},
+"KAG5289632.1": {
+"taxid": 2902605,
+"organism": "Histoplasma ohiense"
+},
+"KAG5289907.1": {
+"taxid": 2902605,
+"organism": "Histoplasma ohiense"
+},
+"KAG5292069.1": {
+"taxid": 2902605,
+"organism": "Histoplasma ohiense"
+},
+"KAG5301034.1": {
+"taxid": 2902605,
+"organism": "Histoplasma ohiense"
+},
+"KAG6985292.1": {
+"taxid": 116821,
+"organism": "Physcia stellaris"
+},
+"KAH7378652.1": {
+"taxid": 2138324,
+"organism": "Cadophora sp. MPI-SDFR-AT-0126"
+},
+"KAH7395786.1": {
+"taxid": 2138324,
+"organism": "Cadophora sp. MPI-SDFR-AT-0126"
+},
+"KAH7399756.1": {
+"taxid": 2138324,
+"organism": "Cadophora sp. MPI-SDFR-AT-0126"
+},
+"KAH7409097.1": {
+"taxid": 2138324,
+"organism": "Cadophora sp. MPI-SDFR-AT-0126"
+},
+"KAH7418982.1": {
+"taxid": 2138324,
+"organism": "Cadophora sp. MPI-SDFR-AT-0126"
+},
+"KAH8649483.1": {
+"taxid": 2075069,
+"organism": "Tricladium varicosporioides"
+},
+"KAH8658796.1": {
+"taxid": 2075069,
+"organism": "Tricladium varicosporioides"
+},
+"KAH8670249.1": {
+"taxid": 2075069,
+"organism": "Tricladium varicosporioides"
+},
+"KAH8685378.1": {
+"taxid": 2075069,
+"organism": "Tricladium varicosporioides"
+},
+"KAH8686133.1": {
+"taxid": 2075069,
+"organism": "Tricladium varicosporioides"
+},
+"KAH8752553.1": {
+"taxid": 2614600,
+"organism": "Diaporthe sp. PMI_573"
+},
+"KAH8767315.1": {
+"taxid": 2614600,
+"organism": "Diaporthe sp. PMI_573"
+},
+"KAH8772558.1": {
+"taxid": 2614600,
+"organism": "Diaporthe sp. PMI_573"
+},
+"KAH8775616.1": {
+"taxid": 2614600,
+"organism": "Diaporthe sp. PMI_573"
+},
+"KAH8780287.1": {
+"taxid": 2614600,
+"organism": "Diaporthe sp. PMI_573"
+},
+"KAI4229113.1": {
+"taxid": 2903221,
+"organism": "Gallowayella cf. fulva"
+},
+"KAI4240824.1": {
+"taxid": 2903221,
+"organism": "Gallowayella cf. fulva"
+},
+"KAI4245090.1": {
+"taxid": 2903221,
+"organism": "Gallowayella cf. fulva"
+},
+"KAI4245091.1": {
+"taxid": 2903221,
+"organism": "Gallowayella cf. fulva"
+},
+"KAI4249621.1": {
+"taxid": 2903221,
+"organism": "Gallowayella cf. fulva"
+},
+"KAI9753077.1": {
+"taxid": 164576,
+"organism": "Chaenotheca gracillima"
+},
+"KAJ7081363.1": {
+"taxid": 1033014,
+"organism": "Mycena belliarum"
+},
+"KAJ7087353.1": {
+"taxid": 1033014,
+"organism": "Mycena belliarum"
+},
+"KAJ7090277.1": {
+"taxid": 1033014,
+"organism": "Mycena belliarum"
+},
+"KAJ7103303.1": {
+"taxid": 1033014,
+"organism": "Mycena belliarum"
+},
+"KAJ7104499.1": {
+"taxid": 1033014,
+"organism": "Mycena belliarum"
+},
+"KAJ9652879.1": {
+"taxid": 3383035,
+"organism": "Neophaeococcomyces mojaviensis"
+},
+"KAJ9653272.1": {
+"taxid": 3383035,
+"organism": "Neophaeococcomyces mojaviensis"
+},
+"KAJ9653280.1": {
+"taxid": 3383035,
+"organism": "Neophaeococcomyces mojaviensis"
+},
+"KAJ9653960.1": {
+"taxid": 3383035,
+"organism": "Neophaeococcomyces mojaviensis"
+},
+"KAJ9662796.1": {
+"taxid": 3383035,
+"organism": "Neophaeococcomyces mojaviensis"
+},
+"KFA62884.1": {
+"taxid": 1283841,
+"organism": "Stachybotrys chlorohalonatus IBT 40285"
+},
+"KFA62989.1": {
+"taxid": 1283841,
+"organism": "Stachybotrys chlorohalonatus IBT 40285"
+},
+"KFA64927.1": {
+"taxid": 1283841,
+"organism": "Stachybotrys chlorohalonatus IBT 40285"
+},
+"KFA68344.1": {
+"taxid": 1283841,
+"organism": "Stachybotrys chlorohalonatus IBT 40285"
+},
+"KFA69435.1": {
+"taxid": 1283841,
+"organism": "Stachybotrys chlorohalonatus IBT 40285"
+},
+"KIE04812.1": {
+"taxid": 86105,
+"organism": "Candidatus Jidaibacter acanthamoebae"
+},
+"KND89015.1": {
+"taxid": 1163406,
+"organism": "Tolypocladium ophioglossoides CBS 100239"
+},
+"KYC45837.1": {
+"taxid": 1705564,
+"organism": "Candidatus Methanofastidiosum methylothiophilum"
+},
+"MBB4819320.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBC5809601.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBD2309972.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBE0477881.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBE0520901.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBE3593553.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBE5314193.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBI1724945.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBI1958495.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBI2178336.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBI2875666.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBI3091984.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBI4251501.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBI4863321.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBK7217276.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBM3220085.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBN8428367.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBO0321153.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBP6016397.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBP6139272.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBP7707152.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBP8746391.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBP9501852.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBR0431688.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBW4498897.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBW4499125.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBW7996597.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCA9794423.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCB0219105.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCD4784375.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCD6574880.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCE0497300.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCE3004523.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCG8463720.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCI5210625.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCI5212269.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCI5222398.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCK9488094.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCK9995904.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCO5094586.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCO5180633.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCS6764381.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCS6766875.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCS6793896.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCU1340763.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCV9939850.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MCX8182508.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDB5042579.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDB5906337.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDD2657723.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDE2308424.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDF3063083.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDO8062990.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDO8083811.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDO8133874.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDP9023835.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDQ1196108.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDR0893187.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDR3118974.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDR7124743.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDX1918538.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDX1920886.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDX2474462.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDZ5720043.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MEA1963912.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MEB2316694.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MEE4268853.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"NBR80614.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"NIM58037.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"NJL07225.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"NJL62725.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"NJS36290.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"NMA31151.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"NPV84129.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"NRP87384.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"NSW77791.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"NSW78561.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"NYZ78094.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"OAK94903.1": {
+"taxid": 765868,
+"organism": "Phaeosphaeriaceae sp. SRC1lsM3a"
+},
+"OAK97754.1": {
+"taxid": 765868,
+"organism": "Phaeosphaeriaceae sp. SRC1lsM3a"
+},
+"OAK99147.1": {
+"taxid": 765868,
+"organism": "Phaeosphaeriaceae sp. SRC1lsM3a"
+},
+"OAL05962.1": {
+"taxid": 765868,
+"organism": "Phaeosphaeriaceae sp. SRC1lsM3a"
+},
+"OAL06637.1": {
+"taxid": 765868,
+"organism": "Phaeosphaeriaceae sp. SRC1lsM3a"
+},
+"OIO62141.1": {
+"taxid": 1805240,
+"organism": "Fidelibacterota bacterium CG1_02_48_14"
+},
+"OLN95207.1": {
+"taxid": 708187,
+"organism": "Colletotrichum chlorophyti"
+},
+"OMP84058.1": {
+"taxid": 420778,
+"organism": "Diplodia seriata"
+},
+"ONG50692.1": {
+"taxid": 1817963,
+"organism": "Teichococcus deserti"
+},
+"OQV06088.1": {
+"taxid": 569365,
+"organism": "Cladophialophora immunda"
+},
+"OWZ37191.1": {
+"taxid": 1230068,
+"organism": "Cryptococcus neoformans c45"
+},
+"OWZ37218.1": {
+"taxid": 1230065,
+"organism": "Cryptococcus neoformans AD1-83a"
+},
+"OWZ37311.1": {
+"taxid": 1230065,
+"organism": "Cryptococcus neoformans AD1-83a"
+},
+"OWZ57429.1": {
+"taxid": 1230068,
+"organism": "Cryptococcus neoformans c45"
+},
+"OXG95916.1": {
+"taxid": 1230080,
+"organism": "Cryptococcus neoformans A5-35-17"
+},
+"OXG99762.1": {
+"taxid": 1230081,
+"organism": "Cryptococcus neoformans A1-35-8"
+},
+"OYV03602.1": {
+"taxid": 2020626,
+"organism": "Caldifarciminota bacterium 4484_18"
+},
+"PIS25929.1": {
+"taxid": 2014294,
+"organism": "Candidatus Stahliibacteriota bacterium CG08_land_8_20_14_0_20_40_26"
+},
+"PIZ69593.1": {
+"taxid": 1975522,
+"organism": "Fidelibacterota bacterium CG_4_10_14_0_2_um_filter_48_9"
+},
+"PLX19555.1": {
+"taxid": 2053465,
+"organism": "Muiribacterium halophilum (SeqCode)"
+},
+"POE56362.1": {
+"taxid": 58331,
+"organism": "Quercus suber"
+},
+"POF01177.1": {
+"taxid": 58331,
+"organism": "Quercus suber"
+},
+"POR35618.1": {
+"taxid": 94208,
+"organism": "Tolypocladium paradoxum"
+},
+"PQE10625.1": {
+"taxid": 2070412,
+"organism": "Rutstroemia sp. NJR-2017a WRK4"
+},
+"PQE10675.1": {
+"taxid": 2070414,
+"organism": "Rutstroemia sp. NJR-2017a BBW"
+},
+"PQE16150.1": {
+"taxid": 2070413,
+"organism": "Rutstroemia sp. NJR-2017a BVV2"
+},
+"PQE18170.1": {
+"taxid": 2070414,
+"organism": "Rutstroemia sp. NJR-2017a BBW"
+},
+"PTQ55426.1": {
+"taxid": 2163959,
+"organism": "Candidatus Carbonibacillus altaicus"
+},
+"PYM60926.1": {
+"taxid": 2053607,
+"organism": "Candidatus Rokuibacteriota bacterium"
+},
+"PYM63370.1": {
+"taxid": 2053607,
+"organism": "Candidatus Rokuibacteriota bacterium"
+},
+"PYN95013.1": {
+"taxid": 2053607,
+"organism": "Candidatus Rokuibacteriota bacterium"
+},
+"QEH39037.1": {
+"taxid": 406548,
+"organism": "Aquisphaera giovannonii"
+},
+"QOR65437.1": {
+"taxid": 2779776,
+"organism": "Litchfieldia suaedae"
+},
+"QOR65830.1": {
+"taxid": 2779776,
+"organism": "Litchfieldia suaedae"
+},
+"QPQ29643.1": {
+"taxid": 2792479,
+"organism": "Lysinibacillus sp. JNUCC 51"
+},
+"RDA82752.1": {
+"taxid": 2039875,
+"organism": "Ophiocordyceps camponoti-leonardi"
+},
+"RDA85148.1": {
+"taxid": 2039875,
+"organism": "Ophiocordyceps camponoti-leonardi"
+},
+"RDA86160.1": {
+"taxid": 2039875,
+"organism": "Ophiocordyceps camponoti-leonardi"
+},
+"RDA88419.1": {
+"taxid": 2039875,
+"organism": "Ophiocordyceps camponoti-leonardi"
+},
+"RDA88603.1": {
+"taxid": 2039875,
+"organism": "Ophiocordyceps camponoti-leonardi"
+},
+"RDA92162.1": {
+"taxid": 2039874,
+"organism": "Ophiocordyceps camponoti-saundersi"
+},
+"RDA93009.1": {
+"taxid": 2039874,
+"organism": "Ophiocordyceps camponoti-saundersi"
+},
+"RDA94587.1": {
+"taxid": 2039874,
+"organism": "Ophiocordyceps camponoti-saundersi"
+},
+"RDA95330.1": {
+"taxid": 2039874,
+"organism": "Ophiocordyceps camponoti-saundersi"
+},
+"RDA95788.1": {
+"taxid": 2039874,
+"organism": "Ophiocordyceps camponoti-saundersi"
+},
+"RFT15982.1": {
+"taxid": 2508984,
+"organism": "Candidatus Saccharicenans subterraneus"
+},
+"RGB30279.1": {
+"taxid": 1803374,
+"organism": "Rhizophagus sp. MUCL 43196"
+},
+"RGB32407.1": {
+"taxid": 1803374,
+"organism": "Rhizophagus sp. MUCL 43196"
+},
+"RGB33251.1": {
+"taxid": 1803374,
+"organism": "Rhizophagus sp. MUCL 43196"
+},
+"RGB33806.1": {
+"taxid": 1803374,
+"organism": "Rhizophagus sp. MUCL 43196"
+},
+"RGB35331.1": {
+"taxid": 1803374,
+"organism": "Rhizophagus sp. MUCL 43196"
+},
+"RIB23131.1": {
+"taxid": 44941,
+"organism": "Gigaspora rosea"
+},
+"RLC48434.1": {
+"taxid": 2250272,
+"organism": "Candidatus Coatesiibacteriota bacterium"
+},
+"RLE08814.1": {
+"taxid": 2030807,
+"organism": "Candidatus Aerophobota bacterium"
+},
+"RLE09103.1": {
+"taxid": 2052149,
+"organism": "Candidatus Aminicenantota bacterium"
+},
+"RMZ66125.1": {
+"taxid": 1302712,
+"organism": "Pyrenophora seminiperda CCB06"
+},
+"RPG28668.1": {
+"taxid": 1986608,
+"organism": "Allomuricauda sp. TMED12"
+},
+"RPH53463.1": {
+"taxid": 2006849,
+"organism": "Lysobacterales bacterium"
+},
+"RZN62657.1": {
+"taxid": 2478471,
+"organism": "Candidatus Methanodesulfokora washburnensis"
+},
+"SET98029.1": {
+"taxid": 83460,
+"organism": "Allostigmatella erecta"
+},
+"SJL07283.1": {
+"taxid": 47428,
+"organism": "Armillaria ostoyae"
+},
+"TFB09602.1": {
+"taxid": 2552983,
+"organism": "Fidelibacterota bacterium MT.SAG.2"
+},
+"TFB10184.1": {
+"taxid": 2552982,
+"organism": "Fidelibacterota bacterium MT.SAG.3"
+},
+"TKA23255.1": {
+"taxid": 706561,
+"organism": "Salinomyces thailandicus"
+},
+"TKA26310.1": {
+"taxid": 706561,
+"organism": "Salinomyces thailandicus"
+},
+"TKA30676.1": {
+"taxid": 706561,
+"organism": "Salinomyces thailandicus"
+},
+"TKA30958.1": {
+"taxid": 706561,
+"organism": "Salinomyces thailandicus"
+},
+"TKA32479.1": {
+"taxid": 706561,
+"organism": "Salinomyces thailandicus"
+},
+"TLS38400.1": {
+"taxid": 2574798,
+"organism": "Exobacillus caeni"
+},
+"TNM60079.1": {
+"taxid": 1395944,
+"organism": "Aliirhizobium smilacinae"
+},
+"TVY47497.1": {
+"taxid": 215460,
+"organism": "Lachnellula occidentalis"
+},
+"TVY58919.1": {
+"taxid": 1316786,
+"organism": "Lachnellula cervina"
+},
+"URN94271.1": {
+"taxid": 2994561,
+"organism": "Pristimantibacillus lignocellulolyticus (SeqCode)"
+},
+"WP_003181235.1": {
+"taxid": 1386,
+"organism": "Bacillus"
+},
+"WP_007301648.1": {
+"taxid": 1827,
+"organism": "Rhodococcus"
+},
+"WP_009791983.1": {
+"taxid": 1386,
+"organism": "Bacillus"
+},
+"WP_015177625.1": {
+"taxid": 482564,
+"organism": "Phormidium nigroviride"
+},
+"WP_020110859.1": {
+"taxid": 85025,
+"organism": "Nocardiaceae"
+},
+"WP_020510708.1": {
+"taxid": 113565,
+"organism": "Paractinoplanes globisporus"
+},
+"WP_020518220.1": {
+"taxid": 113565,
+"organism": "Paractinoplanes globisporus"
+},
+"WP_020825860.1": {
+"taxid": 613,
+"organism": "Serratia"
+},
+"WP_025811354.1": {
+"taxid": 1386,
+"organism": "Bacillus"
+},
+"WP_036801671.1": {
+"taxid": 1372,
+"organism": "Planococcus"
+},
+"WP_037106606.1": {
+"taxid": 1828,
+"organism": "Rhodococcoides fascians"
+},
+"WP_037164008.1": {
+"taxid": 1828,
+"organism": "Rhodococcoides fascians"
+},
+"WP_037231126.1": {
+"taxid": 1827,
+"organism": "Rhodococcus"
+},
+"WP_038362964.1": {
+"taxid": 1510531,
+"organism": "Allobosea sp. UNC402CLCol"
+},
+"WP_038362979.1": {
+"taxid": 1510531,
+"organism": "Allobosea sp. UNC402CLCol"
+},
+"WP_038363345.1": {
+"taxid": 1510531,
+"organism": "Allobosea sp. UNC402CLCol"
+},
+"WP_038368552.1": {
+"taxid": 1510531,
+"organism": "Allobosea sp. UNC402CLCol"
+},
+"WP_039457564.1": {
+"taxid": 86105,
+"organism": "Candidatus Jidaibacter acanthamoebae"
+},
+"WP_039752293.1": {
+"taxid": 482630,
+"organism": "Hassallia byssoidea"
+},
+"WP_043145473.1": {
+"taxid": 561184,
+"organism": "Antarctobacter albus"
+},
+"WP_043236313.1": {
+"taxid": 1502851,
+"organism": "Allobosea sp. LC85"
+},
+"WP_043237034.1": {
+"taxid": 1502851,
+"organism": "Allobosea sp. LC85"
+},
+"WP_043239391.1": {
+"taxid": 1502851,
+"organism": "Allobosea sp. LC85"
+},
+"WP_043242157.1": {
+"taxid": 1502851,
+"organism": "Allobosea sp. LC85"
+},
+"WP_043528642.1": {
+"taxid": 1166948,
+"organism": "Litchfieldella xinjiangensis"
+},
+"WP_043532106.1": {
+"taxid": 1166948,
+"organism": "Litchfieldella xinjiangensis"
+},
+"WP_044823985.1": {
+"taxid": 84022,
+"organism": "Andreesenella acetica"
+},
+"WP_048761445.1": {
+"taxid": 613,
+"organism": "Serratia"
+},
+"WP_051180065.1": {
+"taxid": 971,
+"organism": "Pseudoselenomonas ruminantium"
+},
+"WP_054021133.1": {
+"taxid": 1547922,
+"organism": "Pseudideonella sakaiensis"
+},
+"WP_054144395.1": {
+"taxid": 1523417,
+"organism": "Allobosea sp. AAP35"
+},
+"WP_054245634.1": {
+"taxid": 1827,
+"organism": "Rhodococcus"
+},
+"WP_056799118.1": {
+"taxid": 1736524,
+"organism": "Allobosea sp. Root381"
+},
+"WP_057188311.1": {
+"taxid": 1736544,
+"organism": "Allobosea sp. Root483D1"
+},
+"WP_057189560.1": {
+"taxid": 1736544,
+"organism": "Allobosea sp. Root483D1"
+},
+"WP_057193130.1": {
+"taxid": 1736544,
+"organism": "Allobosea sp. Root483D1"
+},
+"WP_058385695.1": {
+"taxid": 1372,
+"organism": "Planococcus"
+},
+"WP_058385733.1": {
+"taxid": 1372,
+"organism": "Planococcus"
+},
+"WP_060558937.1": {
+"taxid": 613,
+"organism": "Serratia"
+},
+"WP_066470052.1": {
+"taxid": 406341,
+"organism": "Allobosea sp. WAO"
+},
+"WP_066474604.1": {
+"taxid": 406341,
+"organism": "Allobosea sp. WAO"
+},
+"WP_066614036.1": {
+"taxid": 1792307,
+"organism": "Allobosea sp. PAMC 26642"
+},
+"WP_067034787.1": {
+"taxid": 1848189,
+"organism": "Allomuricauda sp. CP2A"
+},
+"WP_068366750.1": {
+"taxid": 755172,
+"organism": "Aedoeadaptatus coxii"
+},
+"WP_068904286.1": {
+"taxid": 58119,
+"organism": "Planomonospora parontospora"
+},
+"WP_069053093.1": {
+"taxid": 1842539,
+"organism": "Allobosea sp. RAC05"
+},
+"WP_069878665.1": {
+"taxid": 506668,
+"organism": "Allobosea sp. BIWAKO-01"
+},
+"WP_069880203.1": {
+"taxid": 506668,
+"organism": "Allobosea sp. BIWAKO-01"
+},
+"WP_069881626.1": {
+"taxid": 506668,
+"organism": "Allobosea sp. BIWAKO-01"
+},
+"WP_069881627.1": {
+"taxid": 506668,
+"organism": "Allobosea sp. BIWAKO-01"
+},
+"WP_070131079.1": {
+"taxid": 1742262,
+"organism": "Frankia sp. CgMI4"
+},
+"WP_070881882.1": {
+"taxid": 640205,
+"organism": "Phytopseudomonas seleniipraecipitans"
+},
+"WP_071153975.1": {
+"taxid": 1372,
+"organism": "Planococcus"
+},
+"WP_074621330.1": {
+"taxid": 561184,
+"organism": "Antarctobacter albus"
+},
+"WP_075665173.1": {
+"taxid": 2420,
+"organism": "Thermosipho"
+},
+"WP_076439108.1": {
+"taxid": 1907408,
+"organism": "Allobosea sp. TND4EK4"
+},
+"WP_077618462.1": {
+"taxid": 1926280,
+"organism": "Litchfieldia sinesaloumensis"
+},
+"WP_077618758.1": {
+"taxid": 1926280,
+"organism": "Litchfieldia sinesaloumensis"
+},
+"WP_078080138.1": {
+"taxid": 1372,
+"organism": "Planococcus"
+},
+"WP_085752393.1": {
+"taxid": 946333,
+"organism": "Rhizobacter gummiphilus"
+},
+"WP_086511985.1": {
+"taxid": 52021,
+"organism": "Billgrantia desiderata"
+},
+"WP_087863049.1": {
+"taxid": 1986204,
+"organism": "Candidatus Brevifilum fermentans"
+},
+"WP_088671449.1": {
+"taxid": 561184,
+"organism": "Antarctobacter albus"
+},
+"WP_089173721.1": {
+"taxid": 2015316,
+"organism": "Allobosea sp. AS-1"
+},
+"WP_089175095.1": {
+"taxid": 2015316,
+"organism": "Allobosea sp. AS-1"
+},
+"WP_089658155.1": {
+"taxid": 48727,
+"organism": "Franzmannia pantelleriensis"
+},
+"WP_092159472.1": {
+"taxid": 378404,
+"organism": "Allobosea sp. CRIB-10"
+},
+"WP_092166269.1": {
+"taxid": 1855286,
+"organism": "Allobosea sp. OK403"
+},
+"WP_092168382.1": {
+"taxid": 1855286,
+"organism": "Allobosea sp. OK403"
+},
+"WP_092367743.1": {
+"taxid": 640205,
+"organism": "Phytopseudomonas seleniipraecipitans"
+},
+"WP_095290355.1": {
+"taxid": 1386,
+"organism": "Bacillus"
+},
+"WP_103969597.1": {
+"taxid": 52021,
+"organism": "Billgrantia desiderata"
+},
+"WP_105864413.1": {
+"taxid": 204476,
+"organism": "Labrys"
+},
+"WP_105978966.1": {
+"taxid": 1386,
+"organism": "Bacillus"
+},
+"WP_111218399.1": {
+"taxid": 2041385,
+"organism": "Arminella tumorigenes"
+},
+"WP_111221720.1": {
+"taxid": 2041385,
+"organism": "Arminella tumorigenes"
+},
+"WP_111223069.1": {
+"taxid": 2041385,
+"organism": "Arminella tumorigenes"
+},
+"WP_113251904.1": {
+"taxid": 2773451,
+"organism": "Allobosea spartocytisi"
+},
+"WP_113252922.1": {
+"taxid": 85413,
+"organism": "Allobosea"
+},
+"WP_114375514.1": {
+"taxid": 2185104,
+"organism": "Elioraea thermophila (ex Habib et al. 2022)"
+},
+"WP_118875515.1": {
+"taxid": 2304605,
+"organism": "Ureibacillus yapensis"
+},
+"WP_118877305.1": {
+"taxid": 2304605,
+"organism": "Ureibacillus yapensis"
+},
+"WP_118877347.1": {
+"taxid": 2304605,
+"organism": "Ureibacillus yapensis"
+},
+"WP_118877463.1": {
+"taxid": 2304605,
+"organism": "Ureibacillus yapensis"
+},
+"WP_120385718.1": {
+"taxid": 272774,
+"organism": "Vreelandella alkaliphila"
+},
+"WP_126110632.1": {
+"taxid": 2653178,
+"organism": "unclassified Allobosea"
+},
+"WP_126114723.1": {
+"taxid": 2653178,
+"organism": "unclassified Allobosea"
+},
+"WP_128182763.1": {
+"taxid": 2306993,
+"organism": "Paenirhodobacter populi"
+},
+"WP_128207651.1": {
+"taxid": 2306993,
+"organism": "Paenirhodobacter populi"
+},
+"WP_128232570.1": {
+"taxid": 2306993,
+"organism": "Paenirhodobacter populi"
+},
+"WP_128237863.1": {
+"taxid": 2306993,
+"organism": "Paenirhodobacter populi"
+},
+"WP_128269581.1": {
+"taxid": 2306993,
+"organism": "Paenirhodobacter populi"
+},
+"WP_129155149.1": {
+"taxid": 1972137,
+"organism": "Allobosea sp. Tri-44"
+},
+"WP_129159141.1": {
+"taxid": 1972137,
+"organism": "Allobosea sp. Tri-44"
+},
+"WP_131859246.1": {
+"taxid": 2512180,
+"organism": "Allobosea sp. BK604"
+},
+"WP_136254147.1": {
+"taxid": 2508711,
+"organism": "Onishia niordana"
+},
+"WP_136254314.1": {
+"taxid": 2508711,
+"organism": "Onishia niordana"
+},
+"WP_136948725.1": {
+"taxid": 208199,
+"organism": "Guptibacillus hwajinpoensis"
+},
+"WP_137731856.1": {
+"taxid": 2315236,
+"organism": "Pseudaquabacterium pictum"
+},
+"WP_138129672.1": {
+"taxid": 2574798,
+"organism": "Exobacillus caeni"
+},
+"WP_138163564.1": {
+"taxid": 2578117,
+"organism": "Parasedimentitalea maritima"
+},
+"WP_138164077.1": {
+"taxid": 2578117,
+"organism": "Parasedimentitalea maritima"
+},
+"WP_139676576.1": {
+"taxid": 1395944,
+"organism": "Aliirhizobium smilacinae"
+},
+"WP_147661544.1": {
+"taxid": 2594042,
+"organism": "Promethearchaeum syntrophicum"
+},
+"WP_149128699.1": {
+"taxid": 2599640,
+"organism": "Allobosea sp. F3-2"
+},
+"WP_149133864.1": {
+"taxid": 2599640,
+"organism": "Allobosea sp. F3-2"
+},
+"WP_149134480.1": {
+"taxid": 2599640,
+"organism": "Allobosea sp. F3-2"
+},
+"WP_152013748.1": {
+"taxid": 2653178,
+"organism": "unclassified Allobosea"
+},
+"WP_158977117.1": {
+"taxid": 2578117,
+"organism": "Parasedimentitalea maritima"
+},
+"WP_158979941.1": {
+"taxid": 2578117,
+"organism": "Parasedimentitalea maritima"
+},
+"WP_159636864.1": {
+"taxid": 363260,
+"organism": "Sphingobacterium composti Ten et al. 2007 non Yoo et al. 2007"
+},
+"WP_160920289.1": {
+"taxid": 208199,
+"organism": "Guptibacillus hwajinpoensis"
+},
+"WP_161136356.1": {
+"taxid": 2511204,
+"organism": "Schauerella aestuarii"
+},
+"WP_161137479.1": {
+"taxid": 2511204,
+"organism": "Schauerella aestuarii"
+},
+"WP_167647177.1": {
+"taxid": 561184,
+"organism": "Antarctobacter albus"
+},
+"WP_171016679.1": {
+"taxid": 2574798,
+"organism": "Exobacillus caeni"
+},
+"WP_172430331.1": {
+"taxid": 561184,
+"organism": "Antarctobacter albus"
+},
+"WP_173045848.1": {
+"taxid": 2020412,
+"organism": "Allobosea sp. ANAM02"
+},
+"WP_176067243.1": {
+"taxid": 2742824,
+"organism": "Rhizobacter koreensis"
+},
+"WP_176302646.1": {
+"taxid": 2729617,
+"organism": "Vreelandella maris"
+},
+"WP_180499647.1": {
+"taxid": 2582829,
+"organism": "Aedoeadaptatus nemausensis"
+},
+"WP_186420994.1": {
+"taxid": 1892849,
+"organism": "Allobosea sp. CS1GBMeth4"
+},
+"WP_186421263.1": {
+"taxid": 1892849,
+"organism": "Allobosea sp. CS1GBMeth4"
+},
+"WP_187784735.1": {
+"taxid": 1224513,
+"organism": "Teichococcus aerophilus"
+},
+"WP_189467597.1": {
+"taxid": 980347,
+"organism": "Litchfieldella qijiaojingensis"
+},
+"WP_191124088.1": {
+"taxid": 85413,
+"organism": "Allobosea"
+},
+"WP_192158042.1": {
+"taxid": 2692781,
+"organism": "Chroococcidiopsis sp. [FACHB-1243]"
+},
+"WP_192162741.1": {
+"taxid": 2692781,
+"organism": "Chroococcidiopsis sp. [FACHB-1243]"
+},
+"WP_192206053.1": {
+"taxid": 2675229,
+"organism": "Peribacillus"
+},
+"WP_192206293.1": {
+"taxid": 2675229,
+"organism": "Peribacillus"
+},
+"WP_192206385.1": {
+"taxid": 2675229,
+"organism": "Peribacillus"
+},
+"WP_192263610.1": {
+"taxid": 2777983,
+"organism": "Paenibacillus sp. JNUCC31"
+},
+"WP_192264987.1": {
+"taxid": 2777983,
+"organism": "Paenibacillus sp. JNUCC31"
+},
+"WP_192267497.1": {
+"taxid": 2777983,
+"organism": "Paenibacillus sp. JNUCC31"
+},
+"WP_192268549.1": {
+"taxid": 2777983,
+"organism": "Paenibacillus sp. JNUCC31"
+},
+"WP_192570731.1": {
+"taxid": 2777984,
+"organism": "Paenibacillus sp. JNUCC32"
+},
+"WP_193981486.1": {
+"taxid": 767427,
+"organism": "[Phormidium] sp. LEGE 05292"
+},
+"WP_194220420.1": {
+"taxid": 208199,
+"organism": "Guptibacillus hwajinpoensis"
+},
+"WP_199088633.1": {
+"taxid": 2795106,
+"organism": "Allobosea sp. ASV33"
+},
+"WP_199089074.1": {
+"taxid": 2795106,
+"organism": "Allobosea sp. ASV33"
+},
+"WP_199091824.1": {
+"taxid": 2795106,
+"organism": "Allobosea sp. ASV33"
+},
+"WP_200616166.1": {
+"taxid": 2763317,
+"organism": "Agrilutibacter solisilvae"
+},
+"WP_201306191.1": {
+"taxid": 2692566,
+"organism": "Roseomonas harenae"
+},
+"WP_207553602.1": {
+"taxid": 1817963,
+"organism": "Teichococcus deserti"
+},
+"WP_208021329.1": {
+"taxid": 265,
+"organism": "Paracoccus"
+},
+"WP_214799684.1": {
+"taxid": 2,
+"organism": "Bacteria"
+},
+"WP_214800033.1": {
+"taxid": 2,
+"organism": "Bacteria"
+},
+"WP_224885080.1": {
+"taxid": 208199,
+"organism": "Guptibacillus hwajinpoensis"
+},
+"WP_226660004.1": {
+"taxid": 208199,
+"organism": "Guptibacillus hwajinpoensis"
+},
+"WP_228236483.1": {
+"taxid": 2683292,
+"organism": "Allomuricauda sp. M10"
+},
+"WP_229803650.1": {
+"taxid": 980347,
+"organism": "Litchfieldella qijiaojingensis"
+},
+"WP_234244563.1": {
+"taxid": 52021,
+"organism": "Billgrantia desiderata"
+},
+"WP_234249943.1": {
+"taxid": 52021,
+"organism": "Billgrantia desiderata"
+},
+"WP_234268540.1": {
+"taxid": 2733486,
+"organism": "Billgrantia ethanolica"
+},
+"WP_234274462.1": {
+"taxid": 2733481,
+"organism": "Billgrantia zhangzhouensis"
+},
+"WP_234275365.1": {
+"taxid": 2733481,
+"organism": "Billgrantia zhangzhouensis"
+},
+"WP_234277283.1": {
+"taxid": 52021,
+"organism": "Billgrantia desiderata"
+},
+"WP_234736966.1": {
+"taxid": 2907205,
+"organism": "Larkinella bombi"
+},
+"WP_234846434.1": {
+"taxid": 284033,
+"organism": "[Streptosporangium] indianense"
+},
+"WP_235430902.1": {
+"taxid": 613,
+"organism": "Serratia"
+},
+"WP_235925117.1": {
+"taxid": 2692566,
+"organism": "Roseomonas harenae"
+},
+"WP_240252775.1": {
+"taxid": 2918902,
+"organism": "Fredinandcohnia quinoae"
+},
+"WP_240253166.1": {
+"taxid": 2918902,
+"organism": "Fredinandcohnia quinoae"
+},
+"WP_240256532.1": {
+"taxid": 2918902,
+"organism": "Fredinandcohnia quinoae"
+},
+"WP_242038713.1": {
+"taxid": 2692781,
+"organism": "Chroococcidiopsis sp. [FACHB-1243]"
+},
+"WP_242527895.1": {
+"taxid": 2816036,
+"organism": "Allomuricauda sp. CAU 1633"
+},
+"WP_243784341.1": {
+"taxid": 34007,
+"organism": "Paracoccus versutus"
+},
+"WP_244266947.1": {
+"taxid": 44260,
+"organism": "Moorella"
+},
+"WP_245767457.1": {
+"taxid": 83460,
+"organism": "Allostigmatella erecta"
+},
+"WP_246091957.1": {
+"taxid": 1395944,
+"organism": "Aliirhizobium smilacinae"
+},
+"WP_247044712.1": {
+"taxid": 2926409,
+"organism": "Allomuricauda sp. F6463D"
+},
+"WP_247134710.1": {
+"taxid": 2908842,
+"organism": "Allomuricauda sp. SCSIO 64092"
+},
+"WP_248308021.1": {
+"taxid": 2015316,
+"organism": "Allobosea sp. AS-1"
+},
+"WP_250124031.1": {
+"taxid": 155894,
+"organism": "Chroococcidiopsis sp. CCMEE 29"
+},
+"WP_250124889.1": {
+"taxid": 155894,
+"organism": "Chroococcidiopsis sp. CCMEE 29"
+},
+"WP_252752374.1": {
+"taxid": 2952477,
+"organism": "Affinirhizobium gouqiense"
+},
+"WP_257735287.1": {
+"taxid": 2969304,
+"organism": "Allobosea sp. 47.2.35"
+},
+"WP_258359247.1": {
+"taxid": 2972948,
+"organism": "Neomoorella sulfitireducens"
+},
+"WP_259216648.1": {
+"taxid": 613,
+"organism": "Serratia"
+},
+"WP_260044302.1": {
+"taxid": 2976432,
+"organism": "Novosphingobium mangrovisedimenti"
+},
+"WP_261683238.1": {
+"taxid": 1936,
+"organism": "Streptomyces violaceus"
+},
+"WP_262330609.1": {
+"taxid": 2871701,
+"organism": "Allobosea sp. BH3"
+},
+"WP_263558245.1": {
+"taxid": 2893554,
+"organism": "Kinneretia sp. B2R-40"
+},
+"WP_265051753.1": {
+"taxid": 2969621,
+"organism": "Allobosea sp. NBC_00550"
+},
+"WP_265055453.1": {
+"taxid": 2969621,
+"organism": "Allobosea sp. NBC_00550"
+},
+"WP_266369123.1": {
+"taxid": 2674997,
+"organism": "Larkinella roseola"
+},
+"WP_272136644.1": {
+"taxid": 2995309,
+"organism": "Allostigmatella ashevillensis"
+},
+"WP_272141347.1": {
+"taxid": 2995309,
+"organism": "Allostigmatella ashevillensis"
+},
+"WP_274942520.1": {
+"taxid": 2975056,
+"organism": "Govanella unica"
+},
+"WP_275759436.1": {
+"taxid": 3031321,
+"organism": "Antiquaquibacter metalliresistens"
+},
+"WP_278333160.1": {
+"taxid": 2041385,
+"organism": "Arminella tumorigenes"
+},
+"WP_278333410.1": {
+"taxid": 2041385,
+"organism": "Arminella tumorigenes"
+},
+"WP_284618842.1": {
+"taxid": 3237377,
+"organism": "Aquabacterium humicola"
+},
+"WP_289262196.1": {
+"taxid": 3050384,
+"organism": "Microbacterium albipurpureum"
+},
+"WP_289444662.1": {
+"taxid": 3053468,
+"organism": "Cellulomonas edaphi"
+},
+"WP_289672382.1": {
+"taxid": 2978974,
+"organism": "Neorhizobium sp. CSC1952"
+},
+"WP_289985057.1": {
+"taxid": 3020845,
+"organism": "Neobacillus sp. BSR1-1"
+},
+"WP_289987185.1": {
+"taxid": 3020845,
+"organism": "Neobacillus sp. BSR1-1"
+},
+"WP_289987719.1": {
+"taxid": 3020845,
+"organism": "Neobacillus sp. BSR1-1"
+},
+"WP_289987916.1": {
+"taxid": 3020845,
+"organism": "Neobacillus sp. BSR1-1"
+},
+"WP_289988584.1": {
+"taxid": 3020845,
+"organism": "Neobacillus sp. BSR1-1"
+},
+"WP_291663320.1": {
+"taxid": 2653178,
+"organism": "unclassified Allobosea"
+},
+"WP_291663582.1": {
+"taxid": 2653178,
+"organism": "unclassified Allobosea"
+},
+"WP_301551602.1": {
+"taxid": 208199,
+"organism": "Guptibacillus hwajinpoensis"
+},
+"WP_301552050.1": {
+"taxid": 208199,
+"organism": "Guptibacillus hwajinpoensis"
+},
+"WP_301553019.1": {
+"taxid": 208199,
+"organism": "Guptibacillus hwajinpoensis"
+},
+"WP_301557783.1": {
+"taxid": 2952477,
+"organism": "Rhizobium sp. SSA_523"
+},
+"WP_306052067.1": {
+"taxid": 3068275,
+"organism": "Natronococcus wangiae"
+},
+"WP_306074183.1": {
+"taxid": 3035913,
+"organism": "Neobacillus driksii"
+},
+"WP_306074184.1": {
+"taxid": 3035913,
+"organism": "Neobacillus driksii"
+},
+"WP_306074379.1": {
+"taxid": 3035913,
+"organism": "Neobacillus driksii"
+},
+"WP_306076212.1": {
+"taxid": 3035913,
+"organism": "Neobacillus driksii"
+},
+"WP_307148633.1": {
+"taxid": 1325932,
+"organism": "Robertmurraya andreesenii"
+},
+"WP_307150931.1": {
+"taxid": 1325932,
+"organism": "Robertmurraya andreesenii"
+},
+"WP_307151754.1": {
+"taxid": 1325932,
+"organism": "Robertmurraya andreesenii"
+},
+"WP_309536306.1": {
+"taxid": 3073144,
+"organism": "Ferdinandcohnia sp. QZ13"
+},
+"WP_309536855.1": {
+"taxid": 3073144,
+"organism": "Ferdinandcohnia sp. QZ13"
+},
+"WP_309722123.1": {
+"taxid": 1329370,
+"organism": "Franzmannia qiaohouensis"
+},
+"WP_310146946.1": {
+"taxid": 2817909,
+"organism": "Allobosea sp. BE125"
+},
+"WP_310149850.1": {
+"taxid": 2817909,
+"organism": "Allobosea sp. BE125"
+},
+"WP_310155122.1": {
+"taxid": 2817909,
+"organism": "Allobosea sp. BE125"
+},
+"WP_310156212.1": {
+"taxid": 2817909,
+"organism": "Allobosea sp. BE125"
+},
+"WP_311911966.1": {
+"taxid": 3080057,
+"organism": "Allobosea sp. 685"
+},
+"WP_311912790.1": {
+"taxid": 3080057,
+"organism": "Allobosea sp. 685"
+},
+"WP_311913122.1": {
+"taxid": 3080057,
+"organism": "Allobosea sp. 685"
+},
+"WP_311914745.1": {
+"taxid": 3080057,
+"organism": "Allobosea sp. 685"
+},
+"WP_311914961.1": {
+"taxid": 3080057,
+"organism": "Allobosea sp. 685"
+},
+"WP_316298160.1": {
+"taxid": 3049795,
+"organism": "Aliisedimentitalea sp. MJ-SS2"
+},
+"WP_316702640.1": {
+"taxid": 946333,
+"organism": "Rhizobacter gummiphilus"
+},
+"WP_321165436.1": {
+"taxid": 755172,
+"organism": "Aedoeadaptatus coxii"
+},
+"WP_322622314.1": {
+"taxid": 755172,
+"organism": "Aedoeadaptatus coxii"
+},
+"WP_322627594.1": {
+"taxid": 755172,
+"organism": "Aedoeadaptatus coxii"
+},
+"WP_322630903.1": {
+"taxid": 755172,
+"organism": "Aedoeadaptatus coxii"
+},
+"WP_323328286.1": {
+"taxid": 3110235,
+"organism": "Amycolatopsis sp., V23-08"
+},
+"XP_001538431.1": {
+"taxid": 2059318,
+"organism": "Histoplasma mississippiense"
+},
+"XP_001540586.1": {
+"taxid": 2059318,
+"organism": "Histoplasma mississippiense"
+},
+"XP_001543383.1": {
+"taxid": 2059318,
+"organism": "Histoplasma mississippiense"
+},
+"XP_001543843.1": {
+"taxid": 2059318,
+"organism": "Histoplasma mississippiense"
+},
+"XP_003067906.1": {
+"taxid": 222929,
+"organism": "Coccidioides posadasii C735 delta SOWgp"
+},
+"XP_003867032.1": {
+"taxid": 1136231,
+"organism": "Lodderomyces orthopsilosis Co 90-125"
+},
+"XP_003867800.1": {
+"taxid": 1136231,
+"organism": "Lodderomyces orthopsilosis Co 90-125"
+},
+"XP_003868190.1": {
+"taxid": 1136231,
+"organism": "Lodderomyces orthopsilosis Co 90-125"
+},
+"XP_003869825.1": {
+"taxid": 1136231,
+"organism": "Lodderomyces orthopsilosis Co 90-125"
+},
+"XP_003870975.1": {
+"taxid": 1136231,
+"organism": "Lodderomyces orthopsilosis Co 90-125"
+},
+"XP_004178736.1": {
+"taxid": 1071380,
+"organism": "Henningerozyma blattae CBS 6284"
+},
+"XP_004180126.1": {
+"taxid": 1071380,
+"organism": "Henningerozyma blattae CBS 6284"
+},
+"XP_004180127.1": {
+"taxid": 1071380,
+"organism": "Henningerozyma blattae CBS 6284"
+},
+"XP_006141296.1": {
+"taxid": 246437,
+"organism": "Tupaia chinensis"
+},
+"XP_006157584.1": {
+"taxid": 246437,
+"organism": "Tupaia chinensis"
+},
+"XP_006158835.1": {
+"taxid": 246437,
+"organism": "Tupaia chinensis"
+},
+"XP_012047278.1": {
+"taxid": 235443,
+"organism": "Cryptococcus neoformans H99"
+},
+"XP_012047387.1": {
+"taxid": 235443,
+"organism": "Cryptococcus neoformans H99"
+},
+"XP_012051241.1": {
+"taxid": 235443,
+"organism": "Cryptococcus neoformans H99"
+},
+"XP_012051299.1": {
+"taxid": 235443,
+"organism": "Cryptococcus neoformans H99"
+},
+"XP_014444691.1": {
+"taxid": 246437,
+"organism": "Tupaia chinensis"
+},
+"XP_017995334.1": {
+"taxid": 1664694,
+"organism": "Cyphellophora attinorum"
+},
+"XP_017996695.1": {
+"taxid": 1664694,
+"organism": "Cyphellophora attinorum"
+},
+"XP_017997479.1": {
+"taxid": 1664694,
+"organism": "Cyphellophora attinorum"
+},
+"XP_018002087.1": {
+"taxid": 1664694,
+"organism": "Cyphellophora attinorum"
+},
+"XP_018005860.1": {
+"taxid": 1664694,
+"organism": "Cyphellophora attinorum"
+},
+"XP_022465562.1": {
+"taxid": 1071383,
+"organism": "Huiozyma naganishii CBS 8797"
+},
+"XP_022465674.1": {
+"taxid": 1071383,
+"organism": "Huiozyma naganishii CBS 8797"
+},
+"XP_022466540.1": {
+"taxid": 1071383,
+"organism": "Huiozyma naganishii CBS 8797"
+},
+"XP_022466541.1": {
+"taxid": 1071383,
+"organism": "Huiozyma naganishii CBS 8797"
+},
+"XP_022467336.1": {
+"taxid": 1071383,
+"organism": "Huiozyma naganishii CBS 8797"
+},
+"XP_024512296.1": {
+"taxid": 214684,
+"organism": "Cryptococcus deneoformans JEC21"
+},
+"XP_036663677.1": {
+"taxid": 5480,
+"organism": "Lodderomyces parapsilosis"
+},
+"XP_036664080.1": {
+"taxid": 5480,
+"organism": "Lodderomyces parapsilosis"
+},
+"XP_036666802.1": {
+"taxid": 5480,
+"organism": "Lodderomyces parapsilosis"
+},
+"XP_036667459.1": {
+"taxid": 5480,
+"organism": "Lodderomyces parapsilosis"
+},
+"XP_040748159.1": {
+"taxid": 61395,
+"organism": "Linderina pennispora"
+},
+"XP_047762066.1": {
+"taxid": 5499,
+"organism": "Fulvia fulva"
+},
+"XP_055488279.1": {
+"taxid": 7782,
+"organism": "Leucoraja erinaceus"
+},
+"XP_055497235.1": {
+"taxid": 7782,
+"organism": "Leucoraja erinaceus"
+},
+"XP_055497242.1": {
+"taxid": 7782,
+"organism": "Leucoraja erinaceus"
+},
+"XP_055520883.1": {
+"taxid": 7782,
+"organism": "Leucoraja erinaceus"
+},
+"XP_059319127.1": {
+"taxid": 5499,
+"organism": "Fulvia fulva"
+},
+"XP_569318.2": {
+"taxid": 214684,
+"organism": "Cryptococcus deneoformans JEC21"
+},
+"XP_571835.1": {
+"taxid": 214684,
+"organism": "Cryptococcus deneoformans JEC21"
+},
+"XP_571900.1": {
+"taxid": 214684,
+"organism": "Cryptococcus deneoformans JEC21"
+},
+"XP_774323.1": {
+"taxid": 283643,
+"organism": "Cryptococcus deneoformans B-3501A"
+},
+"XP_774405.1": {
+"taxid": 283643,
+"organism": "Cryptococcus deneoformans B-3501A"
+},
+"XP_777160.1": {
+"taxid": 283643,
+"organism": "Cryptococcus deneoformans B-3501A"
+},
+"XP_777357.1": {
+"taxid": 283643,
+"organism": "Cryptococcus deneoformans B-3501A"
+},
+"HEX5033627.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HKY64029.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HXX37685.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HXX40478.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"HYB84898.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MBT3323945.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDB4444489.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MDP2436452.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"MQY82079.1": {
+"taxid": null,
+"organism": null,
+"note": "not returned"
+},
+"TSA50143.1": {
+"taxid": 1906665,
+"organism": "archaeon"
+},
+"WP_000161656.1": {
+"taxid": 1279,
+"organism": "Staphylococcus"
+},
+"WP_000161674.1": {
+"taxid": 1279,
+"organism": "Staphylococcus"
+},
+"WP_002301686.1": {
+"taxid": 1350,
+"organism": "Enterococcus"
+},
+"WP_002568421.1": {
+"taxid": 2719313,
+"organism": "Enterocloster"
+},
+"WP_003230224.1": {
+"taxid": 1386,
+"organism": "Bacillus"
+},
+"WP_003536418.1": {
+"taxid": 3025755,
+"organism": "Thomasclavelia"
+},
+"WP_003608497.1": {
+"taxid": 425,
+"organism": "Methylosinus"
+},
+"WP_003814011.1": {
+"taxid": 517,
+"organism": "Bordetella"
+},
+"WP_003869546.1": {
+"taxid": 1754,
+"organism": "Thermoanaerobacter"
+},
+"WP_004115474.1": {
+"taxid": 543,
+"organism": "Enterobacteriaceae"
+},
+"WP_004212491.1": {
+"taxid": 165695,
+"organism": "Sphingobium"
+},
+"WP_004297514.1": {
+"taxid": 816,
+"organism": "Bacteroides"
+},
+"WP_004313234.1": {
+"taxid": 816,
+"organism": "Bacteroides"
+},
+"WP_004396380.1": {
+"taxid": 1757,
+"organism": "Thermoanaerobacter ethanolicus"
+},
+"WP_004563822.1": {
+"taxid": 2767887,
+"organism": "Ligilactobacillus"
+},
+"WP_004564308.1": {
+"taxid": 2767887,
+"organism": "Ligilactobacillus"
+},
+"WP_004790922.1": {
+"taxid": 469,
+"organism": "Acinetobacter"
+},
+"WP_005378816.1": {
+"taxid": 29465,
+"organism": "Veillonella"
+},
+"WP_005426714.1": {
+"taxid": 572511,
+"organism": "Blautia"
+},
+"WP_005608673.1": {
+"taxid": 186803,
+"organism": "Lachnospiraceae"
+},
+"WP_005641738.1": {
+"taxid": 171549,
+"organism": "Bacteroidales"
+},
+"WP_005847418.1": {
+"taxid": 909656,
+"organism": "Phocaeicola"
+},
+"WP_005848295.1": {
+"taxid": 2,
+"organism": "Bacteria"
+},
+"WP_005936798.1": {
+"taxid": 909656,
+"organism": "Phocaeicola"
+},
+"WP_006021273.1": {
+"taxid": 1033,
+"organism": "Afipia"
+},
+"WP_007181214.1": {
+"taxid": 1822464,
+"organism": "Paraburkholderia"
+},
+"WP_007353604.1": {
+"taxid": 1501433,
+"organism": "Kamptonema"
+},
+"WP_007406090.1": {
+"taxid": 13687,
+"organism": "Sphingomonas"
+},
+"WP_007837631.1": {
+"taxid": 815,
+"organism": "Bacteroidaceae"
+},
+"WP_007937090.1": {
+"taxid": 365348,
+"organism": "Pelosinus"
+},
+"WP_008520041.1": {
+"taxid": 428711,
+"organism": "Jonquetella"
+},
+"WP_008589342.1": {
+"taxid": 351195,
+"organism": "Salimicrobium"
+},
+"WP_008651983.1": {
+"taxid": 106589,
+"organism": "Cupriavidus"
+},
+"WP_008909847.1": {
+"taxid": 44258,
+"organism": "Caloramator"
+},
+"WP_009060281.1": {
+"taxid": 186802,
+"organism": "Eubacteriales"
+},
+"WP_009078768.1": {
+"taxid": 1760,
+"organism": "Actinomycetes"
+},
+"WP_009269120.1": {
+"taxid": 1239,
+"organism": "Bacillota"
+},
+"WP_009290152.1": {
+"taxid": 207244,
+"organism": "Anaerostipes"
+},
+"WP_009304546.1": {
+"taxid": 84111,
+"organism": "Eggerthella"
+},
+"WP_009341136.1": {
+"taxid": 1033,
+"organism": "Afipia"
+},
+"WP_009368516.1": {
+"taxid": 35832,
+"organism": "Bilophila"
+},
+"WP_009571807.1": {
+"taxid": 2854170,
+"organism": "Roseobacteraceae"
+},
+"WP_009778442.1": {
+"taxid": 283735,
+"organism": "Leeuwenhoekiella"
+},
+"WP_010628236.1": {
+"taxid": 28256,
+"organism": "Halomonadaceae"
+},
+"WP_010798641.1": {
+"taxid": 286,
+"organism": "Pseudomonas"
+},
+"WP_010809642.1": {
+"taxid": 106589,
+"organism": "Cupriavidus"
+},
+"WP_010830867.1": {
+"taxid": 186826,
+"organism": "Lactobacillales"
+},
+"WP_010994651.1": {
+"taxid": 1162,
+"organism": "Nostocaceae"
+},
+"WP_011231893.1": {
+"taxid": 129337,
+"organism": "Geobacillus"
+},
+"WP_011316793.1": {
+"taxid": 1162,
+"organism": "Nostocaceae"
+},
+"WP_011319637.1": {
+"taxid": 1162,
+"organism": "Nostocaceae"
+},
+"WP_011434621.1": {
+"taxid": 1854,
+"organism": "Frankia"
+},
+"WP_011581720.1": {
+"taxid": 449972,
+"organism": "Chelativorans"
+},
+"WP_011601416.1": {
+"taxid": 1854,
+"organism": "Frankia"
+},
+"WP_011673496.1": {
+"taxid": 1253,
+"organism": "Pediococcus"
+},
+"WP_012002947.1": {
+"taxid": 1643951,
+"organism": "Pseudothermotoga"
+},
+"WP_012045228.1": {
+"taxid": 374,
+"organism": "Bradyrhizobium"
+},
+"WP_012258703.1": {
+"taxid": 1107,
+"organism": "Chloroflexus"
+},
+"WP_012269434.1": {
+"taxid": 1754,
+"organism": "Thermoanaerobacter"
+},
+"WP_012295632.1": {
+"taxid": 400634,
+"organism": "Lysinibacillus"
+},
+"WP_012318522.1": {
+"taxid": 31998,
+"organism": "Methylobacterium radiotolerans"
+},
+"WP_012406813.1": {
+"taxid": 1822464,
+"organism": "Paraburkholderia"
+},
+"WP_013048634.1": {
+"taxid": 81466,
+"organism": "Aminobacterium"
+},
+"WP_013124038.1": {
+"taxid": 32012,
+"organism": "Thiomonas"
+},
+"WP_013558537.1": {
+"taxid": 233189,
+"organism": "Anaerolinea"
+},
+"WP_013726913.1": {
+"taxid": 1581,
+"organism": "Lentilactobacillus buchneri"
+},
+"WP_014097797.1": {
+"taxid": 2837504,
+"organism": "Heyndrickxia"
+},
+"WP_014140113.1": {
+"taxid": 2063,
+"organism": "Kitasatospora"
+},
+"WP_014239241.1": {
+"taxid": 191,
+"organism": "Azospirillum"
+},
+"WP_014458656.1": {
+"taxid": 2800373,
+"organism": "Priestia"
+},
+"WP_014730068.1": {
+"taxid": 1184396,
+"organism": "Mesotoga"
+},
+"WP_014757825.1": {
+"taxid": 28895,
+"organism": "Thermoanaerobacterium"
+},
+"WP_014766549.1": {
+"taxid": 28105,
+"organism": "Sinorhizobium"
+},
+"WP_014793961.1": {
+"taxid": 36853,
+"organism": "Desulfitobacterium"
+},
+"WP_014875131.1": {
+"taxid": 302485,
+"organism": "Phaeobacter"
+},
+"WP_014915589.1": {
+"taxid": 122277,
+"organism": "Pectobacterium"
+},
+"WP_015278231.1": {
+"taxid": 135621,
+"organism": "Pseudomonadaceae"
+},
+"WP_015375381.1": {
+"taxid": 129337,
+"organism": "Geobacillus"
+},
+"WP_015431529.1": {
+"taxid": 1224,
+"organism": "Pseudomonadota"
+},
+"WP_015528588.1": {
+"taxid": 592978,
+"organism": "Mediterraneibacter faecis"
+},
+"WP_015541195.1": {
+"taxid": 186801,
+"organism": "Clostridia"
+},
+"WP_015868295.1": {
+"taxid": 651456,
+"organism": "Kosmotoga"
+},
+"WP_015896611.1": {
+"taxid": 33973,
+"organism": "Acidobacterium"
+},
+"WP_016739814.1": {
+"taxid": 1393,
+"organism": "Brevibacillus brevis"
+},
+"WP_016868512.1": {
+"taxid": 1190,
+"organism": "Fischerella"
+},
+"WP_017000641.1": {
+"taxid": 2803850,
+"organism": "Mammaliicoccus"
+},
+"WP_017402693.1": {
+"taxid": 469,
+"organism": "Acinetobacter"
+},
+"WP_017451145.1": {
+"taxid": 963,
+"organism": "Herbaspirillum"
+},
+"WP_017638227.1": {
+"taxid": 1279,
+"organism": "Staphylococcus"
+},
+"WP_017796132.1": {
+"taxid": 746691,
+"organism": "Oceanobacillus kimchii"
+},
+"WP_017884220.1": {
+"taxid": 55968,
+"organism": "Leucobacter"
+},
+"WP_018423107.1": {
+"taxid": 1822464,
+"organism": "Paraburkholderia"
+},
+"WP_018423134.1": {
+"taxid": 1822464,
+"organism": "Paraburkholderia"
+},
+"WP_019004529.1": {
+"taxid": 329857,
+"organism": "Cohnella"
+},
+"WP_019382237.1": {
+"taxid": 2675230,
+"organism": "Cytobacillus"
+},
+"WP_019401425.1": {
+"taxid": 28209,
+"organism": "Chelatococcus"
+},
+"WP_019403121.1": {
+"taxid": 28209,
+"organism": "Chelatococcus"
+},
+"WP_019416677.1": {
+"taxid": 150247,
+"organism": "Anoxybacillus"
+},
+"WP_019559769.1": {
+"taxid": 196013,
+"organism": "Caldimonas"
+},
+"WP_020095527.1": {
+"taxid": 407,
+"organism": "Methylobacterium"
+},
+"WP_021290220.1": {
+"taxid": 84406,
+"organism": "Virgibacillus"
+},
+"WP_021660984.1": {
+"taxid": 186802,
+"organism": "Eubacteriales"
+},
+"WP_021895413.1": {
+"taxid": 2719313,
+"organism": "Enterocloster"
+},
+"WP_022233503.1": {
+"taxid": 2773926,
+"organism": "Phocaeicola sp."
+},
+"WP_022359789.1": {
+"taxid": 186801,
+"organism": "Clostridia"
+},
+"WP_022999382.1": {
+"taxid": 2821832,
+"organism": "Stappiaceae"
+},
+"WP_023302365.1": {
+"taxid": 1236,
+"organism": "Gammaproteobacteria"
+},
+"WP_023322796.1": {
+"taxid": 570,
+"organism": "Klebsiella"
+},
+"WP_023336668.1": {
+"taxid": 91347,
+"organism": "Enterobacterales"
+},
+"WP_023594527.1": {
+"taxid": 93217,
+"organism": "Pandoraea"
+},
+"WP_023872689.1": {
+"taxid": 93217,
+"organism": "Pandoraea"
+},
+"WP_024580877.1": {
+"taxid": 374,
+"organism": "Bradyrhizobium"
+},
+"WP_024629378.1": {
+"taxid": 44249,
+"organism": "Paenibacillus"
+},
+"WP_025100014.1": {
+"taxid": 32008,
+"organism": "Burkholderia"
+},
+"WP_025114471.1": {
+"taxid": 28031,
+"organism": "Lysinibacillus fusiformis"
+},
+"WP_025290582.1": {
+"taxid": 204457,
+"organism": "Sphingomonadales"
+},
+"WP_025317318.1": {
+"taxid": 2144,
+"organism": "Spiroplasma mirum"
+},
+"WP_025317421.1": {
+"taxid": 2144,
+"organism": "Spiroplasma mirum"
+},
+"WP_025665311.1": {
+"taxid": 290174,
+"organism": "Aquimarina"
+},
+"WP_025811950.1": {
+"taxid": 1434011,
+"organism": "Komagataeibacter"
+},
+"WP_026405055.1": {
+"taxid": 1988,
+"organism": "Actinomadura"
+},
+"WP_026547479.1": {
+"taxid": 1268,
+"organism": "Micrococcaceae"
+},
+"WP_026636090.1": {
+"taxid": 231454,
+"organism": "Dyella"
+},
+"WP_026638224.1": {
+"taxid": 517,
+"organism": "Bordetella"
+},
+"WP_026684067.1": {
+"taxid": 2837504,
+"organism": "Heyndrickxia"
+},
+"WP_026832329.1": {
+"taxid": 33986,
+"organism": "Exiguobacterium"
+},
+"WP_026866412.1": {
+"taxid": 227979,
+"organism": "Jeotgalicoccus"
+},
+"WP_027065713.1": {
+"taxid": 252356,
+"organism": "Maribacter"
+},
+"WP_027463375.1": {
+"taxid": 1298,
+"organism": "Deinococcus"
+},
+"WP_027492144.1": {
+"taxid": 75309,
+"organism": "Rhodanobacter"
+},
+"WP_027492147.1": {
+"taxid": 75309,
+"organism": "Rhodanobacter"
+},
+"WP_027957704.1": {
+"taxid": 28256,
+"organism": "Halomonadaceae"
+},
+"WP_028068469.1": {
+"taxid": 28453,
+"organism": "Sphingobacterium"
+},
+"WP_028342735.1": {
+"taxid": 374,
+"organism": "Bradyrhizobium"
+},
+"WP_028415025.1": {
+"taxid": 2800373,
+"organism": "Priestia"
+},
+"WP_028846030.1": {
+"taxid": 37924,
+"organism": "Thermocrispum"
+},
+"WP_029055667.1": {
+"taxid": 1279,
+"organism": "Staphylococcus"
+},
+"WP_029090648.1": {
+"taxid": 2755,
+"organism": "Brochothrix"
+},
+"WP_029313463.1": {
+"taxid": 522,
+"organism": "Acidiphilium"
+},
+"WP_029352567.1": {
+"taxid": 1871066,
+"organism": "Mesorhizobium sp."
+},
+"WP_029512241.1": {
+"taxid": 46239,
+"organism": "Mesoplasma"
+},
+"WP_029565465.1": {
+"taxid": 2675233,
+"organism": "Metabacillus"
+},
+"WP_029733126.1": {
+"taxid": 379,
+"organism": "Rhizobium"
+},
+"WP_031212657.1": {
+"taxid": 1408282,
+"organism": "Geobacillus thermopakistaniensis"
+},
+"WP_031371922.1": {
+"taxid": 68,
+"organism": "Lysobacter"
+},
+"WP_032090366.1": {
+"taxid": 2678885,
+"organism": "Faecalibacillus"
+},
+"WP_032774007.1": {
+"taxid": 1883,
+"organism": "Streptomyces"
+},
+"WP_032958121.1": {
+"taxid": 40323,
+"organism": "Stenotrophomonas"
+},
+"WP_032976140.1": {
+"taxid": 1470590,
+"organism": "Stenotrophomonas sp. RIT309"
+},
+"WP_033009385.1": {
+"taxid": 3120669,
+"organism": "Anoxybacillaceae"
+},
+"WP_033101777.1": {
+"taxid": 2023,
+"organism": "Thermoactinomyces"
+},
+"WP_033139838.1": {
+"taxid": 572511,
+"organism": "Blautia"
+},
+"WP_033462719.1": {
+"taxid": 517,
+"organism": "Bordetella"
+},
+"WP_034331459.1": {
+"taxid": 863372,
+"organism": "Herbaspirillum huttiense"
+},
+"WP_035050623.1": {
+"taxid": 150247,
+"organism": "Anoxybacillus"
+},
+"WP_035082661.1": {
+"taxid": 1892259,
+"organism": "Aphanizomenonaceae"
+},
+"WP_035184439.1": {
+"taxid": 2837504,
+"organism": "Heyndrickxia"
+},
+"WP_035320965.1": {
+"taxid": 186801,
+"organism": "Clostridia"
+},
+"WP_035352002.1": {
+"taxid": 434,
+"organism": "Acetobacter"
+},
+"WP_035406247.1": {
+"taxid": 33986,
+"organism": "Exiguobacterium"
+},
+"WP_035585471.1": {
+"taxid": 84111,
+"organism": "Eggerthella"
+},
+"WP_035671081.1": {
+"taxid": 191,
+"organism": "Azospirillum"
+},
+"WP_035874527.1": {
+"taxid": 106589,
+"organism": "Cupriavidus"
+},
+"WP_035909062.1": {
+"taxid": 1854,
+"organism": "Frankia"
+},
+"WP_036089541.1": {
+"taxid": 186820,
+"organism": "Listeriaceae"
+},
+"WP_036119562.1": {
+"taxid": 400634,
+"organism": "Lysinibacillus"
+},
+"WP_036681827.1": {
+"taxid": 44249,
+"organism": "Paenibacillus"
+},
+"WP_037994022.1": {
+"taxid": 2023,
+"organism": "Thermoactinomyces"
+},
+"WP_038187794.1": {
+"taxid": 496496,
+"organism": "Viridibacillus"
+},
+"WP_038188362.1": {
+"taxid": 496496,
+"organism": "Viridibacillus"
+},
+"WP_038298285.1": {
+"taxid": 1161,
+"organism": "Nostocales"
+},
+"WP_038513803.1": {
+"taxid": 1813,
+"organism": "Amycolatopsis"
+},
+"WP_038561234.1": {
+"taxid": 361277,
+"organism": "Terribacillus saccharophilus"
+},
+"WP_038918117.1": {
+"taxid": 204037,
+"organism": "Dickeya"
+},
+"WP_038919253.1": {
+"taxid": 204037,
+"organism": "Dickeya"
+},
+"WP_039201927.1": {
+"taxid": 1892259,
+"organism": "Aphanizomenonaceae"
+},
+"WP_039336777.1": {
+"taxid": 165696,
+"organism": "Novosphingobium"
+},
+"WP_039681242.1": {
+"taxid": 1505652,
+"organism": "Terrisporobacter"
+},
+"WP_039681243.1": {
+"taxid": 1505652,
+"organism": "Terrisporobacter"
+},
+"WP_040107547.1": {
+"taxid": 338,
+"organism": "Xanthomonas"
+},
+"WP_040124634.1": {
+"taxid": 356,
+"organism": "Hyphomicrobiales"
+},
+"WP_040759233.1": {
+"taxid": 1569,
+"organism": "Sporosarcina"
+},
+"WP_041388790.1": {
+"taxid": 84566,
+"organism": "Sphingobacteriaceae"
+},
+"WP_042359083.1": {
+"taxid": 767528,
+"organism": "Geomicrobium"
+},
+"WP_042413204.1": {
+"taxid": 283,
+"organism": "Comamonas"
+},
+"WP_042465063.1": {
+"taxid": 1163,
+"organism": "Anabaena"
+},
+"WP_043145777.1": {
+"taxid": 74032,
+"organism": "Antarctobacter"
+},
+"WP_043588458.1": {
+"taxid": 1573,
+"organism": "Clavibacter"
+},
+"WP_044393373.1": {
+"taxid": 2675231,
+"organism": "Mesobacillus"
+},
+"WP_044408295.1": {
+"taxid": 1073,
+"organism": "Rhodopseudomonas"
+},
+"WP_044408624.1": {
+"taxid": 1073,
+"organism": "Rhodopseudomonas"
+},
+"WP_046078029.1": {
+"taxid": 2745,
+"organism": "Halomonas"
+},
+"WP_046466801.1": {
+"taxid": 1279,
+"organism": "Staphylococcus"
+},
+"WP_046477263.1": {
+"taxid": 119044,
+"organism": "Filomicrobium"
+},
+"WP_047693545.1": {
+"taxid": 338,
+"organism": "Xanthomonas"
+},
+"WP_048008353.1": {
+"taxid": 186817,
+"organism": "Bacillaceae"
+},
+"WP_048540286.1": {
+"taxid": 1239,
+"organism": "Bacillota"
+},
+"WP_048681093.1": {
+"taxid": 186817,
+"organism": "Bacillaceae"
+},
+"WP_048691136.1": {
+"taxid": 1301,
+"organism": "Streptococcus"
+},
+"WP_048789799.1": {
+"taxid": 1301,
+"organism": "Streptococcus"
+},
+"WP_048936524.1": {
+"taxid": 165695,
+"organism": "Sphingobium"
+},
+"WP_049555451.1": {
+"taxid": 117563,
+"organism": "Granulicatella"
+},
+"WP_049637344.1": {
+"taxid": 642,
+"organism": "Aeromonas"
+},
+"WP_049637354.1": {
+"taxid": 642,
+"organism": "Aeromonas"
+},
+"WP_050350350.1": {
+"taxid": 84406,
+"organism": "Virgibacillus"
+},
+"WP_050624493.1": {
+"taxid": 186802,
+"organism": "Eubacteriales"
+},
+"WP_051672269.1": {
+"taxid": 60547,
+"organism": "Caballeronia glathei"
+},
+"WP_051916430.1": {
+"taxid": 13687,
+"organism": "Sphingomonas"
+},
+"WP_052125728.1": {
+"taxid": 22,
+"organism": "Shewanella"
+},
+"WP_052854054.1": {
+"taxid": 1883,
+"organism": "Streptomyces"
+},
+"WP_053266390.1": {
+"taxid": 543,
+"organism": "Enterobacteriaceae"
+},
+"WP_053396269.1": {
+"taxid": 662,
+"organism": "Vibrio"
+},
+"WP_053419073.1": {
+"taxid": 496496,
+"organism": "Viridibacillus"
+},
+"WP_053467650.1": {
+"taxid": 1560217,
+"organism": "Clostridium sp. L74"
+},
+"WP_053537772.1": {
+"taxid": 1161,
+"organism": "Nostocales"
+},
+"WP_053622101.1": {
+"taxid": 407,
+"organism": "Methylobacterium"
+},
+"WP_055057138.1": {
+"taxid": 186803,
+"organism": "Lachnospiraceae"
+},
+"WP_055458445.1": {
+"taxid": 28209,
+"organism": "Chelatococcus"
+},
+"WP_055650057.1": {
+"taxid": 1649459,
+"organism": "Hungatella"
+},
+"WP_055653978.1": {
+"taxid": 2821832,
+"organism": "Stappiaceae"
+},
+"WP_055765476.1": {
+"taxid": 40323,
+"organism": "Stenotrophomonas"
+},
+"WP_056833004.1": {
+"taxid": 186817,
+"organism": "Bacillaceae"
+},
+"WP_057178177.1": {
+"taxid": 77021,
+"organism": "Cylindrospermopsis"
+},
+"WP_057663405.1": {
+"taxid": 338,
+"organism": "Xanthomonas"
+},
+"WP_057898062.1": {
+"taxid": 55079,
+"organism": "Aneurinibacillus"
+},
+"WP_058375844.1": {
+"taxid": 93217,
+"organism": "Pandoraea"
+},
+"WP_058510382.1": {
+"taxid": 445,
+"organism": "Legionella"
+},
+"WP_058843388.1": {
+"taxid": 400634,
+"organism": "Lysinibacillus"
+},
+"WP_058907032.1": {
+"taxid": 1224,
+"organism": "Pseudomonadota"
+},
+"WP_059378673.1": {
+"taxid": 222,
+"organism": "Achromobacter"
+},
+"WP_060807148.1": {
+"taxid": 29465,
+"organism": "Veillonella"
+},
+"WP_060978510.1": {
+"taxid": 1224,
+"organism": "Pseudomonadota"
+},
+"WP_061086557.1": {
+"taxid": 2837504,
+"organism": "Heyndrickxia"
+},
+"WP_061325919.1": {
+"taxid": 1485,
+"organism": "Clostridium"
+},
+"WP_061464323.1": {
+"taxid": 2675229,
+"organism": "Peribacillus"
+},
+"WP_061972496.1": {
+"taxid": 1329200,
+"organism": "Fictibacillus"
+},
+"WP_062171104.1": {
+"taxid": 119060,
+"organism": "Burkholderiaceae"
+},
+"WP_062173140.1": {
+"taxid": 1378,
+"organism": "Gemella"
+},
+"WP_062246988.1": {
+"taxid": 1190,
+"organism": "Fischerella"
+},
+"WP_062319180.1": {
+"taxid": 306539,
+"organism": "Halolactibacillus"
+},
+"WP_062843073.1": {
+"taxid": 2023,
+"organism": "Thermoactinomyces"
+},
+"WP_062956772.1": {
+"taxid": 168934,
+"organism": "Thalassospira"
+},
+"WP_064275322.1": {
+"taxid": 433,
+"organism": "Acetobacteraceae"
+},
+"WP_064549922.1": {
+"taxid": 1906945,
+"organism": "Parageobacillus"
+},
+"WP_064639917.1": {
+"taxid": 44249,
+"organism": "Paenibacillus"
+},
+"WP_064696345.1": {
+"taxid": 1138170,
+"organism": "Rhizobium aethiopicum"
+},
+"WP_064708209.1": {
+"taxid": 379,
+"organism": "Rhizobium"
+},
+"WP_064775998.1": {
+"taxid": 434,
+"organism": "Acetobacter"
+},
+"WP_064824627.1": {
+"taxid": 379,
+"organism": "Rhizobium"
+},
+"WP_066146439.1": {
+"taxid": 3120669,
+"organism": "Anoxybacillaceae"
+},
+"WP_066154381.1": {
+"taxid": 47420,
+"organism": "Hydrogenophaga"
+},
+"WP_066192940.1": {
+"taxid": 74385,
+"organism": "Gracilibacillus"
+},
+"WP_066247605.1": {
+"taxid": 1055323,
+"organism": "Aeribacillus"
+},
+"WP_066333883.1": {
+"taxid": 2675233,
+"organism": "Metabacillus"
+},
+"WP_066488146.1": {
+"taxid": 1716,
+"organism": "Corynebacterium"
+},
+"WP_066688741.1": {
+"taxid": 13687,
+"organism": "Sphingomonas"
+},
+"WP_066791894.1": {
+"taxid": 648802,
+"organism": "Rummeliibacillus"
+},
+"WP_067585535.1": {
+"taxid": 1813,
+"organism": "Amycolatopsis"
+},
+"WP_067588922.1": {
+"taxid": 1813,
+"organism": "Amycolatopsis"
+},
+"WP_068128293.1": {
+"taxid": 489909,
+"organism": "Nosocomiicoccus"
+},
+"WP_068128341.1": {
+"taxid": 489909,
+"organism": "Nosocomiicoccus"
+},
+"WP_068451911.1": {
+"taxid": 1649,
+"organism": "Kurthia"
+},
+"WP_068452666.1": {
+"taxid": 1649,
+"organism": "Kurthia"
+},
+"WP_068559662.1": {
+"taxid": 82802,
+"organism": "Trichococcus"
+},
+"WP_068736102.1": {
+"taxid": 1395974,
+"organism": "Tardiphaga"
+},
+"WP_068925175.1": {
+"taxid": 517,
+"organism": "Bordetella"
+},
+"WP_068949189.1": {
+"taxid": 44013,
+"organism": "Polynucleobacter"
+},
+"WP_068983981.1": {
+"taxid": 400634,
+"organism": "Lysinibacillus"
+},
+"WP_069184882.1": {
+"taxid": 2742,
+"organism": "Marinobacter"
+},
+"WP_069685753.1": {
+"taxid": 182709,
+"organism": "Oceanobacillus"
+},
+"WP_069707626.1": {
+"taxid": 165696,
+"organism": "Novosphingobium"
+},
+"WP_070327905.1": {
+"taxid": 33986,
+"organism": "Exiguobacterium"
+},
+"WP_070445365.1": {
+"taxid": 117563,
+"organism": "Granulicatella"
+},
+"WP_070565627.1": {
+"taxid": 28453,
+"organism": "Sphingobacterium"
+},
+"WP_071140883.1": {
+"taxid": 1737405,
+"organism": "Tissierellales"
+},
+"WP_071208193.1": {
+"taxid": 82115,
+"organism": "Rhizobiaceae"
+},
+"WP_071240888.1": {
+"taxid": 168934,
+"organism": "Thalassospira"
+},
+"WP_071340636.1": {
+"taxid": 252356,
+"organism": "Maribacter"
+},
+"WP_072273373.1": {
+"taxid": 2675229,
+"organism": "Peribacillus"
+},
+"WP_073661981.1": {
+"taxid": 1224,
+"organism": "Pseudomonadota"
+},
+"WP_074044307.1": {
+"taxid": 129337,
+"organism": "Geobacillus"
+},
+"WP_074191911.1": {
+"taxid": 662,
+"organism": "Vibrio"
+},
+"WP_074827462.1": {
+"taxid": 374,
+"organism": "Bradyrhizobium"
+},
+"WP_074875547.1": {
+"taxid": 1075397,
+"organism": "Halolamina"
+},
+"WP_075196000.1": {
+"taxid": 2742,
+"organism": "Marinobacter"
+},
+"WP_075358331.1": {
+"taxid": 119060,
+"organism": "Burkholderiaceae"
+},
+"WP_075739899.1": {
+"taxid": 65496,
+"organism": "Actinoalloteichus"
+},
+"WP_076483695.1": {
+"taxid": 1060,
+"organism": "Rhodobacter"
+},
+"WP_076571200.1": {
+"taxid": 351195,
+"organism": "Salimicrobium"
+},
+"WP_076729830.1": {
+"taxid": 407,
+"organism": "Methylobacterium"
+},
+"WP_076932071.1": {
+"taxid": 294702,
+"organism": "Proteiniphilum"
+},
+"WP_077169526.1": {
+"taxid": 469,
+"organism": "Acinetobacter"
+},
+"WP_078701904.1": {
+"taxid": 308865,
+"organism": "Elizabethkingia"
+},
+"WP_079698606.1": {
+"taxid": 216572,
+"organism": "Oscillospiraceae"
+},
+"WP_079699158.1": {
+"taxid": 216572,
+"organism": "Oscillospiraceae"
+},
+"WP_080838325.1": {
+"taxid": 329857,
+"organism": "Cohnella"
+},
+"WP_080855078.1": {
+"taxid": 357,
+"organism": "Agrobacterium"
+},
+"WP_081188142.1": {
+"taxid": 3120669,
+"organism": "Anoxybacillaceae"
+},
+"WP_082604845.1": {
+"taxid": 226,
+"organism": "Alteromonas"
+},
+"WP_083871444.1": {
+"taxid": 1817,
+"organism": "Nocardia"
+},
+"WP_083948502.1": {
+"taxid": 31988,
+"organism": "Aminobacter"
+},
+"WP_084873978.1": {
+"taxid": 53335,
+"organism": "Pantoea"
+},
+"WP_085131219.1": {
+"taxid": 1569,
+"organism": "Sporosarcina"
+},
+"WP_085146437.1": {
+"taxid": 1866885,
+"organism": "Mycolicibacterium"
+},
+"WP_085426494.1": {
+"taxid": 1569,
+"organism": "Sporosarcina"
+},
+"WP_085627999.1": {
+"taxid": 659428,
+"organism": "Marivita"
+},
+"WP_086414641.1": {
+"taxid": 84111,
+"organism": "Eggerthella"
+},
+"WP_086571431.1": {
+"taxid": 1883,
+"organism": "Streptomyces"
+},
+"WP_086898440.1": {
+"taxid": 434,
+"organism": "Acetobacter"
+},
+"WP_087070855.1": {
+"taxid": 1653174,
+"organism": "Actinotignum"
+},
+"WP_087169468.1": {
+"taxid": 186801,
+"organism": "Clostridia"
+},
+"WP_087322494.1": {
+"taxid": 816,
+"organism": "Bacteroides"
+},
+"WP_088273866.1": {
+"taxid": 2901189,
+"organism": "Halopseudomonas"
+},
+"WP_088347184.1": {
+"taxid": 1068,
+"organism": "Rhodomicrobium"
+},
+"WP_088368987.1": {
+"taxid": 2803850,
+"organism": "Mammaliicoccus"
+},
+"WP_088512803.1": {
+"taxid": 1236,
+"organism": "Gammaproteobacteria"
+},
+"WP_088528121.1": {
+"taxid": 44013,
+"organism": "Polynucleobacter"
+},
+"WP_088711410.1": {
+"taxid": 1960290,
+"organism": "Pacificimonas"
+},
+"WP_088716246.1": {
+"taxid": 74032,
+"organism": "Antarctobacter"
+},
+"WP_088756088.1": {
+"taxid": 963,
+"organism": "Herbaspirillum"
+},
+"WP_089179191.1": {
+"taxid": 434,
+"organism": "Acetobacter"
+},
+"WP_089240574.1": {
+"taxid": 40323,
+"organism": "Stenotrophomonas"
+},
+"WP_090152394.1": {
+"taxid": 55968,
+"organism": "Leucobacter"
+},
+"WP_091552710.1": {
+"taxid": 1268,
+"organism": "Micrococcaceae"
+},
+"WP_091842095.1": {
+"taxid": 85413,
+"organism": "Allobosea"
+},
+"WP_092146865.1": {
+"taxid": 1395974,
+"organism": "Tardiphaga"
+},
+"WP_092360947.1": {
+"taxid": 2719313,
+"organism": "Enterocloster"
+},
+"WP_094002950.1": {
+"taxid": 1813,
+"organism": "Amycolatopsis"
+},
+"WP_094198411.1": {
+"taxid": 507,
+"organism": "Alcaligenes"
+},
+"WP_094246194.1": {
+"taxid": 1055323,
+"organism": "Aeribacillus"
+},
+"WP_095174852.1": {
+"taxid": 572511,
+"organism": "Blautia"
+},
+"WP_095217745.1": {
+"taxid": 459532,
+"organism": "Terribacillus"
+},
+"WP_095485152.1": {
+"taxid": 68287,
+"organism": "Mesorhizobium"
+},
+"WP_095796047.1": {
+"taxid": 68287,
+"organism": "Mesorhizobium"
+},
+"WP_096228375.1": {
+"taxid": 644652,
+"organism": "Gordonibacter"
+},
+"WP_096489899.1": {
+"taxid": 543,
+"organism": "Enterobacteriaceae"
+},
+"WP_097528090.1": {
+"taxid": 28105,
+"organism": "Sinorhizobium"
+},
+"WP_097540713.1": {
+"taxid": 28105,
+"organism": "Sinorhizobium"
+},
+"WP_098369968.1": {
+"taxid": 186817,
+"organism": "Bacillaceae"
+},
+"WP_099071072.1": {
+"taxid": 1177,
+"organism": "Nostoc"
+},
+"WP_099624683.1": {
+"taxid": 1569,
+"organism": "Sporosarcina"
+},
+"WP_101140303.1": {
+"taxid": 90964,
+"organism": "Staphylococcaceae"
+},
+"WP_101245294.1": {
+"taxid": 168934,
+"organism": "Thalassospira"
+},
+"WP_101539445.1": {
+"taxid": 165779,
+"organism": "Anaerococcus"
+},
+"WP_101594937.1": {
+"taxid": 1653174,
+"organism": "Actinotignum"
+},
+"WP_101801223.1": {
+"taxid": 162291,
+"organism": "Planomicrobium"
+},
+"WP_101801731.1": {
+"taxid": 186818,
+"organism": "Caryophanaceae"
+},
+"WP_102167339.1": {
+"taxid": 489909,
+"organism": "Nosocomiicoccus"
+},
+"WP_102288580.1": {
+"taxid": 2652274,
+"organism": "Eisenbergiella porci"
+},
+"WP_102662579.1": {
+"taxid": 963,
+"organism": "Herbaspirillum"
+},
+"WP_102993787.1": {
+"taxid": 292635,
+"organism": "Laceyella"
+},
+"WP_103064970.1": {
+"taxid": 28236,
+"organism": "Petrotoga"
+},
+"WP_103269187.1": {
+"taxid": 2803850,
+"organism": "Mammaliicoccus"
+},
+"WP_103876600.1": {
+"taxid": 28236,
+"organism": "Petrotoga"
+},
+"WP_104851323.1": {
+"taxid": 2837504,
+"organism": "Heyndrickxia"
+},
+"WP_105327848.1": {
+"taxid": 2691357,
+"organism": "Pirellulaceae"
+},
+"WP_105327854.1": {
+"taxid": 2691357,
+"organism": "Pirellulaceae"
+},
+"WP_105354542.1": {
+"taxid": 2691357,
+"organism": "Pirellulaceae"
+},
+"WP_105754975.1": {
+"taxid": 286,
+"organism": "Pseudomonas"
+},
+"WP_106573071.1": {
+"taxid": 245876,
+"organism": "Nitratireductor"
+},
+"WP_107758832.1": {
+"taxid": 204037,
+"organism": "Dickeya"
+},
+"WP_107759545.1": {
+"taxid": 204037,
+"organism": "Dickeya"
+},
+"WP_107759556.1": {
+"taxid": 204037,
+"organism": "Dickeya"
+},
+"WP_108130560.1": {
+"taxid": 204456,
+"organism": "Gemmobacter"
+},
+"WP_108360113.1": {
+"taxid": 665874,
+"organism": "Limnohabitans"
+},
+"WP_109168689.1": {
+"taxid": 662,
+"organism": "Vibrio"
+},
+"WP_109436123.1": {
+"taxid": 290174,
+"organism": "Aquimarina"
+},
+"WP_109791554.1": {
+"taxid": 29487,
+"organism": "Photorhabdus"
+},
+"WP_109796749.1": {
+"taxid": 165696,
+"organism": "Novosphingobium"
+},
+"WP_110140701.1": {
+"taxid": 506,
+"organism": "Alcaligenaceae"
+},
+"WP_111409092.1": {
+"taxid": 237,
+"organism": "Flavobacterium"
+},
+"WP_111442037.1": {
+"taxid": 32008,
+"organism": "Burkholderia"
+},
+"WP_111517062.1": {
+"taxid": 3024399,
+"organism": "Cupriavidus phytorum"
+},
+"WP_113777823.1": {
+"taxid": 204455,
+"organism": "Rhodobacterales"
+},
+"WP_113821918.1": {
+"taxid": 2854170,
+"organism": "Roseobacteraceae"
+},
+"WP_113882603.1": {
+"taxid": 2675230,
+"organism": "Cytobacillus"
+},
+"WP_114538125.1": {
+"taxid": 84111,
+"organism": "Eggerthella"
+},
+"WP_114642364.1": {
+"taxid": 623282,
+"organism": "Psychrilyobacter"
+},
+"WP_114643300.1": {
+"taxid": 623282,
+"organism": "Psychrilyobacter"
+},
+"WP_114643575.1": {
+"taxid": 623282,
+"organism": "Psychrilyobacter"
+},
+"WP_115337342.1": {
+"taxid": 2803850,
+"organism": "Mammaliicoccus"
+},
+"WP_115595574.1": {
+"taxid": 165779,
+"organism": "Anaerococcus"
+},
+"WP_115624240.1": {
+"taxid": 33035,
+"organism": "Blautia producta"
+},
+"WP_115752245.1": {
+"taxid": 1637,
+"organism": "Listeria"
+},
+"WP_116058863.1": {
+"taxid": 329857,
+"organism": "Cohnella"
+},
+"WP_116696022.1": {
+"taxid": 570,
+"organism": "Klebsiella"
+},
+"WP_117106979.1": {
+"taxid": 244366,
+"organism": "Klebsiella variicola"
+},
+"WP_117116142.1": {
+"taxid": 570,
+"organism": "Klebsiella"
+},
+"WP_117454656.1": {
+"taxid": 1239,
+"organism": "Bacillota"
+},
+"WP_117542426.1": {
+"taxid": 2316020,
+"organism": "Mediterraneibacter"
+},
+"WP_117544155.1": {
+"taxid": 1432051,
+"organism": "Eisenbergiella"
+},
+"WP_117563726.1": {
+"taxid": 102106,
+"organism": "Collinsella"
+},
+"WP_117629022.1": {
+"taxid": 102106,
+"organism": "Collinsella"
+},
+"WP_117640663.1": {
+"taxid": 102106,
+"organism": "Collinsella"
+},
+"WP_117700296.1": {
+"taxid": 171549,
+"organism": "Bacteroidales"
+},
+"WP_117889869.1": {
+"taxid": 2316020,
+"organism": "Mediterraneibacter"
+},
+"WP_117910078.1": {
+"taxid": 1730,
+"organism": "Eubacterium"
+},
+"WP_118472065.1": {
+"taxid": 1485,
+"organism": "Clostridium"
+},
+"WP_118524604.1": {
+"taxid": 1485,
+"organism": "Clostridium"
+},
+"WP_118572044.1": {
+"taxid": 572511,
+"organism": "Blautia"
+},
+"WP_119216596.1": {
+"taxid": 171549,
+"organism": "Bacteroidales"
+},
+"WP_119338333.1": {
+"taxid": 32008,
+"organism": "Burkholderia"
+},
+"WP_119872252.1": {
+"taxid": 122277,
+"organism": "Pectobacterium"
+},
+"WP_120253178.1": {
+"taxid": 165695,
+"organism": "Sphingobium"
+},
+"WP_120258362.1": {
+"taxid": 28453,
+"organism": "Sphingobacterium"
+},
+"WP_120379185.1": {
+"taxid": 186801,
+"organism": "Clostridia"
+},
+"WP_120531049.1": {
+"taxid": 83461,
+"organism": "Corallococcus"
+},
+"WP_120574463.1": {
+"taxid": 83461,
+"organism": "Corallococcus"
+},
+"WP_120582642.1": {
+"taxid": 83461,
+"organism": "Corallococcus"
+},
+"WP_121040112.1": {
+"taxid": 963,
+"organism": "Herbaspirillum"
+},
+"WP_121698198.1": {
+"taxid": 171549,
+"organism": "Bacteroidales"
+},
+"WP_121753171.1": {
+"taxid": 83461,
+"organism": "Corallococcus"
+},
+"WP_121761724.1": {
+"taxid": 83461,
+"organism": "Corallococcus"
+},
+"WP_121819600.1": {
+"taxid": 1843185,
+"organism": "Halostella"
+},
+"WP_123169476.1": {
+"taxid": 68287,
+"organism": "Mesorhizobium"
+},
+"WP_124144577.1": {
+"taxid": 1458928,
+"organism": "Okeania"
+},
+"WP_124219649.1": {
+"taxid": 1940136,
+"organism": "Tibeticola"
+},
+"WP_124438444.1": {
+"taxid": 376149,
+"organism": "Streptomyces sp. NL15-2K"
+},
+"WP_124670211.1": {
+"taxid": 32008,
+"organism": "Burkholderia"
+},
+"WP_125764699.1": {
+"taxid": 2767886,
+"organism": "Levilactobacillus"
+},
+"WP_125837920.1": {
+"taxid": 135621,
+"organism": "Pseudomonadaceae"
+},
+"WP_125877789.1": {
+"taxid": 2901164,
+"organism": "Stutzerimonas"
+},
+"WP_125889183.1": {
+"taxid": 286,
+"organism": "Pseudomonas"
+},
+"WP_126404765.1": {
+"taxid": 1301,
+"organism": "Streptococcus"
+},
+"WP_126523934.1": {
+"taxid": 590,
+"organism": "Salmonella"
+},
+"WP_126953959.1": {
+"taxid": 445,
+"organism": "Legionella"
+},
+"WP_127011445.1": {
+"taxid": 33882,
+"organism": "Microbacterium"
+},
+"WP_127514275.1": {
+"taxid": 28105,
+"organism": "Sinorhizobium"
+},
+"WP_127514312.1": {
+"taxid": 28105,
+"organism": "Sinorhizobium"
+},
+"WP_127996930.1": {
+"taxid": 1114981,
+"organism": "Piscinibacter"
+},
+"WP_129573176.1": {
+"taxid": 2969250,
+"organism": "Sorangium sp. So ce836"
+},
+"WP_129574008.1": {
+"taxid": 2969250,
+"organism": "Sorangium sp. So ce836"
+},
+"WP_131175826.1": {
+"taxid": 2487520,
+"organism": "Phytopseudomonas dryadis"
+},
+"WP_131181410.1": {
+"taxid": 2487519,
+"organism": "Phytopseudomonas daroniae"
+},
+"WP_132192301.1": {
+"taxid": 182639,
+"organism": "Kribbella"
+},
+"WP_132195760.1": {
+"taxid": 182639,
+"organism": "Kribbella"
+},
+"WP_132516095.1": {
+"taxid": 83681,
+"organism": "Nonomuraea"
+},
+"WP_133489942.1": {
+"taxid": 59753,
+"organism": "Alcanivorax"
+},
+"WP_134216903.1": {
+"taxid": 191373,
+"organism": "Pelotomaculum"
+},
+"WP_135219904.1": {
+"taxid": 237,
+"organism": "Flavobacterium"
+},
+"WP_135711076.1": {
+"taxid": 1224,
+"organism": "Pseudomonadota"
+},
+"WP_136633300.1": {
+"taxid": 1420917,
+"organism": "Marinobacter salarius"
+},
+"WP_137409272.1": {
+"taxid": 357,
+"organism": "Agrobacterium"
+},
+"WP_138372362.1": {
+"taxid": 186801,
+"organism": "Clostridia"
+},
+"WP_138462037.1": {
+"taxid": 2005,
+"organism": "Microbispora"
+},
+"WP_140451059.1": {
+"taxid": 2800373,
+"organism": "Priestia"
+},
+"WP_141445996.1": {
+"taxid": 456492,
+"organism": "Saccharibacillus"
+},
+"WP_142645003.1": {
+"taxid": 2005,
+"organism": "Microbispora"
+},
+"WP_142862830.1": {
+"taxid": 428,
+"organism": "Methylosinus sporium"
+},
+"WP_142936868.1": {
+"taxid": 1268,
+"organism": "Micrococcaceae"
+},
+"WP_143257440.1": {
+"taxid": 816,
+"organism": "Bacteroides"
+},
+"WP_144087432.1": {
+"taxid": 1400133,
+"organism": "Allobacillus"
+},
+"WP_144682342.1": {
+"taxid": 157920,
+"organism": "Cellulosimicrobium"
+},
+"WP_144699147.1": {
+"taxid": 1329200,
+"organism": "Fictibacillus"
+},
+"WP_145288225.1": {
+"taxid": 45669,
+"organism": "Salinicoccus"
+},
+"WP_146291693.1": {
+"taxid": 2831106,
+"organism": "Devosiaceae"
+},
+"WP_146552719.1": {
+"taxid": 648802,
+"organism": "Rummeliibacillus"
+},
+"WP_147179559.1": {
+"taxid": 28211,
+"organism": "Alphaproteobacteria"
+},
+"WP_147349540.1": {
+"taxid": 102106,
+"organism": "Collinsella"
+},
+"WP_147579624.1": {
+"taxid": 2678885,
+"organism": "Faecalibacillus"
+},
+"WP_147640960.1": {
+"taxid": 2803850,
+"organism": "Mammaliicoccus"
+},
+"WP_148993890.1": {
+"taxid": 2837508,
+"organism": "Rossellomorea"
+},
+"WP_149198831.1": {
+"taxid": 191,
+"organism": "Azospirillum"
+},
+"WP_149231201.1": {
+"taxid": 191,
+"organism": "Azospirillum"
+},
+"WP_149234081.1": {
+"taxid": 191,
+"organism": "Azospirillum"
+},
+"WP_149767480.1": {
+"taxid": 1678900,
+"organism": "Mumia xiangluensis"
+},
+"WP_152879482.1": {
+"taxid": 2263,
+"organism": "Thermococcus"
+},
+"WP_153255266.1": {
+"taxid": 2800373,
+"organism": "Priestia"
+},
+"WP_153284137.1": {
+"taxid": 34072,
+"organism": "Variovorax"
+},
+"WP_153721421.1": {
+"taxid": 1569,
+"organism": "Sporosarcina"
+},
+"WP_153935242.1": {
+"taxid": 2762318,
+"organism": "Weeksellaceae"
+},
+"WP_154926764.1": {
+"taxid": 1903409,
+"organism": "Erwiniaceae"
+},
+"WP_157027874.1": {
+"taxid": 13687,
+"organism": "Sphingomonas"
+},
+"WP_157039692.1": {
+"taxid": 391952,
+"organism": "Aquincola"
+},
+"WP_157400778.1": {
+"taxid": 2682844,
+"organism": "Ramlibacter pinisoli"
+},
+"WP_158221315.1": {
+"taxid": 351195,
+"organism": "Salimicrobium"
+},
+"WP_158908745.1": {
+"taxid": 204434,
+"organism": "Acidobacteriaceae"
+},
+"WP_159415872.1": {
+"taxid": 106591,
+"organism": "Ensifer"
+},
+"WP_159491100.1": {
+"taxid": 1883,
+"organism": "Streptomyces"
+},
+"WP_159551599.1": {
+"taxid": 28256,
+"organism": "Halomonadaceae"
+},
+"WP_159563645.1": {
+"taxid": 33986,
+"organism": "Exiguobacterium"
+},
+"WP_160042702.1": {
+"taxid": 44249,
+"organism": "Paenibacillus"
+},
+"WP_160201143.1": {
+"taxid": 244127,
+"organism": "Anaerotruncus"
+},
+"WP_160794573.1": {
+"taxid": 206351,
+"organism": "Neisseriales"
+},
+"WP_160896013.1": {
+"taxid": 1679449,
+"organism": "Pseudooceanicola"
+},
+"WP_160896626.1": {
+"taxid": 1679449,
+"organism": "Pseudooceanicola"
+},
+"WP_161672373.1": {
+"taxid": 662,
+"organism": "Vibrio"
+},
+"WP_162733080.1": {
+"taxid": 106591,
+"organism": "Ensifer"
+},
+"WP_163862937.1": {
+"taxid": 32,
+"organism": "Myxococcus"
+},
+"WP_164242746.1": {
+"taxid": 40323,
+"organism": "Stenotrophomonas"
+},
+"WP_167258063.1": {
+"taxid": 96492,
+"organism": "Frigoribacterium"
+},
+"WP_167832285.1": {
+"taxid": 2675231,
+"organism": "Mesobacillus"
+},
+"WP_168635367.1": {
+"taxid": 1161,
+"organism": "Nostocales"
+},
+"WP_169265921.1": {
+"taxid": 383614,
+"organism": "Brasilonema"
+},
+"WP_169414462.1": {
+"taxid": 1847,
+"organism": "Pseudonocardia"
+},
+"WP_170187170.1": {
+"taxid": 848,
+"organism": "Fusobacterium"
+},
+"WP_170978337.1": {
+"taxid": 165695,
+"organism": "Sphingobium"
+},
+"WP_172143040.1": {
+"taxid": 55080,
+"organism": "Brevibacillus"
+},
+"WP_172955753.1": {
+"taxid": 346,
+"organism": "Xanthomonas citri"
+},
+"WP_172984690.1": {
+"taxid": 1578,
+"organism": "Lactobacillus"
+},
+"WP_173992073.1": {
+"taxid": 357,
+"organism": "Agrobacterium"
+},
+"WP_174232298.1": {
+"taxid": 338,
+"organism": "Xanthomonas"
+},
+"WP_174320760.1": {
+"taxid": 165695,
+"organism": "Sphingobium"
+},
+"WP_174717203.1": {
+"taxid": 222,
+"organism": "Achromobacter"
+},
+"WP_175127565.1": {
+"taxid": 222,
+"organism": "Achromobacter"
+},
+"WP_175311717.1": {
+"taxid": 13687,
+"organism": "Sphingomonas"
+},
+"WP_175353542.1": {
+"taxid": 816,
+"organism": "Bacteroides"
+},
+"WP_175772325.1": {
+"taxid": 119060,
+"organism": "Burkholderiaceae"
+},
+"WP_176550271.1": {
+"taxid": 3390273,
+"organism": "Klebsiella pneumoniae complex"
+},
+"WP_177162041.1": {
+"taxid": 848,
+"organism": "Fusobacterium"
+},
+"WP_181529597.1": {
+"taxid": 106591,
+"organism": "Ensifer"
+},
+"WP_181731702.1": {
+"taxid": 2023,
+"organism": "Thermoactinomyces"
+},
+"WP_181828664.1": {
+"taxid": 122277,
+"organism": "Pectobacterium"
+},
+"WP_182896281.1": {
+"taxid": 1813,
+"organism": "Amycolatopsis"
+},
+"WP_183185310.1": {
+"taxid": 230470,
+"organism": "Anoxybacteroides voinovskiense"
+},
+"WP_183344926.1": {
+"taxid": 2651583,
+"organism": "Geomonas"
+},
+"WP_183669714.1": {
+"taxid": 2282523,
+"organism": "Methylorubrum"
+},
+"WP_185244103.1": {
+"taxid": 213422,
+"organism": "Geobacteraceae"
+},
+"WP_186873893.1": {
+"taxid": 186803,
+"organism": "Lachnospiraceae"
+},
+"WP_188589706.1": {
+"taxid": 222,
+"organism": "Achromobacter"
+},
+"WP_189063171.1": {
+"taxid": 1298,
+"organism": "Deinococcus"
+},
+"WP_190549325.1": {
+"taxid": 1186,
+"organism": "Calothrix"
+},
+"WP_190590711.1": {
+"taxid": 1161,
+"organism": "Nostocales"
+},
+"WP_190899832.1": {
+"taxid": 1177,
+"organism": "Nostoc"
+},
+"WP_190955833.1": {
+"taxid": 3028117,
+"organism": "Cyanophyceae"
+},
+"WP_192060644.1": {
+"taxid": 96492,
+"organism": "Frigoribacterium"
+},
+"WP_192323476.1": {
+"taxid": 34072,
+"organism": "Variovorax"
+},
+"WP_192389555.1": {
+"taxid": 414371,
+"organism": "Aureimonas"
+},
+"WP_192470746.1": {
+"taxid": 2675231,
+"organism": "Mesobacillus"
+},
+"WP_192473464.1": {
+"taxid": 2675231,
+"organism": "Mesobacillus"
+},
+"WP_192497831.1": {
+"taxid": 2682228,
+"organism": "Tepidiforma"
+},
+"WP_193559574.1": {
+"taxid": 357,
+"organism": "Agrobacterium"
+},
+"WP_194044754.1": {
+"taxid": 1177,
+"organism": "Nostoc"
+},
+"WP_194264383.1": {
+"taxid": 441,
+"organism": "Gluconobacter"
+},
+"WP_195143723.1": {
+"taxid": 1817,
+"organism": "Nocardia"
+},
+"WP_195326711.1": {
+"taxid": 3706788,
+"organism": "Streptococcus parasanguinis group"
+},
+"WP_195611124.1": {
+"taxid": 1301,
+"organism": "Streptococcus"
+},
+"WP_195816161.1": {
+"taxid": 34037,
+"organism": "Rahnella"
+},
+"WP_197450682.1": {
+"taxid": 28256,
+"organism": "Halomonadaceae"
+},
+"WP_197736360.1": {
+"taxid": 904,
+"organism": "Acidaminococcus"
+},
+"WP_198049335.1": {
+"taxid": 2132,
+"organism": "Spiroplasma"
+},
+"WP_198049456.1": {
+"taxid": 2132,
+"organism": "Spiroplasma"
+},
+"WP_198143300.1": {
+"taxid": 82802,
+"organism": "Trichococcus"
+},
+"WP_199113054.1": {
+"taxid": 469,
+"organism": "Acinetobacter"
+},
+"WP_200951481.1": {
+"taxid": 106591,
+"organism": "Ensifer"
+},
+"WP_201078417.1": {
+"taxid": 204447,
+"organism": "Skermanella"
+},
+"WP_201078853.1": {
+"taxid": 1822464,
+"organism": "Paraburkholderia"
+},
+"WP_201317013.1": {
+"taxid": 32008,
+"organism": "Burkholderia"
+},
+"WP_201739883.1": {
+"taxid": 165696,
+"organism": "Novosphingobium"
+},
+"WP_201815600.1": {
+"taxid": 1883,
+"organism": "Streptomyces"
+},
+"WP_202397978.1": {
+"taxid": 1679449,
+"organism": "Pseudooceanicola"
+},
+"WP_204209610.1": {
+"taxid": 1924110,
+"organism": "Massiliimicrobium"
+},
+"WP_204536900.1": {
+"taxid": 59732,
+"organism": "Chryseobacterium"
+},
+"WP_205559308.1": {
+"taxid": 122277,
+"organism": "Pectobacterium"
+},
+"WP_205946592.1": {
+"taxid": 122277,
+"organism": "Pectobacterium"
+},
+"WP_206759949.1": {
+"taxid": 2023,
+"organism": "Thermoactinomyces"
+},
+"WP_206925633.1": {
+"taxid": 1505652,
+"organism": "Terrisporobacter"
+},
+"WP_210684471.1": {
+"taxid": 33024,
+"organism": "Phascolarctobacterium"
+},
+"WP_211151761.1": {
+"taxid": 165696,
+"organism": "Novosphingobium"
+},
+"WP_211906626.1": {
+"taxid": 3116862,
+"organism": "Ralstonia solanacearum species complex"
+},
+"WP_213119950.1": {
+"taxid": 2675232,
+"organism": "Neobacillus"
+},
+"WP_213429581.1": {
+"taxid": 44249,
+"organism": "Paenibacillus"
+},
+"WP_213950818.1": {
+"taxid": 499228,
+"organism": "Tepidanaerobacter"
+},
+"WP_213974349.1": {
+"taxid": 499228,
+"organism": "Tepidanaerobacter"
+},
+"WP_215064642.1": {
+"taxid": 746691,
+"organism": "Oceanobacillus kimchii"
+},
+"WP_215303351.1": {
+"taxid": 44013,
+"organism": "Polynucleobacter"
+},
+"WP_215951991.1": {
+"taxid": 515417,
+"organism": "Amphritea"
+},
+"WP_216400776.1": {
+"taxid": 216572,
+"organism": "Oscillospiraceae"
+},
+"WP_217032680.1": {
+"taxid": 2675230,
+"organism": "Cytobacillus"
+},
+"WP_217288251.1": {
+"taxid": 2847989,
+"organism": "Geomonas subterranea"
+},
+"WP_217372477.1": {
+"taxid": 165697,
+"organism": "Sphingopyxis"
+},
+"WP_219492432.1": {
+"taxid": 3039389,
+"organism": "Macrococcus psychrotolerans"
+},
+"WP_220561598.1": {
+"taxid": 2013,
+"organism": "Nocardiopsis"
+},
+"WP_221783634.1": {
+"taxid": 2800373,
+"organism": "Priestia"
+},
+"WP_223436630.1": {
+"taxid": 2675233,
+"organism": "Metabacillus"
+},
+"WP_223928262.1": {
+"taxid": 838,
+"organism": "Prevotella"
+},
+"WP_224139963.1": {
+"taxid": 2675233,
+"organism": "Metabacillus"
+},
+"WP_226370633.1": {
+"taxid": 698769,
+"organism": "Virgibacillus alimentarius"
+},
+"WP_226464662.1": {
+"taxid": 47420,
+"organism": "Hydrogenophaga"
+},
+"WP_227898678.1": {
+"taxid": 2719313,
+"organism": "Enterocloster"
+},
+"WP_229049894.1": {
+"taxid": 55080,
+"organism": "Brevibacillus"
+},
+"WP_230077883.1": {
+"taxid": 55080,
+"organism": "Brevibacillus"
+},
+"WP_231341067.1": {
+"taxid": 1268,
+"organism": "Micrococcaceae"
+},
+"WP_231417884.1": {
+"taxid": 289201,
+"organism": "Pontibacillus"
+},
+"WP_231429058.1": {
+"taxid": 33877,
+"organism": "Agromyces"
+},
+"WP_231878504.1": {
+"taxid": 33877,
+"organism": "Agromyces"
+},
+"WP_232774235.1": {
+"taxid": 55080,
+"organism": "Brevibacillus"
+},
+"WP_233220559.1": {
+"taxid": 55080,
+"organism": "Brevibacillus"
+},
+"WP_233454300.1": {
+"taxid": 1236,
+"organism": "Gammaproteobacteria"
+},
+"WP_234128183.1": {
+"taxid": 55080,
+"organism": "Brevibacillus"
+},
+"WP_235113576.1": {
+"taxid": 68,
+"organism": "Lysobacter"
+},
+"WP_235160251.1": {
+"taxid": 120831,
+"organism": "Dyadobacter"
+},
+"WP_235243871.1": {
+"taxid": 848,
+"organism": "Fusobacterium"
+},
+"WP_237605933.1": {
+"taxid": 45669,
+"organism": "Salinicoccus"
+},
+"WP_237678297.1": {
+"taxid": 34072,
+"organism": "Variovorax"
+},
+"WP_237812491.1": {
+"taxid": 150247,
+"organism": "Anoxybacillus"
+},
+"WP_238290505.1": {
+"taxid": 407,
+"organism": "Methylobacterium"
+},
+"WP_240071897.1": {
+"taxid": 2919926,
+"organism": "Cupriavidus mimosae"
+},
+"WP_242466803.1": {
+"taxid": 55080,
+"organism": "Brevibacillus"
+},
+"WP_242558963.1": {
+"taxid": 93217,
+"organism": "Pandoraea"
+},
+"WP_242561809.1": {
+"taxid": 93217,
+"organism": "Pandoraea"
+},
+"WP_243010377.1": {
+"taxid": 1649459,
+"organism": "Hungatella"
+},
+"WP_243258184.1": {
+"taxid": 379,
+"organism": "Rhizobium"
+},
+"WP_243505267.1": {
+"taxid": 186817,
+"organism": "Bacillaceae"
+},
+"WP_243856127.1": {
+"taxid": 2675230,
+"organism": "Cytobacillus"
+},
+"WP_244796680.1": {
+"taxid": 1827195,
+"organism": "Caballeronia"
+},
+"WP_249749979.1": {
+"taxid": 41275,
+"organism": "Brevundimonas"
+},
+"WP_251125249.1": {
+"taxid": 33986,
+"organism": "Exiguobacterium"
+},
+"WP_251429271.1": {
+"taxid": 2675229,
+"organism": "Peribacillus"
+},
+"WP_251914921.1": {
+"taxid": 1817,
+"organism": "Nocardia"
+},
+"WP_251914924.1": {
+"taxid": 1817,
+"organism": "Nocardia"
+},
+"WP_251918560.1": {
+"taxid": 1817,
+"organism": "Nocardia"
+},
+"WP_254223385.1": {
+"taxid": 55080,
+"organism": "Brevibacillus"
+},
+"WP_255416935.1": {
+"taxid": 80864,
+"organism": "Comamonadaceae"
+},
+"WP_256950366.1": {
+"taxid": 662,
+"organism": "Vibrio"
+},
+"WP_257735164.1": {
+"taxid": 85413,
+"organism": "Allobosea"
+},
+"WP_259943566.1": {
+"taxid": 191028,
+"organism": "Leisingera"
+},
+"WP_261808774.1": {
+"taxid": 83681,
+"organism": "Nonomuraea"
+},
+"WP_265217586.1": {
+"taxid": 543,
+"organism": "Enterobacteriaceae"
+},
+"WP_269465318.1": {
+"taxid": 1872398,
+"organism": "Aerococcus sp."
+},
+"WP_270325783.1": {
+"taxid": 1350,
+"organism": "Enterococcus"
+},
+"WP_270906309.1": {
+"taxid": 469,
+"organism": "Acinetobacter"
+},
+"WP_271923816.1": {
+"taxid": 3028117,
+"organism": "Cyanophyceae"
+},
+"WP_272636009.1": {
+"taxid": 252356,
+"organism": "Maribacter"
+},
+"WP_272776372.1": {
+"taxid": 29407,
+"organism": "Rhodoplanes"
+},
+"WP_272777919.1": {
+"taxid": 29407,
+"organism": "Rhodoplanes"
+},
+"WP_272778110.1": {
+"taxid": 29407,
+"organism": "Rhodoplanes"
+},
+"WP_275249086.1": {
+"taxid": 29465,
+"organism": "Veillonella"
+},
+"WP_276730293.1": {
+"taxid": 32012,
+"organism": "Thiomonas"
+},
+"WP_280197133.1": {
+"taxid": 69278,
+"organism": "Aquamicrobium"
+},
+"WP_281675411.1": {
+"taxid": 29465,
+"organism": "Veillonella"
+},
+"WP_281741459.1": {
+"taxid": 29465,
+"organism": "Veillonella"
+},
+"WP_286683991.1": {
+"taxid": 102106,
+"organism": "Collinsella"
+},
+"WP_286704376.1": {
+"taxid": 522,
+"organism": "Acidiphilium"
+},
+"WP_286860674.1": {
+"taxid": 28453,
+"organism": "Sphingobacterium"
+},
+"WP_286896009.1": {
+"taxid": 28453,
+"organism": "Sphingobacterium"
+},
+"WP_286961776.1": {
+"taxid": 267408,
+"organism": "Arsenicicoccus"
+},
+"WP_290664687.1": {
+"taxid": 795750,
+"organism": "Ignavibacterium"
+},
+"WP_291387443.1": {
+"taxid": 222,
+"organism": "Achromobacter"
+},
+"WP_292762471.1": {
+"taxid": 33882,
+"organism": "Microbacterium"
+},
+"WP_292775886.1": {
+"taxid": 33882,
+"organism": "Microbacterium"
+},
+"WP_303709546.1": {
+"taxid": 33882,
+"organism": "Microbacterium"
+},
+"WP_303897600.1": {
+"taxid": 1495649,
+"organism": "Thermoflexus"
+},
+"WP_303898473.1": {
+"taxid": 1495649,
+"organism": "Thermoflexus"
+},
+"WP_305158783.1": {
+"taxid": 2675229,
+"organism": "Peribacillus"
+},
+"WP_305158841.1": {
+"taxid": 2675229,
+"organism": "Peribacillus"
+},
+"WP_306991968.1": {
+"taxid": 83618,
+"organism": "Pseudoxanthomonas"
+},
+"WP_307512187.1": {
+"taxid": 34072,
+"organism": "Variovorax"
+},
+"WP_307512485.1": {
+"taxid": 34072,
+"organism": "Variovorax"
+},
+"WP_309500972.1": {
+"taxid": 374,
+"organism": "Bradyrhizobium"
+},
+"WP_315636782.1": {
+"taxid": 33882,
+"organism": "Microbacterium"
+},
+"WP_319638717.1": {
+"taxid": 2719313,
+"organism": "Enterocloster"
+},
+"WP_322910197.1": {
+"taxid": 2675230,
+"organism": "Cytobacillus"
+}
+}

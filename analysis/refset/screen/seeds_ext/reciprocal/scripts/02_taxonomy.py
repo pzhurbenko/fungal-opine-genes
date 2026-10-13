@@ -1,4 +1,5 @@
-"""Resolve organism names (from nr stitle [..] and query genomes) -> kingdom/class/order/genus via NCBI taxdump (current, downloaded 2026-10-06)."""
+"""Resolve organism names (from nr stitle [..] and query genomes) -> kingdom/class/order/genus via NCBI taxdump (current, downloaded 2026-10-06).
+After this script, scripts/02b_taxonomy_fix.py is mandatory: it re-resolves non-exact and homonymous names by the taxid of the hit protein (2026-10-13)."""
 import sys as _sys, os as _os; _sys.path.insert(0, _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..', '..', '..', '..', '..', '..')))
 from gmo_paths import GMO_ROOT  # noqa: E402
 import sys, re, json, csv

@@ -1,0 +1,7647 @@
+{
+"Ralstonia": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Ralstonia",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_211906626.1"
+],
+"n_hit_lines": 1
+},
+"Bosea sp. CRIB-10": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_092159472.1"
+],
+"n_hit_lines": 3
+},
+"Geomonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Desulfuromonadia",
+"order": "Geobacterales",
+"genus": "Geomonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_183344926.1",
+"WP_217288251.1"
+],
+"n_hit_lines": 5
+},
+"Dyadobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cytophagia",
+"order": "Cytophagales",
+"genus": "Dyadobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_235160251.1"
+],
+"n_hit_lines": 2
+},
+"Rummeliibacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Rummeliibacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_066791894.1",
+"WP_146552719.1"
+],
+"n_hit_lines": 2
+},
+"Muricauda sp. CP2A": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Flavobacteriia",
+"order": "Flavobacteriales",
+"genus": "Allomuricauda",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_067034787.1"
+],
+"n_hit_lines": 2
+},
+"Candidatus Fonsibacter lacus": {
+"old": {
+"kingdom": "NA",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "unresolved"
+},
+"reason": "level=unresolved",
+"accessions": [
+"NBR80614.1"
+],
+"n_hit_lines": 1
+},
+"Nocardia": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Mycobacteriales",
+"genus": "Nocardia",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_195143723.1",
+"WP_251918560.1",
+"WP_251914921.1",
+"WP_251914924.1",
+"WP_083871444.1"
+],
+"n_hit_lines": 490
+},
+"Mesobacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Mesobacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_044393373.1",
+"WP_192470746.1",
+"WP_192473464.1",
+"WP_167832285.1"
+],
+"n_hit_lines": 6
+},
+"Pacificimonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Sphingomonadales",
+"genus": "Pacificimonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_088711410.1"
+],
+"n_hit_lines": 1
+},
+"Bosea spartocytisi": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_113251904.1",
+"WP_191124088.1",
+"WP_113252922.1"
+],
+"n_hit_lines": 3
+},
+"bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "bacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"HEX5033627.1",
+"HKY64029.1",
+"HXX40478.1",
+"MDB4444489.1",
+"HXX37685.1"
+],
+"n_hit_lines": 3984
+},
+"Chloroflexus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Chloroflexia",
+"order": "Chloroflexales",
+"genus": "Chloroflexus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_012258703.1"
+],
+"n_hit_lines": 1
+},
+"Neobacillus sp. 179.-C4.2 HS": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Neobacillus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_306076212.1",
+"WP_306074379.1",
+"WP_306074183.1",
+"WP_306074184.1"
+],
+"n_hit_lines": 5
+},
+"NAD(P)+": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Eubacteriales",
+"genus": "Clostridium",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"ERI72526.1"
+],
+"n_hit_lines": 87
+},
+"Chrysiogenetes bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Chrysiogenetes",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"MCB0219105.1"
+],
+"n_hit_lines": 1
+},
+"Enterococcus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Lactobacillales",
+"genus": "Enterococcus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_270325783.1",
+"WP_002301686.1"
+],
+"n_hit_lines": 2
+},
+"Bosea sp. BIWAKO-01": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_069881627.1",
+"WP_069881626.1",
+"GAU86112.1",
+"WP_069880203.1",
+"WP_069878665.1"
+],
+"n_hit_lines": 267
+},
+"Nostocales": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cyanophyceae",
+"order": "Nostocales",
+"genus": "Nostocales",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_190590711.1",
+"WP_053537772.1",
+"WP_168635367.1",
+"WP_038298285.1"
+],
+"n_hit_lines": 4
+},
+"Fusobacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Fusobacteriia",
+"order": "Fusobacteriales",
+"genus": "Fusobacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_170187170.1",
+"WP_235243871.1",
+"WP_177162041.1"
+],
+"n_hit_lines": 46
+},
+"NAD+": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Sordariomycetes",
+"order": "Hypocreales",
+"genus": "Fusarium",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"ENH67866.1",
+"ENH63426.1",
+"ETE63713.1"
+],
+"n_hit_lines": 4
+},
+"Desulfitobacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Eubacteriales",
+"genus": "Desulfitobacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_014793961.1"
+],
+"n_hit_lines": 3
+},
+"Candidatus Dormibacteraeota bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"HYM78712.1",
+"HXP72077.1",
+"HKA11053.1",
+"HVA35979.1",
+"HWW14682.1"
+],
+"n_hit_lines": 79
+},
+"Halomonas xinjiangensis": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Oceanospirillales",
+"genus": "Litchfieldella",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_043528642.1",
+"WP_043532106.1"
+],
+"n_hit_lines": 6
+},
+"Tissierellales": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Tissierellia",
+"order": "Tissierellales",
+"genus": "Tissierellales",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_071140883.1"
+],
+"n_hit_lines": 65
+},
+"Bosea sp. RAC05": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_069053093.1"
+],
+"n_hit_lines": 4
+},
+"Paraburkholderia": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Paraburkholderia",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_012406813.1",
+"WP_007181214.1",
+"WP_201078853.1",
+"WP_018423107.1",
+"WP_018423134.1"
+],
+"n_hit_lines": 670
+},
+"Mycena belliae": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Agaricomycetes",
+"order": "Agaricales",
+"genus": "Mycena",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"KAJ7090277.1",
+"KAJ7081363.1",
+"KAJ7087353.1",
+"KAJ7103303.1",
+"KAJ7104499.1"
+],
+"n_hit_lines": 125
+},
+"Candidatus Methanomethyliaceae archaeon": {
+"old": {
+"kingdom": "Archaea",
+"cls": "Methanosuratincolia",
+"order": "Candidatus Methanomethylicales",
+"genus": "Candidatus",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"MCX8182508.1"
+],
+"n_hit_lines": 5
+},
+"Muricauda sp. SCSIO 64092": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Flavobacteriia",
+"order": "Flavobacteriales",
+"genus": "Allomuricauda",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_247134710.1"
+],
+"n_hit_lines": 1
+},
+"Candidatus Aminicenantes bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"NPV84129.1",
+"MBP7707152.1",
+"HDJ22397.1",
+"RLE09103.1",
+"NIM58037.1"
+],
+"n_hit_lines": 448
+},
+"Paenibacillus sp. JNUCC-31": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Paenibacillus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_192264987.1",
+"WP_192268549.1",
+"WP_192267497.1",
+"WP_192263610.1"
+],
+"n_hit_lines": 8
+},
+"Phocaeicola": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacteroidia",
+"order": "Bacteroidales",
+"genus": "Phocaeicola",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_005848295.1",
+"WP_005847418.1",
+"WP_007837631.1",
+"WP_005936798.1"
+],
+"n_hit_lines": 4
+},
+"Thermococcus": {
+"old": {
+"kingdom": "Archaea",
+"cls": "Thermococci",
+"order": "Thermococcales",
+"genus": "Thermococcus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_152879482.1"
+],
+"n_hit_lines": 3
+},
+"Calothrix": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cyanophyceae",
+"order": "Nostocales",
+"genus": "Calothrix",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_190549325.1"
+],
+"n_hit_lines": 1
+},
+"Mammaliicoccus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Mammaliicoccus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_088368987.1",
+"WP_147640960.1",
+"WP_103269187.1",
+"WP_017000641.1",
+"WP_115337342.1"
+],
+"n_hit_lines": 32
+},
+"Petrotoga": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Thermotogae",
+"order": "Petrotogales",
+"genus": "Petrotoga",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_103064970.1",
+"WP_103876600.1"
+],
+"n_hit_lines": 3
+},
+"Candidatus Methanoperedenaceae archaeon": {
+"old": {
+"kingdom": "Archaea",
+"cls": "Methanomicrobia",
+"order": "Methanosarcinales",
+"genus": "Candidatus",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"MBE0520901.1"
+],
+"n_hit_lines": 1
+},
+"Sinorhizobium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Sinorhizobium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_097540713.1",
+"WP_097528090.1",
+"WP_014766549.1",
+"WP_127514312.1",
+"WP_127514275.1"
+],
+"n_hit_lines": 414
+},
+"Cu-Zn": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Coniocybomycetes",
+"order": "Coniocybales",
+"genus": "Chaenotheca",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"KAI9753077.1"
+],
+"n_hit_lines": 1
+},
+"Bosea sp. Tri-44": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_129155149.1",
+"WP_129159141.1"
+],
+"n_hit_lines": 5
+},
+"Nostoc": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cyanophyceae",
+"order": "Nostocales",
+"genus": "Nostoc",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_194044754.1",
+"WP_190955833.1",
+"WP_099071072.1",
+"WP_190899832.1"
+],
+"n_hit_lines": 4
+},
+"Lachnospiraceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Lachnospirales",
+"genus": "Lachnospiraceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_186873893.1",
+"WP_005608673.1",
+"WP_055057138.1"
+],
+"n_hit_lines": 5
+},
+"Alcaligenes": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Alcaligenes",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_094198411.1"
+],
+"n_hit_lines": 4
+},
+"Bosea sp. Root381": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_056799118.1"
+],
+"n_hit_lines": 1
+},
+"Moorella sulfitireducens": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Neomoorellales",
+"genus": "Neomoorella",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_258359247.1"
+],
+"n_hit_lines": 1
+},
+"Fischerella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cyanophyceae",
+"order": "Nostocales",
+"genus": "Fischerella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_062246988.1",
+"WP_016868512.1"
+],
+"n_hit_lines": 2
+},
+"Kazachstania naganishii CBS 8797": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Saccharomycetes",
+"order": "Saccharomycetales",
+"genus": "Huiozyma",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"XP_022466540.1",
+"XP_022467336.1",
+"XP_022465674.1",
+"XP_022465562.1",
+"XP_022466541.1"
+],
+"n_hit_lines": 28
+},
+"Actinoalloteichus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Pseudonocardiales",
+"genus": "Actinoalloteichus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_075739899.1"
+],
+"n_hit_lines": 1
+},
+"Rhodanobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Lysobacterales",
+"genus": "Rhodanobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_027492147.1",
+"WP_027492144.1"
+],
+"n_hit_lines": 2
+},
+"Gemmobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rhodobacterales",
+"genus": "Gemmobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_108130560.1"
+],
+"n_hit_lines": 2
+},
+"Candidatus Freyrarchaeum guaymaensis": {
+"old": {
+"kingdom": "NA",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "unresolved"
+},
+"reason": "level=unresolved",
+"accessions": [
+"MDO8062990.1"
+],
+"n_hit_lines": 2
+},
+"Geobacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Geobacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_074044307.1",
+"WP_011231893.1",
+"WP_015375381.1",
+"WP_033009385.1",
+"WP_031212657.1"
+],
+"n_hit_lines": 50
+},
+"Serratia": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Enterobacterales",
+"genus": "Serratia",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_048761445.1",
+"WP_259216648.1",
+"WP_020825860.1",
+"WP_235430902.1",
+"WP_060558937.1"
+],
+"n_hit_lines": 18
+},
+"Levilactobacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Lactobacillales",
+"genus": "Levilactobacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_125764699.1"
+],
+"n_hit_lines": 17
+},
+"Cryptococcus neoformans var. grubii AD1-83a": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Tremellomycetes",
+"order": "Tremellales",
+"genus": "Cryptococcus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"OWZ37218.1",
+"OWZ37311.1"
+],
+"n_hit_lines": 38
+},
+"Bacteria": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Bacteria",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_214799684.1",
+"WP_214800033.1"
+],
+"n_hit_lines": 2
+},
+"Eggerthella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Coriobacteriia",
+"order": "Eggerthellales",
+"genus": "Eggerthella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_009304546.1",
+"WP_086414641.1",
+"WP_035585471.1",
+"WP_114538125.1"
+],
+"n_hit_lines": 4
+},
+"Candidatus Micrarchaeota archaeon": {
+"old": {
+"kingdom": "Archaea",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"NYZ78094.1"
+],
+"n_hit_lines": 1
+},
+"Knufia sp. JES_112": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Eurotiomycetes",
+"order": "Chaetothyriales",
+"genus": "Neophaeococcomyces",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"KAJ9653272.1",
+"KAJ9662796.1",
+"KAJ9652879.1",
+"KAJ9653280.1",
+"KAJ9653960.1"
+],
+"n_hit_lines": 57
+},
+"Pelosinus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Negativicutes",
+"order": "Selenomonadales",
+"genus": "Pelosinus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_007937090.1"
+],
+"n_hit_lines": 1
+},
+"Rubrivivax pictus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Pseudaquabacterium",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_137731856.1",
+"GCL62110.1",
+"WP_284618842.1"
+],
+"n_hit_lines": 3
+},
+"Klebsiella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Enterobacterales",
+"genus": "Klebsiella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_176550271.1",
+"WP_117116142.1",
+"WP_116696022.1",
+"WP_023322796.1",
+"WP_117106979.1"
+],
+"n_hit_lines": 13
+},
+"Brevibacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Brevibacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_229049894.1",
+"WP_232774235.1",
+"WP_254223385.1",
+"WP_233220559.1",
+"WP_242466803.1"
+],
+"n_hit_lines": 44
+},
+"Kosmotoga": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Thermotogae",
+"order": "Kosmotogales",
+"genus": "Kosmotoga",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_015868295.1"
+],
+"n_hit_lines": 18
+},
+"Rahnella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Enterobacterales",
+"genus": "Rahnella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_195816161.1"
+],
+"n_hit_lines": 2
+},
+"Anabaena": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cyanophyceae",
+"order": "Nostocales",
+"genus": "Anabaena",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_042465063.1"
+],
+"n_hit_lines": 1
+},
+"Eisenbergiella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Lachnospirales",
+"genus": "Eisenbergiella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_117544155.1",
+"WP_102288580.1"
+],
+"n_hit_lines": 259
+},
+"Shewanella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Alteromonadales",
+"genus": "Shewanella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_052125728.1"
+],
+"n_hit_lines": 1
+},
+"Hydrogenophaga": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Hydrogenophaga",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_226464662.1",
+"WP_066154381.1"
+],
+"n_hit_lines": 2
+},
+"Okeania": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cyanophyceae",
+"order": "Oscillatoriales",
+"genus": "Okeania",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_124144577.1"
+],
+"n_hit_lines": 2
+},
+"Clostridium aceticum": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Peptostreptococcales",
+"genus": "Andreesenella",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_044823985.1"
+],
+"n_hit_lines": 2
+},
+"Rhizobium smilacinae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Aliirhizobium",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"TNM60079.1",
+"WP_246091957.1",
+"WP_139676576.1"
+],
+"n_hit_lines": 5
+},
+"Agromyces": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Micrococcales",
+"genus": "Agromyces",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_231429058.1",
+"WP_231878504.1"
+],
+"n_hit_lines": 3
+},
+"Halomonas zhangzhouensis": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Oceanospirillales",
+"genus": "Billgrantia",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_234274462.1",
+"WP_234275365.1"
+],
+"n_hit_lines": 2
+},
+"Stutzerimonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Pseudomonadales",
+"genus": "Stutzerimonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_125877789.1"
+],
+"n_hit_lines": 1
+},
+"Burkholderiaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Burkholderiaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_175772325.1",
+"WP_075358331.1",
+"WP_062171104.1",
+"WP_051672269.1"
+],
+"n_hit_lines": 14
+},
+"Rhodococcus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Mycobacteriales",
+"genus": "Rhodococcus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_037106606.1",
+"WP_020110859.1",
+"WP_037231126.1",
+"WP_054245634.1",
+"WP_007301648.1"
+],
+"n_hit_lines": 14
+},
+"Acidaminococcus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Negativicutes",
+"order": "Acidaminococcales",
+"genus": "Acidaminococcus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_197736360.1"
+],
+"n_hit_lines": 9
+},
+"Tardiphaga": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Tardiphaga",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_068736102.1"
+],
+"n_hit_lines": 1
+},
+"Clostridium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Eubacteriales",
+"genus": "Clostridium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_061325919.1",
+"WP_053467650.1",
+"WP_118524604.1",
+"WP_022359789.1",
+"WP_118472065.1"
+],
+"n_hit_lines": 16
+},
+"Robertmurraya andreesenii": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Anoxybacillus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_307151754.1",
+"WP_307150931.1",
+"WP_307148633.1"
+],
+"n_hit_lines": 12
+},
+"Clostridia": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "",
+"genus": "Clostridia",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_120379185.1",
+"WP_087169468.1",
+"WP_138372362.1",
+"WP_015541195.1",
+"WP_035320965.1"
+],
+"n_hit_lines": 188
+},
+"Pontibacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Pontibacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_231417884.1"
+],
+"n_hit_lines": 1
+},
+"Pediococcus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Lactobacillales",
+"genus": "Pediococcus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_011673496.1"
+],
+"n_hit_lines": 1
+},
+"Salinomyces thailandica": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Dothideomycetes",
+"order": "Mycosphaerellales",
+"genus": "Salinomyces",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"TKA32479.1",
+"TKA26310.1",
+"TKA30958.1",
+"TKA30676.1",
+"TKA23255.1"
+],
+"n_hit_lines": 304
+},
+"Candida orthopsilosis Co 90-125": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Pichiomycetes",
+"order": "Serinales",
+"genus": "Lodderomyces",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"XP_003867800.1",
+"XP_003869825.1",
+"XP_003870975.1",
+"XP_003868190.1",
+"XP_003867032.1"
+],
+"n_hit_lines": 22
+},
+"Pseudomonas alcaligenes": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Alcaligenes",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"MBB4819320.1"
+],
+"n_hit_lines": 2
+},
+"Thermoactinomyces": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Thermoactinomyces",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_033101777.1",
+"WP_062843073.1",
+"WP_206759949.1",
+"WP_037994022.1",
+"WP_181731702.1"
+],
+"n_hit_lines": 32
+},
+"Kamptonema": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cyanophyceae",
+"order": "Oscillatoriales",
+"genus": "Kamptonema",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_007353604.1"
+],
+"n_hit_lines": 2
+},
+"Candidatus Paceibacterota bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"MDD2657723.1"
+],
+"n_hit_lines": 1
+},
+"Anaerolinea": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Anaerolineae",
+"order": "Anaerolineales",
+"genus": "Anaerolinea",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_013558537.1"
+],
+"n_hit_lines": 113
+},
+"Neobacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Neobacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_213119950.1"
+],
+"n_hit_lines": 1
+},
+"Sorangium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "Polyangiales",
+"genus": "Sorangium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_129574008.1",
+"WP_129573176.1"
+],
+"n_hit_lines": 4
+},
+"Rhodococcus fascians": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Mycobacteriales",
+"genus": "Rhodococcoides",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_037164008.1"
+],
+"n_hit_lines": 1
+},
+"Actinoplanes globisporus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Micromonosporales",
+"genus": "Paractinoplanes",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_020510708.1",
+"WP_020518220.1"
+],
+"n_hit_lines": 5
+},
+"Candidatus Sigynarchaeum springense": {
+"old": {
+"kingdom": "NA",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "unresolved"
+},
+"reason": "level=unresolved",
+"accessions": [
+"MDO8083811.1"
+],
+"n_hit_lines": 17
+},
+"Aminobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Aminobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_083948502.1"
+],
+"n_hit_lines": 1
+},
+"Geomicrobium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Geomicrobium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_042359083.1"
+],
+"n_hit_lines": 1
+},
+"Schlegelella koreensis": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Rhizobacter",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_176067243.1"
+],
+"n_hit_lines": 4
+},
+"Bacteroides": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacteroidia",
+"order": "Bacteroidales",
+"genus": "Bacteroides",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_175353542.1",
+"WP_004297514.1",
+"WP_143257440.1",
+"WP_004313234.1",
+"WP_087322494.1"
+],
+"n_hit_lines": 131
+},
+"Devosiaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Devosiaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_146291693.1"
+],
+"n_hit_lines": 2
+},
+"Bosea sp. BH3": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_262330609.1"
+],
+"n_hit_lines": 1
+},
+"Ensifer": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Ensifer",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_159415872.1",
+"WP_181529597.1",
+"WP_162733080.1",
+"WP_200951481.1"
+],
+"n_hit_lines": 7
+},
+"Dickeya": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Enterobacterales",
+"genus": "Dickeya",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_107759545.1",
+"WP_038919253.1",
+"WP_038918117.1",
+"WP_107758832.1",
+"WP_107759556.1"
+],
+"n_hit_lines": 24
+},
+"Thermoanaerobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Thermoanaerobacterales",
+"genus": "Thermoanaerobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_004396380.1",
+"WP_003869546.1",
+"WP_012269434.1"
+],
+"n_hit_lines": 521
+},
+"Cylindrospermopsis": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cyanophyceae",
+"order": "Nostocales",
+"genus": "Cylindrospermopsis",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_057178177.1"
+],
+"n_hit_lines": 1
+},
+"Gordonibacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Coriobacteriia",
+"order": "Eggerthellales",
+"genus": "Gordonibacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_096228375.1"
+],
+"n_hit_lines": 1
+},
+"Govania unica": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Emcibacterales",
+"genus": "Govanella",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_274942520.1"
+],
+"n_hit_lines": 2
+},
+"Herbaspirillum": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Herbaspirillum",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_034331459.1",
+"WP_088756088.1",
+"WP_121040112.1",
+"WP_102662579.1",
+"WP_017451145.1"
+],
+"n_hit_lines": 6
+},
+"Trichococcus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Lactobacillales",
+"genus": "Trichococcus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_068559662.1",
+"WP_198143300.1"
+],
+"n_hit_lines": 15
+},
+"Alcaligenaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Alcaligenaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_110140701.1"
+],
+"n_hit_lines": 1
+},
+"Pseudoroseomonas deserti": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Acetobacterales",
+"genus": "Roseomonas",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_207553602.1",
+"ONG50692.1"
+],
+"n_hit_lines": 2
+},
+"Veillonella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Negativicutes",
+"order": "Veillonellales",
+"genus": "Veillonella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_281741459.1",
+"WP_060807148.1",
+"WP_005378816.1",
+"WP_281675411.1",
+"WP_275249086.1"
+],
+"n_hit_lines": 30
+},
+"Mycolicibacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Mycobacteriales",
+"genus": "Mycolicibacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_085146437.1"
+],
+"n_hit_lines": 1
+},
+"Marinobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Pseudomonadales",
+"genus": "Marinobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_069184882.1",
+"WP_136633300.1",
+"WP_075196000.1"
+],
+"n_hit_lines": 15
+},
+"Cellulosimicrobium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Micrococcales",
+"genus": "Cellulosimicrobium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_144682342.1"
+],
+"n_hit_lines": 1
+},
+"Diaporthaceae sp. PMI_573": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Sordariomycetes",
+"order": "Diaporthales",
+"genus": "Diaporthe",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"KAH8775616.1",
+"KAH8780287.1",
+"KAH8752553.1",
+"KAH8772558.1",
+"KAH8767315.1"
+],
+"n_hit_lines": 767
+},
+"Acidobacteriaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Terriglobia",
+"order": "Terriglobales",
+"genus": "Acidobacteriaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_158908745.1"
+],
+"n_hit_lines": 1
+},
+"Candidatus Caenarcaniphilales bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"MDX1920886.1",
+"MDX1918538.1"
+],
+"n_hit_lines": 2
+},
+"Bosea sp. ASV33": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_199088633.1",
+"WP_199089074.1",
+"WP_199091824.1"
+],
+"n_hit_lines": 3
+},
+"Stappiaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Stappiaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_022999382.1",
+"WP_055653978.1"
+],
+"n_hit_lines": 10
+},
+"Mameliella alba": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rhodobacterales",
+"genus": "Antarctobacter",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_043145473.1",
+"WP_088671449.1",
+"WP_074621330.1",
+"WP_167647177.1",
+"WP_172430331.1"
+],
+"n_hit_lines": 21
+},
+"Anoxybacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Anoxybacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_066146439.1",
+"WP_183185310.1",
+"WP_035050623.1",
+"WP_237812491.1",
+"WP_019416677.1"
+],
+"n_hit_lines": 42
+},
+"Xanthomonadaceae bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Xanthomonadaceae",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"HTD28400.1",
+"MDE2308424.1",
+"MEB2316694.1",
+"MCO5094586.1",
+"MCE3004523.1"
+],
+"n_hit_lines": 9
+},
+"Pseudonocardia": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Pseudonocardiales",
+"genus": "Pseudonocardia",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_169414462.1"
+],
+"n_hit_lines": 5
+},
+"Candidatus Krumholzibacteria bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"MDX2474462.1",
+"MEE4268853.1",
+"MCK9995904.1"
+],
+"n_hit_lines": 9
+},
+"Halomonas qijiaojingensis": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Oceanospirillales",
+"genus": "Litchfieldella",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_189467597.1",
+"WP_229803650.1"
+],
+"n_hit_lines": 10
+},
+"Tepidanaerobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Thermosediminibacterales",
+"genus": "Tepidanaerobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_213974349.1",
+"WP_213950818.1"
+],
+"n_hit_lines": 49
+},
+"Listeria": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Listeria",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_036089541.1",
+"WP_115752245.1"
+],
+"n_hit_lines": 3
+},
+"Hassalia byssoidea": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cyanophyceae",
+"order": "Nostocales",
+"genus": "Hassallia",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_039752293.1"
+],
+"n_hit_lines": 2
+},
+"Oceanobacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Oceanobacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_215064642.1",
+"WP_069685753.1",
+"WP_017796132.1"
+],
+"n_hit_lines": 3
+},
+"Brevefilum fermentans": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Anaerolineae",
+"order": "Anaerolineales",
+"genus": "Candidatus Brevifilum",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_087863049.1",
+"HPX96339.1",
+"HQA28339.1"
+],
+"n_hit_lines": 371
+},
+"Peptoniphilus nemausensis": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Tissierellia",
+"order": "Tissierellales",
+"genus": "Aedoeadaptatus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_180499647.1"
+],
+"n_hit_lines": 1
+},
+"Metabacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Metabacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_029565465.1",
+"WP_223436630.1",
+"WP_224139963.1",
+"WP_066333883.1"
+],
+"n_hit_lines": 7
+},
+"Peptoniphilus coxii": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Tissierellia",
+"order": "Tissierellales",
+"genus": "Aedoeadaptatus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_322630903.1",
+"WP_068366750.1",
+"WP_322622314.1",
+"WP_322627594.1",
+"WP_321165436.1"
+],
+"n_hit_lines": 6
+},
+"Tellurirhabdus rosea": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cytophagia",
+"order": "Cytophagales",
+"genus": "Larkinella",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_266369123.1"
+],
+"n_hit_lines": 1
+},
+"Piscinibacter sakaiensis": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Pseudideonella",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_054021133.1"
+],
+"n_hit_lines": 1
+},
+"Aquamicrobium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Aquamicrobium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_280197133.1"
+],
+"n_hit_lines": 4
+},
+"Cupriavidus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Cupriavidus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_035874527.1",
+"WP_240071897.1",
+"WP_008651983.1",
+"WP_111517062.1",
+"WP_010809642.1"
+],
+"n_hit_lines": 21
+},
+"Bosea sp. TND4EK4": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_076439108.1"
+],
+"n_hit_lines": 1
+},
+"Bosea sp. PAMC 26642": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_066614036.1"
+],
+"n_hit_lines": 1
+},
+"Planococcaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Planococcaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_101801731.1"
+],
+"n_hit_lines": 1
+},
+"Deinococcus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Deinococci",
+"order": "Deinococcales",
+"genus": "Deinococcus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_189063171.1",
+"WP_027463375.1"
+],
+"n_hit_lines": 3
+},
+"Muricauda sp. F6463D": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Flavobacteriia",
+"order": "Flavobacteriales",
+"genus": "Allomuricauda",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_247044712.1"
+],
+"n_hit_lines": 1
+},
+"Cyanophyceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cyanophyceae",
+"order": "",
+"genus": "Cyanophyceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_271923816.1"
+],
+"n_hit_lines": 1
+},
+"Nonomuraea": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Streptosporangiales",
+"genus": "Nonomuraea",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_132516095.1",
+"WP_261808774.1"
+],
+"n_hit_lines": 431
+},
+"Roseomonas harenae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Acetobacterales",
+"genus": "Muricoccus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_235925117.1",
+"WP_201306191.1"
+],
+"n_hit_lines": 3
+},
+"Leucoagaricus leucothites": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Agaricomycetes",
+"order": "Agaricales",
+"genus": "Leucocoprinus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"KAF5358504.1",
+"KAF5360613.1",
+"KAF5352465.1",
+"KAF5354175.1",
+"KAF5357216.1"
+],
+"n_hit_lines": 114
+},
+"Pseudomonadaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Pseudomonadales",
+"genus": "Pseudomonadaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_125837920.1",
+"WP_015278231.1"
+],
+"n_hit_lines": 2
+},
+"Stigmatella ashevillena": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Myxococcia",
+"order": "Myxococcales",
+"genus": "Allostigmatella",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_272136644.1",
+"WP_272141347.1"
+],
+"n_hit_lines": 8
+},
+"Halolamina": {
+"old": {
+"kingdom": "Archaea",
+"cls": "Halobacteria",
+"order": "Halobacteriales",
+"genus": "Halolamina",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_074875547.1"
+],
+"n_hit_lines": 1
+},
+"Neisseriales": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Neisseriales",
+"genus": "Neisseriales",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_160794573.1"
+],
+"n_hit_lines": 1
+},
+"Mesorhizobium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Mesorhizobium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_123169476.1",
+"WP_029352567.1",
+"WP_095485152.1",
+"WP_095796047.1"
+],
+"n_hit_lines": 451
+},
+"Bosea": {
+"old": {
+"kingdom": "Viridiplantae",
+"cls": "Magnoliopsida",
+"order": "Caryophyllales",
+"genus": "Bosea",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_257735164.1",
+"WP_091842095.1"
+],
+"n_hit_lines": 5
+},
+"Phialophora attinorum": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Eurotiomycetes",
+"order": "Chaetothyriales",
+"genus": "Cyphellophora",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"XP_018002087.1",
+"XP_017997479.1",
+"XP_017995334.1",
+"XP_018005860.1",
+"XP_017996695.1"
+],
+"n_hit_lines": 158
+},
+"Leisingera": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rhodobacterales",
+"genus": "Leisingera",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_259943566.1"
+],
+"n_hit_lines": 2
+},
+"Rhizobium sp. CSC1952": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Neorhizobium",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_289672382.1"
+],
+"n_hit_lines": 10
+},
+"Roseobacteraceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rhodobacterales",
+"genus": "Roseobacteraceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_113821918.1",
+"WP_009571807.1"
+],
+"n_hit_lines": 5
+},
+"Muricauda sp. CAU 1633": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Flavobacteriia",
+"order": "Flavobacteriales",
+"genus": "Allomuricauda",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_242527895.1",
+"MBO0321153.1"
+],
+"n_hit_lines": 2
+},
+"Neorhizobium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Neorhizobium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_040124634.1"
+],
+"n_hit_lines": 10
+},
+"Pseudoroseomonas aerophila": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Acetobacterales",
+"genus": "Roseomonas",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_187784735.1"
+],
+"n_hit_lines": 1
+},
+"Blautia": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Lachnospirales",
+"genus": "Blautia",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_033139838.1",
+"WP_095174852.1",
+"WP_115624240.1",
+"WP_005426714.1",
+"WP_118572044.1"
+],
+"n_hit_lines": 267
+},
+"Faecalibacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Erysipelotrichia",
+"order": "Erysipelotrichales",
+"genus": "Faecalibacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_147579624.1",
+"WP_032090366.1"
+],
+"n_hit_lines": 2
+},
+"Bosea sp. 47.2.35": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_257735287.1"
+],
+"n_hit_lines": 1
+},
+"Burkholderia": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Burkholderia",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_111442037.1",
+"WP_201317013.1",
+"WP_119338333.1",
+"WP_124670211.1",
+"WP_025100014.1"
+],
+"n_hit_lines": 64
+},
+"Candidatus Electrothrix sp. AR4": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Desulfobulbia",
+"order": "Desulfobulbales",
+"genus": "Candidatus",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"MCI5222398.1"
+],
+"n_hit_lines": 2
+},
+"Chroococcidiopsis sp. CCMEE 29": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cyanophyceae",
+"order": "Chroococcidiopsidales",
+"genus": "Chroococcidiopsis",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_250124031.1",
+"WP_250124889.1"
+],
+"n_hit_lines": 2
+},
+"Labrys": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Labrys",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_105864413.1"
+],
+"n_hit_lines": 2
+},
+"Frankia": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Frankiales",
+"genus": "Frankia",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_011601416.1",
+"WP_011434621.1",
+"WP_035909062.1"
+],
+"n_hit_lines": 6
+},
+"Methylosinus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Methylosinus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_003608497.1",
+"WP_142862830.1"
+],
+"n_hit_lines": 2
+},
+"Bosea sp. Tri-49": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"AZO81620.1"
+],
+"n_hit_lines": 1
+},
+"Phascolarctobacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Negativicutes",
+"order": "Acidaminococcales",
+"genus": "Phascolarctobacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_210684471.1"
+],
+"n_hit_lines": 1
+},
+"Eubacteriales": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Eubacteriales",
+"genus": "Eubacteriales",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_050624493.1",
+"WP_009060281.1",
+"WP_021660984.1"
+],
+"n_hit_lines": 11
+},
+"Xanthomonadales bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Lysobacterales",
+"genus": "Xanthomonadales",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"MCG8463720.1",
+"MCK9488094.1",
+"MBE5314193.1",
+"MBN8428367.1",
+"RPH53463.1"
+],
+"n_hit_lines": 10
+},
+"Mesotoga": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Thermotogae",
+"order": "Kosmotogales",
+"genus": "Mesotoga",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_014730068.1"
+],
+"n_hit_lines": 42
+},
+"Candidatus Jidaibacter acanthamoeba": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rickettsiales",
+"genus": "Candidatus Jidaibacter",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_039457564.1",
+"KIE04812.1"
+],
+"n_hit_lines": 2
+},
+"Cytobacillus suaedae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Litchfieldia",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"QOR65830.1",
+"QOR65437.1"
+],
+"n_hit_lines": 3
+},
+"Rhizobium tumorigenes": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Arminella",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_111218399.1",
+"WP_278333410.1",
+"WP_111221720.1",
+"WP_278333160.1",
+"WP_111223069.1"
+],
+"n_hit_lines": 14
+},
+"Helotiales sp. DMI_Dod_QoI": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Leotiomycetes",
+"order": "Helotiales",
+"genus": "Helotiales",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"KAE8449856.1",
+"KAE8452040.1",
+"KAE8441435.1",
+"KAE8452432.1",
+"KAE8443503.1"
+],
+"n_hit_lines": 360
+},
+"Muricauda sp. M10": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Flavobacteriia",
+"order": "Flavobacteriales",
+"genus": "Allomuricauda",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_228236483.1"
+],
+"n_hit_lines": 1
+},
+"Paucibacter sp. B2R-40": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Roseateles",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_263558245.1"
+],
+"n_hit_lines": 1
+},
+"Lysobacter solisilvae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Lysobacterales",
+"genus": "Agrilutibacter",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_200616166.1"
+],
+"n_hit_lines": 1
+},
+"Priestia": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Priestia",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_221783634.1",
+"WP_140451059.1",
+"WP_014458656.1",
+"WP_153255266.1",
+"WP_028415025.1"
+],
+"n_hit_lines": 153
+},
+"Alphaproteobacteria": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "",
+"genus": "Alphaproteobacteria",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_147179559.1"
+],
+"n_hit_lines": 2
+},
+"Brevibacillus sp. JNUCC-41": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Peribacillus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_192206053.1",
+"WP_192206385.1",
+"WP_192206293.1"
+],
+"n_hit_lines": 6
+},
+"Caldimonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Caldimonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_019559769.1"
+],
+"n_hit_lines": 3
+},
+"Candidatus Marinimicrobia bacterium MT.SAG.3": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"TFB10184.1"
+],
+"n_hit_lines": 26
+},
+"Nitratireductor": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Nitratireductor",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_106573071.1"
+],
+"n_hit_lines": 1
+},
+"Piscinibacter gummiphilus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Rhizobacter",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_085752393.1",
+"WP_316702640.1"
+],
+"n_hit_lines": 4
+},
+"Microbacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Micrococcales",
+"genus": "Microbacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_315636782.1",
+"WP_303709546.1",
+"WP_292762471.1",
+"WP_292775886.1",
+"WP_127011445.1"
+],
+"n_hit_lines": 23
+},
+"Oscillatoriaceae bacterium SKYG93": {
+"old": {
+"kingdom": "NA",
+"cls": "",
+"order": "",
+"genus": "Oscillatoriaceae",
+"level": "unresolved"
+},
+"reason": "level=unresolved",
+"accessions": [
+"MCS6793896.1"
+],
+"n_hit_lines": 1
+},
+"Sphingomonadaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Sphingomonadales",
+"genus": "Sphingomonadaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_025290582.1"
+],
+"n_hit_lines": 1
+},
+"Virgibacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Virgibacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_050350350.1",
+"WP_226370633.1",
+"WP_021290220.1"
+],
+"n_hit_lines": 3
+},
+"Pseudoxanthomonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Lysobacterales",
+"genus": "Pseudoxanthomonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_306991968.1"
+],
+"n_hit_lines": 1
+},
+"Candidatus Coatesbacteria bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"RLC48434.1"
+],
+"n_hit_lines": 2
+},
+"Alcanivorax": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Oceanospirillales",
+"genus": "Alcanivorax",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_133489942.1"
+],
+"n_hit_lines": 1
+},
+"Pseudothermotoga": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Thermotogae",
+"order": "Thermotogales",
+"genus": "Pseudothermotoga",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_012002947.1"
+],
+"n_hit_lines": 47
+},
+"Piscinibacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Piscinibacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_127996930.1"
+],
+"n_hit_lines": 1
+},
+"Eubacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Eubacteriales",
+"genus": "Eubacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_117910078.1"
+],
+"n_hit_lines": 1
+},
+"Lactobacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Lactobacillales",
+"genus": "Lactobacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_172984690.1"
+],
+"n_hit_lines": 2
+},
+"Heyndrickxia": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Heyndrickxia",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_061086557.1",
+"WP_014097797.1",
+"WP_035184439.1",
+"WP_104851323.1",
+"WP_026684067.1"
+],
+"n_hit_lines": 12
+},
+"Amycolatopsis": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Pseudonocardiales",
+"genus": "Amycolatopsis",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_094002950.1",
+"WP_038513803.1",
+"WP_067585535.1",
+"WP_182896281.1",
+"WP_067588922.1"
+],
+"n_hit_lines": 18
+},
+"Brochothrix": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Brochothrix",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_029090648.1"
+],
+"n_hit_lines": 1
+},
+"Chelatococcus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Chelatococcus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_019401425.1",
+"WP_055458445.1",
+"WP_019403121.1"
+],
+"n_hit_lines": 14
+},
+"Parageobacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Parageobacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_081188142.1",
+"WP_064549922.1"
+],
+"n_hit_lines": 8
+},
+"Myxococcus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Myxococcia",
+"order": "Myxococcales",
+"genus": "Myxococcus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_163862937.1"
+],
+"n_hit_lines": 8
+},
+"Pseudomonas seleniipraecipitans": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Pseudomonadales",
+"genus": "Phytopseudomonas",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_092367743.1",
+"WP_070881882.1"
+],
+"n_hit_lines": 2
+},
+"Ignavibacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Ignavibacteria",
+"order": "Ignavibacteriales",
+"genus": "Ignavibacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_290664687.1"
+],
+"n_hit_lines": 1
+},
+"Cellulomons edaphi": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Micrococcales",
+"genus": "Cellulomonas",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_289444662.1"
+],
+"n_hit_lines": 1
+},
+"Streptomyces violarus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Kitasatosporales",
+"genus": "Streptomyces",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_261683238.1"
+],
+"n_hit_lines": 1
+},
+"Exiguobacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Exiguobacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_035406247.1",
+"WP_026832329.1",
+"WP_070327905.1",
+"WP_159563645.1",
+"WP_251125249.1"
+],
+"n_hit_lines": 61
+},
+"Xanthomonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Lysobacterales",
+"genus": "Xanthomonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_047693545.1",
+"WP_172955753.1",
+"WP_174232298.1",
+"WP_057663405.1",
+"WP_040107547.1"
+],
+"n_hit_lines": 37
+},
+"Sinirhodobacter populi": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rhodobacterales",
+"genus": "Paenirhodobacter",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_128182763.1",
+"WP_128237863.1",
+"WP_128269581.1",
+"WP_128232570.1",
+"WP_128207651.1"
+],
+"n_hit_lines": 10
+},
+"Cryptococcus neoformans var. grubii c45": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Tremellomycetes",
+"order": "Tremellales",
+"genus": "Cryptococcus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"OWZ37191.1",
+"OWZ57429.1"
+],
+"n_hit_lines": 36
+},
+"Bordetella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Bordetella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_068925175.1",
+"WP_033462719.1",
+"WP_003814011.1",
+"WP_026638224.1"
+],
+"n_hit_lines": 13
+},
+"Candidatus Acidoferrum typicum": {
+"old": {
+"kingdom": "NA",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "unresolved"
+},
+"reason": "level=unresolved",
+"accessions": [
+"MCU1340763.1"
+],
+"n_hit_lines": 1
+},
+"Bosea sp. BK604": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_131859246.1"
+],
+"n_hit_lines": 1
+},
+"Gemella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Gemella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_062173140.1"
+],
+"n_hit_lines": 1
+},
+"Bosea sp. LC85": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_043237034.1",
+"WP_043242157.1",
+"WP_043239391.1",
+"WP_043236313.1"
+],
+"n_hit_lines": 4
+},
+"Amphritea": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Oceanospirillales",
+"genus": "Amphritea",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_215951991.1"
+],
+"n_hit_lines": 5
+},
+"Rhizobium sp. SORGH_AS_0787": {
+"old": {
+"kingdom": "NA",
+"cls": "",
+"order": "",
+"genus": "Rhizobium",
+"level": "unresolved"
+},
+"reason": "level=unresolved",
+"accessions": [
+"MDQ1196108.1"
+],
+"n_hit_lines": 2
+},
+"Elioraea thermophila": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Acetobacterales",
+"genus": "Elioraea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_114375514.1"
+],
+"n_hit_lines": 5
+},
+"Bosea sp. ANAM02": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_173045848.1"
+],
+"n_hit_lines": 1
+},
+"Parabacteroides": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacteroidia",
+"order": "Bacteroidales",
+"genus": "Parabacteroides",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_005641738.1"
+],
+"n_hit_lines": 1
+},
+"Aminobacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Synergistia",
+"order": "Synergistales",
+"genus": "Aminobacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_013048634.1"
+],
+"n_hit_lines": 434
+},
+"Saccharibacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Saccharibacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_141445996.1"
+],
+"n_hit_lines": 3
+},
+"Xanthomendoza cf. fulva": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Lecanoromycetes",
+"order": "Teloschistales",
+"genus": "Gallowayella",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"KAI4229113.1",
+"KAI4249621.1",
+"KAI4240824.1",
+"KAI4245090.1",
+"KAI4245091.1"
+],
+"n_hit_lines": 35
+},
+"Phormidium sp. LEGE 05292": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cyanophyceae",
+"order": "Aerosakkonematales",
+"genus": "Floridanema",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_193981486.1"
+],
+"n_hit_lines": 2
+},
+"Halopseudomonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Pseudomonadales",
+"genus": "Halopseudomonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_088273866.1"
+],
+"n_hit_lines": 1
+},
+"Aquincola": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Aquincola",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_157039692.1"
+],
+"n_hit_lines": 2
+},
+"Verrucomicrobiae bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Verrucomicrobiae",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"HTA50094.1",
+"HTA50118.1",
+"HUA13753.1",
+"HTZ48507.1",
+"HTM09806.1"
+],
+"n_hit_lines": 169
+},
+"Acidiphilium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Acetobacterales",
+"genus": "Acidiphilium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_029313463.1",
+"WP_286704376.1"
+],
+"n_hit_lines": 2
+},
+"Enterocloster": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Lachnospirales",
+"genus": "Enterocloster",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_021895413.1",
+"WP_002568421.1",
+"WP_092360947.1",
+"WP_319638717.1",
+"WP_227898678.1"
+],
+"n_hit_lines": 5
+},
+"NAD": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Sordariomycetes",
+"order": "Hypocreales",
+"genus": "Trichoderma",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"KAF3073110.1",
+"KAF3065519.1"
+],
+"n_hit_lines": 18
+},
+"Pseudalkalibacillus hwajinpoensis": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Guptibacillus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_224885080.1",
+"WP_136948725.1",
+"WP_160920289.1",
+"WP_194220420.1",
+"WP_226660004.1"
+],
+"n_hit_lines": 11
+},
+"Selenomonas ruminantium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Negativicutes",
+"order": "Selenomonadales",
+"genus": "Pseudoselenomonas",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_051180065.1"
+],
+"n_hit_lines": 6
+},
+"Histoplasma ohiense (nom. inval.)": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Eurotiomycetes",
+"order": "Onygenales",
+"genus": "Histoplasma",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"KAG5289907.1",
+"KAG5289632.1",
+"KAG5292069.1",
+"KAG5288364.1",
+"KAG5301034.1"
+],
+"n_hit_lines": 13
+},
+"Maribacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Flavobacteriia",
+"order": "Flavobacteriales",
+"genus": "Maribacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_071340636.1",
+"WP_027065713.1",
+"WP_272636009.1"
+],
+"n_hit_lines": 3
+},
+"Candidatus Moanabacter tarae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Opitutia",
+"order": "Puniceicoccales",
+"genus": "Candidatus Moanibacter",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"AWT60430.1"
+],
+"n_hit_lines": 7
+},
+"Candidatus Marinimicrobia bacterium CG_4_10_14_0_2_um_filter_48_9": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"PIZ69593.1"
+],
+"n_hit_lines": 5
+},
+"Candidatus Methanodesulfokores washburnensis": {
+"old": {
+"kingdom": "Archaea",
+"cls": "Candidatus Korarchaeia",
+"order": "",
+"genus": "Candidatus Methanodesulfokora",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"RZN62657.1"
+],
+"n_hit_lines": 1
+},
+"Afipia": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Afipia",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_009341136.1",
+"WP_006021273.1"
+],
+"n_hit_lines": 5
+},
+"Hungatella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Lachnospirales",
+"genus": "Hungatella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_243010377.1",
+"WP_055650057.1"
+],
+"n_hit_lines": 2
+},
+"Halostella": {
+"old": {
+"kingdom": "Archaea",
+"cls": "Halobacteria",
+"order": "Halobacteriales",
+"genus": "Halostella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_121819600.1"
+],
+"n_hit_lines": 3
+},
+"Aeribacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Aeribacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_094246194.1",
+"WP_066247605.1"
+],
+"n_hit_lines": 8
+},
+"Tibeticola": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Tibeticola",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_124219649.1"
+],
+"n_hit_lines": 1
+},
+"Candidatus Acidoferrum sp.": {
+"old": {
+"kingdom": "NA",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "unresolved"
+},
+"reason": "level=unresolved",
+"accessions": [
+"HME13403.1",
+"HUC28114.1",
+"HTU34234.1",
+"HXM67647.1",
+"HKM83641.1"
+],
+"n_hit_lines": 189
+},
+"Variovorax": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Variovorax",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_307512485.1",
+"WP_153284137.1",
+"WP_307512187.1",
+"WP_237678297.1",
+"WP_192323476.1"
+],
+"n_hit_lines": 5
+},
+"Salmonella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Enterobacterales",
+"genus": "Salmonella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_126523934.1"
+],
+"n_hit_lines": 1
+},
+"Halomonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Oceanospirillales",
+"genus": "Halomonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_027957704.1",
+"WP_046078029.1",
+"WP_197450682.1",
+"WP_010628236.1",
+"WP_159551599.1"
+],
+"n_hit_lines": 46
+},
+"NADPH": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Leotiomycetes",
+"order": "Helotiales",
+"genus": "Lachnellula",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"TVY47497.1"
+],
+"n_hit_lines": 6
+},
+"Psychrilyobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Fusobacteriia",
+"order": "Fusobacteriales",
+"genus": "Psychrilyobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_114643575.1",
+"WP_114643300.1",
+"WP_114642364.1"
+],
+"n_hit_lines": 301
+},
+"Anaerostipes": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Lachnospirales",
+"genus": "Anaerostipes",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_009290152.1"
+],
+"n_hit_lines": 1
+},
+"Comamonadaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Comamonadaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_255416935.1"
+],
+"n_hit_lines": 1
+},
+"Stigmatella erecta": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Myxococcia",
+"order": "Myxococcales",
+"genus": "Allostigmatella",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"SET98029.1",
+"WP_245767457.1"
+],
+"n_hit_lines": 2
+},
+"Paenibacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Paenibacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_213429581.1",
+"WP_160042702.1",
+"WP_036681827.1",
+"WP_064639917.1",
+"WP_024629378.1"
+],
+"n_hit_lines": 309
+},
+"Enterobacteriaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Enterobacterales",
+"genus": "Enterobacteriaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_096489899.1",
+"WP_023336668.1",
+"WP_053266390.1",
+"WP_265217586.1",
+"WP_004115474.1"
+],
+"n_hit_lines": 7
+},
+"Geobacteraceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Desulfuromonadia",
+"order": "Geobacterales",
+"genus": "Geobacteraceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_185244103.1"
+],
+"n_hit_lines": 1
+},
+"Fredinandcohnia sp. SECRCQ15": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Ferdinandcohnia",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_240256532.1",
+"WP_240252775.1",
+"WP_240253166.1"
+],
+"n_hit_lines": 10
+},
+"Thomasclavelia": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Erysipelotrichia",
+"order": "Erysipelotrichales",
+"genus": "Thomasclavelia",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_009269120.1",
+"WP_003536418.1"
+],
+"n_hit_lines": 2
+},
+"Stachybotrys chlorohalonata IBT 40285": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Sordariomycetes",
+"order": "Hypocreales",
+"genus": "Stachybotrys",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"KFA62884.1",
+"KFA64927.1",
+"KFA68344.1",
+"KFA69435.1",
+"KFA62989.1"
+],
+"n_hit_lines": 84
+},
+"Pantoea": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Enterobacterales",
+"genus": "Pantoea",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_084873978.1"
+],
+"n_hit_lines": 28
+},
+"Acinetobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Moraxellales",
+"genus": "Acinetobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_270906309.1",
+"WP_017402693.1",
+"WP_004790922.1",
+"WP_199113054.1",
+"WP_077169526.1"
+],
+"n_hit_lines": 23
+},
+"Halomonas pantelleriensis": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Oceanospirillales",
+"genus": "Franzmannia",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_089658155.1"
+],
+"n_hit_lines": 5
+},
+"Lysinibacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Lysinibacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_058843388.1",
+"WP_025114471.1",
+"WP_036119562.1",
+"WP_012295632.1",
+"WP_068983981.1"
+],
+"n_hit_lines": 83
+},
+"Frigoribacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Micrococcales",
+"genus": "Frigoribacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_167258063.1",
+"WP_192060644.1"
+],
+"n_hit_lines": 2
+},
+"Lysinibacillus yapensis": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Ureibacillus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_118877347.1",
+"WP_118877305.1",
+"WP_118875515.1",
+"WP_118877463.1"
+],
+"n_hit_lines": 7
+},
+"Methylorubrum": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Methylorubrum",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_183669714.1"
+],
+"n_hit_lines": 1
+},
+"Bosea sp. 685": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_311913122.1",
+"WP_311912790.1",
+"WP_311911966.1",
+"WP_311914745.1",
+"WP_311914961.1"
+],
+"n_hit_lines": 15
+},
+"Candidatus Saccharicenans subterraneum": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Candidatus Aminicenantia",
+"order": "Candidatus Aminicenantales",
+"genus": "Candidatus Saccharicenans",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"RFT15982.1"
+],
+"n_hit_lines": 19
+},
+"Candidatus Tectomicrobia bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"MBI3091984.1",
+"MBI1724945.1",
+"MBI2875666.1",
+"MBI4251501.1",
+"MBI2178336.1"
+],
+"n_hit_lines": 19
+},
+"Gracilibacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Gracilibacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_066192940.1"
+],
+"n_hit_lines": 1
+},
+"Bosea sp. Root483D1": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_057193130.1",
+"WP_057189560.1",
+"WP_057188311.1"
+],
+"n_hit_lines": 3
+},
+"Achromobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Achromobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_188589706.1",
+"WP_174717203.1",
+"WP_175127565.1",
+"WP_291387443.1",
+"WP_059378673.1"
+],
+"n_hit_lines": 67
+},
+"NAD(+)": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Dothideomycetes",
+"order": "Mycosphaerellales",
+"genus": "Pseudocercospora",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"KAF7186350.1",
+"POR35618.1",
+"KND89015.1",
+"OMP84058.1",
+"XP_047762066.1"
+],
+"n_hit_lines": 96
+},
+"Aeromonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Aeromonadales",
+"genus": "Aeromonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_049637344.1",
+"WP_049637354.1"
+],
+"n_hit_lines": 9
+},
+"Polynucleobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Polynucleobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_215303351.1",
+"WP_088528121.1",
+"WP_068949189.1"
+],
+"n_hit_lines": 4
+},
+"Pectobacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Enterobacterales",
+"genus": "Pectobacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_205946592.1",
+"WP_181828664.1",
+"WP_205559308.1",
+"WP_014915589.1",
+"WP_119872252.1"
+],
+"n_hit_lines": 10
+},
+"Vibrio": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Vibrionales",
+"genus": "Vibrio",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_256950366.1",
+"WP_109168689.1",
+"WP_053396269.1",
+"WP_161672373.1",
+"WP_074191911.1"
+],
+"n_hit_lines": 340
+},
+"Azospirillum": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rhodospirillales",
+"genus": "Azospirillum",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_014239241.1",
+"WP_149234081.1",
+"WP_035671081.1",
+"WP_149231201.1",
+"WP_149198831.1"
+],
+"n_hit_lines": 13
+},
+"archaeon": {
+"old": {
+"kingdom": "Archaea",
+"cls": "",
+"order": "",
+"genus": "archaeon",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"MBT3323945.1",
+"MQY82079.1",
+"MDP2436452.1",
+"TSA50143.1",
+"HYB84898.1"
+],
+"n_hit_lines": 146
+},
+"Photorhabdus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Enterobacterales",
+"genus": "Photorhabdus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_109791554.1"
+],
+"n_hit_lines": 1
+},
+"Pirellulaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Planctomycetia",
+"order": "Pirellulales",
+"genus": "Pirellulaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_105354542.1",
+"WP_105327854.1",
+"WP_105327848.1"
+],
+"n_hit_lines": 3
+},
+"Thermosipho": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Thermotogae",
+"order": "Thermotogales",
+"genus": "Thermosipho",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_075665173.1"
+],
+"n_hit_lines": 1
+},
+"Planomonospora sphaerica": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Streptosporangiales",
+"genus": "Planomonospora",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_068904286.1"
+],
+"n_hit_lines": 1
+},
+"Corallococcus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Myxococcia",
+"order": "Myxococcales",
+"genus": "Corallococcus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_120582642.1",
+"WP_121753171.1",
+"WP_120574463.1",
+"WP_121761724.1",
+"WP_120531049.1"
+],
+"n_hit_lines": 26
+},
+"Candidatus Electrothrix sp. ATG2": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Desulfobulbia",
+"order": "Desulfobulbales",
+"genus": "Candidatus Electrothrix",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"MCI5210625.1",
+"MCI5212269.1"
+],
+"n_hit_lines": 3
+},
+"Caballeronia": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Caballeronia",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_244796680.1"
+],
+"n_hit_lines": 1
+},
+"Microbacterium sp. ET2 (Ac-2212)": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Micrococcales",
+"genus": "Microbacterium",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_289262196.1"
+],
+"n_hit_lines": 3
+},
+"Stenotrophomonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Lysobacterales",
+"genus": "Stenotrophomonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_055765476.1",
+"WP_164242746.1",
+"WP_032958121.1",
+"WP_032976140.1",
+"WP_089240574.1"
+],
+"n_hit_lines": 19
+},
+"Granulicatella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Lactobacillales",
+"genus": "Granulicatella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_070445365.1",
+"WP_049555451.1"
+],
+"n_hit_lines": 2
+},
+"Sphingobacterium composti Ten et al. 2007 non Yoo et al. 2007": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Sphingobacteriia",
+"order": "Sphingobacteriales",
+"genus": "Sphingobacterium",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_159636864.1"
+],
+"n_hit_lines": 7
+},
+"Alteromonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Alteromonadales",
+"genus": "Alteromonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_082604845.1"
+],
+"n_hit_lines": 2
+},
+"Ligilactobacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Lactobacillales",
+"genus": "Ligilactobacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_004564308.1",
+"WP_004563822.1"
+],
+"n_hit_lines": 2
+},
+"Leeuwenhoekiella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Flavobacteriia",
+"order": "Flavobacteriales",
+"genus": "Leeuwenhoekiella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_009778442.1"
+],
+"n_hit_lines": 1
+},
+"Bosea sp. AS-1": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_248308021.1",
+"WP_089175095.1",
+"WP_089173721.1"
+],
+"n_hit_lines": 8
+},
+"Alkalihalobacillus hemicentroti": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Guptibacillus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_301551602.1",
+"WP_301553019.1",
+"WP_301552050.1"
+],
+"n_hit_lines": 6
+},
+"Thalassospira": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rhodospirillales",
+"genus": "Thalassospira",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_101245294.1",
+"WP_062956772.1",
+"WP_071240888.1"
+],
+"n_hit_lines": 3
+},
+"Filomicrobium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Filomicrobium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_046477263.1"
+],
+"n_hit_lines": 1
+},
+"Novosphingobium mangrovi (ex Huang et al. 2023)": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Sphingomonadales",
+"genus": "Novosphingobium",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_260044302.1"
+],
+"n_hit_lines": 1
+},
+"Aerococcus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Lactobacillales",
+"genus": "Aerococcus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_269465318.1"
+],
+"n_hit_lines": 1
+},
+"Bosea sp. OK403": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_092168382.1",
+"WP_092166269.1"
+],
+"n_hit_lines": 11
+},
+"Achromobacter aestuarii": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Schauerella",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_161136356.1",
+"WP_161137479.1"
+],
+"n_hit_lines": 9
+},
+"Halomonas qiaohouensis": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Oceanospirillales",
+"genus": "Franzmannia",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_309722123.1"
+],
+"n_hit_lines": 5
+},
+"Bosea sp. BE125": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_310146946.1",
+"WP_310156212.1",
+"WP_310155122.1",
+"WP_310149850.1"
+],
+"n_hit_lines": 13
+},
+"Pelotomaculum": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Eubacteriales",
+"genus": "Pelotomaculum",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_134216903.1"
+],
+"n_hit_lines": 4
+},
+"Actinomadura": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Streptosporangiales",
+"genus": "Actinomadura",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_026405055.1"
+],
+"n_hit_lines": 1
+},
+"Bacteroidales": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacteroidia",
+"order": "Bacteroidales",
+"genus": "Bacteroidales",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_117700296.1",
+"WP_119216596.1",
+"WP_121698198.1"
+],
+"n_hit_lines": 3
+},
+"Bacillaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Bacillaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_056833004.1",
+"WP_098369968.1",
+"WP_243505267.1",
+"WP_048008353.1",
+"WP_048681093.1"
+],
+"n_hit_lines": 109
+},
+"Rhodobacterales": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rhodobacterales",
+"genus": "Rhodobacterales",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_113777823.1"
+],
+"n_hit_lines": 5
+},
+"Leucoraja erinacea": {
+"old": {
+"kingdom": "Metazoa",
+"cls": "Chondrichthyes",
+"order": "Rajiformes",
+"genus": "Leucoraja",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"XP_055520883.1",
+"XP_055488279.1",
+"XP_055497235.1",
+"XP_055497242.1"
+],
+"n_hit_lines": 6
+},
+"Macrococcus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Macrococcus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_219492432.1",
+"WP_101140303.1"
+],
+"n_hit_lines": 2
+},
+"Nosocomiicoccus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Nosocomiicoccus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_068128341.1",
+"WP_068128293.1",
+"WP_102167339.1"
+],
+"n_hit_lines": 3
+},
+"Caloramator": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Eubacteriales",
+"genus": "Caloramator",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_008909847.1"
+],
+"n_hit_lines": 1
+},
+"Chthonomonadetes bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Chthonomonadetes",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"NSW77791.1",
+"NSW78561.1"
+],
+"n_hit_lines": 86
+},
+"Pseudomonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Pseudomonadales",
+"genus": "Pseudomonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_010798641.1",
+"WP_125889183.1",
+"WP_131175826.1",
+"WP_131181410.1",
+"WP_105754975.1"
+],
+"n_hit_lines": 85
+},
+"fungal sp. No.11243": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Dothideomycetes",
+"order": "",
+"genus": "fungal",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"GAM88822.1",
+"GAM83396.1",
+"GAM84152.1",
+"GAM82907.1",
+"GAM90146.1"
+],
+"n_hit_lines": 36
+},
+"Candidatus Carbobacillus altaicus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Thermicanales",
+"genus": "Candidatus Carbonibacillus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"MBE3593553.1",
+"PTQ55426.1"
+],
+"n_hit_lines": 4
+},
+"Brasilonema": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cyanophyceae",
+"order": "Nostocales",
+"genus": "Brasilonema",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_169265921.1"
+],
+"n_hit_lines": 1
+},
+"Tellurirhabdus bombi": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cytophagia",
+"order": "Cytophagales",
+"genus": "Larkinella",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_234736966.1"
+],
+"n_hit_lines": 5
+},
+"Candidatus Aerophobetes bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"MCD6574880.1",
+"RLE08814.1",
+"MEA1963912.1",
+"MBE0477881.1"
+],
+"n_hit_lines": 7
+},
+"Oscillospiraceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Eubacteriales",
+"genus": "Oscillospiraceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_216400776.1",
+"WP_079698606.1",
+"WP_079699158.1"
+],
+"n_hit_lines": 4
+},
+"Marivita": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rhodobacterales",
+"genus": "Marivita",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_085627999.1"
+],
+"n_hit_lines": 6
+},
+"Proteiniphilum": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacteroidia",
+"order": "Bacteroidales",
+"genus": "Proteiniphilum",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_076932071.1"
+],
+"n_hit_lines": 1
+},
+"Phaeobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rhodobacterales",
+"genus": "Phaeobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_014875131.1"
+],
+"n_hit_lines": 1
+},
+"Ophiocordyceps camponoti-leonardi (nom. inval.)": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Sordariomycetes",
+"order": "Hypocreales",
+"genus": "Ophiocordyceps",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"RDA88419.1",
+"RDA88603.1",
+"RDA85148.1",
+"RDA82752.1",
+"RDA86160.1"
+],
+"n_hit_lines": 425
+},
+"Oscillatoria nigro-viridis": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cyanophyceae",
+"order": "Oscillatoriales",
+"genus": "Phormidium",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_015177625.1"
+],
+"n_hit_lines": 3
+},
+"Zongyanglinia marina": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rhodobacterales",
+"genus": "Parasedimentitalea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_138163564.1",
+"WP_158979941.1",
+"WP_138164077.1",
+"WP_158977117.1"
+],
+"n_hit_lines": 8
+},
+"Anaerococcus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Tissierellia",
+"order": "Tissierellales",
+"genus": "Anaerococcus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_115595574.1",
+"WP_101539445.1"
+],
+"n_hit_lines": 2
+},
+"Micrococcaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Micrococcales",
+"genus": "Micrococcaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_142936868.1",
+"WP_231341067.1",
+"WP_026547479.1",
+"WP_091552710.1"
+],
+"n_hit_lines": 5
+},
+"Aquimarina": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Flavobacteriia",
+"order": "Flavobacteriales",
+"genus": "Aquimarina",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_109436123.1",
+"WP_025665311.1"
+],
+"n_hit_lines": 2
+},
+"Terribacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Terribacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_038561234.1",
+"WP_095217745.1"
+],
+"n_hit_lines": 8
+},
+"Novosphingobium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Sphingomonadales",
+"genus": "Novosphingobium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_211151761.1",
+"WP_109796749.1",
+"WP_069707626.1",
+"WP_039336777.1",
+"WP_201739883.1"
+],
+"n_hit_lines": 5
+},
+"Lysinibacillus sp. JNUCC-51": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Lysinibacillus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"QPQ29643.1"
+],
+"n_hit_lines": 6
+},
+"Cohnella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Cohnella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_019004529.1",
+"WP_080838325.1",
+"WP_116058863.1"
+],
+"n_hit_lines": 12
+},
+"Leucobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Micrococcales",
+"genus": "Leucobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_017884220.1",
+"WP_090152394.1"
+],
+"n_hit_lines": 2
+},
+"Rhizobium sp. SSA_523": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Affinirhizobium",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_301557783.1",
+"WP_252752374.1"
+],
+"n_hit_lines": 2
+},
+"Cryptococcus neoformans var. neoformans B-3501A": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Tremellomycetes",
+"order": "Tremellales",
+"genus": "Cryptococcus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"XP_774405.1",
+"XP_777160.1",
+"XP_774323.1",
+"XP_777357.1"
+],
+"n_hit_lines": 41
+},
+"Planococcus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Planococcus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_058385733.1",
+"WP_071153975.1",
+"WP_036801671.1",
+"WP_058385695.1",
+"WP_078080138.1"
+],
+"n_hit_lines": 9
+},
+"Brevundimonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Caulobacterales",
+"genus": "Brevundimonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_249749979.1"
+],
+"n_hit_lines": 1
+},
+"Candidatus Methanofastidiosa archaeon": {
+"old": {
+"kingdom": "Archaea",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"NMA31151.1"
+],
+"n_hit_lines": 1
+},
+"Candidatus Methylacidiphilales bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Methylacidiphilae",
+"order": "Methylacidiphilales",
+"genus": "Candidatus",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"NJL07225.1",
+"NJL62725.1",
+"HUB66695.1",
+"MCE0497300.1",
+"HEX4140891.1"
+],
+"n_hit_lines": 10
+},
+"Ramlibacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Ramlibacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_157400778.1"
+],
+"n_hit_lines": 1
+},
+"Bacillales": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Bacillales",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_234128183.1",
+"WP_172143040.1",
+"WP_230077883.1",
+"WP_016739814.1",
+"WP_003230224.1"
+],
+"n_hit_lines": 29
+},
+"Rossellomorea": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Rossellomorea",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_148993890.1"
+],
+"n_hit_lines": 3
+},
+"Arsenicicoccus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Micrococcales",
+"genus": "Arsenicicoccus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_286961776.1"
+],
+"n_hit_lines": 6
+},
+"Boseaceae bacterium BT-24-1": {
+"old": {
+"kingdom": "NA",
+"cls": "",
+"order": "",
+"genus": "Boseaceae",
+"level": "unresolved"
+},
+"reason": "level=unresolved",
+"accessions": [
+"MCV9939850.1"
+],
+"n_hit_lines": 2
+},
+"Anaerotruncus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Eubacteriales",
+"genus": "Anaerotruncus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_160201143.1"
+],
+"n_hit_lines": 79
+},
+"Natronococcus sp. AD5": {
+"old": {
+"kingdom": "Archaea",
+"cls": "Halobacteria",
+"order": "Halobacteriales",
+"genus": "Natronococcus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_306052067.1"
+],
+"n_hit_lines": 1
+},
+"Komagataeibacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Acetobacterales",
+"genus": "Komagataeibacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_025811950.1"
+],
+"n_hit_lines": 4
+},
+"Candidatus Prometheoarchaeum syntrophicum": {
+"old": {
+"kingdom": "Archaea",
+"cls": "Promethearchaeia",
+"order": "Promethearchaeales",
+"genus": "Promethearchaeum",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_147661544.1"
+],
+"n_hit_lines": 1
+},
+"Pseudooceanicola": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rhodobacterales",
+"genus": "Pseudooceanicola",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_160896013.1",
+"WP_160896626.1",
+"WP_202397978.1"
+],
+"n_hit_lines": 13
+},
+"Salinibacterium metalliresistens": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Micrococcales",
+"genus": "Antiquaquibacter",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_275759436.1"
+],
+"n_hit_lines": 1
+},
+"Candidatus Muirbacterium halophilum": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Muiribacteriia (SeqCode)",
+"order": "",
+"genus": "Muiribacterium (SeqCode)",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"PLX19555.1"
+],
+"n_hit_lines": 1
+},
+"candidate division bacterium WOR-3 4484_18": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "candidate",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"OYV03602.1"
+],
+"n_hit_lines": 3
+},
+"Moorella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Neomoorellales",
+"genus": "Neomoorella",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_244266947.1"
+],
+"n_hit_lines": 1
+},
+"Legionella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Legionellales",
+"genus": "Legionella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_126953959.1",
+"WP_058510382.1"
+],
+"n_hit_lines": 3
+},
+"Jeotgalicoccus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Jeotgalicoccus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_026866412.1"
+],
+"n_hit_lines": 1
+},
+"Nitrobacteraceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Nitrobacteraceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_092146865.1"
+],
+"n_hit_lines": 1
+},
+"Mumia": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Propionibacteriales",
+"genus": "Mumia",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_149767480.1"
+],
+"n_hit_lines": 6
+},
+"Bradyrhizobium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Bradyrhizobium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_028342735.1",
+"WP_309500972.1",
+"WP_012045228.1",
+"WP_074827462.1",
+"WP_024580877.1"
+],
+"n_hit_lines": 7
+},
+"Collinsella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Coriobacteriia",
+"order": "Coriobacteriales",
+"genus": "Collinsella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_117563726.1",
+"WP_117629022.1",
+"WP_117640663.1",
+"WP_286683991.1",
+"WP_147349540.1"
+],
+"n_hit_lines": 7
+},
+"Laceyella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Laceyella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_102993787.1"
+],
+"n_hit_lines": 1
+},
+"Candidatus Methanofastidiosum methylthiophilus": {
+"old": {
+"kingdom": "Archaea",
+"cls": "Candidatus Methanofastidiosia",
+"order": "Candidatus Methanofastidiosales",
+"genus": "Candidatus Methanofastidiosum",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"KYC45837.1"
+],
+"n_hit_lines": 1
+},
+"Nocardiopsis": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Streptosporangiales",
+"genus": "Nocardiopsis",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_220561598.1"
+],
+"n_hit_lines": 1
+},
+"Halomonas maris": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Oceanospirillales",
+"genus": "Vreelandella",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_176302646.1"
+],
+"n_hit_lines": 1
+},
+"Paracoccus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rhodobacterales",
+"genus": "Paracoccus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_208021329.1",
+"WP_243784341.1"
+],
+"n_hit_lines": 4
+},
+"Actinomycetes": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "",
+"genus": "Actinomycetes",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_009078768.1",
+"WP_124438444.1"
+],
+"n_hit_lines": 2
+},
+"Sphingobium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Sphingomonadales",
+"genus": "Sphingobium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_004212491.1",
+"WP_048936524.1",
+"WP_174320760.1",
+"WP_170978337.1",
+"WP_120253178.1"
+],
+"n_hit_lines": 6
+},
+"Chryseobacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Flavobacteriia",
+"order": "Flavobacteriales",
+"genus": "Chryseobacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_204536900.1"
+],
+"n_hit_lines": 1
+},
+"Kazachstania exigua": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Saccharomycetes",
+"order": "Saccharomycetales",
+"genus": "Maudiozyma",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"KAG0671562.1",
+"KAG0672655.1",
+"KAG0670361.1",
+"KAG0670980.1",
+"KAG0671563.1"
+],
+"n_hit_lines": 29
+},
+"Lentilactobacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Lactobacillales",
+"genus": "Lentilactobacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_013726913.1"
+],
+"n_hit_lines": 10
+},
+"Corynebacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Mycobacteriales",
+"genus": "Corynebacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_066488146.1"
+],
+"n_hit_lines": 1
+},
+"Rhizobium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Rhizobium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_064708209.1",
+"WP_064824627.1",
+"WP_243258184.1",
+"WP_064696345.1",
+"WP_029733126.1"
+],
+"n_hit_lines": 1662
+},
+"Bacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Bacillus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_025811354.1",
+"WP_009791983.1",
+"WP_003181235.1",
+"WP_105978966.1",
+"WP_095290355.1"
+],
+"n_hit_lines": 565
+},
+"Candidatus Saccharibacteria bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"MBR0431688.1"
+],
+"n_hit_lines": 1
+},
+"Bosea sp. CS1GBMeth4": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_186420994.1",
+"WP_186421263.1"
+],
+"n_hit_lines": 2
+},
+"Staphylococcus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Staphylococcus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_046466801.1",
+"WP_017638227.1",
+"WP_000161674.1",
+"WP_029055667.1",
+"WP_000161656.1"
+],
+"n_hit_lines": 257
+},
+"Bacillota": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Bacillota",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_048540286.1",
+"WP_117454656.1"
+],
+"n_hit_lines": 2
+},
+"Cryptococcus neoformans var. grubii H99": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Tremellomycetes",
+"order": "Tremellales",
+"genus": "Cryptococcus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"XP_012051299.1",
+"XP_012047387.1",
+"XP_012051241.1",
+"XP_012047278.1"
+],
+"n_hit_lines": 39
+},
+"Spiroplasma": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Mollicutes",
+"order": "Entomoplasmatales",
+"genus": "Spiroplasma",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_198049335.1",
+"WP_025317318.1",
+"WP_025317421.1",
+"WP_198049456.1"
+],
+"n_hit_lines": 14
+},
+"Halomonas desiderata": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Oceanospirillales",
+"genus": "Billgrantia",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_234244563.1",
+"WP_234277283.1",
+"WP_234249943.1",
+"WP_086511985.1",
+"WP_103969597.1"
+],
+"n_hit_lines": 30
+},
+"Cytobacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Cytobacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_243856127.1",
+"WP_019382237.1",
+"WP_113882603.1",
+"WP_217032680.1",
+"WP_322910197.1"
+],
+"n_hit_lines": 34
+},
+"Kurthia": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Kurthia",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_068451911.1",
+"WP_068452666.1"
+],
+"n_hit_lines": 2
+},
+"Amycolatopsis sp., V23-08": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Pseudonocardiales",
+"genus": "Amycolatopsis",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_323328286.1"
+],
+"n_hit_lines": 6
+},
+"Streptomyces indiaensis": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Kitasatosporales",
+"genus": "Streptomyces",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_234846434.1"
+],
+"n_hit_lines": 1
+},
+"Rhodopseudomonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Rhodopseudomonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_044408624.1",
+"WP_044408295.1"
+],
+"n_hit_lines": 4
+},
+"Cryptococcus neoformans var. grubii A5-35-17": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Tremellomycetes",
+"order": "Tremellales",
+"genus": "Cryptococcus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"OXG95916.1"
+],
+"n_hit_lines": 1
+},
+"Mediterraneibacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Lachnospirales",
+"genus": "Mediterraneibacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_117542426.1",
+"WP_015528588.1",
+"WP_117889869.1"
+],
+"n_hit_lines": 3
+},
+"Terrisporobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Peptostreptococcales",
+"genus": "Terrisporobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_206925633.1",
+"WP_039681243.1",
+"WP_039681242.1"
+],
+"n_hit_lines": 5
+},
+"Bacillus sinesaloumensis": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Litchfieldia",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_077618758.1",
+"WP_077618462.1"
+],
+"n_hit_lines": 6
+},
+"Kitasatospora": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Kitasatosporales",
+"genus": "Kitasatospora",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_014140113.1"
+],
+"n_hit_lines": 88
+},
+"Kribbella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Propionibacteriales",
+"genus": "Kribbella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_132192301.1",
+"WP_132195760.1"
+],
+"n_hit_lines": 6
+},
+"Planomicrobium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Planomicrobium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_101801223.1"
+],
+"n_hit_lines": 1
+},
+"Mesoplasma": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Mollicutes",
+"order": "Entomoplasmatales",
+"genus": "Mesoplasma",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_029512241.1"
+],
+"n_hit_lines": 3
+},
+"Rhodobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rhodobacterales",
+"genus": "Rhodobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_076483695.1"
+],
+"n_hit_lines": 2
+},
+"Bilophila": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Desulfovibrionia",
+"order": "Desulfovibrionales",
+"genus": "Bilophila",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_009368516.1"
+],
+"n_hit_lines": 248
+},
+"Tupaia chinensis": {
+"old": {
+"kingdom": "Metazoa",
+"cls": "Mammalia",
+"order": "Scandentia",
+"genus": "Tupaia",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"XP_006141296.1",
+"XP_006157584.1",
+"XP_006158835.1",
+"XP_014444691.1"
+],
+"n_hit_lines": 5
+},
+"Salimicrobium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Salimicrobium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_008589342.1",
+"WP_158221315.1",
+"WP_076571200.1"
+],
+"n_hit_lines": 9
+},
+"Tepidiforma": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Tepidiformia",
+"order": "Tepidiformales",
+"genus": "Tepidiforma",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_192497831.1"
+],
+"n_hit_lines": 2
+},
+"Candidatus Kapabacteria bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"HET6510598.1",
+"HET6511835.1",
+"HYM20493.1",
+"HZV13351.1",
+"HET9136845.1"
+],
+"n_hit_lines": 35
+},
+"Microbispora": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Streptosporangiales",
+"genus": "Microbispora",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_142645003.1",
+"WP_138462037.1"
+],
+"n_hit_lines": 5
+},
+"Gammaproteobacteria": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "",
+"genus": "Gammaproteobacteria",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_023302365.1",
+"WP_233454300.1",
+"WP_135711076.1",
+"WP_088512803.1"
+],
+"n_hit_lines": 4
+},
+"Skermanella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rhodospirillales",
+"genus": "Skermanella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_201078417.1"
+],
+"n_hit_lines": 2
+},
+"Paenibacillus sp. JNUCC-32": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Paenibacillus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_192570731.1"
+],
+"n_hit_lines": 1
+},
+"Tetrapisispora blattae CBS 6284": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Saccharomycetes",
+"order": "Saccharomycetales",
+"genus": "Henningerozyma",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"XP_004180127.1",
+"XP_004178736.1",
+"XP_004180126.1"
+],
+"n_hit_lines": 8
+},
+"Gluconobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Acetobacterales",
+"genus": "Gluconobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_194264383.1",
+"WP_064275322.1"
+],
+"n_hit_lines": 3
+},
+"Pseudalkalibacillus caeni": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Exobacillus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_138129672.1",
+"WP_171016679.1",
+"TLS38400.1"
+],
+"n_hit_lines": 7
+},
+"Candidatus Lumbricidophila sp.": {
+"old": {
+"kingdom": "NA",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "unresolved"
+},
+"reason": "level=unresolved",
+"accessions": [
+"HEU5222142.1"
+],
+"n_hit_lines": 2
+},
+"Cryptococcus neoformans var. grubii A1-35-8": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Tremellomycetes",
+"order": "Tremellales",
+"genus": "Cryptococcus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"OXG99762.1"
+],
+"n_hit_lines": 1
+},
+"Sporosarcina": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Sporosarcina",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_099624683.1",
+"WP_085131219.1",
+"WP_040759233.1",
+"WP_153721421.1",
+"WP_085426494.1"
+],
+"n_hit_lines": 7
+},
+"Limnohabitans": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Limnohabitans",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_108360113.1"
+],
+"n_hit_lines": 1
+},
+"Candidatus Njordarchaeum guaymaensis": {
+"old": {
+"kingdom": "NA",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "unresolved"
+},
+"reason": "level=unresolved",
+"accessions": [
+"MDO8133874.1"
+],
+"n_hit_lines": 1
+},
+"unclassified Bosea (in: a-proteobacteria)": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_291663582.1",
+"WP_126110632.1",
+"WP_152013748.1",
+"WP_126114723.1",
+"WP_291663320.1"
+],
+"n_hit_lines": 7
+},
+"Massilimicrobiota": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Erysipelotrichia",
+"order": "Erysipelotrichales",
+"genus": "Massiliimicrobium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_204209610.1"
+],
+"n_hit_lines": 1
+},
+"Acetobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Acetobacterales",
+"genus": "Acetobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_086898440.1",
+"WP_064775998.1",
+"WP_035352002.1",
+"WP_089179191.1"
+],
+"n_hit_lines": 15
+},
+"Methylobacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Methylobacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_076729830.1",
+"WP_012318522.1",
+"WP_053622101.1",
+"WP_238290505.1",
+"WP_020095527.1"
+],
+"n_hit_lines": 11
+},
+"Aneurinibacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Aneurinibacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_057898062.1"
+],
+"n_hit_lines": 1
+},
+"Rhodomicrobium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Rhodomicrobium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_088347184.1"
+],
+"n_hit_lines": 1
+},
+"Frankia sp. CgIM4": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Frankiales",
+"genus": "Frankia",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_070131079.1"
+],
+"n_hit_lines": 1
+},
+"Sphingomonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Sphingomonadales",
+"genus": "Sphingomonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_157027874.1",
+"WP_007406090.1",
+"WP_175311717.1",
+"WP_066688741.1",
+"WP_051916430.1"
+],
+"n_hit_lines": 7
+},
+"(S)-acetoin forming": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Eurotiomycetes",
+"order": "Eurotiales",
+"genus": "Aspergillus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"GFF60338.1",
+"GFF76829.1",
+"GAQ11436.1",
+"QEH39037.1"
+],
+"n_hit_lines": 21
+},
+"Halomonas niordiana": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Oceanospirillales",
+"genus": "Onishia",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_136254147.1",
+"WP_136254314.1"
+],
+"n_hit_lines": 6
+},
+"bacterium (Candidatus Stahlbacteria) CG08_land_8_20_14_0_20_40_26": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "bacterium",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"PIS25929.1"
+],
+"n_hit_lines": 5
+},
+"Candidatus Rokubacteria bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"PYM60926.1",
+"MBI1958495.1",
+"PYM63370.1",
+"MBM3220085.1",
+"PYN95013.1"
+],
+"n_hit_lines": 286
+},
+"Candidatus Riflebacteria bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"MBI4863321.1"
+],
+"n_hit_lines": 40
+},
+"Chelativorans": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Chelativorans",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_011581720.1"
+],
+"n_hit_lines": 1
+},
+"Promineifilum sp.": {
+"old": {
+"kingdom": "NA",
+"cls": "",
+"order": "",
+"genus": "Promineifilum",
+"level": "unresolved"
+},
+"reason": "level=unresolved",
+"accessions": [
+"HMT22411.1",
+"MBK7217276.1",
+"MBP9501852.1",
+"MBP6016397.1",
+"MCO5180633.1"
+],
+"n_hit_lines": 33
+},
+"Allobacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Allobacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_144087432.1"
+],
+"n_hit_lines": 1
+},
+"Clavibacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Micrococcales",
+"genus": "Clavibacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_043588458.1"
+],
+"n_hit_lines": 1
+},
+"Lactobacillales": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Lactobacillales",
+"genus": "Lactobacillales",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_010830867.1"
+],
+"n_hit_lines": 238
+},
+"Candidatus Marinimicrobia bacterium MT.SAG.2": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"TFB09602.1"
+],
+"n_hit_lines": 51
+},
+"Bosea sp. NBC_00550": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_265051753.1",
+"WP_265055453.1"
+],
+"n_hit_lines": 2
+},
+"Bosea sp. UNC402CLCol": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_038368552.1",
+"WP_038362964.1",
+"WP_038362979.1",
+"WP_038363345.1"
+],
+"n_hit_lines": 4
+},
+"Pseudomonadota": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Pseudomonadota",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_073661981.1",
+"WP_060978510.1",
+"WP_015431529.1",
+"WP_058907032.1"
+],
+"n_hit_lines": 4
+},
+"Sphingopyxis": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Sphingomonadales",
+"genus": "Sphingopyxis",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_217372477.1"
+],
+"n_hit_lines": 1
+},
+"Aureimonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Aureimonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_192389555.1"
+],
+"n_hit_lines": 1
+},
+"Nostocaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cyanophyceae",
+"order": "Nostocales",
+"genus": "Nostocaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_010994651.1",
+"WP_011319637.1",
+"WP_011316793.1"
+],
+"n_hit_lines": 3
+},
+"Pandoraea": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Pandoraea",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_023594527.1",
+"WP_242558963.1",
+"WP_058375844.1",
+"WP_242561809.1",
+"WP_023872689.1"
+],
+"n_hit_lines": 12
+},
+"Stagonospora sp. SRC1lsM3a": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Dothideomycetes",
+"order": "Pleosporales",
+"genus": "Stagonospora",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"OAL06637.1",
+"OAK99147.1",
+"OAK97754.1",
+"OAL05962.1",
+"OAK94903.1"
+],
+"n_hit_lines": 86
+},
+"Halomonas ethanolica": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Oceanospirillales",
+"genus": "Billgrantia",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_234268540.1"
+],
+"n_hit_lines": 5
+},
+"Bosea sp. AAP35": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_054144395.1"
+],
+"n_hit_lines": 1
+},
+"Candidatus Protistobacter heckmanni": {
+"old": {
+"kingdom": "NA",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "unresolved"
+},
+"reason": "level=unresolved",
+"accessions": [
+"MCS6766875.1",
+"MCS6764381.1"
+],
+"n_hit_lines": 2
+},
+"Bacteroidaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacteroidia",
+"order": "Bacteroidales",
+"genus": "Bacteroidaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_022233503.1"
+],
+"n_hit_lines": 6
+},
+"Alisedimentitalea sp. MJ-SS2": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rhodobacterales",
+"genus": "Aliisedimentitalea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_316298160.1"
+],
+"n_hit_lines": 1
+},
+"Brachymonas sp.": {
+"old": {
+"kingdom": "NA",
+"cls": "",
+"order": "",
+"genus": "Brachymonas",
+"level": "unresolved"
+},
+"reason": "level=unresolved",
+"accessions": [
+"NJS36290.1",
+"MBP6139272.1",
+"MBP8746391.1"
+],
+"n_hit_lines": 3
+},
+"Streptococcus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Lactobacillales",
+"genus": "Streptococcus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_048789799.1",
+"WP_195326711.1",
+"WP_126404765.1",
+"WP_048691136.1",
+"WP_195611124.1"
+],
+"n_hit_lines": 21
+},
+"Cryptococcus neoformans var. neoformans JEC21": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Tremellomycetes",
+"order": "Tremellales",
+"genus": "Cryptococcus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"XP_571835.1",
+"XP_569318.2",
+"XP_571900.1",
+"XP_024512296.1"
+],
+"n_hit_lines": 41
+},
+"Lysobacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Lysobacterales",
+"genus": "Lysobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_031371922.1",
+"WP_235113576.1"
+],
+"n_hit_lines": 2
+},
+"Halolactibacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Halolactibacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_062319180.1"
+],
+"n_hit_lines": 1
+},
+"Candidatus Glassbacteria bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"MBW7996597.1"
+],
+"n_hit_lines": 40
+},
+"Thermocrispum": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Pseudonocardiales",
+"genus": "Thermocrispum",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_028846030.1"
+],
+"n_hit_lines": 2
+},
+"Pseudorhodobacter sp. 4114": {
+"old": {
+"kingdom": "NA",
+"cls": "",
+"order": "",
+"genus": "Pseudorhodobacter",
+"level": "unresolved"
+},
+"reason": "level=unresolved",
+"accessions": [
+"MDR7124743.1"
+],
+"n_hit_lines": 1
+},
+"Jonquetella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Synergistia",
+"order": "Synergistales",
+"genus": "Jonquetella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_008520041.1"
+],
+"n_hit_lines": 1
+},
+"Candidatus Marinimicrobia bacterium CG1_02_48_14": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"OIO62141.1"
+],
+"n_hit_lines": 5
+},
+"Candida parapsilosis": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Pichiomycetes",
+"order": "Serinales",
+"genus": "Lodderomyces",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"XP_036663677.1",
+"XP_036667459.1",
+"XP_036664080.1",
+"XP_036666802.1",
+"KAF6054294.1"
+],
+"n_hit_lines": 25
+},
+"Erwiniaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Enterobacterales",
+"genus": "Erwiniaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_154926764.1"
+],
+"n_hit_lines": 1
+},
+"Sphingobacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Sphingobacteriia",
+"order": "Sphingobacteriales",
+"genus": "Sphingobacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_286860674.1",
+"WP_120258362.1",
+"WP_028068469.1",
+"WP_070565627.1",
+"WP_286896009.1"
+],
+"n_hit_lines": 63
+},
+"Agrobacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Agrobacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_071208193.1",
+"WP_173992073.1",
+"WP_193559574.1",
+"WP_137409272.1",
+"WP_080855078.1"
+],
+"n_hit_lines": 913
+},
+"Dyella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Lysobacterales",
+"genus": "Dyella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_026636090.1"
+],
+"n_hit_lines": 1
+},
+"Rhizophagus diaphanus": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Glomeromycetes",
+"order": "Glomerales",
+"genus": "Rhizophagus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"RGB33251.1",
+"RGB32407.1",
+"RGB35331.1",
+"RGB30279.1",
+"RGB33806.1"
+],
+"n_hit_lines": 12
+},
+"Flavobacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Flavobacteriia",
+"order": "Flavobacteriales",
+"genus": "Flavobacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_135219904.1",
+"WP_111409092.1"
+],
+"n_hit_lines": 2
+},
+"Candidatus Pristimantibacillus lignocellulolyticus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Pristimantibacillus (SeqCode)",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"URN94271.1"
+],
+"n_hit_lines": 2
+},
+"Mameliella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Rhodobacterales",
+"genus": "Antarctobacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_088716246.1",
+"WP_043145777.1"
+],
+"n_hit_lines": 3
+},
+"Comamonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Comamonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_042413204.1"
+],
+"n_hit_lines": 1
+},
+"Thermoflexus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Thermoflexia",
+"order": "Thermoflexales",
+"genus": "Thermoflexus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_303898473.1",
+"WP_303897600.1"
+],
+"n_hit_lines": 3
+},
+"Hymenoscyphus varicosporioides": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Leotiomycetes",
+"order": "Helotiales",
+"genus": "Tricladium",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"KAH8658796.1",
+"KAH8685378.1",
+"KAH8649483.1",
+"KAH8670249.1",
+"KAH8686133.1"
+],
+"n_hit_lines": 331
+},
+"Aphanizomenonaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Cyanophyceae",
+"order": "Nostocales",
+"genus": "Aphanizomenonaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_035082661.1",
+"WP_039201927.1"
+],
+"n_hit_lines": 2
+},
+"Weeksellaceae": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Flavobacteriia",
+"order": "Flavobacteriales",
+"genus": "Weeksellaceae",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_153935242.1"
+],
+"n_hit_lines": 1
+},
+"Thermoanaerobacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Clostridia",
+"order": "Thermoanaerobacterales",
+"genus": "Thermoanaerobacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_014757825.1"
+],
+"n_hit_lines": 174
+},
+"Leotiomycetes sp. MPI-SDFR-AT-0126": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Leotiomycetes",
+"order": "Helotiales",
+"genus": "Cadophora",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"KAH7399756.1",
+"KAH7395786.1",
+"KAH7418982.1",
+"KAH7378652.1",
+"KAH7409097.1"
+],
+"n_hit_lines": 871
+},
+"Paenibacillus sp. BSR1-1": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Neobacillus",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_289987719.1",
+"WP_289985057.1",
+"WP_289987916.1",
+"WP_289988584.1",
+"WP_289987185.1"
+],
+"n_hit_lines": 14
+},
+"Actinotignum": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Actinomycetales",
+"genus": "Actinotignum",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_087070855.1",
+"WP_101594937.1"
+],
+"n_hit_lines": 2
+},
+"Candidatus Acetothermum autotrophicum": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus Acetithermum",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"BAL58647.1"
+],
+"n_hit_lines": 29
+},
+"Streptomyces": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Actinomycetes",
+"order": "Kitasatosporales",
+"genus": "Streptomyces",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_201815600.1",
+"WP_086571431.1",
+"WP_159491100.1",
+"WP_052854054.1",
+"WP_032774007.1"
+],
+"n_hit_lines": 2371
+},
+"Halomonas alkaliphila": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Gammaproteobacteria",
+"order": "Oceanospirillales",
+"genus": "Vreelandella",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_120385718.1"
+],
+"n_hit_lines": 1
+},
+"Thiomonas": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Betaproteobacteria",
+"order": "Burkholderiales",
+"genus": "Thiomonas",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_276730293.1",
+"WP_013124038.1"
+],
+"n_hit_lines": 2
+},
+"Bosea sp. F3-2": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_149134480.1",
+"WP_149128699.1",
+"WP_149133864.1"
+],
+"n_hit_lines": 3
+},
+"Elizabethkingia": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Flavobacteriia",
+"order": "Flavobacteriales",
+"genus": "Elizabethkingia",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_078701904.1"
+],
+"n_hit_lines": 1
+},
+"Candidatus Eremiobacteraeota bacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "",
+"order": "",
+"genus": "Candidatus",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"MCD4784375.1",
+"MDB5042579.1",
+"MDP9023835.1",
+"MBC5809601.1",
+"MCA9794423.1"
+],
+"n_hit_lines": 406
+},
+"Peribacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Peribacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_251429271.1",
+"WP_305158783.1",
+"WP_072273373.1",
+"WP_305158841.1",
+"WP_061464323.1"
+],
+"n_hit_lines": 26
+},
+"Acidobacterium": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Terriglobia",
+"order": "Terriglobales",
+"genus": "Acidobacterium",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_015896611.1"
+],
+"n_hit_lines": 1
+},
+"Fictibacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Fictibacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_061972496.1",
+"WP_144699147.1"
+],
+"n_hit_lines": 3
+},
+"Rhodoplanes": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Rhodoplanes",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_272778110.1",
+"WP_272777919.1",
+"WP_272776372.1"
+],
+"n_hit_lines": 7
+},
+"Prevotella": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacteroidia",
+"order": "Bacteroidales",
+"genus": "Prevotella",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_223928262.1"
+],
+"n_hit_lines": 1
+},
+"Ophiocordyceps camponoti-saundersi (nom. inval.)": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Sordariomycetes",
+"order": "Hypocreales",
+"genus": "Ophiocordyceps",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"RDA93009.1",
+"RDA95788.1",
+"RDA95330.1",
+"RDA92162.1",
+"RDA94587.1"
+],
+"n_hit_lines": 395
+},
+"Bacillus sp. SXabc123": {
+"old": {
+"kingdom": "NA",
+"cls": "",
+"order": "",
+"genus": "Bacillus",
+"level": "unresolved"
+},
+"reason": "level=unresolved",
+"accessions": [
+"MDZ5720043.1"
+],
+"n_hit_lines": 1
+},
+"Scytonema hyalinum WJT4-NPBG1": {
+"old": {
+"kingdom": "NA",
+"cls": "",
+"order": "",
+"genus": "Scytonema",
+"level": "unresolved"
+},
+"reason": "level=unresolved",
+"accessions": [
+"MBW4499125.1",
+"MBW4498897.1"
+],
+"n_hit_lines": 3
+},
+"Viridibacillus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Viridibacillus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_038187794.1",
+"WP_038188362.1",
+"WP_053419073.1"
+],
+"n_hit_lines": 7
+},
+"Mediterranea sp.": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacteroidia",
+"order": "Bacteroidales",
+"genus": "Mediterranea",
+"level": "esearch"
+},
+"reason": "level=esearch",
+"accessions": [
+"MDR0893187.1",
+"MDR3118974.1"
+],
+"n_hit_lines": 4
+},
+"Salinicoccus": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Salinicoccus",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_237605933.1",
+"WP_145288225.1"
+],
+"n_hit_lines": 3
+},
+"Bosea sp. WAO": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Alphaproteobacteria",
+"order": "Hyphomicrobiales",
+"genus": "Allobosea",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_066470052.1",
+"WP_066474604.1"
+],
+"n_hit_lines": 3
+},
+"Histoplasma mississippiense (nom. inval.)": {
+"old": {
+"kingdom": "Fungi",
+"cls": "Eurotiomycetes",
+"order": "Onygenales",
+"genus": "Histoplasma",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"XP_001540586.1",
+"XP_001543843.1",
+"XP_001543383.1",
+"XP_001538431.1"
+],
+"n_hit_lines": 10
+},
+"Fredinandcohnia sp. QZ13": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Bacilli",
+"order": "Caryophanales",
+"genus": "Ferdinandcohnia",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"WP_309536855.1",
+"WP_309536306.1"
+],
+"n_hit_lines": 2
+},
+"Muricauda sp. TMED12": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Flavobacteriia",
+"order": "Flavobacteriales",
+"genus": "Allomuricauda",
+"level": "accession"
+},
+"reason": "level=accession",
+"accessions": [
+"RPG28668.1"
+],
+"n_hit_lines": 1
+},
+"Olivibacter": {
+"old": {
+"kingdom": "Bacteria",
+"cls": "Sphingobacteriia",
+"order": "Sphingobacteriales",
+"genus": "Olivibacter",
+"level": "exact"
+},
+"reason": "genus-only name",
+"accessions": [
+"WP_041388790.1"
+],
+"n_hit_lines": 1
+}
+}

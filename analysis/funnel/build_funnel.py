@@ -84,11 +84,12 @@ for g in GENES:
                  "proteins with non-fungal closest relatives": nf, "T-DNA candidates": hosts(sub[sub.ruleB]), "non-T-DNA candidates": hosts(sub[sub.ruleC])})
 pd.DataFrame(rows).to_csv(OUT + "Table1_funnel.tsv", sep="\t", index=False)
 if unknown_classes: print("WARNING classes without phylum mapping:", unknown_classes)
-# ---- S3b: every protein with non-fungal nearest relatives
+# ---- S3b: every query of the reverse search (2026-10-13al: all 1,277 rows; column nonfungal_nearest marks the 116 with h > 0)
+r["nonfungal_nearest_yn"] = r.nonfungal_nearest.map({True: "yes", False: "no"})
 cols = ["protein", "gca", "organism", "own_class", "own_order", "gene", "pident_seed", "cov_seed", "o_bact_org", "o_bact_pid", "o_bact_bits", "o_plant_org", "o_plant_pid",
-        "o_fung_org", "o_fung_pid", "o_fung_bits", "o_h", "o_top50_bact", "o_top50_plant", "o_top50_fung", "n_fung_genera_all", "contamination", "ruleA", "ruleB", "ruleC", "fate"]
-s3 = r[r.nonfungal_nearest].copy(); s3["_rank"] = s3.gene.map(gene_rank)
-s3 = s3.sort_values(["_rank", "organism", "fate"], kind="mergesort")[cols]  # by gene (GENES order), then by genus/organism
+        "o_fung_org", "o_fung_pid", "o_fung_bits", "o_h", "nonfungal_nearest_yn", "o_top50_bact", "o_top50_plant", "o_top50_fung", "n_fung_genera_all", "contamination", "ruleA", "ruleB", "ruleC", "fate"]
+s3 = r.copy(); s3["_rank"] = s3.gene.map(gene_rank)
+s3 = s3.sort_values(["_rank", "organism", "fate"], kind="mergesort")[cols].rename(columns={"nonfungal_nearest_yn": "nonfungal_nearest"})  # by gene (GENES order), then by genus/organism
 s3.to_csv(OUT + "TableS3b_fate.tsv", sep="\t", index=False)
 with open(f"{GMO_ROOT}/analysis/funnel/funnel_numbers.txt", "w") as f:
     f.write(f"proteins tested (unique): {len(r)}\nnon-fungal nearest: {int(r.nonfungal_nearest.sum())}\nprobable contamination: {int(r.contamination.sum())}\n"

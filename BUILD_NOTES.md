@@ -82,3 +82,20 @@ Only the `paper/` build scripts and tables were re-copied (same filters, same pa
 * `paper/manuscript_v2/build_manuscript_v2.py`: author block, affiliations and author contributions filled in.
 * `paper/figures/`: `make_fig5_genera.py` (Figure 5 rework) and `Fig2_genus_counts.tsv`.
 * Manuscript text (`draft_v2_*.md`, `manuscript_v2*.md`) and PNG figures are still not shipped, as before.
+
+## Refresh 2026-10-13 (late), response to the review of v15
+
+Same filters and path replacement (script kept outside the repo). Changed or added:
+* `analysis/refset/screen/seeds_ext/reciprocal/`: new `scripts/02b_taxonomy_fix.py` (mandatory after `02_taxonomy.py`): organism names of nr titles are taken
+  from the trailing bracket(s) only (`orgs_from_stitle`, also used by `03_reciprocal.py`), and names that match the taxdump only after truncation,
+  single-word names and multi-kingdom homonyms are re-resolved by the taxid of the hit protein (NCBI esummary; cache `eutils_cache.json`,
+  `name_taxid.json`, log `taxonomy_fix_log.tsv`, dropped description fragments `nonorganism_brackets.json`). Fixes the bacterial genus *Bosea*
+  (now *Allobosea*) being read as the plant genus. Rebuilt `reciprocal.tsv`, `summary.tsv`, `h_gt0_order.tsv`, `taxonomy_stats.json`;
+  the funnel (`analysis/funnel/funnel_numbers.txt`, `paper/tables/Table1_funnel.tsv`) is unchanged, `TableS3b_fate.tsv` differs only in best-hit organism names.
+* `paper/tables/integration_status.py/.tsv/_summary.tsv`: the 2026-10-13 classifier (F2 from per-neighbour classifications, R2 -> supported, CHR by sequence role);
+  the previous repo copy was the v14 version.
+* `paper/supplementary/`: `build_supplementary.py` (Table S1a legend now states these rules; Table S3 is the full reverse search, 1,277 rows, replacing the old 116-row file),
+  rebuilt tables, `Data_S1`, `data/Data_S4_dNdS_codeml.tar.gz`, new `make_zip.sh` (submission archive, 35 files).
+* `analysis/dnds/extra/`: the four `*_conf` sets (loci with confirmed or supported integration only), `prep_conf.py`, `run_conf.sh`, `run_yn00pw_conf.sh`, updated `summary.tsv`.
+* `docs/methods_extended.md`: synchronised with manuscript v16 (section numbers 2.1-2.11, integration-status rules, filtered dN/dS sets, references [M1]-[M26]).
+* `paper/manuscript_v2/build_manuscript_v2.py`: current builder. Manuscript text and PNG figures are still not shipped.

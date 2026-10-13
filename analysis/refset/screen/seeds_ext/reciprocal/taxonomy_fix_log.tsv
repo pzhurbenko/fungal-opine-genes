@@ -1,0 +1,498 @@
+name	reason	old_level	old_kingdom	old_genus	new_level	new_kingdom	new_cls	new_order	new_genus	taxid	organism_ncbi	n_accessions	n_hit_lines	flag
+Ralstonia	genus-only name	exact	Bacteria	Ralstonia	accession	Bacteria	Betaproteobacteria	Burkholderiales	Ralstonia	3116862	Ralstonia solanacearum species complex	1	1	
+Bosea sp. CRIB-10	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	378404	Allobosea sp. CRIB-10	1	3	
+Geomonas	genus-only name	exact	Bacteria	Geomonas	accession	Bacteria	Desulfuromonadia	Geobacterales	Geomonas	2651583	Geomonas	2	5	
+Dyadobacter	genus-only name	exact	Bacteria	Dyadobacter	accession	Bacteria	Cytophagia	Cytophagales	Dyadobacter	120831	Dyadobacter	1	2	
+Rummeliibacillus	genus-only name	exact	Bacteria	Rummeliibacillus	accession	Bacteria	Bacilli	Caryophanales	Rummeliibacillus	648802	Rummeliibacillus	2	2	
+Muricauda sp. CP2A	level=accession	accession	Bacteria	Allomuricauda	accession	Bacteria	Flavobacteriia	Flavobacteriales	Allomuricauda	1848189	Allomuricauda sp. CP2A	1	2	
+Candidatus Fonsibacter lacus	level=unresolved	unresolved	NA	Candidatus	unresolved	NA			Candidatus			1	1	unresolved
+Nocardia	genus-only name	exact	Bacteria	Nocardia	accession	Bacteria	Actinomycetes	Mycobacteriales	Nocardia	1817	Nocardia	5	490	
+Mesobacillus	genus-only name	exact	Bacteria	Mesobacillus	accession	Bacteria	Bacilli	Caryophanales	Mesobacillus	2675231	Mesobacillus	4	6	
+Pacificimonas	genus-only name	exact	Bacteria	Pacificimonas	accession	Bacteria	Alphaproteobacteria	Sphingomonadales	Pacificimonas	1960290	Pacificimonas	1	1	
+Bosea spartocytisi	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	85413	Allobosea	3	3	
+bacterium	genus-only name	exact	Bacteria	bacterium	exact	Bacteria			bacterium			5	3984	kept_exact
+Chloroflexus	genus-only name	exact	Bacteria	Chloroflexus	accession	Bacteria	Chloroflexia	Chloroflexales	Chloroflexus	1107	Chloroflexus	1	1	
+Neobacillus sp. 179.-C4.2 HS	level=accession	accession	Bacteria	Neobacillus	accession	Bacteria	Bacilli	Caryophanales	Neobacillus	3035913	Neobacillus driksii	4	5	
+NAD(P)+	level=accession	accession	Bacteria	Clostridium	accession	Bacteria	Clostridia	Eubacteriales	Clostridium	1226325	Clostridium sp. KLE 1755	1	87	
+Chrysiogenetes bacterium	level=esearch	esearch	Bacteria	Chrysiogenetes	esearch	Bacteria			Chrysiogenetes	1869227		1	1	
+Enterococcus	genus-only name	exact	Bacteria	Enterococcus	accession	Bacteria	Bacilli	Lactobacillales	Enterococcus	1350	Enterococcus	2	2	
+Bosea sp. BIWAKO-01	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	506668	Allobosea sp. BIWAKO-01	5	267	
+Nostocales	genus-only name	exact	Bacteria	Nostocales	accession	Bacteria	Cyanophyceae	Nostocales	Nostocales	1161	Nostocales	4	4	
+Fusobacterium	genus-only name	exact	Bacteria	Fusobacterium	accession	Bacteria	Fusobacteriia	Fusobacteriales	Fusobacterium	848	Fusobacterium	3	46	
+NAD+	level=accession	accession	Fungi	Fusarium	accession	Fungi	Sordariomycetes	Hypocreales	Fusarium	1229664	Fusarium oxysporum f. sp. cubense race 1	3	4	conflict:Fungi=2/Metazoa=1
+Desulfitobacterium	genus-only name	exact	Bacteria	Desulfitobacterium	accession	Bacteria	Clostridia	Eubacteriales	Desulfitobacterium	36853	Desulfitobacterium	1	3	
+Candidatus Dormibacteraeota bacterium	level=esearch	esearch	Bacteria	Candidatus	esearch	Bacteria			Candidatus	1869227		5	79	
+Halomonas xinjiangensis	level=accession	accession	Bacteria	Litchfieldella	accession	Bacteria	Gammaproteobacteria	Oceanospirillales	Litchfieldella	1166948	Litchfieldella xinjiangensis	2	6	
+Tissierellales	genus-only name	exact	Bacteria	Tissierellales	accession	Bacteria	Tissierellia	Tissierellales	Tissierellales	1737405	Tissierellales	1	65	
+Bosea sp. RAC05	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	1842539	Allobosea sp. RAC05	1	4	
+Paraburkholderia	genus-only name	exact	Bacteria	Paraburkholderia	accession	Bacteria	Betaproteobacteria	Burkholderiales	Paraburkholderia	1822464	Paraburkholderia	5	670	
+Mycena belliae	level=accession	accession	Fungi	Mycena	accession	Fungi	Agaricomycetes	Agaricales	Mycena	1033014	Mycena belliarum	5	125	
+Candidatus Methanomethyliaceae archaeon	level=esearch	esearch	Archaea	Candidatus	esearch	Archaea	Methanosuratincolia	Candidatus Methanomethylicales	Candidatus	2282146		1	5	
+Muricauda sp. SCSIO 64092	level=accession	accession	Bacteria	Allomuricauda	accession	Bacteria	Flavobacteriia	Flavobacteriales	Allomuricauda	2908842	Allomuricauda sp. SCSIO 64092	1	1	
+Candidatus Aminicenantes bacterium	level=accession	accession	Bacteria	Candidatus	accession	Bacteria			Candidatus	2052149	Candidatus Aminicenantota bacterium	5	448	
+Paenibacillus sp. JNUCC-31	level=accession	accession	Bacteria	Paenibacillus	accession	Bacteria	Bacilli	Caryophanales	Paenibacillus	2777983	Paenibacillus sp. JNUCC31	4	8	
+Phocaeicola	genus-only name	exact	Bacteria	Phocaeicola	accession	Bacteria	Bacteroidia	Bacteroidales	Phocaeicola	909656	Phocaeicola	4	4	
+Thermococcus	genus-only name	exact	Archaea	Thermococcus	accession	Archaea	Thermococci	Thermococcales	Thermococcus	2263	Thermococcus	1	3	
+Calothrix	genus-only name	exact	Bacteria	Calothrix	accession	Bacteria	Cyanophyceae	Nostocales	Calothrix	1186	Calothrix	1	1	
+Mammaliicoccus	genus-only name	exact	Bacteria	Mammaliicoccus	accession	Bacteria	Bacilli	Caryophanales	Mammaliicoccus	2803850	Mammaliicoccus	5	32	
+Petrotoga	genus-only name	exact	Bacteria	Petrotoga	accession	Bacteria	Thermotogae	Petrotogales	Petrotoga	28236	Petrotoga	2	3	
+Candidatus Methanoperedenaceae archaeon	level=esearch	esearch	Archaea	Candidatus	esearch	Archaea	Methanomicrobia	Methanosarcinales	Candidatus	2072416		1	1	
+Sinorhizobium	genus-only name	exact	Bacteria	Sinorhizobium	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Sinorhizobium	28105	Sinorhizobium	5	414	
+Cu-Zn	level=accession	accession	Fungi	Chaenotheca	accession	Fungi	Coniocybomycetes	Coniocybales	Chaenotheca	164576	Chaenotheca gracillima	1	1	
+Bosea sp. Tri-44	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	1972137	Allobosea sp. Tri-44	2	5	
+Nostoc	genus-only name	exact	Bacteria	Nostoc	accession	Bacteria	Cyanophyceae	Nostocales	Nostoc	1177	Nostoc	4	4	
+Lachnospiraceae	genus-only name	exact	Bacteria	Lachnospiraceae	accession	Bacteria	Clostridia	Lachnospirales	Lachnospiraceae	186803	Lachnospiraceae	3	5	
+Alcaligenes	genus-only name	exact	Bacteria	Alcaligenes	accession	Bacteria	Betaproteobacteria	Burkholderiales	Alcaligenes	507	Alcaligenes	1	4	
+Bosea sp. Root381	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	1736524	Allobosea sp. Root381	1	1	
+Moorella sulfitireducens	level=accession	accession	Bacteria	Neomoorella	accession	Bacteria	Clostridia	Neomoorellales	Neomoorella	2972948	Neomoorella sulfitireducens	1	1	
+Fischerella	genus-only name	exact	Bacteria	Fischerella	accession	Bacteria	Cyanophyceae	Nostocales	Fischerella	1190	Fischerella	2	2	
+Kazachstania naganishii CBS 8797	level=accession	accession	Fungi	Huiozyma	accession	Fungi	Saccharomycetes	Saccharomycetales	Huiozyma	1071383	Huiozyma naganishii CBS 8797	5	28	
+Actinoalloteichus	genus-only name	exact	Bacteria	Actinoalloteichus	accession	Bacteria	Actinomycetes	Pseudonocardiales	Actinoalloteichus	65496	Actinoalloteichus	1	1	
+Rhodanobacter	genus-only name	exact	Bacteria	Rhodanobacter	accession	Bacteria	Gammaproteobacteria	Lysobacterales	Rhodanobacter	75309	Rhodanobacter	2	2	
+Gemmobacter	genus-only name	exact	Bacteria	Gemmobacter	accession	Bacteria	Alphaproteobacteria	Rhodobacterales	Gemmobacter	204456	Gemmobacter	1	2	
+Candidatus Freyrarchaeum guaymaensis	level=unresolved	unresolved	NA	Candidatus	unresolved	NA			Candidatus			1	2	unresolved
+Geobacillus	genus-only name	exact	Bacteria	Geobacillus	accession	Bacteria	Bacilli	Caryophanales	Geobacillus	129337	Geobacillus	5	50	
+Serratia	level=accession	accession	Bacteria	Serratia	accession	Bacteria	Gammaproteobacteria	Enterobacterales	Serratia	613	Serratia	5	18	
+Levilactobacillus	genus-only name	exact	Bacteria	Levilactobacillus	accession	Bacteria	Bacilli	Lactobacillales	Levilactobacillus	2767886	Levilactobacillus	1	17	
+Cryptococcus neoformans var. grubii AD1-83a	level=accession	accession	Fungi	Cryptococcus	accession	Fungi	Tremellomycetes	Tremellales	Cryptococcus	1230065	Cryptococcus neoformans AD1-83a	2	38	
+Bacteria	level=accession	accession	Bacteria	Bacteria	accession	Bacteria			Bacteria	2	Bacteria	2	2	
+Eggerthella	genus-only name	exact	Bacteria	Eggerthella	accession	Bacteria	Coriobacteriia	Eggerthellales	Eggerthella	84111	Eggerthella	4	4	
+Candidatus Micrarchaeota archaeon	level=esearch	esearch	Archaea	Candidatus	esearch	Archaea			Candidatus	2250274		1	1	
+Knufia sp. JES_112	level=accession	accession	Fungi	Neophaeococcomyces	accession	Fungi	Eurotiomycetes	Chaetothyriales	Neophaeococcomyces	3383035	Neophaeococcomyces mojaviensis	5	57	
+Pelosinus	genus-only name	exact	Bacteria	Pelosinus	accession	Bacteria	Negativicutes	Selenomonadales	Pelosinus	365348	Pelosinus	1	1	
+Rubrivivax pictus	level=accession	accession	Bacteria	Pseudaquabacterium	accession	Bacteria	Betaproteobacteria	Burkholderiales	Pseudaquabacterium	2315236	Pseudaquabacterium pictum	3	3	
+Klebsiella	genus-only name	exact	Bacteria	Klebsiella	accession	Bacteria	Gammaproteobacteria	Enterobacterales	Klebsiella	570	Klebsiella	5	13	
+Brevibacillus	genus-only name	exact	Bacteria	Brevibacillus	accession	Bacteria	Bacilli	Caryophanales	Brevibacillus	55080	Brevibacillus	5	44	
+Kosmotoga	genus-only name	exact	Bacteria	Kosmotoga	accession	Bacteria	Thermotogae	Kosmotogales	Kosmotoga	651456	Kosmotoga	1	18	
+Rahnella	genus-only name	exact	Bacteria	Rahnella	accession	Bacteria	Gammaproteobacteria	Enterobacterales	Rahnella	34037	Rahnella	1	2	
+Anabaena	genus-only name	exact	Bacteria	Anabaena	accession	Bacteria	Cyanophyceae	Nostocales	Anabaena	1163	Anabaena	1	1	
+Eisenbergiella	genus-only name	exact	Bacteria	Eisenbergiella	accession	Bacteria	Clostridia	Lachnospirales	Eisenbergiella	1432051	Eisenbergiella	2	259	
+Shewanella	genus-only name	exact	Bacteria	Shewanella	accession	Bacteria	Gammaproteobacteria	Alteromonadales	Shewanella	22	Shewanella	1	1	
+Hydrogenophaga	genus-only name	exact	Bacteria	Hydrogenophaga	accession	Bacteria	Betaproteobacteria	Burkholderiales	Hydrogenophaga	47420	Hydrogenophaga	2	2	
+Okeania	genus-only name	exact	Bacteria	Okeania	accession	Bacteria	Cyanophyceae	Oscillatoriales	Okeania	1458928	Okeania	1	2	
+Clostridium aceticum	level=accession	accession	Bacteria	Andreesenella	accession	Bacteria	Clostridia	Peptostreptococcales	Andreesenella	84022	Andreesenella acetica	1	2	
+Rhizobium smilacinae	level=accession	accession	Bacteria	Aliirhizobium	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Aliirhizobium	1395944	Aliirhizobium smilacinae	3	5	
+Agromyces	genus-only name	exact	Bacteria	Agromyces	accession	Bacteria	Actinomycetes	Micrococcales	Agromyces	33877	Agromyces	2	3	
+Halomonas zhangzhouensis	level=accession	accession	Bacteria	Billgrantia	accession	Bacteria	Gammaproteobacteria	Oceanospirillales	Billgrantia	2733481	Billgrantia zhangzhouensis	2	2	
+Stutzerimonas	genus-only name	exact	Bacteria	Stutzerimonas	accession	Bacteria	Gammaproteobacteria	Pseudomonadales	Stutzerimonas	2901164	Stutzerimonas	1	1	
+Burkholderiaceae	genus-only name	exact	Bacteria	Burkholderiaceae	accession	Bacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	119060	Burkholderiaceae	4	14	
+Rhodococcus	level=accession	accession	Bacteria	Rhodococcus	accession	Bacteria	Actinomycetes	Mycobacteriales	Rhodococcus	1827	Rhodococcus	5	14	
+Acidaminococcus	genus-only name	exact	Bacteria	Acidaminococcus	accession	Bacteria	Negativicutes	Acidaminococcales	Acidaminococcus	904	Acidaminococcus	1	9	
+Tardiphaga	genus-only name	exact	Bacteria	Tardiphaga	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Tardiphaga	1395974	Tardiphaga	1	1	
+Clostridium	genus-only name	exact	Bacteria	Clostridium	accession	Bacteria	Clostridia	Eubacteriales	Clostridium	1485	Clostridium	5	16	
+Robertmurraya andreesenii	level=accession	accession	Bacteria	Anoxybacillus	accession	Bacteria	Bacilli	Caryophanales	Anoxybacillus	1325932	Robertmurraya andreesenii	3	12	
+Clostridia	genus-only name	exact	Bacteria	Clostridia	accession	Bacteria	Clostridia		Clostridia	186801	Clostridia	5	188	
+Pontibacillus	genus-only name	exact	Bacteria	Pontibacillus	accession	Bacteria	Bacilli	Caryophanales	Pontibacillus	289201	Pontibacillus	1	1	
+Pediococcus	genus-only name	exact	Bacteria	Pediococcus	accession	Bacteria	Bacilli	Lactobacillales	Pediococcus	1253	Pediococcus	1	1	
+Salinomyces thailandica	level=accession	accession	Fungi	Salinomyces	accession	Fungi	Dothideomycetes	Mycosphaerellales	Salinomyces	706561	Salinomyces thailandicus	5	304	
+Candida orthopsilosis Co 90-125	level=accession	accession	Fungi	Lodderomyces	accession	Fungi	Pichiomycetes	Serinales	Lodderomyces	1136231	Lodderomyces orthopsilosis Co 90-125	5	22	
+Pseudomonas alcaligenes	level=esearch	esearch	Bacteria	Alcaligenes	esearch	Bacteria	Betaproteobacteria	Burkholderiales	Alcaligenes	507		1	2	
+Thermoactinomyces	genus-only name	exact	Bacteria	Thermoactinomyces	accession	Bacteria	Bacilli	Caryophanales	Thermoactinomyces	2023	Thermoactinomyces	5	32	
+Kamptonema	genus-only name	exact	Bacteria	Kamptonema	accession	Bacteria	Cyanophyceae	Oscillatoriales	Kamptonema	1501433	Kamptonema	1	2	
+Candidatus Paceibacterota bacterium	level=esearch	esearch	Bacteria	Candidatus	esearch	Bacteria			Candidatus	2053589		1	1	
+Anaerolinea	genus-only name	exact	Bacteria	Anaerolinea	accession	Bacteria	Anaerolineae	Anaerolineales	Anaerolinea	233189	Anaerolinea	1	113	
+Neobacillus	genus-only name	exact	Bacteria	Neobacillus	accession	Bacteria	Bacilli	Caryophanales	Neobacillus	2675232	Neobacillus	1	1	
+Sorangium	genus-only name	exact	Bacteria	Sorangium	accession	Bacteria		Polyangiales	Sorangium	2969250	Sorangium sp. So ce836	2	4	
+Rhodococcus fascians	level=accession	accession	Bacteria	Rhodococcoides	accession	Bacteria	Actinomycetes	Mycobacteriales	Rhodococcoides	1828	Rhodococcoides fascians	1	1	
+Actinoplanes globisporus	level=accession	accession	Bacteria	Paractinoplanes	accession	Bacteria	Actinomycetes	Micromonosporales	Paractinoplanes	113565	Paractinoplanes globisporus	2	5	
+Candidatus Sigynarchaeum springense	level=unresolved	unresolved	NA	Candidatus	unresolved	NA			Candidatus			1	17	unresolved
+Aminobacter	genus-only name	exact	Bacteria	Aminobacter	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Aminobacter	31988	Aminobacter	1	1	
+Geomicrobium	genus-only name	exact	Bacteria	Geomicrobium	accession	Bacteria	Bacilli	Caryophanales	Geomicrobium	767528	Geomicrobium	1	1	
+Schlegelella koreensis	level=accession	accession	Bacteria	Rhizobacter	accession	Bacteria	Betaproteobacteria	Burkholderiales	Rhizobacter	2742824	Rhizobacter koreensis	1	4	
+Bacteroides	genus-only name	exact	Bacteria	Bacteroides	accession	Bacteria	Bacteroidia	Bacteroidales	Bacteroides	816	Bacteroides	5	131	
+Devosiaceae	genus-only name	exact	Bacteria	Devosiaceae	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Devosiaceae	2831106	Devosiaceae	1	2	
+Bosea sp. BH3	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	2871701	Allobosea sp. BH3	1	1	
+Ensifer	genus-only name	exact	Bacteria	Ensifer	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Ensifer	106591	Ensifer	4	7	
+Dickeya	genus-only name	exact	Bacteria	Dickeya	accession	Bacteria	Gammaproteobacteria	Enterobacterales	Dickeya	204037	Dickeya	5	24	
+Thermoanaerobacter	genus-only name	exact	Bacteria	Thermoanaerobacter	accession	Bacteria	Clostridia	Thermoanaerobacterales	Thermoanaerobacter	1754	Thermoanaerobacter	3	521	
+Cylindrospermopsis	genus-only name	exact	Bacteria	Cylindrospermopsis	accession	Bacteria	Cyanophyceae	Nostocales	Cylindrospermopsis	77021	Cylindrospermopsis	1	1	
+Gordonibacter	genus-only name	exact	Bacteria	Gordonibacter	accession	Bacteria	Coriobacteriia	Eggerthellales	Gordonibacter	644652	Gordonibacter	1	1	
+Govania unica	level=accession	accession	Bacteria	Govanella	accession	Bacteria	Alphaproteobacteria	Emcibacterales	Govanella	2975056	Govanella unica	1	2	
+Herbaspirillum	genus-only name	exact	Bacteria	Herbaspirillum	accession	Bacteria	Betaproteobacteria	Burkholderiales	Herbaspirillum	963	Herbaspirillum	5	6	
+Trichococcus	genus-only name	exact	Bacteria	Trichococcus	accession	Bacteria	Bacilli	Lactobacillales	Trichococcus	82802	Trichococcus	2	15	
+Alcaligenaceae	genus-only name	exact	Bacteria	Alcaligenaceae	accession	Bacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	506	Alcaligenaceae	1	1	
+Pseudoroseomonas deserti	level=accession	accession	Bacteria	Roseomonas	accession	Bacteria	Alphaproteobacteria	Acetobacterales	Roseomonas	1817963	Teichococcus deserti	2	2	
+Veillonella	genus-only name	exact	Bacteria	Veillonella	accession	Bacteria	Negativicutes	Veillonellales	Veillonella	29465	Veillonella	5	30	
+Mycolicibacterium	genus-only name	exact	Bacteria	Mycolicibacterium	accession	Bacteria	Actinomycetes	Mycobacteriales	Mycolicibacterium	1866885	Mycolicibacterium	1	1	
+Marinobacter	genus-only name	exact	Bacteria	Marinobacter	accession	Bacteria	Gammaproteobacteria	Pseudomonadales	Marinobacter	2742	Marinobacter	3	15	
+Cellulosimicrobium	genus-only name	exact	Bacteria	Cellulosimicrobium	accession	Bacteria	Actinomycetes	Micrococcales	Cellulosimicrobium	157920	Cellulosimicrobium	1	1	
+Diaporthaceae sp. PMI_573	level=accession	accession	Fungi	Diaporthe	accession	Fungi	Sordariomycetes	Diaporthales	Diaporthe	2614600	Diaporthe sp. PMI_573	5	767	
+Acidobacteriaceae	genus-only name	exact	Bacteria	Acidobacteriaceae	accession	Bacteria	Terriglobia	Terriglobales	Acidobacteriaceae	204434	Acidobacteriaceae	1	1	
+Candidatus Caenarcaniphilales bacterium	level=esearch	esearch	Bacteria	Candidatus	esearch	Bacteria			Candidatus	1869227		2	2	
+Bosea sp. ASV33	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	2795106	Allobosea sp. ASV33	3	3	
+Stappiaceae	genus-only name	exact	Bacteria	Stappiaceae	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Stappiaceae	2821832	Stappiaceae	2	10	
+Mameliella alba	level=accession	accession	Bacteria	Antarctobacter	accession	Bacteria	Alphaproteobacteria	Rhodobacterales	Antarctobacter	561184	Antarctobacter albus	5	21	
+Anoxybacillus	genus-only name	exact	Bacteria	Anoxybacillus	accession	Bacteria	Bacilli	Caryophanales	Anoxybacillus	150247	Anoxybacillus	5	42	
+Xanthomonadaceae bacterium	level=esearch	esearch	Bacteria	Xanthomonadaceae	esearch	Bacteria			Xanthomonadaceae	1869227		5	9	
+Pseudonocardia	genus-only name	exact	Bacteria	Pseudonocardia	accession	Bacteria	Actinomycetes	Pseudonocardiales	Pseudonocardia	1847	Pseudonocardia	1	5	
+Candidatus Krumholzibacteria bacterium	level=esearch	esearch	Bacteria	Candidatus	esearch	Bacteria			Candidatus	1869227		3	9	
+Halomonas qijiaojingensis	level=accession	accession	Bacteria	Litchfieldella	accession	Bacteria	Gammaproteobacteria	Oceanospirillales	Litchfieldella	980347	Litchfieldella qijiaojingensis	2	10	
+Tepidanaerobacter	genus-only name	exact	Bacteria	Tepidanaerobacter	accession	Bacteria	Clostridia	Thermosediminibacterales	Tepidanaerobacter	499228	Tepidanaerobacter	2	49	
+Listeria	genus-only name	exact	Bacteria	Listeria	accession	Bacteria	Bacilli	Caryophanales	Listeria	186820	Listeriaceae	2	3	
+Hassalia byssoidea	level=accession	accession	Bacteria	Hassallia	accession	Bacteria	Cyanophyceae	Nostocales	Hassallia	482630	Hassallia byssoidea	1	2	
+Oceanobacillus	genus-only name	exact	Bacteria	Oceanobacillus	accession	Bacteria	Bacilli	Caryophanales	Oceanobacillus	746691	Oceanobacillus kimchii	3	3	
+Brevefilum fermentans	level=accession	accession	Bacteria	Candidatus Brevifilum	accession	Bacteria	Anaerolineae	Anaerolineales	Candidatus Brevifilum	1986204	Candidatus Brevifilum fermentans	3	371	
+Peptoniphilus nemausensis	level=accession	accession	Bacteria	Aedoeadaptatus	accession	Bacteria	Tissierellia	Tissierellales	Aedoeadaptatus	2582829	Aedoeadaptatus nemausensis	1	1	
+Metabacillus	genus-only name	exact	Bacteria	Metabacillus	accession	Bacteria	Bacilli	Caryophanales	Metabacillus	2675233	Metabacillus	4	7	
+Peptoniphilus coxii	level=accession	accession	Bacteria	Aedoeadaptatus	accession	Bacteria	Tissierellia	Tissierellales	Aedoeadaptatus	755172	Aedoeadaptatus coxii	5	6	
+Tellurirhabdus rosea	level=accession	accession	Bacteria	Larkinella	accession	Bacteria	Cytophagia	Cytophagales	Larkinella	2674997	Larkinella roseola	1	1	
+Piscinibacter sakaiensis	level=accession	accession	Bacteria	Pseudideonella	accession	Bacteria	Betaproteobacteria	Burkholderiales	Pseudideonella	1547922	Pseudideonella sakaiensis	1	1	
+Aquamicrobium	genus-only name	exact	Bacteria	Aquamicrobium	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Aquamicrobium	69278	Aquamicrobium	1	4	
+Cupriavidus	genus-only name	exact	Bacteria	Cupriavidus	accession	Bacteria	Betaproteobacteria	Burkholderiales	Cupriavidus	106589	Cupriavidus	5	21	
+Bosea sp. TND4EK4	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	1907408	Allobosea sp. TND4EK4	1	1	
+Bosea sp. PAMC 26642	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	1792307	Allobosea sp. PAMC 26642	1	1	
+Planococcaceae	genus-only name	exact	Bacteria	Planococcaceae	accession	Bacteria	Bacilli	Caryophanales	Planococcaceae	186818	Caryophanaceae	1	1	
+Deinococcus	genus-only name	exact	Bacteria	Deinococcus	accession	Bacteria	Deinococci	Deinococcales	Deinococcus	1298	Deinococcus	2	3	
+Muricauda sp. F6463D	level=accession	accession	Bacteria	Allomuricauda	accession	Bacteria	Flavobacteriia	Flavobacteriales	Allomuricauda	2926409	Allomuricauda sp. F6463D	1	1	
+Cyanophyceae	genus-only name	exact	Bacteria	Cyanophyceae	accession	Bacteria	Cyanophyceae		Cyanophyceae	3028117	Cyanophyceae	1	1	
+Nonomuraea	genus-only name	exact	Bacteria	Nonomuraea	accession	Bacteria	Actinomycetes	Streptosporangiales	Nonomuraea	83681	Nonomuraea	2	431	
+Roseomonas harenae	level=accession	accession	Bacteria	Muricoccus	accession	Bacteria	Alphaproteobacteria	Acetobacterales	Muricoccus	2692566	Roseomonas harenae	2	3	
+Leucoagaricus leucothites	level=accession	accession	Fungi	Leucocoprinus	accession	Fungi	Agaricomycetes	Agaricales	Leucocoprinus	201217	Leucocoprinus leucothites	5	114	
+Pseudomonadaceae	genus-only name	exact	Bacteria	Pseudomonadaceae	accession	Bacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	135621	Pseudomonadaceae	2	2	
+Stigmatella ashevillena	level=accession	accession	Bacteria	Allostigmatella	accession	Bacteria	Myxococcia	Myxococcales	Allostigmatella	2995309	Allostigmatella ashevillensis	2	8	
+Halolamina	genus-only name	exact	Archaea	Halolamina	accession	Archaea	Halobacteria	Halobacteriales	Halolamina	1075397	Halolamina	1	1	
+Neisseriales	genus-only name	exact	Bacteria	Neisseriales	accession	Bacteria	Betaproteobacteria	Neisseriales	Neisseriales	206351	Neisseriales	1	1	
+Mesorhizobium	genus-only name	exact	Bacteria	Mesorhizobium	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Mesorhizobium	68287	Mesorhizobium	4	451	
+Bosea	genus-only name	exact	Viridiplantae	Bosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	85413	Allobosea	2	5	
+Phialophora attinorum	level=accession	accession	Fungi	Cyphellophora	accession	Fungi	Eurotiomycetes	Chaetothyriales	Cyphellophora	1664694	Cyphellophora attinorum	5	158	
+Leisingera	genus-only name	exact	Bacteria	Leisingera	accession	Bacteria	Alphaproteobacteria	Rhodobacterales	Leisingera	191028	Leisingera	1	2	
+Rhizobium sp. CSC1952	level=accession	accession	Bacteria	Neorhizobium	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Neorhizobium	2978974	Neorhizobium sp. CSC1952	1	10	
+Roseobacteraceae	genus-only name	exact	Bacteria	Roseobacteraceae	accession	Bacteria	Alphaproteobacteria	Rhodobacterales	Roseobacteraceae	2854170	Roseobacteraceae	2	5	
+Muricauda sp. CAU 1633	level=accession	accession	Bacteria	Allomuricauda	accession	Bacteria	Flavobacteriia	Flavobacteriales	Allomuricauda	2816036	Allomuricauda sp. CAU 1633	2	2	
+Neorhizobium	genus-only name	exact	Bacteria	Neorhizobium	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Neorhizobium	356	Hyphomicrobiales	1	10	
+Pseudoroseomonas aerophila	level=accession	accession	Bacteria	Roseomonas	accession	Bacteria	Alphaproteobacteria	Acetobacterales	Roseomonas	1224513	Teichococcus aerophilus	1	1	
+Blautia	genus-only name	exact	Bacteria	Blautia	accession	Bacteria	Clostridia	Lachnospirales	Blautia	572511	Blautia	5	267	
+Faecalibacillus	genus-only name	exact	Bacteria	Faecalibacillus	accession	Bacteria	Erysipelotrichia	Erysipelotrichales	Faecalibacillus	2678885	Faecalibacillus	2	2	
+Bosea sp. 47.2.35	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	2969304	Allobosea sp. 47.2.35	1	1	
+Burkholderia	genus-only name	exact	Bacteria	Burkholderia	accession	Bacteria	Betaproteobacteria	Burkholderiales	Burkholderia	32008	Burkholderia	5	64	
+Candidatus Electrothrix sp. AR4	level=esearch	esearch	Bacteria	Candidatus	esearch	Bacteria	Desulfobulbia	Desulfobulbales	Candidatus	2202842		1	2	
+Chroococcidiopsis sp. CCMEE 29	level=accession	accession	Bacteria	Chroococcidiopsis	accession	Bacteria	Cyanophyceae	Chroococcidiopsidales	Chroococcidiopsis	155894	Chroococcidiopsis sp. CCMEE 29	2	2	
+Labrys	level=accession	accession	Bacteria	Labrys	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Labrys	204476	Labrys	1	2	
+Frankia	genus-only name	exact	Bacteria	Frankia	accession	Bacteria	Actinomycetes	Frankiales	Frankia	1854	Frankia	3	6	
+Methylosinus	genus-only name	exact	Bacteria	Methylosinus	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Methylosinus	425	Methylosinus	2	2	
+Bosea sp. Tri-49	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	1867715	Allobosea sp. Tri-49	1	1	
+Phascolarctobacterium	genus-only name	exact	Bacteria	Phascolarctobacterium	accession	Bacteria	Negativicutes	Acidaminococcales	Phascolarctobacterium	33024	Phascolarctobacterium	1	1	
+Eubacteriales	genus-only name	exact	Bacteria	Eubacteriales	accession	Bacteria	Clostridia	Eubacteriales	Eubacteriales	186802	Eubacteriales	3	11	
+Xanthomonadales bacterium	level=accession	accession	Bacteria	Xanthomonadales	accession	Bacteria	Gammaproteobacteria	Lysobacterales	Xanthomonadales	2006849	Lysobacterales bacterium	5	10	
+Mesotoga	genus-only name	exact	Bacteria	Mesotoga	accession	Bacteria	Thermotogae	Kosmotogales	Mesotoga	1184396	Mesotoga	1	42	
+Candidatus Jidaibacter acanthamoeba	level=accession	accession	Bacteria	Candidatus Jidaibacter	accession	Bacteria	Alphaproteobacteria	Rickettsiales	Candidatus Jidaibacter	86105	Candidatus Jidaibacter acanthamoebae	2	2	
+Cytobacillus suaedae	level=accession	accession	Bacteria	Litchfieldia	accession	Bacteria	Bacilli	Caryophanales	Litchfieldia	2779776	Litchfieldia suaedae	2	3	
+Rhizobium tumorigenes	level=accession	accession	Bacteria	Arminella	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Arminella	2041385	Arminella tumorigenes	5	14	
+Helotiales sp. DMI_Dod_QoI	level=accession	accession	Fungi	Helotiales	accession	Fungi	Leotiomycetes	Helotiales	Helotiales	2728926	Mollisiaceae sp. DMI_Dod_QoI	5	360	
+Muricauda sp. M10	level=accession	accession	Bacteria	Allomuricauda	accession	Bacteria	Flavobacteriia	Flavobacteriales	Allomuricauda	2683292	Allomuricauda sp. M10	1	1	
+Paucibacter sp. B2R-40	level=accession	accession	Bacteria	Roseateles	accession	Bacteria	Betaproteobacteria	Burkholderiales	Roseateles	2893554	Kinneretia sp. B2R-40	1	1	
+Lysobacter solisilvae	level=accession	accession	Bacteria	Agrilutibacter	accession	Bacteria	Gammaproteobacteria	Lysobacterales	Agrilutibacter	2763317	Agrilutibacter solisilvae	1	1	
+Priestia	genus-only name	exact	Bacteria	Priestia	accession	Bacteria	Bacilli	Caryophanales	Priestia	2800373	Priestia	5	153	
+Alphaproteobacteria	genus-only name	exact	Bacteria	Alphaproteobacteria	accession	Bacteria	Alphaproteobacteria		Alphaproteobacteria	28211	Alphaproteobacteria	1	2	
+Brevibacillus sp. JNUCC-41	level=accession	accession	Bacteria	Peribacillus	accession	Bacteria	Bacilli	Caryophanales	Peribacillus	2675229	Peribacillus	3	6	
+Caldimonas	genus-only name	exact	Bacteria	Caldimonas	accession	Bacteria	Betaproteobacteria	Burkholderiales	Caldimonas	196013	Caldimonas	1	3	
+Candidatus Marinimicrobia bacterium MT.SAG.3	level=accession	accession	Bacteria	Candidatus	accession	Bacteria			Candidatus	2552982	Fidelibacterota bacterium MT.SAG.3	1	26	
+Nitratireductor	genus-only name	exact	Bacteria	Nitratireductor	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Nitratireductor	245876	Nitratireductor	1	1	
+Piscinibacter gummiphilus	level=accession	accession	Bacteria	Rhizobacter	accession	Bacteria	Betaproteobacteria	Burkholderiales	Rhizobacter	946333	Rhizobacter gummiphilus	2	4	
+Microbacterium	genus-only name	exact	Bacteria	Microbacterium	accession	Bacteria	Actinomycetes	Micrococcales	Microbacterium	33882	Microbacterium	5	23	
+Oscillatoriaceae bacterium SKYG93	level=unresolved	unresolved	NA	Oscillatoriaceae	unresolved	NA			Oscillatoriaceae			1	1	unresolved
+Sphingomonadaceae	genus-only name	exact	Bacteria	Sphingomonadaceae	accession	Bacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	204457	Sphingomonadales	1	1	
+Virgibacillus	genus-only name	exact	Bacteria	Virgibacillus	accession	Bacteria	Bacilli	Caryophanales	Virgibacillus	84406	Virgibacillus	3	3	
+Pseudoxanthomonas	genus-only name	exact	Bacteria	Pseudoxanthomonas	accession	Bacteria	Gammaproteobacteria	Lysobacterales	Pseudoxanthomonas	83618	Pseudoxanthomonas	1	1	
+Candidatus Coatesbacteria bacterium	level=accession	accession	Bacteria	Candidatus	accession	Bacteria			Candidatus	2250272	Candidatus Coatesiibacteriota bacterium	1	2	
+Alcanivorax	genus-only name	exact	Bacteria	Alcanivorax	accession	Bacteria	Gammaproteobacteria	Oceanospirillales	Alcanivorax	59753	Alcanivorax	1	1	
+Pseudothermotoga	genus-only name	exact	Bacteria	Pseudothermotoga	accession	Bacteria	Thermotogae	Thermotogales	Pseudothermotoga	1643951	Pseudothermotoga	1	47	
+Piscinibacter	genus-only name	exact	Bacteria	Piscinibacter	accession	Bacteria	Betaproteobacteria	Burkholderiales	Piscinibacter	1114981	Piscinibacter	1	1	
+Eubacterium	genus-only name	exact	Bacteria	Eubacterium	accession	Bacteria	Clostridia	Eubacteriales	Eubacterium	1730	Eubacterium	1	1	
+Lactobacillus	genus-only name	exact	Bacteria	Lactobacillus	accession	Bacteria	Bacilli	Lactobacillales	Lactobacillus	1578	Lactobacillus	1	2	
+Heyndrickxia	genus-only name	exact	Bacteria	Heyndrickxia	accession	Bacteria	Bacilli	Caryophanales	Heyndrickxia	2837504	Heyndrickxia	5	12	
+Amycolatopsis	genus-only name	exact	Bacteria	Amycolatopsis	accession	Bacteria	Actinomycetes	Pseudonocardiales	Amycolatopsis	1813	Amycolatopsis	5	18	
+Brochothrix	genus-only name	exact	Bacteria	Brochothrix	accession	Bacteria	Bacilli	Caryophanales	Brochothrix	2755	Brochothrix	1	1	
+Chelatococcus	genus-only name	exact	Bacteria	Chelatococcus	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Chelatococcus	28209	Chelatococcus	3	14	
+Parageobacillus	genus-only name	exact	Bacteria	Parageobacillus	accession	Bacteria	Bacilli	Caryophanales	Parageobacillus	3120669	Anoxybacillaceae	2	8	
+Myxococcus	genus-only name	exact	Bacteria	Myxococcus	accession	Bacteria	Myxococcia	Myxococcales	Myxococcus	32	Myxococcus	1	8	
+Pseudomonas seleniipraecipitans	level=accession	accession	Bacteria	Phytopseudomonas	accession	Bacteria	Gammaproteobacteria	Pseudomonadales	Phytopseudomonas	640205	Phytopseudomonas seleniipraecipitans	2	2	
+Ignavibacterium	genus-only name	exact	Bacteria	Ignavibacterium	accession	Bacteria	Ignavibacteria	Ignavibacteriales	Ignavibacterium	795750	Ignavibacterium	1	1	
+Cellulomons edaphi	level=accession	accession	Bacteria	Cellulomonas	accession	Bacteria	Actinomycetes	Micrococcales	Cellulomonas	3053468	Cellulomonas edaphi	1	1	
+Streptomyces violarus	level=accession	accession	Bacteria	Streptomyces	accession	Bacteria	Actinomycetes	Kitasatosporales	Streptomyces	1936	Streptomyces violaceus	1	1	
+Exiguobacterium	genus-only name	exact	Bacteria	Exiguobacterium	accession	Bacteria	Bacilli	Caryophanales	Exiguobacterium	33986	Exiguobacterium	5	61	
+Xanthomonas	genus-only name	exact	Bacteria	Xanthomonas	accession	Bacteria	Gammaproteobacteria	Lysobacterales	Xanthomonas	338	Xanthomonas	5	37	
+Sinirhodobacter populi	level=accession	accession	Bacteria	Paenirhodobacter	accession	Bacteria	Alphaproteobacteria	Rhodobacterales	Paenirhodobacter	2306993	Paenirhodobacter populi	5	10	
+Cryptococcus neoformans var. grubii c45	level=accession	accession	Fungi	Cryptococcus	accession	Fungi	Tremellomycetes	Tremellales	Cryptococcus	1230068	Cryptococcus neoformans c45	2	36	
+Bordetella	genus-only name	exact	Bacteria	Bordetella	accession	Bacteria	Betaproteobacteria	Burkholderiales	Bordetella	517	Bordetella	4	13	
+Candidatus Acidoferrum typicum	level=unresolved	unresolved	NA	Candidatus	unresolved	NA			Candidatus			1	1	unresolved
+Bosea sp. BK604	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	2512180	Allobosea sp. BK604	1	1	
+Gemella	genus-only name	exact	Bacteria	Gemella	accession	Bacteria	Bacilli	Caryophanales	Gemella	1378	Gemella	1	1	
+Bosea sp. LC85	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	1502851	Allobosea sp. LC85	4	4	
+Amphritea	genus-only name	exact	Bacteria	Amphritea	accession	Bacteria	Gammaproteobacteria	Oceanospirillales	Amphritea	515417	Amphritea	1	5	
+Rhizobium sp. SORGH_AS_0787	level=unresolved	unresolved	NA	Rhizobium	unresolved	NA			Rhizobium			1	2	unresolved
+Elioraea thermophila	level=accession	accession	Bacteria	Elioraea	accession	Bacteria	Alphaproteobacteria	Acetobacterales	Elioraea	2185104	Elioraea thermophila (ex Habib et al. 2022)	1	5	
+Bosea sp. ANAM02	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	2020412	Allobosea sp. ANAM02	1	1	
+Parabacteroides	genus-only name	exact	Bacteria	Parabacteroides	accession	Bacteria	Bacteroidia	Bacteroidales	Parabacteroides	171549	Bacteroidales	1	1	
+Aminobacterium	genus-only name	exact	Bacteria	Aminobacterium	accession	Bacteria	Synergistia	Synergistales	Aminobacterium	81466	Aminobacterium	1	434	
+Saccharibacillus	genus-only name	exact	Bacteria	Saccharibacillus	accession	Bacteria	Bacilli	Caryophanales	Saccharibacillus	456492	Saccharibacillus	1	3	
+Xanthomendoza cf. fulva	level=accession	accession	Fungi	Gallowayella	accession	Fungi	Lecanoromycetes	Teloschistales	Gallowayella	2903221	Gallowayella cf. fulva	5	35	
+Phormidium sp. LEGE 05292	level=accession	accession	Bacteria	Floridanema	accession	Bacteria	Cyanophyceae	Aerosakkonematales	Floridanema	767427	[Phormidium] sp. LEGE 05292	1	2	
+Halopseudomonas	genus-only name	exact	Bacteria	Halopseudomonas	accession	Bacteria	Gammaproteobacteria	Pseudomonadales	Halopseudomonas	2901189	Halopseudomonas	1	1	
+Aquincola	genus-only name	exact	Bacteria	Aquincola	accession	Bacteria	Betaproteobacteria	Burkholderiales	Aquincola	391952	Aquincola	1	2	
+Verrucomicrobiae bacterium	level=esearch	esearch	Bacteria	Verrucomicrobiae	esearch	Bacteria			Verrucomicrobiae	1869227		5	169	
+Acidiphilium	genus-only name	exact	Bacteria	Acidiphilium	accession	Bacteria	Alphaproteobacteria	Acetobacterales	Acidiphilium	522	Acidiphilium	2	2	
+Enterocloster	genus-only name	exact	Bacteria	Enterocloster	accession	Bacteria	Clostridia	Lachnospirales	Enterocloster	2719313	Enterocloster	5	5	
+NAD	level=accession	accession	Fungi	Trichoderma	accession	Fungi	Sordariomycetes	Hypocreales	Trichoderma	1567552	Trichoderma lentiforme	2	18	
+Pseudalkalibacillus hwajinpoensis	level=accession	accession	Bacteria	Guptibacillus	accession	Bacteria	Bacilli	Caryophanales	Guptibacillus	208199	Guptibacillus hwajinpoensis	5	11	
+Selenomonas ruminantium	level=accession	accession	Bacteria	Pseudoselenomonas	accession	Bacteria	Negativicutes	Selenomonadales	Pseudoselenomonas	971	Pseudoselenomonas ruminantium	1	6	
+Histoplasma ohiense (nom. inval.)	level=accession	accession	Fungi	Histoplasma	accession	Fungi	Eurotiomycetes	Onygenales	Histoplasma	2902605	Histoplasma ohiense	5	13	
+Maribacter	genus-only name	exact	Bacteria	Maribacter	accession	Bacteria	Flavobacteriia	Flavobacteriales	Maribacter	252356	Maribacter	3	3	
+Candidatus Moanabacter tarae	level=accession	accession	Bacteria	Candidatus Moanibacter	accession	Bacteria	Opitutia	Puniceicoccales	Candidatus Moanibacter	2200854	Candidatus Moanibacter tarae	1	7	
+Candidatus Marinimicrobia bacterium CG_4_10_14_0_2_um_filter_48_9	level=accession	accession	Bacteria	Candidatus	accession	Bacteria			Candidatus	1975522	Fidelibacterota bacterium CG_4_10_14_0_2_um_filter_48_9	1	5	
+Candidatus Methanodesulfokores washburnensis	level=accession	accession	Archaea	Candidatus Methanodesulfokora	accession	Archaea	Candidatus Korarchaeia		Candidatus Methanodesulfokora	2478471	Candidatus Methanodesulfokora washburnensis	1	1	
+Afipia	genus-only name	exact	Bacteria	Afipia	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Afipia	1033	Afipia	2	5	
+Hungatella	genus-only name	exact	Bacteria	Hungatella	accession	Bacteria	Clostridia	Lachnospirales	Hungatella	1649459	Hungatella	2	2	
+Halostella	genus-only name	exact	Archaea	Halostella	accession	Archaea	Halobacteria	Halobacteriales	Halostella	1843185	Halostella	1	3	
+Aeribacillus	genus-only name	exact	Bacteria	Aeribacillus	accession	Bacteria	Bacilli	Caryophanales	Aeribacillus	1055323	Aeribacillus	2	8	
+Tibeticola	genus-only name	exact	Bacteria	Tibeticola	accession	Bacteria	Betaproteobacteria	Burkholderiales	Tibeticola	1940136	Tibeticola	1	1	
+Candidatus Acidoferrum sp.	level=unresolved	unresolved	NA	Candidatus	unresolved	NA			Candidatus			5	189	unresolved
+Variovorax	genus-only name	exact	Bacteria	Variovorax	accession	Bacteria	Betaproteobacteria	Burkholderiales	Variovorax	34072	Variovorax	5	5	
+Salmonella	genus-only name	exact	Bacteria	Salmonella	accession	Bacteria	Gammaproteobacteria	Enterobacterales	Salmonella	590	Salmonella	1	1	
+Halomonas	genus-only name	exact	Bacteria	Halomonas	accession	Bacteria	Gammaproteobacteria	Oceanospirillales	Halomonas	28256	Halomonadaceae	5	46	
+NADPH	level=accession	accession	Fungi	Lachnellula	accession	Fungi	Leotiomycetes	Helotiales	Lachnellula	215460	Lachnellula occidentalis	1	6	
+Psychrilyobacter	genus-only name	exact	Bacteria	Psychrilyobacter	accession	Bacteria	Fusobacteriia	Fusobacteriales	Psychrilyobacter	623282	Psychrilyobacter	3	301	
+Anaerostipes	genus-only name	exact	Bacteria	Anaerostipes	accession	Bacteria	Clostridia	Lachnospirales	Anaerostipes	207244	Anaerostipes	1	1	
+Comamonadaceae	genus-only name	exact	Bacteria	Comamonadaceae	accession	Bacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	80864	Comamonadaceae	1	1	
+Stigmatella erecta	level=accession	accession	Bacteria	Allostigmatella	accession	Bacteria	Myxococcia	Myxococcales	Allostigmatella	83460	Allostigmatella erecta	2	2	
+Paenibacillus	genus-only name	exact	Bacteria	Paenibacillus	accession	Bacteria	Bacilli	Caryophanales	Paenibacillus	44249	Paenibacillus	5	309	
+Enterobacteriaceae	genus-only name	exact	Bacteria	Enterobacteriaceae	accession	Bacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	543	Enterobacteriaceae	5	7	
+Geobacteraceae	genus-only name	exact	Bacteria	Geobacteraceae	accession	Bacteria	Desulfuromonadia	Geobacterales	Geobacteraceae	213422	Geobacteraceae	1	1	
+Fredinandcohnia sp. SECRCQ15	level=accession	accession	Bacteria	Ferdinandcohnia	accession	Bacteria	Bacilli	Caryophanales	Ferdinandcohnia	2918902	Fredinandcohnia quinoae	3	10	
+Thomasclavelia	genus-only name	exact	Bacteria	Thomasclavelia	accession	Bacteria			Thomasclavelia	1239	Bacillota	2	2	
+Stachybotrys chlorohalonata IBT 40285	level=accession	accession	Fungi	Stachybotrys	accession	Fungi	Sordariomycetes	Hypocreales	Stachybotrys	1283841	Stachybotrys chlorohalonatus IBT 40285	5	84	
+Pantoea	genus-only name	exact	Bacteria	Pantoea	accession	Bacteria	Gammaproteobacteria	Enterobacterales	Pantoea	53335	Pantoea	1	28	
+Acinetobacter	genus-only name	exact	Bacteria	Acinetobacter	accession	Bacteria	Gammaproteobacteria	Moraxellales	Acinetobacter	469	Acinetobacter	5	23	
+Halomonas pantelleriensis	level=accession	accession	Bacteria	Franzmannia	accession	Bacteria	Gammaproteobacteria	Oceanospirillales	Franzmannia	48727	Franzmannia pantelleriensis	1	5	
+Lysinibacillus	genus-only name	exact	Bacteria	Lysinibacillus	accession	Bacteria	Bacilli	Caryophanales	Lysinibacillus	400634	Lysinibacillus	5	83	
+Frigoribacterium	genus-only name	exact	Bacteria	Frigoribacterium	accession	Bacteria	Actinomycetes	Micrococcales	Frigoribacterium	96492	Frigoribacterium	2	2	
+Lysinibacillus yapensis	level=accession	accession	Bacteria	Ureibacillus	accession	Bacteria	Bacilli	Caryophanales	Ureibacillus	2304605	Ureibacillus yapensis	4	7	
+Methylorubrum	genus-only name	exact	Bacteria	Methylorubrum	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Methylorubrum	2282523	Methylorubrum	1	1	
+Bosea sp. 685	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	3080057	Allobosea sp. 685	5	15	
+Candidatus Saccharicenans subterraneum	level=accession	accession	Bacteria	Candidatus Saccharicenans	accession	Bacteria	Candidatus Aminicenantia	Candidatus Aminicenantales	Candidatus Saccharicenans	2508984	Candidatus Saccharicenans subterraneus	1	19	
+Candidatus Tectomicrobia bacterium	level=esearch	esearch	Bacteria	Candidatus	esearch	Bacteria			Candidatus	2528274		5	19	
+Gracilibacillus	genus-only name	exact	Bacteria	Gracilibacillus	accession	Bacteria	Bacilli	Caryophanales	Gracilibacillus	74385	Gracilibacillus	1	1	
+Bosea sp. Root483D1	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	1736544	Allobosea sp. Root483D1	3	3	
+Achromobacter	genus-only name	exact	Bacteria	Achromobacter	accession	Bacteria	Betaproteobacteria	Burkholderiales	Achromobacter	222	Achromobacter	5	67	
+NAD(+)	level=accession	accession	Fungi	Pseudocercospora	accession	Fungi	Dothideomycetes	Mycosphaerellales	Pseudocercospora	685502	Pseudocercospora fuligena	5	96	
+Aeromonas	genus-only name	exact	Bacteria	Aeromonas	accession	Bacteria	Gammaproteobacteria	Aeromonadales	Aeromonas	642	Aeromonas	2	9	
+Polynucleobacter	genus-only name	exact	Bacteria	Polynucleobacter	accession	Bacteria	Betaproteobacteria	Burkholderiales	Polynucleobacter	44013	Polynucleobacter	3	4	
+Pectobacterium	genus-only name	exact	Bacteria	Pectobacterium	accession	Bacteria	Gammaproteobacteria	Enterobacterales	Pectobacterium	122277	Pectobacterium	5	10	
+Vibrio	genus-only name	exact	Bacteria	Vibrio	accession	Bacteria	Gammaproteobacteria	Vibrionales	Vibrio	662	Vibrio	5	340	
+Azospirillum	genus-only name	exact	Bacteria	Azospirillum	accession	Bacteria	Alphaproteobacteria	Rhodospirillales	Azospirillum	191	Azospirillum	5	13	
+archaeon	genus-only name	exact	Archaea	archaeon	accession	Archaea			archaeon	1906665	archaeon	5	146	
+Photorhabdus	genus-only name	exact	Bacteria	Photorhabdus	accession	Bacteria	Gammaproteobacteria	Enterobacterales	Photorhabdus	29487	Photorhabdus	1	1	
+Pirellulaceae	genus-only name	exact	Bacteria	Pirellulaceae	accession	Bacteria	Planctomycetia	Pirellulales	Pirellulaceae	2691357	Pirellulaceae	3	3	
+Thermosipho	level=accession	accession	Bacteria	Thermosipho	accession	Bacteria	Thermotogae	Thermotogales	Thermosipho	2420	Thermosipho	1	1	
+Planomonospora sphaerica	level=accession	accession	Bacteria	Planomonospora	accession	Bacteria	Actinomycetes	Streptosporangiales	Planomonospora	58119	Planomonospora parontospora	1	1	
+Corallococcus	genus-only name	exact	Bacteria	Corallococcus	accession	Bacteria	Myxococcia	Myxococcales	Corallococcus	83461	Corallococcus	5	26	
+Candidatus Electrothrix sp. ATG2	level=esearch	esearch	Bacteria	Candidatus Electrothrix	esearch	Bacteria	Desulfobulbia	Desulfobulbales	Candidatus Electrothrix	2249222		2	3	
+Caballeronia	genus-only name	exact	Bacteria	Caballeronia	accession	Bacteria	Betaproteobacteria	Burkholderiales	Caballeronia	1827195	Caballeronia	1	1	
+Microbacterium sp. ET2 (Ac-2212)	level=accession	accession	Bacteria	Microbacterium	accession	Bacteria	Actinomycetes	Micrococcales	Microbacterium	3050384	Microbacterium albipurpureum	1	3	
+Stenotrophomonas	genus-only name	exact	Bacteria	Stenotrophomonas	accession	Bacteria	Gammaproteobacteria	Lysobacterales	Stenotrophomonas	40323	Stenotrophomonas	5	19	
+Granulicatella	genus-only name	exact	Bacteria	Granulicatella	accession	Bacteria	Bacilli	Lactobacillales	Granulicatella	117563	Granulicatella	2	2	
+Sphingobacterium composti Ten et al. 2007 non Yoo et al. 2007	level=accession	accession	Bacteria	Sphingobacterium	accession	Bacteria	Sphingobacteriia	Sphingobacteriales	Sphingobacterium	363260	Sphingobacterium composti Ten et al. 2007 non Yoo et al. 2007	1	7	
+Alteromonas	genus-only name	exact	Bacteria	Alteromonas	accession	Bacteria	Gammaproteobacteria	Alteromonadales	Alteromonas	226	Alteromonas	1	2	
+Ligilactobacillus	genus-only name	exact	Bacteria	Ligilactobacillus	accession	Bacteria	Bacilli	Lactobacillales	Ligilactobacillus	2767887	Ligilactobacillus	2	2	
+Leeuwenhoekiella	genus-only name	exact	Bacteria	Leeuwenhoekiella	accession	Bacteria	Flavobacteriia	Flavobacteriales	Leeuwenhoekiella	283735	Leeuwenhoekiella	1	1	
+Bosea sp. AS-1	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	2015316	Allobosea sp. AS-1	3	8	
+Alkalihalobacillus hemicentroti	level=accession	accession	Bacteria	Guptibacillus	accession	Bacteria	Bacilli	Caryophanales	Guptibacillus	208199	Guptibacillus hwajinpoensis	3	6	
+Thalassospira	genus-only name	exact	Bacteria	Thalassospira	accession	Bacteria	Alphaproteobacteria	Rhodospirillales	Thalassospira	168934	Thalassospira	3	3	
+Filomicrobium	genus-only name	exact	Bacteria	Filomicrobium	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Filomicrobium	119044	Filomicrobium	1	1	
+Novosphingobium mangrovi (ex Huang et al. 2023)	level=accession	accession	Bacteria	Novosphingobium	accession	Bacteria	Alphaproteobacteria	Sphingomonadales	Novosphingobium	2976432	Novosphingobium mangrovisedimenti	1	1	
+Aerococcus	genus-only name	exact	Bacteria	Aerococcus	accession	Bacteria	Bacilli	Lactobacillales	Aerococcus	1872398	Aerococcus sp.	1	1	
+Bosea sp. OK403	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	1855286	Allobosea sp. OK403	2	11	
+Achromobacter aestuarii	level=accession	accession	Bacteria	Schauerella	accession	Bacteria	Betaproteobacteria	Burkholderiales	Schauerella	2511204	Schauerella aestuarii	2	9	
+Halomonas qiaohouensis	level=accession	accession	Bacteria	Franzmannia	accession	Bacteria	Gammaproteobacteria	Oceanospirillales	Franzmannia	1329370	Franzmannia qiaohouensis	1	5	
+Bosea sp. BE125	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	2817909	Allobosea sp. BE125	4	13	
+Pelotomaculum	genus-only name	exact	Bacteria	Pelotomaculum	accession	Bacteria	Clostridia	Eubacteriales	Pelotomaculum	191373	Pelotomaculum	1	4	
+Actinomadura	genus-only name	exact	Bacteria	Actinomadura	accession	Bacteria	Actinomycetes	Streptosporangiales	Actinomadura	1988	Actinomadura	1	1	
+Bacteroidales	genus-only name	exact	Bacteria	Bacteroidales	accession	Bacteria	Bacteroidia	Bacteroidales	Bacteroidales	171549	Bacteroidales	3	3	
+Bacillaceae	genus-only name	exact	Bacteria	Bacillaceae	accession	Bacteria	Bacilli	Caryophanales	Bacillaceae	186817	Bacillaceae	5	109	
+Rhodobacterales	genus-only name	exact	Bacteria	Rhodobacterales	accession	Bacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacterales	204455	Rhodobacterales	1	5	
+Leucoraja erinacea	level=accession	accession	Metazoa	Leucoraja	accession	Metazoa	Chondrichthyes	Rajiformes	Leucoraja	7782	Leucoraja erinaceus	4	6	
+Macrococcus	genus-only name	exact	Bacteria	Macrococcus	accession	Bacteria	Bacilli	Caryophanales	Macrococcus	3039389	Macrococcus psychrotolerans	2	2	
+Nosocomiicoccus	genus-only name	exact	Bacteria	Nosocomiicoccus	accession	Bacteria	Bacilli	Caryophanales	Nosocomiicoccus	489909	Nosocomiicoccus	3	3	
+Caloramator	genus-only name	exact	Bacteria	Caloramator	accession	Bacteria	Clostridia	Eubacteriales	Caloramator	44258	Caloramator	1	1	
+Chthonomonadetes bacterium	level=esearch	esearch	Bacteria	Chthonomonadetes	esearch	Bacteria			Chthonomonadetes	1869227		2	86	
+Pseudomonas	genus-only name	exact	Bacteria	Pseudomonas	accession	Bacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonas	286	Pseudomonas	5	85	
+fungal sp. No.11243	level=accession	accession	Fungi	fungal	accession	Fungi	Dothideomycetes		fungal	1603295	Dothideomycetidae sp. 11243	5	36	
+Candidatus Carbobacillus altaicus	level=accession	accession	Bacteria	Candidatus Carbonibacillus	accession	Bacteria	Bacilli	Thermicanales	Candidatus Carbonibacillus	2163959	Candidatus Carbonibacillus altaicus	2	4	
+Brasilonema	genus-only name	exact	Bacteria	Brasilonema	accession	Bacteria	Cyanophyceae	Nostocales	Brasilonema	383614	Brasilonema	1	1	
+Tellurirhabdus bombi	level=accession	accession	Bacteria	Larkinella	accession	Bacteria	Cytophagia	Cytophagales	Larkinella	2907205	Larkinella bombi	1	5	
+Candidatus Aerophobetes bacterium	level=accession	accession	Bacteria	Candidatus	accession	Bacteria			Candidatus	2030807	Candidatus Aerophobota bacterium	4	7	
+Oscillospiraceae	genus-only name	exact	Bacteria	Oscillospiraceae	accession	Bacteria	Clostridia	Eubacteriales	Oscillospiraceae	216572	Oscillospiraceae	3	4	
+Marivita	genus-only name	exact	Bacteria	Marivita	accession	Bacteria	Alphaproteobacteria	Rhodobacterales	Marivita	659428	Marivita	1	6	
+Proteiniphilum	genus-only name	exact	Bacteria	Proteiniphilum	accession	Bacteria	Bacteroidia	Bacteroidales	Proteiniphilum	294702	Proteiniphilum	1	1	
+Phaeobacter	genus-only name	exact	Bacteria	Phaeobacter	accession	Bacteria	Alphaproteobacteria	Rhodobacterales	Phaeobacter	302485	Phaeobacter	1	1	
+Ophiocordyceps camponoti-leonardi (nom. inval.)	level=accession	accession	Fungi	Ophiocordyceps	accession	Fungi	Sordariomycetes	Hypocreales	Ophiocordyceps	2039875	Ophiocordyceps camponoti-leonardi	5	425	
+Oscillatoria nigro-viridis	level=accession	accession	Bacteria	Phormidium	accession	Bacteria	Cyanophyceae	Oscillatoriales	Phormidium	482564	Phormidium nigroviride	1	3	
+Zongyanglinia marina	level=accession	accession	Bacteria	Parasedimentitalea	accession	Bacteria	Alphaproteobacteria	Rhodobacterales	Parasedimentitalea	2578117	Parasedimentitalea maritima	4	8	
+Anaerococcus	genus-only name	exact	Bacteria	Anaerococcus	accession	Bacteria	Tissierellia	Tissierellales	Anaerococcus	165779	Anaerococcus	2	2	
+Micrococcaceae	genus-only name	exact	Bacteria	Micrococcaceae	accession	Bacteria	Actinomycetes	Micrococcales	Micrococcaceae	1268	Micrococcaceae	4	5	
+Aquimarina	genus-only name	exact	Bacteria	Aquimarina	accession	Bacteria	Flavobacteriia	Flavobacteriales	Aquimarina	290174	Aquimarina	2	2	
+Terribacillus	genus-only name	exact	Bacteria	Terribacillus	accession	Bacteria	Bacilli	Caryophanales	Terribacillus	361277	Terribacillus saccharophilus	2	8	
+Novosphingobium	genus-only name	exact	Bacteria	Novosphingobium	accession	Bacteria	Alphaproteobacteria	Sphingomonadales	Novosphingobium	165696	Novosphingobium	5	5	
+Lysinibacillus sp. JNUCC-51	level=accession	accession	Bacteria	Lysinibacillus	accession	Bacteria	Bacilli	Caryophanales	Lysinibacillus	2792479	Lysinibacillus sp. JNUCC 51	1	6	
+Cohnella	genus-only name	exact	Bacteria	Cohnella	accession	Bacteria	Bacilli	Caryophanales	Cohnella	329857	Cohnella	3	12	
+Leucobacter	genus-only name	exact	Bacteria	Leucobacter	accession	Bacteria	Actinomycetes	Micrococcales	Leucobacter	55968	Leucobacter	2	2	
+Rhizobium sp. SSA_523	level=accession	accession	Bacteria	Affinirhizobium	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Affinirhizobium	2952477	Rhizobium sp. SSA_523	2	2	
+Cryptococcus neoformans var. neoformans B-3501A	level=accession	accession	Fungi	Cryptococcus	accession	Fungi	Tremellomycetes	Tremellales	Cryptococcus	283643	Cryptococcus deneoformans B-3501A	4	41	
+Planococcus	level=accession	accession	Bacteria	Planococcus	accession	Bacteria	Bacilli	Caryophanales	Planococcus	1372	Planococcus	5	9	
+Brevundimonas	genus-only name	exact	Bacteria	Brevundimonas	accession	Bacteria	Alphaproteobacteria	Caulobacterales	Brevundimonas	41275	Brevundimonas	1	1	
+Candidatus Methanofastidiosa archaeon	level=esearch	esearch	Archaea	Candidatus	esearch	Archaea			Candidatus	1906665		1	1	
+Candidatus Methylacidiphilales bacterium	level=esearch	esearch	Bacteria	Candidatus	esearch	Bacteria	Methylacidiphilae	Methylacidiphilales	Candidatus	2720631		5	10	
+Ramlibacter	genus-only name	exact	Bacteria	Ramlibacter	accession	Bacteria	Betaproteobacteria	Burkholderiales	Ramlibacter	2682844	Ramlibacter pinisoli	1	1	
+Bacillales	genus-only name	exact	Bacteria	Bacillales	accession	Bacteria	Bacilli	Caryophanales	Brevibacillus	55080	Brevibacillus	5	29	
+Rossellomorea	genus-only name	exact	Bacteria	Rossellomorea	accession	Bacteria	Bacilli	Caryophanales	Rossellomorea	2837508	Rossellomorea	1	3	
+Arsenicicoccus	genus-only name	exact	Bacteria	Arsenicicoccus	accession	Bacteria	Actinomycetes	Micrococcales	Arsenicicoccus	267408	Arsenicicoccus	1	6	
+Boseaceae bacterium BT-24-1	level=unresolved	unresolved	NA	Boseaceae	unresolved	NA			Boseaceae			1	2	unresolved
+Anaerotruncus	genus-only name	exact	Bacteria	Anaerotruncus	accession	Bacteria	Clostridia	Eubacteriales	Anaerotruncus	244127	Anaerotruncus	1	79	
+Natronococcus sp. AD5	level=accession	accession	Archaea	Natronococcus	accession	Archaea	Halobacteria	Halobacteriales	Natronococcus	3068275	Natronococcus wangiae	1	1	
+Komagataeibacter	genus-only name	exact	Bacteria	Komagataeibacter	accession	Bacteria	Alphaproteobacteria	Acetobacterales	Komagataeibacter	1434011	Komagataeibacter	1	4	
+Candidatus Prometheoarchaeum syntrophicum	level=accession	accession	Archaea	Promethearchaeum	accession	Archaea	Promethearchaeia	Promethearchaeales	Promethearchaeum	2594042	Promethearchaeum syntrophicum	1	1	
+Pseudooceanicola	genus-only name	exact	Bacteria	Pseudooceanicola	accession	Bacteria	Alphaproteobacteria	Rhodobacterales	Pseudooceanicola	1679449	Pseudooceanicola	3	13	
+Salinibacterium metalliresistens	level=accession	accession	Bacteria	Antiquaquibacter	accession	Bacteria	Actinomycetes	Micrococcales	Antiquaquibacter	3031321	Antiquaquibacter metalliresistens	1	1	
+Candidatus Muirbacterium halophilum	level=accession	accession	Bacteria	Muiribacterium (SeqCode)	accession	Bacteria	Muiribacteriia (SeqCode)		Muiribacterium (SeqCode)	2053465	Muiribacterium halophilum (SeqCode)	1	1	
+candidate division bacterium WOR-3 4484_18	level=accession	accession	Bacteria	candidate	accession	Bacteria			candidate	2020626	Caldifarciminota bacterium 4484_18	1	3	
+Moorella	level=accession	accession	Bacteria	Neomoorella	accession	Bacteria	Clostridia	Neomoorellales	Neomoorella	44260	Moorella	1	1	
+Legionella	genus-only name	exact	Bacteria	Legionella	accession	Bacteria	Gammaproteobacteria	Legionellales	Legionella	445	Legionella	2	3	
+Jeotgalicoccus	genus-only name	exact	Bacteria	Jeotgalicoccus	accession	Bacteria	Bacilli	Caryophanales	Jeotgalicoccus	227979	Jeotgalicoccus	1	1	
+Nitrobacteraceae	genus-only name	exact	Bacteria	Nitrobacteraceae	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Tardiphaga	1395974	Tardiphaga	1	1	
+Mumia	genus-only name	exact	Bacteria	Mumia	accession	Bacteria	Actinomycetes	Propionibacteriales	Mumia	1678900	Mumia xiangluensis	1	6	
+Bradyrhizobium	genus-only name	exact	Bacteria	Bradyrhizobium	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Bradyrhizobium	374	Bradyrhizobium	5	7	
+Collinsella	genus-only name	exact	Bacteria	Collinsella	accession	Bacteria	Coriobacteriia	Coriobacteriales	Collinsella	102106	Collinsella	5	7	
+Laceyella	genus-only name	exact	Bacteria	Laceyella	accession	Bacteria	Bacilli	Caryophanales	Laceyella	292635	Laceyella	1	1	
+Candidatus Methanofastidiosum methylthiophilus	level=accession	accession	Archaea	Candidatus Methanofastidiosum	accession	Archaea	Candidatus Methanofastidiosia	Candidatus Methanofastidiosales	Candidatus Methanofastidiosum	1705564	Candidatus Methanofastidiosum methylothiophilum	1	1	
+Nocardiopsis	genus-only name	exact	Bacteria	Nocardiopsis	accession	Bacteria	Actinomycetes	Streptosporangiales	Nocardiopsis	2013	Nocardiopsis	1	1	
+Halomonas maris	level=accession	accession	Bacteria	Vreelandella	accession	Bacteria	Gammaproteobacteria	Oceanospirillales	Vreelandella	2729617	Vreelandella maris	1	1	
+Paracoccus	level=accession	accession	Bacteria	Paracoccus	accession	Bacteria	Alphaproteobacteria	Rhodobacterales	Paracoccus	265	Paracoccus	2	4	
+Actinomycetes	genus-only name	exact	Bacteria	Actinomycetes	accession	Bacteria	Actinomycetes		Actinomycetes	1760	Actinomycetes	2	2	
+Sphingobium	genus-only name	exact	Bacteria	Sphingobium	accession	Bacteria	Alphaproteobacteria	Sphingomonadales	Sphingobium	165695	Sphingobium	5	6	
+Chryseobacterium	genus-only name	exact	Bacteria	Chryseobacterium	accession	Bacteria	Flavobacteriia	Flavobacteriales	Chryseobacterium	59732	Chryseobacterium	1	1	
+Kazachstania exigua	level=accession	accession	Fungi	Maudiozyma	accession	Fungi	Saccharomycetes	Saccharomycetales	Maudiozyma	34358	Maudiozyma exigua	5	29	
+Lentilactobacillus	genus-only name	exact	Bacteria	Lentilactobacillus	accession	Bacteria	Bacilli	Lactobacillales	Lentilactobacillus	1581	Lentilactobacillus buchneri	1	10	
+Corynebacterium	genus-only name	exact	Bacteria	Corynebacterium	accession	Bacteria	Actinomycetes	Mycobacteriales	Corynebacterium	1716	Corynebacterium	1	1	
+Rhizobium	genus-only name	exact	Bacteria	Rhizobium	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Rhizobium	379	Rhizobium	5	1662	
+Bacillus	level=accession	accession	Bacteria	Bacillus	accession	Bacteria	Bacilli	Caryophanales	Bacillus	1386	Bacillus	5	565	
+Candidatus Saccharibacteria bacterium	level=esearch	esearch	Bacteria	Candidatus	esearch	Bacteria			Candidatus	1869227		1	1	
+Bosea sp. CS1GBMeth4	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	1892849	Allobosea sp. CS1GBMeth4	2	2	
+Staphylococcus	genus-only name	exact	Bacteria	Staphylococcus	accession	Bacteria	Bacilli	Caryophanales	Staphylococcus	1279	Staphylococcus	5	257	
+Bacillota	genus-only name	exact	Bacteria	Bacillota	accession	Bacteria			Bacillota	1239	Bacillota	2	2	
+Cryptococcus neoformans var. grubii H99	level=accession	accession	Fungi	Cryptococcus	accession	Fungi	Tremellomycetes	Tremellales	Cryptococcus	235443	Cryptococcus neoformans H99	4	39	
+Spiroplasma	genus-only name	exact	Bacteria	Spiroplasma	accession	Bacteria	Mollicutes	Entomoplasmatales	Spiroplasma	2132	Spiroplasma	4	14	
+Halomonas desiderata	level=accession	accession	Bacteria	Billgrantia	accession	Bacteria	Gammaproteobacteria	Oceanospirillales	Billgrantia	52021	Billgrantia desiderata	5	30	
+Cytobacillus	genus-only name	exact	Bacteria	Cytobacillus	accession	Bacteria	Bacilli	Caryophanales	Cytobacillus	2675230	Cytobacillus	5	34	
+Kurthia	genus-only name	exact	Bacteria	Kurthia	accession	Bacteria	Bacilli	Caryophanales	Kurthia	1649	Kurthia	2	2	
+Amycolatopsis sp., V23-08	level=accession	accession	Bacteria	Amycolatopsis	accession	Bacteria	Actinomycetes	Pseudonocardiales	Amycolatopsis	3110235	Amycolatopsis sp., V23-08	1	6	
+Streptomyces indiaensis	level=accession	accession	Bacteria	Streptomyces	accession	Bacteria	Actinomycetes	Kitasatosporales	Streptomyces	284033	[Streptosporangium] indianense	1	1	
+Rhodopseudomonas	genus-only name	exact	Bacteria	Rhodopseudomonas	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Rhodopseudomonas	1073	Rhodopseudomonas	2	4	
+Cryptococcus neoformans var. grubii A5-35-17	level=accession	accession	Fungi	Cryptococcus	accession	Fungi	Tremellomycetes	Tremellales	Cryptococcus	1230080	Cryptococcus neoformans A5-35-17	1	1	
+Mediterraneibacter	genus-only name	exact	Bacteria	Mediterraneibacter	accession	Bacteria	Clostridia	Lachnospirales	Mediterraneibacter	2316020	Mediterraneibacter	3	3	
+Terrisporobacter	genus-only name	exact	Bacteria	Terrisporobacter	accession	Bacteria	Clostridia	Peptostreptococcales	Terrisporobacter	1505652	Terrisporobacter	3	5	
+Bacillus sinesaloumensis	level=accession	accession	Bacteria	Litchfieldia	accession	Bacteria	Bacilli	Caryophanales	Litchfieldia	1926280	Litchfieldia sinesaloumensis	2	6	
+Kitasatospora	genus-only name	exact	Bacteria	Kitasatospora	accession	Bacteria	Actinomycetes	Kitasatosporales	Kitasatospora	2063	Kitasatospora	1	88	
+Kribbella	genus-only name	exact	Bacteria	Kribbella	accession	Bacteria	Actinomycetes	Propionibacteriales	Kribbella	182639	Kribbella	2	6	
+Planomicrobium	genus-only name	exact	Bacteria	Planomicrobium	accession	Bacteria	Bacilli	Caryophanales	Planomicrobium	162291	Planomicrobium	1	1	
+Mesoplasma	genus-only name	exact	Bacteria	Mesoplasma	accession	Bacteria	Mollicutes	Entomoplasmatales	Mesoplasma	46239	Mesoplasma	1	3	
+Rhodobacter	genus-only name	exact	Bacteria	Rhodobacter	accession	Bacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacter	1060	Rhodobacter	1	2	
+Bilophila	genus-only name	exact	Bacteria	Bilophila	accession	Bacteria	Desulfovibrionia	Desulfovibrionales	Bilophila	35832	Bilophila	1	248	
+Tupaia chinensis	level=accession	accession	Metazoa	Tupaia	accession	Metazoa	Mammalia	Scandentia	Tupaia	246437	Tupaia chinensis	4	5	
+Salimicrobium	genus-only name	exact	Bacteria	Salimicrobium	accession	Bacteria	Bacilli	Caryophanales	Salimicrobium	351195	Salimicrobium	3	9	
+Tepidiforma	genus-only name	exact	Bacteria	Tepidiforma	accession	Bacteria	Tepidiformia	Tepidiformales	Tepidiforma	2682228	Tepidiforma	1	2	
+Candidatus Kapabacteria bacterium	level=esearch	esearch	Bacteria	Candidatus	esearch	Bacteria			Candidatus	1869227		5	35	
+Microbispora	genus-only name	exact	Bacteria	Microbispora	accession	Bacteria	Actinomycetes	Streptosporangiales	Microbispora	2005	Microbispora	2	5	
+Gammaproteobacteria	genus-only name	exact	Bacteria	Gammaproteobacteria	accession	Bacteria	Gammaproteobacteria		Gammaproteobacteria	1236	Gammaproteobacteria	4	4	
+Skermanella	genus-only name	exact	Bacteria	Skermanella	accession	Bacteria	Alphaproteobacteria	Rhodospirillales	Skermanella	204447	Skermanella	1	2	
+Paenibacillus sp. JNUCC-32	level=accession	accession	Bacteria	Paenibacillus	accession	Bacteria	Bacilli	Caryophanales	Paenibacillus	2777984	Paenibacillus sp. JNUCC32	1	1	
+Tetrapisispora blattae CBS 6284	level=accession	accession	Fungi	Henningerozyma	accession	Fungi	Saccharomycetes	Saccharomycetales	Henningerozyma	1071380	Henningerozyma blattae CBS 6284	3	8	
+Gluconobacter	genus-only name	exact	Bacteria	Gluconobacter	accession	Bacteria	Alphaproteobacteria	Acetobacterales	Gluconobacter	441	Gluconobacter	2	3	
+Pseudalkalibacillus caeni	level=accession	accession	Bacteria	Exobacillus	accession	Bacteria	Bacilli	Caryophanales	Exobacillus	2574798	Exobacillus caeni	3	7	
+Candidatus Lumbricidophila sp.	level=unresolved	unresolved	NA	Candidatus	unresolved	NA			Candidatus			1	2	unresolved
+Cryptococcus neoformans var. grubii A1-35-8	level=accession	accession	Fungi	Cryptococcus	accession	Fungi	Tremellomycetes	Tremellales	Cryptococcus	1230081	Cryptococcus neoformans A1-35-8	1	1	
+Sporosarcina	genus-only name	exact	Bacteria	Sporosarcina	accession	Bacteria	Bacilli	Caryophanales	Sporosarcina	1569	Sporosarcina	5	7	
+Limnohabitans	genus-only name	exact	Bacteria	Limnohabitans	accession	Bacteria	Betaproteobacteria	Burkholderiales	Limnohabitans	665874	Limnohabitans	1	1	
+Candidatus Njordarchaeum guaymaensis	level=unresolved	unresolved	NA	Candidatus	unresolved	NA			Candidatus			1	1	unresolved
+unclassified Bosea (in: a-proteobacteria)	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	2653178	unclassified Allobosea	5	7	
+Massilimicrobiota	genus-only name	exact	Bacteria	Massiliimicrobium	accession	Bacteria	Erysipelotrichia	Erysipelotrichales	Massiliimicrobium	1924110	Massiliimicrobium	1	1	
+Acetobacter	genus-only name	exact	Bacteria	Acetobacter	accession	Bacteria	Alphaproteobacteria	Acetobacterales	Acetobacter	434	Acetobacter	4	15	
+Methylobacterium	genus-only name	exact	Bacteria	Methylobacterium	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Methylobacterium	407	Methylobacterium	5	11	
+Aneurinibacillus	genus-only name	exact	Bacteria	Aneurinibacillus	accession	Bacteria	Bacilli	Caryophanales	Aneurinibacillus	55079	Aneurinibacillus	1	1	
+Rhodomicrobium	genus-only name	exact	Bacteria	Rhodomicrobium	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Rhodomicrobium	1068	Rhodomicrobium	1	1	
+Frankia sp. CgIM4	level=accession	accession	Bacteria	Frankia	accession	Bacteria	Actinomycetes	Frankiales	Frankia	1742262	Frankia sp. CgMI4	1	1	
+Sphingomonas	genus-only name	exact	Bacteria	Sphingomonas	accession	Bacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonas	13687	Sphingomonas	5	7	
+(S)-acetoin forming	level=accession	accession	Fungi	Aspergillus	accession	Fungi	Eurotiomycetes	Eurotiales	Aspergillus	293939	Aspergillus lentulus	4	21	conflict:Fungi=3/Bacteria=1
+Halomonas niordiana	level=accession	accession	Bacteria	Onishia	accession	Bacteria	Gammaproteobacteria	Oceanospirillales	Onishia	2508711	Onishia niordana	2	6	
+bacterium (Candidatus Stahlbacteria) CG08_land_8_20_14_0_20_40_26	level=accession	accession	Bacteria	bacterium	accession	Bacteria			bacterium	2014294	Candidatus Stahliibacteriota bacterium CG08_land_8_20_14_0_20_40_26	1	5	
+Candidatus Rokubacteria bacterium	level=accession	accession	Bacteria	Candidatus	accession	Bacteria			Candidatus	2053607	Candidatus Rokuibacteriota bacterium	5	286	
+Candidatus Riflebacteria bacterium	level=esearch	esearch	Bacteria	Candidatus	esearch	Bacteria			Candidatus	1869227		1	40	
+Chelativorans	genus-only name	exact	Bacteria	Chelativorans	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Chelativorans	449972	Chelativorans	1	1	
+Promineifilum sp.	level=unresolved	unresolved	NA	Promineifilum	unresolved	NA			Promineifilum			5	33	unresolved
+Allobacillus	genus-only name	exact	Bacteria	Allobacillus	accession	Bacteria	Bacilli	Caryophanales	Allobacillus	1400133	Allobacillus	1	1	
+Clavibacter	genus-only name	exact	Bacteria	Clavibacter	accession	Bacteria	Actinomycetes	Micrococcales	Clavibacter	1573	Clavibacter	1	1	
+Lactobacillales	genus-only name	exact	Bacteria	Lactobacillales	accession	Bacteria	Bacilli	Lactobacillales	Lactobacillales	186826	Lactobacillales	1	238	
+Candidatus Marinimicrobia bacterium MT.SAG.2	level=accession	accession	Bacteria	Candidatus	accession	Bacteria			Candidatus	2552983	Fidelibacterota bacterium MT.SAG.2	1	51	
+Bosea sp. NBC_00550	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	2969621	Allobosea sp. NBC_00550	2	2	
+Bosea sp. UNC402CLCol	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	1510531	Allobosea sp. UNC402CLCol	4	4	
+Pseudomonadota	genus-only name	exact	Bacteria	Pseudomonadota	accession	Bacteria			Pseudomonadota	1224	Pseudomonadota	4	4	
+Sphingopyxis	genus-only name	exact	Bacteria	Sphingopyxis	accession	Bacteria	Alphaproteobacteria	Sphingomonadales	Sphingopyxis	165697	Sphingopyxis	1	1	
+Aureimonas	genus-only name	exact	Bacteria	Aureimonas	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Aureimonas	414371	Aureimonas	1	1	
+Nostocaceae	genus-only name	exact	Bacteria	Nostocaceae	accession	Bacteria	Cyanophyceae	Nostocales	Nostocaceae	1162	Nostocaceae	3	3	
+Pandoraea	genus-only name	exact	Bacteria	Pandoraea	accession	Bacteria	Betaproteobacteria	Burkholderiales	Pandoraea	93217	Pandoraea	5	12	
+Stagonospora sp. SRC1lsM3a	level=accession	accession	Fungi	Stagonospora	accession	Fungi	Dothideomycetes	Pleosporales	Stagonospora	765868	Phaeosphaeriaceae sp. SRC1lsM3a	5	86	
+Halomonas ethanolica	level=accession	accession	Bacteria	Billgrantia	accession	Bacteria	Gammaproteobacteria	Oceanospirillales	Billgrantia	2733486	Billgrantia ethanolica	1	5	
+Bosea sp. AAP35	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	1523417	Allobosea sp. AAP35	1	1	
+Candidatus Protistobacter heckmanni	level=unresolved	unresolved	NA	Candidatus	unresolved	NA			Candidatus			2	2	unresolved
+Bacteroidaceae	genus-only name	exact	Bacteria	Bacteroidaceae	accession	Bacteria	Bacteroidia	Bacteroidales	Phocaeicola	2773926	Phocaeicola sp.	1	6	
+Alisedimentitalea sp. MJ-SS2	level=accession	accession	Bacteria	Aliisedimentitalea	accession	Bacteria	Alphaproteobacteria	Rhodobacterales	Aliisedimentitalea	3049795	Aliisedimentitalea sp. MJ-SS2	1	1	
+Brachymonas sp.	level=unresolved	unresolved	NA	Brachymonas	unresolved	NA			Brachymonas			3	3	unresolved
+Streptococcus	genus-only name	exact	Bacteria	Streptococcus	accession	Bacteria	Bacilli	Lactobacillales	Streptococcus	1301	Streptococcus	5	21	
+Cryptococcus neoformans var. neoformans JEC21	level=accession	accession	Fungi	Cryptococcus	accession	Fungi	Tremellomycetes	Tremellales	Cryptococcus	214684	Cryptococcus deneoformans JEC21	4	41	
+Lysobacter	genus-only name	exact	Bacteria	Lysobacter	accession	Bacteria	Gammaproteobacteria	Lysobacterales	Lysobacter	68	Lysobacter	2	2	
+Halolactibacillus	genus-only name	exact	Bacteria	Halolactibacillus	accession	Bacteria	Bacilli	Caryophanales	Halolactibacillus	306539	Halolactibacillus	1	1	
+Candidatus Glassbacteria bacterium	level=esearch	esearch	Bacteria	Candidatus	esearch	Bacteria			Candidatus	1869227		1	40	
+Thermocrispum	genus-only name	exact	Bacteria	Thermocrispum	accession	Bacteria	Actinomycetes	Pseudonocardiales	Thermocrispum	37924	Thermocrispum	1	2	
+Pseudorhodobacter sp. 4114	level=unresolved	unresolved	NA	Pseudorhodobacter	unresolved	NA			Pseudorhodobacter			1	1	unresolved
+Jonquetella	genus-only name	exact	Bacteria	Jonquetella	accession	Bacteria	Synergistia	Synergistales	Jonquetella	428711	Jonquetella	1	1	
+Candidatus Marinimicrobia bacterium CG1_02_48_14	level=accession	accession	Bacteria	Candidatus	accession	Bacteria			Candidatus	1805240	Fidelibacterota bacterium CG1_02_48_14	1	5	
+Candida parapsilosis	level=accession	accession	Fungi	Lodderomyces	accession	Fungi	Pichiomycetes	Serinales	Lodderomyces	5480	Lodderomyces parapsilosis	5	25	
+Erwiniaceae	genus-only name	exact	Bacteria	Erwiniaceae	accession	Bacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	1903409	Erwiniaceae	1	1	
+Sphingobacterium	genus-only name	exact	Bacteria	Sphingobacterium	accession	Bacteria	Sphingobacteriia	Sphingobacteriales	Sphingobacterium	28453	Sphingobacterium	5	63	
+Agrobacterium	genus-only name	exact	Bacteria	Agrobacterium	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Agrobacterium	357	Agrobacterium	5	913	
+Dyella	genus-only name	exact	Bacteria	Dyella	accession	Bacteria	Gammaproteobacteria	Lysobacterales	Dyella	231454	Dyella	1	1	
+Rhizophagus diaphanus	level=accession	accession	Fungi	Rhizophagus	accession	Fungi	Glomeromycetes	Glomerales	Rhizophagus	1803374	Rhizophagus sp. MUCL 43196	5	12	
+Flavobacterium	genus-only name	exact	Bacteria	Flavobacterium	accession	Bacteria	Flavobacteriia	Flavobacteriales	Flavobacterium	237	Flavobacterium	2	2	
+Candidatus Pristimantibacillus lignocellulolyticus	level=accession	accession	Bacteria	Pristimantibacillus (SeqCode)	accession	Bacteria	Bacilli	Caryophanales	Pristimantibacillus (SeqCode)	2994561	Pristimantibacillus lignocellulolyticus (SeqCode)	1	2	
+Mameliella	genus-only name	exact	Bacteria	Antarctobacter	accession	Bacteria	Alphaproteobacteria	Rhodobacterales	Antarctobacter	74032	Antarctobacter	2	3	
+Comamonas	genus-only name	exact	Bacteria	Comamonas	accession	Bacteria	Betaproteobacteria	Burkholderiales	Comamonas	283	Comamonas	1	1	
+Thermoflexus	genus-only name	exact	Bacteria	Thermoflexus	accession	Bacteria	Thermoflexia	Thermoflexales	Thermoflexus	1495649	Thermoflexus	2	3	
+Hymenoscyphus varicosporioides	level=accession	accession	Fungi	Tricladium	accession	Fungi	Leotiomycetes	Helotiales	Tricladium	2075069	Tricladium varicosporioides	5	331	
+Aphanizomenonaceae	genus-only name	exact	Bacteria	Aphanizomenonaceae	accession	Bacteria	Cyanophyceae	Nostocales	Aphanizomenonaceae	1892259	Aphanizomenonaceae	2	2	
+Weeksellaceae	genus-only name	exact	Bacteria	Weeksellaceae	accession	Bacteria	Flavobacteriia	Flavobacteriales	Weeksellaceae	2762318	Weeksellaceae	1	1	
+Thermoanaerobacterium	genus-only name	exact	Bacteria	Thermoanaerobacterium	accession	Bacteria	Clostridia	Thermoanaerobacterales	Thermoanaerobacterium	28895	Thermoanaerobacterium	1	174	
+Leotiomycetes sp. MPI-SDFR-AT-0126	level=accession	accession	Fungi	Cadophora	accession	Fungi	Leotiomycetes	Helotiales	Cadophora	2138324	Cadophora sp. MPI-SDFR-AT-0126	5	871	
+Paenibacillus sp. BSR1-1	level=accession	accession	Bacteria	Neobacillus	accession	Bacteria	Bacilli	Caryophanales	Neobacillus	3020845	Neobacillus sp. BSR1-1	5	14	
+Actinotignum	genus-only name	exact	Bacteria	Actinotignum	accession	Bacteria	Actinomycetes	Actinomycetales	Actinotignum	1653174	Actinotignum	2	2	
+Candidatus Acetothermum autotrophicum	level=accession	accession	Bacteria	Candidatus Acetithermum	accession	Bacteria			Candidatus Acetithermum	1446466	Candidatus Acetithermum autotrophicum	1	29	
+Streptomyces	genus-only name	exact	Bacteria	Streptomyces	accession	Bacteria	Actinomycetes	Kitasatosporales	Streptomyces	1883	Streptomyces	5	2371	
+Halomonas alkaliphila	level=accession	accession	Bacteria	Vreelandella	accession	Bacteria	Gammaproteobacteria	Oceanospirillales	Vreelandella	272774	Vreelandella alkaliphila	1	1	
+Thiomonas	genus-only name	exact	Bacteria	Thiomonas	accession	Bacteria	Betaproteobacteria	Burkholderiales	Thiomonas	32012	Thiomonas	2	2	
+Bosea sp. F3-2	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	2599640	Allobosea sp. F3-2	3	3	
+Elizabethkingia	genus-only name	exact	Bacteria	Elizabethkingia	accession	Bacteria	Flavobacteriia	Flavobacteriales	Elizabethkingia	308865	Elizabethkingia	1	1	
+Candidatus Eremiobacteraeota bacterium	level=esearch	esearch	Bacteria	Candidatus	esearch	Bacteria			Candidatus	1869227		5	406	
+Peribacillus	genus-only name	exact	Bacteria	Peribacillus	accession	Bacteria	Bacilli	Caryophanales	Peribacillus	2675229	Peribacillus	5	26	
+Acidobacterium	genus-only name	exact	Bacteria	Acidobacterium	accession	Bacteria	Terriglobia	Terriglobales	Acidobacterium	33973	Acidobacterium	1	1	
+Fictibacillus	genus-only name	exact	Bacteria	Fictibacillus	accession	Bacteria	Bacilli	Caryophanales	Fictibacillus	1329200	Fictibacillus	2	3	
+Rhodoplanes	genus-only name	exact	Bacteria	Rhodoplanes	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Rhodoplanes	29407	Rhodoplanes	3	7	
+Prevotella	genus-only name	exact	Bacteria	Prevotella	accession	Bacteria	Bacteroidia	Bacteroidales	Prevotella	838	Prevotella	1	1	
+Ophiocordyceps camponoti-saundersi (nom. inval.)	level=accession	accession	Fungi	Ophiocordyceps	accession	Fungi	Sordariomycetes	Hypocreales	Ophiocordyceps	2039874	Ophiocordyceps camponoti-saundersi	5	395	
+Bacillus sp. SXabc123	level=unresolved	unresolved	NA	Bacillus	unresolved	NA			Bacillus			1	1	unresolved
+Scytonema hyalinum WJT4-NPBG1	level=unresolved	unresolved	NA	Scytonema	unresolved	NA			Scytonema			2	3	unresolved
+Viridibacillus	genus-only name	exact	Bacteria	Viridibacillus	accession	Bacteria	Bacilli	Caryophanales	Viridibacillus	496496	Viridibacillus	3	7	
+Mediterranea sp.	level=esearch	esearch	Bacteria	Mediterranea	esearch	Bacteria	Bacteroidia	Bacteroidales	Mediterranea	1926660		2	4	
+Salinicoccus	genus-only name	exact	Bacteria	Salinicoccus	accession	Bacteria	Bacilli	Caryophanales	Salinicoccus	45669	Salinicoccus	2	3	
+Bosea sp. WAO	level=accession	accession	Bacteria	Allobosea	accession	Bacteria	Alphaproteobacteria	Hyphomicrobiales	Allobosea	406341	Allobosea sp. WAO	2	3	
+Histoplasma mississippiense (nom. inval.)	level=accession	accession	Fungi	Histoplasma	accession	Fungi	Eurotiomycetes	Onygenales	Histoplasma	2059318	Histoplasma mississippiense	4	10	
+Fredinandcohnia sp. QZ13	level=accession	accession	Bacteria	Ferdinandcohnia	accession	Bacteria	Bacilli	Caryophanales	Ferdinandcohnia	3073144	Ferdinandcohnia sp. QZ13	2	2	
+Muricauda sp. TMED12	level=accession	accession	Bacteria	Allomuricauda	accession	Bacteria	Flavobacteriia	Flavobacteriales	Allomuricauda	1986608	Allomuricauda sp. TMED12	1	1	
+Olivibacter	genus-only name	exact	Bacteria	Olivibacter	accession	Bacteria	Sphingobacteriia	Sphingobacteriales	Olivibacter	84566	Sphingobacteriaceae	1	1	

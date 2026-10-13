@@ -7,7 +7,7 @@ acs,acs_pKerr14a	rare	Butyriboletus roseoflavus	KAG8213181.1	B:Mesorhizobium sp.
 acs,acs_pKerr14a	rare	Leucoagaricus sp. SymC.cos	KXN89159.1	B:Rhizobium 30.3%/167	Chiua virens 27.5%/103	64	50	0	0	0
 acs,acs_pKerr14a	rare	Mycena latifolia	KAJ7464060.1	B:Rhizobium 30.4%/158	Butyriboletus roseoflavus 36.1%/157	1	43	3	4	0
 chs	rare	Friedmanniomyces endolithicus	KAK0366082.1	B:Sphingobium yanoikuyae 99.7%/775	none	775	50	0	0	0
-chs	rare	Metschnikowia pulcherrima	KAJ8143645.1	B:Cellulosimicrobium cellulans 96.4%/727	none	727	49	0	0	0
+chs	rare	Metschnikowia pulcherrima	KAJ8143645.1	B:Cellulosimicrobium cellulans 96.4%/727	none	727	50	0	0	0
 chs	rare	Rhizopus arrhizus	KAG1203422.1	B:Achromobacter sp. Bel 99.7%/637	none	637	50	0	0	0
 chs	rare	Fusarium phalaenopsidis	KAL6359175.1	B:Agrobacterium larrymoorei 61.6%/498	none	498	50	0	0	0
 chs	rare	Fusarium vanettenii 77-13-4	EEU41297.1	B:Agrobacterium larrymoorei 61.9%/496	none	496	50	0	0	0
@@ -58,13 +58,13 @@ cus	rare	Hebeloma velutipes	KAO1061018.1	B:Allorhizobium ampelinum 56.4%/381	But
 cus	rare	Mycena rebaudengoi	KAJ7289093.1	P:Stylosanthes scabra 61.8%/382	Butyriboletus roseoflavus 51.0%/200	182	47	3	0	0
 cus	rare	Monosporozyma servazzii	CAL9735043.1	P:Ceratopteris richardii 57.4%/370	Mycena alexandri 46.9%/268	102	48	2	0	0
 mas1	control_top	Rhizopus microsporus	KAG1254624.1	B:Achromobacter marplatensis 100.0%/460	none	460	50	0	0	0
-mas1	control_random	Elaphomyces granulatus	OXV05108.1	B:Ignavibacteria bacterium 75.3%/379	none	379	49	0	0	0
+mas1	control_random	Elaphomyces granulatus	OXV05108.1	B:Ignavibacteria bacterium 75.3%/379	none	379	50	0	0	0
 mas1	control_top	Cutaneotrichosporon sp. HIS471	BEJ12881.1	B:Xanthomonadaceae bacterium 63.7%/315	none	315	50	0	0	0
 mas1	control_top	Rhizopus arrhizus	KAG1438974.1	B:Achromobacter marplatensis 99.3%/282	none	282	50	0	0	0
 mas1	control_top	Trichosporon ovoides	KAN1538006.1	B:Pararhodospirillum oryzae 62.0%/318	Hyaloraphidium curvatum 59.6%/295	23	50	0	0	0
 mas1	control_top	Aphanocladium album	KAJ6784079.1	B:Streptomyces sp. NBC_01356 62.8%/326	Colletotrichum plurivorum 59.8%/318	8	34	0	16	0
-mas1	control_top	Talaromyces stipitatus ATCC 10500	EED24058.1	B:Acinetobacter pittii 73.2%/393	Polytolypa hystricis UAMH7299 67.1%/387	6	1	0	41	0
-mas1	control_top	Talaromyces atroroseus	OKL59002.1	B:Acinetobacter pittii 72.1%/391	Polytolypa hystricis UAMH7299 68.5%/390	1	1	0	42	0
+mas1	control_top	Talaromyces stipitatus ATCC 10500	EED24058.1	B:Acinetobacter pittii 73.2%/393	Polytolypa hystricis UAMH7299 67.1%/387	6	1	0	49	0
+mas1	control_top	Talaromyces atroroseus	OKL59002.1	B:Acinetobacter pittii 72.1%/391	Polytolypa hystricis UAMH7299 68.5%/390	1	1	0	49	0
 mas2	control_top	Mortierella sp. GBA39	KAF9139135.1	B:Paenibacillus favisporus 90.5%/583	none	583	50	0	0	0
 nos	control_random	Fusarium langsethiae	GKU08709.1	B:Agrobacterium larrymoorei 78.0%/517	Sporormia fimetaria CBS 119925 38.6%/249	268	47	0	3	0
 nos	control_top	Rhypophila sp. PSN 637	KAM7187585.1	B:Agrobacterium tumefaciens 39.5%/228	Butyriboletus roseoflavus 34.4%/129	99	45	0	5	0
@@ -72,30 +72,30 @@ nos	control_top	Rhypophila decipiens	KAK4208163.1	B:Sinorhizobium meliloti 33.9%
 nos	control_top	Butyriboletus roseoflavus	KAG8213183.1	B:Agrobacterium tumefaciens 39.1%/185	Rhypophila decipiens 34.3%/111	74	42	0	8	0
 nos	control_top	Rhypophila decipiens	KAM7213959.1	B:Agrobacterium vitis 34.3%/174	Butyriboletus roseoflavus 33.6%/106	68	49	0	1	0
 nos	control_top	Mycena latifolia	KAJ7458538.1	B:unclassified Bradyrhizobium 49.9%/331	Halenospora varia 44.9%/299	32	44	0	6	0
-nos	control_top	Cordyceps cateniannulata	KAN4143432.1	B:Bradyrhizobium oligotrophicum 42.7%/259	Penicillium rubens Wisconsin 54-1255 41.8%/241	18	32	0	18	0
-nos	control_top	Beauveria bassiana	PMB73139.1	B:Bradyrhizobium sp. SZCCHNS3002 41.3%/242	Aspergillus sclerotialis 37.6%/225	17	22	0	28	0
-nos	control_top	Beauveria bassiana	KAM3546940.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/244	Aspergillus sclerotialis 37.9%/227	17	22	0	28	0
-nos	control_top	Beauveria bassiana ARSEF 2860	EJP68988.1	B:Bradyrhizobium sp. SZCCHNRI1009 42.3%/255	Aspergillus terreus 37.6%/239	16	39	0	11	0
-nos	control_top	Beauveria neobassiana	KAM3467039.1	B:Bradyrhizobium sp. SZCCHNS3002 41.9%/250	Aspergillus terreus 36.7%/234	16	25	0	25	0
-nos	control_top	Beauveria neobassiana	KAM3477698.1	B:Bradyrhizobium sp. SZCCHNS3002 41.9%/250	Aspergillus terreus 36.7%/234	16	25	0	25	0
-nos	control_top	Beauveria gryllotalpidicola	KAM3507744.1	B:Bradyrhizobium sp. SZCCHNS3002 40.5%/244	Aspergillus terreus 35.8%/229	15	32	0	18	0
-nos	control_top	Beauveria bassiana	KAM3535648.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/245	Aspergillus sclerotialis 38.2%/230	15	22	0	28	0
-nos	control_top	Beauveria bassiana D1-5	KGQ08844.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/248	Aspergillus terreus 36.7%/233	15	26	0	24	0
-nos	control_top	Beauveria namnaoensis	KAM3484578.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/243	Aspergillus terreus 36.5%/229	14	28	0	22	0
-nos	control_top	Beauveria namnaoensis	KAM3494973.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/243	Aspergillus terreus 36.5%/229	14	28	0	22	0
-nos	control_top	Beauveria neobassiana	KAN5924949.1	B:Bradyrhizobium sp. SZCCHNS3002 41.9%/250	Aspergillus terreus 37.0%/236	14	25	0	25	0
-nos	control_top	Beauveria bassiana	PQK08802.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/248	Aspergillus terreus 37.2%/236	12	24	0	26	0
-nos	control_top	Beauveria bassiana	KAM0666636.1	B:Bradyrhizobium sp. SZCCHNS3002 41.0%/243	Aspergillus sclerotialis 38.5%/234	9	42	0	8	0
-nos	control_top	Beauveria bassiana	KAM3532117.1	B:Bradyrhizobium sp. SZCCHNS3002 41.0%/239	Aspergillus sclerotialis 38.2%/234	5	34	0	16	0
+nos	control_top	Cordyceps cateniannulata	KAN4143432.1	B:Bradyrhizobium oligotrophicum 42.7%/259	Penicillium rubens Wisconsin 54-1255 41.8%/241	18	32	0	16	0
+nos	control_top	Beauveria bassiana	PMB73139.1	B:Bradyrhizobium sp. SZCCHNS3002 41.3%/242	Aspergillus sclerotialis 37.6%/225	17	22	0	27	0
+nos	control_top	Beauveria bassiana	KAM3546940.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/244	Aspergillus sclerotialis 37.9%/227	17	22	0	27	0
+nos	control_top	Beauveria bassiana ARSEF 2860	EJP68988.1	B:Bradyrhizobium sp. SZCCHNRI1009 42.3%/255	Aspergillus terreus 37.6%/239	16	38	0	10	0
+nos	control_top	Beauveria neobassiana	KAM3467039.1	B:Bradyrhizobium sp. SZCCHNS3002 41.9%/250	Aspergillus terreus 36.7%/234	16	25	0	24	0
+nos	control_top	Beauveria neobassiana	KAM3477698.1	B:Bradyrhizobium sp. SZCCHNS3002 41.9%/250	Aspergillus terreus 36.7%/234	16	25	0	24	0
+nos	control_top	Beauveria gryllotalpidicola	KAM3507744.1	B:Bradyrhizobium sp. SZCCHNS3002 40.5%/244	Aspergillus terreus 35.8%/229	15	32	0	16	0
+nos	control_top	Beauveria bassiana	KAM3535648.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/245	Aspergillus sclerotialis 38.2%/230	15	22	0	27	0
+nos	control_top	Beauveria bassiana D1-5	KGQ08844.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/248	Aspergillus terreus 36.7%/233	15	26	0	23	0
+nos	control_top	Beauveria namnaoensis	KAM3484578.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/243	Aspergillus terreus 36.5%/229	14	28	0	21	0
+nos	control_top	Beauveria namnaoensis	KAM3494973.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/243	Aspergillus terreus 36.5%/229	14	28	0	21	0
+nos	control_top	Beauveria neobassiana	KAN5924949.1	B:Bradyrhizobium sp. SZCCHNS3002 41.9%/250	Aspergillus terreus 37.0%/236	14	25	0	24	0
+nos	control_top	Beauveria bassiana	PQK08802.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/248	Aspergillus terreus 37.2%/236	12	24	0	25	0
+nos	control_top	Beauveria bassiana	KAM0666636.1	B:Bradyrhizobium sp. SZCCHNS3002 41.0%/243	Aspergillus sclerotialis 38.5%/234	9	40	0	8	0
+nos	control_top	Beauveria bassiana	KAM3532117.1	B:Bradyrhizobium sp. SZCCHNS3002 41.0%/239	Aspergillus sclerotialis 38.2%/234	5	34	0	14	0
 nos	control_random	Myriangium duriaei CBS 260.36	KAF2158142.1	B:Rhizobium sp. 30.2%/194	Ilyonectria destructans 32.1%/189	5	23	0	27	0
-nos	control_random	Ophiocordyceps camponoti-saundersi (nom. inval.)	RDA94655.1	B:unclassified Bradyrhizobium 38.3%/224	Penicillium angulare 36.9%/221	3	18	0	32	0
-nos	control_top	Lecanicillium sp. MT-2017a	KAK3175812.1	B:unclassified Bradyrhizobium 46.3%/101	Xylaria sp. FL0043 43.7%/99	1.6	22	0	28	0
+nos	control_random	Ophiocordyceps camponoti-saundersi (nom. inval.)	RDA94655.1	B:unclassified Bradyrhizobium 38.3%/224	Penicillium angulare 36.9%/221	3	18	0	31	0
+nos	control_top	Lecanicillium sp. MT-2017a	KAK3175812.1	B:unclassified Bradyrhizobium 46.3%/101	Xylaria sp. FL0043 43.7%/99	1.6	22	0	27	0
 ocs	control_random	Fusarium langsethiae	KPA35696.1	B:Agrobacterium larrymoorei 79.1%/462	Sporormia fimetaria CBS 119925 37.3%/205	257	49	0	1	0
-ocs	control_random	Hirsutella rhossiliensis	KAH0962947.1	B:Bradyrhizobium oligotrophicum 42.5%/263	Penicillium citrinum 38.3%/242	21	25	0	25	0
-ocs	control_random	Cordyceps cateniannulata	KAN4143432.1	B:Bradyrhizobium oligotrophicum 42.7%/259	Penicillium rubens Wisconsin 54-1255 41.8%/241	18	32	0	18	0
-ocs	control_random	Beauveria bassiana	KAM0666636.1	B:Bradyrhizobium sp. SZCCHNS3002 41.0%/243	Aspergillus sclerotialis 38.5%/234	9	42	0	8	0
+ocs	control_random	Hirsutella rhossiliensis	KAH0962947.1	B:Bradyrhizobium oligotrophicum 42.5%/263	Penicillium citrinum 38.3%/242	21	24	0	25	0
+ocs	control_random	Cordyceps cateniannulata	KAN4143432.1	B:Bradyrhizobium oligotrophicum 42.7%/259	Penicillium rubens Wisconsin 54-1255 41.8%/241	18	32	0	16	0
+ocs	control_random	Beauveria bassiana	KAM0666636.1	B:Bradyrhizobium sp. SZCCHNS3002 41.0%/243	Aspergillus sclerotialis 38.5%/234	9	40	0	8	0
 ocs	control_random	Gnomoniopsis smithogilvyi	KAJ4397655.1	B:unclassified Bradyrhizobium 35.4%/199	Aspergillus taichungensis 34.7%/193	6	22	0	28	0
-ocs	control_random	Beauveria bassiana	KAM3532117.1	B:Bradyrhizobium sp. SZCCHNS3002 41.0%/239	Aspergillus sclerotialis 38.2%/234	5	34	0	16	0
+ocs	control_random	Beauveria bassiana	KAM3532117.1	B:Bradyrhizobium sp. SZCCHNS3002 41.0%/239	Aspergillus sclerotialis 38.2%/234	5	34	0	14	0
 sus	rare	Aureobasidium melanogenum	KAH0437978.1	B:Paraburkholderia fungorum 99.5%/2221	none	2221	50	0	0	0
 sus	rare	Schizosaccharomyces japonicus yFS275	EEB09509.1	B:Halomonas sp. LBP4 56.9%/344	none	344	50	0	0	0
 sus	rare	Schizosaccharomyces pombe	CAC19749.1	B:Halomonas anticariensis 54.2%/322	none	322	50	0	0	0
@@ -107,11 +107,11 @@ sus	rare	Melanogaster broomeanus	KAF9232081.1	B:Rhizobium rhizogenes 40.8%/105	n
 sus	rare	Moelleriella libera RCEF 2490	KZZ90191.1	B:Paraburkholderia aspalathi 25.3%/83	none	83.2	50	0	0	0
 vis	control_top	Rhizopus arrhizus	KAG1458480.1	B:Luminiphilus sp. 60.8%/475	none	475	50	0	0	0
 vis	control_top	Rhizopus arrhizus	KAG1254267.1	B:Achromobacter marplatensis 99.4%/322	none	322	50	0	0	0
-vis	control_random	Kwoniella shandongensis	WWD22210.1	B:Bosea sp. (in: a-proteobacteria) 42.5%/265	Penicillium capsulatum 34.0%/199	66	41	8	0	0
+vis	control_random	Kwoniella shandongensis	WWD22210.1	B:unclassified Bosea (in: a-proteobacteria) 43.3%/270	Penicillium capsulatum 34.0%/199	71	50	0	0	0
 vis	control_random	Mycena latifolia	KAJ7458538.1	B:unclassified Bradyrhizobium 49.9%/331	Halenospora varia 44.9%/299	32	44	0	6	0
-vis	control_random	Beauveria bassiana ARSEF 2860	EJP68988.1	B:Bradyrhizobium sp. SZCCHNRI1009 42.3%/255	Aspergillus terreus 37.6%/239	16	39	0	11	0
-vis	control_random	Beauveria gryllotalpidicola	KAM3507744.1	B:Bradyrhizobium sp. SZCCHNS3002 40.5%/244	Aspergillus terreus 35.8%/229	15	32	0	18	0
-vis	control_random	Cordyceps militaris	ATY61894.1	B:Bradyrhizobium sp. SZCCHNRI20481 40.1%/243	Penicillium robsamsonii 39.0%/235	8	16	0	34	0
+vis	control_random	Beauveria bassiana ARSEF 2860	EJP68988.1	B:Bradyrhizobium sp. SZCCHNRI1009 42.3%/255	Aspergillus terreus 37.6%/239	16	38	0	10	0
+vis	control_random	Beauveria gryllotalpidicola	KAM3507744.1	B:Bradyrhizobium sp. SZCCHNS3002 40.5%/244	Aspergillus terreus 35.8%/229	15	32	0	16	0
+vis	control_random	Cordyceps militaris	ATY61894.1	B:Bradyrhizobium sp. SZCCHNRI20481 40.1%/243	Penicillium robsamsonii 39.0%/235	8	16	0	33	0
 vis	control_top	Suillus spraguei	KAG2362636.1	B:Agrobacterium 31.3%/124	Pseudogymnoascus sp. VKM F-4519 (FW-2642) 31.4%/119	5	3	3	44	0
-vis	control_random	Claviceps sorghi	KAG5951299.1	B:unclassified Bradyrhizobium 39.3%/226	Penicillium citrinum 38.5%/221	5	23	0	27	0
-vis	control_random	Cordyceps militaris CM01	EGX90707.1	B:Bradyrhizobium sp. SRS-191 40.3%/239	Aspergillus sclerotialis 39.0%/234	5	16	0	34	0
+vis	control_random	Claviceps sorghi	KAG5951299.1	B:unclassified Bradyrhizobium 39.3%/226	Penicillium citrinum 38.5%/221	5	23	0	26	0
+vis	control_random	Cordyceps militaris CM01	EGX90707.1	B:Bradyrhizobium sp. SRS-191 40.3%/239	Aspergillus sclerotialis 39.0%/234	5	16	0	33	0

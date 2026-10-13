@@ -1,13 +1,13 @@
-gene	proteomes with a forward-search hit	median / maximum identity of best hits to the seed, %	proteins checked by reverse search	proteins with non-fungal closest relatives	T-DNA candidates	non-T-DNA candidates
-sus	11	26.6 / 41.5	12	9	1: Basidiomycota: Boletales (*Melanogaster*)	0
-cus	259	30.4 / 62.4	263	6	6: Basidiomycota: Agaricales (*Amanita*, *Mycena*, *Hebeloma*); Ascomycota: Saccharomycetales (*Monosporozyma*)	0
-chs	159	27.2 / 61.9	163	45	33: Ascomycota: Hypocreales (*Fusarium*, *Dactylonectria*)	0
-acs	40	28.2 / 35.1	40	7	0	4: Basidiomycota: Agaricales (*Pleurotus*); Boletales (*Boletus*, *Butyriboletus*)
-acs_pKerr14a	44	27.4 / 35.4	44	6	0	4: Basidiomycota: Agaricales (*Pleurotus*); Boletales (*Boletus*, *Butyriboletus*)
-nos	751	25.4 / 40.0	150	24	4: Basidiomycota: Boletales (*Butyriboletus*); Ascomycota: Sordariales (*Rhypophila*)	1: Ascomycota: Hypocreales (*Fusarium*)
-ocs	733	27.2 / 32.8	150	6	0	1: Ascomycota: Hypocreales (*Fusarium*)
-vis	775	27.1 / 32.8	150	10	0	0
-ags	2920	33.1 / 45.7	150	0	0	0
-mas1	6045	29.5 / 40.7	150	8	0	0
-mas2	1	22.2 / 22.2	1	1	0	0
-mis	130	35.4 / 44.3	130	0	0	0
+gene	proteomes with a forward-search hit	median identity of best hits to the seed, %	maximum identity of best hits to the seed, %	proteins checked by reverse search	proteins with non-fungal closest relatives	T-DNA candidates	non-T-DNA candidates
+sus	11	26.6	41.5	12	9	1: Basidiomycota: Boletales (*Melanogaster*)	0
+cus	259	30.4	62.4	263	6	6: Basidiomycota: Agaricales (*Amanita*, *Mycena*, *Hebeloma*); Ascomycota: Saccharomycetales (*Monosporozyma*)	0
+chs	159	27.2	61.9	163	45	33: Ascomycota: Hypocreales (*Fusarium*, *Dactylonectria*)	0
+acs	40	28.2	35.1	40	7	0	4: Basidiomycota: Agaricales (*Pleurotus*); Boletales (*Boletus*, *Butyriboletus*)
+acs_pKerr14a	44	27.4	35.4	44	6	0	4: Basidiomycota: Agaricales (*Pleurotus*); Boletales (*Boletus*, *Butyriboletus*)
+nos	751	25.4	40.0	150	24	4: Basidiomycota: Boletales (*Butyriboletus*); Ascomycota: Sordariales (*Rhypophila*)	1: Ascomycota: Hypocreales (*Fusarium*)
+ocs	733	27.2	32.8	150	6	0	1: Ascomycota: Hypocreales (*Fusarium*)
+vis	775	27.1	32.8	150	10	0	0
+ags	2920	33.1	45.7	150	0	0	0
+mas1	6045	29.5	40.7	150	8	0	0
+mas2	1	22.2	22.2	1	1	0	0
+mis	130	35.4	44.3	130	0	0	0

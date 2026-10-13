@@ -1,11 +1,11 @@
-import sys as _sys, os as _os; _sys.path.insert(0, _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..', '..', '..')))
-from gmo_paths import GMO_ROOT  # noqa: E402
 #!/usr/bin/env python3
 # summary.tsv for the extra dN/dS sets; yn00 filter as in ../parse_paml.py (pairs with dS>0.01 and omega<5)
+import sys as _sys, os as _os; _sys.path.insert(0, _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..', '..', '..')))
+from gmo_paths import GMO_ROOT  # noqa: E402
 import re, statistics, os
 from scipy.stats import chi2
 X = f'{GMO_ROOT}/analysis/dnds/extra'
-SETS = ['chs', 'odh', 'pepP', 'g3', 'nosODH_Bol', 'cus_nonBol', 'cus_nonBol_sp', 'acs_pKerr14a', 'cus_Bol', 'cus_Bol_sp']
+SETS = ['chs', 'odh', 'pepP', 'g3', 'nosODH_Bol', 'cus_nonBol', 'cus_nonBol_sp', 'acs_pKerr14a', 'cus_Bol', 'cus_Bol_sp', 'cus_Bol_conf', 'cus_Bol_sp_conf', 'acs_pKerr14a_conf', 'nosODH_Bol_conf']
 def sites(p):
     try: return int(open(p).readline().split()[1]) // 3
     except Exception: return ''

@@ -1,0 +1,114 @@
+IQ-TREE 3.1.1 built Apr  8 2026
+
+Input file name: acs_pKerr14a_conf.codon.fna
+Type of analysis: tree reconstruction
+Random seed number: 383896
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 4 sequences with 543 nucleotide sites
+Number of constant sites: 334 (= 61.5101% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 334 (= 61.5101% of all sites)
+Number of parsimony informative sites: 37
+Number of distinct site patterns: 74
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+G4
+
+Rate parameter R:
+
+  A-C: 1.2179
+  A-G: 4.2289
+  A-T: 0.7498
+  C-G: 1.0420
+  C-T: 5.2267
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.2767
+  pi(C) = 0.2413
+  pi(G) = 0.2408
+  pi(T) = 0.2413
+
+Rate matrix Q:
+
+  A    -0.893    0.1757    0.6091    0.1082
+  C    0.2016    -1.106    0.1501    0.7542
+  G    0.6999    0.1504   -0.9946    0.1443
+  T    0.1241    0.7542     0.144    -1.022
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 0.7304
+
+ Category  Relative_rate  Proportion
+  1         0.08069        0.25
+  2         0.3775         0.25
+  3         0.9356         0.25
+  4         2.606          0.25
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -1729.3821 (s.e. 42.3599)
+Unconstrained log-likelihood (without tree): -1636.5953
+Number of free parameters (#branches + #model parameters): 14
+Akaike information criterion (AIC) score: 3486.7641
+Corrected Akaike information criterion (AICc) score: 3487.5596
+Bayesian information criterion (BIC) score: 3546.9237
+
+Total tree length (sum of branch lengths): 0.7395
+Sum of internal branch lengths: 0.0714 (9.6573% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'ACS_JBBPKL010003317_L1' is drawn at root
+
++---------ACS_JBBPKL010003317_L1
+|
+|        +---------ACS_JBBPNB010000203_L1
++--------|
+|        +------ACS_JBBPRY010001778_L1
+|
++-----------------------------------------------------------ACS_JBBPNB010000771_L1
+
+Tree in newick format:
+
+(ACS_JBBPKL010003317_L1:0.0811042402,(ACS_JBBPNB010000203_L1:0.0812697931,ACS_JBBPRY010001778_L1:0.0577511138):0.0714117018,ACS_JBBPNB010000771_L1:0.4479238610);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t acs_pKerr14a_conf.tree.treefile -m "GTR{1.21794,4.22893,0.749814,1.04201,5.22672}+F{0.276703,0.241252,0.240792,0.241252}+G4{0.730415}" --length 543
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s acs_pKerr14a_conf.codon.fna --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s acs_pKerr14a_conf.codon.fna --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Tue Oct 13 21:21:32 2026
+Total CPU time used: 0.143889 seconds (0h:0m:0s)
+Total wall-clock time used: 0.0864924 seconds (0h:0m:0s)
+

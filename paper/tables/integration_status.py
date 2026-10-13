@@ -3,28 +3,37 @@
 Inputs (final-numbered supplementary TSVs, paper/supplementary/): TableS1a, TableS8 (read depth), TableS9 (independent assemblies),
 TableS12 (genes on the island contigs). Output: integration_status.tsv, integration_status_summary.tsv (this directory).
 Run (env PlantCad2): python integration_status.py
-Rules (a locus gets the first matching class):
+Rules (a locus gets the first matching class). 2026-10-13ak, review v14 point 1: F2/R2/CHR redefined (see below).
  confirmed  = any of
-   F2  fungal genes on both flanks: S1a genomic_context == 'fungal context' (assumed to mean fungal neighbours on both sides),
-       or S12 lists annotated genes on the same contig on both sides of the locus
+   F2  fungal-classified gene on BOTH sides of the locus, computed per side from per-neighbour classifications
+       (analysis/loci_pipeline/round2/neighbors_class.tsv majority_kingdom == Fungi, top_org genus different from the carrier species' genus (self-only hits do not count) and n_hits >= 1; analysis/islands/islands_genes.tsv role == Fungi, which
+       overrides neighbors_class when both cover the same gene, so self_only / bacterial_like / TARGET genes do not count;
+       analysis/fusarium_odh_island/reverse_search_summary.tsv for the flanking genes of the F. poae Fp133 odh island, positions from
+       fig4/fp133_window_genes.tsv). Contig names are matched without the '.1' version suffix. Genes overlapping the locus or any other
+       registered locus of the contig (S1a, S12 focal rows, islands_genes TARGET/registry rows) are ignored. S1a genomic_context is NOT
+       evidence of two flanks any more. chs-like loci have no per-neighbour classification and get no F2.
    R   reproduced with flanks in an independent assembly (S9: locus covered >=0.5 and both flanks covered >=0.5)
    D2  read depth ratio (S8 locus_depth_ratio) 0.5-2 AND junction reads (S8) > 0 on both flanks
- Lineage-specific evidence (2026-10-13 refinement; S13a/S13b have no neighbour-gene columns, only contig geometry and assembly level):
-   CHR  locus on a chromosome-level sequence (S13a / S13b column assembly_level == 'Chromosome') at >= 1 kb from both contig ends, not SHORT/EDGE: treated as F2 (fungal flanks)
-   R2   the same locus (chs-like; odh/pepP/orf3 genes of the island; same species) found in >= 2 assemblies of one species (S13a/S13b: species, assembly), not SHORT/EDGE
-   (nos-ODH: S10b/S12 - annotated island genes on both sides = F2 via S12; otherwise LONG below)
+   CHR (any assembly level, incl. 'Complete Genome'; the criterion is the sequence role) locus on an assembled-molecule sequence with Assigned-Molecule-Location/Type == Chromosome in the NCBI assembly report
+       (analysis/data_checks_20261013/assembly_reports/; S13a/S13b sequences), >= 1 kb from both contig ends, not SHORT/EDGE.
+       Unlocalized / unplaced scaffolds and sequences without a downloaded report are not verified and get no CHR (they may get LONG).
  uncertain (first override; applies if not confirmed) =
    SHORT  contig shorter than locus length + 2 kb (1 kb on either side)
    EDGE   locus touches a contig end (start <= 1 or end >= contig length; S8 'edge' flanks)
  supported = any of
+   R2   a gene of the same lineage found in >=2 assemblies of the species (S13a/S13b: species, assembly), not SHORT/EDGE;
+        the identity of the insertion (same flanks) is NOT verified
    LONG contig >= 100 kb, locus not at a contig end, genomic_context not bacterial, and depth ratio not outside 0.5-2 (a fungal-sized contig is itself evidence)
-   F1  fungal gene on one flank only: S1a genomic_context == 'mixed', or S12 genes on one side only
+   F1  fungal-classified gene on one side only (per-side data); if no per-side data exist, S1a genomic_context 'fungal context' or 'mixed'
+       counts as F1 (at least one fungal neighbour)
    D1  depth ratio 0.5-2 without junction reads on both sides
  uncertain (remaining) =
    DEPTH  depth ratio < 0.5 or > 2 without other support (no F/R/D rule met)
    NONB   no neighbour information and no other support
 """
-import csv, os, re
+import sys as _sys, os as _os; _sys.path.insert(0, _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..', '..')))
+from gmo_paths import GMO_ROOT  # noqa: E402
+import csv, os, re, glob
 from collections import Counter, defaultdict
 P = os.path.dirname(os.path.abspath(__file__)); S = P + '/../supplementary/'
 rd = lambda f: list(csv.DictReader(open(S + f), delimiter='\t'))
@@ -46,18 +55,52 @@ for r in s9:
     if lc is not None and l is not None and rr is not None and lc >= .5 and l >= .5 and rr >= .5:
         repro.update(x for x in re.split(r'[;,\s]+', r['loci']) if x)
 
-# S12: sides with genes, per S1a locus (same assembly+contig, overlapping coordinates of the focal row)
-byc = defaultdict(list)
-for r in s12: byc[(r['assembly'], r['contig'])].append(r)
-s12sides = {}
-for o in s1a:
-    rows = byc.get((o['assembly'], o['contig']))
-    if not rows: continue
-    a, b = int(o['start']), int(o['end'])
-    foc = [r for r in rows if r['gene_class'] == 'focal locus' and int(r['start']) <= b and int(r['end']) >= a]
-    if not foc: continue
-    nb = [r for r in rows if r['gene_class'] != 'focal locus']
-    s12sides[o['locus_id']] = (any(int(r['end']) < a for r in nb), any(int(r['start']) > b for r in nb))
+# 2026-10-13ak, review v14 point 1: per-side fungal neighbours from per-neighbour classification tables (not from S1a genomic_context)
+G = P + '/../../analysis/'
+nrm = lambda c: re.sub(r'\.\d+$', '', c)
+zones = defaultdict(list)                      # normalised contig -> [(start, end)] of registered loci (ignored as neighbours)
+for o in s1a: zones[nrm(o['contig'])].append((int(o['start']), int(o['end'])))
+for r in s12:
+    if r['gene_class'] == 'focal locus': zones[nrm(r['contig'])].append((int(r['start']), int(r['end'])))
+genes = defaultdict(dict)                      # normalised contig -> {(start, end): set of classes 'F'/'N'/'B'}
+def addg(contig, s, e, cls): genes[nrm(contig)].setdefault((s, e), set()).add(cls)
+carrier = {nrm(o['contig']): re.sub(r' \(cluster [^)]*\)', '', o['species']).split()[0].lower() for o in s1a if o['species'].split()}
+for r in csv.DictReader(open(G + 'loci_pipeline/round2/neighbors_class.tsv'), delimiter='\t'):
+    if r['kind'] != 'neighbor': continue
+    q = r['query'].split('|'); m = re.match(r'^(\d+)-(\d+)[+-]$', q[2]) if len(q) > 2 else None
+    if not m: continue
+    contig = re.sub(r'_(S\d)?[LA]\d+$', '', r['locus_id'].split('_', 1)[1])
+    # 2026-10-13ak follow-up: a neighbour is fungal only if its top hit is from another genus than the carrier species (self-only hits do not count) and n_hits >= 1
+    cls = {'Fungi': 'F', 'Bacteria': 'B'}.get(r['majority_kingdom'], 'N')
+    if cls == 'F' and (int(r['n_hits'] or 0) < 1 or (carrier.get(nrm(contig)) and r['top_org'].split()[:1] and r['top_org'].split()[0].lower() == carrier[nrm(contig)])): cls = 'N'
+    addg(contig, int(m.group(1)), int(m.group(2)), cls)
+igo = defaultdict(dict)
+for r in csv.DictReader(open(G + 'islands/islands_genes.tsv'), delimiter='\t'):
+    s_, e_ = int(r['start']), int(r['end'])
+    if r['role'] == 'TARGET' or r['registry_locus']: zones[nrm(r['contig'])].append((s_, e_)); continue
+    igo[nrm(r['contig'])][(s_, e_)] = {'Fungi': 'F', 'bacterial_like': 'B'}.get(r['role'], 'N')
+for c, d in igo.items():
+    for k, v in d.items(): genes[c][k] = {v}   # islands_genes (self_only aware) overrides neighbors_class for the same gene
+# Fp133 left flank (KAL3595991) has a 'synthetic construct' best bacterial hit (87.9% over 58 aa) but 47/50 top hits are fungal: kept as fungal
+# odh island of F. poae Fp133 (= GCA_046056315.1, CM100256.1): classified flanking genes
+win = {r['protein']: r for r in csv.DictReader(open(G + 'fusarium_odh_island/fig4/fp133_window_genes.tsv'), delimiter='\t')}
+for r in csv.DictReader(open(G + 'fusarium_odh_island/reverse_search_summary.tsv'), delimiter='\t'):
+    if 'flanking' in r['gene'] and r['query'] in win:
+        w = win[r['query']]
+        addg(w['contig'], int(w['start']), int(w['end']), 'F' if int(r['top50_non_Fusarium_fungal']) > int(r['top50_non_Fusarium_other']) else 'N')
+def sides(o):
+    c = nrm(o['contig']); a, b = int(o['start']), int(o['end'])
+    gl = [(k, v) for k, v in genes.get(c, {}).items() if not any(k[0] <= ze and k[1] >= zs for zs, ze in zones[c])]
+    if not gl: return None
+    fung = [k for k, v in gl if 'F' in v and 'B' not in v]
+    return any(k[1] < a for k in fung), any(k[0] > b for k in fung)
+
+# CHR: assembled-molecule Chromosome sequences from the NCBI assembly reports (six chromosome-level Fusarium assemblies)
+chrom = set()
+for fn in glob.glob(G + 'data_checks_20261013/assembly_reports/*_assembly_report.txt'):
+    for l in open(fn):
+        f = l.rstrip('\n').split('\t')
+        if not l.startswith('#') and len(f) > 4 and f[1] == 'assembled-molecule' and f[3] == 'Chromosome': chrom.add(nrm(f[4]))
 
 out = []
 for o in s1a:
@@ -68,10 +111,10 @@ for o in s1a:
         jl = d['reads_spanning_left_flank']; jr = d['reads_spanning_right_flank']
         jl = None if jl == 'edge' else fl(jl); jr = None if jr == 'edge' else fl(jr)
     ctx = o['genomic_context']
-    left = right = None
-    if lid in s12sides: left, right = s12sides[lid]
-    elif ctx == 'fungal context': left = right = True
-    elif ctx == 'mixed': left, right = True, False   # one flank only (which side is not recorded)
+    sd = sides(o)
+    if sd is not None: left, right = sd
+    elif ctx in ('fungal context', 'mixed'): left, right = True, False   # no per-side data: at least one fungal neighbour = F1 only
+    else: left = right = None
     rules = []; conf = []; sup = []; unc = []
     if left and right: conf.append('F2')
     if lid in repro: conf.append('R')
@@ -81,8 +124,8 @@ for o in s1a:
     edge = a <= 1 or b >= L or (d is not None and 'edge' in (d['reads_spanning_left_flank'], d['reads_spanning_right_flank']))
     if lid in lvl and not short and not edge:
         al, sp, asm, g = lvl[lid]
-        if al == 'Chromosome' and a > 1000 and L - b > 1000: conf.append('CHR')
-        if len(asm_by[(gk(lid, g), sp)]) >= 2: conf.append('R2')
+        if nrm(o['contig']) in chrom and a > 1000 and L - b > 1000: conf.append('CHR')
+        if len(asm_by[(gk(lid, g), sp)]) >= 2: sup.append('R2')
     outdepth = ratio is not None and not inr
     if L >= 100000 and not edge and not short and ctx != 'bacterial context' and not outdepth: sup.append('LONG')
     if (left or right) and not (left and right): sup.append('F1')
