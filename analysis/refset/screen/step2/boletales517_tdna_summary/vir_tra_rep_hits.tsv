@@ -1,0 +1,4 @@
+gca	organism	contig	contig_len	start	end	strand	subject	category	pident	subj_cov	genome_is_carrier	contig_has_carrier_locus
+GCA_038093235.1	Boletus harrisonii	JBBPRV010018860.1	368	2	64	-	WP_010900316.1|tra|NC_002575.1|Martinezella_rhizogenes|-|conjugal_transfer_protein_TrbE	tra	85.7	0.03	1	0
+GCA_038093235.1	Boletus harrisonii	JBBPRV010018860.1	368	79	366	-	AAB95096.1|tra|AF242881.1|Agrobacterium_tumefaciens|trbD|trbD	tra	89.6	0.97	1	0
+GCA_051942495.1	Pisolithus albus	JBPZPH010001517.1	488	2	451	-	WP_010900304.1|tra|NC_002575.1|Martinezella_rhizogenes|-|TraH_family_protein	tra	61.3	0.74	0	0

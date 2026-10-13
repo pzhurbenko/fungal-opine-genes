@@ -1,0 +1,16 @@
+fam	ref	len	id_to_canonical	max_id_other_T1	mean_id_T1	id_to_paralog	pfam
+CUS	Agro_WP_233741845.1_MULTISPECIES_hypothetical_protein_Rhizobium_Agrobacterium_group	344	0.08	0.71	0.37		Cucumopine_C
+CUS	Plant_KAL3512627.1_hypothetical_protein_ACH5RR_025344_Cinchona_calisaya	319	0.09	0.59	0.34		Cucumopine_C
+CUS	Plant_KAK9667948.1_hypothetical_protein_RND81_13G023000_Saponaria_officinalis	323	0.09	0.65	0.35		Cucumopine_C
+CUS	Plant_tra3CaTG-Cus	363	0.09	0.71	0.36		Cucumopine_C
+CUS	Plant_KAH7432836.1_hypothetical_protein_KP509_07G042600_Ceratopteris_richardii	336	0.10	0.55	0.32		Cucumopine_C
+CUS	Plant_MED6115461.1_hypothetical_protein_PIB30_090885_Stylosanthes_scabra	317	0.11	0.86	0.39		Cucumopine_C
+CUS	Plant_WBO26547.1_cuslike_protein_Arachis_hypogaea	265	0.12	0.86	0.39		Cucumopine_C
+CUS	Agro_WP_174037302.1_hypothetical_protein_Agrobacterium_tumefaciens	311	0.12	0.41	0.27		Cucumopine_C
+CUS	Agro_WP_077768163.1_MULTISPECIES_DUF3830_family_protein_Rhizobium_Agrobacterium_group	318	0.24	0.26	0.22		DUF3830 + Cucumopine_C
+CUS	Agro_WP_128406407.1_hypothetical_protein_Rhizobium_leguminosarum	138	0.33	0.33	0.25		(none)
+CUS	Agro_WP_010900213.1_MULTISPECIES_hypothetical_protein_Rhizobium_Agrobacterium_group	181	0.35	0.37	0.23		Cucumopine_C
+CUS	Plant_VFQ61161.1_unnamed_protein_product_Cuscuta_campestris	331	0.57	0.63	0.26		Cucumopine_C
+CUS	Agro_WP_174054202.1_hypothetical_protein_Rhizobium_rhizogenes	320	0.61	0.66	0.26		Cucumopine_C
+CUS	Plant_AIV42059.1_putative_mikimopine_synthase_partial_Nicotiana_glauca_x_Nicotiana_langsdo	299	0.86	0.86	0.28		Cucumopine_C
+CUS	Agro_BAB16139.1_riorf20_plasmid_Rhizobium_rhizogenes	328	1.00	0.86	0.27		Cucumopine_C

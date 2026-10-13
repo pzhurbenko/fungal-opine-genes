@@ -1,0 +1,1811 @@
+gca	organism	fam	subgroup_call	score	gap_bits	protein
+GCA_010724795.1	Aspergillus udagawae	CUS	cus	110.0	110.0	GFF28661.1
+GCA_042370625.1	Thermothelomyces heterothallicus CBS 202.75	ACS	ambiguous	29.0	29.0	KAL2174058.1
+GCA_002894145.1	Trichoderma harzianum	ACS	ambiguous	18.8	18.8	PNP53108.1
+GCF_038497795.1	Lipomyces arxii	ACS	ambiguous	25.5	7.8	XP_066774265.1
+GCA_030868995.1	Colletotrichum melonis	ACS	ambiguous	21.6	21.6	KAK1469100.1
+GCA_057676105.1	Fusarium papillatum	CUS	mis	238.2	238.2	KAN9664531.1
+GCA_001023035.1	Fusarium fujikuroi	ACS	ambiguous	20.2	20.2	KLO84822.1
+GCA_000516985.1	Pestalotiopsis fici W106-1	ACS	ambiguous	18.2	18.2	ETS82247.1
+GCA_000149955.2	Fusarium oxysporum f. sp. lycopersici 4287	ACS	ambiguous	20.3	20.3	KNB02964.1
+GCA_013396165.1	Fusarium globosum	ACS	ambiguous	18.9	18.9	KAF5698582.1
+GCA_058095685.1	Scedosporium apiospermum	ACS	ambiguous	17.4	17.4	KAO0472062.1
+GCF_036810445.1	Kwoniella europaea PYCC6329	ACS	ambiguous	20.3	0.9	XP_066085694.1
+GCA_027604305.1	Chytridiales sp. JEL 0842	ACS	ambiguous	20.0	20.0	KAJ3417449.1
+GCA_020647795.1	Trichoderma atroviride	ACS	ambiguous	17.7	17.7	UKZ62169.1
+GCA_023137865.1	Aspergillus niger	CUS	cus	109.6	109.6	KAI2990078.1
+GCF_000149645.3	Aspergillus fischeri NRRL 181	CUS	cus	105.0	105.0	XP_001259066.1
+GCA_028826945.1	Penicillium chrysogenum	CUS	cus	61.8	61.8	KAJ5277614.1
+GCA_004337985.1	Pyricularia pennisetigena	ORF358	orf358	106.3	106.3	TLS21461.1
+GCA_004337985.1	Pyricularia pennisetigena	ORF358	orf358	101.6	101.6	TLS21612.1
+GCA_057674405.1	[Neocosmospora] sp. B6999-1	CUS	mis	238.2	238.2	KAN9015803.1
+GCA_029590625.1	Lasiodiplodia mahajangana	ACS	acs	39.3	39.3	KAJ8121881.1
+GCF_042370955.1	Sodiomyces alcalophilus JCM 7366	ACS	ambiguous	18.6	18.6	XP_070873127.1
+GCA_024043135.1	Alternaria rosae	ACS	ambiguous	17.4	17.4	KAI4952575.1
+GCA_016861625.1	Aspergillus luchuensis	CUS	cus	109.6	109.6	BCS02807.1
+GCA_030869305.1	Colletotrichum tamarilloi	ACS	ambiguous	21.6	21.6	KAK1511719.1
+GCA_030869305.1	Colletotrichum tamarilloi	CUS	ambiguous	20.4	20.4	KAK1493940.1
+GCA_009663055.1	Fusarium fujikuroi	ACS	ambiguous	18.7	18.7	QGI61322.1
+GCF_030913485.1	Colletotrichum godetiae	ACS	ambiguous	19.8	19.8	XP_060436226.1
+GCA_003184925.1	Aspergillus vadensis CBS 113365	CUS	cus	105.0	105.0	PYH71012.1
+GCA_047715575.1	Aspergillus varians	ACS	ambiguous	17.2	17.2	KAL4781283.1
+GCF_051103115.1	Cordyceps javanica	ACS	kerr14	31.9	31.9	XP_083111294.1
+GCF_051103115.1	Cordyceps javanica	CUS	mis	312.0	312.0	XP_083111494.1
+GCF_051103115.1	Cordyceps javanica	CUS	rcorf12	39.4	39.4	XP_083111926.1
+GCA_902141235.2	Clonostachys solani	ACS	ambiguous	19.3	19.3	CAH0039503.1
+GCA_902141235.2	Clonostachys solani	CUS	mis	237.9	237.9	CAH0045577.1
+GCA_911639145.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8927291.1
+GCA_035135035.1	Recurvomyces mirabilis	CUS	ambiguous	19.8	19.8	KAK4552406.1
+GCA_028828005.1	Penicillium manginii	ACS	ambiguous	17.6	17.6	KAJ5751194.1
+GCA_027921745.1	Schizosaccharomyces osmophilus	ACS	ambiguous	31.5	1.1	WBW70663.1
+GCA_029226625.1	Colletotrichum graminicola	ORF358	orf358	75.6	75.6	WDK12850.1
+GCA_000347355.1	Claviceps purpurea 20.1	CUS	ambiguous	24.3	24.3	CCE29623.1
+GCA_056513265.1	Epibryon interlamellare	ACS	acs	41.0	41.0	KAN4863400.1
+GCA_004917795.1	Aureobasidium pullulans	CUS	ambiguous	18.5	18.5	THY89059.1
+GCA_023138355.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3109881.1
+GCA_016508695.1	Hyphodiscus hymeniophilus	CUS	ambiguous	24.7	24.7	KAG0648489.1
+GCA_023137675.1	Aspergillus niger	CUS	cus	109.6	109.6	KAI3062867.1
+GCF_028974085.1	Penicillium chermesinum	CUS	ambiguous	18.8	18.8	XP_058327838.1
+GCA_001661315.1	Nadsonia fulvescens var. elongata DSM 6958	ACS	ambiguous	18.5	18.5	ODQ64229.1
+GCA_001661315.1	Nadsonia fulvescens var. elongata DSM 6958	ACS	ambiguous	16.5	16.5	ODQ63669.1
+GCA_011066595.1	Orbilia oligospora	ACS	ambiguous	18.4	18.4	KAF3118879.1
+GCA_032884055.1	Fusarium oxysporum	ACS	ambiguous	19.8	19.8	KAK2686677.1
+GCA_032884055.1	Fusarium oxysporum	ACS	ambiguous	17.8	17.8	KAK2695259.1
+GCA_000226545.1	Podospora anserina S mat+	ACS	ambiguous	23.6	23.6	CAP70908.1
+GCF_000836115.1	Exophiala spinifera	CUS	ambiguous	17.7	17.7	XP_016236501.1
+GCA_000507405.3	Kwoniella heveanensis BCC8398	ACS	ambiguous	24.4	6.2	OCF37365.1
+GCA_004917845.1	Wallemia ichthyophaga	SUS	ambiguous	18.6	18.6	TIA99676.1
+GCA_003316975.2	Fusarium verticillioides	ACS	ambiguous	20.4	20.4	RBQ78063.1
+GCA_037044635.1	Martiniozyma asiatica (nom. inval.)	ACS	ambiguous	21.3	1.3	GMM32506.1
+GCA_003184525.1	Aspergillus sclerotioniger CBS 115572	CUS	cus	103.7	103.7	PWY93562.1
+GCA_003184525.1	Aspergillus sclerotioniger CBS 115572	CUS	ambiguous	20.3	20.3	PWY83883.1
+GCA_057674065.1	[Neocosmospora] sp. B6999-4	CUS	mis	238.2	238.2	KAN8873370.1
+GCA_014621435.1	Neopestalotiopsis clavispora	ACS	ambiguous	18.9	18.9	KAF7529649.1
+GCA_003615085.1	Fusarium oxysporum f. sp. cepae	ACS	ambiguous	21.2	21.2	RKK07198.1
+GCA_033847385.1	Trichoderma harzianum	ACS	ambiguous	17.5	17.5	KAK4076232.1
+GCF_028827895.1	Penicillium longicatenatum	CUS	ambiguous	17.8	17.8	XP_056977474.1
+GCA_033819875.2	Microbotryomycetes sp. JL221	CUS	ambiguous	17.3	17.3	KAN0272015.1
+GCA_025502635.1	Trichoderma harzianum	ACS	ambiguous	17.4	17.4	KAK0760187.1
+GCA_001658105.1	Rhizopogon vinicolor AM-OR11-026	ACS	acs	154.3	154.3	OAX31906.1
+GCF_001890125.1	Aspergillus versicolor CBS 583.65	CUS	cus	134.6	134.6	XP_040666598.1
+GCA_045866475.1	Madurella fahalii	ACS	kerr14	48.4	48.4	GAB1319606.1
+GCA_057673925.1	[Neocosmospora] sp. B6999-4	CUS	mis	238.2	238.2	KAN8750654.1
+GCA_900096645.1	Fusarium fujikuroi	ACS	ambiguous	18.7	18.7	SCO25932.1
+GCF_050947405.1	Trichoderma evansii	ACS	ambiguous	21.6	21.6	XP_083064056.1
+GCA_027627305.1	Fusarium decemcellulare	CUS	mis	236.0	236.0	KAJ3536212.1
+GCA_036173025.1	Trichoderma asperellum	ACS	ambiguous	18.6	18.6	KAK6451819.1
+GCA_028828825.1	Penicillium canescens	CUS	cus	110.0	110.0	KAJ6091894.1
+GCA_028828825.1	Penicillium canescens	CUS	ambiguous	19.8	19.8	KAJ6072894.1
+GCA_016097325.1	Aspergillus melleus	CUS	cus	66.1	66.1	KAH8433009.1
+GCA_028826755.1	Penicillium angulare	CUS	ambiguous	24.8	24.8	KAJ5081017.1
+GCA_003012105.1	Trichoderma arundinaceum	ACS	ambiguous	18.3	0.7	RFU74063.1
+GCA_005930515.1	Fusarium oxysporum f. sp. cubense	ACS	ambiguous	19.9	19.9	TVY72385.1
+GCA_036320915.1	Linnemannia elongata	ACS	ambiguous	18.4	18.4	KAK5823375.1
+GCA_004522655.2	Venturia nashicola	ACS	ambiguous	17.9	17.9	TID18447.1
+GCA_004522655.2	Venturia nashicola	CUS	ambiguous	21.8	21.8	TID24335.1
+GCA_047371005.1	Colletotrichum abscissum	ACS	ambiguous	21.6	21.6	KAL4412035.1
+GCA_047371005.1	Colletotrichum abscissum	CUS	ambiguous	20.4	20.4	KAL4413430.1
+GCA_051599425.1	Saitoella coloradoensis	ACS	ambiguous	16.9	16.9	BFZ61687.1
+GCA_003709025.1	Aspergillus flavus	CUS	ambiguous	18.5	18.5	RMZ46936.1
+GCA_018360135.1	Claviceps sorghi	ACS	ambiguous	19.0	19.0	KAG5950807.1
+GCA_000835515.1	Exophiala oligosperma	CUS	ambiguous	19.0	19.0	KIW45531.1
+GCF_011075155.1	Colletotrichum scovillei	ACS	ambiguous	21.7	21.7	XP_035338547.1
+GCF_011075155.1	Colletotrichum scovillei	CUS	ambiguous	20.1	20.1	XP_035335700.1
+GCA_011066695.1	Orbilia oligospora	ACS	ambiguous	18.0	18.0	KAF3126146.1
+GCA_011066695.1	Orbilia oligospora	ACS	ambiguous	17.9	17.9	KAF3126147.1
+GCA_015679415.1	Mortierella alpina	ACS	ambiguous	19.9	19.9	KAF9274591.1
+GCA_018858115.1	Tephrocybe rancida	ORF358	orf358	366.3	366.3	KAG6916237.1
+GCA_000710275.1	Penicillium chrysogenum	CUS	cus	109.5	109.5	KZN84572.1
+GCA_013396025.1	Fusarium phyllophilum	ACS	ambiguous	18.4	0.3	KAF5562227.1
+GCA_003025105.1	Trichoderma asperellum CBS 433.97	ACS	ambiguous	18.6	18.6	PTB39078.1
+GCA_011066715.1	Orbilia oligospora	ACS	ambiguous	18.1	18.1	KAF3150377.1
+GCA_011066715.1	Orbilia oligospora	ACS	ambiguous	18.0	18.0	KAF3150378.1
+GCA_053540805.1	Beauveria bassiana	ACS	ambiguous	25.5	25.5	KAM3542493.1
+GCA_053540805.1	Beauveria bassiana	CUS	cus	136.5	136.5	KAM3546744.1
+GCA_001990825.1	Aspergillus carbonarius ITEM 5010	CUS	cus	109.6	109.6	OOF97934.1
+GCA_001990825.1	Aspergillus carbonarius ITEM 5010	CUS	ambiguous	19.9	19.9	OOF98695.1
+GCA_023137705.1	Aspergillus niger	CUS	cus	109.6	109.6	KAI3084313.1
+GCA_000409485.1	Glarea lozoyensis ATCC 20868	ORF358	orf358	160.3	160.3	EPE26289.1
+GCF_013340325.1	Aspergillus tubingensis	CUS	cus	112.9	112.9	XP_035352534.1
+GCA_004918245.1	Aureobasidium pullulans	CUS	ambiguous	18.9	18.9	TIA14809.1
+GCA_000832345.2	Rhizoctonia solani AG-1 IB	CUS	ambiguous	18.8	18.8	CEL60207.1
+GCA_058127775.1	Simplicillium lamellicola	CUS	cus	134.5	134.5	KAO0485871.1
+GCA_044063575.1	Colletotrichum sp. CLE4	ACS	ambiguous	19.0	19.0	KAL2873986.1
+GCA_004522665.1	Venturia nashicola	ACS	ambiguous	18.0	18.0	TLD28022.1
+GCA_004522665.1	Venturia nashicola	CUS	ambiguous	21.7	21.7	TLD36854.1
+GCF_008629635.2	Kwoniella shandongensis	ACS	kerr14	31.9	31.9	XP_031858464.1
+GCA_033847375.1	Trichoderma aggressivum f. europaeum	ACS	ambiguous	20.1	20.1	KAK4075454.1
+GCA_002072265.1	Penicillium polonicum	CUS	ambiguous	21.2	21.2	OQD63600.1
+GCA_022578615.1	Hypoxylon rubiginosum	CUS	mis	246.1	246.1	KAI6091429.1
+GCA_000769735.1	Penicillium expansum	CUS	ambiguous	20.4	20.4	KGO36785.1
+GCA_000769735.1	Penicillium expansum	CUS	ambiguous	17.8	17.8	KGO47601.1
+GCA_900044065.1	Fusarium mangiferae	ACS	ambiguous	18.6	18.6	CVK94609.1
+GCA_038497915.1	Lipomyces doorenjongii	ACS	ambiguous	17.5	17.5	KAK9495613.1
+GCA_029233265.1	Mycena alexandri	CUS	cus	469.2	469.2	KAJ7039838.1
+GCA_911175235.1	Penicillium nalgiovense	ACS	acs	53.7	53.7	CAG7983403.1
+GCA_023159155.1	Ustulina deusta	ACS	ambiguous	19.3	19.3	KAI3336178.1
+GCA_002072425.1	Penicillium nalgiovense	ACS	acs	51.9	51.9	OQE92527.1
+GCA_019924135.1	Aureobasidium melanogenum	ACS	ambiguous	19.9	19.9	KAG9597079.1
+GCA_018360975.1	Claviceps purpurea	CUS	ambiguous	24.2	24.2	KAG6248682.1
+GCA_004369055.1	Polyporus arcularius HHB13444	ACS	ambiguous	18.2	18.2	TFK94271.1
+GCA_024865645.1	Fusarium oxysporum	ACS	ambiguous	20.2	20.2	KAI7771151.1
+GCA_033807475.1	Linnemannia elongata	ACS	ambiguous	20.7	20.7	KAK3829902.1
+GCA_022432395.1	Pestalotiopsis sp. NC0098	SUS	ambiguous	20.9	20.9	KAI0162829.1
+GCA_000260175.2	Fusarium oxysporum f. sp. vasinfectum 25433	ACS	ambiguous	20.5	20.5	EXM14230.1
+GCA_036427605.1	Cryptococcus sp. DSM 104549	ACS	ambiguous	16.7	16.7	WVQ83366.1
+GCF_001889945.1	Aspergillus brasiliensis CBS 101740	CUS	cus	89.7	89.7	XP_067477344.1
+GCF_000226395.1	Penicillium rubens Wisconsin 54-1255	CUS	cus	109.5	109.5	XP_002557111.1
+GCA_023141155.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3163608.1
+GCA_004918405.1	Wallemia ichthyophaga	SUS	ambiguous	18.9	18.9	TIB52251.1
+GCA_023141315.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3274292.1
+GCA_002847485.1	Aspergillus campestris IBT 28561	CUS	mis	300.1	300.1	PKY05003.1
+GCA_013340325.1	Aspergillus tubingensis	CUS	cus	112.9	112.9	GFN11730.1
+GCA_011066795.1	Orbilia oligospora	ACS	ambiguous	18.1	18.1	KAF3168005.1
+GCA_011066795.1	Orbilia oligospora	ACS	ambiguous	18.0	18.0	KAF3168006.1
+GCA_051820575.1	Trichoderma chlorosporum	ACS	ambiguous	18.6	18.6	KAL7936909.1
+GCA_051820575.1	Trichoderma chlorosporum	CUS	cus	135.1	135.1	KAL7932158.1
+GCA_011066565.1	Orbilia oligospora	ACS	ambiguous	18.0	18.0	KAF3140507.1
+GCA_011066565.1	Orbilia oligospora	ACS	ambiguous	17.9	17.9	KAF3140508.1
+GCA_023091205.1	Aspergillus niger	CUS	cus	109.6	109.6	KAI2812672.1
+GCF_025024155.1	Gamsiella multidivaricata	ACS	ambiguous	20.3	20.3	XP_051412209.1
+GCA_920106075.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAH0470946.1
+GCA_023168085.2	Purpureocillium lilacinum	ACS	ambiguous	18.6	18.6	GJN76321.1
+GCF_003184625.1	Aspergillus neoniger CBS 115656	CUS	cus	108.8	108.8	XP_025475547.1
+GCA_000512585.3	Kwoniella bestiolae CBS 10118	ACS	ambiguous	22.8	4.7	WVW78513.1
+GCA_025331425.1	Radiomyces spectabilis	ACS	ambiguous	19.0	19.0	KAI8368117.1
+GCA_028829745.1	Penicillium canescens	ACS	ambiguous	25.0	25.0	KAJ6019736.1
+GCA_028829745.1	Penicillium canescens	CUS	cus	107.0	107.0	KAJ5985277.1
+GCA_028829745.1	Penicillium canescens	CUS	ambiguous	20.0	20.0	KAJ5991207.1
+GCF_028826965.1	Penicillium alfredii	ACS	ambiguous	18.9	18.9	XP_056516686.1
+GCA_028826765.1	Penicillium atrosanguineum	ACS	ambiguous	17.4	17.4	KAJ5139461.1
+GCA_028826765.1	Penicillium atrosanguineum	CUS	cus	81.9	81.9	KAJ5117389.1
+GCA_028826765.1	Penicillium atrosanguineum	CUS	ambiguous	17.6	17.6	KAJ5119231.1
+GCA_036674765.1	Seiridium cupressi	CUS	ambiguous	18.7	18.7	KAK6076641.1
+GCA_019157275.1	Fusarium oxysporum f. sp. raphani	ACS	ambiguous	20.5	20.5	KAG7403121.1
+GCA_057190295.1	Beauveria neobassiana	ACS	ambiguous	23.7	23.7	KAN5920225.1
+GCA_057190295.1	Beauveria neobassiana	CUS	cus	136.7	136.7	KAN5920096.1
+GCA_059311635.1	Pseudorhypophila marina	ORF358	orf358	290.7	290.7	MIC7745606.1
+GCA_026954515.1	Cladochytrium tenue	ACS	ambiguous	19.0	19.0	KAJ1536901.1
+GCF_022376455.1	Epithele typhae	ACS	acs	35.0	35.0	XP_047871136.1
+GCA_977091265.1	Mortierella alpina	ACS	ambiguous	18.7	18.7	CAO3564483.1
+GCA_054392455.1	Rhypophila sp. PSN 637	ORF358	orf358	209.1	209.1	KAM7185551.1
+GCA_000513255.1	Penicillium roqueforti FM164	CUS	ambiguous	22.7	22.7	CDM36848.1
+GCF_016097325.1	Aspergillus melleus	CUS	cus	66.1	66.1	XP_045948367.1
+GCA_966193015.1	Alternaria alternata	ACS	ambiguous	25.9	25.9	CAN9091613.1
+GCF_013396075.1	Fusarium subglutinans	ACS	ambiguous	22.3	22.3	XP_036532092.1
+GCF_013396075.1	Fusarium subglutinans	ACS	ambiguous	17.4	17.4	XP_036535903.1
+GCA_013266175.1	Fusarium gaditjirri	ACS	ambiguous	20.0	20.0	KAF4946154.1
+GCA_900096625.1	Fusarium fujikuroi	ACS	ambiguous	20.4	20.4	SCO35401.1
+GCA_059995725.1	Laccaria bicolor S238N-H82xH70	ACS	kerr14	41.1	41.1	MII1034238.1
+GCA_000827355.1	Hebeloma cylindrosporum	ACS	ambiguous	21.7	21.7	KIM42689.1
+GCA_000827355.1	Hebeloma cylindrosporum	ACS	ambiguous	20.9	20.9	KIM42688.1
+GCA_018906675.1	Colletotrichum scovillei	ACS	ambiguous	21.7	21.7	KAG7074724.1
+GCA_018906675.1	Colletotrichum scovillei	CUS	ambiguous	20.1	20.1	KAG7070103.1
+GCA_031834405.1	Fusarium oxysporum II5	ACS	ambiguous	22.3	3.4	KAK2134547.1
+GCA_028974085.1	Penicillium chermesinum	CUS	ambiguous	18.8	18.8	KAJ5223655.1
+GCA_003369635.1	Coleophoma crateriformis	CUS	mis	224.5	224.5	RDW86037.1
+GCA_056365515.1	Penicillium biforme	CUS	ambiguous	23.0	23.0	KAN5428177.1
+GCA_056365515.1	Penicillium biforme	CUS	ambiguous	17.9	17.9	KAN5418506.1
+GCA_001481775.2	Trichoderma gamsii	ACS	ambiguous	17.4	17.4	PON21590.1
+GCA_057706755.1	Penicillium discolor	CUS	ambiguous	19.9	19.9	KAN9870460.1
+GCA_057706755.1	Penicillium discolor	CUS	ambiguous	19.0	19.0	KAN9876100.1
+GCF_000149615.1	Aspergillus terreus NIH2624	CUS	cus	105.4	105.4	XP_001214137.1
+GCF_000149615.1	Aspergillus terreus NIH2624	CUS	cus	61.4	61.4	XP_001215380.1
+GCA_004918895.1	Wallemia ichthyophaga	SUS	ambiguous	18.9	18.9	TIB65922.1
+GCF_001890105.1	Penicilliopsis zonata CBS 506.65	ACS	ambiguous	24.5	24.5	XP_022577339.1
+GCF_001890105.1	Penicilliopsis zonata CBS 506.65	CUS	ambiguous	24.4	24.4	XP_022580939.1
+GCA_027946475.1	Didymosphaeria variabile	ORF358	orf358	72.1	72.1	KAJ4360715.1
+GCA_027946475.1	Didymosphaeria variabile	ORF358	orf358	30.7	30.7	KAJ4353443.1
+GCA_019787685.1	Chiua virens	ACS	acs	175.6	175.6	KAG9311284.1
+GCA_019787685.1	Chiua virens	ACS	acs	118.6	118.6	KAG9311283.1
+GCA_040285385.1	Aspergillus niger	CUS	cus	109.1	109.1	KAL3258125.1
+GCA_040285385.1	Aspergillus niger	CUS	cus	59.3	59.3	KAL3258718.1
+GCA_902085965.1	Clonostachys rosea	CUS	mis	231.7	231.7	VUC23047.1
+GCF_003019875.1	Amorphotheca resinae ATCC 22711	ORF358	orf358	157.3	157.3	XP_024719804.1
+GCA_004154915.1	Monosporascus ibericus	CUS	mis	70.8	70.8	RYP04084.1
+GCA_029281465.1	Mycena epipterygia	ORF358	orf358	201.3	201.3	KAJ7124363.1
+GCA_000001985.1	Talaromyces marneffei ATCC 18224	CUS	ambiguous	21.1	21.1	EEA20040.1
+GCF_030347475.1	Cadophora gregata	CUS	ambiguous	20.2	20.2	XP_058355885.1
+GCF_030347475.1	Cadophora gregata	CUS	ambiguous	19.8	19.8	XP_058355886.1
+GCA_043643955.1	Penicillium crustosum	ACS	ambiguous	17.7	17.7	KAL2700795.1
+GCA_043643955.1	Penicillium crustosum	CUS	ambiguous	21.2	21.2	KAL2703084.1
+GCA_043643955.1	Penicillium crustosum	CUS	ambiguous	17.9	17.9	KAL2695750.1
+GCA_028827855.1	Penicillium expansum	CUS	ambiguous	20.4	20.4	KAJ5490083.1
+GCA_004917275.1	Aureobasidium pullulans	CUS	ambiguous	17.9	17.9	THW73977.1
+GCA_010093505.1	Neohortaea acidophila	ACS	ambiguous	18.3	0.4	KAF2484021.1
+GCA_023065685.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI2739094.1
+GCA_028827265.1	Penicillium atrosanguineum	ACS	ambiguous	17.4	17.4	KAJ5309381.1
+GCA_028827265.1	Penicillium atrosanguineum	CUS	ambiguous	17.6	17.6	KAJ5296225.1
+GCF_038497915.1	Lipomyces doorenjongii	ACS	ambiguous	17.5	17.5	XP_066798538.1
+GCF_000226545.1	Podospora anserina S mat+	ACS	ambiguous	23.6	23.6	XP_001909774.1
+GCA_935541525.1	Dujonia railenensis	ACS	ambiguous	20.6	20.6	CAH2351289.1
+GCA_023137965.1	Aspergillus niger	CUS	cus	105.4	105.4	KAI2969814.1
+GCA_000350255.1	Rhizoctonia solani AG-1 IB	CUS	ambiguous	18.5	18.5	CCO31518.1
+GCA_023168115.2	Purpureocillium lilacinum	ACS	ambiguous	17.8	17.8	GJN86487.1
+GCF_003184695.1	Aspergillus brunneoviolaceus CBS 621.78	CUS	mis	258.1	258.1	XP_025446926.1
+GCA_029281405.1	Mycena pura	ORF358	orf358	189.1	189.1	KAJ7192342.1
+GCF_004337985.1	Pyricularia pennisetigena	ORF358	orf358	106.3	106.3	XP_029744311.1
+GCF_004337985.1	Pyricularia pennisetigena	ORF358	orf358	101.6	101.6	XP_029744462.1
+GCA_027600685.1	Geranomyces variabilis	ACS	ambiguous	21.7	21.7	KAJ3150580.1
+GCF_000523435.1	Bipolaris zeicola 26-R-13	ACS	acs	48.1	48.1	XP_007718326.1
+GCA_001882365.1	Rhizopogon vesiculosus	ACS	acs	111.0	111.0	OJA17299.1
+GCA_001882365.1	Rhizopogon vesiculosus	ACS	ambiguous	26.6	26.6	OJA17296.1
+GCA_001882365.1	Rhizopogon vesiculosus	SUS	ambiguous	18.3	18.3	OJA21140.1
+GCA_058411305.1	Hebeloma velutipes	CUS	cus	460.9	460.9	KAO1061018.1
+GCA_020884735.1	Clathrus columnatus	ACS	ambiguous	20.0	1.2	GJJ07327.1
+GCA_009663115.1	Fusarium fujikuroi	ACS	ambiguous	18.7	18.7	QGI78502.1
+GCA_009663115.1	Fusarium fujikuroi	CUS	ambiguous	17.9	17.9	QGI81549.1
+GCF_000225605.1	Cordyceps militaris CM01	ACS	kerr14	33.8	33.8	XP_006671310.1
+GCF_000225605.1	Cordyceps militaris CM01	ACS	ambiguous	24.3	24.3	XP_006665744.1
+GCF_041260175.1	Vanrija albida	ACS	ambiguous	25.3	25.3	XP_069207838.1
+GCF_041260175.1	Vanrija albida	ACS	ambiguous	27.5	27.5	XP_069210637.1
+GCF_041260175.1	Vanrija albida	ACS	ambiguous	22.0	22.0	XP_069204813.1
+GCA_003850985.1	Aspergillus awamori	CUS	cus	108.5	108.5	GCB21645.1
+GCA_003850985.1	Aspergillus awamori	CUS	cus	89.7	89.7	GCB17142.1
+GCA_022829115.1	Penicillium roqueforti	CUS	ambiguous	24.9	24.9	KAI1831532.1
+GCA_013421405.2	Aspergillus alliaceus	CUS	cus	115.4	115.4	KAF5862430.1
+GCA_013421405.2	Aspergillus alliaceus	CUS	cus	66.9	66.9	KAF5862434.1
+GCA_013421405.2	Aspergillus alliaceus	CUS	cus	43.1	43.1	KAF5855941.1
+GCA_001513925.1	Penicillium freii	CUS	ambiguous	21.6	21.6	KUM58161.1
+GCA_027946445.1	Ascochyta clinopodiicola	ORF358	orf358	56.5	56.5	KAJ4364848.1
+GCA_022385765.1	Trametes cingulata	ACS	acs	69.9	69.9	KAI0354134.1
+GCA_056320115.1	Penicillium corylophilum	CUS	cus	112.7	112.7	KAN3003218.1
+GCF_003184835.1	Aspergillus costaricaensis CBS 115574	CUS	cus	108.8	108.8	XP_025539943.1
+GCA_003615215.1	Fusarium proliferatum	ACS	ambiguous	18.9	18.9	RKL27801.1
+GCA_001831195.1	Colletotrichum orchidophilum	ACS	ambiguous	18.0	18.0	OHE99096.1
+GCA_025433615.1	Fusarium sp. LHS14.1	ACS	ambiguous	21.9	21.9	KAI8718591.1
+GCA_037952775.1	Clonostachys chloroleuca	CUS	mis	231.3	231.3	KAK7211458.1
+GCA_051820695.1	Trichoderma sp. SZMC 28014	ACS	ambiguous	17.8	17.8	KAL7973112.1
+GCA_020647705.1	Trichoderma virens FT-333	ACS	ambiguous	18.2	18.2	UKZ73097.1
+GCA_020647705.1	Trichoderma virens FT-333	ACS	kerr14	37.8	37.8	UKZ78743.1
+GCA_001653265.1	Purpureocillium lilacinum	ACS	ambiguous	18.6	18.6	OAQ80925.1
+GCA_028827025.1	Penicillium cataractarum	CUS	ambiguous	20.1	20.1	KAJ5389413.1
+GCF_000507465.2	Kwoniella mangroviensis CBS 8507	ACS	ambiguous	23.6	3.6	XP_019005196.1
+GCA_003947005.1	Fusarium floridanum	CUS	mis	240.2	240.2	RSL79710.1
+GCA_051622515.1	Fusarium oxysporum f. sp. mori	ACS	ambiguous	19.8	19.8	KAN5861844.1
+GCA_051622515.1	Fusarium oxysporum f. sp. mori	ACS	ambiguous	19.7	19.7	KAN5902066.1
+GCA_023141235.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3231978.1
+GCA_019924715.1	Aureobasidium melanogenum	CUS	ambiguous	19.3	19.3	KAH0196249.1
+GCA_011058895.1	Didymella heteroderae	ACS	acs	38.8	38.8	KAF3043255.1
+GCA_018360725.1	Claviceps purpurea	CUS	ambiguous	24.2	24.2	KAG6178224.1
+GCA_019924875.1	Aureobasidium melanogenum	CUS	ambiguous	19.0	19.0	KAH0327694.1
+GCA_004798825.1	Aspergillus tanneri	CUS	cus	122.7	122.7	THC88470.1
+GCA_004798825.1	Aspergillus tanneri	CUS	mis	283.6	283.6	THC92771.1
+GCA_024862975.1	Aspergillus niger	CUS	cus	109.6	109.6	GJP88783.1
+GCA_001204775.2	Aspergillus nomiae NRRL 13137	CUS	mis	269.2	269.2	KNG90865.1
+GCF_000512605.2	Kwoniella pini CBS 10737	ACS	ambiguous	22.9	1.3	XP_019008533.1
+GCA_036810445.1	Kwoniella europaea PYCC6329	ACS	ambiguous	20.3	0.9	WWD07727.1
+GCA_003016335.1	Corynespora cassiicola Philippines	ORF358	orf358	80.0	80.0	PSN70700.1
+GCA_003016335.1	Corynespora cassiicola Philippines	ORF358	orf358	35.7	35.7	PSN72791.1
+GCA_000260195.2	Fusarium odoratissimum NRRL 54006	ACS	ambiguous	22.3	3.4	EXL93255.1
+GCA_058095615.1	Scedosporium apiospermum	ACS	ambiguous	17.4	17.4	KAO0461990.1
+GCA_030869315.1	Colletotrichum cuscutae	ACS	ambiguous	19.3	19.3	KAK1452479.1
+GCA_018296305.1	Fusarium xylarioides	ACS	ambiguous	19.0	19.0	KAG5806783.1
+GCA_007182795.1	Xylaria flabelliformis	ACS	ambiguous	18.1	0.5	TRX95274.1
+GCA_027923925.1	Aspergillus tubingensis	CUS	cus	111.9	111.9	GLB20541.1
+GCA_000804445.1	Metarhizium album ARSEF 1941	CUS	mis	310.2	310.2	KHN97455.1
+GCA_010723975.1	Aspergillus lentulus	CUS	cus	114.2	114.2	GFF74247.1
+GCA_010723975.1	Aspergillus lentulus	CUS	mis	314.3	314.3	GFF95938.1
+GCF_020906515.1	Vanrija pseudolonga	ACS	ambiguous	25.1	25.1	XP_062627716.1
+GCF_020906515.1	Vanrija pseudolonga	ACS	ambiguous	23.8	23.8	XP_062632298.1
+GCA_057814765.1	Fusarium oxysporum f. sp. rapae	ACS	ambiguous	20.2	20.2	KAO0135257.1
+GCF_000400465.1	Wallemia ichthyophaga EXF-994	SUS	ambiguous	18.7	18.7	XP_009269655.1
+GCA_056505955.1	Cordyceps cateniannulata	ACS	ambiguous	18.0	18.0	KAN4136154.1
+GCA_056505955.1	Cordyceps cateniannulata	CUS	cus	137.9	137.9	KAN4144767.1
+GCA_903819465.1	Aureobasidium pullulans	CUS	ambiguous	17.5	17.5	CAD0025214.1
+GCF_010093935.1	Zasmidium cellare ATCC 36951	CUS	ambiguous	19.7	19.7	XP_033666746.1
+GCA_012184355.1	Dactylellina cionopaga	ORF358	orf358	42.3	42.3	KAF3903433.1
+GCF_003184825.1	Aspergillus fijiensis CBS 313.89	CUS	mis	261.6	261.6	XP_040800910.1
+GCA_028829675.1	Penicillium tannophilum	CUS	ambiguous	20.1	20.1	KAJ5904433.1
+GCA_000004155.2	Schizosaccharomyces cryophilus OY26	ACS	ambiguous	34.8	3.4	EPY53174.1
+GCA_900096605.1	Fusarium fujikuroi	ACS	ambiguous	18.7	18.7	SCO09093.1
+GCF_033297405.1	Parathielavia appendiculata	CUS	cusrel181	38.6	38.6	XP_062644107.1
+GCA_004355905.1	Pyricularia grisea	ORF358	orf358	74.9	74.9	TLD05499.1
+GCA_053539385.1	Beauveria namnaoensis	ACS	ambiguous	25.9	25.9	KAM3482885.1
+GCA_053539385.1	Beauveria namnaoensis	CUS	cus	136.4	136.4	KAM3486551.1
+GCA_023141385.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3275408.1
+GCA_911175245.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8072713.1
+GCF_014595645.1	Diaporthe citri	ACS	acs	45.3	45.3	XP_043020553.1
+GCA_036872715.1	Elasticomyces elasticus	CUS	ambiguous	23.8	23.8	KAK6418060.1
+GCA_036872715.1	Elasticomyces elasticus	CUS	ambiguous	22.8	22.8	KAK6424249.1
+GCA_963921855.1	Sporothrix eucalyptigena	CUS	ambiguous	18.9	18.9	CAK7199528.1
+GCA_963921855.1	Sporothrix eucalyptigena	SUS	ambiguous	19.7	19.7	CAK7207722.1
+GCA_003184595.1	Aspergillus niger CBS 101883	CUS	cus	103.1	103.1	PYH50995.1
+GCA_003184595.1	Aspergillus niger CBS 101883	CUS	cus	75.3	75.3	PYH62394.1
+GCA_057706515.1	Penicillium discolor	CUS	ambiguous	20.4	20.4	KAN9820459.1
+GCA_057706515.1	Penicillium discolor	CUS	ambiguous	18.4	18.4	KAN9820594.1
+GCA_030674015.1	Aspergillus melleus	CUS	cus	79.4	79.4	KAK1144447.1
+GCF_014235925.2	Colletotrichum truncatum	CUS	ambiguous	19.9	19.9	XP_036578802.1
+GCF_030869225.1	Colletotrichum abscissum	ACS	ambiguous	21.6	21.6	XP_060398382.1
+GCF_030869225.1	Colletotrichum abscissum	CUS	ambiguous	20.3	20.3	XP_060402454.1
+GCA_018296265.1	Fusarium xylarioides	ACS	ambiguous	19.3	19.3	KAG5751160.1
+GCF_000769745.1	Penicillium expansum	CUS	ambiguous	20.4	20.4	XP_016601823.1
+GCF_000769745.1	Penicillium expansum	CUS	ambiguous	17.8	17.8	XP_016597153.1
+GCA_002980475.2	Fusarium beomiforme	ACS	ambiguous	19.8	19.8	KAF4345744.1
+GCA_002980475.2	Fusarium beomiforme	CUS	ambiguous	20.8	20.8	KAF4332336.1
+GCA_958430865.1	Entrophospora sp. SA101	ACS	ambiguous	20.0	20.0	CAJ0925319.1
+GCA_057675865.1	Fusarium cf. solani	CUS	mis	104.9	104.9	KAN9536718.1
+GCA_038497655.1	Lipomyces doorenjongii	ACS	ambiguous	17.5	17.5	KAK9355326.1
+GCA_009769425.1	Venturia inaequalis	ACS	ambiguous	19.2	19.2	KAE9965034.1
+GCA_009769425.1	Venturia inaequalis	CUS	ambiguous	19.5	19.5	KAE9987319.1
+GCA_011066735.1	Orbilia oligospora	ACS	ambiguous	18.1	18.1	KAF3238684.1
+GCA_011066735.1	Orbilia oligospora	ACS	ambiguous	18.0	18.0	KAF3238685.1
+GCA_033296885.1	Triangularia verruculosa	ACS	ambiguous	22.4	22.4	KAK4197907.1
+GCA_027604165.1	Chytriomyces hyalinus	CUS	ambiguous	18.1	18.1	KAJ3261463.1
+GCA_911175185.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8059195.1
+GCA_019925035.1	Aureobasidium melanogenum	CUS	ambiguous	22.4	22.4	KAH0348193.1
+GCA_057675505.1	Fusarium euwallaceae	CUS	mis	239.3	239.3	KAN9411381.1
+GCA_030020275.1	Fusarium oxysporum	ACS	ambiguous	20.3	20.3	KAJ9422794.1
+GCA_003367725.1	Lentinus brumalis	ACS	ambiguous	19.1	19.1	RDX53795.1
+GCA_019924835.1	Aureobasidium melanogenum	CUS	ambiguous	19.3	19.3	KAH0226640.1
+GCA_033725935.1	Cladorrhinum sp. PSN259	ACS	ambiguous	25.6	25.6	KAK4163138.1
+GCA_018360475.1	Claviceps purpurea	CUS	ambiguous	24.2	24.2	KAG6156347.1
+GCA_027945535.1	Fusarium oxysporum	ACS	ambiguous	19.1	19.1	KAJ4214222.1
+GCA_902498895.1	Magnusiomyces paraingens	ACS	ambiguous	20.1	20.1	VVT54443.1
+GCA_021432635.1	Thozetella sp. PMI_491	CUS	ambiguous	18.9	18.9	KAH8895329.1
+GCA_982374845.1	Trichoderma atroviride	ACS	ambiguous	17.4	17.4	CAR0443533.1
+GCA_003351075.1	Venturia inaequalis	ACS	ambiguous	19.3	19.3	RDI83243.1
+GCA_003351075.1	Venturia inaequalis	CUS	ambiguous	19.5	19.5	RDI84565.1
+GCA_012656445.1	Aspergillus lentulus	CUS	mis	314.3	314.3	KAF4185617.1
+GCF_003184755.1	Aspergillus piperis CBS 112811	CUS	cus	103.9	103.9	XP_025517007.1
+GCA_048937215.1	Paraphaeosphaeria minitans	CUS	ambiguous	19.4	19.4	KAL5466447.1
+GCA_024704625.1	Pyricularia oryzae	ORF358	orf358	99.2	99.2	KAI6602257.1
+GCA_900067095.1	Fusarium proliferatum ET1	ACS	ambiguous	18.4	18.4	CZR35930.1
+GCA_000149035.1	Colletotrichum graminicola M1.001	ORF358	orf358	75.6	75.6	EFQ36793.1
+GCA_027604365.1	Rhizoclosmatium sp. JEL0117	ACS	ambiguous	18.5	18.5	KAJ3290700.1
+GCA_013396035.1	Fusarium pseudocircinatum	ACS	ambiguous	24.5	24.5	KAF5598339.1
+GCA_008629635.2	Kwoniella shandongensis	ACS	kerr14	31.9	31.9	WWD16431.1
+GCA_022814315.1	Hypocenomyce scalaris	CUS	mis	87.6	87.6	MCJ1302215.1
+GCF_000732125.1	Scedosporium apiospermum	ACS	ambiguous	17.4	17.4	XP_016638604.1
+GCF_001642045.1	Paraphaeosphaeria sporulosa	CUS	ambiguous	20.0	20.0	XP_018031608.1
+GCA_040143875.1	Seiridium cardinale	CUS	ambiguous	19.1	19.1	KAK9780296.1
+GCA_019924725.1	Aureobasidium melanogenum	CUS	ambiguous	19.3	19.3	KAH0183949.1
+GCA_000260155.3	Fusarium oxysporum f. sp. radicis-lycopersici 26381	ACS	ambiguous	21.2	21.2	EXL40233.1
+GCA_018907675.1	Colletotrichum scovillei	ACS	ambiguous	21.7	21.7	KAG7081879.1
+GCA_018907675.1	Colletotrichum scovillei	CUS	ambiguous	20.1	20.1	KAG7078351.1
+GCA_057673785.1	[Neocosmospora] sp. B6999-5	CUS	mis	238.2	238.2	KAN8784975.1
+GCA_024704475.1	Pyricularia oryzae	ORF358	orf358	98.9	98.9	KAI6522376.1
+GCA_024704475.1	Pyricularia oryzae	ORF358	orf358	86.5	86.5	KAI6540284.1
+GCA_002211485.2	Aspergillus niger	CUS	cus	109.6	109.6	TPR06236.1
+GCA_035926115.1	Elasticomyces elasticus	CUS	ambiguous	22.7	22.7	KAK4956738.1
+GCA_028828895.1	Penicillium sp. IBT 35674x	CUS	ambiguous	20.7	20.7	KAJ5987443.1
+GCA_004918655.1	Wallemia ichthyophaga	SUS	ambiguous	18.9	18.9	TIB57864.1
+GCA_028827865.1	Penicillium frequentans	CUS	ambiguous	21.0	21.0	KAJ5553554.1
+GCA_050948025.1	Trichoderma camerunense	ACS	ambiguous	17.5	17.5	KAL6834801.1
+GCA_000760515.2	Mitosporidium daphniae	ACS	ambiguous	19.5	2.1	KGG52674.1
+GCA_011058875.1	Neopestalotiopsis sp. 37M	ACS	ambiguous	26.1	26.1	KAF3008224.1
+GCA_011058875.1	Neopestalotiopsis sp. 37M	ACS	ambiguous	17.9	17.9	KAF3013999.1
+GCA_015533775.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAF9250065.1
+GCA_004353045.1	Thyridium curvatum	CUS	mis	251.1	251.1	TPX13584.1
+GCA_982375315.1	Trichoderma afroharzianum	ACS	ambiguous	17.4	17.4	CAR0585544.1
+GCF_002849105.1	Aspergillus steynii IBT 23096	CUS	cus	116.6	116.6	XP_024709115.1
+GCF_002849105.1	Aspergillus steynii IBT 23096	CUS	mis	315.7	315.7	XP_024709037.1
+GCA_028828025.1	Penicillium rubens	CUS	cus	108.6	108.6	KAJ5844499.1
+GCA_003426965.1	Aspergillus tanneri	CUS	cus	122.7	122.7	KAA8646841.1
+GCA_003426965.1	Aspergillus tanneri	CUS	mis	283.6	283.6	KAA8645327.1
+GCA_028827525.1	Penicillium daleae	CUS	ambiguous	21.3	21.3	KAJ5460178.1
+GCA_027923625.1	Aspergillus tubingensis	CUS	cus	112.9	112.9	GLA73929.1
+GCA_036287355.1	Kwoniella sp. CBS 6097	ACS	ambiguous	24.9	7.4	WVF69973.1
+GCA_041260175.1	Vanrija albida	ACS	ambiguous	25.3	25.3	KAL1407894.1
+GCA_041260175.1	Vanrija albida	ACS	ambiguous	27.5	27.5	KAL1410693.1
+GCA_041260175.1	Vanrija albida	ACS	ambiguous	22.0	22.0	KAL1404869.1
+GCA_011066575.1	Orbilia oligospora	ACS	ambiguous	18.0	18.0	KAF3083473.1
+GCA_011066575.1	Orbilia oligospora	ACS	ambiguous	17.9	17.9	KAF3083474.1
+GCA_016098035.1	Mortierella sp. GBA30	ACS	ambiguous	17.7	17.7	KAG0197165.1
+GCA_028829465.1	Penicillium soppii	CUS	cus	107.9	107.9	KAJ5851863.1
+GCF_000001985.1	Talaromyces marneffei ATCC 18224	CUS	ambiguous	21.1	21.1	XP_002151040.1
+GCA_058411285.1	Laccaria bicolor	ACS	acs	59.2	59.2	KAO1266549.1
+GCA_003144135.1	Microstroma glucosiphilum	CUS	ambiguous	19.6	19.6	PWN21446.1
+GCA_001890105.1	Penicilliopsis zonata CBS 506.65	ACS	ambiguous	24.5	24.5	OJJ42829.1
+GCA_001890105.1	Penicilliopsis zonata CBS 506.65	CUS	ambiguous	24.4	24.4	OJJ46429.1
+GCA_019157295.1	Fusarium oxysporum f. sp. rapae	ACS	ambiguous	20.2	20.2	KAG7415122.1
+GCA_050403445.1	Sporobolomyces roseus	ORF358	ambiguous	18.5	18.5	GAA5838934.1
+GCA_057673945.1	[Neocosmospora] sp. B6999-4	CUS	mis	107.1	107.1	KAN8846737.1
+GCA_051942165.1	Circinaria calcarea	ACS	ambiguous	17.4	17.4	KAL9117163.1
+GCA_027604005.1	Dinochytrium kinnereticum	ACS	ambiguous	19.5	19.5	KAJ3216793.1
+GCA_980757575.1	Trichoderma atroviride	ACS	ambiguous	17.7	17.7	CAP3730782.1
+GCA_036320775.1	Elasticomyces elasticus	CUS	ambiguous	23.8	23.8	KAK5762572.1
+GCA_036320775.1	Elasticomyces elasticus	CUS	ambiguous	22.8	22.8	KAK5759267.1
+GCA_001600855.1	Saitozyma sp. JCM 24511	ACS	ambiguous	29.6	29.6	GFZ49651.1
+GCA_001600855.1	Saitozyma sp. JCM 24511	ACS	ambiguous	29.3	29.3	GFZ44201.1
+GCA_027945305.1	Fusarium oxysporum	ACS	ambiguous	20.5	20.5	KAJ4087839.1
+GCA_027945305.1	Fusarium oxysporum	ACS	ambiguous	17.5	17.5	KAJ4083873.1
+GCA_013368755.1	Talaromyces rugulosus	ACS	ambiguous	19.7	19.7	QKX56861.1
+GCA_023758125.1	Alternaria sp. Ai002NY15	ACS	ambiguous	17.3	17.3	KAI4710155.1
+GCA_051820595.1	Trichoderma barbatum	ACS	ambiguous	20.0	20.0	KAL7942201.1
+GCF_001204775.2	Aspergillus nomiae NRRL 13137	CUS	mis	269.2	269.2	XP_015411788.1
+GCA_051941205.1	Blastenia crenularia	ACS	ambiguous	17.7	17.7	KAL8827571.1
+GCA_014595645.1	Diaporthe citri	ACS	acs	45.3	45.3	KAG6357032.1
+GCA_980757555.1	Trichoderma atroviride	ACS	ambiguous	17.7	17.7	CAP3717747.1
+GCA_056320545.1	Aspergillus magnivesiculatus	ACS	ambiguous	20.8	20.8	KAN3085346.1
+GCF_023601865.1	Aspergillus affinis	CUS	cus	112.2	112.2	XP_052951151.1
+GCA_016748045.1	Aspergillus fischeri	CUS	cus	112.2	112.2	KAG2003959.1
+GCA_003073865.1	Cadophora sp. DSE1049	CUS	ambiguous	20.2	20.2	PVH83620.1
+GCA_016808415.1	Aspergillus terreus	CUS	cus	93.9	93.9	KAG2417764.1
+GCA_016808415.1	Aspergillus terreus	CUS	cus	73.7	73.7	KAG2421238.1
+GCA_001572055.1	Alternaria alternata	ACS	kerr14	37.7	37.7	OWY50600.1
+GCA_057706575.1	Penicillium discolor	CUS	ambiguous	19.7	19.7	KAN9817118.1
+GCA_057706575.1	Penicillium discolor	CUS	ambiguous	19.0	19.0	KAN9793408.1
+GCA_059995685.1	Laccaria bicolor	ACS	kerr14	39.7	39.7	MII1099309.1
+GCA_900079805.1	Fusarium fujikuroi IMI 58289	ACS	ambiguous	18.7	18.7	CCT65015.1
+GCA_020744215.1	Paraphoma chrysanthemicola	ACS	ambiguous	24.8	24.8	KAH7087553.1
+GCF_000146945.2	Sclerotinia sclerotiorum 1980 UF-70	SUS	ambiguous	22.2	22.2	XP_001591364.1
+GCF_000146945.2	Sclerotinia sclerotiorum 1980 UF-70	SUS	ambiguous	18.7	18.7	XP_001594057.1
+GCF_000146945.2	Sclerotinia sclerotiorum 1980 UF-70	SUS	ambiguous	18.5	18.5	XP_001596204.1
+GCF_001653265.1	Purpureocillium lilacinum	ACS	ambiguous	18.6	18.6	XP_018174769.1
+GCA_000238015.2	Glarea lozoyensis 74030	ORF358	orf358	117.5	117.5	EHL02794.1
+GCA_051820635.1	Trichoderma compactum	ACS	ambiguous	18.8	18.8	KAL7958711.1
+GCF_900044065.1	Fusarium mangiferae	ACS	ambiguous	18.6	18.6	XP_041682943.1
+GCA_000985935.1	Talaromyces islandicus	CUS	ambiguous	25.2	25.2	CRG89481.1
+GCA_012656455.1	Aspergillus lentulus	CUS	cus	114.3	114.3	KAF4165494.1
+GCA_012656455.1	Aspergillus lentulus	CUS	mis	314.3	314.3	KAF4164082.1
+GCA_000523435.1	Bipolaris zeicola 26-R-13	ACS	acs	48.1	48.1	EUC27370.1
+GCA_016098015.1	Gamsiella multidivaricata	ACS	ambiguous	20.3	20.3	KAG0366878.1
+GCA_051911615.1	Phenoliferia psychrophenolica	CUS	ambiguous	17.6	17.6	KAL8278849.1
+GCA_014461125.1	Mycena kentingensis (nom. inval.)	ACS	ambiguous	20.3	1.0	KAF7304827.1
+GCA_028009165.1	Akanthomyces muscarius	ACS	ambiguous	22.7	22.7	KAJ4155620.1
+GCA_028009165.1	Akanthomyces muscarius	CUS	mis	249.5	249.5	KAJ4153020.1
+GCA_028009165.1	Akanthomyces muscarius	CUS	mis	249.6	249.6	KAJ4153021.1
+GCA_052576325.1	Cladosporium allicinum	CUS	ambiguous	29.2	29.2	KAM0691630.1
+GCA_052576325.1	Cladosporium allicinum	CUS	ambiguous	19.9	19.9	KAM0697862.1
+GCA_000002495.2	Pyricularia oryzae 70-15	ORF358	ambiguous	22.0	22.0	EHA56910.1
+GCA_000002495.2	Pyricularia oryzae 70-15	ORF358	ambiguous	21.7	21.7	EHA56475.1
+GCA_057675305.1	Fusarium floridanum	CUS	mis	136.4	136.4	KAN9175244.1
+GCA_025435555.1	Chytriomyces cf. hyalinus JEL632	ACS	ambiguous	18.2	18.2	KAI8832118.1
+GCA_057675205.1	Fusarium floridanum	CUS	mis	240.2	240.2	KAN9191694.1
+GCA_001653205.1	Purpureocillium lilacinum	ACS	ambiguous	18.6	18.6	OAQ75296.1
+GCA_027924045.1	Aspergillus brasiliensis	CUS	cus	78.5	78.5	GKZ37275.1
+GCA_018360685.1	Claviceps purpurea	CUS	ambiguous	19.7	19.7	KAG6270554.1
+GCF_024043155.1	Alternaria arbusti	ACS	ambiguous	17.3	17.3	XP_051308020.1
+GCA_965644035.1	Discula destructiva	ACS	ambiguous	29.5	29.5	CAN8098607.1
+GCA_965644035.1	Discula destructiva	ACS	ambiguous	29.2	29.2	CAN8098606.1
+GCA_027945405.1	Fusarium oxysporum	ACS	ambiguous	18.1	18.1	KAJ4160674.1
+GCA_001636735.1	Beauveria brongniartii RCEF 3172	ACS	ambiguous	23.2	23.2	OAA37924.1
+GCA_001636735.1	Beauveria brongniartii RCEF 3172	CUS	cus	136.6	136.6	OAA41870.1
+GCF_028827675.1	Penicillium lagena	ACS	ambiguous	21.6	21.6	XP_056828159.1
+GCF_030867565.1	Colletotrichum costaricense	ACS	ambiguous	19.2	19.2	XP_060315926.1
+GCF_030867565.1	Colletotrichum costaricense	CUS	ambiguous	20.3	20.3	XP_060306024.1
+GCA_050947655.1	Hanseniaspora osmophila	ACS	ambiguous	21.1	2.4	KAL6939416.1
+GCA_028828555.1	Penicillium taxi	ACS	ambiguous	17.8	0.2	KAJ5893232.1
+GCA_028828555.1	Penicillium taxi	SUS	ambiguous	17.4	17.4	KAJ5909009.1
+GCA_902702945.1	Fusarium fujikuroi	ACS	ambiguous	18.7	18.7	VZH94307.1
+GCA_902702945.1	Fusarium fujikuroi	CUS	ambiguous	17.9	17.9	VZI20498.1
+GCA_036852665.1	Pestalotiopsis sp. IQ-011	ACS	ambiguous	18.3	18.3	KAK6217620.1
+GCA_028828085.1	Penicillium nucicola	CUS	cus	100.4	100.4	KAJ5747179.1
+GCA_044049455.1	Aspergillus lucknowensis	CUS	cus	132.2	132.2	KAL2863992.1
+GCA_013396005.1	Fusarium napiforme	ACS	ambiguous	21.1	21.1	KAF5550342.1
+GCA_057674705.1	Fusarium obliquiseptatum	CUS	mis	237.1	237.1	KAN9023899.1
+GCA_028827825.1	Penicillium malachiteum	ACS	ambiguous	21.4	21.4	KAJ5731694.1
+GCA_028827825.1	Penicillium malachiteum	ACS	ambiguous	18.6	18.6	KAJ5718855.1
+GCA_028827825.1	Penicillium malachiteum	CUS	ambiguous	19.4	19.4	KAJ5728798.1
+GCA_032988175.1	Myotisia sp. PD_48	CUS	cus	106.1	106.1	KAK2736422.1
+GCA_030247915.1	Neophaeococcomyces mojaviensis	ACS	ambiguous	18.7	18.7	KAJ9661141.1
+GCA_018360605.1	Claviceps purpurea	CUS	ambiguous	23.9	23.9	KAG6126958.1
+GCA_009982855.1	Lizonia empirigonia	CUS	mis	37.7	37.7	KAF1357717.1
+GCA_036810415.1	Kwoniella dendrophila CBS 6074	ACS	ambiguous	19.4	19.4	WWC86962.1
+GCA_013416765.1	Bipolaris sorokiniana	ACS	acs	45.1	45.1	KAF5854560.1
+GCA_048937315.1	Paraphaeosphaeria minitans	CUS	ambiguous	20.2	20.2	KAL5411849.1
+GCF_021365285.1	Talaromyces proteolyticus	CUS	mis	311.2	311.2	XP_046065161.1
+GCF_021365285.1	Talaromyces proteolyticus	CUS	ambiguous	23.0	23.0	XP_046073156.1
+GCA_056321165.1	Aspergillus vitricola	ACS	ambiguous	21.0	21.0	KAN3131527.1
+GCA_015847225.1	Lobosporangium transversale	ACS	ambiguous	17.9	17.9	KAF9914947.1
+GCA_004918015.1	Wallemia ichthyophaga	SUS	ambiguous	18.6	18.6	TIB11983.1
+GCA_027604065.1	Clydaea vesicula	ACS	ambiguous	20.9	2.0	KAJ3227422.1
+GCA_027604065.1	Clydaea vesicula	CUS	ambiguous	19.3	19.3	KAJ3205617.1
+GCA_013396205.1	Fusarium mundagurra	ACS	ambiguous	21.8	21.8	KAF5706932.1
+GCF_000149955.1	Fusarium oxysporum f. sp. lycopersici 4287	ACS	ambiguous	20.3	20.3	XP_018241009.1
+GCA_001890905.1	Aspergillus aculeatus ATCC 16872	CUS	mis	247.8	247.8	OJK04302.1
+GCA_025558095.1	Hyaloraphidium curvatum	ACS	ambiguous	26.7	4.4	KAI9006432.1
+GCA_016098025.1	Mortierella sp. AD032	ACS	ambiguous	19.9	19.9	KAG0379062.1
+GCA_014235935.1	Colletotrichum musicola	ACS	ambiguous	18.8	18.8	KAF6803315.1
+GCA_030247855.2	Knufia peltigerae	CUS	ambiguous	18.8	18.8	KAJ9622526.1
+GCA_057675485.1	Fusarium mekan	CUS	mis	140.2	140.2	KAN9272927.1
+GCA_015179045.1	Kalaharituber pfeilii	ACS	ambiguous	17.9	17.9	KAF8476096.1
+GCA_018360565.1	Claviceps purpurea	CUS	ambiguous	24.2	24.2	KAG6133311.1
+GCA_053539345.1	Beauveria neobassiana	ACS	ambiguous	23.7	23.7	KAM3464502.1
+GCA_053539345.1	Beauveria neobassiana	CUS	cus	136.7	136.7	KAM3462328.1
+GCA_911174935.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG7998668.1
+GCA_003184765.1	Aspergillus aculeatinus CBS 121060	CUS	mis	257.8	257.8	RAH65240.1
+GCA_027604745.1	Chytriomyces hyalinus	CUS	ambiguous	22.7	22.7	KAJ3380288.1
+GCA_050948005.1	Trichoderma sp. SZMC 28013	ACS	ambiguous	17.4	17.4	KAL6798936.1
+GCA_036630325.1	Vairimorpha necatrix	ORF358	ambiguous	15.8	15.8	WUR02303.1
+GCA_059311585.1	Pseudorhypophila mangenotii	ORF358	orf358	295.6	295.6	MIC7724251.1
+GCA_982374855.1	Trichoderma atroviride	ACS	ambiguous	17.4	17.4	CAR0483731.1
+GCA_001078395.2	Aspergillus udagawae	CUS	cus	106.2	106.2	GIC88025.1
+GCA_040760105.1	Colletotrichum acutatum	ACS	ambiguous	21.6	21.6	KAL0777892.1
+GCF_023757985.1	Alternaria ethzedia	ACS	ambiguous	17.4	17.4	XP_049234237.1
+GCA_000338995.1	Bipolaris sorokiniana ND90Pr	ACS	acs	40.1	40.1	EMD67442.1
+GCA_002102565.1	Kockovaella imperatae	ACS	ambiguous	19.6	19.6	ORX34800.1
+GCA_000225545.1	Orbilia oligospora ATCC 24927	ACS	ambiguous	18.5	18.5	EGX50487.1
+GCA_036320705.1	Elasticomyces elasticus	ACS	acs	37.7	37.7	KAK5740832.1
+GCA_036320705.1	Elasticomyces elasticus	CUS	ambiguous	22.9	22.9	KAK5732336.1
+GCA_036320705.1	Elasticomyces elasticus	CUS	ambiguous	19.8	19.8	KAK5710238.1
+GCA_017309865.1	Fusarium proliferatum	ACS	ambiguous	18.8	18.8	KAG4268960.1
+GCA_017309865.1	Fusarium proliferatum	ACS	ambiguous	17.5	17.5	KAG4274276.1
+GCA_027923945.1	Aspergillus niger	CUS	cus	112.1	112.1	GKZ59947.1
+GCA_027923945.1	Aspergillus niger	CUS	cus	61.6	61.6	GKZ61445.1
+GCF_003184545.1	Aspergillus heteromorphus CBS 117.55	CUS	cus	127.4	127.4	XP_025396382.1
+GCA_059996225.1	Laccaria bicolor	ACS	acs	131.7	131.7	MII1182683.1
+GCA_027924065.1	Aspergillus brasiliensis	CUS	cus	105.1	105.1	GKZ51478.1
+GCA_000836255.1	Dothideomycetidae sp. 11243	ORF358	orf358	146.5	146.5	GAM83019.1
+GCA_002871155.1	Beauveria bassiana	ACS	ambiguous	23.9	23.9	PMB72385.1
+GCA_002871155.1	Beauveria bassiana	CUS	cus	136.6	136.6	PMB68916.1
+GCF_028827265.1	Penicillium atrosanguineum	ACS	ambiguous	17.4	17.4	XP_056743739.1
+GCF_028827265.1	Penicillium atrosanguineum	CUS	ambiguous	17.6	17.6	XP_056738865.1
+GCF_020647795.1	Trichoderma atroviride	ACS	ambiguous	17.7	17.7	XP_013943379.1
+GCA_046127475.1	Talaromyces marneffei ATCC 18224	CUS	ambiguous	21.1	21.1	KAL3702702.1
+GCA_046127475.1	Talaromyces marneffei ATCC 18224	CUS	ambiguous	21.1	21.1	KAL3711326.1
+GCF_023758065.1	Alternaria ventricosa	ACS	ambiguous	17.3	17.3	XP_049202005.1
+GCF_003344945.1	Aspergillus welwitschiae	CUS	cus	99.0	99.0	XP_026623338.1
+GCF_028826845.1	Penicillium canariense	CUS	ambiguous	21.5	21.5	XP_056538242.1
+GCA_051820675.1	Trichoderma velutinum	ACS	ambiguous	17.4	17.4	KAL7914830.1
+GCA_019671135.1	Linnemannia hyalina	ACS	ambiguous	19.7	19.7	KAG9063653.1
+GCA_057674425.1	[Neocosmospora] sp. B6999-1	CUS	mis	139.2	139.2	KAN8926854.1
+GCA_051624415.1	Fusarium oxysporum f. sp. zingiberi	ACS	ambiguous	17.8	17.8	KAL7767788.1
+GCA_021399455.1	Flagelloscypha sp. PMI_526	CUS	ambiguous	24.8	24.8	KAH8833247.1
+GCA_021399455.1	Flagelloscypha sp. PMI_526	CUS	ambiguous	24.3	24.3	KAH8833244.1
+GCA_021399455.1	Flagelloscypha sp. PMI_526	CUS	ambiguous	24.0	24.0	KAH8804021.1
+GCA_021399455.1	Flagelloscypha sp. PMI_526	CUS	ambiguous	21.9	21.9	KAH8833238.1
+GCF_003184525.1	Aspergillus sclerotioniger CBS 115572	CUS	cus	103.7	103.7	XP_025470323.1
+GCF_003184525.1	Aspergillus sclerotioniger CBS 115572	CUS	ambiguous	20.3	20.3	XP_025466351.1
+GCF_011947395.1	Colletotrichum karsti	ACS	ambiguous	19.5	19.5	XP_038743537.1
+GCA_001890705.1	Aspergillus sydowii CBS 593.65	CUS	cus	138.2	138.2	OJJ61499.1
+GCA_028584115.1	Stagonosporopsis vannaccii	ORF358	orf358	73.4	73.4	KAJ4983406.1
+GCA_048937325.1	Paraphaeosphaeria minitans	CUS	ambiguous	20.2	20.2	KAL5396093.1
+GCA_000582985.1	Colletotrichum fioriniae PJ7	ACS	ambiguous	19.4	19.4	EXF78130.1
+GCA_000582985.1	Colletotrichum fioriniae PJ7	CUS	ambiguous	20.2	20.2	EXF78023.1
+GCA_023065625.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI2771909.1
+GCA_023138675.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3158754.1
+GCA_023137995.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3082574.1
+GCA_023376855.1	Colletotrichum abscissum	ACS	ambiguous	21.6	21.6	KAI3538214.1
+GCA_023376855.1	Colletotrichum abscissum	CUS	ambiguous	20.4	20.4	KAI3555099.1
+GCA_003073855.1	Periconia macrospinosa	CUS	ambiguous	22.0	22.0	PVI08321.1
+GCA_003073855.1	Periconia macrospinosa	ORF358	orf358	88.8	88.8	PVI02298.1
+GCA_003073855.1	Periconia macrospinosa	ORF358	orf358	55.8	55.8	PVH92212.1
+GCA_003073855.1	Periconia macrospinosa	ORF358	orf358	40.9	40.9	PVI04269.1
+GCA_056164985.1	Penicillium camemberti	ACS	acs	40.4	40.4	KAN1817701.1
+GCA_056164985.1	Penicillium camemberti	CUS	cus	57.8	57.8	KAN1817379.1
+GCA_056164985.1	Penicillium camemberti	CUS	ambiguous	22.6	22.6	KAN1821893.1
+GCA_056164985.1	Penicillium camemberti	CUS	ambiguous	17.5	17.5	KAN1824340.1
+GCA_013395995.1	Fusarium pseudoanthophilum	ACS	ambiguous	22.0	22.0	KAF5577072.1
+GCA_013395995.1	Fusarium pseudoanthophilum	ACS	ambiguous	17.5	17.5	KAF5591302.1
+GCA_018360845.1	Claviceps purpurea	CUS	ambiguous	20.7	20.7	KAG6259770.1
+GCA_023065525.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI2736828.1
+GCA_025201705.1	Dissophora ornata	ACS	ambiguous	17.4	17.4	KAI8596379.1
+GCA_023138615.1	Penicillium roqueforti	CUS	ambiguous	24.9	24.9	KAI3121526.1
+GCA_902713525.1	Penicillium pancosmium	CUS	cus	110.7	110.7	CAI7661682.1
+GCA_057674285.1	[Neocosmospora] sp. B6999-1	CUS	mis	238.2	238.2	KAN8972186.1
+GCA_060417845.1	Flavomyces fulophazii	ORF358	orf358	64.0	64.0	MIK9463964.1
+GCA_001563735.1	Leucoagaricus sp. SymC.cos	ACS	acs	216.7	173.5	KXN89159.1
+GCA_001563735.1	Leucoagaricus sp. SymC.cos	ACS	acs	193.1	153.7	KXN81725.1
+GCA_013781345.1	Fusarium coicis	ACS	ambiguous	17.5	17.5	KAF5967914.1
+GCA_001563115.1	Colletotrichum nymphaeae SA-01	ACS	ambiguous	21.8	21.8	KXH51621.1
+GCA_001563115.1	Colletotrichum nymphaeae SA-01	CUS	ambiguous	20.1	20.1	KXH59237.1
+GCA_056320525.1	Aspergillus destruens	ACS	ambiguous	21.1	21.1	KAN3080417.1
+GCA_000230395.2	Aspergillus niger ATCC 1015	CUS	cus	103.1	103.1	EHA25424.1
+GCF_028828495.1	Penicillium riverlandense	ACS	ambiguous	22.1	22.1	XP_057048604.1
+GCA_048565125.1	Aspergillus floccosus	CUS	cus	123.1	123.1	KAL5358776.1
+GCA_048565125.1	Aspergillus floccosus	CUS	cus	121.4	121.4	KAL5363408.1
+GCA_022814215.1	Lobaria immixta	ACS	ambiguous	26.7	26.7	MCJ1266028.1
+GCA_018360655.1	Claviceps purpurea	CUS	ambiguous	24.2	24.2	KAG6162339.1
+GCA_000770705.1	Beauveria bassiana D1-5	ACS	ambiguous	21.4	21.4	KGQ05347.1
+GCA_000770705.1	Beauveria bassiana D1-5	CUS	cus	136.7	136.7	KGQ05596.1
+GCA_027596845.1	Quaeritorhiza haematococci	ACS	ambiguous	23.3	23.3	KAJ3081738.1
+GCA_000600275.1	Aspergillus ruber CBS 135680	ACS	ambiguous	24.1	24.1	EYE91335.1
+GCA_003698175.1	Fusarium kuroshium	CUS	mis	238.2	238.2	RMJ18400.1
+GCA_980753795.1	Trichoderma atroviride	ACS	ambiguous	17.7	17.7	CAP3729728.1
+GCA_054392435.1	Naviculisporaceae sp. PSN 640	ORF358	orf358	286.0	286.0	KAM7204748.1
+GCA_016097375.2	Ascochyta lentis	ACS	acs	38.1	38.1	XPS77646.1
+GCA_016097375.2	Ascochyta lentis	ACS	ambiguous	29.5	29.5	XPS72422.1
+GCA_016097375.2	Ascochyta lentis	ORF358	orf358	53.1	53.1	XPS77160.1
+GCF_011692745.1	Arthroderma uncinatum	CUS	mis	293.8	293.8	XP_033405712.1
+GCA_021432625.1	Leptodontidium sp. 2 PMI_412	CUS	ambiguous	20.1	20.1	KAH9218052.1
+GCF_000149035.1	Colletotrichum graminicola M1.001	ORF358	orf358	75.6	75.6	XP_008100813.1
+GCA_902074915.1	Clonostachys chloroleuca	CUS	mis	233.3	233.3	CAI6088271.1
+GCF_000225545.1	Orbilia oligospora ATCC 24927	ACS	ambiguous	18.5	18.5	XP_011120829.1
+GCA_053539305.1	Beauveria thailandica	ACS	ambiguous	21.9	21.9	KAM3441407.1
+GCA_053539305.1	Beauveria thailandica	CUS	cus	134.0	134.0	KAM3440466.1
+GCA_045791975.1	Aspergillus tetrazonus	CUS	ambiguous	18.5	18.5	KAL3434556.1
+GCA_060224215.1	Trichoderma gamsii	ACS	ambiguous	17.4	17.4	MIJ7809954.1
+GCA_000225605.1	Cordyceps militaris CM01	ACS	kerr14	33.8	33.8	EGX91946.1
+GCA_000225605.1	Cordyceps militaris CM01	ACS	ambiguous	24.3	24.3	EGX95867.1
+GCA_002102555.1	Catenaria anguillulae PL171	ACS	ambiguous	24.5	24.5	ORZ35388.1
+GCA_018855395.1	Arthromyces matolae	ORF358	orf358	274.1	274.1	KAG6818627.1
+GCA_018855395.1	Arthromyces matolae	ORF358	orf358	223.4	223.4	KAG6834432.1
+GCA_029378385.1	Mycena metata	CUS	cus	478.8	478.8	KAJ7770518.1
+GCA_020906515.1	Vanrija pseudolonga	ACS	ambiguous	25.1	25.1	WOO81684.1
+GCA_020906515.1	Vanrija pseudolonga	ACS	ambiguous	23.8	23.8	WOO86272.1
+GCA_033847395.1	Purpureocillium lilacinum	ACS	ambiguous	18.4	18.4	KAK4091544.1
+GCA_028828255.1	Penicillium fimorum	CUS	ambiguous	21.0	21.0	KAJ5494592.1
+GCA_027923605.1	Aspergillus tubingensis	CUS	cus	112.9	112.9	GLA66815.1
+GCA_056320565.1	Penicillium chrysogenum	CUS	cus	115.7	115.7	KAN3029880.1
+GCA_000239835.2	Aspergillus luchuensis IFO 4308	CUS	cus	109.6	109.6	GAA87600.1
+GCA_000750665.1	Pseudogymnoascus sp. VKM F-3557	CUS	cus	97.8	97.8	KFX90089.1
+GCA_911175155.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8284319.1
+GCA_028827155.1	Penicillium citrinum	ACS	ambiguous	25.0	25.0	KAJ5241989.1
+GCA_028827155.1	Penicillium citrinum	CUS	cus	118.3	118.3	KAJ5220749.1
+GCF_022605165.1	Purpureocillium takamizusanense	CUS	cus	131.1	131.1	XP_047843014.1
+GCF_022605165.1	Purpureocillium takamizusanense	CUS	cus	121.9	121.9	XP_047837326.1
+GCA_014235955.1	Colletotrichum sojae	ACS	ambiguous	21.1	0.2	KAF6811265.1
+GCA_030512305.1	Cercophora samala	ACS	ambiguous	24.8	24.8	KAK0667869.1
+GCA_900029915.1	Fusarium proliferatum	ACS	ambiguous	18.7	18.7	CVL12454.1
+GCF_009556855.1	Talaromyces marneffei	CUS	ambiguous	21.1	21.1	XP_054120374.1
+GCA_028828795.1	Penicillium canescens	ACS	ambiguous	23.9	23.9	KAJ6093850.1
+GCA_028828795.1	Penicillium canescens	CUS	cus	109.2	109.2	KAJ6076466.1
+GCA_028828795.1	Penicillium canescens	CUS	ambiguous	20.9	20.9	KAJ6069863.1
+GCA_958305055.1	Entrophospora sp. SA101	ACS	ambiguous	18.9	18.9	CAJ0752998.1
+GCA_050947685.1	Hanseniaspora vineae	ACS	ambiguous	20.6	4.1	KAL6942390.1
+GCF_000226095.1	Thermothelomyces thermophilus ATCC 42464	ACS	ambiguous	28.3	28.3	XP_003664897.1
+GCF_003144135.1	Microstroma glucosiphilum	CUS	ambiguous	19.6	19.6	XP_025348606.1
+GCA_001636715.1	Ascosphaera apis ARSEF 7405	ACS	ambiguous	16.9	16.9	KZZ91659.1
+GCA_020740775.1	Ilyonectria destructans	ACS	ambiguous	23.1	23.1	KAH7019706.1
+GCA_008704605.1	Blastobotrys ciferrii	CUS	ambiguous	16.8	16.8	KAA8911599.1
+GCA_035926095.1	Elasticomyces elasticus	CUS	ambiguous	22.7	22.7	KAK4966685.1
+GCA_028829775.1	Penicillium samsonianum	CUS	ambiguous	20.9	20.9	KAJ6128837.1
+GCA_003144605.1	Purpureocillium lilacinum	ACS	ambiguous	18.3	18.3	PWI75736.1
+GCA_013396075.1	Fusarium subglutinans	ACS	ambiguous	22.3	22.3	KAF5585500.1
+GCA_013396075.1	Fusarium subglutinans	ACS	ambiguous	17.4	17.4	KAF5597227.1
+GCA_024703685.1	Pyricularia oryzae	ORF358	orf358	99.2	99.2	KAI6254220.1
+GCA_000750815.1	Pseudogymnoascus sp. VKM F-4516 (FW-969)	CUS	cus	80.7	80.7	KFY67908.1
+GCA_019364595.1	Butyriboletus roseoflavus	ACS	gdpd_meso	417.8	417.8	KAG8213181.1
+GCA_019364595.1	Butyriboletus roseoflavus	ACS	acs	106.0	106.0	KAG8213829.1
+GCA_019364595.1	Butyriboletus roseoflavus	CUS	cus	245.2	245.2	KAG8216553.1
+GCA_019364595.1	Butyriboletus roseoflavus	CUS	cus	227.4	227.4	KAG8213830.1
+GCA_019364595.1	Butyriboletus roseoflavus	CUS	cus	156.4	156.4	KAG8213831.1
+GCA_019364595.1	Butyriboletus roseoflavus	CUS	mis	89.1	89.1	KAG8213182.1
+GCA_027604545.1	Entophlyctis sp. JEL0112	ACS	ambiguous	17.2	17.2	KAJ3390653.1
+GCA_003184705.1	Aspergillus violaceofuscus CBS 115571	CUS	mis	259.6	259.6	PYI23180.1
+GCA_028826965.1	Penicillium alfredii	ACS	ambiguous	18.9	18.9	KAJ5115495.1
+GCA_004768765.1	Orbilia oligospora	ACS	ambiguous	18.1	18.1	TGJ63605.1
+GCA_004918735.1	Wallemia ichthyophaga	SUS	ambiguous	18.9	18.9	TIB48943.1
+GCA_009650675.1	Talaromyces marneffei	CUS	ambiguous	21.1	21.1	KAE8549059.1
+GCA_002849105.1	Aspergillus steynii IBT 23096	CUS	cus	116.6	116.6	PLB53813.1
+GCA_002849105.1	Aspergillus steynii IBT 23096	CUS	mis	315.7	315.7	PLB53735.1
+GCF_001642395.1	Nematocida displodere	CUS	ambiguous	16.5	16.5	XP_067543800.1
+GCA_024704405.1	Pyricularia oryzae	ORF358	orf358	39.7	39.7	KAI6478899.1
+GCA_025399215.1	Globomyces pollinis-pini	ACS	ambiguous	27.9	27.9	KAI8896684.1
+GCF_036810415.1	Kwoniella dendrophila CBS 6074	ACS	ambiguous	19.4	19.4	XP_066073725.1
+GCF_028827825.1	Penicillium malachiteum	ACS	ambiguous	21.4	21.4	XP_056949468.1
+GCF_028827825.1	Penicillium malachiteum	ACS	ambiguous	18.6	18.6	XP_056942660.1
+GCF_028827825.1	Penicillium malachiteum	CUS	ambiguous	19.4	19.4	XP_056946572.1
+GCA_036320675.1	Elasticomyces elasticus	CUS	ambiguous	23.0	23.0	KAK5714997.1
+GCA_004931855.1	Pichia inconspicua	CUS	ambiguous	16.8	16.8	TID31058.1
+GCF_023278565.1	Colletotrichum lupini	ACS	ambiguous	21.6	21.6	XP_049146625.1
+GCA_048937275.1	Paraphaeosphaeria minitans	CUS	ambiguous	20.2	20.2	KAL5429395.1
+GCA_040143865.1	Seiridium cardinale	CUS	ambiguous	19.1	19.1	KAK9796516.1
+GCA_016861865.1	Aspergillus puulaauensis	ACS	ambiguous	19.2	19.2	BCS29644.1
+GCF_003184765.1	Aspergillus aculeatinus CBS 121060	CUS	mis	257.8	257.8	XP_025499063.1
+GCA_024244225.1	Aureobasidium subglaciale	CUS	ambiguous	19.9	19.9	KAI5273157.1
+GCA_033296685.1	Parachaetomium inaequale	ACS	kerr14	44.6	44.6	KAK4032464.1
+GCA_033296685.1	Parachaetomium inaequale	SUS	ambiguous	17.7	17.7	KAK4038625.1
+GCA_024364755.1	Pseudohyphozyma bogoriensis	CUS	ambiguous	19.6	19.6	KAI5478618.1
+GCA_021365285.1	Talaromyces proteolyticus	CUS	mis	311.2	311.2	KAH8688689.1
+GCA_021365285.1	Talaromyces proteolyticus	CUS	ambiguous	23.0	23.0	KAH8698692.1
+GCA_051938805.1	Gaeumannomyces hyphopodioides	ORF358	orf358	101.8	101.8	KAL8377893.1
+GCA_051938805.1	Gaeumannomyces hyphopodioides	ORF358	orf358	98.7	98.7	KAL8377896.1
+GCA_051938805.1	Gaeumannomyces hyphopodioides	ORF358	orf358	65.4	65.4	KAL8377895.1
+GCA_051938805.1	Gaeumannomyces hyphopodioides	ORF358	orf358	64.3	64.3	KAL8377894.1
+GCA_051938805.1	Gaeumannomyces hyphopodioides	SUS	ambiguous	29.9	11.9	KAL8365094.1
+GCA_023758075.1	Alternaria novae-zelandiae	ACS	ambiguous	17.4	17.4	KAI4665249.1
+GCA_964030585.1	Fusarium verticillioides	ACS	ambiguous	18.8	18.8	CAL1429051.1
+GCA_023065495.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI2717020.1
+GCA_029289555.1	Mycena latifolia	ACS	acs	197.2	172.4	KAJ7464060.1
+GCA_022495145.1	Xylaria bambusicola	ACS	ambiguous	18.4	18.4	KAI0514565.1
+GCA_057706665.1	Penicillium discolor	CUS	ambiguous	19.7	19.7	KAN9824170.1
+GCA_057706665.1	Penicillium discolor	CUS	ambiguous	19.0	19.0	KAN9824571.1
+GCA_024704315.1	Pyricularia oryzae	ORF358	orf358	99.2	99.2	KAI6472600.1
+GCA_900491785.1	Saccharomycodes ludwigii	ACS	ambiguous	15.6	15.6	SSD59681.1
+GCA_000827265.1	Collybiopsis luxurians FD-317 M1	ACS	acs	102.3	102.3	KIK69313.1
+GCA_059996235.1	Laccaria bicolor	ACS	acs	37.8	37.8	MII1149901.1
+GCA_015039435.1	Imleria badia	CUS	mis	215.4	215.4	KAF8548865.1
+GCA_015039435.1	Imleria badia	CUS	mis	229.0	229.0	KAF8546817.1
+GCA_015844325.1	Aspergillus nanangensis	CUS	cus	80.9	80.9	KAF9886560.1
+GCA_015844325.1	Aspergillus nanangensis	CUS	cus	65.4	65.4	KAF9883233.1
+GCA_021525015.1	Lactarius pseudohatsudake	ACS	acs	159.9	159.9	KAH9024881.1
+GCA_027923665.1	Aspergillus tubingensis	CUS	cus	111.9	111.9	GLA93286.1
+GCA_001661425.1	Ogataea arabinofermentans	ACS	ambiguous	20.8	1.6	ODV83227.1
+GCA_026054635.1	Bathelium mastoideum	ACS	kerr14	38.6	38.6	KAI9688986.1
+GCA_026054635.1	Bathelium mastoideum	ACS	ambiguous	23.8	2.1	KAI9688515.1
+GCA_026054635.1	Bathelium mastoideum	CUS	ambiguous	24.2	24.2	KAI9674383.1
+GCA_000696135.1	Colletotrichum sublineola	ORF358	orf358	73.0	73.0	KDN68222.1
+GCA_051529875.1	Aspergillus niger	CUS	cus	101.9	101.9	KAL7655383.1
+GCA_051529875.1	Aspergillus niger	CUS	ambiguous	29.2	29.2	KAL7650346.1
+GCA_019924775.1	Aureobasidium melanogenum	CUS	ambiguous	19.9	19.9	KAH0174819.1
+GCA_028828245.1	Penicillium lividum	ACS	ambiguous	18.8	18.8	KAJ5654707.1
+GCA_028828245.1	Penicillium lividum	CUS	ambiguous	18.9	18.9	KAJ5627699.1
+GCA_018360735.1	Claviceps purpurea	CUS	ambiguous	23.7	23.7	KAG6210369.1
+GCA_900096705.1	Fusarium fujikuroi	ACS	ambiguous	18.7	18.7	SCN71527.1
+GCA_001636795.1	Akanthomyces lecanii RCEF 1005	ACS	ambiguous	22.6	22.6	OAA72658.1
+GCA_023758085.1	Alternaria hordeiaustralica	ACS	ambiguous	17.3	17.3	KAI4688086.1
+GCA_049000225.1	Fusarium oxysporum	ACS	ambiguous	21.8	2.3	KAL5607012.1
+GCA_049000225.1	Fusarium oxysporum	ACS	ambiguous	17.8	17.8	KAL5623027.1
+GCA_023134325.1	Aspergillus niger	CUS	cus	109.6	109.6	KAI2874801.1
+GCA_033297175.1	Cladorrhinum sp. PSN332	ACS	ambiguous	20.8	20.8	KAK3997430.1
+GCA_033297175.1	Cladorrhinum sp. PSN332	ACS	ambiguous	19.5	19.5	KAK3988314.1
+GCA_058411205.1	Laccaria bicolor	ACS	acs	60.5	60.5	KAO1195689.1
+GCA_058411205.1	Laccaria bicolor	ACS	acs	60.4	60.4	KAO1195683.1
+GCA_058411205.1	Laccaria bicolor	ACS	acs	37.8	37.8	KAO1195685.1
+GCA_000151355.1	Fusarium vanettenii 77-13-4	ACS	ambiguous	27.6	27.6	EEU40053.1
+GCA_002072235.1	Penicillium solitum	ACS	acs	48.3	48.3	OQE02490.1
+GCA_002072235.1	Penicillium solitum	CUS	ambiguous	19.7	19.7	OQD99601.1
+GCA_002072235.1	Penicillium solitum	CUS	ambiguous	18.1	18.1	OQD94359.1
+GCA_006535975.1	Chytriomyces confervae	CUS	ambiguous	18.7	18.7	TPX73740.1
+GCA_022814265.1	Lambiella insularis	ACS	ambiguous	18.6	18.6	MCJ1479249.1
+GCA_003957675.1	Fusarium euwallaceae	CUS	mis	239.3	239.3	RTE84231.1
+GCA_027602705.1	Geranomyces variabilis	ACS	ambiguous	18.5	18.5	KAJ3173882.1
+GCA_053540725.1	Beauveria mimosiformis	ACS	ambiguous	22.9	22.9	KAM3508336.1
+GCA_053540725.1	Beauveria mimosiformis	CUS	cus	135.6	135.6	KAM3504664.1
+GCF_028829755.1	Penicillium solitum	CUS	ambiguous	19.9	19.9	XP_040816047.2
+GCF_028829755.1	Penicillium solitum	CUS	ambiguous	18.4	18.4	XP_065461392.1
+GCA_003184635.1	Aspergillus sclerotiicarbonarius CBS 121057	CUS	ambiguous	19.6	19.6	PYI03541.1
+GCA_028828675.1	Penicillium herquei	ACS	ambiguous	21.0	21.0	KAJ6037419.1
+GCA_028828675.1	Penicillium herquei	CUS	ambiguous	20.7	20.7	KAJ6013819.1
+GCA_037672785.1	Paraphaeosphaeria sporulosa	CUS	ambiguous	20.0	20.0	KAK7178773.1
+GCA_033296915.1	Triangularia setosa	ACS	ambiguous	25.4	25.4	KAK4171219.1
+GCA_980757495.1	Trichoderma atroviride	ACS	ambiguous	17.7	17.7	CAP3725861.1
+GCF_000600275.1	Aspergillus ruber CBS 135680	ACS	ambiguous	24.1	24.1	XP_040635025.1
+GCA_045785085.1	Aspergillus californicus	CUS	cus	105.7	105.7	KAL3471101.1
+GCA_045785085.1	Aspergillus californicus	CUS	cusrel181	289.6	289.6	KAL3471432.1
+GCA_030867235.1	Colletotrichum falcatum	ORF358	orf358	70.3	70.3	KAK1989884.1
+GCA_023065465.1	Penicillium roqueforti	CUS	ambiguous	24.9	24.9	KAI2727413.1
+GCA_000988865.1	Trichoderma harzianum	ACS	ambiguous	17.4	17.4	KKP05204.1
+GCA_009769405.1	Venturia inaequalis	ACS	ambiguous	19.2	19.2	KAE9985769.1
+GCA_009769405.1	Venturia inaequalis	CUS	ambiguous	19.5	19.5	KAE9979829.1
+GCA_053539325.1	Beauveria thailandica	ACS	ambiguous	22.9	22.9	KAM3448432.1
+GCA_053539325.1	Beauveria thailandica	CUS	cus	134.0	134.0	KAM3448694.1
+GCA_004918445.1	Wallemia ichthyophaga	SUS	ambiguous	18.7	18.7	TIB21789.1
+GCA_000344655.2	Fomitopsis schrenkii	ACS	ambiguous	18.7	18.7	EPT00494.1
+GCA_050703535.1	Trichoderma pleuroticola	ACS	ambiguous	18.8	18.8	KAL6700638.1
+GCF_003184745.1	Aspergillus uvarum CBS 121591	CUS	mis	256.3	256.3	XP_025493761.1
+GCA_051132625.1	Hypoxylon texense	CUS	mis	194.8	194.8	XXG98468.1
+GCA_023137955.1	Aspergillus niger	CUS	cus	109.6	109.6	KAI2950385.1
+GCA_023134415.1	Aspergillus niger	CUS	cus	109.3	109.3	KAI2926496.1
+GCA_038364125.1	Apiospora kogelbergensis	ACS	kerr14	35.2	35.2	KAK8121318.1
+GCA_015680625.1	Mortierella hygrophila	ACS	ambiguous	19.8	19.8	KAF9547872.1
+GCA_057706695.1	Penicillium discolor	CUS	ambiguous	19.9	19.9	KAN9863230.1
+GCA_057706695.1	Penicillium discolor	CUS	ambiguous	19.0	19.0	KAN9863358.1
+GCA_030913485.1	Colletotrichum godetiae	ACS	ambiguous	19.8	19.8	KAK1700469.1
+GCA_030413865.1	Colletotrichum limetticola	ACS	ambiguous	21.8	21.8	KAK0371372.1
+GCA_030413865.1	Colletotrichum limetticola	CUS	ambiguous	20.4	20.4	KAK0378849.1
+GCA_057674555.1	Fusarium cf. solani	CUS	mis	240.9	240.9	KAN9057258.1
+GCA_027604705.1	Allomyces arbusculus	ACS	ambiguous	22.8	1.0	KAJ3369819.1
+GCA_027604705.1	Allomyces arbusculus	ACS	ambiguous	21.9	2.0	KAJ3376184.1
+GCA_010724635.1	Aspergillus lentulus	CUS	cus	114.2	114.2	GFG07790.1
+GCA_010724635.1	Aspergillus lentulus	CUS	mis	281.0	281.0	GFG18440.1
+GCA_900096695.1	Fusarium oxysporum	ACS	ambiguous	21.2	21.2	SCO86087.1
+GCA_900096695.1	Fusarium oxysporum	ACS	ambiguous	17.8	17.8	SCO77556.1
+GCA_900536885.1	Peniophora sp. CBMAI 1063	CUS	ambiguous	19.0	19.0	VDB97036.1
+GCA_022385695.1	Xylaria arbuscula	ACS	ambiguous	25.9	3.5	KAI0973986.1
+GCA_027923785.1	Aspergillus niger	CUS	cus	112.2	112.2	GKZ79562.1
+GCA_058369675.1	Acrocalymma vagum	CUS	ambiguous	25.8	25.8	KAO0954031.1
+GCA_058369675.1	Acrocalymma vagum	ORF358	orf358	100.2	100.2	KAO0957478.1
+GCA_058369675.1	Acrocalymma vagum	ORF358	orf358	98.7	98.7	KAO0958750.1
+GCA_058369675.1	Acrocalymma vagum	ORF358	orf358	83.1	83.1	KAO0961340.1
+GCA_058369675.1	Acrocalymma vagum	ORF358	orf358	83.1	83.1	KAO0964094.1
+GCA_058369675.1	Acrocalymma vagum	ORF358	orf358	78.8	78.8	KAO0953374.1
+GCA_058369675.1	Acrocalymma vagum	ORF358	orf358	75.9	75.9	KAO0960475.1
+GCA_058369675.1	Acrocalymma vagum	ORF358	orf358	75.7	75.7	KAO0953271.1
+GCA_058369675.1	Acrocalymma vagum	ORF358	orf358	74.7	74.7	KAO0958549.1
+GCA_058369675.1	Acrocalymma vagum	ORF358	orf358	71.1	71.1	KAO0954914.1
+GCA_058369675.1	Acrocalymma vagum	ORF358	orf358	69.6	69.6	KAO0952037.1
+GCA_058369675.1	Acrocalymma vagum	ORF358	orf358	64.8	64.8	KAO0959752.1
+GCA_058369675.1	Acrocalymma vagum	ORF358	orf358	63.6	63.6	KAO0958732.1
+GCA_026319145.1	Colletotrichum fioriniae	ACS	ambiguous	18.9	18.9	KAJ0321916.1
+GCA_010093635.1	Massarina eburnea CBS 473.64	ORF358	orf358	55.2	55.2	KAF2644026.1
+GCA_053539275.1	Beauveria thailandica	ACS	ambiguous	22.9	22.9	KAM3442011.1
+GCA_053539275.1	Beauveria thailandica	CUS	cus	133.8	133.8	KAM3439021.1
+GCA_003946985.1	Fusarium duplospermum	CUS	mis	221.7	221.7	RSL48876.1
+GCA_011067015.1	Orbilia oligospora	ACS	ambiguous	18.3	18.3	KAF3288975.1
+GCA_028827005.1	Penicillium atrosanguineum	ACS	ambiguous	17.4	17.4	KAJ5314901.1
+GCA_028827005.1	Penicillium atrosanguineum	CUS	ambiguous	17.6	17.6	KAJ5298995.1
+GCA_032988195.1	Arachnomyces sp. PD_36	CUS	cus	118.8	118.8	KAK2752868.1
+GCA_911175225.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8288941.1
+GCA_047715655.1	Aspergillus unguis	CUS	cus	130.1	130.1	KAL4808805.1
+GCA_001636725.1	Cordyceps fumosorosea ARSEF 2679	ACS	ambiguous	18.4	18.4	OAA57696.1
+GCA_001636725.1	Cordyceps fumosorosea ARSEF 2679	CUS	mis	305.1	305.1	OAA64759.1
+GCA_006981985.1	Cordyceps javanica	ACS	ambiguous	25.2	25.2	TQV94008.1
+GCA_006981985.1	Cordyceps javanica	CUS	cus	133.4	133.4	TQV92189.1
+GCA_018360935.1	Claviceps purpurea	CUS	ambiguous	24.2	24.2	KAG6317351.1
+GCA_010015675.1	Byssothecium circinans	ORF358	orf358	61.4	61.4	KAF1955586.1
+GCF_030867605.1	Colletotrichum paranaense	ACS	ambiguous	20.8	20.8	XP_060352397.1
+GCF_030867605.1	Colletotrichum paranaense	CUS	ambiguous	20.3	20.3	XP_060354751.1
+GCA_023141165.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3221360.1
+GCF_003184535.1	Aspergillus eucalypticola CBS 122712	CUS	cus	114.3	114.3	XP_025389297.1
+GCA_028829455.1	Penicillium robsamsonii	ACS	ambiguous	17.4	17.4	KAJ5824710.1
+GCF_028828045.1	Penicillium odoratum	ACS	ambiguous	17.9	17.9	XP_056991630.1
+GCF_028828045.1	Penicillium odoratum	CUS	ambiguous	19.1	19.1	XP_056993316.1
+GCF_013396195.1	Fusarium tjaetaba	ACS	ambiguous	23.9	23.9	XP_037200418.1
+GCF_000516985.1	Pestalotiopsis fici W106-1	ACS	ambiguous	18.2	18.2	XP_007834021.1
+GCA_057676125.1	Fusarium ambrosium	CUS	mis	238.4	238.4	KAN9658076.1
+GCA_015852415.1	Linnemannia elongata	ACS	ambiguous	19.7	19.7	KAG0073418.1
+GCA_058411125.1	Laccaria bicolor S238N-H53	ACS	acs	131.7	131.7	KAO1130916.1
+GCA_057674245.1	[Neocosmospora] sp. B6999-1	CUS	mis	238.2	238.2	KAN8897697.1
+GCA_038367545.1	Beauveria asiatica	ACS	ambiguous	24.6	24.6	KAK8141222.1
+GCA_038367545.1	Beauveria asiatica	CUS	cus	135.0	135.0	KAK8149481.1
+GCA_009663095.1	Fusarium fujikuroi	ACS	ambiguous	18.7	18.7	QGI92220.1
+GCA_025094155.1	Lichtheimia hyalospora FSU 10163	ACS	ambiguous	19.0	19.0	KAI7884595.1
+GCA_023138445.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3135227.1
+GCA_001890745.1	Aspergillus tubingensis CBS 134.48	CUS	cus	112.9	112.9	OJI80363.1
+GCA_051103115.1	Cordyceps javanica	ACS	kerr14	31.9	31.9	XWW95874.1
+GCA_051103115.1	Cordyceps javanica	CUS	mis	312.0	312.0	XWW96074.1
+GCA_051103115.1	Cordyceps javanica	CUS	rcorf12	39.4	39.4	XWW96506.1
+GCA_003184535.1	Aspergillus eucalypticola CBS 122712	CUS	cus	114.3	114.3	PWY75767.1
+GCA_011068445.1	Orbilia oligospora	ACS	ambiguous	18.1	18.1	KAF3307688.1
+GCA_022592445.1	Cytidiella melzeri	CUS	cus	224.8	224.8	KAI0695712.1
+GCA_022592445.1	Cytidiella melzeri	CUS	cus	184.1	184.1	KAI0686717.1
+GCA_022592445.1	Cytidiella melzeri	CUS	cus	184.1	184.1	KAI0690401.1
+GCA_055773965.2	Bipolaris sivanesaniana	ACS	acs	49.3	49.3	KAN7609634.1
+GCA_022385585.1	Hypomontagnella monticulosa	ACS	ambiguous	18.6	18.6	KAI0376013.1
+GCA_022385585.1	Hypomontagnella monticulosa	CUS	mis	253.2	253.2	KAI0381307.1
+GCA_022385585.1	Hypomontagnella monticulosa	CUS	ambiguous	19.8	19.8	KAI0381412.1
+GCA_900000165.1	Ceraceosorus bombacis	ORF358	orf358	118.9	118.9	CEH15202.1
+GCA_022495195.1	Xylaria digitata	ACS	acs	36.0	36.0	KAI0543162.1
+GCA_028974205.1	Penicillium antarcticum	CUS	cus	124.4	124.4	KAJ5301910.1
+GCA_028974205.1	Penicillium antarcticum	CUS	ambiguous	24.3	24.3	KAJ5316932.1
+GCA_020891255.1	Entomortierella parvispora	ACS	ambiguous	19.9	19.9	GJJ72580.1
+GCA_051942265.1	Coniocarpon cinnabarinum	ACS	acs	42.3	42.3	KAL9052476.1
+GCF_000582985.1	Colletotrichum fioriniae PJ7	ACS	ambiguous	19.4	19.4	XP_007598220.1
+GCF_000582985.1	Colletotrichum fioriniae PJ7	CUS	ambiguous	20.2	20.2	XP_007598363.1
+GCA_019632265.1	Tulasnella sp. 331	ACS	ambiguous	22.1	2.7	KAG8884041.1
+GCA_033630665.1	Elasticomyces elasticus	CUS	ambiguous	23.8	23.8	KAK3632734.1
+GCA_033630665.1	Elasticomyces elasticus	CUS	ambiguous	22.8	22.8	KAK3656850.1
+GCA_057674335.1	[Neocosmospora] sp. B6999-1	CUS	mis	238.2	238.2	KAN8981429.1
+GCA_046452455.1	Purpureocillium lilacinum	ACS	ambiguous	18.6	18.6	KAL3953195.1
+GCA_023758065.1	Alternaria ventricosa	ACS	ambiguous	17.3	17.3	KAI4650826.1
+GCA_028829005.1	Penicillium canescens	ACS	ambiguous	23.9	23.9	KAJ6174364.1
+GCA_028829005.1	Penicillium canescens	CUS	cus	109.2	109.2	KAJ6158774.1
+GCA_028829005.1	Penicillium canescens	CUS	ambiguous	20.9	20.9	KAJ6182087.1
+GCA_022984845.1	Xylaria nigripes	ACS	ambiguous	26.2	26.2	KAI2640143.1
+GCA_013396195.1	Fusarium tjaetaba	ACS	ambiguous	23.9	23.9	KAF5617697.1
+GCA_020746875.1	Rhexocercosporidium sp. MPI-PUGE-AT-0058	CUS	ambiguous	21.9	21.9	KAH7370438.1
+GCA_048183105.1	Trichoderma cf. simile WF8	ACS	ambiguous	17.5	17.5	KAL5086125.1
+GCF_047715775.1	Aspergillus undulatus	ACS	ambiguous	19.8	19.8	XP_073619381.1
+GCA_911174865.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8300485.1
+GCA_018282005.1	Asterophora parasitica	ACS	acs	87.3	87.3	KAG5648421.1
+GCA_022712995.1	Eutypa lata	CUS	mis	231.3	231.3	KAI1250319.1
+GCA_921293635.1	Entrophospora sp. SA101	ACS	ambiguous	19.2	19.2	CAH1757003.1
+GCA_055697485.1	Aspergillus niger	CUS	cus	100.6	100.6	KAN0693693.1
+GCA_910591925.1	Cetraspora pellucida	ACS	ambiguous	17.8	17.8	CAG8653357.1
+GCA_033807595.1	Acrodontium crateriforme	ACS	ambiguous	24.7	5.7	WPG99088.1
+GCA_050947985.1	Trichoderma sp. SZMC 28012	ACS	ambiguous	17.5	17.5	KAL6805822.1
+GCF_002847465.1	Aspergillus novofumigatus IBT 16806	CUS	mis	288.8	288.8	XP_024684849.1
+GCA_015849305.1	Mortierella alpina	ACS	ambiguous	18.6	18.6	KAF9948286.1
+GCA_002104985.1	Rhizoclosmatium globosum	ACS	ambiguous	18.7	18.7	ORY49463.1
+GCA_036428585.1	Kwoniella sp. CBS 9459	ACS	ambiguous	22.3	22.3	WVQ98011.1
+GCA_056321185.1	Aspergillus destruens	ACS	ambiguous	21.8	21.8	KAN3100143.1
+GCA_056321185.1	Aspergillus destruens	CUS	mis	205.6	205.6	KAN3099618.1
+GCA_024704305.1	Pyricularia oryzae	ORF358	orf358	82.5	82.5	KAI6459701.1
+GCF_013368755.1	Talaromyces rugulosus	ACS	ambiguous	19.7	19.7	XP_035343039.1
+GCA_027603065.1	Geranomyces variabilis	ACS	ambiguous	21.6	21.6	KAJ3163374.1
+GCF_023758025.1	Alternaria triticimaculans	ACS	ambiguous	17.3	17.3	XP_049227300.1
+GCA_027946365.1	Kalmusia sp. IMI 367209	ORF358	orf358	114.5	114.5	KAJ4292800.1
+GCA_027946365.1	Kalmusia sp. IMI 367209	ORF358	orf358	86.2	86.2	KAJ4286475.1
+GCA_027946365.1	Kalmusia sp. IMI 367209	ORF358	orf358	76.3	76.3	KAJ4287791.1
+GCA_027946365.1	Kalmusia sp. IMI 367209	ORF358	orf358	67.8	67.8	KAJ4293487.1
+GCA_027946365.1	Kalmusia sp. IMI 367209	ORF358	orf358	66.3	66.3	KAJ4288046.1
+GCA_027946365.1	Kalmusia sp. IMI 367209	ORF358	orf358	64.3	64.3	KAJ4297667.1
+GCA_027946365.1	Kalmusia sp. IMI 367209	ORF358	orf358	63.7	63.7	KAJ4296727.1
+GCA_027946365.1	Kalmusia sp. IMI 367209	ORF358	orf358	54.0	54.0	KAJ4290632.1
+GCA_027946365.1	Kalmusia sp. IMI 367209	ORF358	orf358	52.1	52.1	KAJ4299160.1
+GCA_027946365.1	Kalmusia sp. IMI 367209	ORF358	orf358	49.0	49.0	KAJ4289065.1
+GCA_023065375.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI2684542.1
+GCA_038497535.1	Lipomyces doorenjongii	ACS	ambiguous	17.5	17.5	KAK9428878.1
+GCA_002591385.1	Cordyceps sp. RAO-2017	CUS	cus	123.9	123.9	PHH93329.1
+GCA_030347475.1	Cadophora gregata	CUS	ambiguous	20.2	20.2	KAK0112818.1
+GCA_030347475.1	Cadophora gregata	CUS	ambiguous	19.8	19.8	KAK0112819.1
+GCF_001890805.1	Aspergillus glaucus CBS 516.65	ACS	ambiguous	24.7	24.7	XP_022395656.1
+GCF_036630325.1	Vairimorpha necatrix	ORF358	ambiguous	15.8	15.8	XP_065328448.1
+GCA_028827245.1	Penicillium angulare	CUS	ambiguous	21.2	21.2	KAJ5263750.1
+GCA_911175035.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG7966659.1
+GCA_052674815.1	Beauveria bassiana	CUS	cus	136.3	136.3	KAM0743987.1
+GCA_027945555.1	Fusarium oxysporum	ACS	ambiguous	18.1	18.1	KAJ4266828.1
+GCF_003942205.1	Apiotrichum porosum	ACS	kerr14	31.3	31.3	XP_028474706.1
+GCA_025765615.1	Zopfochytrium polystomum	ACS	ambiguous	19.2	19.2	KAI9357248.1
+GCA_022578705.1	Xylariaceae sp. FL1019	ORF358	orf358	286.9	286.9	KAI1258539.1
+GCA_019924185.1	Aureobasidium melanogenum	CUS	ambiguous	19.5	19.5	KAG9663802.1
+GCA_001713645.1	Paracoccidioides brasiliensis	ORF358	ambiguous	18.6	18.6	ODH39826.1
+GCA_019565615.1	Trichoderma simmonsii	ACS	ambiguous	17.4	17.4	QYS94494.1
+GCA_004918305.1	Wallemia ichthyophaga	SUS	ambiguous	18.9	18.9	TIB45612.1
+GCF_028828555.1	Penicillium taxi	ACS	ambiguous	17.8	0.2	XP_057061348.1
+GCF_028828555.1	Penicillium taxi	SUS	ambiguous	17.4	17.4	XP_057068434.1
+GCA_030869225.1	Colletotrichum abscissum	ACS	ambiguous	21.6	21.6	KAK1496007.1
+GCA_030869225.1	Colletotrichum abscissum	CUS	ambiguous	20.3	20.3	KAK1509059.1
+GCA_911456355.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8886990.1
+GCA_022496215.1	Russula brevipes	ACS	ambiguous	18.4	18.4	KAI0303998.1
+GCA_033117895.1	Extremus antarcticus	ACS	ambiguous	19.5	19.5	KAK3045571.1
+GCA_000149555.1	Fusarium verticillioides 7600	ACS	ambiguous	19.1	19.1	EWG41314.1
+GCA_009932835.1	Aspergillus terreus	CUS	cus	105.8	105.8	GFF17446.1
+GCA_009932835.1	Aspergillus terreus	CUS	cus	104.4	104.4	GFF15835.1
+GCA_015847185.1	Mortierella alpina	ACS	ambiguous	18.7	18.7	KAF9932044.1
+GCA_013396175.1	Fusarium denticulatum	ACS	ambiguous	20.9	20.9	KAF5667745.1
+GCA_004156025.2	Alternaria gaisen	ACS	ambiguous	22.7	22.7	KAB2104039.1
+GCF_050948025.1	Trichoderma camerunense	ACS	ambiguous	17.5	17.5	XP_083077818.1
+GCA_022495235.1	Xylaria curta	ACS	ambiguous	29.5	29.5	KAI0546426.1
+GCA_902713535.1	Penicillium viridicatum	ACS	ambiguous	17.3	17.3	CAI7641878.1
+GCA_902713535.1	Penicillium viridicatum	CUS	ambiguous	20.7	20.7	CAI7637748.1
+GCA_023141275.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3230738.1
+GCA_035926105.1	Elasticomyces elasticus	CUS	ambiguous	19.1	19.1	KAK4902903.1
+GCA_028828185.1	Penicillium viridicatum	CUS	ambiguous	21.3	21.3	KAJ5957393.1
+GCA_023141115.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3187194.1
+GCF_003184785.1	Aspergillus japonicus CBS 114.51	CUS	mis	259.5	259.5	XP_025523104.1
+GCA_028974015.1	Penicillium cf. griseofulvum	ACS	acs	38.7	38.7	KAJ5187950.1
+GCF_030913505.1	Colletotrichum phormii	ACS	ambiguous	19.8	19.8	XP_060450548.1
+GCA_000512605.3	Kwoniella pini CBS 10737	ACS	ambiguous	22.9	1.3	WWC67899.1
+GCA_001602395.1	Aspergillus luchuensis	CUS	cus	109.6	109.6	GAT18851.1
+GCA_052084505.1	Trichoderma asperelloides	ACS	ambiguous	18.6	18.6	KAL9476678.1
+GCF_028828195.1	Penicillium verhagenii	CUS	ambiguous	19.6	19.6	XP_057016099.1
+GCA_033576145.1	Cladorrhinum samala	ACS	acs	68.1	68.1	KAK4457977.1
+GCA_002072345.1	Penicillium antarcticum	CUS	cus	124.4	124.4	OQD79110.1
+GCA_003615075.1	Fusarium oxysporum f. sp. cepae	ACS	ambiguous	21.2	21.2	RKK40866.1
+GCA_028828265.1	Penicillium herquei	ACS	ambiguous	19.1	19.1	KAJ5630148.1
+GCA_028828265.1	Penicillium herquei	CUS	ambiguous	19.5	19.5	KAJ5634708.1
+GCA_045784785.1	Aspergillus heterothallicus	CUS	ambiguous	22.3	22.3	KAL3455151.1
+GCA_053754955.1	Fusarium oxysporum f. sp. cubense	ACS	ambiguous	20.3	20.3	KAO1817759.1
+GCA_053754955.1	Fusarium oxysporum f. sp. cubense	ACS	ambiguous	17.8	17.8	KAO1807822.1
+GCA_052571625.1	Trichoderma viride	ACS	ambiguous	17.7	17.7	KAM0514698.1
+GCA_028828335.1	Penicillium malachiteum	ACS	ambiguous	19.1	19.1	KAJ5718964.1
+GCA_028828335.1	Penicillium malachiteum	CUS	ambiguous	19.8	19.8	KAJ5724579.1
+GCF_003025105.1	Trichoderma asperellum CBS 433.97	ACS	ambiguous	18.6	18.6	XP_024758755.1
+GCA_023141145.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3166991.1
+GCA_013396255.1	Fusarium sp. NRRL 25303	ACS	ambiguous	19.9	19.9	KAF5619939.1
+GCA_004154765.1	Alternaria tenuissima	ACS	kerr14	38.9	38.9	RYN73085.1
+GCA_004154765.1	Alternaria tenuissima	ACS	kerr14	37.9	37.9	RYN73084.1
+GCA_012656375.1	Aspergillus lentulus	CUS	mis	314.3	314.3	KAF4192627.1
+GCA_023601865.2	Aspergillus affinis	CUS	cus	112.2	112.2	KAI9036170.1
+GCA_028829755.1	Penicillium solitum	CUS	ambiguous	19.9	19.9	KAJ5862855.1
+GCA_028829755.1	Penicillium solitum	CUS	ambiguous	18.4	18.4	KAJ5863046.1
+GCA_010724915.1	Aspergillus lentulus	CUS	mis	314.3	314.3	GFF79484.1
+GCA_003184745.1	Aspergillus uvarum CBS 121591	CUS	mis	256.3	256.3	PYH83561.1
+GCA_053540745.1	Beauveria gryllotalpidicola	ACS	ambiguous	23.8	23.8	KAM3507465.1
+GCA_040143965.1	Basidiobolus ranarum	ACS	ambiguous	21.9	1.5	KAK9679955.1
+GCA_030142165.1	Pseudozyma hubeiensis	ACS	ambiguous	17.8	17.8	KAJ9475815.1
+GCA_027923825.1	Aspergillus niger	CUS	cus	105.4	105.4	GLA49478.1
+GCA_027923825.1	Aspergillus niger	CUS	cus	51.3	51.3	GLA53307.1
+GCF_028827145.1	Penicillium concentricum	CUS	ambiguous	21.1	21.1	XP_056582993.1
+GCA_022578965.1	Xylaria sp. FL1777	ACS	ambiguous	21.4	0.2	KAI1425678.1
+GCF_027921745.1	Schizosaccharomyces osmophilus	ACS	ambiguous	31.5	1.1	XP_056034906.1
+GCA_902713505.1	Penicillium glandicola	ACS	ambiguous	23.5	23.5	CAI7569709.1
+GCA_902713505.1	Penicillium glandicola	CUS	ambiguous	18.9	18.9	CAI7579380.1
+GCF_000512585.2	Kwoniella bestiolae CBS 10118	ACS	ambiguous	22.8	4.7	XP_019047233.1
+GCA_002894225.1	Fusarium nygamai	ACS	ambiguous	20.7	20.7	PNP80900.1
+GCA_030412055.1	Friedmanniomyces endolithicus	ACS	ambiguous	25.3	25.3	KAK0356948.1
+GCA_028827385.1	Penicillium freii	CUS	ambiguous	21.6	21.6	KAJ5516969.1
+GCA_015679425.1	Linnemannia elongata	ACS	ambiguous	19.7	19.7	KAF9274347.1
+GCA_026023695.1	Chaenotheca gracillima	ACS	ambiguous	18.9	18.9	KAI9748267.1
+GCA_023137835.1	Aspergillus niger	CUS	cus	110.0	110.0	KAI3007378.1
+GCA_057674665.1	Fusarium duplospermum	CUS	mis	221.7	221.7	KAN9093158.1
+GCA_025399175.1	Geranomyces variabilis	ACS	ambiguous	25.5	25.5	KAI8589821.1
+GCA_022376455.1	Epithele typhae	ACS	acs	35.0	35.0	KAH9910846.1
+GCA_905337325.1	Alectoria fallacina	ORF358	ambiguous	17.8	17.8	CAF9913671.1
+GCF_044049455.1	Aspergillus lucknowensis	CUS	cus	132.2	132.2	XP_070882971.1
+GCA_963692855.1	Mycena citricolor	CUS	ambiguous	20.2	20.2	CAK5267260.1
+GCA_963692855.1	Mycena citricolor	CUS	ambiguous	20.2	20.2	CAK5283282.1
+GCA_963692855.1	Mycena citricolor	CUS	ambiguous	20.2	20.2	CAK5267259.1
+GCA_963692855.1	Mycena citricolor	CUS	ambiguous	20.2	20.2	CAK5283281.1
+GCA_057675365.1	Fusarium warna	CUS	mis	113.3	113.3	KAN9254897.1
+GCA_022578775.1	Xylaria venustula	ACS	ambiguous	25.5	4.1	KAI1303285.1
+GCA_023758025.1	Alternaria triticimaculans	ACS	ambiguous	17.3	17.3	KAI4672855.1
+GCA_001717485.1	Aspergillus cristatus	ACS	ambiguous	19.1	19.1	ODM17637.1
+GCA_010099065.1	Beauveria bassiana	ACS	ambiguous	23.9	23.9	KAF1734379.1
+GCA_051622595.1	Fusarium oxysporum f. sp. mori	ACS	ambiguous	19.8	19.8	KAN5944150.1
+GCA_051622595.1	Fusarium oxysporum f. sp. mori	ACS	ambiguous	19.7	19.7	KAN5954994.1
+GCA_057675325.1	Fusarium floridanum	CUS	mis	103.4	103.4	KAN9144023.1
+GCA_911174985.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8031002.1
+GCA_054130785.1	Fusarium oxysporum f. sp. phaseoli	ACS	ambiguous	20.4	20.4	KAM5517623.1
+GCA_010724455.1	Aspergillus lentulus	CUS	cus	114.2	114.2	GFF33833.1
+GCA_010724455.1	Aspergillus lentulus	CUS	mis	314.3	314.3	GFF48917.1
+GCA_000512565.3	Kwoniella dejecticola CBS 10117	ACS	ambiguous	24.5	6.0	WWC59303.1
+GCA_013758895.1	Fusarium bulbicola	ACS	ambiguous	22.0	22.0	KAF5974237.1
+GCF_028827025.1	Penicillium cataractarum	CUS	ambiguous	20.1	20.1	XP_056560141.1
+GCA_000827195.2	Laccaria amethystina LaAM-08-1	ACS	acs	139.5	139.5	MIE9588491.1
+GCA_028827665.1	Penicillium hispanicum	ACS	ambiguous	18.9	18.9	KAJ5573360.1
+GCA_028827665.1	Penicillium hispanicum	CUS	ambiguous	18.1	18.1	KAJ5585156.1
+GCA_057675225.1	Fusarium tuaranense	CUS	mis	236.7	236.7	KAN9157436.1
+GCA_041956625.1	Thermomyces dupontii	ACS	ambiguous	19.3	1.5	KAL1974089.1
+GCA_028827165.1	Penicillium cosmopolitanum	CUS	cus	99.1	99.1	KAJ5386952.1
+GCF_028827165.1	Penicillium cosmopolitanum	CUS	cus	99.1	99.1	XP_056484750.1
+GCA_050948045.1	Trichoderma sp. SZMC 28015	ACS	ambiguous	17.5	17.5	KAL6830797.1
+GCA_036320845.1	Penicillium citrinum	ACS	kerr14	32.5	32.5	KAK5807303.1
+GCA_036320845.1	Penicillium citrinum	CUS	cus	109.0	109.0	KAK5798589.1
+GCA_014904895.1	Tricholoma matsutake	SUS	ambiguous	22.6	22.6	KAF8236890.1
+GCA_051622415.1	Fusarium oxysporum f. sp. mori	ACS	ambiguous	19.8	19.8	KAN5861313.1
+GCA_018360835.1	Claviceps purpurea	CUS	ambiguous	22.7	22.7	KAG6238065.1
+GCA_027604105.1	Chytriomyces hyalinus	CUS	ambiguous	18.9	18.9	KAJ3241078.1
+GCA_055853645.1	Fusarium oxysporum	ACS	ambiguous	20.5	20.5	KAN1077078.1
+GCA_000150475.2	Paracoccidioides brasiliensis Pb03	ORF358	ambiguous	18.2	18.2	EEH17487.1
+GCA_056320485.1	Aspergillus proliferans	ACS	ambiguous	24.9	24.9	KAN3037261.1
+GCA_030867255.1	Colletotrichum somersetense	ORF358	orf358	77.1	77.1	KAK2036135.1
+GCA_028828765.1	Penicillium canescens	ACS	ambiguous	23.9	23.9	KAJ6047265.1
+GCA_028828765.1	Penicillium canescens	CUS	cus	107.0	107.0	KAJ6042413.1
+GCA_028828765.1	Penicillium canescens	CUS	ambiguous	20.0	20.0	KAJ6062891.1
+GCF_019915245.1	Fusarium musae	ACS	ambiguous	20.1	20.1	XP_044682520.1
+GCA_030913515.1	Colletotrichum lupini	ACS	ambiguous	21.6	21.6	KAK1715967.1
+GCA_030913515.1	Colletotrichum lupini	CUS	ambiguous	20.4	20.4	KAK1709281.1
+GCA_027923725.1	Aspergillus niger	CUS	cus	110.4	110.4	GLA28509.1
+GCA_027923725.1	Aspergillus niger	CUS	cus	109.5	109.5	GLA23754.1
+GCA_000260495.2	Fusarium oxysporum f. sp. melonis 26406	ACS	ambiguous	19.9	19.9	EXK26186.1
+GCA_014904935.1	Melanogaster broomeanus	SUS	sus	130.5	89.3	KAF9232081.1
+GCA_024244255.1	Aureobasidium subglaciale	CUS	ambiguous	19.9	19.9	KAI5245762.1
+GCA_028974045.1	Penicillium cf. viridicatum	CUS	ambiguous	20.6	20.6	KAJ5182302.1
+GCA_028974045.1	Penicillium cf. viridicatum	CUS	ambiguous	18.3	18.3	KAJ5186268.1
+GCA_027596035.1	Thoreauomyces humboldtii	ACS	ambiguous	17.3	17.3	KAJ3015859.1
+GCA_027596035.1	Thoreauomyces humboldtii	CUS	ambiguous	19.8	19.8	KAJ3012316.1
+GCA_001907595.1	Talaromyces atroroseus	ACS	ambiguous	22.8	1.3	OKL62947.1
+GCA_001907595.1	Talaromyces atroroseus	CUS	ambiguous	17.6	17.6	OKL55844.1
+GCF_009176365.1	Aspergillus alliaceus	CUS	cus	113.9	113.9	XP_031903760.1
+GCF_009176365.1	Aspergillus alliaceus	CUS	cus	86.8	86.8	XP_031903756.1
+GCF_009176365.1	Aspergillus alliaceus	CUS	cus	45.2	45.2	XP_031903666.1
+GCA_033119265.1	Coniosporium uncinatum	ACS	ambiguous	20.0	0.0	KAK3078640.1
+GCA_027942845.1	Colletotrichum fioriniae	ACS	ambiguous	20.0	20.0	KAJ3944990.1
+GCA_023134445.1	Aspergillus niger	CUS	cus	105.4	105.4	KAI2861188.1
+GCA_015849285.1	Mortierella alpina	ACS	ambiguous	18.6	18.6	KAF9954943.1
+GCF_001481775.2	Trichoderma gamsii	ACS	ambiguous	17.4	17.4	XP_018658944.1
+GCA_019788775.1	Mortierella alpina	ACS	ambiguous	18.7	18.7	KAG9321442.1
+GCA_023138645.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3140973.1
+GCA_002894205.1	Trichoderma gamsii	ACS	ambiguous	17.6	17.6	PNP43784.1
+GCA_000193285.1	Magnaporthiopsis poae ATCC 64411	ORF358	orf358	90.2	90.2	KLU88299.1
+GCA_003184865.1	Aspergillus homomorphus CBS 101889	CUS	cus	124.2	124.2	RAL13543.1
+GCA_003184865.1	Aspergillus homomorphus CBS 101889	CUS	mis	284.1	284.1	RAL15814.1
+GCA_003184865.1	Aspergillus homomorphus CBS 101889	CUS	cus	77.5	77.5	RAL12611.1
+GCA_000349385.1	Eutypa lata UCREL1	CUS	mis	232.7	232.7	EMR72593.1
+GCA_000507465.4	Kwoniella mangroviensis CBS 8507	ACS	ambiguous	23.6	3.6	KAK6903790.1
+GCA_018906765.1	Colletotrichum scovillei	ACS	ambiguous	21.7	21.7	KAG7055313.1
+GCA_018906765.1	Colletotrichum scovillei	CUS	ambiguous	20.1	20.1	KAG7051065.1
+GCA_907164605.1	Penicillium taurinense	ACS	ambiguous	17.0	17.0	CAI7585169.1
+GCA_907164605.1	Penicillium taurinense	CUS	ambiguous	19.2	19.2	CAI7631309.1
+GCA_007825345.1	Lachnellula suecica	CUS	ambiguous	19.1	19.1	TVY81071.1
+GCA_027574695.1	Aspergillus flavus	CUS	ambiguous	18.5	18.5	KAJ1708481.1
+GCA_036674775.1	Seiridium cupressi	CUS	ambiguous	18.7	18.7	KAK6073853.1
+GCA_010093585.1	Melanomma pulvis-pyrius CBS 109.77	ORF358	orf358	67.9	67.9	KAF2786046.1
+GCA_022578845.1	Hypoxylon cercidicola	CUS	mis	241.8	241.8	KAI1776951.1
+GCA_042257625.1	Diaporthe australafricana	ACS	ambiguous	18.7	18.7	KAL1851318.1
+GCA_042257625.1	Diaporthe australafricana	ORF358	orf358	128.0	128.0	KAL1855660.1
+GCA_024704135.1	Pyricularia grisea	ORF358	orf358	86.7	86.7	KAI6381344.1
+GCA_052576055.1	Mitosporidium daphniae	ACS	ambiguous	20.0	1.6	KAM0683743.1
+GCA_011058885.1	Penicillium rubens	CUS	cus	109.5	109.5	KAF3020896.1
+GCA_017365405.1	Cadophora malorum	CUS	ambiguous	18.8	18.8	KAG4413690.1
+GCA_044048685.1	Aspergillus cavernicola	CUS	cus	128.5	128.5	KAL2820926.1
+GCA_044049465.1	Aspergillus pseudoustus	CUS	mis	167.4	167.4	KAL2847157.1
+GCA_044049465.1	Aspergillus pseudoustus	CUS	ambiguous	21.3	21.3	KAL2824976.1
+GCA_051942345.1	Gyalolechia fulgens	CUS	ambiguous	18.4	18.4	KAL9026743.1
+GCA_023757995.1	Alternaria metachromatica	ACS	ambiguous	17.3	17.3	KAI4615084.1
+GCA_911174975.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8039170.1
+GCA_004917485.1	Aureobasidium pullulans	CUS	ambiguous	17.4	17.4	THY24088.1
+GCA_023134515.1	Aspergillus niger	CUS	cus	109.6	109.6	KAI2837790.1
+GCA_900096635.1	Fusarium fujikuroi	ACS	ambiguous	18.7	18.7	SCO35962.1
+GCA_023138015.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3103665.1
+GCA_001890805.1	Aspergillus glaucus CBS 516.65	ACS	ambiguous	24.7	24.7	OJJ78958.1
+GCA_027600665.1	Irineochytrium annulatum	ACS	ambiguous	18.8	18.8	KAJ3197897.1
+GCA_000832265.1	Phlebiopsis gigantea 11061_1 CR5-6	CUS	ambiguous	18.5	18.5	KIP12641.1
+GCA_036872695.1	Exophiala oligosperma	CUS	ambiguous	19.0	19.0	KAK6382991.1
+GCA_014621375.1	Penicillium crustosum	ACS	ambiguous	17.7	17.7	KAF7522383.1
+GCA_014621375.1	Penicillium crustosum	CUS	ambiguous	21.2	21.2	KAF7525947.1
+GCA_014621375.1	Penicillium crustosum	CUS	ambiguous	17.9	17.9	KAF7528007.1
+GCA_033297225.1	Diplogelasinospora grovesii	ACS	acs	31.4	31.4	KAK3943604.1
+GCA_022578765.1	Xylaria sp. FL0933	ACS	ambiguous	17.5	17.5	KAI1275140.1
+GCA_001305275.1	Talaromyces verruculosus	ACS	ambiguous	21.8	2.2	KUL91528.1
+GCA_001305275.1	Talaromyces verruculosus	CUS	ambiguous	17.9	17.9	KUL82463.1
+GCA_022829055.1	Penicillium expansum	CUS	ambiguous	20.4	20.4	KAK4862274.1
+GCA_022829055.1	Penicillium expansum	CUS	ambiguous	17.8	17.8	KAK4867858.1
+GCA_028828505.1	Penicillium rubens	CUS	cus	109.5	109.5	KAJ5844910.1
+GCA_028828505.1	Penicillium rubens	CUS	cus	61.8	61.8	KAJ5858408.1
+GCA_011075155.1	Colletotrichum scovillei	ACS	ambiguous	21.7	21.7	KAF4785544.1
+GCA_011075155.1	Colletotrichum scovillei	CUS	ambiguous	20.1	20.1	KAF4782697.1
+GCA_900096685.1	Fusarium fujikuroi	ACS	ambiguous	20.4	20.4	SCV36788.1
+GCA_003615165.1	Fusarium oxysporum	ACS	ambiguous	21.2	21.2	RKK99219.1
+GCA_000150735.2	Paracoccidioides brasiliensis Pb18	ORF358	ambiguous	17.3	17.3	EEH46344.1
+GCA_024721195.1	Marasmius sp. AFHP31	ORF358	orf358	181.6	181.6	KAK1222071.1
+GCA_911174915.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8235218.1
+GCA_002838845.1	Trichoderma harzianum	ACS	ambiguous	17.5	17.5	PKK45894.1
+GCA_057673905.1	[Neocosmospora] sp. B6999-4	CUS	mis	159.4	159.4	KAN8744631.1
+GCA_019632285.1	Tulasnella sp. 332	ACS	ambiguous	22.1	2.7	KAG8890505.1
+GCA_038497805.1	Lipomyces mesembrius	ACS	ambiguous	17.8	17.8	KAK9389067.1
+GCA_016097865.1	Linnemannia gamsii	ACS	ambiguous	20.7	20.7	KAG0321724.1
+GCA_911175165.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8021542.1
+GCA_004154845.1	Alternaria tenuissima	ACS	kerr14	37.9	37.9	RYO08972.1
+GCA_911174845.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8228895.1
+GCA_003344705.1	Aspergillus niger ATCC 13496	CUS	cus	109.6	109.6	RDH21742.1
+GCA_003344705.1	Aspergillus niger ATCC 13496	CUS	cus	75.3	75.3	RDH15136.1
+GCA_003144195.1	Ceraceosorus guamensis	ORF358	orf358	87.7	87.7	PWN40866.1
+GCA_001642045.1	Paraphaeosphaeria sporulosa	CUS	ambiguous	20.0	20.0	OAG01243.1
+GCA_001445595.3	Rosellinia necatrix	ACS	ambiguous	20.9	1.6	GAP85859.1
+GCA_054948845.1	Tylopilus felleus	ACS	acs	157.8	157.8	KAN0084236.1
+GCA_057706715.1	Penicillium discolor	CUS	ambiguous	19.7	19.7	KAN9849666.1
+GCA_057706715.1	Penicillium discolor	CUS	ambiguous	19.0	19.0	KAN9849798.1
+GCA_010015655.1	Bimuria novae-zelandiae CBS 107.79	ORF358	orf358	59.0	59.0	KAF1968327.1
+GCA_010015655.1	Bimuria novae-zelandiae CBS 107.79	ORF358	orf358	56.5	56.5	KAF1973883.1
+GCA_010015655.1	Bimuria novae-zelandiae CBS 107.79	ORF358	orf358	51.9	51.9	KAF1971029.1
+GCA_010015655.1	Bimuria novae-zelandiae CBS 107.79	ORF358	orf358	31.6	31.6	KAF1979013.1
+GCA_902713485.1	Penicillium discolor	CUS	ambiguous	19.4	19.4	CAI7600895.1
+GCA_902713485.1	Penicillium discolor	CUS	ambiguous	18.4	18.4	CAI7579661.1
+GCA_000350345.1	Fusarium oxysporum f. sp. cubense race 1	ACS	ambiguous	20.3	20.3	ENH65738.1
+GCA_000350345.1	Fusarium oxysporum f. sp. cubense race 1	ACS	ambiguous	17.8	17.8	ENH62711.1
+GCA_020045945.2	Trichoderma semiorbis	ACS	ambiguous	17.4	17.4	KAH0532774.1
+GCF_024043145.1	Alternaria conjuncta	ACS	ambiguous	17.3	17.3	XP_051329601.1
+GCA_022385655.1	Xylaria intraflava	ACS	ambiguous	21.9	3.2	KAI1824300.1
+GCF_000004155.1	Schizosaccharomyces cryophilus OY26	ACS	ambiguous	34.8	3.4	XP_013021430.1
+GCA_009014675.2	Aspergillus terreus	CUS	cus	105.8	105.8	GES61336.1
+GCA_009014675.2	Aspergillus terreus	CUS	cus	104.4	104.4	GES62024.1
+GCA_054367885.1	Trichoderma sp. SZMC 28011	ACS	ambiguous	17.5	17.5	KAM6481873.1
+GCA_036320695.1	Elasticomyces elasticus	CUS	ambiguous	22.7	22.7	KAK5697997.1
+GCA_018360955.1	Claviceps purpurea	CUS	ambiguous	19.8	19.8	KAG6223350.1
+GCA_001632345.1	Daedalea quercina L-15889	CUS	ambiguous	19.9	19.9	KZT65987.1
+GCA_030867605.1	Colletotrichum paranaense	ACS	ambiguous	20.8	20.8	KAK1543274.1
+GCA_030867605.1	Colletotrichum paranaense	CUS	ambiguous	20.3	20.3	KAK1545634.1
+GCA_001682635.1	Beauveria bassiana	ACS	ambiguous	23.5	23.5	PQK13476.1
+GCA_001682635.1	Beauveria bassiana	CUS	cus	136.7	136.7	PQK14721.1
+GCA_001642395.1	Nematocida displodere	CUS	ambiguous	16.5	16.5	OAG29055.1
+GCF_028827405.1	Penicillium crustosum	ACS	ambiguous	17.7	17.7	XP_056731479.1
+GCF_028827405.1	Penicillium crustosum	CUS	ambiguous	21.2	21.2	XP_056735411.1
+GCF_028827405.1	Penicillium crustosum	CUS	ambiguous	17.9	17.9	XP_056735621.1
+GCA_010093715.1	Pleomassaria siparia CBS 279.74	ORF358	orf358	122.5	122.5	KAF2714312.1
+GCA_010093715.1	Pleomassaria siparia CBS 279.74	ORF358	orf358	117.0	117.0	KAF2706245.1
+GCA_010093715.1	Pleomassaria siparia CBS 279.74	ORF358	orf358	87.6	87.6	KAF2712258.1
+GCA_010093715.1	Pleomassaria siparia CBS 279.74	ORF358	orf358	30.3	30.3	KAF2715735.1
+GCA_018360535.1	Claviceps purpurea	CUS	ambiguous	19.8	19.8	KAG6168589.1
+GCA_013266205.1	Fusarium decemcellulare	CUS	mis	232.2	232.2	KAF5011016.1
+GCA_052550365.1	Fusarium odoratissimum	ACS	ambiguous	21.1	2.4	KAM0081936.1
+GCF_003144195.1	Ceraceosorus guamensis	ORF358	orf358	87.7	87.7	XP_025368026.1
+GCF_036327395.1	Knufia obscura	ACS	ambiguous	20.1	1.9	XP_064732034.1
+GCA_057673865.1	[Neocosmospora] sp. B6999-4	CUS	mis	107.1	107.1	KAN8741920.1
+GCF_028827395.1	Penicillium hordei	ACS	ambiguous	17.7	17.7	XP_056758346.1
+GCF_028827395.1	Penicillium hordei	CUS	ambiguous	19.1	19.1	XP_056748032.1
+GCA_004918745.1	Wallemia ichthyophaga	SUS	ambiguous	18.9	18.9	TIB31102.1
+GCA_027945335.1	Fusarium oxysporum	ACS	ambiguous	19.1	19.1	KAJ4082015.1
+GCA_057706495.1	Penicillium discolor	CUS	ambiguous	19.7	19.7	KAN9800647.1
+GCA_057706495.1	Penicillium discolor	CUS	ambiguous	19.0	19.0	KAN9800516.1
+GCA_048937225.1	Paraphaeosphaeria minitans	CUS	ambiguous	20.2	20.2	KAL5469810.1
+GCA_001445615.2	Aspergillus lentulus	CUS	cus	114.2	114.2	GAQ09270.1
+GCA_001445615.2	Aspergillus lentulus	CUS	mis	314.3	314.3	GAQ09177.1
+GCA_057676005.1	Fusarium papillatum	CUS	mis	150.2	150.2	KAN9616278.1
+GCA_025594325.1	Blastocladiella emersonii ATCC 22665	ACS	ambiguous	21.3	1.2	KAI9182991.1
+GCA_903819455.1	Aureobasidium pullulans	CUS	ambiguous	17.5	17.5	CAD0011823.1
+GCA_003184785.1	Aspergillus japonicus CBS 114.51	CUS	mis	259.5	259.5	RAH77210.1
+GCA_013138035.1	Penicillium sp. str. #12	CUS	ambiguous	19.9	19.9	KAF4767541.1
+GCA_013138035.1	Penicillium sp. str. #12	CUS	ambiguous	18.1	18.1	KAF4770338.1
+GCA_023065415.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI2679516.1
+GCA_015679585.1	Entomortierella beljakovae	ACS	ambiguous	18.9	18.9	KAF9432942.1
+GCA_059927825.1	Laccaria bicolor	ACS	acs	140.2	140.2	MIH5148084.1
+GCA_010724575.1	Aspergillus lentulus	CUS	cus	114.2	114.2	GFF64600.1
+GCA_010724575.1	Aspergillus lentulus	CUS	mis	314.3	314.3	GFF64940.1
+GCA_003344945.1	Aspergillus welwitschiae	CUS	cus	99.0	99.0	RDH30316.1
+GCA_057674105.1	[Neocosmospora] sp. B6999-3	CUS	cusrel181	37.9	37.9	KAN8836858.1
+GCF_028828025.1	Penicillium rubens	CUS	cus	108.6	108.6	XP_002557111.2
+GCA_000292585.1	Pyricularia oryzae Y34	ORF358	ambiguous	22.0	22.0	ELQ39897.1
+GCA_056320585.1	Aspergillus vitricola	ACS	ambiguous	22.8	22.8	KAN3094293.1
+GCF_016861735.1	Aspergillus chevalieri	ACS	ambiguous	20.3	20.3	XP_043136001.1
+GCA_004918415.1	Wallemia ichthyophaga	SUS	ambiguous	18.7	18.7	TIB41099.1
+GCA_003184755.1	Aspergillus piperis CBS 112811	CUS	cus	103.9	103.9	RAH59085.1
+GCA_001563125.1	Colletotrichum salicis	ACS	ambiguous	22.4	22.4	KXH63197.1
+GCA_011066605.1	Orbilia oligospora	ACS	ambiguous	18.0	18.0	KAF3086870.1
+GCA_011066605.1	Orbilia oligospora	ACS	ambiguous	17.9	17.9	KAF3086871.1
+GCF_000338995.1	Bipolaris sorokiniana ND90Pr	ACS	acs	40.1	40.1	XP_007697100.1
+GCA_022496955.1	Ustulina deusta	ACS	ambiguous	24.3	24.3	KAI0914200.1
+GCA_022605165.1	Purpureocillium takamizusanense	CUS	cus	131.1	131.1	UNI19533.1
+GCA_022605165.1	Purpureocillium takamizusanense	CUS	cus	121.9	121.9	UNI13845.1
+GCF_001890905.1	Aspergillus aculeatus ATCC 16872	CUS	mis	247.8	247.8	XP_020060641.1
+GCF_964197705.1	Penicillium psychrofluorescens	ACS	ambiguous	20.5	20.5	XP_073641126.1
+GCF_023758015.1	Alternaria viburni	ACS	ambiguous	17.3	17.3	XP_049210674.1
+GCF_000149555.1	Fusarium verticillioides 7600	ACS	ambiguous	19.1	19.1	XP_018747505.1
+GCA_003947045.1	Fusarium ambrosium	CUS	mis	238.4	238.4	RSM16668.1
+GCA_023137735.1	Aspergillus niger	CUS	cus	109.3	109.3	KAI3056366.1
+GCA_030867565.1	Colletotrichum costaricense	ACS	ambiguous	19.2	19.2	KAK1530877.1
+GCA_030867565.1	Colletotrichum costaricense	CUS	ambiguous	20.3	20.3	KAK1510449.1
+GCA_027597005.1	Phlyctochytrium bullatum	ACS	ambiguous	21.1	21.1	KAJ3115620.1
+GCA_015679495.1	Linnemannia elongata	ACS	ambiguous	19.7	19.7	KAF9339676.1
+GCA_004918345.1	Wallemia ichthyophaga	SUS	ambiguous	18.6	18.6	TIA98717.1
+GCA_028826775.1	Penicillium argentinense	CUS	ambiguous	24.2	24.2	KAJ5090798.1
+GCA_003615155.1	Fusarium oxysporum	ACS	ambiguous	17.9	17.9	RKK94443.1
+GCF_000002495.2	Pyricularia oryzae 70-15	ORF358	ambiguous	22.0	22.0	XP_003709522.1
+GCF_000002495.2	Pyricularia oryzae 70-15	ORF358	ambiguous	21.7	21.7	XP_003709087.1
+GCA_015502485.1	Mortierella sp. GBA39	ACS	ambiguous	19.7	19.7	KAF9145059.1
+GCA_011058865.1	Didymella keratinophila	ORF358	ambiguous	24.5	24.5	KAF3029166.1
+GCA_028827645.1	Penicillium hetheringtonii	CUS	cus	117.2	117.2	KAJ5595761.1
+GCA_000226095.1	Thermothelomyces thermophilus ATCC 42464	ACS	ambiguous	28.3	28.3	AEO59652.1
+GCA_014281895.1	Aspergillus felis	CUS	cus	110.4	110.4	KAF7158723.1
+GCA_958431285.1	Entrophospora sp. SA101	ACS	ambiguous	18.9	18.9	CAJ0851848.1
+GCA_900096615.1	Fusarium fujikuroi	ACS	ambiguous	18.7	18.7	SCN90444.1
+GCA_911175305.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8021252.1
+GCF_000349385.1	Eutypa lata UCREL1	CUS	mis	232.7	232.7	XP_007788308.1
+GCA_000260215.2	Fusarium oxysporum f. sp. conglutinans race 2 54008	ACS	ambiguous	20.4	20.4	EXL68198.1
+GCA_054098455.1	Fusarium oxysporum	ACS	ambiguous	17.8	17.8	KAM5368386.1
+GCA_015852425.1	Gryganskiella cystojenkinii	ACS	ambiguous	19.5	19.5	KAG0047915.1
+GCA_015852425.1	Gryganskiella cystojenkinii	ORF358	ambiguous	17.8	17.8	KAG0053248.1
+GCA_033439765.1	Lasiosphaeria ovina	ACS	ambiguous	19.3	19.3	KAK3373557.1
+GCA_032991405.1	Fusarium oxysporum f. sp. vasinfectum	ACS	ambiguous	20.5	20.5	KAK2933497.1
+GCA_032991405.1	Fusarium oxysporum f. sp. vasinfectum	ACS	ambiguous	17.8	17.8	KAK2934249.1
+GCA_003316995.2	Fusarium verticillioides	ACS	ambiguous	18.8	18.8	RBR15243.1
+GCF_010093505.1	Neohortaea acidophila	ACS	ambiguous	18.3	0.4	XP_033590591.1
+GCA_022578715.1	Nemania sp. FL0916	ACS	ambiguous	22.0	0.4	KAI1177205.1
+GCF_030869305.1	Colletotrichum tamarilloi	ACS	ambiguous	21.6	21.6	XP_060388160.1
+GCF_030869305.1	Colletotrichum tamarilloi	CUS	ambiguous	20.4	20.4	XP_060380095.1
+GCA_035927085.1	Lithohypha guttulata	ACS	ambiguous	19.0	19.0	KAK5102268.1
+GCA_003019875.1	Amorphotheca resinae ATCC 22711	ORF358	orf358	157.3	157.3	PSS15205.1
+GCA_013396185.1	Fusarium circinatum	ACS	ambiguous	22.0	22.0	KAF5658615.1
+GCA_026023875.1	Bathelium mastoideum	ACS	kerr14	36.0	36.0	KAI9656306.1
+GCA_026023875.1	Bathelium mastoideum	ACS	ambiguous	23.8	2.1	KAI9664500.1
+GCA_000513335.1	Penicillium camemberti FM 013	CUS	ambiguous	22.7	22.7	CRL23048.1
+GCA_000513335.1	Penicillium camemberti FM 013	CUS	ambiguous	17.9	17.9	CRL19419.1
+GCA_053540765.1	Beauveria bassiana	ACS	ambiguous	25.6	25.6	KAM3529874.1
+GCA_053540765.1	Beauveria bassiana	CUS	cus	137.2	137.2	KAM3530727.1
+GCF_026319165.1	Colletotrichum fioriniae	ACS	ambiguous	17.7	17.7	XP_053043567.1
+GCA_011066905.1	Orbilia oligospora	ACS	ambiguous	18.1	18.1	KAF3197521.1
+GCF_023168085.1	Purpureocillium lilacinum	ACS	ambiguous	18.6	18.6	XP_065458004.1
+GCA_000171015.2	Trichoderma atroviride IMI 206040	ACS	ambiguous	17.7	17.7	EHK45185.1
+GCA_020647865.1	Trichoderma asperellum	ACS	ambiguous	18.6	18.6	UKZ92136.1
+GCA_023758145.1	Alternaria sp. BMP 2799	ACS	ambiguous	17.3	17.3	KAI4704349.1
+GCA_001563135.1	Colletotrichum simmondsii	ACS	ambiguous	22.4	22.4	KXH32213.1
+GCA_001563135.1	Colletotrichum simmondsii	CUS	ambiguous	19.5	19.5	KXH34544.1
+GCF_028009165.1	Akanthomyces muscarius	ACS	ambiguous	22.7	22.7	XP_056055744.1
+GCF_028009165.1	Akanthomyces muscarius	CUS	mis	249.5	249.5	XP_056053678.1
+GCF_028009165.1	Akanthomyces muscarius	CUS	mis	249.6	249.6	XP_056053679.1
+GCA_003942205.1	Apiotrichum porosum	ACS	kerr14	31.3	31.3	RSH79597.1
+GCF_028828765.1	Penicillium canescens	ACS	ambiguous	23.9	23.9	XP_058367127.1
+GCF_028828765.1	Penicillium canescens	CUS	cus	107.0	107.0	XP_058365697.1
+GCF_028828765.1	Penicillium canescens	CUS	ambiguous	20.0	20.0	XP_058372935.1
+GCA_023137805.1	Aspergillus niger	CUS	cus	109.6	109.6	KAI3021865.1
+GCA_014898415.1	Stromatinia cepivora	ACS	kerr14	40.8	40.8	KAF7860392.1
+GCA_003184645.1	Aspergillus ellipticus CBS 707.79	CUS	cus	104.3	104.3	PYH93095.1
+GCA_028827405.1	Penicillium crustosum	ACS	ambiguous	17.7	17.7	KAJ5411653.1
+GCA_028827405.1	Penicillium crustosum	CUS	ambiguous	21.2	21.2	KAJ5419330.1
+GCA_028827405.1	Penicillium crustosum	CUS	ambiguous	17.9	17.9	KAJ5419540.1
+GCA_038362815.1	Apiospora arundinis	ACS	ambiguous	20.3	20.3	KAK8015239.1
+GCA_014235925.2	Colletotrichum truncatum	CUS	ambiguous	19.9	19.9	KAL0931583.1
+GCA_026319165.1	Colletotrichum fioriniae	ACS	ambiguous	17.7	17.7	KAJ0295807.1
+GCA_023134355.1	Aspergillus niger	CUS	cus	109.6	109.6	KAI2869264.1
+GCA_902713545.1	Penicillium manginii	ACS	ambiguous	17.6	17.6	CAI7628893.1
+GCA_029282285.1	Mycena rebaudengoi	ACS	acs	209.1	209.1	KAJ7238703.1
+GCA_029282285.1	Mycena rebaudengoi	ACS	acs	205.8	205.8	KAJ7236809.1
+GCA_029282285.1	Mycena rebaudengoi	CUS	cus	474.5	474.5	KAJ7289093.1
+GCA_029282285.1	Mycena rebaudengoi	CUS	mis	30.8	30.8	KAJ7291653.1
+GCA_018360365.1	Claviceps citrina	ACS	ambiguous	18.6	0.5	KAG6035308.1
+GCA_052058685.1	Fusarium commune	ACS	ambiguous	19.9	19.9	KAL9570085.1
+GCF_003426965.1	Aspergillus tanneri	CUS	cus	122.7	122.7	XP_033426202.1
+GCF_003426965.1	Aspergillus tanneri	CUS	mis	283.6	283.6	XP_033424688.1
+GCA_018296245.1	Fusarium xylarioides	ACS	ambiguous	19.3	19.3	KAG5773491.1
+GCA_020647635.1	Trichoderma virens	ACS	ambiguous	18.3	18.3	UKZ46511.1
+GCA_019915245.1	Fusarium musae	ACS	ambiguous	20.1	20.1	KAG9503520.1
+GCA_911175325.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8266225.1
+GCA_023920165.1	Curvularia clavata	CUS	ambiguous	24.9	24.9	USP76210.1
+GCA_024704505.1	Pyricularia oryzae	ORF358	orf358	48.7	48.7	KAI6590859.1
+GCA_023134265.1	Aspergillus niger	CUS	cus	105.4	105.4	KAI2932247.1
+GCA_004917865.1	Wallemia ichthyophaga	SUS	ambiguous	18.8	18.8	TIB12256.1
+GCA_010724335.1	Aspergillus udagawae	CUS	cus	110.0	110.0	GFF87159.1
+GCA_004918235.1	Wallemia ichthyophaga	SUS	ambiguous	18.6	18.6	TIA71395.1
+GCF_000260195.1	Fusarium odoratissimum NRRL 54006	ACS	ambiguous	22.3	3.4	XP_031055345.1
+GCF_023758075.1	Alternaria novae-zelandiae	ACS	ambiguous	17.4	17.4	XP_049250130.1
+GCA_028826995.1	Penicillium cf. griseofulvum	ACS	acs	39.0	39.0	KAJ5433676.1
+GCA_000281105.1	Coniosporium apollinis CBS 100218	ACS	ambiguous	17.9	17.9	EON64607.1
+GCA_002022785.1	Trichoderma guizhouense	ACS	ambiguous	17.5	17.5	OPB37078.1
+GCA_003290285.1	Fusarium proliferatum	ACS	ambiguous	18.9	18.9	RBA19255.1
+GCA_003290285.1	Fusarium proliferatum	ACS	ambiguous	17.5	17.5	RBA13354.1
+GCA_047150385.1	Penicillium ochrochloron	ACS	acs	35.6	35.6	GLI72449.1
+GCA_027923985.1	Aspergillus niger	CUS	cus	112.4	112.4	GLA18842.1
+GCA_027923985.1	Aspergillus niger	CUS	cus	59.5	59.5	GLA14530.1
+GCA_000151295.1	Allomyces macrogynus ATCC 38327	ACS	ambiguous	22.8	3.2	KNE57953.1
+GCA_000151295.1	Allomyces macrogynus ATCC 38327	ACS	ambiguous	18.9	18.9	KNE59130.1
+GCA_011066345.1	Trichoderma lentiforme	ACS	ambiguous	17.5	17.5	KAF3077436.1
+GCA_020744155.1	Ilyonectria sp. MPI-CAGE-AT-0026	ACS	ambiguous	26.3	26.3	KAH6970770.1
+GCA_018296325.1	Fusarium xylarioides	ACS	ambiguous	19.0	19.0	KAG5789935.1
+GCA_001696595.2	Aspergillus hancockii	CUS	cus	77.5	77.5	KAF7596923.1
+GCA_001696595.2	Aspergillus hancockii	CUS	mis	94.6	94.6	KAF7597010.1
+GCA_004918065.1	Wallemia ichthyophaga	SUS	ambiguous	18.7	18.7	TIB62286.1
+GCF_002102565.1	Kockovaella imperatae	ACS	ambiguous	19.6	19.6	XP_021869042.1
+GCA_001023045.1	Fusarium fujikuroi	ACS	ambiguous	18.7	18.7	KLO95156.1
+GCA_023138005.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3094853.1
+GCA_964035615.1	Fusarium verticillioides	ACS	ambiguous	19.3	19.3	CAL1735456.1
+GCF_900079805.1	Fusarium fujikuroi IMI 58289	ACS	ambiguous	18.7	18.7	XP_023427096.1
+GCA_911175205.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8211387.1
+GCF_003184845.1	Aspergillus ibericus CBS 121593	CUS	ambiguous	22.5	22.5	XP_025573065.1
+GCA_000280675.1	Beauveria bassiana ARSEF 2860	ACS	ambiguous	21.5	21.5	EJP64911.1
+GCA_000280675.1	Beauveria bassiana ARSEF 2860	CUS	cus	137.9	137.9	EJP64480.1
+GCA_014154955.1	Fusarium oxysporum f. sp. conglutinans	ACS	ambiguous	17.8	17.8	KAF6516872.1
+GCA_004918885.1	Wallemia ichthyophaga	SUS	ambiguous	18.9	18.9	TIA90005.1
+GCA_009176365.1	Aspergillus alliaceus	CUS	cus	113.9	113.9	KAB8236923.1
+GCA_009176365.1	Aspergillus alliaceus	CUS	cus	86.8	86.8	KAB8236919.1
+GCA_009176365.1	Aspergillus alliaceus	CUS	cus	45.2	45.2	KAB8236829.1
+GCA_033807515.1	Linnemannia gamsii	ACS	ambiguous	19.9	19.9	KAK3830002.1
+GCA_056247695.1	Laccaria bicolor Cham3	ACS	kerr14	47.4	47.4	KAN1835258.1
+GCF_000835515.1	Exophiala oligosperma	CUS	ambiguous	19.0	19.0	XP_016265747.1
+GCF_028829455.1	Penicillium robsamsonii	ACS	ambiguous	17.4	17.4	XP_057086402.1
+GCA_023137895.1	Aspergillus niger	CUS	cus	105.1	105.1	KAI2987951.1
+GCA_057675065.1	Fusarium cf. solani	CUS	mis	134.3	134.3	KAN9130681.1
+GCA_057675065.1	Fusarium cf. solani	CUS	cusrel181	86.3	86.3	KAN9130680.1
+GCA_028827225.1	Penicillium hesseltinei	CUS	ambiguous	21.3	21.3	KAJ5420522.1
+GCA_010093935.1	Zasmidium cellare ATCC 36951	CUS	ambiguous	19.7	19.7	KAF2165857.1
+GCA_022225985.2	Paraconiothyrium brasiliense	ORF358	orf358	83.7	83.7	KAL1602451.1
+GCF_003184595.1	Aspergillus niger CBS 101883	CUS	cus	103.1	103.1	XP_025449050.1
+GCF_003184595.1	Aspergillus niger CBS 101883	CUS	cus	75.3	75.3	XP_025460449.1
+GCF_028828005.1	Penicillium manginii	ACS	ambiguous	17.6	17.6	XP_056959829.1
+GCA_027924005.1	Aspergillus niger	CUS	cus	111.9	111.9	GLA02511.1
+GCA_027924005.1	Aspergillus niger	CUS	cus	61.6	61.6	GLA02124.1
+GCA_047715635.1	Aspergillus spectabilis	ACS	ambiguous	27.5	27.5	KAL4863698.1
+GCA_035926935.1	Lithohypha guttulata	ACS	ambiguous	20.3	0.8	KAK5101670.1
+GCA_023134475.1	Aspergillus niger	CUS	cus	109.6	109.6	KAI2834349.1
+GCA_030867785.1	Colletotrichum acutatum	ACS	ambiguous	21.8	21.8	KAK1709405.1
+GCA_035040045.1	Zasmidium cellare	CUS	ambiguous	21.2	21.2	KAK4494523.1
+GCA_019924415.1	Aureobasidium melanogenum	CUS	ambiguous	19.0	19.0	KAG9964542.1
+GCA_001566295.1	Microdochium bolleyi	ACS	ambiguous	20.7	0.1	KXJ91005.1
+GCF_004355905.1	Pyricularia grisea	ORF358	orf358	74.9	74.9	XP_030978281.1
+GCA_023757985.1	Alternaria ethzedia	ACS	ambiguous	17.4	17.4	KAI4627065.1
+GCA_982437875.1	Talaromyces sp. ASM 115	ACS	ambiguous	17.3	17.3	CAR1098900.1
+GCA_982437875.1	Talaromyces sp. ASM 115	CUS	ambiguous	19.9	19.9	CAR1122090.1
+GCF_016861625.1	Aspergillus luchuensis	CUS	cus	109.6	109.6	XP_041546569.1
+GCA_023141195.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3215078.1
+GCA_015832175.1	Paraphaeosphaeria minitans	CUS	ambiguous	20.2	20.2	KAF9729143.1
+GCA_025135345.1	Pyricularia oryzae	ORF358	orf358	33.4	33.4	KAI7909146.1
+GCA_028828045.1	Penicillium odoratum	ACS	ambiguous	17.9	17.9	KAJ5746761.1
+GCA_028828045.1	Penicillium odoratum	CUS	ambiguous	19.1	19.1	KAJ5753177.1
+GCA_004918625.1	Wallemia ichthyophaga	SUS	ambiguous	18.7	18.7	TIB32854.1
+GCA_004168565.1	Alternaria tenuissima	ACS	kerr14	37.9	37.9	RYN92311.1
+GCA_911174875.1	Penicillium nalgiovense	ACS	ambiguous	27.3	27.3	CAG8285935.1
+GCA_049803905.1	Aspergillus tubingensis	CUS	cus	109.8	109.8	XRM44132.1
+GCA_025602915.1	Paraphysoderma sedebokerense	ACS	ambiguous	33.7	9.2	KAI9145907.1
+GCA_028828465.1	Penicillium psychrosexuale	CUS	ambiguous	24.8	24.8	KAJ5781536.1
+GCA_010723835.1	Aspergillus udagawae	CUS	cus	105.1	105.1	GFF59584.1
+GCA_028828565.1	Penicillium verhagenii	ACS	ambiguous	23.9	23.9	KAJ5915305.1
+GCA_028828565.1	Penicillium verhagenii	CUS	ambiguous	21.2	21.2	KAJ5937795.1
+GCA_964197705.1	Penicillium psychrofluorescens	ACS	ambiguous	20.5	20.5	CAL5872822.1
+GCA_023278565.1	Colletotrichum lupini	ACS	ambiguous	21.6	21.6	UQC85008.1
+GCA_011947395.2	Colletotrichum karsti	ACS	ambiguous	19.5	19.5	KAF9874076.1
+GCA_023758015.1	Alternaria viburni	ACS	ambiguous	17.3	17.3	KAI4659871.1
+GCA_964275055.1	Monosporozyma servazzii	CUS	cus	400.7	400.7	CAL9735043.1
+GCA_028827145.1	Penicillium concentricum	CUS	ambiguous	21.1	21.1	KAJ5383217.1
+GCF_041956635.1	Thermomyces lanuginosus	ACS	ambiguous	18.3	18.3	XP_069268897.1
+GCA_023141515.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3294314.1
+GCF_027942845.1	Colletotrichum fioriniae	ACS	ambiguous	20.0	20.0	XP_065614050.1
+GCA_027945265.1	Fusarium oxysporum	ACS	ambiguous	20.5	20.5	KAJ4045792.1
+GCA_011066875.1	Orbilia oligospora	ACS	ambiguous	18.1	18.1	KAF3162977.1
+GCA_027923805.1	Aspergillus niger	CUS	cus	112.9	112.9	GLA42716.1
+GCA_027923805.1	Aspergillus niger	CUS	cus	58.5	58.5	GLA33810.1
+GCA_057706605.1	Penicillium discolor	CUS	ambiguous	19.7	19.7	KAN9832866.1
+GCA_057706605.1	Penicillium discolor	CUS	ambiguous	18.4	18.4	KAN9832735.1
+GCA_000769745.1	Penicillium expansum	CUS	ambiguous	20.4	20.4	KGO60813.1
+GCA_000769745.1	Penicillium expansum	CUS	ambiguous	17.8	17.8	KGO54841.1
+GCA_015852375.1	Podila clonocystis	CUS	mis	258.3	258.3	KAG0017123.1
+GCA_019924825.1	Aureobasidium melanogenum	CUS	ambiguous	19.3	19.3	KAH0212498.1
+GCA_963921865.1	Sporothrix eucalyptigena	CUS	ambiguous	18.8	18.8	CAK7214642.1
+GCA_023141205.1	Penicillium roqueforti	CUS	ambiguous	24.8	24.8	KAI3189985.1
+GCA_003615095.1	Fusarium oxysporum f. sp. cepae	ACS	ambiguous	21.2	21.2	RKK36141.1
+GCA_979029665.1	Linnemannia elongata	ACS	ambiguous	19.7	19.7	CAP1617165.1
+GCF_028829465.1	Penicillium soppii	CUS	cus	107.9	107.9	XP_057092123.1
+GCA_003615185.1	Fusarium oxysporum	ACS	ambiguous	18.7	18.7	RKL13623.1
+GCA_001691785.3	Amanita brunnescens Koide BX004	CUS	cus	370.2	370.2	KAF8736273.1
+GCA_003056605.2	Lecanicillium sp. MT-2017a	ACS	ambiguous	19.5	19.5	KAK3185777.1
+GCF_000171015.1	Trichoderma atroviride IMI 206040	ACS	ambiguous	17.7	17.7	XP_013943379.1
+GCA_047715775.1	Aspergillus undulatus	ACS	ambiguous	19.8	19.8	KAL4932547.1
+GCA_033220655.1	Pseudopithomyces chartarum	ORF358	orf358	116.7	116.7	KAK3202946.1
+GCA_033220655.1	Pseudopithomyces chartarum	ORF358	orf358	66.0	66.0	KAK3214072.1
+GCA_041956735.1	Aureobasidium pullulans	CUS	ambiguous	17.9	17.9	KAL2031081.1
+GCF_003184865.1	Aspergillus homomorphus CBS 101889	CUS	cus	124.2	124.2	XP_025552697.1
+GCF_003184865.1	Aspergillus homomorphus CBS 101889	CUS	mis	284.1	284.1	XP_025554968.1
+GCF_003184865.1	Aspergillus homomorphus CBS 101889	CUS	cus	77.5	77.5	XP_025551765.1
+GCA_030052745.1	Pleurostoma richardsiae	CUS	mis	248.1	248.1	KAJ9148966.1
+GCF_036426115.1	Kwoniella botswanensis	ACS	ambiguous	22.0	3.6	XP_064749179.1
+GCA_023134235.1	Aspergillus niger	CUS	cus	109.6	109.6	KAI2915190.1
+GCF_028828465.1	Penicillium psychrosexuale	CUS	ambiguous	24.8	24.8	XP_057037081.1
+GCA_028828735.1	Penicillium canescens	ACS	ambiguous	23.9	23.9	KAJ6038615.1
+GCA_028828735.1	Penicillium canescens	CUS	cus	107.0	107.0	KAJ6023124.1
+GCA_028828735.1	Penicillium canescens	CUS	ambiguous	20.0	20.0	KAJ6052369.1
+GCA_036971715.1	Arthrobotrys musiformis	ACS	ambiguous	17.6	17.6	KAK6507305.1
+GCA_035928015.1	Saxophila tyrrhenica	ACS	ambiguous	17.7	17.7	KAK5170167.1
+GCA_015484485.1	Agrocybe pediades	CUS	ambiguous	18.7	18.7	KAF9564302.1
+GCF_000002855.4	Aspergillus niger	CUS	cus	109.6	109.6	XP_001395763.1
+GCF_000002855.4	Aspergillus niger	CUS	cus	75.3	75.3	XP_059600824.1
+GCA_027946455.1	Neocucurbitaria cava	CUS	mis	198.4	198.4	KAJ4366916.1
+GCF_028827245.1	Penicillium angulare	CUS	ambiguous	21.2	21.2	XP_056774617.1
+GCA_000507885.2	Kwoniella mangroviensis CBS 10435	ACS	ambiguous	24.1	24.1	OCF58864.1
+GCA_901677955.1	Fusarium fujikuroi	ACS	ambiguous	18.7	18.7	VTT55124.1
+GCA_059927845.1	Laccaria bicolor DR170	ACS	acs	74.2	74.2	MIH5163328.1
+GCA_018360855.1	Claviceps purpurea	CUS	ambiguous	21.1	21.1	KAG6272491.1
+GCF_024043165.1	Alternaria incomplexa	ACS	ambiguous	17.2	17.2	XP_051286489.1
+GCA_017309895.1	Fusarium proliferatum	ACS	ambiguous	18.7	18.7	KAG4290025.1
+GCA_017309895.1	Fusarium proliferatum	ACS	ambiguous	17.5	17.5	KAG4287978.1
+GCA_027924085.1	Aspergillus brasiliensis	CUS	cus	105.1	105.1	GKZ26490.1
+GCA_038050555.1	Fusarium oxysporum f. sp. vasinfectum	ACS	ambiguous	20.5	20.5	KAK7587987.1
+GCA_001773325.1	Penicillium arizonense	CUS	cus	76.0	76.0	OGE56182.1
+GCA_001773325.1	Penicillium arizonense	CUS	ambiguous	20.0	20.0	OGE49388.1
+GCA_027946535.1	Didymella pomorum	ACS	ambiguous	20.0	20.0	KAJ4403372.1
+GCA_051938815.1	Gaeumannomyces hyphopodioides	ORF358	orf358	101.8	101.8	KAL8380315.1
+GCA_051938815.1	Gaeumannomyces hyphopodioides	ORF358	orf358	98.7	98.7	KAL8380316.1
+GCA_051938815.1	Gaeumannomyces hyphopodioides	ORF358	orf358	65.4	65.4	KAL8380317.1
+GCA_051938815.1	Gaeumannomyces hyphopodioides	ORF358	orf358	64.3	64.3	KAL8380318.1
+GCA_051938815.1	Gaeumannomyces hyphopodioides	SUS	ambiguous	29.9	11.9	KAL8367914.1
+GCF_000403515.1	Pseudozyma hubeiensis SY62	ACS	ambiguous	18.8	1.7	XP_012187930.1
+GCA_000836115.1	Exophiala spinifera	CUS	ambiguous	17.7	17.7	KIW16285.1
+GCF_000804445.1	Metarhizium album ARSEF 1941	CUS	mis	310.2	310.2	XP_040678521.1
+GCF_000409485.1	Glarea lozoyensis ATCC 20868	ORF358	orf358	160.3	160.3	XP_008087608.1
+GCA_054661595.1	Aspergillus terreus	CUS	cus	119.7	119.7	GAB1215492.1
+GCA_021399475.1	Hyaloscypha finlandica	ACS	kerr14	36.9	36.9	KAH8743421.1
+GCA_024703655.1	Pyricularia oryzae	ORF358	orf358	32.5	32.5	KAI6287345.1
+GCA_023141395.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3296343.1
+GCA_027595885.1	Globomyces sp. JEL0801	ACS	ambiguous	27.9	27.9	KAJ2995891.1
+GCF_028828085.1	Penicillium nucicola	CUS	cus	100.4	100.4	XP_056979240.1
+GCA_025024155.1	Gamsiella multidivaricata	ACS	ambiguous	20.3	20.3	KAI7823516.1
+GCF_020647865.1	Trichoderma asperellum	ACS	ambiguous	18.6	18.6	XP_024758755.1
+GCA_024043145.1	Alternaria conjuncta	ACS	ambiguous	17.3	17.3	KAI4934610.1
+GCF_028827525.1	Penicillium daleae	CUS	ambiguous	21.3	21.3	XP_056769220.1
+GCA_028828285.1	Penicillium majusculum	ACS	acs	48.3	48.3	KAJ5696704.1
+GCA_028828285.1	Penicillium majusculum	CUS	ambiguous	19.9	19.9	KAJ5687873.1
+GCA_030867325.1	Colletotrichum sublineola	ORF358	orf358	73.0	73.0	KAK1957256.1
+GCA_048937285.1	Paraphaeosphaeria minitans	CUS	ambiguous	20.2	20.2	KAL5446221.1
+GCA_012931995.1	Fusarium albosuccineum	CUS	mis	227.1	227.1	KAF4468282.1
+GCA_032878545.1	Fusarium oxysporum f. sp. vasinfectum	ACS	ambiguous	20.5	20.5	KAK2676812.1
+GCA_032878545.1	Fusarium oxysporum f. sp. vasinfectum	ACS	ambiguous	17.8	17.8	KAK2681318.1
+GCA_902712905.1	Penicillium crustosum	ACS	ambiguous	17.7	17.7	CAI7607226.1
+GCA_902712905.1	Penicillium crustosum	CUS	ambiguous	21.0	21.0	CAI7567375.1
+GCA_902712905.1	Penicillium crustosum	CUS	ambiguous	17.9	17.9	CAI7641074.1
+GCF_002072235.1	Penicillium solitum	ACS	acs	48.3	48.3	XP_040817326.1
+GCF_002072235.1	Penicillium solitum	CUS	ambiguous	19.7	19.7	XP_040816047.1
+GCF_002072235.1	Penicillium solitum	CUS	ambiguous	18.1	18.1	XP_040811766.1
+GCA_042370755.1	Thermothelomyces heterothallicus CBS 203.75	ACS	ambiguous	29.0	29.0	KAL2186584.1
+GCF_018340605.1	Aspergillus pseudoviridinutans	CUS	mis	295.0	295.0	XP_043161124.1
+GCA_007994515.1	Fusarium oxysporum f. sp. cubense	ACS	ambiguous	22.3	3.4	TXC11644.1
+GCA_006536005.1	Powellomyces hirtus	ACS	ambiguous	16.7	16.7	TPX58192.1
+GCA_001908125.1	Penicillium subrubescens	ACS	acs	37.6	37.6	OKP03799.1
+GCA_053540785.1	Beauveria bassiana	ACS	ambiguous	21.6	21.6	KAM3535747.1
+GCA_053540785.1	Beauveria bassiana	CUS	cus	134.5	134.5	KAM3535374.1
+GCA_027923685.1	Aspergillus tubingensis	CUS	cus	112.0	112.0	GLB07625.1
+GCF_015533775.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	XP_038930244.1
+GCA_001747045.1	Hanseniaspora osmophila	ACS	ambiguous	21.6	2.8	OEJ85125.1
+GCA_004918455.1	Wallemia ichthyophaga	SUS	ambiguous	18.6	18.6	TIB11286.1
+GCA_000750675.1	Pseudogymnoascus sp. VKM F-3808	CUS	cus	115.4	115.4	KFX95065.1
+GCA_003184685.1	Aspergillus indologenus CBS 114.80	CUS	mis	257.6	257.6	PYI25847.1
+GCA_028828495.1	Penicillium riverlandense	ACS	ambiguous	22.1	22.1	KAJ5807938.1
+GCA_018296285.1	Fusarium xylarioides	ACS	ambiguous	19.3	19.3	KAG5759755.1
+GCA_036426115.1	Kwoniella botswanensis	ACS	ambiguous	22.0	3.6	WVQ69201.1
+GCA_019632275.1	Tulasnella sp. 330	ACS	ambiguous	22.1	2.7	KAG8865148.1
+GCA_001890125.1	Aspergillus versicolor CBS 583.65	CUS	cus	134.6	134.6	OJJ00836.1
+GCA_001889945.1	Aspergillus brasiliensis CBS 101740	CUS	cus	89.7	89.7	OJJ70095.1
+GCF_001078395.1	Aspergillus udagawae	CUS	cus	106.2	106.2	XP_043145291.1
+GCF_028827155.1	Penicillium citrinum	ACS	ambiguous	25.0	25.0	XP_056504993.1
+GCF_028827155.1	Penicillium citrinum	CUS	cus	118.3	118.3	XP_056495672.1
+GCA_052570145.1	Trichoderma viride	ACS	ambiguous	17.9	17.9	KAM0255148.1
+GCA_049000195.1	Fusarium oxysporum f. sp. vasinfectum	ACS	ambiguous	17.8	17.8	KAL5585019.1
+GCA_041956635.1	Thermomyces lanuginosus	ACS	ambiguous	18.3	18.3	KAL1993670.1
+GCA_057675985.1	Fusarium kuroshium	CUS	cusrel181	77.9	77.9	KAN9574933.1
+GCA_948474695.1	Periconia digitata	ORF358	orf358	75.5	75.5	CAI6334339.1
+GCA_948474695.1	Periconia digitata	ORF358	orf358	68.6	68.6	CAI6334220.1
+GCA_948474695.1	Periconia digitata	ORF358	orf358	64.8	64.8	CAI6339693.1
+GCA_948474695.1	Periconia digitata	ORF358	orf358	58.0	58.0	CAI6338353.1
+GCA_018360925.1	Claviceps purpurea	CUS	ambiguous	20.1	20.1	KAG6302086.1
+GCA_022225945.2	Didymella pomorum	ACS	gdpd_meso	34.1	34.1	KAL1644044.1
+GCA_012656335.1	Aspergillus lentulus	CUS	mis	314.3	314.3	KAF4203536.1
+GCA_002591415.1	Ophiocordyceps australis	ACS	ambiguous	23.1	23.1	PHH65564.1
+GCA_002591415.1	Ophiocordyceps australis	CUS	cus	118.5	118.5	PHH66791.1
+GCA_046255075.1	Leptodophora sp. 'Broadleaf-Isolate-01'	CUS	ambiguous	20.1	20.1	KAL5325762.1
+GCA_051942205.1	Coniocarpon cinnabarinum	ACS	kerr14	42.4	42.4	KAL9086581.1
+GCA_910592325.1	Scutellospora calospora	ACS	ambiguous	18.4	0.7	CAG8521368.1
+GCF_028826855.1	Penicillium coprophilum	CUS	ambiguous	17.7	17.7	XP_056530045.1
+GCF_000150735.1	Paracoccidioides brasiliensis Pb18	ORF358	ambiguous	17.3	17.3	XP_010758457.1
+GCA_028827675.1	Penicillium lagena	ACS	ambiguous	21.6	21.6	KAJ5601206.1
+GCF_028827665.1	Penicillium hispanicum	ACS	ambiguous	18.9	18.9	XP_056796465.1
+GCF_028827665.1	Penicillium hispanicum	CUS	ambiguous	18.1	18.1	XP_056801023.1
+GCA_000260075.2	Fusarium oxysporum f. sp. pisi HDV247	ACS	ambiguous	20.5	20.5	EXA31709.1
+GCA_030913505.1	Colletotrichum phormii	ACS	ambiguous	19.8	19.8	KAK1654504.1
+GCA_004918315.1	Wallemia ichthyophaga	SUS	ambiguous	18.7	18.7	TIA80934.1
+GCA_015849325.1	Mortierella antarctica	ACS	ambiguous	18.7	18.7	KAF9983419.1
+GCA_000226395.1	Penicillium rubens Wisconsin 54-1255	CUS	cus	109.5	109.5	CAP79846.1
+GCA_032206225.1	Fusarium oxysporum f. sp. albedinis	ACS	ambiguous	20.0	20.0	KAK2484373.1
+GCA_002072405.1	Penicillium coprophilum	CUS	ambiguous	18.0	18.0	OQE37912.1
+GCA_011066985.1	Orbilia oligospora	ACS	ambiguous	18.1	18.1	KAF3260417.1
+GCA_033296705.1	Chaetomidium leptoderma	ACS	ambiguous	29.9	29.9	KAK4150798.1
+GCA_030708095.1	Trichoderma sp. CBMAI-0020	ACS	ambiguous	17.7	17.7	KAK1246813.1
+GCA_015500005.1	Entomortierella lignicola	ACS	ambiguous	17.7	17.7	KAF8979742.1
+GCF_030867785.1	Colletotrichum acutatum	ACS	ambiguous	21.8	21.8	XP_060358539.1
+GCA_009193605.1	Aspergillus alliaceus	CUS	cus	114.7	114.7	KAE8395211.1
+GCA_009193605.1	Aspergillus alliaceus	CUS	cus	71.2	71.2	KAE8395214.1
+GCA_009193605.1	Aspergillus alliaceus	CUS	cus	46.2	46.2	KAE8395300.1
+GCA_003184845.1	Aspergillus ibericus CBS 121593	CUS	ambiguous	22.5	22.5	RAK98737.1
+GCA_057706615.1	Penicillium discolor	CUS	ambiguous	19.9	19.9	KAN9882856.1
+GCA_057706615.1	Penicillium discolor	CUS	ambiguous	18.4	18.4	KAN9882988.1
+GCA_911175015.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8040327.1
+GCA_053539405.1	Beauveria namnaoensis	ACS	ambiguous	25.7	25.7	KAM3485443.1
+GCA_053539405.1	Beauveria namnaoensis	CUS	cus	136.4	136.4	KAM3496613.1
+GCA_004918755.1	Wallemia ichthyophaga	SUS	ambiguous	16.4	16.4	TIB37832.1
+GCA_001890685.1	Aspergillus luchuensis CBS 106.47	CUS	cus	109.6	109.6	OJZ85220.1
+GCA_013423425.1	Trichoderma asperellum	ACS	ambiguous	21.0	21.0	GFP56276.1
+GCA_010724135.1	Aspergillus udagawae	CUS	cus	110.0	110.0	GFG13198.1
+GCF_045866475.1	Madurella fahalii	ACS	kerr14	48.4	48.4	XP_070921336.1
+GCA_053754965.1	Fusarium oxysporum f. sp. cubense	ACS	ambiguous	22.3	3.4	KAO1812217.1
+GCA_019924815.1	Aureobasidium melanogenum	CUS	ambiguous	19.3	19.3	KAH0240387.1
+GCA_018360205.1	Claviceps digitariae	ACS	ambiguous	24.3	24.3	KAG5980461.1
+GCF_028829765.1	Penicillium waksmanii	ACS	acs	34.6	34.6	XP_057115979.1
+GCF_028829765.1	Penicillium waksmanii	CUS	cus	40.4	40.4	XP_057124654.1
+GCA_001023065.1	Fusarium fujikuroi	ACS	ambiguous	18.7	18.7	KLP21628.1
+GCA_028826845.1	Penicillium canariense	CUS	ambiguous	21.5	21.5	KAJ5150909.1
+GCA_024704055.1	Pyricularia oryzae	ORF358	orf358	99.2	99.2	KAI6342540.1
+GCA_028826785.1	Penicillium atrosanguineum	ACS	ambiguous	17.4	17.4	KAJ5121737.1
+GCA_028826785.1	Penicillium atrosanguineum	CUS	ambiguous	17.6	17.6	KAJ5118188.1
+GCA_982436685.1	Wallemia ichthyophaga	SUS	ambiguous	18.7	18.7	CAR4676926.1
+GCA_023134385.1	Aspergillus niger	CUS	cus	109.6	109.6	KAI2868546.1
+GCA_012656395.1	Aspergillus lentulus	CUS	mis	314.3	314.3	KAF4173131.1
+GCA_000769755.1	Penicillium expansum	CUS	ambiguous	20.4	20.4	KGO72581.1
+GCA_000769755.1	Penicillium expansum	CUS	ambiguous	17.8	17.8	KGO36625.1
+GCA_000507485.4	Kwoniella mangroviensis CBS 8886	ACS	ambiguous	23.6	3.6	KAN5160670.1
+GCA_000002855.2	Aspergillus niger	CUS	cus	109.6	109.6	CAK46338.1
+GCA_000002855.2	Aspergillus niger	CUS	cus	75.3	75.3	CAK39240.1
+GCF_900067095.1	Fusarium proliferatum ET1	ACS	ambiguous	18.4	18.4	XP_031076523.1
+GCA_028502605.1	Trichoderma breve	ACS	ambiguous	17.3	17.3	KAJ4864153.1
+GCA_058411215.1	Laccaria bicolor	ACS	kerr14	41.1	41.1	KAO1178343.1
+GCA_020744355.1	Fusarium oxysporum	ACS	ambiguous	21.9	2.2	KAH7207355.1
+GCA_023091085.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI2701092.1
+GCA_003947015.1	Fusarium sp. AF-6	CUS	mis	236.3	236.3	RSL50743.1
+GCA_004156015.1	Alternaria tenuissima	ACS	kerr14	38.9	38.9	RYN15606.1
+GCA_004156015.1	Alternaria tenuissima	ACS	kerr14	37.9	37.9	RYN15605.1
+GCA_000829775.1	Talaromyces pinophilus	ACS	ambiguous	21.5	21.5	GAM41698.1
+GCF_035658355.1	Kwoniella shivajii	ACS	ambiguous	26.3	26.3	XP_062789555.1
+GCA_018360185.1	Claviceps lovelessii	ACS	ambiguous	24.0	6.0	KAG5984948.1
+GCA_027923865.1	Aspergillus niger	CUS	cus	108.4	108.4	GKZ97415.1
+GCA_000146945.2	Sclerotinia sclerotiorum 1980 UF-70	SUS	ambiguous	22.2	22.2	EDN92128.1
+GCA_000146945.2	Sclerotinia sclerotiorum 1980 UF-70	SUS	ambiguous	18.7	18.7	EDO03008.1
+GCA_000146945.2	Sclerotinia sclerotiorum 1980 UF-70	SUS	ambiguous	18.5	18.5	EDN99566.1
+GCF_035928015.1	Saxophila tyrrhenica	ACS	ambiguous	17.7	17.7	XP_064659365.1
+GCA_010724255.1	Aspergillus udagawae	CUS	cus	110.0	110.0	GFF44016.1
+GCA_004917895.1	Wallemia ichthyophaga	SUS	ambiguous	18.6	18.6	TIB23417.1
+GCA_054392445.1	Rhypophila decipiens	CUS	mis	30.1	30.1	KAM7210534.1
+GCA_054392445.1	Rhypophila decipiens	ORF358	orf358	273.9	273.9	KAM7216475.1
+GCA_049996435.1	Nucleospora cyclopteri	SUS	ambiguous	17.6	17.6	KAL6122317.1
+GCA_027945275.1	Fusarium oxysporum	ACS	ambiguous	17.5	17.5	KAJ4052639.1
+GCA_000507425.3	Kwoniella heveanensis CBS 569	ACS	ambiguous	24.4	6.2	OCF41676.1
+GCA_028827235.1	Penicillium cf. griseofulvum	ACS	acs	38.8	38.8	KAJ5423103.1
+GCA_052570025.1	Trichoderma viride	ACS	ambiguous	18.0	18.0	KAM0483583.1
+GCF_000512565.2	Kwoniella dejecticola CBS 10117	ACS	ambiguous	24.5	6.0	XP_065824501.1
+GCA_020744185.1	Linnemannia elongata	ACS	ambiguous	19.7	19.7	KAH7056489.1
+GCA_022627115.1	Fusarium annulatum	ACS	ambiguous	18.5	18.5	KAI1062738.1
+GCA_000149615.1	Aspergillus terreus NIH2624	CUS	cus	105.4	105.4	EAU34028.1
+GCA_000149615.1	Aspergillus terreus NIH2624	CUS	cus	61.4	61.4	EAU33963.1
+GCA_028827395.1	Penicillium hordei	ACS	ambiguous	17.7	17.7	KAJ5617179.1
+GCA_028827395.1	Penicillium hordei	CUS	ambiguous	19.1	19.1	KAJ5589013.1
+GCA_058411225.1	Laccaria bicolor	ACS	acs	151.1	151.1	KAO1238579.1
+GCA_003369665.1	Coleophoma cylindrospora	CUS	mis	223.5	223.5	RDW66589.1
+GCA_014235945.1	Colletotrichum plurivorum	ACS	ambiguous	29.3	29.3	KAF6826976.1
+GCA_057674645.1	Fusarium duplospermum	CUS	mis	221.7	221.7	KAN9016588.1
+GCA_015501585.1	Rhodocollybia butyracea	ACS	acs	83.6	83.6	KAF9064818.1
+GCA_027604685.1	Lobulomyces angularis	ACS	ambiguous	23.5	0.2	KAJ3393612.1
+GCA_027604685.1	Lobulomyces angularis	ACS	ambiguous	20.9	2.0	KAJ3396028.1
+GCA_027604685.1	Lobulomyces angularis	CUS	ambiguous	19.3	19.3	KAJ3387350.1
+GCA_052569925.1	Verticillium albo-atrum	ACS	ambiguous	19.8	2.1	KAM0333427.1
+GCA_023091265.1	Aspergillus niger	CUS	cus	109.6	109.6	KAI2824183.1
+GCA_001515345.1	Aspergillus niger	CUS	cus	107.4	107.4	GAQ45751.1
+GCA_013368555.1	Collybiopsis confluens	ACS	acs	88.2	88.2	KAF5374590.1
+GCA_052576285.1	Beauveria bassiana	ACS	ambiguous	23.5	23.5	KAM0668367.1
+GCA_052576285.1	Beauveria bassiana	CUS	cus	136.6	136.6	KAM0671078.1
+GCA_022813615.2	Knufia fluminis	ACS	ambiguous	19.6	1.7	KAK5950342.1
+GCA_015852395.1	Linnemannia elongata	ACS	ambiguous	19.7	19.7	KAG0070152.1
+GCA_002105155.1	Lobosporangium transversale	ACS	ambiguous	18.4	18.4	ORZ11393.1
+GCA_023509805.1	Fusarium oxysporum f. sp. albedinis	ACS	ambiguous	20.3	20.3	KAI3581796.1
+GCA_029168975.1	Purpureocillium lavendulum	ACS	ambiguous	17.9	0.0	KAJ6440524.1
+GCA_001702695.2	Fusarium oxysporum f. sp. radicis-cucumerinum	ACS	ambiguous	21.2	21.2	PCD43004.1
+GCA_001702695.2	Fusarium oxysporum f. sp. radicis-cucumerinum	ACS	ambiguous	17.8	17.8	PCD35454.1
+GCA_035926155.1	Elasticomyces elasticus	CUS	ambiguous	23.8	23.8	KAK4914211.1
+GCA_035926155.1	Elasticomyces elasticus	CUS	ambiguous	22.8	22.8	KAK4920446.1
+GCA_024704225.1	Pyricularia oryzae	ORF358	orf358	86.9	86.9	KAI6407780.1
+GCA_006981975.1	Cordyceps javanica	ACS	ambiguous	26.2	26.2	TQW01693.1
+GCA_006981975.1	Cordyceps javanica	CUS	cus	133.4	133.4	TQW04025.1
+GCA_006981975.1	Cordyceps javanica	CUS	cusrel181	171.7	171.7	TQW04574.1
+GCA_010093485.1	Karstenula rhodostoma CBS 690.94	ORF358	orf358	90.1	90.1	KAF2447238.1
+GCA_010093485.1	Karstenula rhodostoma CBS 690.94	ORF358	orf358	58.3	58.3	KAF2446076.1
+GCA_010093485.1	Karstenula rhodostoma CBS 690.94	ORF358	orf358	52.7	52.7	KAF2445322.1
+GCA_010093485.1	Karstenula rhodostoma CBS 690.94	ORF358	orf358	48.3	48.3	KAF2451746.1
+GCA_027596195.1	Podochytrium sp. JEL0797	ACS	ambiguous	18.8	18.8	KAJ3065405.1
+GCF_028826775.1	Penicillium argentinense	CUS	ambiguous	24.2	24.2	XP_056472779.1
+GCA_057674905.1	Fusarium akasia	CUS	mis	238.6	238.6	KAN9345097.1
+GCA_902006505.2	Clonostachys byssicola	CUS	mis	245.4	245.4	CAG9983726.1
+GCA_050947405.1	Trichoderma evansii	ACS	ambiguous	21.6	21.6	KAL6906891.1
+GCA_023141305.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI3236629.1
+GCA_902827195.2	Clonostachys rosea f. rosea IK726	CUS	mis	237.5	237.5	CAG9957127.1
+GCA_015178995.1	Trichophaea hybrida	CUS	ambiguous	25.0	25.0	KAF8538086.1
+GCA_036810365.1	Kwoniella sp. B9012	ACS	ambiguous	20.4	1.3	WWD00525.1
+GCA_027596065.1	Siphonaria sp. JEL0065	ACS	ambiguous	19.3	19.3	KAJ3002287.1
+GCF_041956625.1	Thermomyces dupontii	ACS	ambiguous	19.3	1.5	XP_069259806.1
+GCA_013364935.1	Fusarium anthophilum	ACS	ambiguous	21.2	21.2	KAF5252034.1
+GCA_007735645.1	Venturia effusa	ACS	ambiguous	18.6	18.6	QDS75874.1
+GCF_001890705.1	Aspergillus sydowii CBS 593.65	CUS	cus	138.2	138.2	XP_040705305.1
+GCA_018360745.1	Claviceps purpurea	CUS	ambiguous	24.2	24.2	KAG6169088.1
+GCA_003814445.1	Epichloe festucae Fl1	ACS	ambiguous	20.2	0.1	QPG96587.1
+GCF_025602895.1	Polychytrium aggregatum	ACS	ambiguous	20.2	20.2	XP_052965401.1
+GCA_907164625.1	Penicillium terrarumae	ACS	acs	47.4	47.4	CAI7672785.1
+GCA_001713695.1	Paracoccidioides brasiliensis	ORF358	ambiguous	17.3	17.3	ODH52503.1
+GCA_003344505.1	Aspergillus phoenicis ATCC 13157	CUS	cus	102.9	102.9	RDK45639.1
+GCA_023137925.1	Aspergillus niger	CUS	cus	105.4	105.4	KAI2939895.1
+GCA_911639135.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8946547.1
+GCA_028826855.1	Penicillium coprophilum	CUS	ambiguous	17.7	17.7	KAJ5158878.1
+GCA_019924025.1	Aureobasidium melanogenum	CUS	ambiguous	19.0	19.0	KAG9570393.1
+GCA_027946415.1	Didymella glomerata	ORF358	orf358	100.0	100.0	KAJ4329645.1
+GCA_009769445.1	Venturia inaequalis	ACS	ambiguous	19.3	19.3	KAE9977230.1
+GCA_010015805.1	Rhizodiscina lignyota	ACS	ambiguous	29.6	29.6	KAF2103266.1
+GCA_010015805.1	Rhizodiscina lignyota	CUS	cus	131.6	131.6	KAF2093315.1
+GCA_025688805.1	Aspergillus egyptiacus	ACS	ambiguous	18.9	1.2	KAI9369823.1
+GCA_051622495.1	Fusarium oxysporum f. sp. mori	ACS	ambiguous	19.8	19.8	KAN5866943.1
+GCF_000143565.1	Laccaria bicolor S238N-H82	ACS	kerr14	41.1	41.1	XP_001880803.1
+GCF_002847485.1	Aspergillus campestris IBT 28561	CUS	mis	300.1	300.1	XP_024693597.1
+GCA_033297405.1	Parathielavia appendiculata	CUS	cusrel181	38.6	38.6	KAK4120336.1
+GCA_028829765.1	Penicillium waksmanii	ACS	acs	34.6	34.6	KAJ5965858.1
+GCA_028829765.1	Penicillium waksmanii	CUS	cus	40.4	40.4	KAJ5988564.1
+GCA_029606385.1	Metschnikowia pulcherrima	ACS	ambiguous	20.2	20.2	KAJ8140130.1
+GCF_001636725.1	Cordyceps fumosorosea ARSEF 2679	ACS	ambiguous	18.4	18.4	XP_018702186.1
+GCF_001636725.1	Cordyceps fumosorosea ARSEF 2679	CUS	mis	305.1	305.1	XP_018704731.1
+GCA_024043155.1	Alternaria arbusti	ACS	ambiguous	17.3	17.3	KAI4962247.1
+GCA_060417865.1	Polyphilus sieberi	CUS	ambiguous	21.2	21.2	MIK9467946.1
+GCA_022160315.1	Panus rudis PR-1116 ss-1	CUS	ambiguous	19.1	19.1	KAI0080635.1
+GCA_004918335.1	Wallemia ichthyophaga	SUS	ambiguous	18.8	18.8	TIB05546.1
+GCA_020744415.1	Dendryphion nanum	ORF358	orf358	76.9	76.9	KAH7138191.1
+GCA_033119285.1	Teratosphaeriaceae sp. CCFEE 6253	CUS	ambiguous	18.6	18.6	KAK3067582.1
+GCF_038363985.1	Apiospora kogelbergensis	ACS	kerr14	36.3	36.3	XP_066724113.1
+GCA_027602005.1	Geranomyces michiganensis	ACS	ambiguous	20.6	20.6	KAJ3148309.1
+GCA_010093705.1	Patellaria atrata CBS 101060	CUS	ambiguous	21.0	21.0	KAF2834056.1
+GCA_022814085.1	Puttea exsequens	CUS	ambiguous	20.2	20.2	MCJ1274636.1
+GCA_030719095.1	Fusarium oxysporum f. sp. vasinfectum	ACS	ambiguous	19.1	19.1	WKT46934.1
+GCA_009176345.1	Aspergillus leporis	CUS	cus	106.9	106.9	KAB8078630.1
+GCA_009176345.1	Aspergillus leporis	CUS	cus	89.5	89.5	KAB8067044.1
+GCA_009176345.1	Aspergillus leporis	CUS	cus	33.9	33.9	KAB8073860.1
+GCA_011066585.1	Orbilia oligospora	ACS	ambiguous	18.0	18.0	KAF3088643.1
+GCA_011066585.1	Orbilia oligospora	ACS	ambiguous	17.9	17.9	KAF3088644.1
+GCA_016861735.1	Aspergillus chevalieri	ACS	ambiguous	20.3	20.3	BCR87479.1
+GCF_033847375.1	Trichoderma aggressivum f. europaeum	ACS	ambiguous	20.1	20.1	XP_062756592.1
+GCA_033297075.1	Rhypophila decipiens	ORF358	orf358	280.7	280.7	KAK4219772.1
+GCF_016861865.1	Aspergillus puulaauensis	ACS	ambiguous	19.2	19.2	XP_041561830.1
+GCA_057675645.1	Fusarium cf. solani	CUS	mis	107.9	107.9	KAN9497940.1
+GCF_002105155.1	Lobosporangium transversale	ACS	ambiguous	18.4	18.4	XP_021879708.1
+GCA_900248155.1	Aspergillus niger	CUS	cus	103.1	103.1	SPB45947.1
+GCA_016865315.1	Aspergillus luchuensis	CUS	cus	109.6	109.6	BCS14459.1
+GCA_023141355.1	Penicillium roqueforti	CUS	ambiguous	24.9	24.9	KAI3251615.1
+GCA_004337975.1	Pyricularia sp. CBS 133598	ORF358	orf358	88.0	88.0	TLD09435.1
+GCF_010724455.1	Aspergillus lentulus	CUS	cus	114.2	114.2	XP_033413989.1
+GCF_010724455.1	Aspergillus lentulus	CUS	mis	314.3	314.3	XP_033418688.1
+GCA_015499975.1	Dissophora ornata	ACS	ambiguous	17.4	17.4	KAF8941174.1
+GCF_000760515.2	Mitosporidium daphniae	ACS	ambiguous	19.5	2.1	XP_013239110.1
+GCA_021525775.1	Lactarius deliciosus	ACS	acs	104.2	104.2	KAH8997062.1
+GCA_003184825.1	Aspergillus fijiensis CBS 313.89	CUS	mis	261.6	261.6	RAK76900.1
+GCA_900096505.1	Fusarium fujikuroi	ACS	ambiguous	20.4	20.4	SCV45259.1
+GCA_900096505.1	Fusarium fujikuroi	ACS	ambiguous	18.9	18.9	SCV29421.1
+GCA_038497795.1	Lipomyces arxii	ACS	ambiguous	25.5	7.8	KAK9469540.1
+GCA_015501065.1	Infundibulicybe gibba	ACS	kerr14	52.3	52.3	KAF8873347.1
+GCA_015501065.1	Infundibulicybe gibba	ACS	kerr14	43.9	43.9	KAF8872085.1
+GCA_015501065.1	Infundibulicybe gibba	ORF358	orf358	463.9	463.9	KAF8887076.1
+GCA_015501065.1	Infundibulicybe gibba	ORF358	orf358	422.1	422.1	KAF8887082.1
+GCA_015501065.1	Infundibulicybe gibba	ORF358	orf358	319.3	319.3	KAF8886214.1
+GCA_018340605.1	Aspergillus pseudoviridinutans	CUS	mis	295.0	295.0	GIJ90378.1
+GCA_023137795.1	Aspergillus niger	CUS	cus	109.6	109.6	KAI3016954.1
+GCA_024704695.1	Pyricularia oryzae	ORF358	orf358	99.2	99.2	KAI6644009.1
+GCA_030039275.1	Naganishia adeliensis	ORF358	orf358	48.6	48.6	KAJ9101381.1
+GCA_025602895.1	Polychytrium aggregatum	ACS	ambiguous	20.2	20.2	KAI9203321.1
+GCA_054126625.1	Microsporum ferrugineum	ACS	ambiguous	18.0	18.0	KAM5433171.1
+GCA_019924175.1	Aureobasidium melanogenum	CUS	ambiguous	19.3	19.3	KAG9677794.1
+GCF_023757995.1	Alternaria metachromatica	ACS	ambiguous	17.3	17.3	XP_049186974.1
+GCA_053540825.1	Beauveria asiatica	ACS	ambiguous	23.0	23.0	KAM3555855.1
+GCA_053540825.1	Beauveria asiatica	CUS	cus	135.1	135.1	KAM3556215.1
+GCF_028502605.1	Trichoderma breve	ACS	ambiguous	17.3	17.3	XP_056033209.1
+GCA_011692745.1	Arthroderma uncinatum	CUS	mis	293.8	293.8	KAF3481806.1
+GCA_015501595.1	Hymenopellis radicata	ACS	acs	117.2	117.2	KAF9022656.1
+GCA_028827015.1	Penicillium chrysogenum	CUS	cus	56.0	56.0	KAJ5264860.1
+GCA_018397855.1	Boletus reticuloceps	ACS	gdpd_meso	464.1	464.1	KAG6371153.1
+GCA_018397855.1	Boletus reticuloceps	SUS	sus	243.6	167.1	KAG6371150.1
+GCA_042370955.1	Sodiomyces alcalophilus JCM 7366	ACS	ambiguous	18.6	18.6	KAL2754101.1
+GCA_021525025.1	Lactarius hengduanensis	ACS	kerr14	31.0	31.0	KAH9047091.1
+GCA_018360585.1	Claviceps purpurea	CUS	ambiguous	24.2	24.2	KAG6127931.1
+GCA_018360865.1	Claviceps purpurea	CUS	ambiguous	24.2	24.2	KAG6294360.1
+GCA_003184625.1	Aspergillus neoniger CBS 115656	CUS	cus	108.8	108.8	PYH30069.1
+GCA_057675605.1	Fusarium rekanum	CUS	mis	236.9	236.9	KAN9444517.1
+GCA_000149645.4	Aspergillus fischeri NRRL 181	CUS	cus	105.0	105.0	EAW17169.1
+GCA_024704515.1	Pyricularia oryzae	ORF358	orf358	99.2	99.2	KAI6568705.1
+GCA_000400465.1	Wallemia ichthyophaga EXF-994	SUS	ambiguous	18.7	18.7	EOQ99429.1
+GCA_000143565.1	Laccaria bicolor S238N-H82	ACS	kerr14	41.1	41.1	EDR08578.1
+GCA_028828275.1	Penicillium frequentans	CUS	ambiguous	19.9	19.9	KAJ5553866.1
+GCA_902713495.1	Penicillium palitans	ACS	acs	41.0	41.0	CAI7641135.1
+GCA_902713495.1	Penicillium palitans	CUS	ambiguous	22.6	22.6	CAI7594933.1
+GCA_022607105.2	Ascochyta lentis	ACS	acs	38.1	38.1	XPT00523.1
+GCA_022607105.2	Ascochyta lentis	ACS	kerr14	32.8	32.8	XPS95296.1
+GCA_022607105.2	Ascochyta lentis	ORF358	orf358	52.7	52.7	XPT00032.1
+GCA_051819865.1	Trichoderma afarasin	ACS	ambiguous	17.5	17.5	KAL7801395.1
+GCA_911174895.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG7964745.1
+GCF_042370625.1	Thermothelomyces heterothallicus CBS 202.75	ACS	ambiguous	29.0	29.0	XP_069294242.1
+GCA_033630735.1	Elasticomyces elasticus	CUS	ambiguous	23.8	23.8	KAK3642163.1
+GCA_033630735.1	Elasticomyces elasticus	CUS	ambiguous	22.8	22.8	KAK3666712.1
+GCA_035658355.1	Kwoniella shivajii	ACS	ambiguous	26.3	26.3	WRT64815.1
+GCF_000151355.1	Fusarium vanettenii 77-13-4	ACS	ambiguous	27.6	27.6	XP_003045766.1
+GCA_033296875.1	Achaetomium macrosporum	CUS	ambiguous	22.9	22.9	KAK4241610.1
+GCA_911175145.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8233055.1
+GCF_023758085.1	Alternaria hordeiaustralica	ACS	ambiguous	17.3	17.3	XP_049244592.1
+GCA_000750795.1	Pseudogymnoascus sp. VKM F-4514 (FW-929)	CUS	cus	80.7	80.7	KFY32904.1
+GCF_025331425.1	Radiomyces spectabilis	ACS	ambiguous	19.0	19.0	XP_051419246.1
+GCA_027923885.1	Aspergillus tubingensis	CUS	cus	112.9	112.9	GLA85046.1
+GCA_041956515.1	Thermothelomyces hinnuleus	ACS	ambiguous	18.9	18.9	KAL2166183.1
+GCA_021365345.1	Beauveria bassiana	ACS	ambiguous	23.9	23.9	KAH8709111.1
+GCA_021365345.1	Beauveria bassiana	CUS	cus	139.4	139.4	KAH8710545.1
+GCA_053540845.1	Beauveria asiatica	ACS	ambiguous	23.0	23.0	KAM3563874.1
+GCA_053540845.1	Beauveria asiatica	CUS	cus	135.1	135.1	KAM3557789.1
+GCF_028828655.1	Penicillium verrucosum	CUS	ambiguous	18.0	18.0	XP_057071296.1
+GCA_057673975.1	[Neocosmospora] sp. B6999-4	CUS	mis	107.1	107.1	KAN8798826.1
+GCA_011392495.1	Talaromyces pinophilus	ACS	ambiguous	24.1	4.4	KAF3393685.1
+GCA_038363985.1	Apiospora kogelbergensis	ACS	kerr14	36.3	36.3	KAK8097672.1
+GCA_033220425.1	Lepraria neglecta	CUS	ambiguous	23.6	23.6	KAK3177892.1
+GCA_038497665.1	Lipomyces kononenkoae	ACS	ambiguous	16.9	16.9	KAK9367793.1
+GCA_015499985.1	Haplosporangium gracile	ACS	ambiguous	17.8	17.8	KAF8948963.1
+GCA_027604645.1	Allomyces javanicus	ACS	ambiguous	22.3	3.3	KAJ3366023.1
+GCF_003184925.1	Aspergillus vadensis CBS 113365	CUS	cus	105.0	105.0	XP_025564806.1
+GCF_001831195.1	Colletotrichum orchidophilum	ACS	ambiguous	18.0	18.0	XP_022476245.1
+GCA_028827775.1	Penicillium malachiteum	ACS	ambiguous	19.9	19.9	KAJ5697136.1
+GCA_022578795.1	Xylariaceae sp. FL0255	ACS	ambiguous	17.7	17.7	KAI1332631.1
+GCA_022578795.1	Xylariaceae sp. FL0255	ORF358	orf358	300.8	300.8	KAI1325734.1
+GCA_003942215.1	Saitozyma podzolica	ACS	ambiguous	27.3	27.3	RSH80713.1
+GCA_004346965.1	Pyricularia oryzae	ORF358	orf358	105.7	105.7	QBZ57619.1
+GCA_004346965.1	Pyricularia oryzae	ORF358	orf358	98.0	98.0	QBZ53553.1
+GCA_004346965.1	Pyricularia oryzae	ORF358	ambiguous	19.1	19.1	QBZ64051.1
+GCA_023137765.1	Aspergillus niger	CUS	cus	109.6	109.6	KAI3037611.1
+GCA_028828195.1	Penicillium verhagenii	CUS	ambiguous	19.6	19.6	KAJ5917424.1
+GCA_012656435.1	Aspergillus lentulus	CUS	cus	111.9	111.9	KAF4155759.1
+GCA_012656435.1	Aspergillus lentulus	CUS	mis	314.3	314.3	KAF4153820.1
+GCA_009733575.1	Gymnopus androsaceus JB14	ACS	ambiguous	28.3	28.3	KAE9391611.1
+GCF_001773325.1	Penicillium arizonense	CUS	cus	76.0	76.0	XP_022491610.1
+GCF_001773325.1	Penicillium arizonense	CUS	ambiguous	20.0	20.0	XP_022484839.1
+GCA_000350365.1	Fusarium odoratissimum	ACS	ambiguous	22.3	3.4	EMT72408.1
+GCA_000350365.1	Fusarium odoratissimum	ACS	ambiguous	17.5	17.5	EMT63726.1
+GCF_028829775.1	Penicillium samsonianum	CUS	ambiguous	20.9	20.9	XP_057133656.1
+GCF_027946475.1	Didymosphaeria variabile	ORF358	orf358	72.1	72.1	XP_056076917.1
+GCF_027946475.1	Didymosphaeria variabile	ORF358	orf358	30.7	30.7	XP_056071217.1
+GCA_023376865.1	Colletotrichum filicis	ACS	ambiguous	21.6	21.6	KAI3542453.1
+GCA_023376865.1	Colletotrichum filicis	CUS	ambiguous	20.5	20.5	KAI3540520.1
+GCA_009556855.1	Talaromyces marneffei	CUS	ambiguous	21.1	21.1	QGA17438.1
+GCA_911175025.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8090324.1
+GCA_004011705.1	Ascochyta lentis	ACS	acs	31.8	31.8	KAF9693711.1
+GCA_004011705.1	Ascochyta lentis	ACS	ambiguous	29.5	29.5	KAF9698433.1
+GCA_004011705.1	Ascochyta lentis	ORF358	orf358	50.6	50.6	KAF9694260.1
+GCA_028751425.1	Penicillium rubens	CUS	cus	108.6	108.6	KAJ5033854.1
+GCA_028751425.1	Penicillium rubens	CUS	cus	57.8	57.8	KAJ5041418.1
+GCA_018360765.1	Claviceps purpurea	CUS	ambiguous	24.2	24.2	KAG6177981.1
+GCF_001907595.1	Talaromyces atroroseus	ACS	ambiguous	22.8	1.3	XP_020123068.1
+GCF_001907595.1	Talaromyces atroroseus	CUS	ambiguous	17.6	17.6	XP_020115965.1
+GCF_000281105.1	Coniosporium apollinis CBS 100218	ACS	ambiguous	17.9	17.9	XP_007779924.1
+GCA_022453515.1	Astrocystis sublimbata	ACS	acs	57.1	57.1	KAI0199099.1
+GCA_027601485.1	Geranomyces variabilis	ACS	ambiguous	25.5	25.5	KAJ3136297.1
+GCA_023134295.1	Aspergillus niger	CUS	cus	109.6	109.6	KAI2897598.1
+GCA_052815965.1	Seiridium cardinale	CUS	ambiguous	19.1	19.1	KAM0817788.1
+GCA_003184695.1	Aspergillus brunneoviolaceus CBS 621.78	CUS	mis	258.1	258.1	RAH50405.1
+GCA_018296345.1	Fusarium xylarioides	ACS	ambiguous	19.0	19.0	KAG5815905.1
+GCA_015679605.1	Podila epigama	ACS	ambiguous	18.1	18.1	KAF9413145.1
+GCA_000732125.1	Scedosporium apiospermum	ACS	ambiguous	17.4	17.4	KEZ38805.1
+GCA_036327395.1	Knufia obscura	ACS	ambiguous	20.1	1.9	KAK5943944.1
+GCF_902498895.1	Magnusiomyces paraingens	ACS	ambiguous	20.1	20.1	XP_031854684.1
+GCA_035930045.1	Exophiala xenobiotica	ACS	ambiguous	19.0	19.0	KAK5330732.1
+GCA_036872755.1	Orbilia blumenaviensis	ACS	ambiguous	18.0	18.0	KAK6332478.1
+GCA_016097895.1	Linnemannia exigua	ACS	ambiguous	19.7	19.7	KAG0279549.1
+GCA_002847465.1	Aspergillus novofumigatus IBT 16806	CUS	mis	288.8	288.8	PKX96254.1
+GCA_002591405.1	Ophiocordyceps australis	ACS	ambiguous	22.3	22.3	PHH82984.1
+GCA_002591405.1	Ophiocordyceps australis	CUS	cus	126.5	126.5	PHH83508.1
+GCA_027923745.1	Aspergillus niger	CUS	cus	111.5	111.5	GKZ73349.1
+GCA_010405425.1	Lentithecium fluviatile CBS 122367	ACS	kerr14	36.4	36.4	KAF2677707.1
+GCA_010405425.1	Lentithecium fluviatile CBS 122367	ORF358	orf358	77.6	77.6	KAF2691411.1
+GCA_055768845.1	Penicillium antarcticum	CUS	cus	110.8	110.8	KAN0797294.1
+GCA_055768845.1	Penicillium antarcticum	CUS	ambiguous	19.2	19.2	KAN0805988.1
+GCA_905219545.1	Rhizoctonia solani	CUS	ambiguous	18.8	18.8	CAE6385530.1
+GCF_022495145.1	Xylaria bambusicola	ACS	ambiguous	18.4	18.4	XP_047829869.1
+GCA_057706505.1	Penicillium discolor	CUS	ambiguous	19.9	19.9	KAN9815112.1
+GCA_057706505.1	Penicillium discolor	CUS	ambiguous	18.4	18.4	KAN9815243.1
+GCF_004353045.1	Thyridium curvatum	CUS	mis	251.1	251.1	XP_030995295.1
+GCA_058411265.1	Laccaria bicolor	ACS	kerr14	41.1	41.1	KAO1217082.1
+GCA_022432385.1	Xylariaceae sp. FL1272	ORF358	orf358	287.7	287.7	KAI0153137.1
+GCA_051820155.1	Trichoderma sp. TUCIM 5745	ACS	ambiguous	17.8	17.8	KAL7897567.1
+GCA_037954465.1	Colletotrichum acutatum	ACS	ambiguous	21.7	21.7	KAK7454331.1
+GCA_039778275.1	Seiridium unicorne	CUS	ambiguous	19.1	19.1	KAK9424997.1
+GCA_023065595.1	Penicillium roqueforti	CUS	ambiguous	22.9	22.9	KAI2730512.1
+GCA_028827895.1	Penicillium longicatenatum	CUS	ambiguous	17.8	17.8	KAJ5658668.1
+GCA_013266265.1	Fusarium sp. NRRL 66182	ACS	ambiguous	20.5	20.5	KAF5025685.1
+GCA_024043165.1	Alternaria incomplexa	ACS	ambiguous	17.2	17.2	KAI4906861.1
+GCA_053539365.1	Beauveria neobassiana	ACS	ambiguous	23.8	23.8	KAM3467716.1
+GCA_053539365.1	Beauveria neobassiana	CUS	cus	136.7	136.7	KAM3477949.1
+GCA_015847235.1	Linnemannia zychae	ACS	ambiguous	19.5	19.5	KAF9910130.1
+GCF_046127475.1	Talaromyces marneffei ATCC 18224	CUS	ambiguous	21.1	21.1	XP_002151040.1
+GCF_046127475.1	Talaromyces marneffei ATCC 18224	CUS	ambiguous	21.1	21.1	XP_078013214.1
+GCA_017309875.1	Fusarium proliferatum	ACS	ambiguous	18.8	18.8	KAG4257610.1
+GCA_017309875.1	Fusarium proliferatum	ACS	ambiguous	17.5	17.5	KAG4264293.1
+GCF_028974205.1	Penicillium antarcticum	CUS	cus	124.4	124.4	XP_058318692.1
+GCF_028974205.1	Penicillium antarcticum	CUS	ambiguous	24.3	24.3	XP_058323038.1
+GCA_012932015.1	Fusarium acutatum	ACS	ambiguous	18.8	18.8	KAF4439591.1
+GCA_048937355.1	Paraphaeosphaeria sporulosa	CUS	ambiguous	20.0	20.0	KAL5372388.1
+GCA_058411115.1	Laccaria bicolor	ACS	acs	43.4	43.4	KAO1135960.1
+GCF_000280675.1	Beauveria bassiana ARSEF 2860	ACS	ambiguous	21.5	21.5	XP_008599405.1
+GCF_000280675.1	Beauveria bassiana ARSEF 2860	CUS	cus	137.9	137.9	XP_008599793.1
+GCA_911175295.1	Penicillium nalgiovense	ACS	ambiguous	27.2	27.2	CAG8297738.1
+GCA_056506435.1	Phaeococcomyces sp. EXF-18165	ACS	ambiguous	19.4	1.1	KAN4399914.1

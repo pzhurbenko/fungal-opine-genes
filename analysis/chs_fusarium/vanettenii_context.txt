@@ -1,0 +1,46 @@
+## XP_003047010.1 gene-NECHADRAFT_83559 NW_003315868.1:900562-901779(+) exons=1 prod=['uncharacterized protein'] scaffold_genes=330
+rel	gene	protein	start	end	strand	exons	dist_bp	product
+-10	NECHADRAFT_45956	XP_003047005.1	878176	880242	+	1	20320	uncharacterized protein
+-9	NECHADRAFT_83551	XP_003047164.1	880865	883083	-	5	17479	uncharacterized protein
+-8	NECHADRAFT_106298	XP_003047006.1	885071	885638	+	3	14924	uncharacterized protein
+-7	NECHADRAFT_83553	XP_003047165.1	885899	886991	-	2	13571	uncharacterized protein
+-6	NECHADRAFT_83554	XP_003047166.1	887324	888356	-	2	12206	uncharacterized protein
+-5	NECHADRAFT_83555	XP_003047007.1	889069	892014	+	6	8548	uncharacterized protein
+-4	NECHADRAFT_95358	XP_003047008.1	892869	893944	+	2	6618	uncharacterized protein
+-3	NECHADRAFT_46298	XP_003047009.1	894394	894994	+	2	5568	uncharacterized protein
+-2	NECHADRAFT_95359	XP_003047167.1	895227	896747	-	1	3815	glycoside hydrolase family 54
+-1	NECHADRAFT_95360	XP_003047168.1	898051	899700	-	7	862	uncharacterized protein
+0	NECHADRAFT_83559	XP_003047010.1	900562	901779	+	1	0	uncharacterized protein
+1	NECHADRAFT_46191	XP_003047011.1	902659	904341	+	5	880	uncharacterized protein
+# +-50kb window flagged (transposase/bacterial keywords):
+# genes in +-50kb window: 24
+
+## acs-like (GDPD) XP_003054402.1: NW_003315881.1:2425320-2427762 same_scaffold=False exons=5 prod=['acetate--CoA ligase']
+
+# all genes within +-50kb:
+NECHADRAFT_46183	XP_003046995.1	849983-851791	+	ex=2	uncharacterized protein
+NECHADRAFT_7929	XP_003046996.1	852949-853711	+	ex=2	uncharacterized protein
+NECHADRAFT_95351	XP_003047161.1	853976-855350	-	ex=4	uncharacterized protein
+NECHADRAFT_70914	XP_003046997.1	857107-858177	+	ex=1	uncharacterized protein
+NECHADRAFT_70916	XP_003047162.1	858338-859647	-	ex=2	uncharacterized protein
+NECHADRAFT_83543	XP_003046998.1	860177-861288	+	ex=5	uncharacterized protein
+NECHADRAFT_83544	XP_003046999.1	861611-863098	+	ex=2	uncharacterized protein
+NECHADRAFT_83545	XP_003047000.1	864040-865928	+	ex=4	uncharacterized protein
+NECHADRAFT_83546	XP_003047163.1	866156-867016	-	ex=1	uncharacterized protein
+NECHADRAFT_62655	XP_003047001.1	867868-869428	+	ex=5	uncharacterized protein
+NECHADRAFT_46272	XP_003047002.1	869787-871188	+	ex=8	uncharacterized protein
+NECHADRAFT_122749	XP_003047003.1	872374-872809	+	ex=2	small secreted protein
+NECHADRAFT_95357	XP_003047004.1	873355-877428	+	ex=6	uncharacterized protein
+NECHADRAFT_45956	XP_003047005.1	878176-880242	+	ex=1	uncharacterized protein
+NECHADRAFT_83551	XP_003047164.1	880865-883083	-	ex=5	uncharacterized protein
+NECHADRAFT_106298	XP_003047006.1	885071-885638	+	ex=3	uncharacterized protein
+NECHADRAFT_83553	XP_003047165.1	885899-886991	-	ex=2	uncharacterized protein
+NECHADRAFT_83554	XP_003047166.1	887324-888356	-	ex=2	uncharacterized protein
+NECHADRAFT_83555	XP_003047007.1	889069-892014	+	ex=6	uncharacterized protein
+NECHADRAFT_95358	XP_003047008.1	892869-893944	+	ex=2	uncharacterized protein
+NECHADRAFT_46298	XP_003047009.1	894394-894994	+	ex=2	uncharacterized protein
+NECHADRAFT_95359	XP_003047167.1	895227-896747	-	ex=1	glycoside hydrolase family 54
+NECHADRAFT_95360	XP_003047168.1	898051-899700	-	ex=7	uncharacterized protein
+NECHADRAFT_83559	XP_003047010.1	900562-901779	+	ex=1	uncharacterized protein
+NECHADRAFT_46191	XP_003047011.1	902659-904341	+	ex=5	uncharacterized protein
+# scaffold NW_003315868.1 length 907961 (from ##sequence-region)

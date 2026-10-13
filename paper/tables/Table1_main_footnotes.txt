@@ -1,0 +1,6 @@
+Total loci in catalog (ACS+CUS+SUS, ORF358 excluded): 2791
+Homologs: 1912
+Not a homolog (incl. 1 quarantined): 879
+Homologs assigned by profile (HMM) only, not placed on tree: 703
+Homologs placed on tree: 1194; by similarity: 15
+species counted by mash cluster id (Boletales) or name (others); n_fragments = fragment+remnant; n_loci = basis tree + similarity (duplicates of tree leaves included); n_nonredundant_tree_leaves = distinct tree leaves.

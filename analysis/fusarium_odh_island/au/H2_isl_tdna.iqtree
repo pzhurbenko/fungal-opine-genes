@@ -1,0 +1,177 @@
+IQ-TREE 3.1.1 built Apr  8 2026
+
+Input file name: ../tree/odh_tree.trim.aln
+Type of analysis: tree reconstruction
+Random seed number: 1
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 44 sequences with 423 amino-acid sites
+Number of constant sites: 8 (= 1.89125% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 8 (= 1.89125% of all sites)
+Number of parsimony informative sites: 383
+Number of distinct site patterns: 422
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: Q.PFAM+G4
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 1.6709
+
+ Category  Relative_rate  Proportion
+  1         0.2506         0.2500
+  2         0.6147         0.2500
+  3         1.0591         0.2500
+  4         2.0756         0.2500
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -18597.3488 (s.e. 432.4547)
+Unconstrained log-likelihood (without tree): -2556.6521
+Number of free parameters (#branches + #model parameters): 86
+Akaike information criterion (AIC) score: 37366.6975
+Corrected Akaike information criterion (AICc) score: 37411.2332
+Bayesian information criterion (BIC) score: 37714.7715
+
+Total tree length (sum of branch lengths): 20.4838
+Sum of internal branch lengths: 11.9605 (58.3901% of tree length)
+
+WARNING: 2 near-zero internal branches (<0.0024) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'ISL_Fusarium_poae_Fp133_KAL3595992' is drawn at root
+
++**ISL_Fusarium_poae_Fp133_KAL3595992
+|
++--ISL_Fusarium_poae_DAOMC252244_KAG8664661
+|
+|  +--ISL_Fusarium_langsethiae_MFG217702_GKU08709
++--|
+   |                                            +--FUNG_Rhypophila_sp_PSN637_KAM7187585
+   |                                +-----------|
+   |                                |           +---FUNG_Rhypophila_decipiens_KAK4208163
+   |                  +-------------|
+   |                  |             |   +-------------FUNG_Butyriboletus_roseoflavus_KAG8213183
+   |                  |             +---|
+   |                  |                 |        +--SEED_nos_P00386
+   |                  |                 +--------|
+   |                  |                          +--SEED_nos_Gillisella_WP_070167540
+   |  +---------------|
+   |  |               |   +-----------------------------------BACT2_Agrobacterium_larrymoorei_WP_309770762
+   |  |               +---|
+   |  |                   |                     +--SEED_ocs_P0A395
+   |  |                   +---------------------|
+   |  |                                         +----SEED_vis_A0A1S7UAT7
+   +--|
+      |                                         +--NAT_Penicillium_pancosmium_Eurotiomycetes_CAI7622243
+      |                             +-----------|
+      |                             |           +--NAT_Acidomyces_richmondensis_Dothideomycetes_KYG49934
+      |                          +--|
+      |                          |  |         +-----NAT_Botrytis_hyacinthi_Leotiomycetes_TGO32970
+      |                          |  +---------|
+      |                          |            |  +-----NAT_Apiospora_marii_Sordariomycetes_KAK8018799
+      |                          |            +--|
+      |                          |               |  +--NAT_Peltigera_leucophlebia_Lecanoromycetes_MCJ1343177
+      |                          |               +--|
+      |                          |                  +--NAT_Alyxoria_varia_Arthoniomycetes_KAI9659760
+      |                       +--|
+      |                       |  +--------NAT_Astrocystis_sublimbata_KAI0200929
+      |                    +--|
+      |                    |  |             +--BACT_Mesorhizobium_sp_WP_292079798
+      |                    |  |          +--|
+      |                    |  |          |  +--BACT_Mesorhizobium_WP_095796047
+      |                    |  |       +--|
+      |                    |  |       |  |   +**BACT_Ensifer_sp_MCA1441928
+      |                    |  |       |  +---|
+      |                    |  |       |      +--BACT_Ensifer_sp_WP_225168027
+      |                    |  |    +--|
+      |                    |  |    |  |    +--BACT_Paraburkholderia_sp_WP_221311650
+      |                    |  |    |  +----|
+      |                    |  |    |       +--BACT_Paraburkholderia_tuberum_WP_167368798
+      |                    |  +----|
+      |                    |       |        +--BACT_RhizobiumAgrobacterium_group_WP_209160010
+      |                    |       |  +-----|
+      |                    |       |  |     +--BACT_Agrobacterium_fabrum_WP_080814651
+      |                    |       +--|
+      |                    |          |       +--BACT_Rhizobium_sp_MBW8285971
+      |                    |          +-------|
+      |                    |                  +**BACT_Rhizobium_sp_MBW8322961
+      |                 +--|
+      |                 |  |         +--BACT_Bradyrhizobium_sp_WP_316182285
+      |                 |  |      +--|
+      |                 |  |      |  |  +**BACT_Bradyrhizobium_sp_WP_316171863
+      |                 |  |      |  +**|
+      |                 |  |      |     +--BACT_unclassified_Bradyrhizobium_WP_315754296
+      |                 |  |  +---|
+      |                 |  |  |   +**BACT_unclassified_Bradyrhizobium_WP_315773519
+      |                 |  +--|
+      |                 |     |       +--BACT_Pseudomonas_sp_WP_262129160
+      |                 |     +-------|
+      |                 |             +--BACT_Pseudomonas_sp_WP_175651312
+      |              +--|
+      |              |  |               +--BACT_Paracidovorax_avenae_AVS92425
+      |              |  |            +--|
+      |              |  |            |  +--BACT_Paracidovorax_citrulli_ABM31174
+      |              |  |         +--|
+      |              |  |         |  +--BACT_Acidovorax_sp_WP_284414132
+      |              |  |  +------|
+      |              |  |  |      |  +**BACT_Xanthomonas_sontii_WP_148827830
+      |              |  |  |      +--|
+      |              |  |  |         +--BACT_Xanthomonas_sp_WP_152245646
+      |              |  +--|
+      |              |     |   +--BACT_Achromobacter_marplatensis_WP_315138735
+      |              |     +---|
+      |              |         +--BACT_Brenneria_sp_WP_199378978
+      |           +--|
+      |           |  +--------------NAT_Ramaria_rubella_Agaricomycetes_KAF8577607
+      |  +--------|
+      |  |        +-----------NAT_Sporormia_fimetaria_KAF2744556
+      +**|
+         +--BACT_Agrobacterium_larrymoorei_WP_309770759
+
+Tree in newick format:
+
+(ISL_Fusarium_poae_Fp133_KAL3595992:0.0000010000,ISL_Fusarium_poae_DAOMC252244_KAG8664661:0.1526040774,(ISL_Fusarium_langsethiae_MFG217702_GKU08709:0.0104035709,((((FUNG_Rhypophila_sp_PSN637_KAM7187585:0.1073381825,FUNG_Rhypophila_decipiens_KAK4208163:0.2421690119):0.7437893794,(FUNG_Butyriboletus_roseoflavus_KAG8213183:0.8504295909,(SEED_nos_P00386:0.0839704864,SEED_nos_Gillisella_WP_070167540:0.0851820319):0.5715411163):0.2843642770):0.8592315010,(BACT2_Agrobacterium_larrymoorei_WP_309770762:2.2184844157,(SEED_ocs_P0A395:0.1537847458,SEED_vis_A0A1S7UAT7:0.3024680879):1.3648696886):0.2730828227):1.0196233468,(((((((((NAT_Penicillium_pancosmium_Eurotiomycetes_CAI7622243:0.1303174248,NAT_Acidomyces_richmondensis_Dothideomycetes_KYG49934:0.1491852864):0.7259363508,(NAT_Botrytis_hyacinthi_Leotiomycetes_TGO32970:0.4115832979,(NAT_Apiospora_marii_Sordariomycetes_KAK8018799:0.3797416189,(NAT_Peltigera_leucophlebia_Lecanoromycetes_MCJ1343177:0.1161130609,NAT_Alyxoria_varia_Arthoniomycetes_KAI9659760:0.1556145210):0.0908164515):0.1767061770):0.6045264662):0.0381348921,NAT_Astrocystis_sublimbata_KAI0200929:0.5876581647):0.0451271738,((((BACT_Mesorhizobium_sp_WP_292079798:0.0172992435,BACT_Mesorhizobium_WP_095796047:0.0420421272):0.1363976031,(BACT_Ensifer_sp_MCA1441928:0.0000023903,BACT_Ensifer_sp_WP_225168027:0.0027440091):0.2417145026):0.0622003423,(BACT_Paraburkholderia_sp_WP_221311650:0.0246027287,BACT_Paraburkholderia_tuberum_WP_167368798:0.0072478531):0.3101516836):0.1355875654,((BACT_RhizobiumAgrobacterium_group_WP_209160010:0.0318069808,BACT_Agrobacterium_fabrum_WP_080814651:0.0330484595):0.3675913082,(BACT_Rhizobium_sp_MBW8285971:0.0027111962,BACT_Rhizobium_sp_MBW8322961:0.0000010000):0.5159577279):0.0915534171):0.3026049888):0.0543415926,(((BACT_Bradyrhizobium_sp_WP_316182285:0.0055605391,(BACT_Bradyrhizobium_sp_WP_316171863:0.0000010000,BACT_unclassified_Bradyrhizobium_WP_315754296:0.0027652728):0.0000010000):0.0061080677,BACT_unclassified_Bradyrhizobium_WP_315773519:0.0022151780):0.2824262559,(BACT_Pseudomonas_sp_WP_262129160:0.0221644436,BACT_Pseudomonas_sp_WP_175651312:0.0679269264):0.4836493905):0.0982776742):0.0528719825,((((BACT_Paracidovorax_avenae_AVS92425:0.0028776456,BACT_Paracidovorax_citrulli_ABM31174:0.0029548920):0.0421677992,BACT_Acidovorax_sp_WP_284414132:0.0445459873):0.0069321042,(BACT_Xanthomonas_sontii_WP_148827830:0.0000010000,BACT_Xanthomonas_sp_WP_152245646:0.0029259290):0.0373774925):0.4622148748,(BACT_Achromobacter_marplatensis_WP_315138735:0.1011052612,BACT_Brenneria_sp_WP_199378978:0.0560952936):0.2451896349):0.2260297615):0.1125380441,NAT_Ramaria_rubella_Agaricomycetes_KAF8577607:0.9437157136):0.2078272741,NAT_Sporormia_fimetaria_KAF2744556:0.7717469795):0.5832398176,BACT_Agrobacterium_larrymoorei_WP_309770759:0.1981302775):0.0000021503):0.0876073854):0.0102073058);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t H2_isl_tdna.treefile -m "Q.PFAM+G4{1.67092}" --length 423
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s ../tree/odh_tree.trim.aln --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s ../tree/odh_tree.trim.aln --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Mon Oct 12 00:43:49 2026
+Total CPU time used: 1437.44 seconds (0h:23m:57s)
+Total wall-clock time used: 45.2138 seconds (0h:0m:45s)
+

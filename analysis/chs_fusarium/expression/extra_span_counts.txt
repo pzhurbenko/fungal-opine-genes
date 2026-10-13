@@ -1,0 +1,10 @@
+run region reads_q0+ reads_q1+ (span only, primary, any strand)
+SRR32802590 van target  all=2 q1=2 flank+-3kb_q1=2
+SRR32802591 van target  all=2 q1=2 flank+-3kb_q1=20
+SRR32802589 van target  all=0 q1=0 flank+-3kb_q1=4
+SRR32802592 van target  all=2 q1=2 flank+-3kb_q1=6
+SRR7030093 fol target all=0 q1=0 flank+-3kb_q1=0
+SRR7030096 fol target all=0 q1=0 flank+-3kb_q1=0
+SRR10123445 fol target all=0 q1=0 flank+-3kb_q1=357
+SRR26065701 fol target all=0 q1=0 flank+-3kb_q1=40
+SRR26065688 fol target all=0 q1=0 flank+-3kb_q1=82

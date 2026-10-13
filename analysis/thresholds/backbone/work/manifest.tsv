@@ -1,0 +1,55 @@
+sample	contig	source	lineage	gca	organism	length	GC	assembly_gc	assembly_n50	annot_genes_on_contig
+bacterial	JAHFYE010000084.1	KAH0437978.1|sus|Paraburkholderia fungorum 99.5%	probable contamination	GCA_019925775.1	Aureobasidium melanogenum	40523	61.33	51.72	6369	18
+bacterial	JASUXW010000009.1	KAK0366082.1|chs|Sphingobium yanoikuyae 99.7%	probable contamination	GCA_030412055.1	Friedmanniomyces endolithicus	202445	65.31	57.55	63778	106
+bacterial	JAHCCJ010000989.1	KAI7253817.1|chs|Paenibacillus sp. IHB B 3415 97.8%	probable contamination	GCA_024761535.1	Hortaea werneckii	1985	49.92	52.79	96569	1
+bacterial	JAQFWG010000172.1	KAJ8143645.1|chs|Cellulosimicrobium cellulans 96.4%	probable contamination	GCA_029606385.1	Metschnikowia pulcherrima	32757	74.38	50.93	24645	19
+bacterial	JAAAUO010001282.1	KAF9122689.1|chs|Paenibacillus sp. SSG-1 99.7%	probable contamination	GCA_015502485.1	Mortierella sp. GBA39	11392	54.61	49.42	32930	10
+bacterial	JAAAUO010000330.1	KAF9139135.1|mas2|Paenibacillus favisporus 90.5%	probable contamination	GCA_015502485.1	Mortierella sp. GBA39	40285	53.19	49.42	32930	22
+bacterial	JAANRA010005998.1	KAG1453357.1|chs|Achromobacter sp. Bel 99.6%	probable contamination	GCA_011764185.1	Rhizopus arrhizus	1382	67.73	40.57	6839	2
+bacterial	JAANRA010010777.1	KAG1438974.1|mas1|Achromobacter marplatensis 99.3%	probable contamination	GCA_011764185.1	Rhizopus arrhizus	757	65.13	40.57	6839	1
+bacterial	JAANRE010010019.1	KAG1203422.1|chs|Achromobacter sp. Bel 99.7%	probable contamination	GCA_011764265.1	Rhizopus arrhizus	1196	66.22	41.51	2043	1
+bacterial	JAANQS010007307.1	KAG1254267.1|vis|Achromobacter marplatensis 99.4%	probable contamination	GCA_011764055.1	Rhizopus arrhizus	1167	68.89	40.70	7456	1
+bacterial	JAANQQ010002513.1	KAG1254624.1|mas1|Achromobacter marplatensis 100.0%	probable contamination	GCA_011764045.1	Rhizopus microsporus	1319	66.41	41.90	3771	1
+fungal	JBBPSN010000183	SUS_JBBPSN010000183_L1	OCD-like, outside T-DNA sus clade	GCA_038093615.1	Austroboletus olivaceoglutinosus	31970	51.85			
+fungal	QFEG01000233	SUS_QFEG01000233_L1	OCD-like, outside T-DNA sus clade	GCA_003316055.1	Boletus speciosus	27113	45.53			
+fungal	QFEH01000351	SUS_QFEH01000351_L1	OCD-like, outside T-DNA sus clade	GCA_003316065.1	Retiboletus ornatipes	27732	45.64			
+fungal	JAOXNW010100945	SUS_JAOXNW010100945_L1	OCD-like, outside T-DNA sus clade	GCA_028566015.1	Echinosphaeria canescens	9274	55.89			
+fungal	JAOXNW020094939	SUS_JAOXNW020094939_L1	OCD-like, outside T-DNA sus clade	GCA_028566015.2	Echinosphaeria canescens	9274	55.89			
+fungal	JAGFBS010000039	ACS_JAGFBS010000039_L1	acc-type GDPD	GCA_018397855.1	Boletus reticuloceps	391557	46.07			
+fungal	JBBPQD010009048	ACS_JBBPQD010009048_L1	acc-type GDPD	GCA_038092355.1	Caloboletus inedulis	824	51.94			
+fungal	JBBPJJ010011893	ACS_JBBPJJ010011893_L1	acc-type GDPD	GCA_038088635.1	Veloboletus limbatus	1243	54.55			
+fungal	JALZYZ010000001	CUS_JALZYZ010000001_L1	actinobacterial-type	GCA_023619515.1	Aspergillus sp.	201081	50.43			
+fungal	WUTQ01000406	CUS_WUTQ01000406_L1	actinobacterial-type	GCA_009828905.1	Aspergillus sydowii	27428	50.88			
+fungal	JACVNB010000036	CUS_JACVNB010000036_L1	actinobacterial-type	GCA_022684695.1	Beauveria bassiana	201136	52.72			
+fungal	JARJTH010000186	CUS_JARJTH010000186_L1	actinobacterial-type	GCA_030787925.1	Beauveria bassiana	93699	53.11			
+fungal	JTCW01000135	CUS_JTCW01000135_L1	actinobacterial-type	GCA_001684195.1	Beauveria bassiana	119269	50.76			
+fungal	JAKOOT010000021	CUS_JAKOOT010000021_L1	cus-like (T-DNA type)	GCA_028408395.1	Kazachstania servazzii	782949	34.40			
+fungal	JBBPKB010004400	CUS_JBBPKB010004400_L1	cus-like (T-DNA type)	GCA_038089035.1	Boletellus dicymbophilus	4258	49.06			
+fungal	VWSC01000016	CUS_VWSC01000016_L1	cus-like (T-DNA type)	GCA_008802765.1	Kazachstania servazzii	191414	34.67			
+fungal	JAXQHM010000038	CUS_JAXQHM010000038_L1	cus-like (T-DNA type)	GCA_037040905.1	Monosporozyma servazzii	30407	34.82			
+fungal	JBBPKL010012429	CUS_JBBPKL010012429_L1	cus-like (T-DNA type)	GCA_038089235.1	Boletellus ananas	2573	48.70			
+fungal	JBBPJJ010010555	CUS_JBBPJJ010010555_S2L1	mis lineage	GCA_038088635.1	Veloboletus limbatus	1451	55.07			
+fungal	JAWZSP010000005	CUS_JAWZSP010000005_L1	mis lineage	GCA_034401135.1	Volutella citrinella	200988	50.56			
+fungal	JBBPJU010002882	CUS_JBBPJU010002882_L1	mis lineage	GCA_038088875.1	Austroboletus festivus	7175	48.14			
+fungal	PSTE01000255	CUS_PSTE01000255_L1	mis lineage	GCF_003184765.1	Aspergillus aculeatinus	200731	54.46			
+fungal	KZ825107	CUS_KZ825107_S2L1	mis lineage	GCA_003184705.1	Aspergillus violaceofuscus	640994	53.17			
+fungal	JACTVC010000013	ACS_JACTVC010000013_L1	native fungal GDPD (main clade)	GCA_018417955.1	Laccaria trichodermophora	201164	48.34			
+fungal	KV449191	ACS_KV449191_S2L1	native fungal GDPD (main clade)	GCA_001658105.1	Rhizopogon vinicolor	6495	47.28			
+fungal	PVXV01000134	ACS_PVXV01000134_L1	native fungal GDPD (main clade)	GCA_002994995.1	Rhizopogon hawkerae	2724	48.13			
+fungal	PVXU01013762	ACS_PVXU01013762_L1	native fungal GDPD (main clade)	GCA_002994865.1	Rhizopogon parksii	8020	47.87			
+fungal	PVYA01011370	ACS_PVYA01011370_L1	native fungal GDPD (main clade)	GCA_002995155.1	Rhizopogon parksii	1710	50.29			
+fungal	JAJIYX010000048	ACS_JAJIYX010000048_L1	other fungal GDPD (position unresolved)	GCA_035773195.1	Phallus impudicus	196151	43.03			
+fungal	JAIJZX010000023	ACS_JAIJZX010000023_L1	other fungal GDPD (position unresolved)	GCA_021442215.1	Albifimbria verrucaria	200682	51.89			
+fungal	QFEH01001931	ACS_QFEH01001931_L1	other fungal GDPD (position unresolved)	GCA_003316065.1	Retiboletus ornatipes	42101	42.62			
+fungal	KQ962105	ACS_KQ962105_S2L1	other fungal GDPD (position unresolved)	GCA_001563735.1	Leucoagaricus sp. SymC.cos	98038	43.59			
+fungal	JAHRGV010000066	ACS_JAHRGV010000066_L1	other fungal GDPD (position unresolved)	GCA_019364595.1	Butyriboletus roseoflavus	207927	44.53			
+fungal	JBBPKL010018021	ACS_JBBPKL010018021_L1	pKerr14a-type acs-like	GCA_038089235.1	Boletellus ananas	1645	47.23			
+fungal	JBBPOG010012756	ACS_JBBPOG010012756_L1	pKerr14a-type acs-like	GCA_038091375.1	Austroboletus festivus	1076	50.56			
+fungal	JBBPKL010003317	ACS_JBBPKL010003317_L1	pKerr14a-type acs-like	GCA_038089235.1	Boletellus ananas	7549	50.21			
+fungal	JBBPNB010000203	ACS_JBBPNB010000203_L1	pKerr14a-type acs-like	GCA_038090635.1	Rubroboletus satanas	29271	47.35			
+fungal	JBBPNB010000771	ACS_JBBPNB010000771_L1	pKerr14a-type acs-like	GCA_038090635.1	Rubroboletus satanas	12567	45.29			
+fungal	JBBPMG010000116	SUS_JBBPMG010000116_L1	sus-like (T-DNA type)	GCA_038090195.1	Boletellus deceptivus	52089	52.56			
+fungal	JBBPLJ010000841	SUS_JBBPLJ010000841_L1	sus-like (T-DNA type)	GCA_038089715.1	Veloporphyrellus conicus	9813	48.12			
+fungal	JBBPWO010073651	SUS_JBBPWO010073651_L1	sus-like (T-DNA type)	GCA_041722635.1	Boletaceae sp.	605	52.40			
+fungal	JBBPXA010000488	SUS_JBBPXA010000488_L1	sus-like (T-DNA type)	GCA_041722795.1	Tylopilus sp.	21814	54.20			
+fungal	JBBPLV010001943	SUS_JBBPLV010001943_L1	sus-like (T-DNA type)	GCA_038089975.1	Boletellus ananiceps	7698	53.55			

@@ -1,0 +1,25 @@
+gca	organism	gene	seed_id	seed_source	protein	pident	bits	evalue	cov_seed	cov_query	qlen	pident_bact	pident_plant	contam	dup_dropped
+GCA_029282285.1	Mycena rebaudengoi	cus	MED6115461.1	plant_cTDNA	KAJ7289093.1	61.8	382.0	1.48e-134	0.978	0.972	323	60.6	61.8	0	0
+GCA_019364595.1	Butyriboletus roseoflavus	cus	WP_233741845.1	bacterial	KAG8216553.1	52.4	196.0	5.64e-63	0.549	0.913	207	52.4	47.1	0	0
+GCA_019364595.1	Butyriboletus roseoflavus	mis	AIV42059.1	plant_cTDNA	KAG8213182.1	35.8	77.0	1.94e-16	0.441	0.307	414	33.3	35.8	0	0
+GCA_018397855.1	Boletus reticuloceps	sus	Cyclocarya_JARVXO010000040_36077290	plant_cTDNA	KAG6371150.1	39.8	212.0	2.25e-63	0.991	0.391	727	37.3	39.8	0	0
+GCA_029282285.1	Mycena rebaudengoi	acs	QTG17267	bacterial	KAJ7236809.1	30.0	155.0	3.08e-43	0.863	0.801	462	30.0	29.1	0	0
+GCA_018397855.1	Boletus reticuloceps	acs	che1CaTE-Acs	plant_cTDNA	KAG6371153.1	29.1	148.0	1.73e-39	0.77	0.511	655	29.3	29.1	0	0
+GCA_019364595.1	Butyriboletus roseoflavus	acs	che1CaTE-Acs	plant_cTDNA	KAG8213181.1	27.1	114.0	1.78e-29	0.702	0.933	326	26.5	27.1	0	0
+GCA_018397855.1	Boletus reticuloceps	acs_pKerr14a	WP_280174108	bacterial	KAG6371153.1	31.9	141.0	1.19e-37	0.808	0.455	655	31.9		0	0
+GCA_029282285.1	Mycena rebaudengoi	acs_pKerr14a	WP_280174108	bacterial	KAJ7236809.1	29.5	148.0	4.66e-41	0.946	0.76	462	29.5		0	0
+GCA_019364595.1	Butyriboletus roseoflavus	acs_pKerr14a	WP_280174108	bacterial	KAG8213181.1	28.5	120.0	7.30e-32	0.822	0.929	326	28.5		0	0
+GCA_000151355.1	Fusarium vanettenii 77-13-4	acs_pKerr14a	WP_280174108	bacterial	EEU40053.1	22.8	54.7	1.73e-08	0.93	0.526	742	22.8		0	0
+GCA_001298375.2	Saccharomyces cerevisiae	mas1	P50201	bacterial	KOH50154.1	31.3	74.7	5.00e-16	0.426	0.726	263	31.3		0	0
+GCA_029282285.1	Mycena rebaudengoi	mas1	P50201	bacterial	KAJ7218317.1	31.1	70.1	3.76e-14	0.421	0.569	313	31.1		0	0
+GCA_000151355.1	Fusarium vanettenii 77-13-4	mas1	P50201	bacterial	EEU41654.1	30.2	82.8	1.01e-18	0.481	0.832	273	30.2		0	0
+GCA_000731615.1	Aspergillus fumigatus	mas1	AAZ50421.1	bacterial	KEY83021.1	28.1	76.3	6.24e-15	0.519	0.182	1274	28.1		0	0
+GCA_018397855.1	Boletus reticuloceps	mas1	AAF77131.1	bacterial	KAG6372755.1	27.8	70.9	8.13e-15	0.505	0.916	250	27.8		0	0
+GCA_019364595.1	Butyriboletus roseoflavus	mas1	AAZ50421.1	bacterial	KAG8217500.1	27.3	62.8	6.01e-12	0.53	0.915	271	27.3		0	0
+GCA_000151355.1	Fusarium vanettenii 77-13-4	ags	P27875	bacterial	EEU41297.1	41.9	299.0	1.76e-99	1.0	0.97	405	41.9		0	0
+GCA_018397855.1	Boletus reticuloceps	ags	P27875	bacterial	KAG6379109.1	33.5	74.7	3.20e-15	0.414	0.352	460	33.5		0	0
+GCA_029282285.1	Mycena rebaudengoi	ags	AAZ50422.1	bacterial	KAJ7273204.1	30.8	68.2	2.60e-13	0.42	0.401	374	30.8		0	0
+GCA_019364595.1	Butyriboletus roseoflavus	ags	P27875	bacterial	KAG8217334.1	27.8	70.1	8.76e-14	0.381	0.349	430	27.8		0	0
+GCA_000731615.1	Aspergillus fumigatus	ags	P27875	bacterial	KEY81111.1	24.5	51.6	2.43e-07	0.336	0.196	953	24.5		0	0
+GCA_019364595.1	Butyriboletus roseoflavus	nos	WP_070167540.1	bacterial	KAG8213183.1	40.0	180.0	7.99e-55	0.67	0.985	274	40.0		0	0
+GCA_000151355.1	Fusarium vanettenii 77-13-4	chs	A0A2Z2PGA9	bacterial	EEU41297.1	60.2	481.0	1.41e-170	0.943	0.948	405	60.2		0	0

@@ -1,0 +1,48 @@
+proteins tested (unique): 1277
+non-fungal nearest: 116
+probable contamination: 11
+rule A: 62
+rule B: 44
+rule C: 6
+A not B/C: 12
+marginal: 43
+
+  41  T-DNA-type candidate (rule B): genome-level screen
+   3  T-DNA-type candidate (rule B): nos homolog; not assigned to any lineage (not counted)
+  12  bacterial-type protein of an unrelated family, single species: not analysed further
+1161  fungal nearest relatives
+  43  marginal: member of a fungal family with a single better bacterial hit
+   2  other-rhizobial-locus candidate (rule C): GDPD homolog; not assigned to any lineage (not counted)
+   4  other-rhizobial-locus candidate (rule C): targeted analysis
+  11  probable contamination
+
+rule B by gene/genus:
+gene  genus         
+chs   Dactylonectria     1
+      Fusarium          32
+cus   Amanita            1
+      Hebeloma           1
+      Monosporozyma      1
+      Mycena             3
+nos   Butyriboletus      1
+      Rhypophila         3
+sus   Melanogaster       1
+
+rule C by gene/genus:
+gene              genus        
+acs,acs_pKerr14a  Boletus          1
+                  Butyriboletus    1
+                  Pleurotus        2
+nos               Fusarium         1
+ocs               Fusarium         1
+
+A, not pursued, by gene/genus:
+gene              genus              
+acs,acs_pKerr14a  Leucoagaricus          1
+mas1              Cutaneotrichosporon    1
+                  Elaphomyces            1
+sus               Moelleriella           1
+                  Pestalotiopsis         1
+                  Schizosaccharomyces    5
+vis               Kwoniella              1
+                  Rhizopus               1

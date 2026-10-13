@@ -1,0 +1,25 @@
+fam	acc	organism	ncbi_title	n_reps_best_hit	max_identity_to_T1	closest_T1	length	kept_T2
+CUS	WP_193559574.1	Agrobacterium	MULTISPECIES: cucumopine synthase-related protein [Agrobacterium]	1	1.00	T1|Agro_BAB16139.1_riorf20_plasmid_Rhizobium_rhizogenes	263	yes
+CUS	MCF1485584.1	Agrobacterium vitis	hypothetical protein FS800_26135 [Agrobacterium vitis]	6	1.00	T1|Agro_WP_233741845.1_MULTISPECIES_hypothetical_protein_Rhi	319	yes
+CUS	WP_071201425.1	Agrobacterium fabrum	cucumopine synthase-related protein [Agrobacterium fabrum]	4	1.00	T1|Agro_WP_233741845.1_MULTISPECIES_hypothetical_protein_Rhi	319	yes
+CUS	ABW33569.1	Martinezella rhizogenes	rcorf12 (plasmid) [Martinezella rhizogenes]	1	1.00	T1|Agro_WP_077768163.1_MULTISPECIES_DUF3830_family_protein_R	362	yes
+CUS	MCF1501979.1	Agrobacterium vitis	hypothetical protein FS819_27820, partial [Agrobacterium vitis]	1	0.99	T1|Agro_WP_233741845.1_MULTISPECIES_hypothetical_protein_Rhi	145	yes
+CUS	MCM2443287.1	Agrobacterium vitis	hypothetical protein HGO34_26650, partial [Agrobacterium vitis]	1	0.99	T1|Agro_WP_233741845.1_MULTISPECIES_hypothetical_protein_Rhi	295	yes
+CUS	MUZ60889.1	Agrobacterium vitis	hypothetical protein GOZ95_26010 [Agrobacterium vitis]	1	0.99	T1|Agro_WP_233741845.1_MULTISPECIES_hypothetical_protein_Rhi	319	yes
+CUS	AIV42064.1	Martinezella rhizogenes	mikimopine synthase, partial [Martinezella rhizogenes]	1	0.98	T1|Agro_BAB16139.1_riorf20_plasmid_Rhizobium_rhizogenes	190	yes
+CUS	MCF1502142.1	Agrobacterium vitis	hypothetical protein FS819_28705, partial [Agrobacterium vitis]	1	0.98	T1|Agro_WP_233741845.1_MULTISPECIES_hypothetical_protein_Rhi	84	yes
+CUS	WP_174084799.1	Gillisella vitis	cucumopine synthase-related protein [Gillisella vitis]	4	0.96	T1|Agro_WP_233741845.1_MULTISPECIES_hypothetical_protein_Rhi	316	yes
+CUS	WP_174054204.1	Martinezella rhizogenes	cucumopine synthase-related protein [Martinezella rhizogenes]	2	0.94	T1|Agro_WP_010900213.1_MULTISPECIES_hypothetical_protein_Rhi	181	yes
+CUS	UVY99729.1	Agrobacterium fabrum	hypothetical protein K4M19_00039 (plasmid) [Agrobacterium fabrum]	1	0.93	T1|Agro_WP_233741845.1_MULTISPECIES_hypothetical_protein_Rhi	213	yes
+CUS	WP_349509010.1	Gillisella vitis	cucumopine synthase-related protein [Gillisella vitis]	1	0.93	T1|Agro_WP_233741845.1_MULTISPECIES_hypothetical_protein_Rhi	315	yes
+CUS	WP_412065958.1	Rhizobium sp. SYY.PMSO	cucumopine synthase-related protein [Rhizobium sp. SYY.PMSO]	6	0.91	T1|Agro_WP_077768163.1_MULTISPECIES_DUF3830_family_protein_R	320	yes
+CUS	WP_060716467.1	Rhizobiaceae	MULTISPECIES: cucumopine synthase-related protein [Rhizobiaceae]	1	0.89	T1|Agro_WP_077768163.1_MULTISPECIES_DUF3830_family_protein_R	320	yes
+CUS	WP_071208193.1	Rhizobiaceae	MULTISPECIES: cucumopine synthase-related protein [Rhizobiaceae]	1	0.89	T1|Agro_WP_077768163.1_MULTISPECIES_DUF3830_family_protein_R	320	yes
+CUS	WP_085423872.1	Xaviernesmea oryzae	cucumopine synthase-related protein [Xaviernesmea oryzae]	1	0.87	T1|Agro_WP_174037302.1_hypothetical_protein_Agrobacterium_tu	310	yes
+CUS	WP_247035429.1	unclassified Neorhizobium	MULTISPECIES: cucumopine synthase-related protein [unclassified Neorhizobium]	1	0.86	T1|Agro_WP_233741845.1_MULTISPECIES_hypothetical_protein_Rhi	315	yes
+CUS	WP_412065959.1	Rhizobium sp. SYY.PMSO	cucumopine synthase-related protein [Rhizobium sp. SYY.PMSO]	3	0.84	T1|Agro_WP_233741845.1_MULTISPECIES_hypothetical_protein_Rhi	315	yes
+CUS	WP_003518523.1	Agrobacterium tumefaciens	cucumopine synthase-related protein [Agrobacterium tumefaciens]	1	0.84	T1|Agro_WP_233741845.1_MULTISPECIES_hypothetical_protein_Rhi	315	yes
+CUS	WP_377257826.1	Neorhizobium puerariae	cucumopine synthase-related protein [Neorhizobium puerariae]	3	0.50	T1|Agro_WP_174037302.1_hypothetical_protein_Agrobacterium_tu	320	yes
+CUS	WP_174054203.1	Martinezella rhizogenes	DUF3830 family protein [Martinezella rhizogenes]	1	0.49	T1|Agro_BAB16139.1_riorf20_plasmid_Rhizobium_rhizogenes	139	yes
+CUS	WP_010900212.1	Rhizobiaceae	MULTISPECIES: DUF3830 family protein [Rhizobiaceae]	1	0.48	T1|Agro_BAB16139.1_riorf20_plasmid_Rhizobium_rhizogenes	139	yes
+CUS	WP_128406407.1	Rhizobium	MULTISPECIES: hypothetical protein [Rhizobium]	1	0.33	T1|Plant_VFQ61161.1_unnamed_protein_product_Cuscuta_campestr	138	no

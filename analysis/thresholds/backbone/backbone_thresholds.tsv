@@ -1,0 +1,6 @@
+threshold	frac_bacterial_flagged	frac_fungal_flagged	n_bacterial	n_fungal	bx_frac_bacterial_flagged	bx_frac_fungal_flagged	anyhit_frac_bacterial_flagged	anyhit_frac_fungal_flagged
+40	0.000	0.047	11	43	0.000	0.000	0.000	0.047
+50	0.000	0.023	11	43	0.000	0.000	0.000	0.023
+60	0.000	0.023	11	43	0.000	0.000	0.000	0.023
+70	0.000	0.023	11	43	0.000	0.000	0.000	0.023
+80	0.000	0.000	11	43	0.000	0.000	0.000	0.000

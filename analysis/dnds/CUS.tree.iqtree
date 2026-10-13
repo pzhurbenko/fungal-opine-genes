@@ -1,0 +1,163 @@
+IQ-TREE 3.1.1 built Apr  8 2026
+
+Input file name: CUS.codon.fna
+Type of analysis: tree reconstruction
+Random seed number: 215443
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 27 sequences with 291 nucleotide sites
+Number of constant sites: 28 (= 9.62199% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 28 (= 9.62199% of all sites)
+Number of parsimony informative sites: 246
+Number of distinct site patterns: 266
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+G4
+
+Rate parameter R:
+
+  A-C: 2.0893
+  A-G: 6.3832
+  A-T: 1.2495
+  C-G: 1.1628
+  C-T: 5.3553
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.1975
+  pi(C) = 0.3142
+  pi(G) = 0.2433
+  pi(T) = 0.2449
+
+Rate matrix Q:
+
+  A    -1.189    0.3104    0.7344    0.1447
+  C    0.1951   -0.9489    0.1338      0.62
+  G    0.5961    0.1728   -0.8846    0.1158
+  T    0.1167    0.7956    0.1151    -1.027
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 1.162
+
+ Category  Relative_rate  Proportion
+  1         0.168          0.25
+  2         0.5205         0.25
+  3         1.022          0.25
+  4         2.289          0.25
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -4238.1661 (s.e. 105.0522)
+Unconstrained log-likelihood (without tree): -1592.0641
+Number of free parameters (#branches + #model parameters): 60
+Akaike information criterion (AIC) score: 8596.3323
+Corrected Akaike information criterion (AICc) score: 8628.1584
+Bayesian information criterion (BIC) score: 8816.7317
+
+Total tree length (sum of branch lengths): 6.8759
+Sum of internal branch lengths: 4.7075 (68.4630% of tree length)
+
+WARNING: 2 near-zero internal branches (<0.0034) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'CUS_CAVMBW010000015_L1' is drawn at root
+
++--CUS_CAVMBW010000015_L1
+|
+|     +**CUS_JAKOOT010000021_L1
+|  +**|
+|  |  +**CUS_JAXQHM010000038_L1
++**|
+|  |                                                +------------CUS_JABYQR010000063_L1
+|  |                                             +--|
+|  |                                             |  +--CUS_JAGTXK010000090_L1
+|  |                                          +--|
+|  |                                          |  |  +**CUS_JAHRGV010000044_L2
+|  |                                          |  +--|
+|  |                                          |     +**CUS_QFEH01003570_L1
+|  |                                 +--------|
+|  |                                 |        |           +--CUS_JBBPJK010006192_L1
+|  |                                 |        |        +--|
+|  |                                 |        |        |  +--CUS_JBBPJK010006205_L1
+|  |                                 |        |     +--|
+|  |                                 |        |     |  +--CUS_JBBPRQ010000133_L1
+|  |                                 |        |  +--|
+|  |                                 |        |  |  |  +--CUS_JBBPKL010012429_L1
+|  |                                 |        |  |  +--|
+|  |                                 |        |  |     +--CUS_JBBPKL010026335_L1
+|  |                                 |        +--|
+|  |                                 |           +--CUS_JBBPMB010002223_L1
+|  |                              +--|
+|  |                              |  +--CUS_JBBPWL010005527_L1
+|  |                         +----|
+|  |                         |    |           +--CUS_JARJCM010000025_L1
+|  |                         |    |        +--|
+|  |                         |    |        |  +--CUS_JARKIB010000016_L1
+|  |                         |    |  +-----|
+|  |                         |    |  |     |  +**CUS_JARJCX010000004_L1
+|  |                         |    |  |     +--|
+|  |                         |    |  |        +--CUS_JARJCX010000328_L1
+|  |                         |    +--|
+|  |                         |       |          +--CUS_JBBPKB010004347_L1
+|  |                         |       +----------|
+|  |                         |                  +--CUS_JBBPKB010004400_L1
+|  |                      +--|
+|  |                      |  |      +--CUS_JBBPKX010002099_L1
+|  |                      |  +------|
+|  |                      |         +---CUS_JBBPUH010005932_L1
+|  |                   +--|
+|  |                   |  |                              +--CUS_JACCMO010000008_L1
+|  |                   |  |               +--------------|
+|  |                   |  |               |              +--CUS_JBEEQB010000010_L1
+|  |                   |  +---------------|
+|  |                   |                  +-----CUS_JAFJTQ020000041_L1
+|  +-------------------|
+|                      +-------CUS_JNHV02000108_L1
+|
++**CUS_VWSB01000009_L1
+
+Tree in newick format:
+
+(CUS_CAVMBW010000015_L1:0.0068200974,((CUS_JAKOOT010000021_L1:0.0034185574,CUS_JAXQHM010000038_L1:0.0033820558):0.0000025877,((((((((CUS_JABYQR010000063_L1:0.5779470983,CUS_JAGTXK010000090_L1:0.0841207385):0.0605296862,(CUS_JAHRGV010000044_L2:0.0000010000,CUS_QFEH01003570_L1:0.0000010000):0.1565423851):0.0402222217,((((CUS_JBBPJK010006192_L1:0.0103938427,CUS_JBBPJK010006205_L1:0.0069127346):0.0055848963,CUS_JBBPRQ010000133_L1:0.0081942046):0.0115228062,(CUS_JBBPKL010012429_L1:0.0364682436,CUS_JBBPKL010026335_L1:0.0320761509):0.0276696085):0.0062024707,CUS_JBBPMB010002223_L1:0.0085014406):0.1178806281):0.3839340409,CUS_JBBPWL010005527_L1:0.1271741838):0.0970757506,(((CUS_JARJCM010000025_L1:0.0415971715,CUS_JARKIB010000016_L1:0.0677898600):0.1242165131,(CUS_JARJCX010000004_L1:0.0000020111,CUS_JARJCX010000328_L1:0.0174179317):0.0641001241):0.2608302832,(CUS_JBBPKB010004347_L1:0.0038128821,CUS_JBBPKB010004400_L1:0.0465846123):0.4829452921):0.0615659067):0.2175483803,(CUS_JBBPKX010002099_L1:0.0573927169,CUS_JBBPUH010005932_L1:0.1865832388):0.3001431589):0.1145064474,((CUS_JACCMO010000008_L1:0.0206573993,CUS_JBEEQB010000010_L1:0.0358781213):0.6252071560,CUS_JAFJTQ020000041_L1:0.2582129128):0.7051069016):0.1607430543,CUS_JNHV02000108_L1:0.3705707764):0.8365301238):0.0033940101,CUS_VWSB01000009_L1:0.0000022629);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t CUS.tree.treefile -m "GTR{2.0893,6.38324,1.24953,1.16276,5.35529}+F{0.197531,0.314242,0.24335,0.244877}+G4{1.16154}" --length 291
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s CUS.codon.fna --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s CUS.codon.fna --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Mon Sep  7 04:20:31 2026
+Total CPU time used: 74.8057 seconds (0h:1m:14s)
+Total wall-clock time used: 9.6905 seconds (0h:0m:9s)
+

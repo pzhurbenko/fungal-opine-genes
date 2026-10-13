@@ -1,0 +1,26 @@
+name: PlantCad2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.13
+  - cudatoolkit==11.8
+  - ca-certificates
+  - openssl
+  - cuda-nvcc
+  - packaging
+  - conda-forge::pandas
+  - biopython
+  - ipykernel
+  - matplotlib
+  - seaborn
+  - certifi
+  - scikit-learn
+  - ete3
+  - paml
+  - conda-forge::scikit-allel
+  - htslib
+  - snpsift
+  - dadi
+  - degenotate
+  - duckdb

@@ -1,0 +1,407 @@
+lineage	n_genomes_with_hit	median_pident	gca	organism	best_pident	best_bits	cov	protein
+glycerophosphodiester_phosphod	2957	36.0	GCA_002894145.1	Trichoderma harzianum	71.7	390.0	0.96	PNP51237.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057676105.1	Fusarium papillatum	70.1	369.0	0.97	KAN9663675.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_901677965.1	Fusarium fujikuroi	75.7	431.0	0.95	VTT84261.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_001023035.1	Fusarium fujikuroi	76.1	435.0	0.95	KLO84822.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000149955.2	Fusarium oxysporum f. sp. lycopersici 4287	74.9	427.0	0.95	KNB02964.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_013396165.1	Fusarium globosum	75.4	430.0	0.95	KAF5698582.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057674405.1	[Neocosmospora] sp. B6999-1	70.5	342.0	0.91	KAN9023414.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_009663055.1	Fusarium fujikuroi	76.1	434.0	0.95	QGI61322.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_902141235.2	Clonostachys solani	73.9	393.0	0.97	CAH0039503.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000340215.1	Pseudocercospora fijiensis CIRAD86	67.0	355.0	0.95	EME85392.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_032884055.1	Fusarium oxysporum	75.6	432.0	0.95	KAK2686677.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003316975.2	Fusarium verticillioides	77.9	441.0	0.95	RBQ78063.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057674065.1	[Neocosmospora] sp. B6999-4	72.2	349.0	0.91	KAN8876963.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003615085.1	Fusarium oxysporum f. sp. cepae	75.6	431.0	0.95	RKK07198.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_033847385.1	Trichoderma harzianum	70.7	388.0	0.97	KAK4079032.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_025502635.1	Trichoderma harzianum	71.1	391.0	0.82	KAK0763394.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057673925.1	[Neocosmospora] sp. B6999-4	72.2	349.0	0.91	KAN8755874.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_900096645.1	Fusarium fujikuroi	76.1	434.0	0.95	SCO25932.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_027627305.1	Fusarium decemcellulare	73.8	384.0	0.97	KAJ3536006.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_005930515.1	Fusarium oxysporum f. sp. cubense	75.6	431.0	0.95	TVY72385.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_050084925.1	Rhinocladiella similis	66.2	353.0	0.96	KAL6240711.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000474925.1	Sporothrix schenckii ATCC 58251	68.7	345.0	0.91	ERS95283.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_900044065.1	Fusarium mangiferae	76.1	436.0	0.95	CVK94609.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_024865645.1	Fusarium oxysporum	74.2	425.0	0.95	KAI7771151.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_027945315.1	Fusarium oxysporum	74.5	427.0	0.95	KAJ4083552.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000260175.2	Fusarium oxysporum f. sp. vasinfectum 25433	75.6	432.0	0.95	EXM14230.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000338955.1	Baudoinia panamericana UAMH 10762	60.8	292.0	0.92	EMC90878.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000222805.1	Fusarium oxysporum f. sp. conglutinans Fo5176	70.1	366.0	0.79	EGU88739.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_019157275.1	Fusarium oxysporum f. sp. raphani	74.9	429.0	0.95	KAG7403121.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_013396075.1	Fusarium subglutinans	75.0	429.0	0.95	XP_036532092.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_013266175.1	Fusarium gaditjirri	77.9	446.0	0.95	KAF4946154.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_900096625.1	Fusarium fujikuroi	76.5	438.0	0.95	SCO35401.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_031834405.1	Fusarium oxysporum II5	75.3	426.0	0.95	KAK2134547.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003369635.1	Coleophoma crateriformis	71.2	388.0	1.00	RDW90918.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_902085965.1	Clonostachys rosea	73.0	390.0	0.99	VUC24693.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_020744475.1	Fusarium redolens	75.6	338.0	0.75	XP_046052534.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_027945255.1	Fusarium oxysporum	74.5	427.0	0.95	KAJ4027629.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675025.1	Fusarium euwallaceae	69.5	379.0	0.99	KAN9350855.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_009663115.1	Fusarium fujikuroi	76.1	434.0	0.95	QGI78502.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003615215.1	Fusarium proliferatum	75.0	430.0	0.95	RKL27801.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_037952775.1	Clonostachys chloroleuca	73.2	390.0	0.97	KAK7209518.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_001653265.1	Purpureocillium lilacinum	66.8	367.0	0.99	OAQ77975.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_051622515.1	Fusarium oxysporum f. sp. mori	75.6	432.0	0.95	KAN5861844.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000260195.2	Fusarium odoratissimum NRRL 54006	75.3	426.0	0.95	EXL93255.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_018296305.1	Fusarium xylarioides	70.4	334.0	0.79	KAG5806783.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057676245.1	Fusarium ambrosium	69.9	377.0	0.96	KAN9690447.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057814765.1	Fusarium oxysporum f. sp. rapae	74.9	428.0	0.95	KAO0135257.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_900096605.1	Fusarium fujikuroi	76.1	434.0	0.95	SCO09093.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_018296265.1	Fusarium xylarioides	70.8	337.0	0.79	KAG5751160.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_002980475.2	Fusarium beomiforme	80.7	442.0	0.94	KAF4334210.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675865.1	Fusarium cf. solani	70.3	378.0	0.99	KAN9527561.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000835435.1	Phialophora macrospora	64.9	364.0	0.99	KIW69255.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_003025095.1	Trichoderma harzianum CBS 226.95	71.1	391.0	0.82	XP_024779617.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675505.1	Fusarium euwallaceae	69.5	379.0	0.99	KAN9415013.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_030020275.1	Fusarium oxysporum	74.9	427.0	0.95	KAJ9422794.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_013363075.1	Fusarium oxysporum	74.9	429.0	0.95	KAF5264960.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_027945535.1	Fusarium oxysporum	75.6	433.0	0.95	KAJ4214222.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_900067095.1	Fusarium proliferatum ET1	75.4	432.0	0.95	CZR35930.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_013396035.1	Fusarium pseudocircinatum	74.2	430.0	0.96	KAF5598339.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000260155.3	Fusarium oxysporum f. sp. radicis-lycopersici 26381	76.4	434.0	0.95	EXL40233.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_050948025.1	Trichoderma camerunense	70.9	384.0	0.73	KAL6809521.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_014764975.2	Fusarium sp. DS 682	76.1	445.0	1.00	KAF9766914.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_982375315.1	Trichoderma afroharzianum	70.2	385.0	0.96	CAR0580694.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_001646985.1	Fonsecaea multimorphosa	67.8	367.0	0.98	OAL25538.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_019157295.1	Fusarium oxysporum f. sp. rapae	74.9	428.0	0.95	KAG7415122.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057673945.1	[Neocosmospora] sp. B6999-4	72.2	349.0	0.91	KAN8853285.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_027945305.1	Fusarium oxysporum	75.3	432.0	0.95	KAJ4087839.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_021399445.1	Xylogone sp. PMI_703	69.3	368.0	0.98	KAH8809430.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_900079805.1	Fusarium fujikuroi IMI 58289	76.1	434.0	0.95	CCT65015.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_001653265.1	Purpureocillium lilacinum	66.8	367.0	0.99	XP_018174106.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_900044065.1	Fusarium mangiferae	76.1	436.0	0.95	XP_041682943.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000820605.1	Sporothrix brasiliensis 5110	68.3	362.0	0.97	KIH93278.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_013085055.1	Fusarium oxysporum Fo47	74.9	430.0	0.95	QKD53729.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675305.1	Fusarium floridanum	69.9	377.0	0.96	KAN9177770.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675205.1	Fusarium floridanum	69.9	377.0	0.99	KAN9193092.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_001653205.1	Purpureocillium lilacinum	66.8	365.0	0.99	OAQ87785.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_027945405.1	Fusarium oxysporum	69.4	386.0	0.95	KAJ4160674.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_902702945.1	Fusarium fujikuroi	76.1	434.0	0.95	VZH94307.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_013396005.1	Fusarium napiforme	74.2	433.0	0.96	KAF5550342.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_013396205.1	Fusarium mundagurra	75.6	431.0	0.95	KAF5706932.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_000149955.1	Fusarium oxysporum f. sp. lycopersici 4287	74.9	427.0	0.95	XP_018241009.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_030247855.2	Knufia peltigerae	63.4	338.0	0.97	KAJ9644201.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675485.1	Fusarium mekan	70.3	379.0	0.99	KAN9271552.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_050948005.1	Trichoderma sp. SZMC 28013	70.9	391.0	0.94	KAL6796365.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_054098565.1	Fusarium nematophilum	66.2	251.0	0.74	KAM5349234.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_017309865.1	Fusarium proliferatum	75.4	433.0	0.95	KAG4268960.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_020796175.1	Fusarium oxysporum f. sp. matthiolae	63.8	350.0	0.95	KAH7484021.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_051820675.1	Trichoderma velutinum	70.2	390.0	0.94	KAL7916847.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057674425.1	[Neocosmospora] sp. B6999-1	70.5	342.0	0.91	KAN8939340.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_011947395.1	Colletotrichum karsti	71.7	390.0	0.98	XP_038743537.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_013395995.1	Fusarium pseudoanthophilum	74.2	430.0	0.96	KAF5577072.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_902713525.1	Penicillium pancosmium	72.2	390.0	0.96	CAI7664261.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057674285.1	[Neocosmospora] sp. B6999-1	70.5	342.0	0.91	KAN8979920.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_013781345.1	Fusarium coicis	68.0	369.0	0.96	KAF5964481.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_033847395.1	Purpureocillium lilacinum	66.8	365.0	0.99	KAK4078081.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_022605165.1	Purpureocillium takamizusanense	66.8	369.0	0.99	XP_047840593.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_900029915.1	Fusarium proliferatum	75.0	430.0	0.95	CVL12454.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_021365365.1	Ilyonectria robusta	73.1	387.0	0.97	XP_046097463.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003144605.1	Purpureocillium lilacinum	66.8	365.0	0.99	PWI71863.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_018894095.1	Fusarium oxysporum f. sp. conglutinans	70.1	367.0	0.99	KAG6993488.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_013396075.1	Fusarium subglutinans	75.0	429.0	0.95	KAF5585500.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_964030585.1	Fusarium verticillioides	76.8	432.0	0.95	CAL1429051.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_001636815.1	Niveomyces insectorum RCEF 264	71.4	348.0	0.90	OAA68557.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_900096705.1	Fusarium fujikuroi	76.1	434.0	0.95	SCN71527.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_049000225.1	Fusarium oxysporum	74.5	424.0	0.95	KAL5607012.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057674945.1	Fusarium akasia	71.4	343.0	0.91	KAN9354208.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003957675.1	Fusarium euwallaceae	69.5	379.0	0.99	RTE79851.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_021365365.1	Ilyonectria robusta	73.1	387.0	0.97	KAH8665539.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000260235.2	Fusarium oxysporum f. sp. raphani 54005	70.7	308.0	0.81	EXK83767.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000988865.1	Trichoderma harzianum	70.6	386.0	0.96	KKP06703.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_050703535.1	Trichoderma pleuroticola	70.9	386.0	0.96	KAL6691178.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057674545.1	Fusarium cf. solani	69.4	374.0	0.99	KAN9077030.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_900096695.1	Fusarium oxysporum	75.6	433.0	0.95	SCO86087.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675345.1	Fusarium floridanum	69.9	377.0	0.96	KAN9262600.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003946985.1	Fusarium duplospermum	68.4	362.0	0.99	RSL45659.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_027595875.1	Zarea fungicola	68.0	375.0	0.99	KAJ2979388.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_013396195.1	Fusarium tjaetaba	74.2	433.0	0.96	XP_037200418.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057676125.1	Fusarium ambrosium	69.9	377.0	0.96	KAN9643094.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057674245.1	[Neocosmospora] sp. B6999-1	70.8	368.0	0.96	KAN8888378.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_009663095.1	Fusarium fujikuroi	76.1	434.0	0.95	QGI92220.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_054098485.1	Fusarium nematophilum	66.2	251.0	0.74	KAM5378101.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_013396195.1	Fusarium tjaetaba	74.2	433.0	0.96	KAF5617697.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_048183105.1	Trichoderma cf. simile WF8	71.3	391.0	0.96	KAL5089170.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_050947985.1	Trichoderma sp. SZMC 28012	71.7	395.0	0.96	KAL6791041.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_021399435.1	Diaporthe sp. PMI_573	76.7	422.0	1.00	KAH8787887.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_027945555.1	Fusarium oxysporum	69.4	386.0	0.95	KAJ4266828.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_019565615.1	Trichoderma simmonsii	70.5	379.0	0.98	QYS92659.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675785.1	Fusarium cf. solani	70.7	380.0	0.99	KAN9523718.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000149555.1	Fusarium verticillioides 7600	76.8	432.0	0.95	EWG41314.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_013396175.1	Fusarium denticulatum	75.7	432.0	0.95	KAF5667745.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_050948025.1	Trichoderma camerunense	70.9	384.0	0.73	XP_083067159.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003615075.1	Fusarium oxysporum f. sp. cepae	75.6	431.0	0.95	RKK40866.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_002812745.2	Scytalidium lignicola	72.7	396.0	0.98	RFU24728.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_053754955.1	Fusarium oxysporum f. sp. cubense	74.5	426.0	0.95	KAO1817759.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_013396255.1	Fusarium sp. NRRL 25303	75.7	436.0	0.95	KAF5619939.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_002894225.1	Fusarium nygamai	74.5	434.0	0.96	PNP80900.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057674665.1	Fusarium duplospermum	68.4	362.0	0.99	KAN9091124.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675365.1	Fusarium warna	69.9	378.0	0.99	KAN9252088.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_025331925.1	Fusarium oxysporum	70.1	367.0	0.99	KAI8419578.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_051622595.1	Fusarium oxysporum f. sp. mori	75.6	432.0	0.95	KAN5944150.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675325.1	Fusarium floridanum	72.0	370.0	0.97	KAN9146608.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_054130785.1	Fusarium oxysporum f. sp. phaseoli	75.6	434.0	0.95	KAM5517623.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_013758895.1	Fusarium bulbicola	73.2	423.0	0.93	KAF5974237.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_004141715.1	Fusarium oxysporum f. sp. narcissi	68.6	377.0	0.95	RYC81969.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675225.1	Fusarium tuaranense	70.3	379.0	0.99	KAN9159595.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_042370655.1	Sarocladium strictum	62.9	345.0	0.99	KAL2208563.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_028827165.1	Penicillium cosmopolitanum	73.0	400.0	1.00	KAJ5397089.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_028827165.1	Penicillium cosmopolitanum	73.0	400.0	1.00	XP_056489141.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_050948045.1	Trichoderma sp. SZMC 28015	71.3	385.0	0.96	KAL6835609.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_051622415.1	Fusarium oxysporum f. sp. mori	75.6	432.0	0.95	KAN5861313.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_000338955.1	Baudoinia panamericana UAMH 10762	60.8	292.0	0.92	XP_007681979.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_055853645.1	Fusarium oxysporum	75.7	427.0	0.94	KAN1077078.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_028828765.1	Penicillium canescens	73.4	394.0	1.00	KAJ6062903.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_019915245.1	Fusarium musae	75.3	392.0	0.87	XP_044682520.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000260495.2	Fusarium oxysporum f. sp. melonis 26406	76.0	434.0	0.95	EXK26186.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057676205.1	Fusarium ambrosium	69.9	367.0	0.96	KAN9617900.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_000836435.1	Fonsecaea multimorphosa CBS 102226	67.8	367.0	0.98	XP_016633670.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000709125.1	Exophiala aquamarina CBS 119918	70.1	375.0	0.97	KEF54842.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_001662585.1	Pseudogymnoascus sp. WSF 3629	78.9	276.0	0.64	OBT48701.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_900096635.1	Fusarium fujikuroi	76.1	434.0	0.95	SCO35962.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_036872695.1	Exophiala oligosperma	63.0	336.0	0.97	KAK6381652.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_900096685.1	Fusarium fujikuroi	76.5	438.0	0.95	SCV36788.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000259975.2	Fusarium oxysporum f. sp. lycopersici MN25	69.7	363.0	0.99	EWZ89323.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003615165.1	Fusarium oxysporum	75.6	431.0	0.95	RKK99219.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_013085055.1	Fusarium oxysporum Fo47	74.9	430.0	0.95	XP_031043794.2
+glycerophosphodiester_phosphod	2957	36.0	GCA_002838845.1	Trichoderma harzianum	71.1	392.0	0.97	PKK45221.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057673905.1	[Neocosmospora] sp. B6999-4	72.2	349.0	0.91	KAN8749009.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000350345.1	Fusarium oxysporum f. sp. cubense race 1	75.6	431.0	0.95	ENH65738.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_054367885.1	Trichoderma sp. SZMC 28011	70.9	386.0	0.96	KAM6478137.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_052550365.1	Fusarium odoratissimum	75.4	426.0	0.72	KAM0081936.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057673865.1	[Neocosmospora] sp. B6999-4	72.2	349.0	0.91	KAN8738676.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675625.1	Fusarium rekanum	69.9	377.0	0.99	KAN9459386.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_027945335.1	Fusarium oxysporum	75.6	433.0	0.95	KAJ4082015.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057676005.1	Fusarium papillatum	70.1	369.0	0.97	KAN9614450.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057674105.1	[Neocosmospora] sp. B6999-3	69.2	374.0	0.93	KAN8838961.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_000820605.1	Sporothrix brasiliensis 5110	68.3	362.0	0.97	XP_040621288.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_022605165.1	Purpureocillium takamizusanense	66.8	369.0	0.99	UNI17112.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675685.1	Fusarium cf. solani	70.3	378.0	0.99	KAN9429916.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_000961545.1	Sporothrix schenckii 1099-18	68.6	371.0	0.99	XP_016590292.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_000149555.1	Fusarium verticillioides 7600	76.8	432.0	0.95	XP_018747505.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003615155.1	Fusarium oxysporum	69.7	364.0	0.99	RKL08606.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000271705.2	Fusarium oxysporum Fo47	74.9	430.0	0.95	EWZ43358.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_900096615.1	Fusarium fujikuroi	76.1	434.0	0.95	SCN90444.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_023101225.1	Fusarium solani-melongenae	71.6	379.0	0.97	UPK93551.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000260215.2	Fusarium oxysporum f. sp. conglutinans race 2 54008	75.6	434.0	0.95	EXL68198.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_054098455.1	Fusarium oxysporum	74.9	430.0	0.95	KAM5362239.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_032991405.1	Fusarium oxysporum f. sp. vasinfectum	75.6	432.0	0.95	KAK2933497.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003316995.2	Fusarium verticillioides	76.8	432.0	0.92	RBR15243.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675185.1	Fusarium oligoseptatum	70.3	380.0	0.97	KAN9199021.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_013396185.1	Fusarium circinatum	73.5	421.0	0.95	KAF5658615.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_028828765.1	Penicillium canescens	73.4	394.0	1.00	XP_058372947.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_052058685.1	Fusarium commune	75.6	434.0	0.95	KAL9570085.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_018296245.1	Fusarium xylarioides	70.8	337.0	0.79	KAG5773491.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_019915245.1	Fusarium musae	75.3	392.0	0.87	KAG9503520.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_000260195.1	Fusarium odoratissimum NRRL 54006	75.3	426.0	0.95	XP_031055345.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_002022785.1	Trichoderma guizhouense	70.9	390.0	0.96	OPB36140.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003290285.1	Fusarium proliferatum	74.9	431.0	0.96	RBA19255.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_011066345.1	Trichoderma lentiforme	69.8	383.0	0.95	KAF3057481.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_020744155.1	Ilyonectria sp. MPI-CAGE-AT-0026	71.8	380.0	0.97	KAH6970705.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_018296325.1	Fusarium xylarioides	70.4	334.0	0.79	KAG5789935.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_001023045.1	Fusarium fujikuroi	76.1	434.0	0.95	KLO95156.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_964035615.1	Fusarium verticillioides	77.1	438.0	0.95	CAL1735456.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_900079805.1	Fusarium fujikuroi IMI 58289	76.1	434.0	0.95	XP_023427096.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_014154955.1	Fusarium oxysporum f. sp. conglutinans	70.1	367.0	0.99	KAF6528760.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675065.1	Fusarium cf. solani	68.4	371.0	0.99	KAN9135379.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_000709125.1	Exophiala aquamarina CBS 119918	70.1	375.0	0.97	XP_013257432.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057674185.1	[Neocosmospora] sp. B6999-1	70.5	342.0	0.91	KAN8919276.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_011947395.2	Colletotrichum karsti	71.7	390.0	0.98	KAF9874076.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_027945265.1	Fusarium oxysporum	75.3	432.0	0.95	KAJ4045792.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057674785.1	Fusarium mekan	70.3	379.0	0.99	KAN9310224.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003615095.1	Fusarium oxysporum f. sp. cepae	75.6	431.0	0.95	RKK36141.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003615185.1	Fusarium oxysporum	69.7	388.0	0.95	RKL13623.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_028828735.1	Penicillium canescens	73.4	394.0	1.00	KAJ6052381.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675765.1	Fusarium cf. solani	70.7	380.0	0.99	KAN9522263.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_901677955.1	Fusarium fujikuroi	76.1	434.0	0.95	VTT55124.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_017309895.1	Fusarium proliferatum	75.0	430.0	0.95	KAG4290025.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_038050555.1	Fusarium oxysporum f. sp. vasinfectum	75.6	432.0	0.95	KAK7587987.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675525.1	Fusarium euwallaceae	69.5	379.0	0.99	KAN9393442.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_032878545.1	Fusarium oxysporum f. sp. vasinfectum	75.6	432.0	0.95	KAK2676812.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057676225.1	Fusarium ambrosium	69.9	377.0	0.96	KAN9691512.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_007994515.1	Fusarium oxysporum f. sp. cubense	75.3	426.0	0.95	TXC11644.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_010015735.1	Aaosphaeria arxii CBS 175.79	66.9	360.0	0.97	KAF2016807.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_018296285.1	Fusarium xylarioides	70.8	337.0	0.79	KAG5759755.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000836435.1	Fonsecaea multimorphosa CBS 102226	67.8	367.0	0.98	KIX99547.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_049000195.1	Fusarium oxysporum f. sp. vasinfectum	74.9	428.0	0.95	KAL5594845.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675985.1	Fusarium kuroshium	70.5	371.0	0.97	KAN9575343.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_022627125.1	Fusarium chuoi	73.2	414.0	0.95	KAI1027495.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000260075.2	Fusarium oxysporum f. sp. pisi HDV247	74.9	429.0	0.95	EXA31709.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_032206225.1	Fusarium oxysporum f. sp. albedinis	74.2	425.0	0.95	KAK2484373.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057674295.1	[Neocosmospora] sp. B6999-1	70.5	342.0	0.91	KAN8939498.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_053754965.1	Fusarium oxysporum f. sp. cubense	75.3	426.0	0.95	KAO1812217.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_001023065.1	Fusarium fujikuroi	76.1	434.0	0.95	KLP21628.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000961545.1	Sporothrix schenckii 1099-18	68.6	371.0	0.99	KJR87616.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_052570065.1	Trichoderma viride	70.6	308.0	0.79	KAM0461771.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_900067095.1	Fusarium proliferatum ET1	75.4	432.0	0.95	XP_031076523.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_028502605.1	Trichoderma breve	70.2	387.0	0.96	KAJ4865654.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_020744355.1	Fusarium oxysporum	74.9	427.0	0.92	KAH7207355.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_020744475.1	Fusarium redolens	75.6	338.0	0.75	KAH7260657.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003947015.1	Fusarium sp. AF-6	68.4	371.0	0.99	RSL59627.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057676085.1	Fusarium drepaniforme	70.5	377.0	0.97	KAN9682279.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_035927105.1	Exophiala bonariae	66.7	356.0	0.97	XP_064703894.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_963921875.1	Sporothrix curviconia	67.4	343.0	0.97	CAK7225942.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675105.1	Fusarium tuaranense	70.3	379.0	0.99	KAN9100397.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003946995.1	Fusarium oligoseptatum	70.3	379.0	0.99	RSL85086.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_027945275.1	Fusarium oxysporum	74.5	427.0	0.95	KAJ4031266.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_022627115.1	Fusarium annulatum	75.4	432.0	0.95	KAI1062738.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003369665.1	Coleophoma cylindrospora	72.3	398.0	1.00	RDW75394.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057674645.1	Fusarium duplospermum	68.4	362.0	0.99	KAN9013758.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_052569925.1	Verticillium albo-atrum	68.6	376.0	0.99	KAM0324764.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_000340215.1	Pseudocercospora fijiensis CIRAD86	67.0	355.0	0.95	XP_007922885.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_023509805.1	Fusarium oxysporum f. sp. albedinis	72.7	408.0	0.95	KAI3581796.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_001702695.2	Fusarium oxysporum f. sp. radicis-cucumerinum	75.6	431.0	0.95	PCD43004.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_013396095.1	Fusarium sp. NRRL 52700	63.5	350.0	0.95	KAF5642043.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057674765.1	Fusarium cf. solani	68.4	371.0	0.99	KAN9061049.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057674905.1	Fusarium akasia	70.1	371.0	0.97	KAN9335159.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_902006505.2	Clonostachys byssicola	71.8	380.0	0.99	CAG9995960.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_902827195.2	Clonostachys rosea f. rosea IK726	72.8	389.0	0.97	CAG9940618.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_013364935.1	Fusarium anthophilum	74.9	425.0	0.95	KAF5252034.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_038497395.1	Lipomyces kononenkoae	67.4	352.0	1.00	KAK9234426.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_051622495.1	Fusarium oxysporum f. sp. mori	75.6	432.0	0.95	KAN5866943.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_035927105.1	Exophiala bonariae	66.7	356.0	0.97	KAK5048535.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_030719095.1	Fusarium oxysporum f. sp. vasinfectum	75.6	433.0	0.95	WKT46934.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675645.1	Fusarium cf. solani	70.3	378.0	0.99	KAN9488325.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057674965.1	Fusarium euwallaceae	69.5	379.0	0.99	KAN9390084.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_900096505.1	Fusarium fujikuroi	76.5	438.0	0.95	SCV45259.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003615115.1	Fusarium oxysporum	69.7	364.0	0.99	RKK84963.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_028502605.1	Trichoderma breve	70.2	387.0	0.96	XP_056034710.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_050437485.1	Ilyonectria robusta	73.1	388.0	0.97	KAL6408409.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057675605.1	Fusarium rekanum	69.9	377.0	0.99	KAN9452754.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_020744455.1	Fusarium oxysporum	70.3	375.0	0.91	KAH7183910.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057673805.1	[Neocosmospora] sp. B6999-4	72.2	349.0	0.91	KAN8791240.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_051819865.1	Trichoderma afarasin	70.2	390.0	0.96	KAL7781074.1
+glycerophosphodiester_phosphod	2957	36.0	GCF_010015735.1	Aaosphaeria arxii CBS 175.79	66.9	360.0	0.97	XP_033385146.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_057673975.1	[Neocosmospora] sp. B6999-4	72.2	349.0	0.91	KAN8802084.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_000350365.1	Fusarium odoratissimum	75.3	426.0	0.95	EMT72408.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_018296345.1	Fusarium xylarioides	70.4	334.0	0.79	KAG5815905.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_055768845.1	Penicillium antarcticum	73.2	392.0	0.98	KAN0806001.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_003025095.1	Trichoderma harzianum CBS 226.95	71.1	391.0	0.82	PTB59940.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_017309875.1	Fusarium proliferatum	75.4	433.0	0.95	KAG4257610.1
+glycerophosphodiester_phosphod	2957	36.0	GCA_012932015.1	Fusarium acutatum	75.7	437.0	0.95	KAF4439591.1
+ABC_transporter_ATP-binding_pr	6769	31.8	GCA_011764055.1	Rhizopus arrhizus	55.0	567.0	0.74	KAG1269924.1
+ABC_transporter_ATP-binding_pr	6769	31.8	GCA_011764265.1	Rhizopus arrhizus	55.0	891.0	0.77	KAG1222523.1
+ABC_transporter_ATP-binding_pr	6769	31.8	GCA_911639275.1	Penicillium salamii	52.6	577.0	0.97	CAG8930684.1
+ABC_transporter_ATP-binding_pr	6769	31.8	GCA_011764125.1	Rhizopus arrhizus	50.9	369.0	0.62	KAG1318594.1
+dipeptide_ABC_transporter_ATP-	5804	24.2	GCA_011764055.1	Rhizopus arrhizus	56.5	361.0	0.63	KAG1259735.1
+occP	4848	25.2	GCA_011764055.1	Rhizopus arrhizus	57.6	194.0	0.63	KAG1258374.1
+occP	4848	25.2	GCA_011764225.1	Rhizopus arrhizus	57.0	193.0	0.63	KAG0758364.1
+mocA	4968	32.8	GCA_016618355.2	Astraeus odoratus	50.5	282.0	0.88	KAG1716053.1
+nocP	2008	26.3	GCA_011764045.1	Rhizopus microsporus	50.4	238.0	0.76	KAG1252060.1
+nocP	2008	26.3	GCA_016097755.1	Apophysomyces sp. BC1034	60.5	304.0	1.00	KAG0191998.1
+nocP	2008	26.3	GCA_016097865.1	Linnemannia gamsii	60.9	303.0	1.00	KAG0323080.1
+nocP	2008	26.3	GCA_011801725.2	Rhizopus arrhizus	55.9	176.0	0.63	KAG1387843.1
+nocP	2008	26.3	GCA_011764185.1	Rhizopus arrhizus	54.0	254.0	0.93	KAG1448265.1
+mocB	1680	30.0	GCA_016097715.1	Apophysomyces sp. BC1015	59.2	496.0	0.70	KAG0162288.1
+mocB	1680	30.0	GCA_019924135.1	Aureobasidium melanogenum	61.0	728.0	0.99	KAG9576338.1
+mocB	1680	30.0	GCA_011801705.2	Rhizopus arrhizus	61.1	498.0	0.66	KAG1408821.1
+mocB	1680	30.0	GCA_016097755.1	Apophysomyces sp. BC1034	60.4	718.0	0.99	KAG0194157.1
+mocB	1680	30.0	GCA_011764185.1	Rhizopus arrhizus	57.9	485.0	0.69	KAG1469582.1
+amino_acid_ABC_transporter_ATP	1684	27.0	GCA_015679645.1	Podila verticillata	55.8	229.0	0.87	KAF9396798.1
+amino_acid_ABC_transporter_ATP	1684	27.0	GCA_011764045.1	Rhizopus microsporus	52.7	242.0	0.72	KAG1252060.1
+amino_acid_ABC_transporter_ATP	1684	27.0	GCA_911639275.1	Penicillium salamii	52.3	256.0	0.98	CAG8930669.1
+amino_acid_ABC_transporter_ATP	1684	27.0	GCA_011801725.2	Rhizopus arrhizus	61.3	182.0	0.61	KAG1387843.1
+amino_acid_ABC_transporter_ATP	1684	27.0	GCA_015502485.1	Mortierella sp. GBA39	56.4	288.0	0.97	KAF9138014.1
+amino_acid_ABC_transporter_ATP	1684	27.0	GCA_011764225.1	Rhizopus arrhizus	51.4	236.0	0.98	KAG0774266.1
+amino_acid_ABC_transporter_ATP	1684	27.0	GCA_011952115.2	Rhizopus arrhizus	54.7	263.0	0.96	KAG0943316.1
+oligopeptide/dipeptide_ABC_tra	296	28.4	GCA_011764055.1	Rhizopus arrhizus	50.4	215.0	0.67	KAG1251900.1
+accF	255	41.1	GCA_057676105.1	Fusarium papillatum	72.3	378.0	0.97	KAN9663675.1
+accF	255	41.1	GCA_057674405.1	[Neocosmospora] sp. B6999-1	72.6	350.0	0.90	KAN9023414.1
+accF	255	41.1	GCA_000340215.1	Pseudocercospora fijiensis CIRAD86	68.2	357.0	0.95	EME85392.1
+accF	255	41.1	GCA_057674065.1	[Neocosmospora] sp. B6999-4	74.3	354.0	0.90	KAN8876963.1
+accF	255	41.1	GCA_003615085.1	Fusarium oxysporum f. sp. cepae	68.6	366.0	0.99	RKK30167.1
+accF	255	41.1	GCA_057673925.1	[Neocosmospora] sp. B6999-4	74.3	354.0	0.90	KAN8755874.1
+accF	255	41.1	GCA_000338955.1	Baudoinia panamericana UAMH 10762	60.2	297.0	0.92	EMC90878.1
+accF	255	41.1	GCA_003369635.1	Coleophoma crateriformis	72.3	397.0	1.00	RDW90918.1
+accF	255	41.1	GCA_902085965.1	Clonostachys rosea	71.5	392.0	0.99	VUC24693.1
+accF	255	41.1	GCA_057675025.1	Fusarium euwallaceae	71.8	386.0	0.99	KAN9350855.1
+accF	255	41.1	GCA_057676245.1	Fusarium ambrosium	71.8	385.0	0.96	KAN9690447.1
+accF	255	41.1	GCA_057675865.1	Fusarium cf. solani	71.8	385.0	0.99	KAN9527561.1
+accF	255	41.1	GCA_057675505.1	Fusarium euwallaceae	71.8	386.0	0.99	KAN9415013.1
+accF	255	41.1	GCA_013363075.1	Fusarium oxysporum	68.6	366.0	0.99	KAF5260775.1
+accF	255	41.1	GCA_000260155.3	Fusarium oxysporum f. sp. radicis-lycopersici 26381	68.6	366.0	0.99	EXL46034.1
+accF	255	41.1	GCA_057673945.1	[Neocosmospora] sp. B6999-4	74.3	354.0	0.90	KAN8853285.1
+accF	255	41.1	GCA_013085055.1	Fusarium oxysporum Fo47	68.6	366.0	0.99	QKD48387.1
+accF	255	41.1	GCA_057675305.1	Fusarium floridanum	72.2	387.0	0.96	KAN9177770.1
+accF	255	41.1	GCA_057675205.1	Fusarium floridanum	72.2	387.0	0.99	KAN9193092.1
+accF	255	41.1	GCA_027945405.1	Fusarium oxysporum	68.6	366.0	0.99	KAJ4112251.1
+accF	255	41.1	GCA_030247855.2	Knufia peltigerae	60.2	334.0	0.97	KAJ9644201.1
+accF	255	41.1	GCA_057675485.1	Fusarium mekan	71.8	384.0	0.99	KAN9271552.1
+accF	255	41.1	GCA_057674425.1	[Neocosmospora] sp. B6999-1	72.6	350.0	0.90	KAN8939340.1
+accF	255	41.1	GCA_902713525.1	Penicillium pancosmium	72.2	391.0	0.96	CAI7664261.1
+accF	255	41.1	GCA_057674285.1	[Neocosmospora] sp. B6999-1	72.6	350.0	0.90	KAN8979920.1
+accF	255	41.1	GCA_001636815.1	Niveomyces insectorum RCEF 264	70.2	347.0	0.90	OAA68557.1
+accF	255	41.1	GCA_057674945.1	Fusarium akasia	73.0	348.0	0.90	KAN9354208.1
+accF	255	41.1	GCA_003957675.1	Fusarium euwallaceae	71.8	386.0	0.99	RTE79851.1
+accF	255	41.1	GCA_000988865.1	Trichoderma harzianum	70.9	387.0	0.96	KKP06703.1
+accF	255	41.1	GCA_057674545.1	Fusarium cf. solani	72.1	385.0	0.99	KAN9077030.1
+accF	255	41.1	GCA_057675345.1	Fusarium floridanum	72.2	387.0	0.96	KAN9262600.1
+accF	255	41.1	GCA_003946985.1	Fusarium duplospermum	70.3	371.0	0.99	RSL45659.1
+accF	255	41.1	GCA_057676125.1	Fusarium ambrosium	71.8	385.0	0.96	KAN9643094.1
+accF	255	41.1	GCA_057674245.1	[Neocosmospora] sp. B6999-1	73.0	376.0	0.95	KAN8888378.1
+accF	255	41.1	GCA_027945555.1	Fusarium oxysporum	68.6	366.0	0.99	KAJ4270625.1
+accF	255	41.1	GCA_057675785.1	Fusarium cf. solani	72.9	389.0	0.99	KAN9523718.1
+accF	255	41.1	GCA_003615075.1	Fusarium oxysporum f. sp. cepae	68.6	366.0	0.99	RKK33669.1
+accF	255	41.1	GCA_057674665.1	Fusarium duplospermum	70.3	371.0	0.99	KAN9091124.1
+accF	255	41.1	GCA_057675365.1	Fusarium warna	71.8	385.0	0.99	KAN9252088.1
+accF	255	41.1	GCA_057675325.1	Fusarium floridanum	73.4	378.0	0.96	KAN9146608.1
+accF	255	41.1	GCA_004141715.1	Fusarium oxysporum f. sp. narcissi	68.6	366.0	0.99	RYC87396.1
+accF	255	41.1	GCA_057675225.1	Fusarium tuaranense	71.8	384.0	0.99	KAN9159595.1
+accF	255	41.1	GCA_042370655.1	Sarocladium strictum	65.2	361.0	0.99	KAL2208563.1
+accF	255	41.1	GCF_000338955.1	Baudoinia panamericana UAMH 10762	60.2	297.0	0.92	XP_007681979.1
+accF	255	41.1	GCA_057676205.1	Fusarium ambrosium	72.3	373.0	0.96	KAN9617900.1
+accF	255	41.1	GCA_000709125.1	Exophiala aquamarina CBS 119918	71.2	381.0	0.97	KEF54842.1
+accF	255	41.1	GCA_036872695.1	Exophiala oligosperma	60.6	335.0	0.97	KAK6381652.1
+accF	255	41.1	GCA_000259975.2	Fusarium oxysporum f. sp. lycopersici MN25	68.6	365.0	0.99	EWZ89323.1
+accF	255	41.1	GCA_003615165.1	Fusarium oxysporum	68.6	366.0	0.99	RKL08434.1
+accF	255	41.1	GCF_013085055.1	Fusarium oxysporum Fo47	68.6	366.0	0.99	XP_054558996.1
+accF	255	41.1	GCA_057673905.1	[Neocosmospora] sp. B6999-4	74.3	354.0	0.90	KAN8749009.1
+accF	255	41.1	GCA_057673865.1	[Neocosmospora] sp. B6999-4	74.3	354.0	0.90	KAN8738676.1
+accF	255	41.1	GCA_057675625.1	Fusarium rekanum	72.2	385.0	0.99	KAN9459386.1
+accF	255	41.1	GCA_057676005.1	Fusarium papillatum	72.3	378.0	0.97	KAN9614450.1
+accF	255	41.1	GCA_057674105.1	[Neocosmospora] sp. B6999-3	71.8	381.0	0.93	KAN8838961.1
+accF	255	41.1	GCA_057675685.1	Fusarium cf. solani	71.8	385.0	0.99	KAN9429916.1
+accF	255	41.1	GCA_003615155.1	Fusarium oxysporum	68.6	366.0	0.99	RKL08606.1
+accF	255	41.1	GCA_000271705.2	Fusarium oxysporum Fo47	68.6	366.0	0.99	EWZ49220.1
+accF	255	41.1	GCA_023101225.1	Fusarium solani-melongenae	72.7	392.0	0.97	UPK93551.1
+accF	255	41.1	GCA_054098455.1	Fusarium oxysporum	68.6	366.0	0.99	KAM5385843.1
+accF	255	41.1	GCA_057675185.1	Fusarium oligoseptatum	72.2	387.0	0.97	KAN9199021.1
+accF	255	41.1	GCA_002022785.1	Trichoderma guizhouense	70.6	392.0	0.96	OPB36140.1
+accF	255	41.1	GCA_057675065.1	Fusarium cf. solani	72.2	385.0	0.99	KAN9135379.1
+accF	255	41.1	GCF_000709125.1	Exophiala aquamarina CBS 119918	71.2	381.0	0.97	XP_013257432.1
+accF	255	41.1	GCA_057674185.1	[Neocosmospora] sp. B6999-1	72.6	350.0	0.90	KAN8919276.1
+accF	255	41.1	GCA_057674785.1	Fusarium mekan	71.8	384.0	0.99	KAN9310224.1
+accF	255	41.1	GCA_003615095.1	Fusarium oxysporum f. sp. cepae	68.6	366.0	0.99	RKK34664.1
+accF	255	41.1	GCA_003615185.1	Fusarium oxysporum	68.6	366.0	0.99	RKL31000.1
+accF	255	41.1	GCA_057675765.1	Fusarium cf. solani	72.9	389.0	0.99	KAN9522263.1
+accF	255	41.1	GCA_057675525.1	Fusarium euwallaceae	71.8	386.0	0.99	KAN9393442.1
+accF	255	41.1	GCA_057676225.1	Fusarium ambrosium	71.8	385.0	0.96	KAN9691512.1
+accF	255	41.1	GCA_057675985.1	Fusarium kuroshium	72.8	380.0	0.97	KAN9575343.1
+accF	255	41.1	GCA_057674295.1	[Neocosmospora] sp. B6999-1	72.6	350.0	0.90	KAN8939498.1
+accF	255	41.1	GCA_003947015.1	Fusarium sp. AF-6	72.2	385.0	0.99	RSL59627.1
+accF	255	41.1	GCA_057676085.1	Fusarium drepaniforme	72.3	384.0	0.97	KAN9682279.1
+accF	255	41.1	GCF_035927105.1	Exophiala bonariae	68.9	369.0	0.99	XP_064703894.1
+accF	255	41.1	GCA_057675105.1	Fusarium tuaranense	71.8	384.0	0.99	KAN9100397.1
+accF	255	41.1	GCA_003946995.1	Fusarium oligoseptatum	72.2	386.0	0.99	RSL85086.1
+accF	255	41.1	GCA_003369665.1	Coleophoma cylindrospora	72.3	400.0	1.00	RDW75394.1
+accF	255	41.1	GCA_057674645.1	Fusarium duplospermum	70.3	371.0	0.99	KAN9013758.1
+accF	255	41.1	GCA_052569925.1	Verticillium albo-atrum	70.1	382.0	0.99	KAM0324764.1
+accF	255	41.1	GCF_000340215.1	Pseudocercospora fijiensis CIRAD86	68.2	357.0	0.95	XP_007922885.1
+accF	255	41.1	GCA_001702695.2	Fusarium oxysporum f. sp. radicis-cucumerinum	68.4	362.0	0.98	PCD44722.1
+accF	255	41.1	GCA_057674765.1	Fusarium cf. solani	72.2	385.0	0.99	KAN9061049.1
+accF	255	41.1	GCA_057674905.1	Fusarium akasia	72.3	380.0	0.97	KAN9335159.1
+accF	255	41.1	GCA_013364935.1	Fusarium anthophilum	66.3	353.0	0.99	KAF5254140.1
+accF	255	41.1	GCA_035927105.1	Exophiala bonariae	68.9	369.0	0.99	KAK5048535.1
+accF	255	41.1	GCA_057675645.1	Fusarium cf. solani	71.8	385.0	0.99	KAN9488325.1
+accF	255	41.1	GCA_057674965.1	Fusarium euwallaceae	71.8	386.0	0.99	KAN9390084.1
+accF	255	41.1	GCA_057675605.1	Fusarium rekanum	72.2	385.0	0.99	KAN9452754.1
+accF	255	41.1	GCA_057673805.1	[Neocosmospora] sp. B6999-4	74.3	354.0	0.90	KAN8791240.1
+accF	255	41.1	GCA_057673975.1	[Neocosmospora] sp. B6999-4	74.3	354.0	0.90	KAN8802084.1
+accF	255	41.1	GCA_055768845.1	Penicillium antarcticum	74.7	400.0	0.98	KAN0806001.1
+cucumopine_synthase-related_pr	128	46.0	GCA_029378385.1	Mycena metata	62.4	397.0	0.91	KAJ7770518.1
+cucumopine_synthase-related_pr	128	46.0	GCA_006981975.1	Cordyceps javanica	67.9	163.0	0.60	TQW04574.1
+NAD/NADP_octopine/nopaline_deh	371	24.9	GCA_028826755.1	Penicillium angulare	50.7	330.0	0.96	KAJ5107178.1
+odh	154	24.6	GCA_028826755.1	Penicillium angulare	50.7	330.0	0.96	KAJ5107178.1
+merP	33	38.2	GCA_011764265.1	Rhizopus arrhizus	58.6	80.1	0.74	KAG1202928.1
+merP	33	38.2	GCA_011764025.1	Rhizopus arrhizus	59.6	70.5	0.63	KAG1276064.1
+ssuC	16	39.5	GCA_001593125.1	Rhizophagus irregularis	56.5	238.0	0.80	PKC51265.1

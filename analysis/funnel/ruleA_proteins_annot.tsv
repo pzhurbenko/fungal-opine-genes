@@ -1,0 +1,63 @@
+protein	gca	organism	own_class	own_order	gene	pident_seed	cov_seed	o_bact_org	o_bact_pid	o_bact_bits	o_fung_org	o_fung_bits	o_top50_bact	o_h	n_fung_genera_all	tdna_bits	tdna_pid	tdna_acc	tdna_gene_pl	plother_bits	plother_pid	plother_acc	plother_prod	ratio_tdna	ratio_plother	genus
+CAC19749.1	GCA_000002945.3	Schizosaccharomyces pombe	Schizosaccharomycetes	Schizosaccharomycetales	sus	25.9	0.536	Halomonas anticariensis	54.2	322.0			50	322.0	1											Schizosaccharomyces
+EEB09509.1	GCA_000149845.2	Schizosaccharomyces japonicus yFS275	Schizosaccharomycetes	Schizosaccharomycetales	sus	29.7	0.531	Halomonas sp. LBP4	56.9	344.0			50	344.0	1											Schizosaccharomyces
+KNB14377.1	GCA_000149955.2	Fusarium oxysporum f. sp. lycopersici 4287	Sordariomycetes	Hypocreales	chs	46.9	0.713	Agrobacterium vitis	47.2	266.0			50	266.0	2											Fusarium
+EEU41297.1	GCA_000151355.1	Fusarium vanettenii 77-13-4	Sordariomycetes	Hypocreales	chs	60.2	0.943	Agrobacterium larrymoorei	61.9	496.0			50	496.0	2	276.0	40.5	WP_080864006.1	-	298.0	43.3	WP_172690601.1	M24_family_metallopeptidase	0.56	0.6	Fusarium
+EWZ80709.1	GCA_000259975.2	Fusarium oxysporum f. sp. lycopersici MN25	Sordariomycetes	Hypocreales	chs	61.9	0.29	Agrobacterium larrymoorei	62.7	156.0			49	156.0	2											Fusarium
+EXL52446.1	GCA_000260155.3	Fusarium oxysporum f. sp. radicis-lycopersici 26381	Sordariomycetes	Hypocreales	chs	61.9	0.29	Agrobacterium larrymoorei	62.7	156.0			49	156.0	2											Fusarium
+EXK36477.1	GCA_000260495.2	Fusarium oxysporum f. sp. melonis 26406	Sordariomycetes	Hypocreales	chs	53.7	0.499	Agrobacterium vitis	53.7	213.0			50	213.0	2											Fusarium
+EWZ31120.1	GCA_000271705.2	Fusarium oxysporum Fo47	Sordariomycetes	Hypocreales	chs	61.9	0.29	Agrobacterium larrymoorei	62.7	156.0			49	156.0	2											Fusarium
+EWY82264.1	GCA_000271745.2	Fusarium oxysporum NRRL 32931	Sordariomycetes	Hypocreales	chs	54.2	0.499	Agrobacterium vitis	54.2	217.0			50	217.0	2											Fusarium
+ETS73999.1	GCA_000516985.1	Pestalotiopsis fici W106-1	Sordariomycetes	Amphisphaeriales	sus	29.9	0.92	Roseibium aggregatum	35.8	144.0			50	144.0	1											Pestalotiopsis
+KXN89159.1	GCA_001563735.1	Leucoagaricus sp. SymC.cos	Agaricomycetes	Agaricales	acs,acs_pKerr14a	30.1	0.912	Rhizobium	30.3	167.0	Chiua virens	103.0	50	64.0	12	150.0	29.7	WP_081344251.1	-	167.0	30.3	WP_234908531.1	glycerophosphodiester_phosphodiesterase_	0.9	1.0	Leucoagaricus
+KZZ90191.1	GCA_001636675.1	Moelleriella libera RCEF 2490	Sordariomycetes	Hypocreales	sus	23.9	0.65	Paraburkholderia aspalathi	25.3	83.2			50	83.2	1											Moelleriella
+KAF8736273.1	GCA_001691785.3	Amanita brunnescens Koide BX004	Agaricomycetes	Agaricales	cus	56.3	0.997	Labrys wisconsinensis	58.6	354.0	Butyriboletus roseoflavus	134.0	48	220.0	9					294.0	48.3	WP_233741845.1	cucumopine_synthase-related_protein		0.83	Amanita
+PCD24768.1	GCA_001702695.2	Fusarium oxysporum f. sp. radicis-cucumerinum	Sordariomycetes	Hypocreales	chs	61.9	0.29	Agrobacterium larrymoorei	62.7	157.0			49	157.0	2											Fusarium
+RKK51892.1	GCA_003615075.1	Fusarium oxysporum f. sp. cepae	Sordariomycetes	Hypocreales	chs	60.2	0.29	Agrobacterium larrymoorei	61.0	153.0			50	153.0	1											Fusarium
+RKK08570.1	GCA_003615085.1	Fusarium oxysporum f. sp. cepae	Sordariomycetes	Hypocreales	chs	60.2	0.29	Agrobacterium larrymoorei	61.0	153.0			50	153.0	1											Fusarium
+RKK49538.1	GCA_003615095.1	Fusarium oxysporum f. sp. cepae	Sordariomycetes	Hypocreales	chs	60.2	0.29	Agrobacterium larrymoorei	61.0	153.0			50	153.0	1											Fusarium
+RKL16097.1	GCA_003615155.1	Fusarium oxysporum	Sordariomycetes	Hypocreales	chs	61.9	0.29	Agrobacterium larrymoorei	62.7	157.0			49	157.0	2											Fusarium
+RKL01087.1	GCA_003615165.1	Fusarium oxysporum	Sordariomycetes	Hypocreales	chs	61.9	0.29	Agrobacterium larrymoorei	62.7	157.0			49	157.0	2											Fusarium
+RKL51690.1	GCA_003615185.1	Fusarium oxysporum	Sordariomycetes	Hypocreales	chs	61.0	0.29	Agrobacterium larrymoorei	61.9	153.0			50	153.0	1											Fusarium
+RYC87345.1	GCA_004141715.1	Fusarium oxysporum f. sp. narcissi	Sordariomycetes	Hypocreales	chs	60.2	0.29	Agrobacterium larrymoorei	61.0	153.0			50	153.0	1											Fusarium
+KAF4581365.1	GCA_012980535.1	Pleurotus pulmonarius	Agaricomycetes	Agaricales	acs,acs_pKerr14a	27.4	0.622	Ensifer sp. Root31	51.0	400.0	Lactarius pseudohatsudake	81.6	40	318.4	6											Pleurotus
+QKD61567.2	GCA_013085055.1	Fusarium oxysporum Fo47	Sordariomycetes	Hypocreales	chs	61.9	0.29	Agrobacterium larrymoorei	62.7	156.0			49	156.0	2											Fusarium
+KAF5258030.1	GCA_013363075.1	Fusarium oxysporum	Sordariomycetes	Hypocreales	chs	61.9	0.29	Agrobacterium larrymoorei	62.7	157.0			49	157.0	2											Fusarium
+KAF9232081.1	GCA_014904935.1	Melanogaster broomeanus	Agaricomycetes	Boletales	sus	41.5	0.497	Rhizobium rhizogenes	40.8	105.0			37	105.0	2											Melanogaster
+KAG6371153.1	GCA_018397855.1	Boletus reticuloceps	Agaricomycetes	Boletales	acs,acs_pKerr14a	31.9	0.808	Mesorhizobium sp. GbtcB19	64.8	414.0	Leucoagaricus sp. SymC.cos	90.9	48	323.1	4											Boletus
+KAG8213181.1	GCA_019364595.1	Butyriboletus roseoflavus	Agaricomycetes	Boletales	acs,acs_pKerr14a	28.5	0.822	Mesorhizobium sp. GbtcB19	57.5	362.0	Leucoagaricus sp. SymC.cos	73.6	50	288.4	3											Butyriboletus
+KAH7120428.1	GCA_020744375.1	Dactylonectria estremocensis	Sordariomycetes	Hypocreales	chs	44.0	0.978	Agrobacterium vitis	45.0	296.0			50	296.0	2	87.0	45.3	AAZ50422.1	ags	95.1	48.1	AAZ50432.1	AgcA	0.29	0.32	Dactylonectria
+KAH7466404.1	GCA_020796175.1	Fusarium oxysporum f. sp. matthiolae	Sordariomycetes	Hypocreales	chs	54.7	0.499	Agrobacterium vitis	54.7	223.0			50	223.0	2											Fusarium
+UPK93317.1	GCA_023101225.1	Fusarium solani-melongenae	Sordariomycetes	Hypocreales	chs	59.1	0.943	Agrobacterium larrymoorei	60.3	486.0			50	486.0	2	276.0	40.5	WP_080864006.1	-	307.0	44.4	WP_172690601.1	M24_family_metallopeptidase	0.57	0.63	Fusarium
+KAI3576115.1	GCA_023509805.1	Fusarium oxysporum f. sp. albedinis	Sordariomycetes	Hypocreales	chs	49.0	0.713	Agrobacterium vitis	49.0	283.0			50	283.0	2											Fusarium
+KAI8662381.1	GCA_025433565.1	Fusarium sp. Ph1	Sordariomycetes	Hypocreales	chs	59.9	0.943	Agrobacterium larrymoorei	61.3	494.0			50	494.0	2	283.0	41.3	WP_080864006.1	-	308.0	44.4	WP_172690601.1	M24_family_metallopeptidase	0.57	0.62	Fusarium
+KAJ0143367.1	GCA_026229875.1	Fusarium oxysporum f. sp. albedinis	Sordariomycetes	Hypocreales	chs	54.7	0.499	Agrobacterium vitis	54.7	223.0			50	223.0	2											Fusarium
+KAJ4123352.1	GCA_027945405.1	Fusarium oxysporum	Sordariomycetes	Hypocreales	chs	61.0	0.29	Agrobacterium larrymoorei	61.9	153.0			50	153.0	1											Fusarium
+KAJ4275658.1	GCA_027945555.1	Fusarium oxysporum	Sordariomycetes	Hypocreales	chs	61.0	0.29	Agrobacterium larrymoorei	61.9	153.0			50	153.0	1											Fusarium
+KAJ7039838.1	GCA_029233265.1	Mycena alexandri	Agaricomycetes	Agaricales	cus	61.7	0.968	Allorhizobium ampelinum	60.2	384.0	Butyriboletus roseoflavus	194.0	47	194.0	9					384.0	60.6	WP_012475927.1	cucumopine_synthase-related_protein		1.0	Mycena
+KAJ7289093.1	GCA_029282285.1	Mycena rebaudengoi	Agaricomycetes	Agaricales	cus	61.8	0.978	Allorhizobium ampelinum	60.9	381.0	Butyriboletus roseoflavus	200.0	47	182.0	5					380.0	60.6	WP_233741845.1	cucumopine_synthase-related_protein		1.0	Mycena
+KAJ7770518.1	GCA_029378385.1	Mycena metata	Agaricomycetes	Agaricales	cus	62.4	0.904	Allorhizobium ampelinum	62.7	398.0	Butyriboletus roseoflavus	194.0	48	204.0	11					397.0	62.4	WP_233741845.1	cucumopine_synthase-related_protein		1.0	Mycena
+KAJ9415499.1	GCA_030020275.1	Fusarium oxysporum	Sordariomycetes	Hypocreales	chs	50.3	0.713	Agrobacterium vitis	50.3	288.0			50	288.0	2											Fusarium
+KAK2472897.1	GCA_032206225.1	Fusarium oxysporum f. sp. albedinis	Sordariomycetes	Hypocreales	chs	49.0	0.713	Agrobacterium vitis	49.0	283.0			50	283.0	2											Fusarium
+KAL2315332.1	GCA_043157545.1	Schizosaccharomyces pombe	Schizosaccharomycetes	Schizosaccharomycetales	sus	25.4	0.536	Halomonas anticariensis	54.2	322.0			50	322.0	1											Schizosaccharomyces
+KAL4260645.1	GCA_047301645.1	Pleurotus pulmonarius	Agaricomycetes	Agaricales	acs,acs_pKerr14a	27.4	0.622	Ensifer sp. Root31	51.0	400.0	Lactarius pseudohatsudake	81.6	40	318.4	6											Pleurotus
+KAL6359175.1	GCA_050370095.1	Fusarium phalaenopsidis	Sordariomycetes	Hypocreales	chs	60.2	0.943	Agrobacterium larrymoorei	61.6	498.0			50	498.0	2	286.0	41.3	WP_080864006.1	-	312.0	44.6	WP_172690601.1	M24_family_metallopeptidase	0.57	0.63	Fusarium
+KAM5385907.1	GCA_054098455.1	Fusarium oxysporum	Sordariomycetes	Hypocreales	chs	61.0	0.29	Agrobacterium larrymoorei	61.9	153.0			50	153.0	1											Fusarium
+KAM5380328.1	GCA_054098485.1	Fusarium nematophilum	Sordariomycetes	Hypocreales	chs	60.2	0.939	Agrobacterium larrymoorei	62.9	491.0			50	491.0	2	270.0	40.3	AAZ50422.1	ags	301.0	44.4	AAZ50432.1	AgcA	0.55	0.61	Fusarium
+KAM5345661.1	GCA_054098565.1	Fusarium nematophilum	Sordariomycetes	Hypocreales	chs	60.2	0.939	Agrobacterium larrymoorei	62.9	491.0			50	491.0	2	270.0	40.3	AAZ50422.1	ags	301.0	44.4	AAZ50432.1	AgcA	0.55	0.61	Fusarium
+KAO1061018.1	GCA_058411305.1	Hebeloma velutipes	Agaricomycetes	Agaricales	cus	56.1	0.924	Allorhizobium ampelinum	56.4	381.0	Butyriboletus roseoflavus	189.0	49	192.0	14					380.0	56.1	WP_233741845.1	cucumopine_synthase-related_protein		1.0	Hebeloma
+CAL9735043.1	GCA_964275055.1	Monosporozyma servazzii	Saccharomycetes	Saccharomycetales	cus	57.4	1.0	Devosia sp. YIM 151766	54.9	347.0	Mycena alexandri	268.0	48	102.0	4					282.0	47.0	WP_071208191.1	cucumopine_synthase-related_protein		0.81	Monosporozyma
+CAN6596920.1	GCA_965637995.1	Schizosaccharomyces pombe	Schizosaccharomycetes	Schizosaccharomycetales	sus	26.5	0.536	Halomonas anticariensis	54.2	321.0			50	321.0	1											Schizosaccharomyces
+NP_593514.1	GCF_000002945.2	Schizosaccharomyces pombe	Schizosaccharomycetes	Schizosaccharomycetales	sus	25.9	0.536	Halomonas anticariensis	54.2	322.0			50	322.0	1											Schizosaccharomyces
+XP_018252422.1	GCF_000149955.1	Fusarium oxysporum f. sp. lycopersici 4287	Sordariomycetes	Hypocreales	chs	46.9	0.713	Agrobacterium vitis	47.2	266.0			50	266.0	2											Fusarium
+XP_031031182.1	GCF_000271745.1	Fusarium oxysporum NRRL 32931	Sordariomycetes	Hypocreales	chs	54.2	0.499	Agrobacterium vitis	54.2	217.0			50	217.0	2											Fusarium
+BEJ12881.1	GCA_030864385.1	Cutaneotrichosporon sp. HIS471	Tremellomycetes	Trichosporonales	mas1	35.3	0.416	Xanthomonadaceae bacterium	63.7	315.0			50	315.0	1					120.0	31.9	WP_010892423.1	SDR_family_NAD(P)-dependent_oxidoreducta		0.38	Cutaneotrichosporon
+OXV05108.1	GCA_002240705.1	Elaphomyces granulatus	Eurotiomycetes	Eurotiales	mas1	28.0	0.437	Ignavibacteria bacterium	75.3	379.0			49	379.0	1					81.6	31.8	WP_234908793.1	SDR_family_NAD(P)-dependent_oxidoreducta		0.22	Elaphomyces
+KPA35696.1	GCA_001292635.1	Fusarium langsethiae	Sordariomycetes	Hypocreales	ocs	21.8	0.749	Agrobacterium larrymoorei	79.1	462.0	Sporormia fimetaria CBS 119925	205.0	49	257.0	98											Fusarium
+KAG8213183.1	GCA_019364595.1	Butyriboletus roseoflavus	Agaricomycetes	Boletales	nos	40.0	0.67	Agrobacterium tumefaciens	39.1	185.0	Rhypophila decipiens	111.0	42	74.0	18	180.0	40.0	WP_070167540.1	nos					0.97		Butyriboletus
+KAM7187585.1	GCA_054392455.1	Rhypophila sp. PSN 637	Sordariomycetes	Sordariales	nos	36.0	0.939	Agrobacterium tumefaciens	39.5	228.0	Butyriboletus roseoflavus	129.0	45	99.0	64											Rhypophila
+KAM7213959.1	GCA_054392445.1	Rhypophila decipiens	Sordariomycetes	Sordariales	nos	34.3	0.823	Agrobacterium vitis	34.3	174.0	Butyriboletus roseoflavus	106.0	49	68.0	24											Rhypophila
+KAK4208163.1	GCA_033297075.1	Rhypophila decipiens	Sordariomycetes	Sordariales	nos	33.3	0.918	Sinorhizobium meliloti	33.9	189.0	Butyriboletus roseoflavus	114.0	49	75.0	24											Rhypophila
+GKU08709.1	GCA_022180345.1	Fusarium langsethiae	Sordariomycetes	Hypocreales	nos	25.2	0.687	Agrobacterium larrymoorei	78.0	517.0	Sporormia fimetaria CBS 119925	249.0	47	268.0	97											Fusarium
+KAG1458480.1	GCA_011764185.1	Rhizopus arrhizus	Mucoromycetes	Mucorales	vis	29.9	0.603	Luminiphilus sp.	60.8	475.0			50	475.0	1											Rhizopus
+WWD22210.1	GCA_008629635.2	Kwoniella shandongensis	Tremellomycetes	Tremellales	vis	22.3	0.953	Bosea sp. (in: a-proteobacteria)	42.5	265.0	Penicillium capsulatum	199.0	41	66.0	3	178.0	31.4	AAZ50410.1	lecE	184.0	34.2	UXT45039.1	NAD(P)-binding_domain-containing_protein	0.67	0.69	Kwoniella

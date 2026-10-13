@@ -1,0 +1,4 @@
+assembly	organism	assembly_carries_lineage	contig	contig_length_bp	contig_carries_lineage_locus	start	end	strand	gene_class	best_plasmid_protein	identity_pct	query_coverage
+GCA_038093235.1	Boletus harrisonii	yes	JBBPRV010018860.1	368	no	2	64	-	tra (conjugal transfer)	conjugal transfer protein TrbE (Martinezella rhizogenes, WP_010900316.1)	85.7	0.03
+GCA_038093235.1	Boletus harrisonii	yes	JBBPRV010018860.1	368	no	79	366	-	tra (conjugal transfer)	trbD (Agrobacterium tumefaciens, AAB95096.1)	89.6	0.97
+GCA_051942495.1	Pisolithus albus	no	JBPZPH010001517.1	488	no	2	451	-	tra (conjugal transfer)	TraH family protein (Martinezella rhizogenes, WP_010900304.1)	61.3	0.74

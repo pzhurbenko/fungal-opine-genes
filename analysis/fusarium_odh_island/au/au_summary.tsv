@@ -1,0 +1,10 @@
+hypothesis	description	logL	deltaL	bp-RELL	p-KH	p-SH	c-ELW	p-AU	verdict_AU_0.05
+ML	unconstrained ML tree (Q.PFAM+G4)	-18472.59297	0.00035445	0.492	0.439	0.955	0.497	1	not rejected
+H1_isl_native	ISL monophyletic with all native fungal ODH (fungal gene)	-18777.60561	305.01	0	0	0	1.81e-92	3.52e-06	rejected
+H1b_isl_sordario	ISL + native Sordariomycetes ODH (Apiospora, Astrocystis): vertical-inheritance expectation for Fusarium	-18939.36393	466.77	0	0	0	8.98e-151	0.000401	rejected
+H1c_native_only	control: native fungal ODH monophyletic (without ISL)	-18509.12877	36.536	0.0065	0.0086	0.346	0.00578	0.00644	rejected
+H2_isl_tdna	ISL inside ML T-DNA clade (seeds ocs/nos/vis + Rhypophila/Butyriboletus + larrymoorei WP_309770762)	-18597.59921	125.01	0	0	0.0005	1.27e-23	2.48e-58	rejected
+H2s_isl_seeds	strict: ISL + T-DNA seeds ocs/nos/vis only	-18739.58608	266.99	0	0	0	5.7e-76	3.47e-57	rejected
+H3_isl_larry	control: ISL + A. larrymoorei WP_309770759 (ML clade)	-18472.59261	0	0.502	0.561	1	0.497	1	not rejected
+H4_isl_bact	ISL + all other bacterial ODH, excluding both A. larrymoorei ODH	-18755.94924	283.36	0	0	0	2.44e-80	2.11e-07	rejected
+H5_isl_nos	ISL inside nos subfamily (nos seeds P00386 + Gillisella; no rhizobial NOSLIKE leaves in set)	-18666.64698	194.05	0	0	0	6.07e-47	1.41e-51	rejected

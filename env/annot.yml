@@ -1,0 +1,17 @@
+name: annot
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - augustus
+  - bedtools
+  - diamond
+  - entrez-direct
+  - miniprot
+  - ncbi-datasets-cli
+  - samtools
+  - seqkit
+  - biopython
+  - hmmer
+  - mafft
+  - pyyaml

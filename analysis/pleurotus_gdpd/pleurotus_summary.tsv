@@ -1,0 +1,58 @@
+Assembly Accession	Organism Name	Assembly Stats Total Sequence Length	Assembly Stats GC Percent	Assembly Stats Contig N50	Assembly Sequencing Tech	Annotation Name
+GCA_017312325.1	Pleurotus citrinopileatus	38586867	49.5	2853238	PacBio RS II	
+GCA_003314595.1	Pleurotus citrinopileatus	36840090	49.5	7719	Complete Genomics	
+GCA_019677325.2	Pleurotus cornucopiae	32382086	51	215546	Illumina	Annotation submitted by Institute of Agricultural Resources and Regional Planning
+GCA_058321295.1	Pleurotus cystidiosus	42738932	48	3297171	PacBio Sequel	
+GCA_059927705.1	Pleurotus djamor	82450080	50	2415400	PacBio Vega	Annotation submitted by Justus Liebig University
+GCA_029747585.1	Pleurotus djamor	62543681	50	51933	IonTorrent	Annotation submitted by TU Dresden - IHI Zittau
+GCA_049864135.1	Pleurotus djamor	53961230	49	8924	Illumina NovaSeq	
+GCA_980434285.1	Pleurotus eryngii	48997223	49.5	1935490	PacBio,Arima2	
+GCA_001717165.1	Pleurotus eryngii	43779707	49.5	391497	Illumina HiSeq; PacBio	
+GCA_003243765.1	Pleurotus eryngii	49917831	49.5	562808	PacBio	
+GCA_003314755.1	Pleurotus eryngii	174580441	46.5	4091	Complete Genomics	
+GCA_015484515.1	Pleurotus eryngii	44606964	49.5	87948	Illumina	Annotation submitted by DOE Joint Genome Institute
+GCA_058969995.1	Pleurotus eryngii	48151240	49.5	3034737	Oxford Nanopore	
+GCA_980434565.1	Pleurotus eryngii	51479285	49.5	557571	PacBio,Arima2	
+GCA_029874175.1	Pleurotus eryngii var. elaeoselini	51138829	49.5	2983285	PacBio Sequel	
+GCA_029467805.1	Pleurotus eryngii var. eryngii	53459950	49.5	3172794	PacBio Sequel	
+GCA_029467795.1	Pleurotus eryngii var. ferulae	47996066	50	2342731	PacBio Sequel	
+GCA_019395345.1	Pleurotus floridanus	35078781	51	186309	Illumina HiSeq	
+GCA_032158425.1	Pleurotus giganteus	40070066	50.5	2887167	PacBio Sequel	
+GCA_036873075.1	Pleurotus giganteus	40035591	50.5	2610276	PacBio	
+GCA_062009909.1	Pleurotus nebrodensis	49435747	50	2542736	PacBio Sequel	
+GCA_005298045.1	Pleurotus ostreatoroseus	38588587	52.5	180995	Illumina HiSeq	Annotation submitted by Amazonian macromicets: knowing their diversity and evaluating their biotechnological potential in a sustainable way
+GCF_014466165.1	Pleurotus ostreatus	34897228	51	3500734	PacBio; Illumina	Annotation submitted by Academia Sinica
+GCA_001956935.2	Pleurotus ostreatus	35093820	51	161984	Illumina	
+GCA_003313235.2	Pleurotus ostreatus	34364324	51	295689	Illumina	
+GCA_014466165.1	Pleurotus ostreatus	34897228	51	3500734	PacBio; Illumina	Annotation submitted by Academia Sinica
+GCA_024195665.1	Pleurotus ostreatus	79672774	51	365186	Illumina HiSeq; Oxford Nanopore	
+GCA_029852705.2	Pleurotus ostreatus	35312784	51	3339398	Nanopore	Annotation submitted by Academia Sinica
+GCA_051307915.1	Pleurotus ostreatus	40546978	51	3609302	Illumina; PacBio	
+GCA_056149245.1	Pleurotus ostreatus	41381052	51	3182393	Oxford Nanopore MinION	Annotation submitted by Academia Sinica
+GCA_056149315.1	Pleurotus ostreatus	43533482	51	3270683	Oxford Nanopore MinION	Annotation submitted by Academia Sinica
+GCA_947034855.1	Pleurotus ostreatus	40554023	51.5	4316464	PacBio,Arima2	
+GCA_947034875.1	Pleurotus ostreatus	40820812	51	1811266	PacBio,Arima2	
+GCA_000697685.1	Pleurotus ostreatus PC15	34342730	51	3270165	Sanger dideoxy sequencing	Annotation submitted by JGI
+GCA_058321315.1	Pleurotus placentodes	36124202	49	3744731	PacBio Sequel	
+GCA_003313735.1	Pleurotus platypus	39966270	51	59239	Complete Genomics	
+GCA_057657895.1	Pleurotus pulmonarius	40306054	51	3332494	PacBio	
+GCA_012979565.1	Pleurotus pulmonarius	42552915	51	3242126	PacBio	Annotation submitted by Academia Sinica
+GCA_012980525.1	Pleurotus pulmonarius	39235597	51	3175356	PacBio	Annotation submitted by Academia Sinica
+GCA_012980535.1	Pleurotus pulmonarius	39866212	51	3374720	PacBio	Annotation submitted by Academia Sinica
+GCA_032158505.1	Pleurotus pulmonarius	42323363	51	2663750	PacBio RSII	
+GCA_047301645.1	Pleurotus pulmonarius	41109462	51	33248	Illumina NovaSeq	Annotation submitted by National Technical University of Athens
+GCA_057657855.1	Pleurotus pulmonarius	39882895	51	3291763	PacBio	
+GCA_002583695.1	Pleurotus salmoneostramineus	39193168	50	104923	Illumina NextSeq 500	
+GCA_001742905.1	Pleurotus salmoneostramineus	65897893	50	4512	NextSeq 500	
+GCA_002933715.1	Pleurotus salmoneostramineus	39773967	50	102947	Illumina NextSeq 500	
+GCA_054785465.1	Pleurotus salmoneostramineus	39539071	50	28090	NextSeq 500	
+GCA_054785515.1	Pleurotus salmoneostramineus	38233279	50	92180	NextSeq 500	
+GCA_026743855.1	Pleurotus sapidus	46879574	51	1656594	Illumina; PacBio	
+GCA_014058305.1	Pleurotus tuber-regium	35822125	47.5	2556151	PacBio Sequel	
+GCA_003314355.1	Pleurotus tuber-regium	33563622	47.5	55887	Illumina HiSeq	
+GCA_019693315.1	Pleurotus tuber-regium	39435318	47.5	1181580	PacBio	
+GCA_036872985.1	Pleurotus tuoliensis	43778493	50.5	3877685	Nanopore	
+GCA_002847145.1	Pleurotus tuoliensis	41087772	50	51043	Illumina HiSeq	
+GCA_003243755.1	Pleurotus tuoliensis	48227411	50	1168774	PacBio	
+GCA_003313115.1	Pleurotus tuoliensis	43502073	50	15963	Complete Genomics	
+GCA_029874165.1	Pleurotus tuoliensis	43331340	50	2450071	PacBio Sequel	

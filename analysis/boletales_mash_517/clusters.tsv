@@ -1,0 +1,359 @@
+cluster_id	cluster_name	n_genomes	genomes	ncbi_names	name_conflict	SUS:sus	ACS:gdpd_meso	ACS:acs	CUS:cus	CUS:mis	CUS:cus_actinobacteria	CUS:cusrel181	CUS:rcorf12	ORF358:orf358
+C001	Leccinum cinnamomeum	20	GCA_038090755.1;GCA_038090835.1;GCA_038091515.1;GCA_038091535.1;GCA_038091655.1;GCA_038091735.1;GCA_038091775.1;GCA_038091815.1;GCA_038091835.1;GCA_038091875.1;GCA_038091885.1;GCA_038091935.1;GCA_038091955.1;GCA_038092075.1;GCA_038092095.1;GCA_038092135.1;GCA_038092155.1;GCA_038092195.1;GCA_038092215.1;GCA_038092315.1	Leccinum ambiguum;Leccinum barrowsii;Leccinum broughii;Leccinum cinnamomeum;Leccinum colubrinum;Leccinum discolor;Leccinum fuscescens;Leccinum imitatum;Leccinum insigne;Leccinum insolens;Leccinum laetum;Leccinum obscurum;Leccinum ochraceum;Leccinum olivaceopallidum;Leccinum pellstonianum;Leccinum pseudoinsigne;Leccinum subrobustum;Leccinum subspadiceum;Leccinum truebloodii										
+C002	Buchwaldoboletus xylophilus	18	GCA_054960005.1;GCA_058127325.1;GCA_058127345.1;GCA_058127365.1;GCA_058127385.1;GCA_058127405.1;GCA_058127425.1;GCA_058127445.1;GCA_058127465.1;GCA_058127485.1;GCA_058127505.1;GCA_058127525.1;GCA_058127545.1;GCA_058127565.1;GCA_058127585.1;GCA_058127605.1;GCA_058127655.1;GCA_058129735.1	Buchwaldoboletus xylophilus										
+C003	Leccinum aurantiacum	14	GCA_038090595.1;GCA_038090775.1;GCA_038090855.1;GCA_038090875.1;GCA_038091095.1;GCA_038091135.1;GCA_038091475.1;GCA_038091495.1;GCA_038091555.1;GCA_038091615.1;GCA_038091715.1;GCA_038092255.1;GCA_038092275.1;GCA_038092295.1	Leccinum arenicola;Leccinum aurantiacum;Leccinum clavatum;Leccinum fallax;Leccinum fibrillosum;Leccinum idahoense;Leccinum incarnatum;Leccinum ponderosum;Leccinum solheimii;Leccinum subfulvum;Leccinum sublutescens;Leccinum subtestaceum										
+C004	Boletus mariae	8	GCA_038092435.1;GCA_038092475.1;GCA_038092495.1;GCA_038092635.1;GCA_038092995.1;GCA_038093035.1;GCA_038093055.1;GCA_038093375.1	Boletus mariae;Boletus nancyae;Boletus tomentosulus;Xerocomus brunneocitrinus;Xerocomus ferrugineus;Xerocomus minutiporus;Xerocomus subpalustris;Xerocomus subtomentosus	yes									
+C005	Rhizopogon vinicolor	7	GCA_001658105.1;GCA_002994825.1;GCA_002995065.1;GCA_002995275.1;GCA_002995375.1;GCA_002995395.1;GCA_002995415.1	Rhizopogon vinicolor				intact,pseudogene_like						
+C006	Rhizopogon rudus	7	GCA_002994895.1;GCA_002995055.1;GCA_002995175.1;GCA_002995195.1;GCA_002995215.1;GCA_002995335.1;GCA_002995355.1	Rhizopogon rudus				fragment,intact,pseudogene_like						
+C007	Butyriboletus roseoflavus	5	GCA_003315995.1;GCA_003316055.1;GCA_003316065.1;GCA_019096195.1;GCA_019364595.1	Boletus sp. NGJ;Boletus speciosus;Butyriboletus roseoflavus;Retiboletus ornatipes	yes	fragment,intact	pseudogene_like	intact,pseudogene_like	intact,pseudogene_like	fragment,intact,pseudogene_like				fragment,remnant
+C008	Serpula lacrymans var. lacrymans	4	GCA_000218685.1;GCA_000218725.1;GCA_002891375.1;GCA_015708795.1	Serpula lacrymans var. lacrymans;Serpula lacrymans var. lacrymans S7.3;Serpula lacrymans var. lacrymans S7.9										
+C009	Rhizopogon vesiculosus	4	GCA_001882365.1;GCA_002995015.1;GCA_002995115.1;GCA_002995245.1	Rhizopogon vesiculosus				intact,pseudogene_like						
+C010	Rhizopogon hawkerae	4	GCA_002994995.1;GCA_002995035.1;GCA_002995095.1;GCA_002995235.1	Rhizopogon hawkerae;Rhizopogon sp. AM-2018a				intact,pseudogene_like						
+C011	Pulveroboletus frians	4	GCA_038089395.1;GCA_038090515.1;GCA_038093695.1;GCA_038094035.1	Pulveroboletus aff. ridleyi;Pulveroboletus cf. viridisquamosus;Pulveroboletus frians										
+C012	Boletus vermiculosoides	4	GCA_038090995.1;GCA_038091015.1;GCA_038092375.1;GCA_038092555.1	Boletus subgraveolens;Boletus vermiculosoides;Boletus vermiculosus										
+C013	Leccinum angustisporum	4	GCA_038091055.1;GCA_038091435.1;GCA_038091675.1;GCA_038091995.1	Leccinum angustisporum;Leccinum holopus;Leccinum proliferum;Leccinum variabile				fragment,intact						
+C014	Leccinum disarticulatum	4	GCA_038091395.1;GCA_038091695.1;GCA_038091795.1;GCA_038092035.1	Leccinum disarticulatum;Leccinum olivaceoglutinosum;Leccinum proximum;Leccinum rimulosum				intact						
+C015	extra	3	GCA_014925795.1;GCA_015179015.1;GCA_054741165.1											
+C016	Boletus edulis	3	GCA_022837065.1;GCA_038093215.1;GCA_038093335.1	Boletus chippewaensis;Boletus edulis				intact		pseudogene_like				
+C017	Pisolithus croceorrhizus	3	GCA_024663415.1;GCA_024663475.1;GCA_024663515.1	Pisolithus croceorrhizus;Pisolithus thermaeus										
+C018	Scleroderma citrinum	3	GCA_029372045.1;GCA_046718465.1;GCA_046718565.1	Scleroderma citrinum;Scleroderma yunnanense										
+C019	Xanthoconium separans	3	GCA_038088675.1;GCA_038089695.1;GCA_038092835.1	Boletus pseudoseparans;Xanthoconium separans	yes									
+C020	Boletus variipes	3	GCA_038088715.1;GCA_038092395.1;GCA_038093095.1	Boletus insuetus;Boletus variipes			pseudogene_like		intact,pseudogene_like	pseudogene_like				
+C021	Caloboletus firmus	3	GCA_038089415.1;GCA_038092855.1;GCA_038094755.1	Boletus piedmontensis;Caloboletus firmus	yes									
+C022	Tylopilus intermedius	3	GCA_038091235.1;GCA_038091255.1;GCA_038093275.1	Tylopilus intermedius;Tylopilus rubrobrunneus										
+C023	Leccinum griseonigrum	3	GCA_038091455.1;GCA_038091915.1;GCA_038092015.1	Leccinum griseonigrum;Leccinum huronense;Leccinum uliginosum										
+C024	Leccinum glutinopallens	3	GCA_038091755.1;GCA_038092055.1;GCA_038092175.1	Boletus coffeatus;Leccinum glutinopallens;Leccinum pallidistipes	yes		fragment	pseudogene_like						
+C025	Boletus roseobadius	3	GCA_038092575.1;GCA_038092675.1;GCA_038092935.1	Boletus roseobadius;Boletus rufocinnamomeus;Boletus subluridellus										
+C026	Tylopilus aff. striatulus	3	GCA_038094335.1;GCA_041722735.1;GCA_041722875.1	Tylopilus aff. striatulus;Tylopilus sp. UT-M0000018;Tylopilus sp. UT-M0000375										
+C027	Phlebopus portentosus	2	GCA_000766925.2;GCA_020232755.1	Phlebopus portentosus										
+C028	Pisolithus microcarpus	2	GCA_000827275.1;GCA_024613185.1	Pisolithus microcarpus;Pisolithus microcarpus 441										
+C029	Pisolithus tinctorius	2	GCA_000827335.1;GCA_024663395.1	Pisolithus tinctorius;Pisolithus tinctorius Marx 270										
+C030	Rhizopogon parksii	2	GCA_002994865.1;GCA_002995155.1	Rhizopogon parksii				intact						
+C031	Rhizopogon sp. AM-2018a	2	GCA_002994955.1;GCA_002995135.1	Rhizopogon sp. AM-2018a				pseudogene_like						
+C032	Suillus placidus	2	GCA_003313645.1;GCA_003313855.1	Suillus placidus;Suillus sp. MG131										
+C033	Butyriboletus pseudospeciosus	2	GCA_003316085.1;GCA_038093775.1	Butyriboletus pseudospeciosus;Caloboletus calopus	yes									
+C034	Neoboletus brunneissimus	2	GCA_003316195.1;GCA_038093815.1	Neoboletus brunneissimus;Neoboletus cf. brunneissimus										
+C035	Boletus bicolor	2	GCA_003316205.1;GCA_020310465.1	Boletus bicolor;Lanmaoa asiatica	yes									
+C036	Tylopilus microsporus	2	GCA_003316375.1;GCA_038093755.1	Tylopilus microsporus;Tylopilus plumbeoviolaceoides										
+C037	Chiua virens	2	GCA_003316485.1;GCA_019787685.1	Chiua virens				intact						
+C038	Imleria badia	2	GCA_015039435.1;GCA_038089655.1	Imleria badia						intact		fragment		
+C039	Suillus bovinus	2	GCA_016758785.1;GCA_046055875.1	Suillus bovinus										
+C040	Pisolithus albus	2	GCA_024509395.1;GCA_051942495.1	Pisolithus albus										
+C041	Boletus rex-veris	2	GCA_038088615.1;GCA_038088795.1	Boletus rex-veris		fragment,pseudogene_like	pseudogene_like	fragment		pseudogene_like		fragment		
+C042	Tylopilus aff. balloui	2	GCA_038088655.1;GCA_038094495.1	Tylopilus aff. balloui										
+C043	Leccinum variicolor	2	GCA_038089635.1;GCA_038091415.1	Leccinum variicolor										
+C044	Hemileccinum hortonii	2	GCA_038090055.1;GCA_038091035.1	Hemileccinum hortonii										
+C045	Austroboletus eburneus	2	GCA_038090175.1;GCA_038090255.1	Austroboletus eburneus;Austroboletus niveus										
+C046	Harrya chromipes	2	GCA_038090215.1;GCA_038091155.1	Harrya chromipes										
+C047	Heimioporus aff. retisporus	2	GCA_038090495.1;GCA_038094615.1	Heimioporus aff. retisporus;Heimioporus retisporus										
+C048	Boletus aff. mottiae	2	GCA_038090555.1;GCA_038093895.1	Boletus aff. mottiae;Boletus subcaerulescens			fragment	intact,pseudogene_like		pseudogene_like		fragment		
+C049	Boletus harrisonii	2	GCA_038090935.1;GCA_038093235.1	Boletus harrisonii;Hortiboletus campestris	yes			remnant		intact				
+C050	Phylloporus rhodoxanthus	2	GCA_038091075.1;GCA_038091195.1	Phylloporus rhodoxanthus				intact						
+C051	Boletus vinaceobasis	2	GCA_038091115.1;GCA_038092335.1	Boletus vinaceobasis;Rubroboletus rhodosanguineus	yes									
+C052	Tylopilus felleus	2	GCA_038091295.1;GCA_054948845.1	Tylopilus felleus				intact						
+C053	Leccinum snellii	2	GCA_038091575.1;GCA_038091635.1	Leccinum snellii;Leccinum subgranulosum										
+C054	Boletus patriciae	2	GCA_038092595.1;GCA_038093075.1	Boletus patriciae;Boletus subdepauperatus										
+C055	Boletus hoseneyae	2	GCA_038092615.1;GCA_038093175.1	Boletus hoseneyae;Boletus sphaerocystis						intact				
+C056	Boletus sensibilis	2	GCA_038092655.1;GCA_038093015.1	Boletus sensibilis;Lanmaoa miniatopallescens	yes									
+C057	Chalciporus pseudorubinellus	2	GCA_038092735.1;GCA_038092895.1	Chalciporus pseudorubinellus;Chalciporus rubritubifer				fragment,pseudogene_like						
+C058	Hortiboletus flavorubellus	2	GCA_038092815.1;GCA_038093115.1	Hortiboletus flavorubellus;Hortiboletus rubellus										
+C059	Lanmaoa carminipes	2	GCA_038092875.1;GCA_038093455.1	Lanmaoa carminipes;Lanmaoa pseudosensibilis										
+C060	Baorangia bicolor	2	GCA_038093395.1;GCA_038093465.1	Baorangia bicolor;Boletus bicolor var. subreticulatus	yes									
+C061	Tylopilus aff. balloui	2	GCA_038093435.1;GCA_038093495.1	Tylopilus aff. balloui										
+C062	Butyriboletus loyo	2	GCA_038093515.1;GCA_038093635.1	Butyriboletus loyo										
+C063	Xerocomus spinulosus	2	GCA_038094075.1;GCA_038094515.1	Xerocomus spinulosus										
+C064	Tylopilus aff. beelii	2	GCA_038094295.1;GCA_038098575.1	Tylopilus aff. beelii		intact								
+C065	Phylloporus sp. TRTC163509	2	GCA_041721835.1;GCA_041722235.1	Phylloporus sp. TRTC163509;Phylloporus sp. TRTC168454		intact								
+C066	Boletaceae sp. KM206735	2	GCA_041722135.1;GCA_041722155.1	Boletaceae sp. KM206735;Boletaceae sp. KM206743										
+C067	Butyriboletus subappendiculatus	2	GCA_964213175.1;GCA_964213195.1	Butyriboletus subappendiculatus										
+C068	Gyroporus aff. castaneus	2	GCA_965784085.1;GCA_965788925.1	Gyroporus aff. castaneus										
+C069	Coniophora puteana RWD-64-598 SS2	1	GCA_000271625.1	Coniophora puteana RWD-64-598 SS2										
+C070	Hydnomerulius pinastri MD-312	1	GCA_000827185.1	Hydnomerulius pinastri MD-312										
+C071	Suillus luteus UH-Slu-Lm8-n1	1	GCA_000827255.1	Suillus luteus UH-Slu-Lm8-n1										
+C072	Paxillus rubicundulus Ve08.2h10	1	GCA_000827395.1	Paxillus rubicundulus Ve08.2h10										
+C073	Scleroderma citrinum Foug A	1	GCA_000827425.1	Scleroderma citrinum Foug A										
+C074	Paxillus involutus ATCC 200175	1	GCA_000827475.1	Paxillus involutus ATCC 200175										
+C075	Serpula lacrymans var. shastensis	1	GCA_002891385.1	Serpula lacrymans var. shastensis										
+C076	Rhizopogon sp. AM-2018a	1	GCA_002994855.1	Rhizopogon sp. AM-2018a										
+C077	Rhizopogon vulgaris	1	GCA_002995295.1	Rhizopogon vulgaris				intact						
+C078	Rhizopogon villosulus	1	GCA_002995315.1	Rhizopogon villosulus				intact						
+C079	Rhizopogon fuscorubens	1	GCA_002995455.1	Rhizopogon fuscorubens										
+C080	Rhizopogon salebrosus	1	GCA_002995475.1	Rhizopogon salebrosus										
+C081	Suillus spraguei	1	GCA_003313085.1	Suillus spraguei										
+C082	Boletus sp. MG95	1	GCA_003313155.1	Boletus sp. MG95										
+C083	Boletus sp. MG55	1	GCA_003313885.1	Boletus sp. MG55										
+C084	Chroogomphus rutilus	1	GCA_003314275.1	Chroogomphus rutilus										
+C085	Neoboletus subvelutipes	1	GCA_003316035.1	Neoboletus subvelutipes										
+C086	Neoboletus magnificus	1	GCA_003316145.1	Neoboletus magnificus										
+C087	Boletus edulis	1	GCA_003316165.1	Boletus edulis			fragment							
+C088	Hemileccinum impolitum	1	GCA_003316335.1	Hemileccinum impolitum										
+C089	Suillus alpinus	1	GCA_003316505.1	Suillus alpinus										
+C090	Pulveroboletus ravenelii	1	GCA_003316545.1	Pulveroboletus ravenelii										
+C091	Suillus brevipes Sb2	1	GCA_011800875.2	Suillus brevipes Sb2										
+C092	Paxillus ammoniavirescens	1	GCA_014904835.1	Paxillus ammoniavirescens										
+C093	Melanogaster broomeanus	1	GCA_014904935.1	Melanogaster broomeanus		pseudogene_like								
+C094	Gyrodon lividus	1	GCA_014904945.1	Gyrodon lividus										
+C095	Suillus ampliporus	1	GCA_016584345.1	Suillus ampliporus										
+C096	Astraeus odoratus	1	GCA_016618355.2	Astraeus odoratus										
+C097	Suillus lakei	1	GCA_016628065.1	Suillus lakei										
+C098	Suillus paluster	1	GCA_016628075.1	Suillus paluster										
+C099	Suillus occidentalis	1	GCA_016628085.1	Suillus occidentalis										
+C100	Suillus placidus	1	GCA_016628565.1	Suillus placidus										
+C101	Suillus subalutaceus	1	GCA_016647625.1	Suillus subalutaceus										
+C102	Suillus subaureus	1	GCA_016647635.1	Suillus subaureus										
+C103	Suillus variegatus	1	GCA_016647645.1	Suillus variegatus										
+C104	Suillus tomentosus	1	GCA_016647685.1	Suillus tomentosus										
+C105	Suillus plorans	1	GCA_016647745.1	Suillus plorans										
+C106	Suillus subluteus	1	GCA_016647755.1	Suillus subluteus										
+C107	Suillus fuscotomentosus	1	GCA_016647785.1	Suillus fuscotomentosus										
+C108	Suillus americanus	1	GCA_016695465.1	Suillus americanus										
+C109	Suillus decipiens	1	GCA_016695475.1	Suillus decipiens				pseudogene_like						
+C110	Suillus hirtellus	1	GCA_016695485.1	Suillus hirtellus										
+C111	Suillus discolor	1	GCA_016758755.1	Suillus discolor										
+C112	Suillus cothurnatus	1	GCA_016758765.1	Suillus cothurnatus										
+C113	Suillus clintonianus	1	GCA_016758775.1	Suillus clintonianus										
+C114	Suillus weaverae	1	GCA_016767475.1	Suillus weaverae										
+C115	Suillus spraguei	1	GCA_016800925.1	Suillus spraguei										
+C116	Boletus reticuloceps	1	GCA_018397855.1	Boletus reticuloceps		pseudogene_like	intact							
+C117	Hygrophoropsis aurantiaca	1	GCA_021014935.1	Hygrophoropsis aurantiaca										
+C118	Leucogyrophana mollusca	1	GCA_021014945.1	Leucogyrophana mollusca										
+C119	Phlebopus sp. FC_14	1	GCA_021018615.1	Phlebopus sp. FC_14				intact						
+C120	Pisolithus orientalis	1	GCA_024613125.1	Pisolithus orientalis										
+C121	Pisolithus marmoratus	1	GCA_024613145.1	Pisolithus marmoratus										
+C122	Pisolithus albus	1	GCA_024613165.1	Pisolithus albus										
+C123	Pisolithus sp. B1	1	GCA_024663435.1	Pisolithus sp. B1										
+C124	Neoboletus subvelutipes	1	GCA_025371055.2	Neoboletus subvelutipes										
+C125	Boletus coccyginus	1	GCA_025782845.1	Boletus coccyginus										
+C126	Rhizopogon salebrosus TDB-379	1	GCA_029603245.1	Rhizopogon salebrosus TDB-379										
+C127	Scleroderma bovista	1	GCA_037178675.1	Scleroderma bovista										
+C128	Phlebopus portentosus	1	GCA_037892935.1	Phlebopus portentosus										
+C129	Veloboletus limbatus	1	GCA_038088635.1	Veloboletus limbatus		intact	intact			intact				
+C130	Boletus variipes	1	GCA_038088695.1	Boletus variipes		intact	pseudogene_like							
+C131	Boletus aff. separans	1	GCA_038088755.1	Boletus aff. separans										
+C132	Boletus barrowsii	1	GCA_038088775.1	Boletus barrowsii										
+C133	Boletus nobilissimus	1	GCA_038088815.1	Boletus nobilissimus										
+C134	Singerocomus rubriflavus	1	GCA_038088835.1	Singerocomus rubriflavus										
+C135	Tylopilus aff. balloui	1	GCA_038088855.1	Tylopilus aff. balloui										
+C136	Austroboletus festivus	1	GCA_038088875.1	Austroboletus festivus						intact		fragment		
+C137	Xerocomus potaroensis	1	GCA_038088895.1	Xerocomus potaroensis										
+C138	Sutorius aff. eximius	1	GCA_038088915.1	Sutorius aff. eximius										
+C139	Pulveroboletus aff. viridisquamosus	1	GCA_038088935.1	Pulveroboletus aff. viridisquamosus										
+C140	Neotropicomus parvogracilis	1	GCA_038088955.1	Neotropicomus parvogracilis		pseudogene_like	pseudogene_like	intact						
+C141	Xerocomus cyaneibrunnescens	1	GCA_038088975.1	Xerocomus cyaneibrunnescens										
+C142	Guyanaporus albipodus	1	GCA_038088995.1	Guyanaporus albipodus										
+C143	Chalciporus aff. trinitensis	1	GCA_038089015.1	Chalciporus aff. trinitensis		intact								
+C144	Boletellus dicymbophilus	1	GCA_038089035.1	Boletellus dicymbophilus					intact					
+C145	Tylopilus aff. balloui	1	GCA_038089055.1	Tylopilus aff. balloui										
+C146	Singerocomus inundabilis	1	GCA_038089075.1	Singerocomus inundabilis										
+C147	Tylopilus orsonianus	1	GCA_038089095.1	Tylopilus orsonianus										
+C148	Fistulinella cinereoalba	1	GCA_038089115.1	Fistulinella cinereoalba										
+C149	extra	1	GCA_038089135.1											
+C150	Nevesoporus exiguus	1	GCA_038089155.1	Nevesoporus exiguus		intact	pseudogene_like			pseudogene_like				
+C151	Binderoboletus segoi	1	GCA_038089175.1	Binderoboletus segoi										
+C152	Brasilioporus rufonigricans	1	GCA_038089195.1	Brasilioporus rufonigricans										
+C153	Tylopilus vinaceipallidus	1	GCA_038089215.1	Tylopilus vinaceipallidus										
+C154	Boletellus ananas	1	GCA_038089235.1	Boletellus ananas				intact	intact	intact		remnant		
+C155	Austroboletus rostrupii	1	GCA_038089255.1	Austroboletus rostrupii										
+C156	Pulveroboletus cf. rosaemariae	1	GCA_038089275.1	Pulveroboletus cf. rosaemariae										
+C157	Xerocomus amazonicus	1	GCA_038089295.1	Xerocomus amazonicus										
+C158	Crocinoboletus aff. laetissimus	1	GCA_038089315.1	Crocinoboletus aff. laetissimus										
+C159	Boletellus aff. obscurococcineus	1	GCA_038089335.1	Boletellus aff. obscurococcineus										
+C160	Pulveroboletus ridleyi	1	GCA_038089355.1	Pulveroboletus ridleyi										
+C161	Pseudoaustroboletus valens	1	GCA_038089375.1	Pseudoaustroboletus valens										
+C162	Boletus austroedulis	1	GCA_038089435.1	Boletus austroedulis					intact	intact		remnant		pseudogene_like
+C163	Tylopilus cf. leucomycelinus	1	GCA_038089455.1	Tylopilus cf. leucomycelinus										
+C164	Boletus aff. vermiculosoides	1	GCA_038089475.1	Boletus aff. vermiculosoides					fragment					
+C165	Xerocomellus dryophilus	1	GCA_038089495.1	Xerocomellus dryophilus				intact						
+C166	Leccinellum crocipodium	1	GCA_038089515.1	Leccinellum crocipodium										
+C167	Hemileccinum rubropunctum	1	GCA_038089535.1	Hemileccinum rubropunctum										
+C168	Chalciporus chontae	1	GCA_038089555.1	Chalciporus chontae										
+C169	Phylloporus pelletieri	1	GCA_038089575.1	Phylloporus pelletieri			pseudogene_like	intact						
+C170	Bothia castanella	1	GCA_038089595.1	Bothia castanella										
+C171	Aureoboletus auriporus	1	GCA_038089615.1	Aureoboletus auriporus										
+C172	Boletales sp. KT-2023b	1	GCA_038089675.1	Boletales sp. KT-2023b										
+C173	Veloporphyrellus conicus	1	GCA_038089715.1	Veloporphyrellus conicus		intact	pseudogene_like							
+C174	Exsudoporus frostii	1	GCA_038089735.1	Exsudoporus frostii										
+C175	Leccinellum rugosiceps	1	GCA_038089755.1	Leccinellum rugosiceps				pseudogene_like						
+C176	Pulchroboletus neoregius	1	GCA_038089795.1	Pulchroboletus neoregius										
+C177	Sutorius eximius	1	GCA_038089815.1	Sutorius eximius										
+C178	Retiboletus flavoniger	1	GCA_038089835.1	Retiboletus flavoniger										
+C179	Royoungia palumana	1	GCA_038089855.1	Royoungia palumana										
+C180	Fistulinella prunicolor	1	GCA_038089875.1	Fistulinella prunicolor					pseudogene_like					
+C181	Boletellus ananas	1	GCA_038089895.1	Boletellus ananas			pseudogene_like							
+C182	Sutorius australiensis	1	GCA_038089915.1	Sutorius australiensis										
+C183	Boletellus emodensis	1	GCA_038089935.1	Boletellus emodensis		intact								
+C184	Strobilomyces dryophilus	1	GCA_038089955.1	Strobilomyces dryophilus										
+C185	Boletellus ananiceps	1	GCA_038089975.1	Boletellus ananiceps		intact	pseudogene_like							
+C186	Tylopilus balloui	1	GCA_038089995.1	Tylopilus balloui				pseudogene_like	fragment					
+C187	Leccinellum albellum	1	GCA_038090015.1	Leccinellum albellum				intact						
+C188	Xerocomus nothofagi	1	GCA_038090035.1	Xerocomus nothofagi		intact	pseudogene_like			fragment		pseudogene_like		
+C189	Xanthoconium purpureum	1	GCA_038090075.1	Xanthoconium purpureum										
+C190	Zangia roseola	1	GCA_038090095.1	Zangia roseola										
+C191	Strobilomyces echinocephalus	1	GCA_038090115.1	Strobilomyces echinocephalus										
+C192	Pulveroboletus ravenelii	1	GCA_038090135.1	Pulveroboletus ravenelii			pseudogene_like		intact					
+C193	Leccinum pachyderme	1	GCA_038090155.1	Leccinum pachyderme										
+C194	Boletellus deceptivus	1	GCA_038090195.1	Boletellus deceptivus		intact	pseudogene_like			fragment		pseudogene_like		
+C195	Pulveroboletus ravenelii	1	GCA_038090235.1	Pulveroboletus ravenelii										
+C196	Austroboletus novae-zelandiae	1	GCA_038090275.1	Austroboletus novae-zelandiae										
+C197	Boletus semigastroideus	1	GCA_038090295.1	Boletus semigastroideus										
+C198	Xanthoconium stramineum	1	GCA_038090315.1	Xanthoconium stramineum										
+C199	Solioccasus polychromus	1	GCA_038090335.1	Solioccasus polychromus										
+C200	Chiua virens	1	GCA_038090355.1	Chiua virens										
+C201	Boletus rubroflammeus	1	GCA_038090375.1	Boletus rubroflammeus										
+C202	Boletales sp. KT-2023a	1	GCA_038090395.1	Boletales sp. KT-2023a										
+C203	Rossbeevera mucosa	1	GCA_038090415.1	Rossbeevera mucosa										
+C204	Phylloporus scabripes	1	GCA_038090435.1	Phylloporus scabripes										
+C205	Garcileccinum viscosum	1	GCA_038090455.1	Garcileccinum viscosum				intact						
+C206	Tylopilus alboater	1	GCA_038090535.1	Tylopilus alboater										
+C207	Tylopilus cf. pernanus	1	GCA_038090575.1	Tylopilus cf. pernanus										
+C208	Phylloporus gajari	1	GCA_038090615.1	Phylloporus gajari			pseudogene_like			pseudogene_like				
+C209	Rubroboletus satanas	1	GCA_038090635.1	Rubroboletus satanas		pseudogene_like		intact						
+C210	Gastroboletus turbinatus	1	GCA_038090655.1	Gastroboletus turbinatus		pseudogene_like								
+C211	Xerocomellus amylosporus	1	GCA_038090735.1	Xerocomellus amylosporus										
+C212	Boletus bicoloroides	1	GCA_038090895.1	Boletus bicoloroides										
+C213	Boletus eberwhitei	1	GCA_038090915.1	Boletus eberwhitei				remnant		fragment				
+C214	Xerocomellus intermedius	1	GCA_038090955.1	Xerocomellus intermedius										
+C215	Boletellus pseudochrysenteroides	1	GCA_038090975.1	Boletellus pseudochrysenteroides			pseudogene_like	remnant						
+C216	Rubroboletus pulcherrimus	1	GCA_038091165.1	Rubroboletus pulcherrimus										
+C217	extra	1	GCA_038091215.1											
+C218	Tylopilus subfusipes	1	GCA_038091275.1	Tylopilus subfusipes										
+C219	Porphyrellus cyaneotinctus	1	GCA_038091315.1	Porphyrellus cyaneotinctus										
+C220	Phylloporus arenicola	1	GCA_038091335.1	Phylloporus arenicola										
+C221	Phylloboletellus chloephorus	1	GCA_038091355.1	Phylloboletellus chloephorus										
+C222	Austroboletus festivus	1	GCA_038091375.1	Austroboletus festivus		intact	fragment	intact		intact		fragment		
+C223	Leccinum subatratum	1	GCA_038091595.1	Leccinum subatratum										
+C224	Leccinellum luteum	1	GCA_038091855.1	Leccinellum luteum				pseudogene_like						
+C225	Leccinum brunneo-olivaceum	1	GCA_038092115.1	Leccinum brunneo-olivaceum		fragment		intact						
+C226	Leccinum boreale	1	GCA_038092235.1	Leccinum boreale										
+C227	Caloboletus inedulis	1	GCA_038092355.1	Caloboletus inedulis			intact							
+C228	Xerocomus tenax	1	GCA_038092415.1	Xerocomus tenax				fragment						
+C229	Gyrodon tennesseensis	1	GCA_038092445.1	Gyrodon tennesseensis										
+C230	Boletus subparvulus	1	GCA_038092515.1	Boletus subparvulus										
+C231	Xerocomus subilludens	1	GCA_038092535.1	Xerocomus subilludens										
+C232	Boletus rubropictus	1	GCA_038092695.1	Boletus rubropictus										
+C233	Boletus smithii	1	GCA_038092715.1	Boletus smithii										
+C234	Boletus rubroflammeus	1	GCA_038092755.1	Boletus rubroflammeus										
+C235	Boletus rubescentipes	1	GCA_038092775.1	Boletus rubescentipes						pseudogene_like				
+C236	Lanmaoa rubissima	1	GCA_038092795.1	Lanmaoa rubissima										
+C237	Boletus pseudopeckii	1	GCA_038092915.1	Boletus pseudopeckii										
+C238	Boletus pseudo-olivaceus	1	GCA_038092955.1	Boletus pseudo-olivaceus										
+C239	Chalciporus piperatoides	1	GCA_038092975.1	Chalciporus piperatoides										
+C240	Leccinum longicurvipes	1	GCA_038093135.1	Leccinum longicurvipes										
+C241	Boletus huronensis	1	GCA_038093155.1	Boletus huronensis										
+C242	Boletus fagicola	1	GCA_038093195.1	Boletus fagicola										
+C243	Boletus holoroseus	1	GCA_038093245.1	Boletus holoroseus										
+C244	Boletus calvinii	1	GCA_038093355.1	Boletus calvinii						intact		fragment		
+C245	Xerocomellus chrysenteron	1	GCA_038093415.1	Xerocomellus chrysenteron										
+C246	Boletus reticulatus	1	GCA_038093535.1	Boletus reticulatus										
+C247	Butyriboletus appendiculatus	1	GCA_038093555.1	Butyriboletus appendiculatus				intact						
+C248	Rubinoboletus rubinus	1	GCA_038093575.1	Rubinoboletus rubinus										
+C249	Butyriboletus regius	1	GCA_038093595.1	Butyriboletus regius										
+C250	Austroboletus olivaceoglutinosus	1	GCA_038093615.1	Austroboletus olivaceoglutinosus		intact				intact		fragment		
+C251	extra	1	GCA_038093655.1											
+C252	Chalciporus piperatus	1	GCA_038093675.1	Chalciporus piperatus										
+C253	Austroboletus cf. mucosus	1	GCA_038093715.1	Austroboletus cf. mucosus										
+C254	Boletus aff. violaceofuscus	1	GCA_038093735.1	Boletus aff. violaceofuscus										
+C255	Retiboletus fuscus	1	GCA_038093795.1	Retiboletus fuscus										
+C256	Strobilomyces confusus	1	GCA_038093835.1	Strobilomyces confusus										
+C257	Rugiboletus extremiorientalis	1	GCA_038093855.1	Rugiboletus extremiorientalis										
+C258	Boletus tylopilopsis	1	GCA_038093875.1	Boletus tylopilopsis										
+C259	Boletellus aff. emodensis	1	GCA_038093915.1	Boletellus aff. emodensis										
+C260	Tylopilus cf. pallidocervicolor	1	GCA_038093935.1	Tylopilus cf. pallidocervicolor										
+C261	Boletus albobrunnescens	1	GCA_038093955.1	Boletus albobrunnescens										
+C262	Chalciporus piperatus	1	GCA_038093975.1	Chalciporus piperatus				pseudogene_like						
+C263	Tylopilus aff. callainus	1	GCA_038093995.1	Tylopilus aff. callainus										
+C264	Phylloporus cf. gajari	1	GCA_038094015.1	Phylloporus cf. gajari										
+C265	Chalciporus sphaerocephalus	1	GCA_038094055.1	Chalciporus sphaerocephalus										
+C266	Boletus putidus	1	GCA_038094095.1	Boletus putidus										
+C267	Boletus loyita	1	GCA_038094115.1	Boletus loyita										
+C268	Spongiforma cf. squarepantsii	1	GCA_038094135.1	Spongiforma cf. squarepantsii										
+C269	Pulveroboletus cf. aberrans	1	GCA_038094155.1	Pulveroboletus cf. aberrans										
+C270	Boletellus aff. lepidospora	1	GCA_038094175.1	Boletellus aff. lepidospora		intact								
+C271	Pulveroboletus aff. carminiporus	1	GCA_038094195.1	Pulveroboletus aff. carminiporus										
+C272	Fistulinella staudtii	1	GCA_038094235.1	Fistulinella staudtii		pseudogene_like	pseudogene_like			intact		pseudogene_like		
+C273	Porphyrellus aff. niger	1	GCA_038094255.1	Porphyrellus aff. niger										
+C274	Tubosaeta brunneosetosa	1	GCA_038094275.1	Tubosaeta brunneosetosa										
+C275	Phylloporus cf. tubipes	1	GCA_038094315.1	Phylloporus cf. tubipes										
+C276	Afroboletus lepidellus	1	GCA_038094355.1	Afroboletus lepidellus										
+C277	Tubosaeta aff. heterosetosa	1	GCA_038094375.1	Tubosaeta aff. heterosetosa										
+C278	Xerocomus alliaceus	1	GCA_038094415.1	Xerocomus alliaceus										
+C279	Phylloporus aff. rhodophaeus	1	GCA_038094475.1	Phylloporus aff. rhodophaeus		intact								
+C280	Tubosaeta aff. alveolata	1	GCA_038094535.1	Tubosaeta aff. alveolata										
+C281	Boletus aff. phaeocephalus	1	GCA_038094555.1	Boletus aff. phaeocephalus					intact					
+C282	Phylloporus cf. nigrescens	1	GCA_038094575.1	Phylloporus cf. nigrescens										
+C283	Pulveroboletus aff. annulatus	1	GCA_038094595.1	Pulveroboletus aff. annulatus										
+C284	Tylopilus cervinicoccineus	1	GCA_038094635.1	Tylopilus cervinicoccineus										
+C285	Tylopilus cervinicoccineus	1	GCA_038094655.1	Tylopilus cervinicoccineus										
+C286	Spongispora temasekensis	1	GCA_038094675.1	Spongispora temasekensis										
+C287	Chiua aff. virens	1	GCA_038094695.1	Chiua aff. virens										
+C288	Heimioporus punctisporus	1	GCA_038094715.1	Heimioporus punctisporus										
+C289	Exsudoporus floridanus	1	GCA_038094735.1	Exsudoporus floridanus			pseudogene_like							
+C290	Phlebopus roseus	1	GCA_040085005.1	Phlebopus roseus										
+C291	Chalciporus sp. G4409	1	GCA_041721635.1	Chalciporus sp. G4409										
+C292	Tubosaeta sp. UT-M0002040	1	GCA_041721665.1	Tubosaeta sp. UT-M0002040										
+C293	Boletaceae sp. TRTC168574	1	GCA_041721695.1	Boletaceae sp. TRTC168574										
+C294	Boletaceae sp. TRTC168571	1	GCA_041721715.1	Boletaceae sp. TRTC168571										
+C295	Crocinoboletus sp. TRTC168568	1	GCA_041721735.1	Crocinoboletus sp. TRTC168568										
+C296	Phylloporus sp. TRTC168546	1	GCA_041721755.1	Phylloporus sp. TRTC168546										
+C297	Phylloporus sp. TRTC168483	1	GCA_041721775.1	Phylloporus sp. TRTC168483										
+C298	Boletaceae sp. TRTC168532	1	GCA_041721795.1	Boletaceae sp. TRTC168532										
+C299	Pseudoaustroboletus sp. TRTC168467	1	GCA_041721815.1	Pseudoaustroboletus sp. TRTC168467										
+C300	Boletellus sp. TRTC168476	1	GCA_041721855.1	Boletellus sp. TRTC168476										
+C301	Phylloporus sp. TRTC168436	1	GCA_041721875.1	Phylloporus sp. TRTC168436										
+C302	Leccinum sp. TRTC168399	1	GCA_041721895.1	Leccinum sp. TRTC168399										
+C303	Boletaceae sp. TRTC168347	1	GCA_041721915.1	Boletaceae sp. TRTC168347										
+C304	Hemileccinum sp. TRTC168327	1	GCA_041721935.1	Hemileccinum sp. TRTC168327										
+C305	Baorangia sp. TRTC168334	1	GCA_041721955.1	Baorangia sp. TRTC168334										
+C306	Sutorius sp. TRTC168204	1	GCA_041721975.1	Sutorius sp. TRTC168204										
+C307	Xanthoconium sp. NY2686029	1	GCA_041721995.1	Xanthoconium sp. NY2686029										
+C308	Pulveroboletus sp. KM173101	1	GCA_041722015.1	Pulveroboletus sp. KM173101										
+C309	Boletus sp. MULU70	1	GCA_041722035.1	Boletus sp. MULU70										
+C310	Boletaceae sp. KM206733	1	GCA_041722055.1	Boletaceae sp. KM206733										
+C311	Pulveroboletus sp. KM172995	1	GCA_041722075.1	Pulveroboletus sp. KM172995										
+C312	Tylopilus sp. KM206722	1	GCA_041722095.1	Tylopilus sp. KM206722			pseudogene_like			remnant		fragment		
+C313	Boletaceae sp. TRTC163558	1	GCA_041722115.1	Boletaceae sp. TRTC163558										
+C314	Boletaceae sp. KM206737	1	GCA_041722175.1	Boletaceae sp. KM206737										
+C315	Boletaceae sp. KM206713	1	GCA_041722195.1	Boletaceae sp. KM206713		fragment								
+C316	Boletaceae sp. KM206711	1	GCA_041722215.1	Boletaceae sp. KM206711		fragment								
+C317	Boletaceae sp. KM206700	1	GCA_041722255.1	Boletaceae sp. KM206700										
+C318	Boletus sp. UT-M0002076	1	GCA_041722275.1	Boletus sp. UT-M0002076										
+C319	Boletaceae sp. KM206666	1	GCA_041722295.1	Boletaceae sp. KM206666										
+C320	Porphyrellus sp. KM206675	1	GCA_041722315.1	Porphyrellus sp. KM206675		intact								
+C321	Butyriboletus sp. TRTC157199	1	GCA_041722335.1	Butyriboletus sp. TRTC157199										
+C322	Rubroboletus sp. TRTC157201	1	GCA_041722355.1	Rubroboletus sp. TRTC157201										
+C323	Strobilomyces sp. TRTC157183	1	GCA_041722375.1	Strobilomyces sp. TRTC157183										
+C324	Lanmaoa sp. TRTC157169	1	GCA_041722395.1	Lanmaoa sp. TRTC157169										
+C325	Butyriboletus sp. TRTC157195	1	GCA_041722415.1	Butyriboletus sp. TRTC157195										
+C326	Porphyrellus sp. TRTC161176	1	GCA_041722435.1	Porphyrellus sp. TRTC161176										
+C327	Boletaceae sp. DLT08-010	1	GCA_041722455.1	Boletaceae sp. DLT08-010						intact				
+C328	Boletaceae sp. TRTC157251	1	GCA_041722475.1	Boletaceae sp. TRTC157251					intact					
+C329	Boletaceae sp. TRTC157249	1	GCA_041722495.1	Boletaceae sp. TRTC157249										
+C330	Heimioporus sp. TRTC157243	1	GCA_041722515.1	Heimioporus sp. TRTC157243										
+C331	Tylopilus sp. TRTC175187	1	GCA_041722535.1	Tylopilus sp. TRTC175187										
+C332	Pulveroboletus sp. TRTC175156	1	GCA_041722555.1	Pulveroboletus sp. TRTC175156										
+C333	Boletaceae sp. TRTC157208	1	GCA_041722575.1	Boletaceae sp. TRTC157208										
+C334	Boletaceae sp. UT-M0000358	1	GCA_041722595.1	Boletaceae sp. UT-M0000358		intact								
+C335	cf. Tylopilus sp. TRTC175157	1	GCA_041722615.1	cf. Tylopilus sp. TRTC175157										
+C336	Boletaceae sp. TRTC157229	1	GCA_041722635.1	Boletaceae sp. TRTC157229		intact	pseudogene_like							
+C337	Porphyrellus sp. 'aff. excedens' UT-M0000382	1	GCA_041722655.1	Porphyrellus sp. 'aff. excedens' UT-M0000382		intact								
+C338	aff. Porphyrellus sp. UT-M0000367	1	GCA_041722675.1	aff. Porphyrellus sp. UT-M0000367		pseudogene_like								
+C339	Tylopilus sp. UT-M0000335	1	GCA_041722695.1	Tylopilus sp. UT-M0000335		pseudogene_like	pseudogene_like	intact		intact				
+C340	Xerocomus sp. UT-M0000400	1	GCA_041722715.1	Xerocomus sp. UT-M0000400										
+C341	Phylloporus sp. UT-M0000442	1	GCA_041722755.1	Phylloporus sp. UT-M0000442										
+C342	Phylloporus sp. UT-M0000405	1	GCA_041722775.1	Phylloporus sp. UT-M0000405					pseudogene_like					
+C343	Tylopilus sp. UT-M0000054	1	GCA_041722795.1	Tylopilus sp. UT-M0000054		intact								
+C344	Aureoboletus sp. UT-M0000056	1	GCA_041722815.1	Aureoboletus sp. UT-M0000056										
+C345	Xerocomus sp. UT-M0000078	1	GCA_041722835.1	Xerocomus sp. UT-M0000078										
+C346	Boletellus sp. UT-M0000026	1	GCA_041722855.1	Boletellus sp. UT-M0000026		intact								
+C347	Xerocomus sp. UT-M0000266	1	GCA_041722895.1	Xerocomus sp. UT-M0000266										
+C348	aff. Porphyrellus sp. UT-M0000030	1	GCA_041722915.1	aff. Porphyrellus sp. UT-M0000030		intact				intact				
+C349	Tylopilus sp. UT-M0002033	1	GCA_041722935.1	Tylopilus sp. UT-M0002033										
+C350	Caloboletus sp. UT-M0002021	1	GCA_041722955.1	Caloboletus sp. UT-M0002021										
+C351	Phylloporus sp. KM206838	1	GCA_041722975.1	Phylloporus sp. KM206838										
+C352	Neoboletus brunneissimus	1	GCA_047655925.1	Neoboletus brunneissimus										
+C353	Serpula himantioides	1	GCA_057380975.1	Serpula himantioides										
+C354	Rhizopogon roseolus	1	GCA_930272055.1	Rhizopogon roseolus				pseudogene_like						
+C355	Aureoboletus gentilis	1	GCA_965113095.1	Aureoboletus gentilis										
+C356	Aureoboletus gentilis	1	GCA_965113155.1	Aureoboletus gentilis										
+C357	Rhizopogon luteolus	1	GCA_986172025.1	Rhizopogon luteolus										
+C358	Rhizopogon luteolus	1	GCA_986172045.1	Rhizopogon luteolus										

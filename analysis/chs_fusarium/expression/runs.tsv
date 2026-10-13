@@ -1,0 +1,10 @@
+run	BioProject	BioSample	organism_in_SRA	strain	condition	platform	layout	pairs_in_run	pairs_used
+SRR32802590	PRJNA1235816	SAMN47471917	Fusarium vanettenii	77-13-4	DMSO control, T0, rep1 (pisatin-exposure time course; axenic culture)	ILLUMINA	PAIRED	37037814	10000000
+SRR32802591	PRJNA1235821	SAMN47471911	Fusarium vanettenii	77-13-4	DMSO control, T9h, rep1	ILLUMINA	PAIRED	10336102	10000000
+SRR32802589	PRJNA1235814	SAMN47471923	Fusarium vanettenii	77-13-4	Pisatin (phytoalexin) exposure, T0, rep1	ILLUMINA	PAIRED	23818849	10000000
+SRR32802592	PRJNA1235808	SAMN47472101	Fusarium vanettenii	77-13-4	Pisatin exposure, T9h, rep1	ILLUMINA	PAIRED	22394603	10000000
+SRR7030093	PRJNA450835	SAMN08948954	Fusarium oxysporum f. sp. lycopersici 4287	4287 (per SRA organism name; strain field empty)	in vitro 28 C, rep1 (temperature response)	ILLUMINA	PAIRED	14344150	10000000
+SRR7030096	PRJNA450835	SAMN08948951	Fusarium oxysporum f. sp. lycopersici 4287	4287 (per SRA organism name; strain field empty)	in vitro 37 C, rep1 (temperature response)	ILLUMINA	PAIRED	12821697	10000000
+SRR10123445	PRJNA565686	SAMN12758324	Fusarium oxysporum f. sp. lycopersici 4287	4287 (per SRA organism name; strain field empty)	wild type 4287 in vitro (calcineurin mutants study, WT control)	ILLUMINA	PAIRED	26855955	10000000
+SRR26065701	PRJNA1017476	SAMN37400220	Fusarium oxysporum f. sp. lycopersici 4287	4287 (per SRA organism name; strain field empty)	wt in vitro, -Cu, rep1 (Mac1/copper study)	ILLUMINA	PAIRED	22202706	10000000
+SRR26065688	PRJNA1017476	SAMN37400207	Fusarium oxysporum f. sp. lycopersici 4287	4287 (per SRA organism name; strain field empty)	wt on tomato root 2 dpi, rep1 (fungus+plant reads)	ILLUMINA	PAIRED	55206824	10000000

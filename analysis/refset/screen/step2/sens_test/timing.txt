@@ -1,0 +1,5 @@
+GCA_019364595.1 very-sensitive hits=57 t=26s
+GCA_019364595.1 ultra-sensitive hits=60 t=79s
+GCA_018397855.1 very-sensitive hits=68 t=39s
+GCA_018397855.1 ultra-sensitive hits=73 t=117s
+SENS_DONE

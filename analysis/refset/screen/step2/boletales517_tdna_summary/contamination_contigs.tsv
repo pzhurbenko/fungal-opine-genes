@@ -1,0 +1,3 @@
+gca	organism	contig	contig_len	n_backbone_loci_ge60	n_backbone_loci_ge60_cov05	genome_is_carrier	contig_has_carrier_locus
+GCA_038093235.1	Boletus harrisonii	JBBPRV010018860.1	368	2	1	1	0
+GCA_051942495.1	Pisolithus albus	JBPZPH010001517.1	488	1	1	0	0

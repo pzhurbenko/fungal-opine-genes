@@ -1,0 +1,10 @@
+category	n_asm_strong	n_loci_strong	n_asm_bg30	n_loci_bg30	n_asm_any_locus	median_best_pident	max_pident
+FAM_ACS	31	59	40	73	79	52.5	74.5
+FAM_CUS	11	21	34	65	43	38.8	75.4
+FAM_ORF358	1	3	5	7	5	42.7	77.4
+FAM_SUS	18	23	34	53	62	39.5	71.1
+TDNA	3	6	22	35	515	47.8	75.0
+opine_related	36	68	516	4044	517	52.6	83.3
+rep_partition	2	2	7	10	31	39.0	58.8
+tra	2	2	4	5	72	32.3	89.6
+vir	0	0	2	13	149	36.0	52.8

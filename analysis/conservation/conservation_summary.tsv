@@ -1,0 +1,6 @@
+family	group	n_refs	n_fungal	ref_invariant_positions	conserved_all_fungal	conserved_ge90_fungal	mean_identity_invariant	control_identity_variable
+SUS	SUS T-DNA clade intact	24	36	2	0	0	0.833	0.445
+CUS	CUS cus intact	21	27	5	0	2	0.874	0.486
+ACS	ACS six lineage intact	26	6	7	3	3	0.714	0.271
+ACS	ACS gdpd_meso all	26	62	7	0	0	0.597	0.196
+ACS	ACS gdpd_meso vs acc refs	3	62	117	0	3	0.531	0.286

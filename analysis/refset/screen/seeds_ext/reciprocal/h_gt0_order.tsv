@@ -1,0 +1,117 @@
+gene	group	organism	protein	nonfungal	fung	o_h	o_top50_bact	o_top50_plant	o_top50_fung	o_nfung_orders_ge_bact
+acs	rare	Astrocystis sublimbata	KAI0199099.1	B:Agrobacterium larrymoorei 31.7%/187	Collybiopsis luxurians FD-317 M1 28.9%/149	38	10	0	3	0
+acs,acs_pKerr14a	rare	Boletus reticuloceps	KAG6371153.1	B:Mesorhizobium sp. GbtcB19 64.8%/414	Leucoagaricus sp. SymC.cos 27.2%/91	323.1	48	2	0	0
+acs,acs_pKerr14a	rare	Pleurotus pulmonarius	KAF4581365.1	B:Ensifer sp. Root31 51.0%/400	Lactarius pseudohatsudake 23.4%/82	318.4	40	0	4	0
+acs,acs_pKerr14a	rare	Pleurotus pulmonarius	KAL4260645.1	B:Ensifer sp. Root31 51.0%/400	Lactarius pseudohatsudake 23.4%/82	318.4	40	0	4	0
+acs,acs_pKerr14a	rare	Butyriboletus roseoflavus	KAG8213181.1	B:Mesorhizobium sp. GbtcB19 57.5%/362	Leucoagaricus sp. SymC.cos 28.4%/74	288.4	50	0	0	0
+acs,acs_pKerr14a	rare	Leucoagaricus sp. SymC.cos	KXN89159.1	B:Rhizobium 30.3%/167	Chiua virens 27.5%/103	64	50	0	0	0
+acs,acs_pKerr14a	rare	Mycena latifolia	KAJ7464060.1	B:Rhizobium 30.4%/158	Butyriboletus roseoflavus 36.1%/157	1	43	3	4	0
+chs	rare	Friedmanniomyces endolithicus	KAK0366082.1	B:Sphingobium yanoikuyae 99.7%/775	none	775	50	0	0	0
+chs	rare	Metschnikowia pulcherrima	KAJ8143645.1	B:Cellulosimicrobium cellulans 96.4%/727	none	727	49	0	0	0
+chs	rare	Rhizopus arrhizus	KAG1203422.1	B:Achromobacter sp. Bel 99.7%/637	none	637	50	0	0	0
+chs	rare	Fusarium phalaenopsidis	KAL6359175.1	B:Agrobacterium larrymoorei 61.6%/498	none	498	50	0	0	0
+chs	rare	Fusarium vanettenii 77-13-4	EEU41297.1	B:Agrobacterium larrymoorei 61.9%/496	none	496	50	0	0	0
+chs	rare	Fusarium sp. Ph1	KAI8662381.1	B:Agrobacterium larrymoorei 61.3%/494	none	494	50	0	0	0
+chs	rare	Fusarium nematophilum	KAM5380328.1	B:Agrobacterium larrymoorei 62.9%/491	none	491	50	0	0	0
+chs	rare	Fusarium nematophilum	KAM5345661.1	B:Agrobacterium larrymoorei 62.9%/491	none	491	50	0	0	0
+chs	rare	Fusarium solani-melongenae	UPK93317.1	B:Agrobacterium larrymoorei 60.3%/486	none	486	50	0	0	0
+chs	rare	Rhizopus arrhizus	KAG1453357.1	B:Achromobacter sp. Bel 99.6%/454	Hortaea werneckii 34.6%/105	349	50	0	0	0
+chs	rare	Dactylonectria estremocensis	KAH7120428.1	B:Agrobacterium vitis 45.0%/296	none	296	50	0	0	0
+chs	rare	Fusarium oxysporum	KAJ9415499.1	B:Agrobacterium vitis 50.3%/288	none	288	50	0	0	0
+chs	rare	Fusarium oxysporum f. sp. albedinis	KAI3576115.1	B:Agrobacterium vitis 49.0%/283	none	283	50	0	0	0
+chs	rare	Fusarium oxysporum f. sp. albedinis	KAK2472897.1	B:Agrobacterium vitis 49.0%/283	none	283	50	0	0	0
+chs	rare	Fusarium oxysporum f. sp. lycopersici 4287	KNB14377.1	B:Agrobacterium vitis 47.2%/266	none	266	50	0	0	0
+chs	rare	Fusarium oxysporum f. sp. lycopersici 4287	XP_018252422.1	B:Agrobacterium vitis 47.2%/266	none	266	50	0	0	0
+chs	rare	Hortaea werneckii	KAI7253817.1	B:Paenibacillus sp. IHB B 3415 97.8%/692	Mortierella sp. GBA39 68.1%/437	255	50	0	0	0
+chs	rare	Fusarium oxysporum f. sp. matthiolae	KAH7466404.1	B:Agrobacterium vitis 54.7%/223	none	223	50	0	0	0
+chs	rare	Fusarium oxysporum f. sp. albedinis	KAJ0143367.1	B:Agrobacterium vitis 54.7%/223	none	223	50	0	0	0
+chs	rare	Fusarium oxysporum NRRL 32931	EWY82264.1	B:Agrobacterium vitis 54.2%/217	none	217	50	0	0	0
+chs	rare	Fusarium oxysporum NRRL 32931	XP_031031182.1	B:Agrobacterium vitis 54.2%/217	none	217	50	0	0	0
+chs	rare	Fusarium oxysporum f. sp. melonis 26406	EXK36477.1	B:Agrobacterium vitis 53.7%/213	none	213	50	0	0	0
+chs	rare	Mortierella sp. GBA39	KAF9122689.1	B:Paenibacillus sp. SSG-1 99.7%/717	Irineochytrium annulatum 70.2%/523	194	50	0	0	0
+chs	rare	Fusarium oxysporum f. sp. radicis-cucumerinum	PCD24768.1	B:Agrobacterium larrymoorei 62.7%/157	none	157	49	1	0	0
+chs	rare	Fusarium oxysporum	RKL16097.1	B:Agrobacterium larrymoorei 62.7%/157	none	157	49	1	0	0
+chs	rare	Fusarium oxysporum	RKL01087.1	B:Agrobacterium larrymoorei 62.7%/157	none	157	49	1	0	0
+chs	rare	Fusarium oxysporum	KAF5258030.1	B:Agrobacterium larrymoorei 62.7%/157	none	157	49	1	0	0
+chs	rare	Fusarium oxysporum f. sp. lycopersici MN25	EWZ80709.1	B:Agrobacterium larrymoorei 62.7%/156	none	156	49	1	0	0
+chs	rare	Fusarium oxysporum f. sp. radicis-lycopersici 26381	EXL52446.1	B:Agrobacterium larrymoorei 62.7%/156	none	156	49	1	0	0
+chs	rare	Fusarium oxysporum Fo47	EWZ31120.1	B:Agrobacterium larrymoorei 62.7%/156	none	156	49	1	0	0
+chs	rare	Fusarium oxysporum Fo47	QKD61567.2	B:Agrobacterium larrymoorei 62.7%/156	none	156	49	1	0	0
+chs	rare	Fusarium oxysporum f. sp. cepae	RKK51892.1	B:Agrobacterium larrymoorei 61.0%/153	none	153	50	0	0	0
+chs	rare	Fusarium oxysporum f. sp. cepae	RKK08570.1	B:Agrobacterium larrymoorei 61.0%/153	none	153	50	0	0	0
+chs	rare	Fusarium oxysporum f. sp. cepae	RKK49538.1	B:Agrobacterium larrymoorei 61.0%/153	none	153	50	0	0	0
+chs	rare	Fusarium oxysporum	RKL51690.1	B:Agrobacterium larrymoorei 61.9%/153	none	153	50	0	0	0
+chs	rare	Fusarium oxysporum f. sp. narcissi	RYC87345.1	B:Agrobacterium larrymoorei 61.0%/153	none	153	50	0	0	0
+chs	rare	Fusarium oxysporum	KAJ4123352.1	B:Agrobacterium larrymoorei 61.9%/153	none	153	50	0	0	0
+chs	rare	Fusarium oxysporum	KAJ4275658.1	B:Agrobacterium larrymoorei 61.9%/153	none	153	50	0	0	0
+chs	rare	Fusarium oxysporum	KAM5385907.1	B:Agrobacterium larrymoorei 61.9%/153	none	153	50	0	0	0
+chs	rare	Ambispora gerdemannii	CAG8455553.1	B:endosymbiont GvMRE of Glomus versiforme 67.8%/469	Funneliformis geosporum 65.7%/431	38	46	0	4	0
+chs	rare	Aspergillus homomorphus CBS 101889	RAL15815.1	B:Neorhizobium galegae 53.1%/422	Arthroderma uncinatum 51.8%/394	28	50	0	0	0
+chs	rare	Aspergillus arachidicola	KAE8341690.1	B:Neorhizobium galegae 45.4%/320	Arthroderma uncinatum 43.5%/315	5	49	0	1	0
+chs	rare	Entrophospora sp. SA101	CAH1755682.1	B:Candidatus Moeniiplasma glomeromycotorum 71.6%/414	Ambispora gerdemannii 48.4%/410	4	32	0	18	0
+chs	rare	Aspergillus tanneri	KAA8645324.1	B:Neorhizobium galegae 55.2%/433	Arthroderma uncinatum 53.4%/431	2	49	0	1	0
+chs	rare	Aspergillus tanneri	THC92788.1	B:Xaviernesmea oryzae 49.7%/370	Arthroderma uncinatum 47.7%/369	1	48	0	2	0
+cus	rare	Amanita brunnescens Koide BX004	KAF8736273.1	B:Labrys wisconsinensis 58.6%/354	Butyriboletus roseoflavus 40.7%/134	220	48	2	0	0
+cus	rare	Mycena metata	KAJ7770518.1	B:Allorhizobium ampelinum 62.7%/398	Butyriboletus roseoflavus 54.5%/194	204	48	2	0	0
+cus	rare	Mycena alexandri	KAJ7039838.1	P:Stylosanthes scabra 61.7%/388	Butyriboletus roseoflavus 51.5%/194	194	47	3	0	0
+cus	rare	Hebeloma velutipes	KAO1061018.1	B:Allorhizobium ampelinum 56.4%/381	Butyriboletus roseoflavus 46.6%/189	192	49	1	0	0
+cus	rare	Mycena rebaudengoi	KAJ7289093.1	P:Stylosanthes scabra 61.8%/382	Butyriboletus roseoflavus 51.0%/200	182	47	3	0	0
+cus	rare	Monosporozyma servazzii	CAL9735043.1	P:Ceratopteris richardii 57.4%/370	Mycena alexandri 46.9%/268	102	48	2	0	0
+mas1	control_top	Rhizopus microsporus	KAG1254624.1	B:Achromobacter marplatensis 100.0%/460	none	460	50	0	0	0
+mas1	control_random	Elaphomyces granulatus	OXV05108.1	B:Ignavibacteria bacterium 75.3%/379	none	379	49	0	0	0
+mas1	control_top	Cutaneotrichosporon sp. HIS471	BEJ12881.1	B:Xanthomonadaceae bacterium 63.7%/315	none	315	50	0	0	0
+mas1	control_top	Rhizopus arrhizus	KAG1438974.1	B:Achromobacter marplatensis 99.3%/282	none	282	50	0	0	0
+mas1	control_top	Trichosporon ovoides	KAN1538006.1	B:Pararhodospirillum oryzae 62.0%/318	Hyaloraphidium curvatum 59.6%/295	23	50	0	0	0
+mas1	control_top	Aphanocladium album	KAJ6784079.1	B:Streptomyces sp. NBC_01356 62.8%/326	Colletotrichum plurivorum 59.8%/318	8	34	0	16	0
+mas1	control_top	Talaromyces stipitatus ATCC 10500	EED24058.1	B:Acinetobacter pittii 73.2%/393	Polytolypa hystricis UAMH7299 67.1%/387	6	1	0	41	0
+mas1	control_top	Talaromyces atroroseus	OKL59002.1	B:Acinetobacter pittii 72.1%/391	Polytolypa hystricis UAMH7299 68.5%/390	1	1	0	42	0
+mas2	control_top	Mortierella sp. GBA39	KAF9139135.1	B:Paenibacillus favisporus 90.5%/583	none	583	50	0	0	0
+nos	control_random	Fusarium langsethiae	GKU08709.1	B:Agrobacterium larrymoorei 78.0%/517	Sporormia fimetaria CBS 119925 38.6%/249	268	47	0	3	0
+nos	control_top	Rhypophila sp. PSN 637	KAM7187585.1	B:Agrobacterium tumefaciens 39.5%/228	Butyriboletus roseoflavus 34.4%/129	99	45	0	5	0
+nos	control_top	Rhypophila decipiens	KAK4208163.1	B:Sinorhizobium meliloti 33.9%/189	Butyriboletus roseoflavus 33.5%/114	75	49	0	1	0
+nos	control_top	Butyriboletus roseoflavus	KAG8213183.1	B:Agrobacterium tumefaciens 39.1%/185	Rhypophila decipiens 34.3%/111	74	42	0	8	0
+nos	control_top	Rhypophila decipiens	KAM7213959.1	B:Agrobacterium vitis 34.3%/174	Butyriboletus roseoflavus 33.6%/106	68	49	0	1	0
+nos	control_top	Mycena latifolia	KAJ7458538.1	B:unclassified Bradyrhizobium 49.9%/331	Halenospora varia 44.9%/299	32	44	0	6	0
+nos	control_top	Cordyceps cateniannulata	KAN4143432.1	B:Bradyrhizobium oligotrophicum 42.7%/259	Penicillium rubens Wisconsin 54-1255 41.8%/241	18	32	0	18	0
+nos	control_top	Beauveria bassiana	PMB73139.1	B:Bradyrhizobium sp. SZCCHNS3002 41.3%/242	Aspergillus sclerotialis 37.6%/225	17	22	0	28	0
+nos	control_top	Beauveria bassiana	KAM3546940.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/244	Aspergillus sclerotialis 37.9%/227	17	22	0	28	0
+nos	control_top	Beauveria bassiana ARSEF 2860	EJP68988.1	B:Bradyrhizobium sp. SZCCHNRI1009 42.3%/255	Aspergillus terreus 37.6%/239	16	39	0	11	0
+nos	control_top	Beauveria neobassiana	KAM3467039.1	B:Bradyrhizobium sp. SZCCHNS3002 41.9%/250	Aspergillus terreus 36.7%/234	16	25	0	25	0
+nos	control_top	Beauveria neobassiana	KAM3477698.1	B:Bradyrhizobium sp. SZCCHNS3002 41.9%/250	Aspergillus terreus 36.7%/234	16	25	0	25	0
+nos	control_top	Beauveria gryllotalpidicola	KAM3507744.1	B:Bradyrhizobium sp. SZCCHNS3002 40.5%/244	Aspergillus terreus 35.8%/229	15	32	0	18	0
+nos	control_top	Beauveria bassiana	KAM3535648.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/245	Aspergillus sclerotialis 38.2%/230	15	22	0	28	0
+nos	control_top	Beauveria bassiana D1-5	KGQ08844.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/248	Aspergillus terreus 36.7%/233	15	26	0	24	0
+nos	control_top	Beauveria namnaoensis	KAM3484578.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/243	Aspergillus terreus 36.5%/229	14	28	0	22	0
+nos	control_top	Beauveria namnaoensis	KAM3494973.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/243	Aspergillus terreus 36.5%/229	14	28	0	22	0
+nos	control_top	Beauveria neobassiana	KAN5924949.1	B:Bradyrhizobium sp. SZCCHNS3002 41.9%/250	Aspergillus terreus 37.0%/236	14	25	0	25	0
+nos	control_top	Beauveria bassiana	PQK08802.1	B:Bradyrhizobium sp. SZCCHNS3002 41.6%/248	Aspergillus terreus 37.2%/236	12	24	0	26	0
+nos	control_top	Beauveria bassiana	KAM0666636.1	B:Bradyrhizobium sp. SZCCHNS3002 41.0%/243	Aspergillus sclerotialis 38.5%/234	9	42	0	8	0
+nos	control_top	Beauveria bassiana	KAM3532117.1	B:Bradyrhizobium sp. SZCCHNS3002 41.0%/239	Aspergillus sclerotialis 38.2%/234	5	34	0	16	0
+nos	control_random	Myriangium duriaei CBS 260.36	KAF2158142.1	B:Rhizobium sp. 30.2%/194	Ilyonectria destructans 32.1%/189	5	23	0	27	0
+nos	control_random	Ophiocordyceps camponoti-saundersi (nom. inval.)	RDA94655.1	B:unclassified Bradyrhizobium 38.3%/224	Penicillium angulare 36.9%/221	3	18	0	32	0
+nos	control_top	Lecanicillium sp. MT-2017a	KAK3175812.1	B:unclassified Bradyrhizobium 46.3%/101	Xylaria sp. FL0043 43.7%/99	1.6	22	0	28	0
+ocs	control_random	Fusarium langsethiae	KPA35696.1	B:Agrobacterium larrymoorei 79.1%/462	Sporormia fimetaria CBS 119925 37.3%/205	257	49	0	1	0
+ocs	control_random	Hirsutella rhossiliensis	KAH0962947.1	B:Bradyrhizobium oligotrophicum 42.5%/263	Penicillium citrinum 38.3%/242	21	25	0	25	0
+ocs	control_random	Cordyceps cateniannulata	KAN4143432.1	B:Bradyrhizobium oligotrophicum 42.7%/259	Penicillium rubens Wisconsin 54-1255 41.8%/241	18	32	0	18	0
+ocs	control_random	Beauveria bassiana	KAM0666636.1	B:Bradyrhizobium sp. SZCCHNS3002 41.0%/243	Aspergillus sclerotialis 38.5%/234	9	42	0	8	0
+ocs	control_random	Gnomoniopsis smithogilvyi	KAJ4397655.1	B:unclassified Bradyrhizobium 35.4%/199	Aspergillus taichungensis 34.7%/193	6	22	0	28	0
+ocs	control_random	Beauveria bassiana	KAM3532117.1	B:Bradyrhizobium sp. SZCCHNS3002 41.0%/239	Aspergillus sclerotialis 38.2%/234	5	34	0	16	0
+sus	rare	Aureobasidium melanogenum	KAH0437978.1	B:Paraburkholderia fungorum 99.5%/2221	none	2221	50	0	0	0
+sus	rare	Schizosaccharomyces japonicus yFS275	EEB09509.1	B:Halomonas sp. LBP4 56.9%/344	none	344	50	0	0	0
+sus	rare	Schizosaccharomyces pombe	CAC19749.1	B:Halomonas anticariensis 54.2%/322	none	322	50	0	0	0
+sus	rare	Schizosaccharomyces pombe	KAL2315332.1	B:Halomonas anticariensis 54.2%/322	none	322	50	0	0	0
+sus	rare	Schizosaccharomyces pombe	NP_593514.1	B:Halomonas anticariensis 54.2%/322	none	322	50	0	0	0
+sus	rare	Schizosaccharomyces pombe	CAN6596920.1	B:Halomonas anticariensis 54.2%/321	none	321	50	0	0	0
+sus	rare	Pestalotiopsis fici W106-1	ETS73999.1	B:Roseibium aggregatum 35.8%/144	none	144	50	0	0	0
+sus	rare	Melanogaster broomeanus	KAF9232081.1	B:Rhizobium rhizogenes 40.8%/105	none	105	37	13	0	0
+sus	rare	Moelleriella libera RCEF 2490	KZZ90191.1	B:Paraburkholderia aspalathi 25.3%/83	none	83.2	50	0	0	0
+vis	control_top	Rhizopus arrhizus	KAG1458480.1	B:Luminiphilus sp. 60.8%/475	none	475	50	0	0	0
+vis	control_top	Rhizopus arrhizus	KAG1254267.1	B:Achromobacter marplatensis 99.4%/322	none	322	50	0	0	0
+vis	control_random	Kwoniella shandongensis	WWD22210.1	B:Bosea sp. (in: a-proteobacteria) 42.5%/265	Penicillium capsulatum 34.0%/199	66	41	8	0	0
+vis	control_random	Mycena latifolia	KAJ7458538.1	B:unclassified Bradyrhizobium 49.9%/331	Halenospora varia 44.9%/299	32	44	0	6	0
+vis	control_random	Beauveria bassiana ARSEF 2860	EJP68988.1	B:Bradyrhizobium sp. SZCCHNRI1009 42.3%/255	Aspergillus terreus 37.6%/239	16	39	0	11	0
+vis	control_random	Beauveria gryllotalpidicola	KAM3507744.1	B:Bradyrhizobium sp. SZCCHNS3002 40.5%/244	Aspergillus terreus 35.8%/229	15	32	0	18	0
+vis	control_random	Cordyceps militaris	ATY61894.1	B:Bradyrhizobium sp. SZCCHNRI20481 40.1%/243	Penicillium robsamsonii 39.0%/235	8	16	0	34	0
+vis	control_top	Suillus spraguei	KAG2362636.1	B:Agrobacterium 31.3%/124	Pseudogymnoascus sp. VKM F-4519 (FW-2642) 31.4%/119	5	3	3	44	0
+vis	control_random	Claviceps sorghi	KAG5951299.1	B:unclassified Bradyrhizobium 39.3%/226	Penicillium citrinum 38.5%/221	5	23	0	27	0
+vis	control_random	Cordyceps militaris CM01	EGX90707.1	B:Bradyrhizobium sp. SRS-191 40.3%/239	Aspergillus sclerotialis 39.0%/234	5	16	0	34	0

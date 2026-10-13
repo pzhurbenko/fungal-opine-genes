@@ -1,0 +1,339 @@
+IQ-TREE 3.1.1 built Apr  8 2026
+
+Input file name: SUS.mafft.trim.aln
+Type of analysis: tree reconstruction
+Random seed number: 627561
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 125 sequences with 434 amino-acid sites
+Number of constant sites: 4 (= 0.921659% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 4 (= 0.921659% of all sites)
+Number of parsimony informative sites: 399
+Number of distinct site patterns: 434
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: Q.PFAM+R5
+
+State frequencies: (model)
+
+Model of rate heterogeneity: FreeRate with 5 categories
+Site proportion and rates:  (0.0268,0.1234) (0.1302,0.3344) (0.3123,0.6036) (0.2723,1.1153) (0.2585,1.7835)
+
+ Category  Relative_rate  Proportion
+  1         0.1234         0.0268
+  2         0.3344         0.1302
+  3         0.6036         0.3123
+  4         1.1153         0.2723
+  5         1.7835         0.2585
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -43033.0757 (s.e. 1143.0973)
+Unconstrained log-likelihood (without tree): -2635.7013
+Number of free parameters (#branches + #model parameters): 255
+Akaike information criterion (AIC) score: 86576.1513
+Corrected Akaike information criterion (AICc) score: 87309.6345
+Bayesian information criterion (BIC) score: 87614.7777
+
+Total tree length (sum of branch lengths): 50.1808
+Sum of internal branch lengths: 19.4994 (38.8583% of tree length)
+
+WARNING: 2 near-zero internal branches (<0.0023) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'FUNGI_sus_pseudogene_like__SUS_JAGFBS010000039_L1__Boletus_reticuloceps' is drawn at root
+
++--FUNGI_sus_pseudogene_like__SUS_JAGFBS010000039_L1__Boletus_reticuloceps
+|
+|                       +----------FUNGI_sus_pseudogene_like__SUS_JANATF010000012_L1__Mortierella_alpina
+|                    +--|
+|                    |  |              +-------REF_T1_sus__Agro_WP_173994934_1_MULTISPECIES_hypothetical_protein_Rhizobium_Agrobacterium_group
+|                    |  |           +--|
+|                    |  |           |  +--REF_T1_sus__Plant_Euphorbia_esula_cultivar_1984-ND001_c294543_g1_i1_whole_genome_shotgun_sequence_PJAE01404665_538_1396_
+|                    |  |        +--|
+|                    |  |        |  |     +-----REF_T1_sus__Plant_Trema_orientale_isolate_RG33-2_TorRG33x02_asm01_scf00104_whole_genome_shotgun_sequence_JXTC01000104_85
+|                    |  |        |  |  +--|
+|                    |  |        |  |  |  +-----REF_T1_sus__Plant_Parasponia_andersonii_isolate_WU1-14_PanWU01x14_asm01_scf00642_whole_genome_shotgun_sequence_JXTB01000
+|                    |  |        |  +--|
+|                    |  |        |     |        +**REF_T1_sus__Plant_Nicotiana_tomentosiformis_chromosome_7_whole_genome_shotgun_sequence_ASAG02000007_48191676_48192687_33
+|                    |  |        |     |     +--|
+|                    |  |        |     |     |  +--REF_T1_sus__Plant_Nicotiana_tabacum_whole_genome_shotgun_sequence_AWOK01615540_1343_1844_2709_3255_337
+|                    |  |        |     |  +--|
+|                    |  |        |     |  |  |     +--REF_T1_sus__Plant_Parasponia_andersonii_isolate_WU1-14_PanWU01x14_asm01_scf00069_whole_genome_shotgun_sequence_JXTB01000
+|                    |  |        |     |  |  |  +--|
+|                    |  |        |     |  |  |  |  +--REF_T1_sus__Plant_PON40587_1_Parasponia_andersonii_extra
+|                    |  |        |     |  |  +--|
+|                    |  |        |     |  |     +--REF_T1_sus__Plant_PON40593_1_Parasponia_andersonii_extra
+|                    |  |        |     +--|
+|                    |  |        |        |  +--REF_T1_sus__Plant_Diospyros_kaki_Taishu_DNA_chromosome_4_draft_genome_sequence_whole_genome_shotgun_sequence_BSEG0100000
+|                    |  |        |        +--|
+|                    |  |        |           +---REF_T1_sus__Plant_PON40591_1_Parasponia_andersonii_extra
+|                    |  |     +--|
+|                    |  |     |  |              +--REF_T1_sus__Agro_WP_269710210_1_hypothetical_protein_Rhizobium_rhizogenes
+|                    |  |     |  |           +--|
+|                    |  |     |  |           |  +--REF_T2_sus__WP_174080856.1_Rhizobiaceae
+|                    |  |     |  |        +--|
+|                    |  |     |  |        |  +--REF_T2_sus__WP_174075806.1_Martinezella_rhizogenes
+|                    |  |     |  |     +--|
+|                    |  |     |  |     |  +--REF_T1_sus__Plant_Ipomoea_batatas_cultivar_Taizhong6_chromosome_7_chr7_whole_genome_shotgun_sequence_NXFB01000007_669149
+|                    |  |     |  |  +--|
+|                    |  |     |  |  |  +--REF_T1_sus__Plant_Diospyros_lotus_cultivar_W01_chromosome_8_whole_genome_shotgun_sequence_JACNMG010000008_25289896_25290
+|                    |  |     |  +--|
+|                    |  |     |     |  +--REF_T1_sus__Plant_Cyclocarya_paliurus_isolate_4PA2023_chromosome_3D_whole_genome_shotgun_sequence_JARVXO010000040_360772
+|                    |  |     |     +--|
+|                    |  |     |        |     +**REF_T1_sus__Plant_Juglans_mandshurica_isolate_NFU_2021_chromosome_7_whole_genome_shotgun_sequence_JAJJIX010000014_339239
+|                    |  |     |        |  +--|
+|                    |  |     |        |  |  +--REF_T1_sus__Plant_Juglans_cathayensis_isolate_DJUG11_03_scaffold974_whole_genome_shotgun_sequence_QEOU01000974_212575_21
+|                    |  |     |        +--|
+|                    |  |     |           +--REF_T1_sus__Plant_Juglans_sigillata_isolate_DJUG951_04_scaffold4680_whole_genome_shotgun_sequence_QEOY01004675_7665_8676
+|                    |  |  +--|
+|                    |  |  |  |     +--REF_T1_sus__Agro_WP_034521016_1_MULTISPECIES_hypothetical_protein_Rhizobium_Agrobacterium_group
+|                    |  |  |  |  +--|
+|                    |  |  |  |  |  +--REF_T1_sus__Agro_WP_174158420_1_hypothetical_protein_Rhizobium_rhizogenes
+|                    |  |  |  +--|
+|                    |  |  |     +-----REF_T1_sus__Plant_Quillaja_saponaria_isolate_S10_chromosome_2_whole_genome_shotgun_sequence_JARAOO010000002_12791051_127
+|                    |  +**|
+|                    |     +---------REF_T1_sus__Agro_WP_107028680_1_hypothetical_protein_Ensifer_sp_NM-2
+|                 +--|
+|                 |  |                 +--FUNGI_sus_intact__SUS_JBBPTQ010005164_L1__Tylopilus_aff.
+|                 |  |              +--|
+|                 |  |              |  |  +--FUNGI_sus_intact__SUS_JBBPVZ010000240_L1__Porphyrellus_sp.
+|                 |  |              |  +--|
+|                 |  |              |     +--FUNGI_sus_intact__SUS_JBBPVZ010030891_L1__Porphyrellus_sp.
+|                 |  |           +--|
+|                 |  |           |  |     +--FUNGI_sus_intact__SUS_JBBPWO010009350_L1__Boletaceae_sp.
+|                 |  |           |  |  +--|
+|                 |  |           |  |  |  +--FUNGI_sus_intact__SUS_JBBPWO010073651_L1__Boletaceae_sp.
+|                 |  |           |  +--|
+|                 |  |           |     +--FUNGI_sus_intact__SUS_JBBPXK010000119_L1__Porphyrellus_sp.
+|                 |  |        +--|
+|                 |  |        |  +--FUNGI_sus_intact__SUS_JBBPWT010000047_L1__Boletaceae_sp.
+|                 |  |     +--|
+|                 |  |     |  +--FUNGI_sus_intact__SUS_JBBPXA010000488_L1__Tylopilus_sp.
+|                 |  |  +--|
+|                 |  |  |  |  +--FUNGI_sus_pseudogene_like__SUS_JBBPWU010000114_L1__Porphyrellus_sp.
+|                 |  |  |  +--|
+|                 |  |  |     +--FUNGI_sus_intact__SUS_JBBPXF010000575_L1__Porphyrellus_sp.
+|                 |  +--|
+|                 |     |  +--FUNGI_sus_intact__SUS_JBBPXB010001911_L1__Boletellus_sp.
+|                 |     +--|
+|                 |        +--FUNGI_sus_intact__SUS_JBBPXB010007365_L1__Boletellus_sp.
+|              +--|
+|              |  |               +-------FUNGI_sus_intact__SUS_JAOXNW010100945_L1__Echinosphaeria_canescens
+|              |  |            +--|
+|              |  |            |  |              +--FUNGI_sus_intact__SUS_QFEG01000233_L1__Boletus_speciosus
+|              |  |            |  +--------------|
+|              |  |            |                 +**FUNGI_sus_intact__SUS_QFEH01000351_L1__Retiboletus_ornatipes
+|              |  |         +--|
+|              |  |         |  +---------OG__Agro_WP_111794418_1_MULTISPECIES_hypothetical_protein_Agrobacterium
+|              |  |      +--|
+|              |  |      |  +-------FUNGI_sus_intact__SUS_JBBPSN010000183_L1__Austroboletus_olivaceoglutinosus
+|              |  +------|
+|              |         |            +--REF_T2x_ocd_other_bacteria__WP_085545780.1_Burkholderia_pseudomallei
+|              |         |         +--|
+|              |         |         |  +--REF_T2x_ocd_other_bacteria__WP_250131643.1_Salmonella_bongori
+|              |         |     +---|
+|              |         |     |   +-----REF_T2x_ocd_other_bacteria__WP_188326420.1_Stenotrophomonas_sp._169
+|              |         |  +--|
+|              |         |  |  |     +-----REF_T2x_ocd_other_bacteria__WP_262165449.1_Devosia_neptuniae
+|              |         |  |  |  +--|
+|              |         |  |  |  |  |     +--REF_T2x_ocd_rhizobiales_chromosomal__AUC13453.1_Rhizobium_sp._Y9
+|              |         |  |  |  |  |  +--|
+|              |         |  |  |  |  |  |  |  +--REF_T2x_ocd_rhizobiales_chromosomal__WP_114836055.1_Agrobacterium_tumefaciens
+|              |         |  |  |  |  |  |  +--|
+|              |         |  |  |  |  |  |     +--REF_T2x_ocd_rhizobiales_chromosomal__UXT93026.1_Agrobacterium_pusense
+|              |         |  |  |  |  +--|
+|              |         |  |  |  |     +--REF_T2x_ocd_rhizobiales_chromosomal__QDG94046.1_Rhizobium_sp._NIBRBAC000502774
+|              |         |  |  +--|
+|              |         |  |     |  +--REF_T2x_ocd_rhizobiales_chromosomal__MFA7416147.1_Rhizobium_sp.
+|              |         |  |     +--|
+|              |         |  |        +--REF_T2x_ocd_rhizobiales_chromosomal__MBA3043409.1_Rhizobiaceae_bacterium
+|              |         +--|
+|              |            |     +-------------REF_T2x_ocd_other_bacteria__WP_329068487.1_Streptomyces_sp._NBC_01429
+|              |            |  +--|
+|              |            |  |  |                          +-------REF_T2x_ocd_other_bacteria__APF35841.1_Microbacterium_paludicola
+|              |            |  |  |                      +---|
+|              |            |  |  |                      |   |  +-----REF_T2x_ocd_other_bacteria__BFD90164.1_Kitasatospora_sp._Xyl93
+|              |            |  |  |                      |   +--|
+|              |            |  |  |                      |      +---REF_T2x_ocd_other_bacteria__WP_313720880.1_Micromonospora_halotolerans
+|              |            |  |  |                   +--|
+|              |            |  |  |                   |  +--REF_T2x_ocd_other_bacteria__HYH28366.1_Actinomycetota_bacterium
+|              |            |  |  |                +--|
+|              |            |  |  |                |  +-----REF_T2x_ocd_other_bacteria__TMC60602.1_Chloroflexota_bacterium
+|              |            |  |  |             +--|
+|              |            |  |  |             |  |                      +--REF_T2x_ocd_other_bacteria__PZN56776.1_Pseudomonadota_bacterium
+|              |            |  |  |             |  |                   +--|
+|              |            |  |  |             |  |                   |  +--REF_T2x_ocd_rhizobiales_chromosomal__WIE93331.1_Mesorhizobium_sp._WSM4875
+|              |            |  |  |             |  |                +--|
+|              |            |  |  |             |  |                |  +--REF_T2x_ocd_rhizobiales_chromosomal__WP_126097880.1_Mesorhizobium_sp._M1B.F.Ca.ET.045.04.1.1
+|              |            |  |  |             |  |             +--|
+|              |            |  |  |             |  |             |  +--REF_T2x_ocd_other_bacteria__WP_206548719.1_Alphaproteobacteria
+|              |            |  |  |             |  |          +--|
+|              |            |  |  |             |  |          |  |  +--REF_T2x_ocd_rhizobiales_chromosomal__WP_228017358.1_Phyllobacterium_pellucidum
+|              |            |  |  |             |  |          |  +--|
+|              |            |  |  |             |  |          |     +--REF_T2x_ocd_rhizobiales_chromosomal__WP_262294504.1_Phyllobacterium_zundukense
+|              |            |  |  |             |  |       +--|
+|              |            |  |  |             |  |       |  +--OG__WP_151986804.1_Rhizobium_sp._EC-SD404
+|              |            |  |  |             |  |  +----|
+|              |            |  |  |             |  |  |    |        +--REF_T2x_ocd_rhizobiales_chromosomal__WP_069042703.1_unclassified_Agrobacterium
+|              |            |  |  |             |  |  |    |     +--|
+|              |            |  |  |             |  |  |    |     |  |     +--REF_T2x_ocd_rhizobiales_chromosomal__WP_085857703.1_unclassified_Rhizobium
+|              |            |  |  |             |  |  |    |     |  |  +--|
+|              |            |  |  |             |  |  |    |     |  |  |  |  +--REF_T2x_ocd_rhizobiales_chromosomal__WP_210057129.1_Neorhizobium_petrolearium
+|              |            |  |  |             |  |  |    |     |  |  |  +--|
+|              |            |  |  |             |  |  |    |     |  |  |     +--REF_T2x_ocd_rhizobiales_chromosomal__WP_233954827.1_Neorhizobium_galegae
+|              |            |  |  |             |  |  |    |     |  +--|
+|              |            |  |  |             |  |  |    |     |     +--REF_T2x_ocd_rhizobiales_chromosomal__WP_084365946.1_Rhizobium_sp._RU36D
+|              |            |  |  |             |  |  |    |  +--|
+|              |            |  |  |             |  |  |    |  |  |     +--REF_T2x_ocd_rhizobiales_chromosomal__WP_026615224.1_Ensifer_aridi
+|              |            |  |  |             |  |  |    |  |  |  +--|
+|              |            |  |  |             |  |  |    |  |  |  |  +--REF_T2x_ocd_rhizobiales_chromosomal__WP_026619421.1_Ensifer_sp._WSM1721
+|              |            |  |  |             |  |  |    |  |  +--|
+|              |            |  |  |             |  |  |    |  |     |  +**REF_T2x_ocd_rhizobiales_chromosomal__WP_037418621.1_Sinorhizobium_sp._CCBAU_05631
+|              |            |  |  |             |  |  |    |  |     +--|
+|              |            |  |  |             |  |  |    |  |        +--REF_T2x_ocd_rhizobiales_chromosomal__WP_097540713.1_Sinorhizobium
+|              |            |  |  |             |  |  |    +--|
+|              |            |  |  |             |  |  |       |  +--------OG__KAH0437978.1_Aureobasidium_melanogenum
+|              |            |  |  |             |  |  |       +--|
+|              |            |  |  |             |  |  |          +-----OG__XP_056037437.1_Schizosaccharomyces_osmophilus
+|              |            |  |  |             |  +--|
+|              |            |  |  |             |     |     +------------REF_T2x_ocd_other_bacteria__QOT73213.1_Sphingobium_fuliginis
+|              |            |  |  |             |     |  +--|
+|              |            |  |  |             |     |  |  +------OG__WP_062264854.1_Methanoculleus_bourgensis
+|              |            |  |  |             |     +--|
+|              |            |  |  |             |        +--------OG__WP_089777055.1_Haloferax_massiliensis
+|              |            |  |  |          +--|
+|              |            |  |  |          |  |    +-----OG__KAF8552678.1_Imleria_badia
+|              |            |  |  |          |  +----|
+|              |            |  |  |          |       +----OG__KFH71693.1_Podila_verticillata_NRRL_6337
+|              |            |  |  |    +-----|
+|              |            |  |  |    |     +------OG__WP_188602682.1_Vulcanisaeta_souniana
+|              |            |  |  +----|
+|              |            |  |       +-----------REF_T2x_ocd_other_bacteria__WP_127491873.1_Paenibacillus_glycanilyticus
+|              |            +--|
+|              |               |               +--OG__XP_007840637.1_Pestalotiopsis_fici_W106-1
+|              |               |            +--|
+|              |               |            |  +--NATIVE_Sordariomycetes__SUS_JACWGD010000003_L1__Pseudopestalotiopsis_theae
+|              |               +------------|
+|              |                            +**NATIVE_Sordariomycetes__SUS_JAPTGH010000011_L1__Pseudopestalotiopsis_chinensis
+|           +--|
+|           |  +--FUNGI_sus_intact__SUS_JBBPUD010000148_L1__Phylloporus_aff.
+|        +--|
+|        |  |           +--FUNGI_sus_pseudogene_like__SUS_JBBPJZ010002221_L1__Chalciporus_aff.
+|        |  |        +--|
+|        |  |        |  +--FUNGI_sus_intact__SUS_JBBPJZ010007258_L1__Chalciporus_aff.
+|        |  |     +--|
+|        |  |     |  +--FUNGI_sus_intact__SUS_JBBPTT010006837_L1__Boletellus_aff.
+|        |  |  +--|
+|        |  |  |  |  +**FUNGI_sus_intact__SUS_JBBPVF010000849_L1__Phylloporus_sp.
+|        |  |  |  +--|
+|        |  |  |     +--FUNGI_sus_intact__SUS_JBBPWB010005531_L1__Phylloporus_sp.
+|        |  +--|
+|        |     |     +--FUNGI_sus_intact__SUS_JBBPLU010000323_L1__Boletellus_emodensis
+|        |     |  +--|
+|        |     |  |  +--FUNGI_sus_intact__SUS_JBBPMG010000116_L1__Boletellus_deceptivus
+|        |     +--|
+|        |        |  +**FUNGI_sus_intact__SUS_JBBPLV010001943_L1__Boletellus_ananiceps
+|        |        +--|
+|        |           +**FUNGI_sus_intact__SUS_JBBPLV010001943_S2L1__Boletellus_ananiceps
+|     +--|
+|     |  |        +--FUNGI_sus_pseudogene_like__SUS_JBBPJQ010000015_L1__Boletus_rex-veris
+|     |  |     +--|
+|     |  |     |  +--FUNGI_sus_pseudogene_like__SUS_JBBPJQ010001889_L1__Boletus_rex-veris
+|     |  |  +--|
+|     |  |  |  +--FUNGI_sus_pseudogene_like__SUS_WIOP01000636_L1__Melanogaster_broomeanus
+|     |  +--|
+|     |     |  +--FUNGI_sus_pseudogene_like__SUS_JBBPNB010002703_L1__Rubroboletus_satanas
+|     |     +--|
+|     |        +--FUNGI_sus_pseudogene_like__SUS_JBBPND010000159_L1__Gastroboletus_turbinatus
+|  +--|
+|  |  |  +--FUNGI_sus_pseudogene_like__SUS_JBBPTS010002895_L1__Fistulinella_staudtii
+|  |  +--|
+|  |     +--FUNGI_sus_pseudogene_like__SUS_JBBPWX010001359_L1__Tylopilus_sp.
++--|
+|  |        +--FUNGI_sus_intact__SUS_JBBPJM010005915_L1__Boletus_variipes
+|  |     +--|
+|  |     |  +---FUNGI_sus_intact__SUS_JBBPOG010000890_L1__Austroboletus_festivus
+|  |  +--|
+|  |  |  |                 +--FUNGI_sus_pseudogene_like__SUS_JBBPJX010000484_L1__Neotropicomus_parvogracilis
+|  |  |  |              +--|
+|  |  |  |              |  |  +--FUNGI_sus_pseudogene_like__SUS_JBBPWX010000117_L1__Tylopilus_sp.
+|  |  |  |              |  +--|
+|  |  |  |              |     +--FUNGI_sus_pseudogene_like__SUS_JBBPWX010003679_L1__Tylopilus_sp.
+|  |  |  |           +--|
+|  |  |  |           |  +--FUNGI_sus_pseudogene_like__SUS_JBBPJX010000568_L1__Neotropicomus_parvogracilis
+|  |  |  |        +--|
+|  |  |  |        |  +--FUNGI_sus_intact__SUS_JBBPKI010000869_L1__Nevesoporus_exiguus
+|  |  |  |     +--|
+|  |  |  |     |  +--FUNGI_sus_pseudogene_like__SUS_JBBPKI010000725_L1__Nevesoporus_exiguus
+|  |  |  |  +--|
+|  |  |  |  |  +--FUNGI_sus_pseudogene_like__SUS_JBBPKI010001675_L1__Nevesoporus_exiguus
+|  |  |  +--|
+|  |  |     |  +--FUNGI_sus_pseudogene_like__SUS_JBBPKI010000406_L1__Nevesoporus_exiguus
+|  |  |     +--|
+|  |  |        |  +--FUNGI_sus_intact__SUS_JBBPKI010000567_L1__Nevesoporus_exiguus
+|  |  |        +--|
+|  |  |           |  +--FUNGI_sus_pseudogene_like__SUS_JBBPWX010001246_L1__Tylopilus_sp.
+|  |  |           +--|
+|  |  |              +--FUNGI_sus_pseudogene_like__SUS_JBBPWX010003574_L1__Tylopilus_sp.
+|  +--|
+|     |  +--FUNGI_sus_intact__SUS_JBBPLJ010000677_L1__Veloporphyrellus_conicus
+|     +--|
+|        +--FUNGI_sus_intact__SUS_JBBPLJ010000841_L1__Veloporphyrellus_conicus
+|
+|  +--FUNGI_sus_intact__SUS_JBBPJJ010005399_L1__Veloboletus_limbatus
++--|
+   |     +--FUNGI_sus_intact__SUS_JBBPLV010001121_L1__Boletellus_ananiceps
+   |  +**|
+   |  |  +--FUNGI_sus_intact__SUS_JBBPLY010003693_L1__Xerocomus_nothofagi
+   +--|
+      |  +--FUNGI_sus_intact__SUS_JBBPMG010001931_L1__Boletellus_deceptivus
+      +--|
+         |  +**FUNGI_sus_intact__SUS_JBBPMG010004664_L1__Boletellus_deceptivus
+         +--|
+            +**FUNGI_sus_intact__SUS_JBBPMG010004664_S2L1__Boletellus_deceptivus
+
+Tree in newick format:
+
+(FUNGI_sus_pseudogene_like__SUS_JAGFBS010000039_L1__Boletus_reticuloceps:0.0283141643,((((((((FUNGI_sus_pseudogene_like__SUS_JANATF010000012_L1__Mortierella_alpina:1.1279092900,(((((REF_T1_sus__Agro_WP_173994934_1_MULTISPECIES_hypothetical_protein_Rhizobium_Agrobacterium_group:0.8524319285,REF_T1_sus__Plant_Euphorbia_esula_cultivar_1984-ND001_c294543_g1_i1_whole_genome_shotgun_sequence_PJAE01404665_538_1396_:0.2310969245):0.1128401350,((REF_T1_sus__Plant_Trema_orientale_isolate_RG33-2_TorRG33x02_asm01_scf00104_whole_genome_shotgun_sequence_JXTC01000104_85:0.6398203001,REF_T1_sus__Plant_Parasponia_andersonii_isolate_WU1-14_PanWU01x14_asm01_scf00642_whole_genome_shotgun_sequence_JXTB01000:0.6731089720):0.2455396546,(((REF_T1_sus__Plant_Nicotiana_tomentosiformis_chromosome_7_whole_genome_shotgun_sequence_ASAG02000007_48191676_48192687_33:0.0000010030,REF_T1_sus__Plant_Nicotiana_tabacum_whole_genome_shotgun_sequence_AWOK01615540_1343_1844_2709_3255_337:0.0033210284):0.1901690253,((REF_T1_sus__Plant_Parasponia_andersonii_isolate_WU1-14_PanWU01x14_asm01_scf00069_whole_genome_shotgun_sequence_JXTB01000:0.1582885876,REF_T1_sus__Plant_PON40587_1_Parasponia_andersonii_extra:0.2376717871):0.0551623681,REF_T1_sus__Plant_PON40593_1_Parasponia_andersonii_extra:0.2878159165):0.0862786723):0.2607159123,(REF_T1_sus__Plant_Diospyros_kaki_Taishu_DNA_chromosome_4_draft_genome_sequence_whole_genome_shotgun_sequence_BSEG0100000:0.2115364698,REF_T1_sus__Plant_PON40591_1_Parasponia_andersonii_extra:0.4185982660):0.2636589219):0.0609161907):0.0368438324):0.0313183510,(((((REF_T1_sus__Agro_WP_269710210_1_hypothetical_protein_Rhizobium_rhizogenes:0.0111919511,REF_T2_sus__WP_174080856.1_Rhizobiaceae:0.0143322939):0.0197976091,REF_T2_sus__WP_174075806.1_Martinezella_rhizogenes:0.0363375031):0.0572042461,REF_T1_sus__Plant_Ipomoea_batatas_cultivar_Taizhong6_chromosome_7_chr7_whole_genome_shotgun_sequence_NXFB01000007_669149:0.2627119952):0.0909899441,REF_T1_sus__Plant_Diospyros_lotus_cultivar_W01_chromosome_8_whole_genome_shotgun_sequence_JACNMG010000008_25289896_25290:0.1573384529):0.1500275778,(REF_T1_sus__Plant_Cyclocarya_paliurus_isolate_4PA2023_chromosome_3D_whole_genome_shotgun_sequence_JARVXO010000040_360772:0.0202670096,((REF_T1_sus__Plant_Juglans_mandshurica_isolate_NFU_2021_chromosome_7_whole_genome_shotgun_sequence_JAJJIX010000014_339239:0.0000010030,REF_T1_sus__Plant_Juglans_cathayensis_isolate_DJUG11_03_scaffold974_whole_genome_shotgun_sequence_QEOU01000974_212575_21:0.0033186494):0.0032269541,REF_T1_sus__Plant_Juglans_sigillata_isolate_DJUG951_04_scaffold4680_whole_genome_shotgun_sequence_QEOY01004675_7665_8676:0.0203576119):0.0138121026):0.1292984009):0.0396250316):0.0384103928,((REF_T1_sus__Agro_WP_034521016_1_MULTISPECIES_hypothetical_protein_Rhizobium_Agrobacterium_group:0.0940923969,REF_T1_sus__Agro_WP_174158420_1_hypothetical_protein_Rhizobium_rhizogenes:0.0957136065):0.2612820561,REF_T1_sus__Plant_Quillaja_saponaria_isolate_S10_chromosome_2_whole_genome_shotgun_sequence_JARAOO010000002_12791051_127:0.6031580506):0.0496740394):0.1556143005,REF_T1_sus__Agro_WP_107028680_1_hypothetical_protein_Ensifer_sp_NM-2:1.0111760350):0.0000021754):0.0593850010,((((((FUNGI_sus_intact__SUS_JBBPTQ010005164_L1__Tylopilus_aff.:0.1109581107,(FUNGI_sus_intact__SUS_JBBPVZ010000240_L1__Porphyrellus_sp.:0.0099705940,FUNGI_sus_intact__SUS_JBBPVZ010030891_L1__Porphyrellus_sp.:0.0136553779):0.1214027351):0.0308012020,((FUNGI_sus_intact__SUS_JBBPWO010009350_L1__Boletaceae_sp.:0.0104276138,FUNGI_sus_intact__SUS_JBBPWO010073651_L1__Boletaceae_sp.:0.0165335989):0.0993215844,FUNGI_sus_intact__SUS_JBBPXK010000119_L1__Porphyrellus_sp.:0.1049806751):0.0641987519):0.1738625178,FUNGI_sus_intact__SUS_JBBPWT010000047_L1__Boletaceae_sp.:0.1290447155):0.1370102359,FUNGI_sus_intact__SUS_JBBPXA010000488_L1__Tylopilus_sp.:0.1142422487):0.0349117310,(FUNGI_sus_pseudogene_like__SUS_JBBPWU010000114_L1__Porphyrellus_sp.:0.2286470970,FUNGI_sus_intact__SUS_JBBPXF010000575_L1__Porphyrellus_sp.:0.1005548734):0.0149680380):0.1506677417,(FUNGI_sus_intact__SUS_JBBPXB010001911_L1__Boletellus_sp.:0.0940609784,FUNGI_sus_intact__SUS_JBBPXB010007365_L1__Boletellus_sp.:0.0447987268):0.2169140405):0.0668480750):0.1234768994,((((FUNGI_sus_intact__SUS_JAOXNW010100945_L1__Echinosphaeria_canescens:0.7884240281,(FUNGI_sus_intact__SUS_QFEG01000233_L1__Boletus_speciosus:0.0046383869,FUNGI_sus_intact__SUS_QFEH01000351_L1__Retiboletus_ornatipes:0.0000022444):1.5241144679):0.2703263725,OG__Agro_WP_111794418_1_MULTISPECIES_hypothetical_protein_Agrobacterium:1.0598301598):0.1654614559,FUNGI_sus_intact__SUS_JBBPSN010000183_L1__Austroboletus_olivaceoglutinosus:0.7837099968):0.1963032003,((((REF_T2x_ocd_other_bacteria__WP_085545780.1_Burkholderia_pseudomallei:0.2871853486,REF_T2x_ocd_other_bacteria__WP_250131643.1_Salmonella_bongori:0.3331771812):0.2546481604,REF_T2x_ocd_other_bacteria__WP_188326420.1_Stenotrophomonas_sp._169:0.6728251035):0.4070488460,((REF_T2x_ocd_other_bacteria__WP_262165449.1_Devosia_neptuniae:0.6338805722,((REF_T2x_ocd_rhizobiales_chromosomal__AUC13453.1_Rhizobium_sp._Y9:0.0140642903,(REF_T2x_ocd_rhizobiales_chromosomal__WP_114836055.1_Agrobacterium_tumefaciens:0.0152046225,REF_T2x_ocd_rhizobiales_chromosomal__UXT93026.1_Agrobacterium_pusense:0.0177721399):0.0073387323):0.0771417210,REF_T2x_ocd_rhizobiales_chromosomal__QDG94046.1_Rhizobium_sp._NIBRBAC000502774:0.1010303486):0.3758970609):0.1127926816,(REF_T2x_ocd_rhizobiales_chromosomal__MFA7416147.1_Rhizobium_sp.:0.2099413473,REF_T2x_ocd_rhizobiales_chromosomal__MBA3043409.1_Rhizobiaceae_bacterium:0.1503249631):0.3891747013):0.1677792885):0.2085865079,((REF_T2x_ocd_other_bacteria__WP_329068487.1_Streptomyces_sp._NBC_01429:1.4477223072,(((((((REF_T2x_ocd_other_bacteria__APF35841.1_Microbacterium_paludicola:0.8727925363,(REF_T2x_ocd_other_bacteria__BFD90164.1_Kitasatospora_sp._Xyl93:0.6369329454,REF_T2x_ocd_other_bacteria__WP_313720880.1_Micromonospora_halotolerans:0.4606420150):0.0972006581):0.4001634928,REF_T2x_ocd_other_bacteria__HYH28366.1_Actinomycetota_bacterium:0.3506720145):0.2915963025,REF_T2x_ocd_other_bacteria__TMC60602.1_Chloroflexota_bacterium:0.6632493106):0.0271018661,(((((((REF_T2x_ocd_other_bacteria__PZN56776.1_Pseudomonadota_bacterium:0.1648696007,REF_T2x_ocd_rhizobiales_chromosomal__WIE93331.1_Mesorhizobium_sp._WSM4875:0.0596588800):0.0234707240,REF_T2x_ocd_rhizobiales_chromosomal__WP_126097880.1_Mesorhizobium_sp._M1B.F.Ca.ET.045.04.1.1:0.0416862903):0.1774160554,REF_T2x_ocd_other_bacteria__WP_206548719.1_Alphaproteobacteria:0.2284023398):0.1302572774,(REF_T2x_ocd_rhizobiales_chromosomal__WP_228017358.1_Phyllobacterium_pellucidum:0.0476677457,REF_T2x_ocd_rhizobiales_chromosomal__WP_262294504.1_Phyllobacterium_zundukense:0.0950252740):0.2320565881):0.1153518713,OG__WP_151986804.1_Rhizobium_sp._EC-SD404:0.3168818687):0.1330025079,(((REF_T2x_ocd_rhizobiales_chromosomal__WP_069042703.1_unclassified_Agrobacterium:0.2435684335,((REF_T2x_ocd_rhizobiales_chromosomal__WP_085857703.1_unclassified_Rhizobium:0.2114010461,(REF_T2x_ocd_rhizobiales_chromosomal__WP_210057129.1_Neorhizobium_petrolearium:0.0767875572,REF_T2x_ocd_rhizobiales_chromosomal__WP_233954827.1_Neorhizobium_galegae:0.0899235675):0.1460090896):0.0784132449,REF_T2x_ocd_rhizobiales_chromosomal__WP_084365946.1_Rhizobium_sp._RU36D:0.2180790000):0.0619895932):0.1086380694,((REF_T2x_ocd_rhizobiales_chromosomal__WP_026615224.1_Ensifer_aridi:0.0242287575,REF_T2x_ocd_rhizobiales_chromosomal__WP_026619421.1_Ensifer_sp._WSM1721:0.0292632783):0.0413329672,(REF_T2x_ocd_rhizobiales_chromosomal__WP_037418621.1_Sinorhizobium_sp._CCBAU_05631:0.0000021920,REF_T2x_ocd_rhizobiales_chromosomal__WP_097540713.1_Sinorhizobium:0.0035475537):0.0857271130):0.1629171745):0.1857111133,(OG__KAH0437978.1_Aureobasidium_melanogenum:0.8939564973,OG__XP_056037437.1_Schizosaccharomyces_osmophilus:0.6759021505):0.1608668019):0.0646028960):0.5050561746,((REF_T2x_ocd_other_bacteria__QOT73213.1_Sphingobium_fuliginis:1.3226747996,OG__WP_062264854.1_Methanoculleus_bourgensis:0.7523795059):0.2685926973,OG__WP_089777055.1_Haloferax_massiliensis:0.9619089778):0.1474687920):0.1083168479):0.1559666376,(OG__KAF8552678.1_Imleria_badia:0.6511919540,OG__KFH71693.1_Podila_verticillata_NRRL_6337:0.5197276905):0.5610764420):0.1548307533,OG__WP_188602682.1_Vulcanisaeta_souniana:0.7569623320):0.6756765480,REF_T2x_ocd_other_bacteria__WP_127491873.1_Paenibacillus_glycanilyticus:1.2537912907):0.5292768502):0.3415036474,((OG__XP_007840637.1_Pestalotiopsis_fici_W106-1:0.0104360542,NATIVE_Sordariomycetes__SUS_JACWGD010000003_L1__Pseudopestalotiopsis_theae:0.1595845546):0.0118408732,NATIVE_Sordariomycetes__SUS_JAPTGH010000011_L1__Pseudopestalotiopsis_chinensis:0.0018076289):1.3228456126):0.1563662277):0.3771820392):0.7360136780):0.0563177069,FUNGI_sus_intact__SUS_JBBPUD010000148_L1__Phylloporus_aff.:0.3711370038):0.3314043416,((((FUNGI_sus_pseudogene_like__SUS_JBBPJZ010002221_L1__Chalciporus_aff.:0.0568245069,FUNGI_sus_intact__SUS_JBBPJZ010007258_L1__Chalciporus_aff.:0.0210692318):0.0755830286,FUNGI_sus_intact__SUS_JBBPTT010006837_L1__Boletellus_aff.:0.2235864504):0.0553454038,(FUNGI_sus_intact__SUS_JBBPVF010000849_L1__Phylloporus_sp.:0.0000020501,FUNGI_sus_intact__SUS_JBBPWB010005531_L1__Phylloporus_sp.:0.0100491395):0.1433794042):0.0399662659,((FUNGI_sus_intact__SUS_JBBPLU010000323_L1__Boletellus_emodensis:0.0505156507,FUNGI_sus_intact__SUS_JBBPMG010000116_L1__Boletellus_deceptivus:0.0859886996):0.0292637578,(FUNGI_sus_intact__SUS_JBBPLV010001943_L1__Boletellus_ananiceps:0.0000010030,FUNGI_sus_intact__SUS_JBBPLV010001943_S2L1__Boletellus_ananiceps:0.0000010030):0.0424100810):0.0877887472):0.2948707631):0.3152617025,(((FUNGI_sus_pseudogene_like__SUS_JBBPJQ010000015_L1__Boletus_rex-veris:0.2332477625,FUNGI_sus_pseudogene_like__SUS_JBBPJQ010001889_L1__Boletus_rex-veris:0.2750253186):0.0287225257,FUNGI_sus_pseudogene_like__SUS_WIOP01000636_L1__Melanogaster_broomeanus:0.1797609252):0.0521280074,(FUNGI_sus_pseudogene_like__SUS_JBBPNB010002703_L1__Rubroboletus_satanas:0.1715286458,FUNGI_sus_pseudogene_like__SUS_JBBPND010000159_L1__Gastroboletus_turbinatus:0.1105132618):0.0691883943):0.1440556675):0.0812710737,(FUNGI_sus_pseudogene_like__SUS_JBBPTS010002895_L1__Fistulinella_staudtii:0.1018277195,FUNGI_sus_pseudogene_like__SUS_JBBPWX010001359_L1__Tylopilus_sp.:0.1064570800):0.0567971554):0.0168056035,(((FUNGI_sus_intact__SUS_JBBPJM010005915_L1__Boletus_variipes:0.0843741512,FUNGI_sus_intact__SUS_JBBPOG010000890_L1__Austroboletus_festivus:0.4277600374):0.0136988271,((((((FUNGI_sus_pseudogene_like__SUS_JBBPJX010000484_L1__Neotropicomus_parvogracilis:0.0653744287,(FUNGI_sus_pseudogene_like__SUS_JBBPWX010000117_L1__Tylopilus_sp.:0.0346326310,FUNGI_sus_pseudogene_like__SUS_JBBPWX010003679_L1__Tylopilus_sp.:0.0315413203):0.2703387704):0.0418779171,FUNGI_sus_pseudogene_like__SUS_JBBPJX010000568_L1__Neotropicomus_parvogracilis:0.0720675387):0.0459276658,FUNGI_sus_intact__SUS_JBBPKI010000869_L1__Nevesoporus_exiguus:0.0518547499):0.0230860138,FUNGI_sus_pseudogene_like__SUS_JBBPKI010000725_L1__Nevesoporus_exiguus:0.0626283203):0.0087102494,FUNGI_sus_pseudogene_like__SUS_JBBPKI010001675_L1__Nevesoporus_exiguus:0.0375850550):0.0141787649,(FUNGI_sus_pseudogene_like__SUS_JBBPKI010000406_L1__Nevesoporus_exiguus:0.0684518194,(FUNGI_sus_intact__SUS_JBBPKI010000567_L1__Nevesoporus_exiguus:0.0304348715,(FUNGI_sus_pseudogene_like__SUS_JBBPWX010001246_L1__Tylopilus_sp.:0.0200010488,FUNGI_sus_pseudogene_like__SUS_JBBPWX010003574_L1__Tylopilus_sp.:0.0101043884):0.2978203858):0.0415752879):0.0212290556):0.0221188922):0.0165747524,(FUNGI_sus_intact__SUS_JBBPLJ010000677_L1__Veloporphyrellus_conicus:0.0159682395,FUNGI_sus_intact__SUS_JBBPLJ010000841_L1__Veloporphyrellus_conicus:0.0416473367):0.0777735522):0.0385334544):0.0833684677,(FUNGI_sus_intact__SUS_JBBPJJ010005399_L1__Veloboletus_limbatus:0.0033766060,((FUNGI_sus_intact__SUS_JBBPLV010001121_L1__Boletellus_ananiceps:0.0334668133,FUNGI_sus_intact__SUS_JBBPLY010003693_L1__Xerocomus_nothofagi:0.0186738058):0.0000025638,(FUNGI_sus_intact__SUS_JBBPMG010001931_L1__Boletellus_deceptivus:0.0156119932,(FUNGI_sus_intact__SUS_JBBPMG010004664_L1__Boletellus_deceptivus:0.0000010030,FUNGI_sus_intact__SUS_JBBPMG010004664_S2L1__Boletellus_deceptivus:0.0000010030):0.0227794979):0.0109660208):0.0043277010):0.0105201943);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t SUS.H_alt.treefile -m "Q.PFAM+R5{0.0267992,0.123419,0.130171,0.334396,0.312251,0.603583,0.272287,1.1153,0.258492,1.78346}" --length 434
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s SUS.mafft.trim.aln --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s SUS.mafft.trim.aln --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Sun Sep  6 07:49:16 2026
+Total CPU time used: 8114 seconds (2h:15m:13s)
+Total wall-clock time used: 254.701 seconds (0h:4m:14s)
+

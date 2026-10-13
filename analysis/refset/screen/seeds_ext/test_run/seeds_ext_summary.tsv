@@ -1,0 +1,13 @@
+gene	n_seeds	n_genomes_screened	n_genomes_hit	median_pident	p95_pident	p99_pident	max_pident	n_candidates	n_candidates_noncontam	n_contam_genomes_hit
+cus	9	6	2	57.1	61.3	61.7	61.8	0	0	0
+mis	4	6	1	35.8	35.8	35.8	35.8	0	0	0
+sus	19	6	1	39.8	39.8	39.8	39.8	0	0	0
+acs	9	6	3	29.1	29.9	30.0	30.0	0	0	0
+acs_pKerr14a	1	6	4	29.0	31.5	31.8	31.9	0	0	0
+mas1	3	6	6	29.1	31.2	31.3	31.3	0	0	0
+mas2	3	6	0	nan				0	0	0
+ags	3	6	5	30.8	40.2	41.6	41.9	0	0	0
+nos	2	6	1	40.0	40.0	40.0	40.0	0	0	0
+ocs	1	6	0	nan				0	0	0
+vis	1	6	0	nan				0	0	0
+chs	1	6	1	60.2	60.2	60.2	60.2	0	0	0

@@ -1,0 +1,207 @@
+IQ-TREE 3.1.1 built Apr  8 2026
+
+Input file name: ../chs_tree.trim.aln
+Type of analysis: tree reconstruction
+Random seed number: 1
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 58 sequences with 687 amino-acid sites
+Number of constant sites: 64 (= 9.31587% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 64 (= 9.31587% of all sites)
+Number of parsimony informative sites: 466
+Number of distinct site patterns: 669
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: Q.PFAM+I+G4
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0087
+Gamma shape alpha: 1.7902
+
+ Category  Relative_rate  Proportion
+  0         0              0.0087
+  1         0.2692         0.2478
+  2         0.6362         0.2478
+  3         1.0730         0.2478
+  4         2.0566         0.2478
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -24687.5857 (s.e. 713.8253)
+Unconstrained log-likelihood (without tree): -4458.3488
+Number of free parameters (#branches + #model parameters): 115
+Akaike information criterion (AIC) score: 49605.1714
+Corrected Akaike information criterion (AICc) score: 49651.8965
+Bayesian information criterion (BIC) score: 50126.3899
+
+Total tree length (sum of branch lengths): 24.8576
+Sum of internal branch lengths: 11.6616 (46.9135% of tree length)
+
+WARNING: 2 near-zero internal branches (<0.0015) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'SEED_ags_P27875' is drawn at root
+
++--SEED_ags_P27875
+|
+|                             +**SEED_chs_A0A2Z2PGA9
+|                          +**|
+|                          |  +**BACT_WP_139103025.1
+|                       +--|
+|                       |  +--BACT_WP_272871282.1
+|                    +--|
+|                    |  +--BACT_WP_272951408.1
+|                 +--|
+|                 |  +--BACT_WP_084631803.1
+|              +--|
+|              |  |              +--CHSlike_Fusarium_vanettenii_77134_GCA_000151355.1_EEU41297.1
+|              |  |           +--|
+|              |  |           |  +--CHSlike_Fusarium_solanimelongenae_GCA_023101225.1_UPK93317.1
+|              |  |        +--|
+|              |  |        |  |     +**CHSlike_Fusarium_phalaenopsidis_GCA_050370095.1_KAL6359175.1
+|              |  |        |  |  +--|
+|              |  |        |  |  |  +--CHSlike_Fusarium_sp_Ph1_GCA_025433565.1_KAI8662381.1
+|              |  |        |  +--|
+|              |  |        |     |     +**CHSlike_Fusarium_oxysporum_GCA_030020275.1_KAJ9415499.1
+|              |  |        |     |  +--|
+|              |  |        |     |  |  +**CHSlike_Fusarium_oxysporum_f_GCA_000149955.2_KNB14377.1
+|              |  |        |     +--|
+|              |  |        |        |  +**CHSlike_Fusarium_oxysporum_f_GCA_023509805.1_KAI3576115.1
+|              |  |        |        +--|
+|              |  |        |           +**CHSlike_Fusarium_oxysporum_f_GCA_032206225.1_KAK2472897.1
+|              |  |     +--|
+|              |  |     |  |  +**CHSlike_Fusarium_nematophilum_GCA_054098485.1_KAM5380328.1
+|              |  |     |  +--|
+|              |  |     |     +**CHSlike_Fusarium_nematophilum_GCA_054098565.1_KAM5345661.1
+|              |  |  +--|
+|              |  |  |  +--CHSlike_Dactylonectria_estremocensis_KAH7120428.1
+|              |  +**|
+|              |     |                               +--AGSnat_Mortierella_Mortierellomycetes_KAF9122689.1
+|              |     |                            +--|
+|              |     |                            |  +--AGSnat_Irineochytrium__KAJ3198587.1
+|              |     |                     +------|
+|              |     |                     |      +--AGSnat_Hortaea__KAI7258808.1
+|              |     |                  +--|
+|              |     |                  |  |                     +--AGSnat_Athelia__KAF7972090.1
+|              |     |                  |  |                  +--|
+|              |     |                  |  |                  |  +----AGSnat_Rhizopogon_Agaricomycetes_OJA17421.1
+|              |     |                  |  |               +--|
+|              |     |                  |  |               |  |  +--AGSnat_Mycena_Agaricomycetes_KAJ7043199.1
+|              |     |                  |  |               |  +--|
+|              |     |                  |  |               |     +--AGSnat_Mycena_Agaricomycetes_KAJ7871417.1
+|              |     |                  |  |            +--|
+|              |     |                  |  |            |  |       +--AGSnat_Naganishia_Tremellomycetes_KAJ9125883.1
+|              |     |                  |  |            |  +-------|
+|              |     |                  |  |            |          +--AGSnat_Naganishia_Tremellomycetes_GHJ87722.1
+|              |     |                  |  |         +--|
+|              |     |                  |  |         |  +--------AGSnat_Rhodotorula_Microbotryomycetes_TNY24483.1
+|              |     |                  |  +---------|
+|              |     |                  |            |          +--AGSnat_Xylariaceae_Sordariomycetes_KAI1338055.1
+|              |     |                  |            |       +--|
+|              |     |                  |            |       |  +--AGSnat_Trichoderma_Sordariomycetes_KAL7918480.1
+|              |     |                  |            |  +----|
+|              |     |                  |            |  |    |  +--AGSnat_Coleophoma_Leotiomycetes_RDW89246.1
+|              |     |                  |            |  |    +--|
+|              |     |                  |            |  |       +--AGSnat_Coleophoma_Leotiomycetes_RDW70388.1
+|              |     |                  |            +--|
+|              |     |                  |               |         +**AGSnat_Colletotrichum_Sordariomycetes_KAF4806334.1
+|              |     |                  |               |      +--|
+|              |     |                  |               |      |  +--AGSnat_Colletotrichum_Sordariomycetes_KAF5511669.1
+|              |     |                  |               +------|
+|              |     |                  |                      +--AGSnat_Rhizodiscina_Dothideomycetes_KAF2093222.1
+|              |     |               +--|
+|              |     |               |  +--------------AGSnat_Penicillium_Eurotiomycetes_KAJ5609970.1
+|              |     +---------------|
+|              |                     +----------------AGSnat_Aspergillus_Eurotiomycetes_KAA8645324.1
+|           +--|
+|           |  +-----BACT_WP_292444889.1
+|        +--|
+|        |  |  +--BACT_WP_060898469.1
+|        |  +--|
+|        |     +--------BACT_WP_310240812.1
+|     +--|
+|     |  |        +--BACT_WP_062172194.1
+|     |  |     +--|
+|     |  |     |  |  +--BACT_WP_307273360.1
+|     |  |     |  +--|
+|     |  |     |     +--BACT_WP_224516190.1
+|     |  |  +--|
+|     |  |  |  +--BACT_MBN9548210.1
+|     |  +--|
+|     |     |     +--BACT_WP_168300307.1
+|     |     |  +--|
+|     |     |  |  +--BACT_RZS76815.1
+|     |     +--|
+|     |        +--BACT_HDK6220028.1
+|  +--|
+|  |  +--BACT_WP_127409827.1
++--|
+|  |              +--BACT_UUZ73203.1
+|  |           +--|
+|  |           |  +--BACT_WP_011485240.1
+|  |        +--|
+|  |        |  |  +--BACT_WP_056361689.1
+|  |        |  +--|
+|  |        |     +--BACT_MDP9155482.1
+|  |     +--|
+|  |     |  +--BACT_WP_092130881.1
+|  |  +--|
+|  |  |  |  +--BACT_KQU89542.1
+|  |  |  +--|
+|  |  |     +--BACT_WP_114832443.1
+|  +--|
+|     +---BACT_WP_247035397.1
+|
+|     +--BACT_QRM41779.1
+|  +--|
+|  |  +--BACT_PYE31889.1
++--|
+   +--BACT_WP_183129267.1
+
+Tree in newick format:
+
+(SEED_ags_P27875:0.3908354377,((((((((((SEED_chs_A0A2Z2PGA9:0.0000010000,BACT_WP_139103025.1:0.0000010000):0.0000010000,BACT_WP_272871282.1:0.0077249753):0.0221517407,BACT_WP_272951408.1:0.0310658117):0.1303453591,BACT_WP_084631803.1:0.1064394403):0.3581265626,(((((CHSlike_Fusarium_vanettenii_77134_GCA_000151355.1_EEU41297.1:0.0502463644,CHSlike_Fusarium_solanimelongenae_GCA_023101225.1_UPK93317.1:0.0313387890):0.0031893936,((CHSlike_Fusarium_phalaenopsidis_GCA_050370095.1_KAL6359175.1:0.0000010000,CHSlike_Fusarium_sp_Ph1_GCA_025433565.1_KAI8662381.1:0.0029775750):0.0120290922,((CHSlike_Fusarium_oxysporum_GCA_030020275.1_KAJ9415499.1:0.0000010000,CHSlike_Fusarium_oxysporum_f_GCA_000149955.2_KNB14377.1:0.0000010000):0.0308742706,(CHSlike_Fusarium_oxysporum_f_GCA_023509805.1_KAI3576115.1:0.0000010000,CHSlike_Fusarium_oxysporum_f_GCA_032206225.1_KAK2472897.1:0.0000010000):0.0137879033):0.0734508022):0.0048200185):0.0852198399,(CHSlike_Fusarium_nematophilum_GCA_054098485.1_KAM5380328.1:0.0000010000,CHSlike_Fusarium_nematophilum_GCA_054098565.1_KAM5345661.1:0.0000010000):0.0921221600):0.2429650018,CHSlike_Dactylonectria_estremocensis_KAH7120428.1:0.3413812355):0.0382294358,(((((AGSnat_Mortierella_Mortierellomycetes_KAF9122689.1:0.2012966059,AGSnat_Irineochytrium__KAJ3198587.1:0.3372156731):0.1221778510,AGSnat_Hortaea__KAI7258808.1:0.2729539081):0.7742630339,(((((AGSnat_Athelia__KAF7972090.1:0.3409404349,AGSnat_Rhizopogon_Agaricomycetes_OJA17421.1:0.5708855167):0.1415876003,(AGSnat_Mycena_Agaricomycetes_KAJ7043199.1:0.2111440620,AGSnat_Mycena_Agaricomycetes_KAJ7871417.1:0.1870888789):0.2718778436):0.2314356279,(AGSnat_Naganishia_Tremellomycetes_KAJ9125883.1:0.3288559026,AGSnat_Naganishia_Tremellomycetes_GHJ87722.1:0.2593822508):0.8135373362):0.1781172318,AGSnat_Rhodotorula_Microbotryomycetes_TNY24483.1:0.9681072805):0.2010555905,(((AGSnat_Xylariaceae_Sordariomycetes_KAI1338055.1:0.2842603778,AGSnat_Trichoderma_Sordariomycetes_KAL7918480.1:0.3677892719):0.1388442607,(AGSnat_Coleophoma_Leotiomycetes_RDW89246.1:0.0090945172,AGSnat_Coleophoma_Leotiomycetes_RDW70388.1:0.0265645559):0.2172334220):0.6098185694,((AGSnat_Colletotrichum_Sordariomycetes_KAF4806334.1:0.0000024017,AGSnat_Colletotrichum_Sordariomycetes_KAF5511669.1:0.0047766011):0.2720678595,AGSnat_Rhizodiscina_Dothideomycetes_KAF2093222.1:0.2055953449):0.7915514782):0.1729984427):1.0305929821):0.2822753628,AGSnat_Penicillium_Eurotiomycetes_KAJ5609970.1:1.6205451018):0.3304819498,AGSnat_Aspergillus_Eurotiomycetes_KAA8645324.1:1.7882649669):1.7151457797):0.0000020225):0.2872404760,BACT_WP_292444889.1:0.6657990430):0.3597333748,(BACT_WP_060898469.1:0.3721875252,BACT_WP_310240812.1:0.9399730564):0.1845896126):0.0669336250,(((BACT_WP_062172194.1:0.0748218619,(BACT_WP_307273360.1:0.0463956644,BACT_WP_224516190.1:0.0847284837):0.0176204761):0.0108619637,BACT_MBN9548210.1:0.0627301219):0.0410767392,((BACT_WP_168300307.1:0.0175552542,BACT_RZS76815.1:0.0405529643):0.0543561422,BACT_HDK6220028.1:0.1491239577):0.0681144271):0.0634280511):0.0795468161,BACT_WP_127409827.1:0.1633218735):0.3117668756,(((((BACT_UUZ73203.1:0.0387900090,BACT_WP_011485240.1:0.0102248136):0.0594887489,(BACT_WP_056361689.1:0.0252583216,BACT_MDP9155482.1:0.0310250178):0.1148104365):0.0444230969,BACT_WP_092130881.1:0.1062948086):0.0217592965,(BACT_KQU89542.1:0.1985433825,BACT_WP_114832443.1:0.2335100925):0.0570927510):0.0412037379,BACT_WP_247035397.1:0.4990228108):0.1717991433):0.1155787728,((BACT_QRM41779.1:0.0518528800,BACT_PYE31889.1:0.0984714305):0.1161451742,BACT_WP_183129267.1:0.2022880905):0.1084213295);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t chs_nat.treefile -m "Q.PFAM+I{0.00867135}+G4{1.79017}" --length 687
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s ../chs_tree.trim.aln --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s ../chs_tree.trim.aln --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Sun Oct 11 23:28:26 2026
+Total CPU time used: 912.321 seconds (0h:15m:12s)
+Total wall-clock time used: 57.5979 seconds (0h:0m:57s)
+

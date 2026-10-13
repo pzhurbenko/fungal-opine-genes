@@ -1,0 +1,25 @@
+family	family_name	file	content	source_path	n_leaves	n_sites	model	supports
+sus	OCD fold (Sus)	sus.treefile	maximum-likelihood tree, Newick; node labels SH-aLRT/UFBoot	GMO/analysis/trees_final/SUS/SUS.mafft.iqtree.treefile	125	434	Q.PFAM+R5	SH-aLRT 1000 / UFBoot 1000
+sus	OCD fold (Sus)	sus.contree	UFBoot consensus tree, Newick	GMO/analysis/trees_final/SUS/SUS.mafft.iqtree.contree	125	434	Q.PFAM+R5	SH-aLRT 1000 / UFBoot 1000
+sus	OCD fold (Sus)	sus.aln.faa	trimmed protein alignment given to IQ-TREE (FASTA)	GMO/analysis/trees_final/SUS/SUS.mafft.trim.aln	125	434	Q.PFAM+R5	SH-aLRT 1000 / UFBoot 1000
+sus	OCD fold (Sus)	sus.iqtree	IQ-TREE report (model, likelihood, run settings)	GMO/analysis/trees_final/SUS/SUS.mafft.iqtree.iqtree	125	434	Q.PFAM+R5	SH-aLRT 1000 / UFBoot 1000
+cus	cucumopine synthase (Cus)	cus.treefile	maximum-likelihood tree, Newick; node labels SH-aLRT/UFBoot	GMO/analysis/trees_final/CUS/CUS.mafft.iqtree.treefile	436	810	JTT+R7	SH-aLRT 1000 / UFBoot 1000
+cus	cucumopine synthase (Cus)	cus.contree	UFBoot consensus tree, Newick	GMO/analysis/trees_final/CUS/CUS.mafft.iqtree.contree	436	810	JTT+R7	SH-aLRT 1000 / UFBoot 1000
+cus	cucumopine synthase (Cus)	cus.aln.faa	trimmed protein alignment given to IQ-TREE (FASTA)	GMO/analysis/trees_final/CUS/CUS.mafft.trim.aln	436	810	JTT+R7	SH-aLRT 1000 / UFBoot 1000
+cus	cucumopine synthase (Cus)	cus.iqtree	IQ-TREE report (model, likelihood, run settings)	GMO/analysis/trees_final/CUS/CUS.mafft.iqtree.iqtree	436	810	JTT+R7	SH-aLRT 1000 / UFBoot 1000
+gdpd	GDPD (Acs)	gdpd.treefile	maximum-likelihood tree, Newick; node labels SH-aLRT/UFBoot	GMO/analysis/trees_final/ACS/ACS.mafft.iqtree.treefile	259	989	JTT+R5	SH-aLRT 1000 / UFBoot 1000
+gdpd	GDPD (Acs)	gdpd.contree	UFBoot consensus tree, Newick	GMO/analysis/trees_final/ACS/ACS.mafft.iqtree.contree	259	989	JTT+R5	SH-aLRT 1000 / UFBoot 1000
+gdpd	GDPD (Acs)	gdpd.aln.faa	trimmed protein alignment given to IQ-TREE (FASTA)	GMO/analysis/trees_final/ACS/ACS.mafft.trim.aln	259	989	JTT+R5	SH-aLRT 1000 / UFBoot 1000
+gdpd	GDPD (Acs)	gdpd.iqtree	IQ-TREE report (model, likelihood, run settings)	GMO/analysis/trees_final/ACS/ACS.mafft.iqtree.iqtree	259	989	JTT+R5	SH-aLRT 1000 / UFBoot 1000
+chs	M24 aminopeptidase (Chs, Ags)	chs.treefile	maximum-likelihood tree, Newick; node labels SH-aLRT/UFBoot	GMO/analysis/chs_fusarium/chs_tree.iqtree.treefile	58	687	Q.PFAM+I+G4	SH-aLRT 1000 / UFBoot 1000
+chs	M24 aminopeptidase (Chs, Ags)	chs.contree	UFBoot consensus tree, Newick	GMO/analysis/chs_fusarium/chs_tree.iqtree.contree	58	687	Q.PFAM+I+G4	SH-aLRT 1000 / UFBoot 1000
+chs	M24 aminopeptidase (Chs, Ags)	chs.aln.faa	trimmed protein alignment given to IQ-TREE (FASTA)	GMO/analysis/chs_fusarium/chs_tree.trim.aln	58	687	Q.PFAM+I+G4	SH-aLRT 1000 / UFBoot 1000
+chs	M24 aminopeptidase (Chs, Ags)	chs.iqtree	IQ-TREE report (model, likelihood, run settings)	GMO/analysis/chs_fusarium/chs_tree.iqtree.iqtree	58	687	Q.PFAM+I+G4	SH-aLRT 1000 / UFBoot 1000
+nos	opine dehydrogenase, nos subfamily	nos.treefile	maximum-likelihood tree, Newick; node labels SH-aLRT/UFBoot	GMO/analysis/fusarium_odh_island/nos_check/nos_tree.iqtree.treefile	64	390	Q.PFAM+R4	SH-aLRT 1000 / UFBoot 1000
+nos	opine dehydrogenase, nos subfamily	nos.contree	UFBoot consensus tree, Newick	GMO/analysis/fusarium_odh_island/nos_check/nos_tree.iqtree.contree	64	390	Q.PFAM+R4	SH-aLRT 1000 / UFBoot 1000
+nos	opine dehydrogenase, nos subfamily	nos.aln.faa	trimmed protein alignment given to IQ-TREE (FASTA)	GMO/analysis/fusarium_odh_island/nos_check/nos_tree.trim.aln	64	390	Q.PFAM+R4	SH-aLRT 1000 / UFBoot 1000
+nos	opine dehydrogenase, nos subfamily	nos.iqtree	IQ-TREE report (model, likelihood, run settings)	GMO/analysis/fusarium_odh_island/nos_check/nos_tree.iqtree.iqtree	64	390	Q.PFAM+R4	SH-aLRT 1000 / UFBoot 1000
+odh	opine dehydrogenase, odh island	odh.treefile	maximum-likelihood tree, Newick; node labels SH-aLRT/UFBoot	GMO/analysis/fusarium_odh_island/tree/odh_tree.iqtree.treefile	44	423	Q.PFAM+G4	SH-aLRT 1000 / UFBoot 1000
+odh	opine dehydrogenase, odh island	odh.contree	UFBoot consensus tree, Newick	GMO/analysis/fusarium_odh_island/tree/odh_tree.iqtree.contree	44	423	Q.PFAM+G4	SH-aLRT 1000 / UFBoot 1000
+odh	opine dehydrogenase, odh island	odh.aln.faa	trimmed protein alignment given to IQ-TREE (FASTA)	GMO/analysis/fusarium_odh_island/tree/odh_tree.trim.aln	44	423	Q.PFAM+G4	SH-aLRT 1000 / UFBoot 1000
+odh	opine dehydrogenase, odh island	odh.iqtree	IQ-TREE report (model, likelihood, run settings)	GMO/analysis/fusarium_odh_island/tree/odh_tree.iqtree.iqtree	44	423	Q.PFAM+G4	SH-aLRT 1000 / UFBoot 1000

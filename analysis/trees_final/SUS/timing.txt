@@ -1,0 +1,14 @@
+SUS mafft_linsi 4s
+SUS hmmalign 0s
+SUS clipkit_mafft 1s
+SUS fasttree_mafft 4s
+SUS iqtree_mafft 653s
+SUS clipkit_hmmalign 0s
+SUS fasttree_hmmalign 3s
+SUS iqtree_hmmalign 826s
+SUS DONE Sun Sep  6 06:06:40 AM IDT 2026
+model: Q.PFAM+R5
+SUS iqtree_H_tdna 261s
+SUS iqtree_H_alt 255s
+SUS au_test 4s
+SUS FINAL_DONE Sun Sep  6 07:49:20 IDT 2026

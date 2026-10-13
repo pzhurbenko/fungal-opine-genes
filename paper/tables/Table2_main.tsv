@@ -1,0 +1,10 @@
+lineage	family	source (closest bacterial relatives)	entry route	identity to nearest reference, % (intact genes; range, median)	loci	intact / pseudogene / truncated / fragment	assemblies: Boletales / Agaricales / Hypocreales / other orders	species
+sus-like (T-DNA type)	OCD fold (Sus)	T-DNA *sus*	HMM profiles of the family vs. assemblies	38–68; median 46	58	36 / 22 / 0 / 0	32 / 0 / 0 / Mortierellales 1	31
+cus-like (T-DNA type)	cucumopine synthase (Cus)	T-DNA *cus*	HMM profiles of the family vs. assemblies	46–65; median 57	50	34 / 16 / 0 / 0	15 / 6 / 0 / Saccharomycetales 9; Pleosporales 4; Mycosphaerellales 1; Polyporales 1	22
+chs-like (T-DNA type)	M24 aminopeptidase (Chs/Ags)	Ti-plasmid *chs*	miniprot scan of *Fusarium* assemblies	59–60 (chrysopine synthase)	33	6 / 10 / 17 / 0	0 / 0 / 33 / 0	9
+acc-type GDPD	GDPD	acc-like opine catabolic locus of rhizobia	HMM profiles of the family vs. assemblies	60–66 (GDPD of *Mesorhizobium*, *Neorhizobium*)	60	3 / 57 / 0 / 0	29 / 1 / 0 / 0	24
+pKerr14a-type acs-like	GDPD	*acs* of the Ti plasmid pKerr14a; cT-DNA fragment of *Parasponia*	HMM profiles of the family vs. assemblies	n.d.	19	6 / 0 / 0 / 13	8 / 0 / 0 / 0	8
+nos-subfamily opine dehydrogenase (Boletales)	opine dehydrogenase (nos subfamily)	rhizobial *nos* subfamily, outside T-DNA *nos*	blastx of plasmid proteins vs. Boletales assemblies	36–40 (nopaline synthase)	6	4 / 2 / 0 / 0	5 / 0 / 0 / 0	4
+odh island: *odh*	opine dehydrogenase (odh) / M24 aminopeptidase / hypothetical	opine-catabolic plasmid of *A. larrymoorei*	miniprot scan of *Fusarium* assemblies	78–79	8	7 / 1 / 0 / 0	0 / 0 / 5 / 0	2
+odh island: *pepP*	opine dehydrogenase (odh) / M24 aminopeptidase / hypothetical	opine-catabolic plasmid of *A. larrymoorei*	miniprot scan of *Fusarium* assemblies	87	8	5 / 1 / 2 / 0	0 / 0 / 5 / 0	2
+odh island: *orf3*	opine dehydrogenase (odh) / M24 aminopeptidase / hypothetical	opine-catabolic plasmid of *A. larrymoorei*	miniprot scan of *Fusarium* assemblies	70	12	4 / 3 / 5 / 0	0 / 0 / 5 / 0	2

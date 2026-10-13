@@ -1,0 +1,32 @@
+fam	acc	organism	ncbi_title	n_reps_best_hit	max_identity_to_T1	closest_T1	length	kept_T2
+ACS	CUX65485.1	Agrobacterium tumefaciens str. Kerr 14	putative Agrocinopine synthase [Agrobacterium tumefaciens str. Kerr 14]	27	1.00	T1|Agro_WP_280174108_1_glycerophosphodiester_phosphodiestera	419	yes
+ACS	WP_234711736.1	Martinezella rhizogenes	glycerophosphodiester phosphodiesterase family protein [Martinezella rhizogenes]	1	0.83	T1|Plant_WML69206_1_agrocinopine_synthase_Agrobacterium_sp_N	442	yes
+ACS	ASK40602.1	Agrobacterium genomosp. 6	agrocinopine synthase (plasmid) [Agrobacterium genomosp. 6]	1	0.77	T1|Agro_QTG17267_1_agrocinopine_synthase_Agrobacterium_tumef	418	yes
+ACS	WP_234889283.1	Gillisella vitis	glycerophosphodiester phosphodiesterase family protein [Gillisella vitis]	2	0.76	T1|Agro_QTG17267_1_agrocinopine_synthase_Agrobacterium_tumef	452	yes
+ACS	WP_111221730.1	Rhizobiaceae	MULTISPECIES: glycerophosphodiester phosphodiesterase family protein [Rhizobiaceae]	1	0.76	T1|Agro_QTG17267_1_agrocinopine_synthase_Agrobacterium_tumef	414	yes
+ACS	AAB41866.1	Gillisella vitis	agrocinopine synthase (plasmid) [Gillisella vitis]	1	0.76	T1|Agro_QTG17267_1_agrocinopine_synthase_Agrobacterium_tumef	452	yes
+ACS	WP_234891170.1	Gillisella vitis	glycerophosphodiester phosphodiesterase family protein [Gillisella vitis]	2	0.75	T1|Agro_QTG17267_1_agrocinopine_synthase_Agrobacterium_tumef	260	yes
+ACS	WP_081088917.1	Gillisella vitis	glycerophosphodiester phosphodiesterase family protein [Gillisella vitis]	1	0.74	T1|Agro_QTG17267_1_agrocinopine_synthase_Agrobacterium_tumef	418	yes
+ACS	WP_247645393.1	Agrobacterium tumefaciens	glycerophosphodiester phosphodiesterase family protein [Agrobacterium tumefaciens]	1	0.72	T1|Plant_che1CaTE-Acs	421	yes
+ACS	WP_045231703.1	Agrobacterium	MULTISPECIES: glycerophosphodiester phosphodiesterase family protein [Agrobacterium]	1	0.72	T1|Plant_che1CaTE-Acs	421	yes
+ACS	WP_234644451.1	Gillisella ampelina	glycerophosphodiester phosphodiesterase family protein [Gillisella ampelina]	1	0.71	T1|Agro_QTG17267_1_agrocinopine_synthase_Agrobacterium_tumef	335	yes
+ACS	WP_234887914.1	Rhizobiaceae	MULTISPECIES: hypothetical protein [Rhizobiaceae]	1	0.69	T1|Plant_che1CaTE-Acs	233	yes
+ACS	MBO9126496.1	Rhizobium sp. 16-488-2b	agrocinopine synthase [Rhizobium sp. 16-488-2b]	1	0.69	T1|Plant_che1CaTE-Acs	368	yes
+ACS	WP_234909974.1	Martinezella rhizogenes	glycerophosphodiester phosphodiesterase family protein [Martinezella rhizogenes]	4	0.67	T1|Plant_che1CaTE-Acs	442	yes
+ACS	WP_234908531.1	Rhizobiaceae	MULTISPECIES: glycerophosphodiester phosphodiesterase family protein [Rhizobiaceae]	4	0.67	T1|Plant_che1CaTE-Acs	442	yes
+ACS	WP_222308706.1	Rhizobium leguminosarum	agrocinopine synthase [Rhizobium leguminosarum]	2	0.66	T1|Plant_WML69206_1_agrocinopine_synthase_Agrobacterium_sp_N	416	yes
+ACS	NEK20670.1	Rhizobium leguminosarum	agrocinopine synthase [Rhizobium leguminosarum]	1	0.66	T1|Plant_WML69206_1_agrocinopine_synthase_Agrobacterium_sp_N	368	yes
+ACS	WP_309547436.1	Martinezella rhizogenes	glycerophosphodiester phosphodiesterase family protein [Martinezella rhizogenes]	1	0.62	T1|Plant_che1CaTE-Acs	406	yes
+ACS	UTN42808.1	Agrobacterium fabrum	agrocinopine synthase (plasmid) [Agrobacterium fabrum]	1	0.49	T1|Plant_che1CaTE-Acs	199	yes
+ACS	WP_247038584.1	unclassified Neorhizobium	MULTISPECIES: PI-PLC domain-containing protein [unclassified Neorhizobium]	10	0.48	T1|Agro_WP_217577425_1_glycerophosphodiester_phosphodiestera	395	yes
+ACS	WP_157835807.1	Agrobacterium larrymoorei	glycerophosphodiester phosphodiesterase family protein [Agrobacterium larrymoorei]	1	0.42	T1|Plant_che1CaTE-Acs	416	yes
+ACS	WP_184491422.1	Rhizobium aethiopicum	hypothetical protein [Rhizobium aethiopicum]	2	0.28	T1|Agro_QTG17267_1_agrocinopine_synthase_Agrobacterium_tumef	279	no
+ACS	WP_184491419.1	Rhizobium aethiopicum	PI-PLC domain-containing protein [Rhizobium aethiopicum]	1	0.28	T1|Plant_che1CaTE-Acs	142	no
+ACS	WP_162249589.1	Rhizobium sp. Root149	glycerophosphodiester phosphodiesterase family protein [Rhizobium sp. Root149]	1	0.26	T1|Agro_WP_280174108_1_glycerophosphodiester_phosphodiestera	482	no
+ACS	WP_111794344.1	Agrobacterium	MULTISPECIES: PI-PLC domain-containing protein [Agrobacterium]	4	0.25	T1|Plant_WML69206_1_agrocinopine_synthase_Agrobacterium_sp_N	423	no
+ACS	WP_309770787.1	Agrobacterium larrymoorei	glycerophosphodiester phosphodiesterase family protein [Agrobacterium larrymoorei]	2	0.25	T1|Agro_WP_209160150_1_MULTISPECIES_glycerophosphodiester_ph	484	no
+ACS	SCY90961.1	Rhizobium sp. NFACC06-2	hypothetical protein SAMN03159288_05145 [Rhizobium sp. NFACC06-2]	1	0.24	T1|Agro_WP_280174108_1_glycerophosphodiester_phosphodiestera	377	no
+ACS	WP_377259843.1	Neorhizobium puerariae	glycerophosphodiester phosphodiesterase family protein [Neorhizobium puerariae]	2	0.24	T1|Agro_WP_209160150_1_MULTISPECIES_glycerophosphodiester_ph	275	no
+ACS	WP_222274012.1	Rhizobium leguminosarum	glycerophosphodiester phosphodiesterase family protein [Rhizobium leguminosarum]	1	0.24	T1|Agro_WP_192068445_1_MULTISPECIES_glycerophosphodiester_ph	276	no
+ACS	WP_105383016.1	Neorhizobium alkalisoli	glycerophosphodiester phosphodiesterase family protein [Neorhizobium alkalisoli]	1	0.24	T1|Agro_WP_280174108_1_glycerophosphodiester_phosphodiestera	276	no
+ACS	MDR6101843.1	Agrobacterium larrymoorei	hypothetical protein QE369_002040 [Agrobacterium larrymoorei]	2	0.24	T1|Agro_WP_209160150_1_MULTISPECIES_glycerophosphodiester_ph	371	no

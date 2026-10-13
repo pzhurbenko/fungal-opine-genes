@@ -1,0 +1,9 @@
+fam	acc	organism	ncbi_title	n_reps_best_hit	max_identity_to_T1	closest_T1	length	kept_T2
+ORF358	WP_269710219.1	Martinezella rhizogenes	hypothetical protein [Martinezella rhizogenes]	23	1.00	T1|Agro_WP_309591540.1_hypothetical_protein_Rhizobium_rhizog	358	yes
+ORF358	WP_162688293.1	Agrobacterium fabrum	hypothetical protein [Agrobacterium fabrum]	4	1.00	T1|Agro_WP_280800168.1_hypothetical_protein_Agrobacterium_fa	388	yes
+ORF358	AYM60961.1	Agrobacterium fabrum	hypothetical protein At1D132_49540 (plasmid) [Agrobacterium fabrum]	1	1.00	T1|Agro_WP_280800168.1_hypothetical_protein_Agrobacterium_fa	342	yes
+ORF358	WP_045024283.1	Rhizobium nepotum	hypothetical protein [Rhizobium nepotum]	5	0.99	T1|Agro_WP_045022995.1_hypothetical_protein_Agrobacterium_ar	388	yes
+ORF358	WP_265613673.1	Agrobacterium tumefaciens	hypothetical protein [Agrobacterium tumefaciens]	1	0.93	T1|Agro_WP_045022995.1_hypothetical_protein_Agrobacterium_ar	388	yes
+ORF358	WP_377264681.1	Neorhizobium puerariae	hypothetical protein [Neorhizobium puerariae]	6	0.66	T1|Agro_WP_045022995.1_hypothetical_protein_Agrobacterium_ar	389	yes
+ORF358	WP_117196203.1	Rhizobium terrae	hypothetical protein [Rhizobium terrae]	2	0.47	T1|Plant_tra6CaTH-Orf358	169	yes
+ORF358	WP_117196202.1	Rhizobium terrae	hypothetical protein [Rhizobium terrae]	2	0.44	T1|Plant_tra6CaTH-Orf358	210	yes

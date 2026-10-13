@@ -1,0 +1,6 @@
+name: hmmer_pfam
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - hmmer

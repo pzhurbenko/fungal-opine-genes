@@ -1,0 +1,5 @@
+fam	ref	len	id_to_canonical	max_id_other_T1	mean_id_T1	id_to_paralog	pfam
+ORF358	Agro_WP_280800168.1_hypothetical_protein_Agrobacterium_fabrum	388	0.41	0.47	0.44		(none)
+ORF358	Agro_WP_045022995.1_hypothetical_protein_Agrobacterium_arsenijevicii	388	0.42	0.47	0.44		(none)
+ORF358	Plant_tra6CaTH-Orf358	390	0.64	0.63	0.50		(none)
+ORF358	Agro_WP_309591540.1_hypothetical_protein_Rhizobium_rhizogenes	384	1.00	0.63	0.49		(none)

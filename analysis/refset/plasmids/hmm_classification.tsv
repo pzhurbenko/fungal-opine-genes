@@ -1,0 +1,51 @@
+plasmid	organism	protein_id	product	aa_len	start	end	in_TDNA	TDNA_known	dist_to_border	fam	call	score	evalue	og_score	gap
+NZ_CP118250.1	Martinezella rhizogenes	WP_234908531.1	glycerophosphodiester phosphodiesterase family protein	442	77537	78865	False	no_borders_found	381	ACS	acs	752.7	3e-227	19.4	733.3
+NZ_CP118263.1	Gillisella vitis	WP_081344251.1	glycerophosphodiester phosphodiesterase family protein	418	105400	106656	True	yes	233	ACS	acs	745.7	4.2e-225	18.9	726.8
+NZ_LMVL02000009.1	Gillisella vitis	WP_081088917.1	glycerophosphodiester phosphodiesterase family protein	418	197407	198663	False	no_borders_found	233	ACS	acs	742.1	5.3e-224	19.4	722.7
+CP048550.1	Agrobacterium tumefaciens	UXT45032.1	agrocinopine synthase	418	123520	124776	False	no_borders_found	7048	ACS	acs	732.8	3.5e-221	0	732.8
+NZ_CP029048.1	Agrobacterium tumefaciens	WP_065702826.1	glycerophosphodiester phosphodiesterase family protein	418	131095	132351	False	no_borders_found	7048	ACS	acs	732.8	3.5e-221	0	732.8
+NZ_CP048472.1	Agrobacterium tumefaciens	WP_065702826.1	glycerophosphodiester phosphodiesterase family protein	418	131095	132351	False	no_borders_found	7048	ACS	acs	732.8	3.5e-221	0	732.8
+NZ_CP048476.1	Agrobacterium tumefaciens	WP_065702826.1	glycerophosphodiester phosphodiesterase family protein	418	131095	132351	False	no_borders_found	7048	ACS	acs	732.8	3.5e-221	0	732.8
+NZ_CP048495.1	Agrobacterium tumefaciens	WP_065702826.1	glycerophosphodiester phosphodiesterase family protein	418	131095	132351	False	no_borders_found	7048	ACS	acs	732.8	3.5e-221	0	732.8
+NZ_CP048531.1	Agrobacterium tumefaciens	WP_065702826.1	glycerophosphodiester phosphodiesterase family protein	418	131095	132351	False	no_borders_found	7048	ACS	acs	732.8	3.5e-221	0	732.8
+AE007871.2	Agrobacterium fabrum str. C58	AAK90966.1	agrocinopine synthase	418	11591	12847	True	yes	712	ACS	acs	730.7	1.4e-220	0	730.7
+NZ_CP048567.1	Agrobacterium tumefaciens	WP_172690590.1	glycerophosphodiester phosphodiesterase family protein	418	141106	142362	True	yes	7048	ACS	acs	727.3	1.6e-219	0	727.3
+AE007871.2	Agrobacterium fabrum str. C58	AAK90959.2	agrocinopine synthase	371	387	1502	True	yes	387	ACS	acs	651.6	1.5e-196	0	651.6
+NZ_CP048521.1	Agrobacterium tumefaciens	WP_010974816.1	glycerophosphodiester phosphodiesterase family protein	371	170774	171889	True	yes	387	ACS	acs	651.6	1.5e-196	0	651.6
+NZ_CP048576.1	Agrobacterium tumefaciens	WP_010974816.1	glycerophosphodiester phosphodiesterase family protein	371	170774	171889	True	yes	387	ACS	acs	651.6	1.5e-196	0	651.6
+AB016260.1	Agrobacterium tumefaciens	BAA87797.1		371	171321	172436	True	yes	387	ACS	acs	644.6	2.1e-194	0	644.6
+AB016260.1	Agrobacterium tumefaciens	BAA87805.1		368	183802	184908	True	yes	12868	ACS	acs	629.0	1.1e-189	0	629.0
+NZ_CP042277.1	Agrobacterium tumefaciens	WP_010891464.1	glycerophosphodiester phosphodiesterase family protein	368	10081	11187	False	no_borders_found	7048	ACS	acs	629.0	1.1e-189	0	629.0
+NZ_CP048480.1	Agrobacterium tumefaciens	WP_010891464.1	glycerophosphodiester phosphodiesterase family protein	368	10081	11187	False	no_borders_found	7048	ACS	acs	629.0	1.1e-189	0	629.0
+NZ_CP048526.1	Agrobacterium tumefaciens	WP_010891464.1	glycerophosphodiester phosphodiesterase family protein	368	10081	11187	False	no_borders_found	7048	ACS	acs	629.0	1.1e-189	0	629.0
+NZ_CP048542.1	Agrobacterium tumefaciens	WP_010891464.1	glycerophosphodiester phosphodiesterase family protein	368	10081	11187	False	no_borders_found	7048	ACS	acs	629.0	1.1e-189	0	629.0
+NZ_CP048546.1	Agrobacterium tumefaciens	WP_010891464.1	glycerophosphodiester phosphodiesterase family protein	368	10081	11187	False	no_borders_found	7048	ACS	acs	629.0	1.1e-189	0	629.0
+NZ_CP048587.1	Agrobacterium pusense	WP_010891464.1	glycerophosphodiester phosphodiesterase family protein	368	10081	11187	False	no_borders_found	7048	ACS	acs	629.0	1.1e-189	0	629.0
+NZ_CP048596.1	Agrobacterium tumefaciens	WP_010891464.1	glycerophosphodiester phosphodiesterase family protein	368	10081	11187	False	no_borders_found	7048	ACS	acs	629.0	1.1e-189	0	629.0
+NZ_JANPYJ010000005.1	Agrobacterium fabrum	WP_010891464.1	glycerophosphodiester phosphodiesterase family protein	368	10081	11187	False	no_borders_found	7048	ACS	acs	629.0	1.1e-189	0	629.0
+NZ_NXEJ01000013.1	Agrobacterium rosae	WP_010891464.1	glycerophosphodiester phosphodiesterase family protein	368	10081	11187	False	no_borders_found	7048	ACS	acs	629.0	1.1e-189	0	629.0
+NZ_CP048521.1	Agrobacterium tumefaciens	WP_045024010.1	glycerophosphodiester phosphodiesterase family protein	368	181979	183085	True	yes	712	ACS	acs	627.0	4.6e-189	0	627.0
+NZ_CP048576.1	Agrobacterium tumefaciens	WP_045024010.1	glycerophosphodiester phosphodiesterase family protein	368	181979	183085	True	yes	712	ACS	acs	627.0	4.6e-189	0	627.0
+NZ_CP048467.1	Agrobacterium tumefaciens	WP_178131678.1	glycerophosphodiester phosphodiesterase family protein	368	183726	184832	True	yes	7048	ACS	acs	623.5	5.1e-188	0	623.5
+NZ_CP048484.1	Agrobacterium tumefaciens	WP_178131678.1	glycerophosphodiester phosphodiesterase family protein	368	183726	184832	True	yes	7048	ACS	acs	623.5	5.1e-188	0	623.5
+NZ_CP048488.1	Agrobacterium tumefaciens	WP_178131678.1	glycerophosphodiester phosphodiesterase family protein	368	183726	184832	True	yes	7048	ACS	acs	623.5	5.1e-188	0	623.5
+NZ_CP048500.1	Agrobacterium tumefaciens	WP_178131678.1	glycerophosphodiester phosphodiesterase family protein	368	183726	184832	True	yes	7048	ACS	acs	623.5	5.1e-188	0	623.5
+NZ_CP048505.1	Agrobacterium tumefaciens	WP_178131678.1	glycerophosphodiester phosphodiesterase family protein	368	183726	184832	True	yes	7048	ACS	acs	623.5	5.1e-188	0	623.5
+NZ_CP048511.1	Agrobacterium tumefaciens	WP_178131678.1	glycerophosphodiester phosphodiesterase family protein	368	183726	184832	True	yes	7048	ACS	acs	623.5	5.1e-188	0	623.5
+NZ_CP048516.1	Agrobacterium tumefaciens	WP_178131678.1	glycerophosphodiester phosphodiesterase family protein	368	183726	184832	True	yes	7048	ACS	acs	623.5	5.1e-188	0	623.5
+NZ_CP048535.1	Agrobacterium tumefaciens	WP_178131678.1	glycerophosphodiester phosphodiesterase family protein	368	183726	184832	True	yes	7048	ACS	acs	623.5	5.1e-188	0	623.5
+NZ_CP048554.1	Agrobacterium tumefaciens	WP_178131678.1	glycerophosphodiester phosphodiesterase family protein	368	183726	184832	True	yes	7048	ACS	acs	623.5	5.1e-188	0	623.5
+NZ_CP048561.1	Agrobacterium fabrum	WP_178131678.1	glycerophosphodiester phosphodiesterase family protein	368	183726	184832	True	yes	7048	ACS	acs	623.5	5.1e-188	0	623.5
+NZ_CP048572.1	Agrobacterium tumefaciens	WP_178131678.1	glycerophosphodiester phosphodiesterase family protein	368	183726	184832	True	yes	7048	ACS	acs	623.5	5.1e-188	0	623.5
+DQ058764.1	Agrobacterium tumefaciens	AAZ50392.1	Acs	413	790	2031	False	yes	790	ACS	acs	594.2	4.1e-179	19.2	575.0
+NZ_LMVL02000009.1	Gillisella vitis	WP_233741845.1	cucumopine synthase-related protein	344	1200	2234	False	no_borders_found	1222	CUS	cus	607.5	1.8e-183	21.2	586.3
+NZ_LMVL02000009.1	Gillisella vitis	WP_071208191.1	cucumopine synthase-related protein	315	13528	14475	False	no_borders_found	11106	CUS	cus	604.5	1.5e-182	20.6	583.9
+NC_010841.1	Martinezella rhizogenes	WP_012475927.1	cucumopine synthase-related protein	315	17602	18549	False	no_borders_found		CUS	cus	598.2	1.3e-180	20.7	577.5
+NC_002575.1	Martinezella rhizogenes	WP_010900213.1	cucumopine synthase-related protein	181	27477	28022	False	yes	1077	CUS	cusrel181	424.2	1.7e-128	0	424.2
+NC_002575.1	Martinezella rhizogenes	WP_176453671.1	cucumopine synthase-related protein	308	25138	26064	True	yes	1262	CUS	mis	613.6	2.2e-185	63.0	550.6
+NC_002575.1	Martinezella rhizogenes	WP_010900212.1	DUF3830 family protein	139	27055	27474	False	yes	655	CUS	mis	229.0	2.7e-68	101.8	127.2
+NC_010841.1	Martinezella rhizogenes	WP_077768163.1	cucumopine synthase-related protein	318	16264	17220	False	no_borders_found		CUS	rcorf12	749.9	9.7e-227	0	749.9
+NZ_LMVL02000009.1	Gillisella vitis	WP_060716467.1	cucumopine synthase-related protein	320	14879	15841	False	no_borders_found	12457	CUS	rcorf12	748.0	3.6e-226	0	748.0
+NZ_JWIT01000024.1	Agrobacterium arsenijevicii	WP_045022995.1	hypothetical protein	388	67190	68356	False	no_borders_found		ORF358	orf358	668.7	7.6e-202	0	668.7
+NZ_CP118250.1	Martinezella rhizogenes	WP_174080856.1	hypothetical protein	341	91870	92895	False	no_borders_found	14714	SUS	sus	597.0	3.3e-180	191.1	405.9
+DQ058764.1	Agrobacterium tumefaciens	AAZ50401.1	Sus	333	13827	14828	True	yes	1879	SUS	sus	469.2	2.5e-141	178.3	290.9

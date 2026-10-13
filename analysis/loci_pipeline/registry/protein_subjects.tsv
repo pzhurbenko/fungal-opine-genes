@@ -1,0 +1,808 @@
+fam	protein_acc	organism	genus	query	subj_start	subj_end	identity	evalue	query_cover	was_deleted	reason	tree_clade	division	class	order
+ACS	KIM42688	Hebeloma cylindrosporum	Hebeloma	KAH9024881.1:10-373	0	60	0.7	3.56458E-19	0.16	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KIM42688	Hebeloma cylindrosporum	Hebeloma	KAH9024881.1	0	86	0.66	1.73713E-32	0.21	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KIM42689	Hebeloma cylindrosporum	Hebeloma	KAH9024881.1:10-373	21	97	0.62	7.56231E-26	0.21	yes	Too short		Basidiomycota	Agaricomycetes	Agaricales
+ACS	KIM42689	Hebeloma cylindrosporum	Hebeloma	KAH9024881.1	12	97	0.61	1.27198E-28	0.21	yes	Too short		Basidiomycota	Agaricomycetes	Agaricales
+ACS	KIJ92238	Laccaria amethystina	Laccaria	KAJ7236809.1:52-419	18	354	0.33	6.07325E-39	0.96	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	XP_001880803	Laccaria bicolor	Laccaria	KAJ7236809.1:52-419	29	141	0.37	0.000104607	0.3	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KIJ92238	Laccaria amethystina	Laccaria	KXN89159.1:86-375	81	368	0.26	6.67539E-15	0.92	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KIJ92238	Laccaria amethystina	Laccaria	KAJ7464060.1:62-414	30	367	0.31	1.57011E-36	1.0	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	XP_001880803	Laccaria bicolor	Laccaria	KAJ7464060.1:62-414	29	146	0.32	0.000000303075	0.32	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KIJ92238	Laccaria amethystina	Laccaria	KAH9024881.1:10-373	30	374	0.53	6.9983E-123	1.0	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	XP_001880803	Laccaria bicolor	Laccaria	KAH9024881.1:10-373	29	142	0.53	2.81976E-30	0.31	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KIJ92238	Laccaria amethystina	Laccaria	che1CaTE-Acs	4	373	0.29	4.29328E-23	0.88	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	XP_001880803	Laccaria bicolor	Laccaria	KAH9024881.1	20	142	0.53	1.03602E-33	0.3	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	XP_001880803	Laccaria bicolor	Laccaria	che1CaTE-Acs	16	99	0.37	0.0020431	0.19	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KIJ92238	Laccaria amethystina	Laccaria	KAH9024881.1	21	402	0.52	3.25472E-135	0.99	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KXN81725	Leucoagaricus sp.	Leucoagaricus	KAJ7236809.1:52-419	43	308	0.28	8.49371E-28	0.71	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KXN89159	Leucoagaricus sp.	Leucoagaricus	KAJ7236809.1:52-419	42	302	0.28	1.2274E-27	0.69	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KXN89159	Leucoagaricus sp.	Leucoagaricus	KXN89159.1:86-375	85	375	1.0	0.0	1.0	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KXN81725	Leucoagaricus sp.	Leucoagaricus	KXN89159.1:86-375	91	315	0.89	7.80632E-145	0.77	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KXN89159	Leucoagaricus sp.	Leucoagaricus	KAJ7464060.1:62-414	41	307	0.32	1.10894E-27	0.74	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KXN81725	Leucoagaricus sp.	Leucoagaricus	KAJ7464060.1:62-414	46	313	0.29	1.77845E-25	0.74	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KXN89159	Leucoagaricus sp.	Leucoagaricus	KAG6371153.1:104-414	57	267	0.27	3.40993E-17	0.67	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KXN81725	Leucoagaricus sp.	Leucoagaricus	KAH9024881.1:10-373	46	327	0.29	5.30152E-22	0.76	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KXN89159	Leucoagaricus sp.	Leucoagaricus	KAH9024881.1:10-373	85	375	0.31	2.28275E-21	0.84	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KXN89159	Leucoagaricus sp.	Leucoagaricus	che1CaTE-Acs	5	382	0.33	9.15386E-40	0.91	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KXN81725	Leucoagaricus sp.	Leucoagaricus	che1CaTE-Acs	12	289	0.32	2.5925E-34	0.63	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KXN81725	Leucoagaricus sp.	Leucoagaricus	KAH9024881.1	46	327	0.29	1.00745E-21	0.69	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KXN89159	Leucoagaricus sp.	Leucoagaricus	KAH9024881.1	85	375	0.31	5.80441E-21	0.76	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	XP_040635025	Aspergillus ruber	Aspergillus	KAJ7464060.1:62-414	22	89	0.37	0.0456735	0.19	yes	Too short		Ascomycota	Eurotiomycetes	Eurotiales
+ACS	KAG6371153	Boletus reticuloceps	Boletus	KAJ7236809.1:52-419	84	434	0.25	3.92097E-12	0.97	no		Acs2	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG6371153	Boletus reticuloceps	Boletus	KXN89159.1:86-375	154	357	0.27	1.5986E-12	0.74	no		Acs2	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG6371153	Boletus reticuloceps	Boletus	KAJ7464060.1:62-414	103	435	0.28	3.11947E-17	0.93	no		Acs2	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG6371153	Boletus reticuloceps	Boletus	KAG6371153.1:104-414	103	414	1.0	0.0	1.0	no		Acs2	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG6371153	Boletus reticuloceps	Boletus	che1CaTE-Acs	88	420	0.3	6.41094E-36	0.76	no		Acs2	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG8213181	Butyriboletus roseoflavus	Butyriboletus	KAJ7236809.1:52-419	12	322	0.23	0.00000761422	0.86	no		Acs2	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG8213181	Butyriboletus roseoflavus	Butyriboletus	KAJ7464060.1:62-414	12	275	0.25	1.98037E-10	0.78	no		Acs2	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG8213181	Butyriboletus roseoflavus	Butyriboletus	KAG6371153.1:104-414	0	309	0.86	0.0	0.99	no		Acs2	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG8213181	Butyriboletus roseoflavus	Butyriboletus	che1CaTE-Acs	14	318	0.27	1.28254E-26	0.7	no		Acs2	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG8213829	Butyriboletus roseoflavus	Butyriboletus	KXN89159.1:86-375	118	241	0.35	3.60155E-12	0.42	no		Singleton	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG8213829	Butyriboletus roseoflavus	Butyriboletus	KAJ7464060.1:62-414	58	241	0.38	1.1338E-36	0.52	no		Singleton	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG8213829	Butyriboletus roseoflavus	Butyriboletus	KAH9024881.1:10-373	58	241	0.25	0.000000967394	0.51	no		Singleton	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG8213829	Butyriboletus roseoflavus	Butyriboletus	che1CaTE-Acs	34	241	0.3	6.01246E-16	0.47	no		Singleton	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG8213829	Butyriboletus roseoflavus	Butyriboletus	KAH9024881.1	49	241	0.24	0.000000962335	0.48	no		Singleton	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG9311284	Chiua virens	Chiua	KAJ7236809.1:52-419	78	421	0.33	6.7231E-39	0.96	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG9311284	Chiua virens	Chiua	KXN89159.1:86-375	140	407	0.28	2.79825E-18	0.84	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG9311284	Chiua virens	Chiua	KAJ7464060.1:62-414	90	433	0.3	3.17978E-25	1.0	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG9311284	Chiua virens	Chiua	KAH9024881.1:10-373	90	441	0.57	3.50012E-133	1.0	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG9311284	Chiua virens	Chiua	che1CaTE-Acs	60	354	0.33	1.98863E-30	0.65	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG9311284	Chiua virens	Chiua	KAH9024881.1	81	457	0.57	8.83372E-142	0.96	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG9311283	Chiua virens	Chiua	KAJ7236809.1:52-419	1	321	0.3	1.94069E-27	0.93	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG9311283	Chiua virens	Chiua	KXN89159.1:86-375	111	334	0.28	1.27154E-15	0.7	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG9311283	Chiua virens	Chiua	KAH9024881.1:10-373	0	341	0.6	2.89753E-147	0.99	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG9311283	Chiua virens	Chiua	che1CaTE-Acs	0	339	0.25	2.92358E-13	0.81	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG9311283	Chiua virens	Chiua	KAH9024881.1	0	361	0.6	1.40449E-156	0.95	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAJ8121881	Lasiodiplodia mahajangana	Lasiodiplodia	KAJ7464060.1:62-414	87	263	0.3	0.00000816098	0.46	no		Acs1.1	Ascomycota	Dothideomycetes	Botryosphaeriales
+ACS	KAB5525742	Coniochaeta sp.	Coniochaeta	KAJ7464060.1:62-414	44	122	0.38	0.000230828	0.22	yes	Too short		Ascomycota	Sordariomycetes	Coniochaetales
+ACS	KAB5554542	Coniochaeta sp.	Coniochaeta	KAJ7464060.1:62-414	36	114	0.38	0.00981462	0.22	yes	Too short		Ascomycota	Sordariomycetes	Coniochaetales
+ACS	XP_056055054	Akanthomyces muscarius	Akanthomyces	KAJ7464060.1:62-414	570	640	0.36	0.00679988	0.18	yes	Too short		Ascomycota	Sordariomycetes	Hypocreales
+ACS	XP_008715454	Cyphellophora europaea	Cyphellophora	KAJ7464060.1:62-414	50	111	0.39	0.0136063	0.18	yes	Too short		Ascomycota	Eurotiomycetes	Chaetothyriales
+ACS	XP_043020553	Diaporthe citri	Diaporthe	KAJ7464060.1:62-414	72	248	0.28	0.000167367	0.48	no		Acs1.1	Ascomycota	Sordariomycetes	Diaporthales
+ACS	KAF1343677	Delphinella strobiligena	Delphinella	KAJ7464060.1:62-414	57	110	0.47	0.0301	0.16	yes	Too short		Ascomycota	Dothideomycetes	Dothideales
+ACS	KAI4140197	Diploschistes diacapsis	Diploschistes	KAJ7464060.1:62-414	12	65	0.45	0.00544256	0.16	yes	Too short		Ascomycota	Lecanoromycetes	Ostropales
+ACS	CAF9909976	Gomphillus americanus	Gomphillus	KAJ7464060.1:62-414	58	136	0.4	0.00223603	0.22	yes	Too short		Ascomycota	Lecanoromycetes	Ostropales
+ACS	XP_016253474	Cladophialophora immunda	Cladophialophora	KAJ7236809.1:52-419	83	382	0.26	0.000217844	0.79	no		Acs1.1	Ascomycota	Eurotiomycetes	Chaetothyriales
+ACS	PNP40025	Trichoderma gamsii	Trichoderma	KAJ7464060.1:62-414	713	778	0.37	0.0115473	0.17	yes	Too short		Ascomycota	Sordariomycetes	Hypocreales
+ACS	TVY84567	Lachnellula suecica	Lachnellula	KAJ7464060.1:62-414	26	78	0.44	0.000417028	0.15	yes	Too short		Ascomycota	Leotiomycetes	Helotiales
+ACS	TVY82334	Lachnellula suecica	Lachnellula	KAJ7464060.1:62-414	26	84	0.41	0.0250883	0.17	yes	Too short		Ascomycota	Leotiomycetes	Helotiales
+ACS	MCJ1455451	Mycoblastus sanguinarius	Mycoblastus	KAJ7464060.1:62-414	35	113	0.37	0.0144748	0.22	yes	Too short		Ascomycota	Lecanoromycetes	Lecanorales
+ACS	MDI1485859	Ramalina farinacea	Ramalina	KAJ7464060.1:62-414	325	407	0.37	0.00336471	0.22	yes	Too short		Ascomycota	Lecanoromycetes	Lecanorales
+ACS	KAI4157519	Letrouitia transgressa	Letrouitia	KAJ7464060.1:62-414	320	389	0.39	0.0000298232	0.18	yes	Too short		Ascomycota	Lecanoromycetes	Teloschistales
+ACS	KAI4213889	Letrouitia transgressa	Letrouitia	KAJ7464060.1:62-414	604	671	0.37	0.00283258	0.17	yes	Too short		Ascomycota	Lecanoromycetes	Teloschistales
+ACS	KAI4160055	Letrouitia transgressa	Letrouitia	KAJ7464060.1:62-414	609	676	0.36	0.00613144	0.17	yes	Too short		Ascomycota	Lecanoromycetes	Teloschistales
+ACS	XP_033548805	Lindgomyces ingoldianus	Lindgomyces	KAJ7464060.1:62-414	800	873	0.37	0.00226968	0.19	yes	Low homology		Ascomycota	Dothideomycetes	Pleosporales
+ACS	KAF5374590	Collybiopsis confluens	Collybiopsis	KAJ7236809.1:52-419	30	338	0.26	1.04631E-12	0.86	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF5374590	Collybiopsis confluens	Collybiopsis	KXN89159.1:86-375	188	306	0.32	1.97974E-13	0.43	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF5374590	Collybiopsis confluens	Collybiopsis	KAJ7464060.1:62-414	50	328	0.31	7.18854E-23	0.8	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF5374590	Collybiopsis confluens	Collybiopsis	KAH9024881.1:10-373	67	340	0.36	1.09667E-36	0.76	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF5374590	Collybiopsis confluens	Collybiopsis	che1CaTE-Acs	24	294	0.26	6.85978E-13	0.62	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF5374590	Collybiopsis confluens	Collybiopsis	KAH9024881.1	42	426	0.32	3.1148E-38	0.99	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KIK69313	Collybiopsis luxurians	Collybiopsis	KAH9024881.1:10-373	85	439	0.24	5.48314E-10	0.93	no		Acs1.2	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KIK69313	Collybiopsis luxurians	Collybiopsis	KAH9024881.1	60	438	0.24	1.66315E-10	0.91	no		Acs1.2	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAE9391611	Gymnopus androsaceus	Gymnopus	KAJ7464060.1:62-414	37	147	0.28	0.000542658	0.31	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAE9391611	Gymnopus androsaceus	Gymnopus	KAH9024881.1:10-373	37	148	0.37	5.39947E-11	0.3	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAE9391611	Gymnopus androsaceus	Gymnopus	KAH9024881.1	28	148	0.38	8.75946E-14	0.3	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF9022656	Hymenopellis radicata	Hymenopellis	KAJ7236809.1:52-419	28	209	0.34	6.84225E-24	0.5	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF9022656	Hymenopellis radicata	Hymenopellis	KXN89159.1:86-375	53	243	0.32	2.86046E-21	0.59	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF9022656	Hymenopellis radicata	Hymenopellis	KAJ7464060.1:62-414	27	268	0.3	1.7921E-20	0.7	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF9022656	Hymenopellis radicata	Hymenopellis	KAH9024881.1:10-373	7	276	0.79	5.59307E-149	0.8	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF9022656	Hymenopellis radicata	Hymenopellis	KAH9024881.1	7	301	0.77	5.5481E-161	0.79	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7236809	Mycena rebaudengoi	Mycena	KAJ7236809.1:52-419	51	419	1.0	0.0	1.0	no		Acs1.3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7238703	Mycena rebaudengoi	Mycena	KAJ7236809.1:52-419	51	419	0.93	0.0	1.0	no		Acs1.3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7238703	Mycena rebaudengoi	Mycena	KXN89159.1:86-375	123	431	0.24	1.87214E-23	0.99	no		Acs1.3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7236809	Mycena rebaudengoi	Mycena	KXN89159.1:86-375	123	335	0.27	1.48635E-21	0.74	no		Acs1.3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7236809	Mycena rebaudengoi	Mycena	KAJ7464060.1:62-414	75	419	0.3	1.01981E-31	0.97	no		Acs1.3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7238703	Mycena rebaudengoi	Mycena	KAJ7464060.1:62-414	75	419	0.29	8.53337E-30	0.97	no		Acs1.3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7238703	Mycena rebaudengoi	Mycena	KAG6371153.1:104-414	75	343	0.26	4.99612E-14	0.83	no		Acs1.3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7236809	Mycena rebaudengoi	Mycena	KAG6371153.1:104-414	75	343	0.25	5.29069E-10	0.83	no		Acs1.3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7236809	Mycena rebaudengoi	Mycena	KAH9024881.1:10-373	75	437	0.32	2.87943E-47	1.0	no		Acs1.3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7238703	Mycena rebaudengoi	Mycena	KAH9024881.1:10-373	75	437	0.33	9.37411E-47	1.0	no		Acs1.3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7238703	Mycena rebaudengoi	Mycena	che1CaTE-Acs	61	445	0.31	1.76786E-37	0.87	no		Acs1.3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7236809	Mycena rebaudengoi	Mycena	che1CaTE-Acs	64	445	0.31	1.55677E-36	0.86	no		Acs1.3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7236809	Mycena rebaudengoi	Mycena	KAH9024881.1	73	458	0.31	6.92499E-49	0.95	no		Acs1.3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7238703	Mycena rebaudengoi	Mycena	KAH9024881.1	73	457	0.33	1.96523E-48	0.95	no		Acs1.3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7464060	Mycena latifolia	Mycena	KAJ7236809.1:52-419	43	402	0.3	6.60618E-32	1.0	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7464060	Mycena latifolia	Mycena	KXN89159.1:86-375	107	323	0.33	3.05919E-20	0.76	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7464060	Mycena latifolia	Mycena	KAJ7464060.1:62-414	61	414	1.0	0.0	1.0	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7464060	Mycena latifolia	Mycena	KAG6371153.1:104-414	61	348	0.28	2.91986E-16	0.89	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7464060	Mycena latifolia	Mycena	KAH9024881.1:10-373	61	414	0.3	1.32568E-31	0.98	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7464060	Mycena latifolia	Mycena	che1CaTE-Acs	41	414	0.31	2.43242E-32	0.85	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAJ7464060	Mycena latifolia	Mycena	KAH9024881.1	61	422	0.3	2.70451E-31	0.9	no		Singleton	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF9064818	Rhodocollybia butyracea	Rhodocollybia	KXN89159.1:86-375	187	396	0.27	1.94529E-11	0.66	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF9064818	Rhodocollybia butyracea	Rhodocollybia	KAH9024881.1:10-373	58	416	0.39	3.05152E-71	0.95	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF9064818	Rhodocollybia butyracea	Rhodocollybia	KAH9024881.1	28	437	0.38	6.72907E-80	0.97	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF2677707	Lentithecium fluviatile	Lentithecium	KAJ7464060.1:62-414	164	405	0.24	0.00718978	0.61	no		Acs1.1	Ascomycota	Dothideomycetes	Pleosporales
+ACS	KAF2154823	Myriangium duriaei	Myriangium	KAJ7464060.1:62-414	48	111	0.41	0.0240338	0.19	yes	Too short		Ascomycota	Dothideomycetes	Myriangiales
+ACS	KAI8718591	Fusarium sp.	Fusarium	KAH9024881.1:10-373	33	345	0.21	0.0116072	0.8	no		Acs1.1	Ascomycota	Sordariomycetes	Hypocreales
+ACS	KAI8718591	Fusarium sp.	Fusarium	KAH9024881.1	33	345	0.21	0.0136344	0.72	no		Acs1.1	Ascomycota	Sordariomycetes	Hypocreales
+ACS	EEH22684	Paracoccidioides brasiliensis	Paracoccidioides	KAJ7464060.1:62-414	797	870	0.37	0.0461622	0.19	yes	Low homology		Ascomycota	Eurotiomycetes	Onygenales
+ACS	MCJ1266028	Lobaria immixta	Lobaria	KAJ7464060.1:62-414	19	200	0.24	0.00178983	0.47	no		Acs1.1	Ascomycota	Lecanoromycetes	Peltigerales
+ACS	KAI5811413	Peziza echinospora	Peziza	KAJ7464060.1:62-414	4	63	0.37	0.0450766	0.17	yes	Too short		Ascomycota	Pezizomycetes	Pezizales
+ACS	KAF8443444	Terfezia claveryi	Terfezia	KAJ7464060.1:62-414	85	143	0.43	0.00187983	0.17	yes	Too short		Ascomycota	Pezizomycetes	Pezizales
+ACS	RPB22720	Terfezia boudieri	Terfezia	KAJ7464060.1:62-414	4	62	0.43	0.00358613	0.17	yes	Too short		Ascomycota	Pezizomycetes	Pezizales
+ACS	KAF8418969	Tirmania nivea	Tirmania	KAJ7464060.1:62-414	4	63	0.41	0.00488536	0.17	yes	Too short		Ascomycota	Pezizomycetes	Pezizales
+ACS	ANZ75551	Komagataella pastoris	Komagataella	KAJ7464060.1:62-414	920	1002	0.39	0.0464963	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	XP_011273478	Wickerhamomyces ciferrii	Wickerhamomyces	KAJ7464060.1:62-414	791	873	0.35	0.0172564	0.2	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	KAI9145907	Paraphysoderma sedebokerense	Paraphysoderma	KAJ7464060.1:62-414	32	99	0.48	0.00442733	0.2	yes	Too short		Blastocladiomycota	Physodermatomycetes	Physodermatales
+ACS	VEU20157	Brettanomyces naardenensis	Brettanomyces	KAJ7464060.1:62-414	888	957	0.41	0.0219841	0.18	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	GMM30264	Martiniozyma asiatica	Martiniozyma	KAJ7464060.1:62-414	819	898	0.34	0.0362772	0.21	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	OWY50600	Alternaria alternata	Alternaria	KAJ7464060.1:62-414	163	404	0.24	0.00239025	0.61	no		Acs1.1	Ascomycota	Dothideomycetes	Pleosporales
+ACS	RYN15605	Alternaria tenuissima	Alternaria	KAJ7464060.1:62-414	163	404	0.24	0.00295309	0.61	no		Acs1.1	Ascomycota	Dothideomycetes	Pleosporales
+ACS	RYN15606	Alternaria tenuissima	Alternaria	KAJ7464060.1:62-414	60	301	0.23	0.00457269	0.61	no		Acs1.1	Ascomycota	Dothideomycetes	Pleosporales
+ACS	KAF4581365	Pleurotus pulmonarius	Pleurotus	che1CaTE-Acs	56	288	0.27	0.0000000341804	0.52	no		Acs1.2	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF4581365	Pleurotus pulmonarius	Pleurotus	KAH9024881.1	56	399	0.24	2.29053E-14	0.84	no		Acs1.2	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF4581365	Pleurotus pulmonarius	Pleurotus	KAH9024881.1:10-373	56	399	0.24	1.27637E-14	0.93	no		Acs1.2	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAK4457977	Cladorrhinum samala	Cladorrhinum	KAJ7236809.1:52-419	51	400	0.24	0.0000000833432	0.85	no		Acs1.1	Ascomycota	Sordariomycetes	Sordariales
+ACS	KAK4457977	Cladorrhinum samala	Cladorrhinum	KAJ7464060.1:62-414	51	229	0.25	0.000477289	0.49	no		Acs1.1	Ascomycota	Sordariomycetes	Sordariales
+ACS	KAI0354134	Trametes cingulata	Trametes	KAJ7236809.1:52-419	121	349	0.28	2.51853E-11	0.62	no		Acs1.2	Basidiomycota	Agaricomycetes	Polyporales
+ACS	KAI0354134	Trametes cingulata	Trametes	KXN89159.1:86-375	120	308	0.29	8.96844E-12	0.67	no		Acs1.2	Basidiomycota	Agaricomycetes	Polyporales
+ACS	KAH9024881	Lactarius pseudohatsudake	Lactarius	KAJ7236809.1:52-419	7	352	0.32	2.69093E-45	0.94	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAH8997062	Lactarius deliciosus	Lactarius	KAJ7236809.1:52-419	23	247	0.28	1.56364E-17	0.6	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAH9024881	Lactarius pseudohatsudake	Lactarius	KXN89159.1:86-375	59	366	0.3	6.04622E-22	1.0	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAH8997062	Lactarius deliciosus	Lactarius	KXN89159.1:86-375	85	246	0.35	5.73521E-16	0.56	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAH9024881	Lactarius pseudohatsudake	Lactarius	KAJ7464060.1:62-414	9	365	0.3	5.22774E-32	1.0	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAH8997062	Lactarius deliciosus	Lactarius	KAJ7464060.1:62-414	35	251	0.29	4.77605E-15	0.6	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAH9024881	Lactarius pseudohatsudake	Lactarius	KAH9024881.1:10-373	9	373	1.0	0.0	1.0	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAH8997062	Lactarius deliciosus	Lactarius	KAH9024881.1:10-373	35	250	0.8	2.02391E-118	0.59	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAH9047091	Lactarius hengduanensis	Lactarius	KAH9024881.1:10-373	25	137	0.98	1.51679E-74	0.31	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAH8997062	Lactarius deliciosus	Lactarius	che1CaTE-Acs	22	246	0.32	4.26226E-14	0.5	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAH9024881	Lactarius pseudohatsudake	Lactarius	KAH9024881.1	0	404	1.0	0.0	1.0	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAH8997062	Lactarius deliciosus	Lactarius	KAH9024881.1	26	250	0.79	1.41232E-123	0.55	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAH9047091	Lactarius hengduanensis	Lactarius	KAH9024881.1	16	137	0.98	5.58208E-81	0.3	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAF8268459	Lactarius quietus	Lactarius	KAJ7236809.1:52-419	54	267	0.31	5.44106E-17	0.59	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAF8268459	Lactarius quietus	Lactarius	KXN89159.1:86-375	88	269	0.36	4.75048E-17	0.67	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAF8268459	Lactarius quietus	Lactarius	KAJ7464060.1:62-414	37	268	0.32	2.80002E-19	0.65	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAF8268459	Lactarius quietus	Lactarius	KAH9024881.1:10-373	37	281	0.79	6.97238E-133	0.68	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAF8268459	Lactarius quietus	Lactarius	che1CaTE-Acs	7	268	0.33	5.11958E-23	0.6	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAF8268459	Lactarius quietus	Lactarius	KAH9024881.1	28	281	0.78	7.41577E-137	0.63	no		Acs3	Basidiomycota	Agaricomycetes	Russulales
+ACS	KAH7583619	Nakaseomyces glabratus	Nakaseomyces	KAJ7464060.1:62-414	899	968	0.39	0.00441592	0.18	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	UCS21811	Nakaseomyces glabratus	Nakaseomyces	KAJ7464060.1:62-414	899	968	0.39	0.00441592	0.18	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	XP_448012	Nakaseomyces glabratus	Nakaseomyces	KAJ7464060.1:62-414	899	968	0.39	0.00441592	0.18	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	OXB42166	Nakaseomyces glabratus	Nakaseomyces	KAJ7464060.1:62-414	899	968	0.39	0.00441592	0.18	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	KTB11327	Nakaseomyces glabratus	Nakaseomyces	KAJ7464060.1:62-414	899	968	0.39	0.00441592	0.18	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	KAH7584109	Nakaseomyces glabratus	Nakaseomyces	KAJ7464060.1:62-414	899	968	0.39	0.00441592	0.18	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	KAJ9571919	Nakaseomyces glabratus	Nakaseomyces	KAJ7464060.1:62-414	899	968	0.39	0.00441592	0.18	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	KAH7597853	Nakaseomyces glabratus	Nakaseomyces	KAJ7464060.1:62-414	899	968	0.38	0.0299149	0.18	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	XP_003675538	Naumovozyma castellii	Naumovozyma	KAJ7464060.1:62-414	780	849	0.39	0.00728658	0.18	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	XP_003670314	Naumovozyma dairenensis	Naumovozyma	KAJ7464060.1:62-414	837	906	0.38	0.000622174	0.18	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5338492	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.4	0.0186242	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4054368	Saccharomyces uvarum	Saccharomyces	KAJ7464060.1:62-414	860	941	0.42	0.0150937	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI6827252	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.4	0.0187875	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	WBF16074	Saccharomyces uvarum	Saccharomyces	KAJ7464060.1:62-414	861	942	0.42	0.00524289	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	EJS41436	Saccharomyces arboricola	Saccharomyces	KAJ7464060.1:62-414	859	940	0.42	0.00663749	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW00046	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00737734	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW24691	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00744212	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAD6645951	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00744212	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW09608	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00744212	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4828990	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00744212	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5317571	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00757338	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4923224	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	809	890	0.42	0.00758316	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAD6649669	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00763987	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4821361	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00763987	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI6910968	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00763987	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4924973	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00763987	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW19460	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00764084	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4837997	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00770695	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	PTN17322	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00777462	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI7391710	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	809	890	0.42	0.00778471	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5141951	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00784288	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	KAF1901430	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00784288	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	ONH81015	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00784288	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	EWG92719	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00786621	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAD6649074	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00791173	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4847498	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00791173	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4800917	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00791173	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAH1833384	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00791173	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4800315	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00791173	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI7490731	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	818	899	0.42	0.00793192	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5319286	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4798003	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AHY78069	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJV97871	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAD6651175	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5009279	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI7382076	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5334180	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4772910	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJU24842	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	KAJ1053316	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJU32455	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4848694	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJV98307	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	KAJ1046548	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJU25773	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	KAJ1534844	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW07868	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00798119	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4818955	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00805126	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	KOH47269	Saccharomyces boulardii	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00805126	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4930318	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00805126	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW11629	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00805126	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5324668	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00805126	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW10042	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00805126	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	NP_015215	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00805126	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW08308	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00805126	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5303895	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00805126	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI7488476	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00805126	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJU23481	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00805126	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5333696	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00805126	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5326881	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00805126	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJV97431	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00826518	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4799465	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00826518	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4825905	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00826518	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5313118	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00826518	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW05688	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00826518	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	KOH52658	Saccharomyces boulardii	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00826518	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJV98742	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00826518	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJV95428	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00826518	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW00914	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00826518	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW20313	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00826518	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJP42037	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00826518	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJV96555	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00826518	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI7373925	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00826518	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4842935	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00826518	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI6912824	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00826518	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW03944	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00833774	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4828033	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00833774	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI6799998	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00833774	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4814002	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00833774	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4839578	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00833774	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW22940	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00833774	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4825146	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00833774	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	GMC24965	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00833774	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW21191	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00833774	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4806638	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00833774	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW06566	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00833774	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4828471	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00833774	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4830163	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00833774	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4802939	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00833774	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4838178	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00833774	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	XP_056079887	Saccharomyces mikatae	Saccharomyces	KAJ7464060.1:62-414	861	942	0.42	0.00855166	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW09171	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00855926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4910717	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00855926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW21634	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00855926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	KAF4006156	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00855926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAD6649164	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00855926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4833710	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00855926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4758945	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00855926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJV93581	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00855926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	GES67787	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00855926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	GMC31159	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00855926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	GMC37545	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00855926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5339287	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00855926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5019671	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00855926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4852279	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00855926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJV92880	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00855926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW08737	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00855926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI7376072	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00855926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI6899671	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	165	246	0.42	0.00862029	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4811161	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00863439	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	KAF4002015	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00863439	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW16413	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00863439	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5338155	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00863439	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4841895	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00863439	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI7480850	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00871019	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5196531	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00871019	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJV91127	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00871019	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJV92444	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00871019	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	GMC41687	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00871019	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4914185	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00871019	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4956882	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00871019	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJU24168	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00871019	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4941983	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00871019	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5017907	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00871019	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4855263	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00871019	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4839517	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00871019	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5338559	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00871019	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4975078	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00871019	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJV91565	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00871019	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4955631	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00871019	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJV94991	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00871019	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4775390	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.00909925	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI7478742	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	606	687	0.42	0.00927449	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI7478676	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	165	246	0.42	0.00941475	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5319524	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	256	337	0.42	0.00952336	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5317442	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	65	146	0.42	0.00961537	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI5224890	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	256	337	0.42	0.0096923	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI6917954	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.0101643	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI7484280	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	415	496	0.42	0.0103115	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AJW23815	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.0117234	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI7382618	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.0117898	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	XP_018218924	Saccharomyces eubayanus	Saccharomyces	KAJ7464060.1:62-414	860	941	0.42	0.0124549	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	XP_033769657	Saccharomyces paradoxus	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.0127904	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	QID88323	Saccharomyces pastorianus	Saccharomyces	KAJ7464060.1:62-414	860	941	0.42	0.013011	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI1758809	Saccharomyces eubayanus	Saccharomyces	KAJ7464060.1:62-414	860	941	0.42	0.0133564	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CAI4811507	Saccharomyces cerevisiae	Saccharomyces	KAJ7464060.1:62-414	865	946	0.42	0.013482	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	XP_004178786	Tetrapisispora blattae	Tetrapisispora	KAJ7464060.1:62-414	994	1078	0.38	0.0195576	0.23	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	XP_003687098	Tetrapisispora phaffii	Tetrapisispora	KAJ7464060.1:62-414	869	962	0.35	0.00800395	0.24	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	XP_003679087	Torulaspora delbrueckii	Torulaspora	KAJ7464060.1:62-414	948	1030	0.37	0.0494113	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	GAV46857	Zygosaccharomyces rouxii	Zygosaccharomyces	KAJ7464060.1:62-414	993	1075	0.38	0.01847	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	XP_002494815	Zygosaccharomyces rouxii	Zygosaccharomyces	KAJ7464060.1:62-414	993	1075	0.38	0.0207666	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	GCE98299	Zygosaccharomyces mellis	Zygosaccharomyces	KAJ7464060.1:62-414	991	1073	0.38	0.0216926	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	GAV51884	Zygosaccharomyces rouxii	Zygosaccharomyces	KAJ7464060.1:62-414	995	1077	0.38	0.0258328	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AQZ18404	Zygosaccharomyces parabailii	Zygosaccharomyces	KAJ7464060.1:62-414	972	1054	0.38	0.0391703	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CDH17055	Zygosaccharomyces bailii	Zygosaccharomyces	KAJ7464060.1:62-414	972	1054	0.38	0.0391703	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CDF91284	Zygosaccharomyces bailii	Zygosaccharomyces	KAJ7464060.1:62-414	972	1054	0.38	0.0395132	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	SJM88314	Zygosaccharomyces bailii	Zygosaccharomyces	KAJ7464060.1:62-414	972	1054	0.38	0.0395132	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	CDH10596	Zygosaccharomyces bailii	Zygosaccharomyces	KAJ7464060.1:62-414	972	1054	0.38	0.0409155	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	AQZ12055	Zygosaccharomyces parabailii	Zygosaccharomyces	KAJ7464060.1:62-414	972	1054	0.38	0.0423674	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	XP_037143689	Zygotorulaspora mrakii	Zygotorulaspora	KAJ7464060.1:62-414	973	1055	0.38	0.0190042	0.22	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	GMM50028	Starmerella bacillaris	Starmerella	KAJ7464060.1:62-414	753	819	0.39	0.0353437	0.17	yes	Low homology		Ascomycota	Saccharomycetes	Saccharomycetales
+ACS	PSR83923	Coniella lustricola	Coniella	KAJ7464060.1:62-414	1	60	0.44	0.00322835	0.17	yes	Too short		Ascomycota	Sordariomycetes	Diaporthales
+ACS	KAH7310569	Stachybotrys elegans	Stachybotrys	KAJ7464060.1:62-414	668	758	0.37	0.00155143	0.25	yes	Low homology		Ascomycota	Sordariomycetes	Hypocreales
+ACS	OAX31906	Rhizopogon vinicolor	Rhizopogon	KAJ7236809.1:52-419	25	354	0.31	1.40949E-32	0.97	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	OJA17299	Rhizopogon vesiculosus	Rhizopogon	KAJ7236809.1:52-419	30	223	0.33	6.76453E-28	0.54	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	OJA17299	Rhizopogon vesiculosus	Rhizopogon	KXN89159.1:86-375	1	207	0.35	2.73249E-23	0.73	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	OAX31906	Rhizopogon vinicolor	Rhizopogon	KXN89159.1:86-375	106	367	0.3	4.10579E-21	0.83	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	OAX31906	Rhizopogon vinicolor	Rhizopogon	KAJ7464060.1:62-414	37	366	0.28	6.63366E-25	1.0	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	OJA17299	Rhizopogon vesiculosus	Rhizopogon	KAJ7464060.1:62-414	25	256	0.27	7.51367E-20	0.65	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	OAX31906	Rhizopogon vinicolor	Rhizopogon	KAH9024881.1:10-373	37	374	0.73	2.37241E-171	1.0	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	OJA17299	Rhizopogon vesiculosus	Rhizopogon	KAH9024881.1:10-373	0	256	0.71	4.05258E-131	0.7	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	OJA17296	Rhizopogon vesiculosus	Rhizopogon	KAH9024881.1:10-373	37	66	0.66	0.00661169	0.08	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	OAX31906	Rhizopogon vinicolor	Rhizopogon	che1CaTE-Acs	7	372	0.3	1.77888E-24	0.88	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	OJA17299	Rhizopogon vesiculosus	Rhizopogon	che1CaTE-Acs	30	243	0.29	1.51793E-15	0.47	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	OAX31906	Rhizopogon vinicolor	Rhizopogon	KAH9024881.1	28	402	0.71	0.0	0.99	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	OJA17299	Rhizopogon vesiculosus	Rhizopogon	KAH9024881.1	0	256	0.71	1.9048E-130	0.63	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	OJA17296	Rhizopogon vesiculosus	Rhizopogon	KAH9024881.1	28	66	0.63	0.00000242525	0.09	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG2062512	Suillus decipiens	Suillus	KAH9024881.1	0	68	0.69	6.24369E-23	0.17	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAG2062512	Suillus decipiens	Suillus	KAH9024881.1:10-373	0	68	0.69	4.78283E-23	0.19	no		Acs3	Basidiomycota	Agaricomycetes	Boletales
+ACS	KAI4183036	Caloplaca aetnensis	Caloplaca	KAJ7464060.1:62-414	51	108	0.4	0.026369	0.17	yes	Too short		Ascomycota	Lecanoromycetes	Teloschistales
+ACS	KAK5740832	Elasticomyces elasticus	Elasticomyces	KAJ7464060.1:62-414	128	294	0.27	0.000488614	0.46	no		Acs1.1	Ascomycota	Dothideomycetes	Mycosphaerellales
+ACS	KAG5648421	Asterophora parasitica	Asterophora	KAJ7236809.1:52-419	14	277	0.33	4.09743E-19	0.79	yes	Low homology		Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAG5648421	Asterophora parasitica	Asterophora	KXN89159.1:86-375	109	236	0.29	0.00000000385521	0.47	yes	Low homology		Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAG5648421	Asterophora parasitica	Asterophora	KAJ7464060.1:62-414	0	263	0.3	1.17226E-19	0.81	yes	Low homology		Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAG5648421	Asterophora parasitica	Asterophora	KAH9024881.1:10-373	0	351	0.31	1.16301E-30	0.96	yes	Low homology		Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAG5648421	Asterophora parasitica	Asterophora	KAH9024881.1	0	351	0.31	3.2014E-30	0.87	yes	Low homology		Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF8873348	Infundibulicybe gibba	Infundibulicybe	KAJ7236809.1:52-419	5	112	0.37	0.000234705	0.29	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF8873347	Infundibulicybe gibba	Infundibulicybe	KAJ7236809.1:52-419	4	140	0.32	0.00156708	0.37	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF8872085	Infundibulicybe gibba	Infundibulicybe	KAJ7464060.1:62-414	29	132	0.37	0.0000461187	0.3	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF8873347	Infundibulicybe gibba	Infundibulicybe	KAJ7464060.1:62-414	29	140	0.36	0.000117515	0.32	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF8873348	Infundibulicybe gibba	Infundibulicybe	KAH9024881.1:10-373	0	137	0.44	4.29778E-29	0.37	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF8873347	Infundibulicybe gibba	Infundibulicybe	KAH9024881.1:10-373	29	138	0.4	1.0014E-14	0.31	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF8872085	Infundibulicybe gibba	Infundibulicybe	KAH9024881.1:10-373	29	138	0.4	1.49457E-14	0.31	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF8872085	Infundibulicybe gibba	Infundibulicybe	che1CaTE-Acs	16	138	0.31	0.0394704	0.28	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF8873348	Infundibulicybe gibba	Infundibulicybe	KAH9024881.1	0	150	0.45	8.10401E-35	0.36	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF8872085	Infundibulicybe gibba	Infundibulicybe	KAH9024881.1	20	138	0.4	1.17711E-16	0.3	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAF8873347	Infundibulicybe gibba	Infundibulicybe	KAH9024881.1	20	138	0.39	3.8533E-16	0.3	no		Acs3	Basidiomycota	Agaricomycetes	Agaricales
+ACS	KAI9656306	Bathelium mastoideum	Bathelium	KAJ7236809.1:52-419	56	305	0.29	0.0000170715	0.75	no		Acs1.1	Ascomycota	Dothideomycetes	Trypetheliales
+ACS	KAI9688986	Bathelium mastoideum	Bathelium	KAJ7464060.1:62-414	41	230	0.24	0.00362871	0.47	no		Acs1.1	Ascomycota	Dothideomycetes	Trypetheliales
+ACS	KAI9656306	Bathelium mastoideum	Bathelium	KAJ7464060.1:62-414	41	206	0.27	0.00837029	0.44	no		Acs1.1	Ascomycota	Dothideomycetes	Trypetheliales
+ACS	KAI0199099	Astrocystis sublimbata	Astrocystis	KAJ7236809.1:52-419	61	391	0.25	6.12935E-11	0.89	no		Acs1.2	Ascomycota	Sordariomycetes	Xylariales
+ACS	KAI0199099	Astrocystis sublimbata	Astrocystis	KAJ7464060.1:62-414	62	306	0.25	0.00000000521519	0.68	no		Acs1.2	Ascomycota	Sordariomycetes	Xylariales
+ACS	KAI0199099	Astrocystis sublimbata	Astrocystis	KAG6371153.1:104-414	62	376	0.22	0.0158069	0.96	no		Acs1.2	Ascomycota	Sordariomycetes	Xylariales
+ACS	KAI0199099	Astrocystis sublimbata	Astrocystis	KAH9024881.1:10-373	62	391	0.25	1.36015E-16	0.89	no		Acs1.2	Ascomycota	Sordariomycetes	Xylariales
+ACS	KAI0199099	Astrocystis sublimbata	Astrocystis	KAH9024881.1	61	391	0.25	1.21003E-16	0.81	no		Acs1.2	Ascomycota	Sordariomycetes	Xylariales
+ACS	KAI0546426	Xylaria curta	Xylaria	KAJ7464060.1:62-414	88	264	0.29	0.000267906	0.46	no		Acs1.1	Ascomycota	Sordariomycetes	Xylariales
+ACS	KAI1327658	Xylariaceae sp.	Xylariaceae	KAJ7464060.1:62-414	801	874	0.37	0.00629192	0.19	yes	Low homology		Ascomycota	Sordariomycetes	Xylariales
+ACS	KAK3078640	Coniosporium uncinatum	Coniosporium	KAJ7464060.1:62-414	64	117	0.43	0.0288313	0.16	yes	Too short		Ascomycota	Dothideomycetes	Coniosporium
+ACS	KAI5180536	Nematocida sp.	Nematocida	KAJ7464060.1:62-414	48	134	0.38	0.0318697	0.24	yes	Too short		Microsporidia		
+CUS	RYP04084	Monosporascus ibericus	Monosporascus	E0L32_006055_Thyridium_curvatum	1	152	0.51	1.32409E-29	0.68	no		Cus1	Ascomycota	Sordariomycetes	Xylariales
+CUS	RYP04084	Monosporascus ibericus	Monosporascus	KAF8548865.1	0	145	0.39	1.21175E-16	0.6	no		Cus1	Ascomycota	Sordariomycetes	Xylariales
+CUS	KAF8736273	Amanita brunnescens	Amanita	KAJ7289093.1:10-317	11	278	0.58	8.18249E-93	1.0	no		Cus3	Basidiomycota	Agaricomycetes	Agaricales
+CUS	KAF8736273	Amanita brunnescens	Amanita	KAG8213830.1	0	185	0.43	2.53252E-37	0.97	no		Cus3	Basidiomycota	Agaricomycetes	Agaricales
+CUS	KAF8736273	Amanita brunnescens	Amanita	E0L32_006055_Thyridium_curvatum	179	270	0.34	0.00235343	0.3	no		Cus3	Basidiomycota	Agaricomycetes	Agaricales
+CUS	KAJ4366916	Neocucurbitaria cava	Neocucurbitaria	E0L32_006055_Thyridium_curvatum	1	341	0.52	5.43178E-123	0.97	no		Cus1	Ascomycota	Dothideomycetes	Pleosporales
+CUS	KAJ4366916	Neocucurbitaria cava	Neocucurbitaria	KAF8548865.1	189	338	0.38	9.65202E-23	0.5	no		Cus1	Ascomycota	Dothideomycetes	Pleosporales
+CUS	KAJ4366916	Neocucurbitaria cava	Neocucurbitaria	KAF8548865.1	11	113	0.38	1.02791E-14	0.34	no		Cus1	Ascomycota	Dothideomycetes	Pleosporales
+CUS	KAK2736422	Myotisia sp.	Myotisia	KAJ7289093.1:10-317	8	143	0.3	0.00000580352	0.44	no		Cus2	Ascomycota	Eurotiomycetes	Onygenales
+CUS	KAJ7289093	Mycena rebaudengoi	Mycena	KAJ7289093.1:10-317	9	317	1.0	0.0	1.0	no		Cus3	Basidiomycota	Agaricomycetes	Agaricales
+CUS	KAJ7039838	Mycena alexandri	Mycena	KAJ7289093.1:10-317	9	317	0.89	0.0	1.0	no		Cus3	Basidiomycota	Agaricomycetes	Agaricales
+CUS	KAJ7770518	Mycena metata	Mycena	KAJ7289093.1:10-317	9	317	0.87	0.0	1.0	no		Cus3	Basidiomycota	Agaricomycetes	Agaricales
+CUS	KAJ7289093	Mycena rebaudengoi	Mycena	KAG8213830.1	3	208	0.51	8.01577E-64	0.95	no		Cus3	Basidiomycota	Agaricomycetes	Agaricales
+CUS	KAJ7039838	Mycena alexandri	Mycena	KAG8213830.1	6	208	0.5	7.03915E-62	0.93	no		Cus3	Basidiomycota	Agaricomycetes	Agaricales
+CUS	KAJ7770518	Mycena metata	Mycena	KAG8213830.1	6	208	0.5	7.38164E-61	0.93	no		Cus3	Basidiomycota	Agaricomycetes	Agaricales
+CUS	KAJ7770518	Mycena metata	Mycena	E0L32_006055_Thyridium_curvatum	191	309	0.34	0.00000980236	0.33	no		Cus3	Basidiomycota	Agaricomycetes	Agaricales
+CUS	KAJ7039838	Mycena alexandri	Mycena	E0L32_006055_Thyridium_curvatum	202	309	0.34	0.000189941	0.3	no		Cus3	Basidiomycota	Agaricomycetes	Agaricales
+CUS	KAJ7289093	Mycena rebaudengoi	Mycena	E0L32_006055_Thyridium_curvatum	191	309	0.29	0.0177322	0.33	no		Cus3	Basidiomycota	Agaricomycetes	Agaricales
+CUS	KAG8216553	Butyriboletus roseoflavus	Butyriboletus	KAJ7289093.1:10-317	0	201	0.52	1.15999E-64	0.66	no		Cus3	Basidiomycota	Agaricomycetes	Boletales
+CUS	KAG8213830	Butyriboletus roseoflavus	Butyriboletus	KAJ7289093.1:10-317	11	207	0.53	3.80781E-63	0.65	no		Cus3	Basidiomycota	Agaricomycetes	Boletales
+CUS	KAG8213831	Butyriboletus roseoflavus	Butyriboletus	KAJ7289093.1:10-317	0	94	0.64	3.50411E-36	0.3	no		Cus3	Basidiomycota	Agaricomycetes	Boletales
+CUS	KAG8213830	Butyriboletus roseoflavus	Butyriboletus	KAG8213830.1	0	213	1.0	8.93513E-159	1.0	no		Cus3	Basidiomycota	Agaricomycetes	Boletales
+CUS	KAG8216553	Butyriboletus roseoflavus	Butyriboletus	KAG8213830.1	0	92	0.66	1.94827E-32	0.43	no		Cus3	Basidiomycota	Agaricomycetes	Boletales
+CUS	KAG8213182	Butyriboletus roseoflavus	Butyriboletus	E0L32_006055_Thyridium_curvatum	9	282	0.31	2.4114E-22	0.87	no		Cus1	Basidiomycota	Agaricomycetes	Boletales
+CUS	KAG8213182	Butyriboletus roseoflavus	Butyriboletus	KAF8548865.1	0	284	0.35	3.26284E-34	0.88	no		Cus1	Basidiomycota	Agaricomycetes	Boletales
+CUS	KAF8548865	Imleria badia	Imleria	E0L32_006055_Thyridium_curvatum	10	281	0.4	9.78542E-58	0.94	no		Cus1	Basidiomycota	Agaricomycetes	Boletales
+CUS	KAF8546817	Imleria badia	Imleria	E0L32_006055_Thyridium_curvatum	47	299	0.4	1.38853E-52	0.74	no		Cus1	Basidiomycota	Agaricomycetes	Boletales
+CUS	KAF8548865	Imleria badia	Imleria	KAF8548865.1	0	297	1.0	0.0	1.0	no		Cus1	Basidiomycota	Agaricomycetes	Boletales
+CUS	KAF8546817	Imleria badia	Imleria	KAF8548865.1	37	309	0.78	7.05023E-141	0.74	no		Cus1	Basidiomycota	Agaricomycetes	Boletales
+CUS	XP_056053679	Akanthomyces muscarius	Akanthomyces	E0L32_006055_Thyridium_curvatum	13	307	0.39	1.37828E-60	0.87	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	XP_056053678	Akanthomyces muscarius	Akanthomyces	E0L32_006055_Thyridium_curvatum	23	317	0.39	1.94142E-60	0.87	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	XP_056053678	Akanthomyces muscarius	Akanthomyces	KAF8548865.1	10	346	0.41	4.70672E-81	0.98	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	XP_056053679	Akanthomyces muscarius	Akanthomyces	KAF8548865.1	0	336	0.41	5.96175E-81	0.98	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	KAK2752868	Arachnomyces sp.	Arachnomyces	KAJ7289093.1:10-317	11	144	0.3	0.000000826186	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Onygenales
+CUS	KAK2752868	Arachnomyces sp.	Arachnomyces	KAJ7289093.1:10-317	201	324	0.28	0.00243695	0.37	no		Cus2	Ascomycota	Eurotiomycetes	Onygenales
+CUS	XP_033405712	Arthroderma uncinatum	Arthroderma	E0L32_006055_Thyridium_curvatum	1	304	0.41	1.23662E-73	0.91	no		Cus1	Ascomycota	Eurotiomycetes	Onygenales
+CUS	XP_033405712	Arthroderma uncinatum	Arthroderma	KAF8548865.1	2	322	0.43	3.23407E-79	0.94	no		Cus1	Ascomycota	Eurotiomycetes	Onygenales
+CUS	XP_040705305	Aspergillus sydowii	Aspergillus	KAJ7289093.1:10-317	6	139	0.31	0.00000000332841	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_040705305	Aspergillus sydowii	Aspergillus	KAJ7289093.1:10-317	166	321	0.23	0.00078358	0.47	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_040666598	Aspergillus versicolor	Aspergillus	KAJ7289093.1:10-317	11	144	0.29	0.000000126908	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_040666598	Aspergillus versicolor	Aspergillus	KAJ7289093.1:10-317	171	326	0.23	0.000733081	0.47	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_024709115	Aspergillus steynii	Aspergillus	KAJ7289093.1:10-317	13	145	0.3	0.0000009406	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025460449	Aspergillus niger	Aspergillus	KAJ7289093.1:10-317	12	137	0.32	0.00000121672	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025551765	Aspergillus homomorphus	Aspergillus	KAJ7289093.1:10-317	11	128	0.31	0.00000281943	0.44	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025396382	Aspergillus heteromorphus	Aspergillus	KAJ7289093.1:10-317	3	145	0.3	0.00000382494	0.49	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025396382	Aspergillus heteromorphus	Aspergillus	KAJ7289093.1:10-317	204	322	0.28	0.0348503	0.35	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	OOF97934	Aspergillus carbonarius	Aspergillus	KAJ7289093.1:10-317	9	144	0.29	0.0000208668	0.44	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_052951151	Aspergillus affinis	Aspergillus	KAJ7289093.1:10-317	13	145	0.28	0.0000222921	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GLA28509	Aspergillus niger	Aspergillus	KAJ7289093.1:10-317	5	137	0.3	0.0000460861	0.45	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_024709037	Aspergillus steynii	Aspergillus	KAJ7289093.1:10-317	18	137	0.27	0.0000504872	0.4	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAF7158723	Aspergillus felis	Aspergillus	KAJ7289093.1:10-317	15	147	0.33	0.0000862738	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAB8078630	Aspergillus leporis	Aspergillus	KAJ7289093.1:10-317	15	147	0.31	0.0000892123	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025470323	Aspergillus sclerotioniger	Aspergillus	KAJ7289093.1:10-317	11	143	0.28	0.000158023	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_031903756	Aspergillus alliaceus	Aspergillus	KAJ7289093.1:10-317	2	110	0.31	0.00015996	0.36	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025552697	Aspergillus homomorphus	Aspergillus	KAJ7289093.1:10-317	171	329	0.26	0.000227816	0.48	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAF5862430	Aspergillus burnettii	Aspergillus	KAJ7289093.1:10-317	1	147	0.31	0.00029272	0.48	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_024693597	Aspergillus campestris	Aspergillus	KAJ7289093.1:10-317	14	135	0.28	0.000329935	0.41	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAE8395211	Aspergillus alliaceus	Aspergillus	KAJ7289093.1:10-317	15	147	0.31	0.000377214	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_001259066	Aspergillus fischeri	Aspergillus	KAJ7289093.1:10-317	15	147	0.31	0.000409938	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAG2003959	Aspergillus fischeri	Aspergillus	KAJ7289093.1:10-317	15	147	0.31	0.000543608	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	PYI25847	Aspergillus indologenus	Aspergillus	KAJ7289093.1:10-317	14	135	0.27	0.000618024	0.41	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_031903760	Aspergillus alliaceus	Aspergillus	KAJ7289093.1:10-317	15	147	0.31	0.000631865	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025523104	Aspergillus japonicus	Aspergillus	KAJ7289093.1:10-317	14	135	0.26	0.000787874	0.41	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	PYI23180	Aspergillus violaceofuscus	Aspergillus	KAJ7289093.1:10-317	14	135	0.26	0.00080217	0.41	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025493761	Aspergillus uvarum	Aspergillus	KAJ7289093.1:10-317	14	135	0.27	0.000852599	0.41	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_043145291	Aspergillus udagawae	Aspergillus	KAJ7289093.1:10-317	15	147	0.31	0.00164062	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_041546569	Aspergillus luchuensis	Aspergillus	KAJ7289093.1:10-317	15	142	0.31	0.00219844	0.41	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAE8395214	Aspergillus alliaceus	Aspergillus	KAJ7289093.1:10-317	2	128	0.3	0.00286764	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_020060641	Aspergillus aculeatus	Aspergillus	KAJ7289093.1:10-317	15	135	0.28	0.00309342	0.41	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAG2421238	Aspergillus terreus	Aspergillus	KAJ7289093.1:10-317	15	147	0.3	0.00353807	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAF4165494	Aspergillus lentulus	Aspergillus	KAJ7289093.1:10-317	7	147	0.31	0.00359192	0.45	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_033413989	Aspergillus lentulus	Aspergillus	KAJ7289093.1:10-317	7	147	0.31	0.00369042	0.45	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_001214137	Aspergillus terreus	Aspergillus	KAJ7289093.1:10-317	15	147	0.3	0.00379163	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GAQ45751	Aspergillus niger	Aspergillus	KAJ7289093.1:10-317	15	142	0.31	0.00521002	0.41	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025389297	Aspergillus eucalypticola	Aspergillus	KAJ7289093.1:10-317	15	142	0.31	0.00522472	0.41	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025564806	Aspergillus vadensis	Aspergillus	KAJ7289093.1:10-317	3	142	0.3	0.00527201	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GLA93286	Aspergillus tubingensis	Aspergillus	KAJ7289093.1:10-317	15	142	0.31	0.00561521	0.41	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_035352534	Aspergillus tubingensis	Aspergillus	KAJ7289093.1:10-317	15	142	0.31	0.00591761	0.41	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GLB07625	Aspergillus tubingensis	Aspergillus	KAJ7289093.1:10-317	15	142	0.31	0.0059807	0.41	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAF4155759	Aspergillus lentulus	Aspergillus	KAJ7289093.1:10-317	7	147	0.31	0.00599451	0.45	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025475547	Aspergillus neoniger	Aspergillus	KAJ7289093.1:10-317	15	142	0.31	0.00755867	0.41	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GKZ26490	Aspergillus brasiliensis	Aspergillus	KAJ7289093.1:10-317	15	142	0.31	0.00795853	0.41	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025539943	Aspergillus costaricaensis	Aspergillus	KAJ7289093.1:10-317	15	142	0.31	0.010082	0.41	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_033424688	Aspergillus tanneri	Aspergillus	KAJ7289093.1:10-317	13	135	0.26	0.0142879	0.41	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GFF59584	Aspergillus udagawae	Aspergillus	KAJ7289093.1:10-317	15	147	0.3	0.017171	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAE8395300	Aspergillus alliaceus	Aspergillus	KAJ7289093.1:10-317	10	124	0.32	0.0307536	0.37	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAF5855941	Aspergillus burnettii	Aspergillus	KAJ7289093.1:10-317	12	137	0.32	0.0308494	0.41	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_040705305	Aspergillus sydowii	Aspergillus	KAG8213830.1	166	321	0.26	0.00000360491	0.68	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025552697	Aspergillus homomorphus	Aspergillus	KAG8213830.1	171	326	0.26	0.00000591203	0.68	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_015411788	Aspergillus nomiae	Aspergillus	KAG8213830.1	168	316	0.24	0.035801	0.67	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_033418688	Aspergillus lentulus	Aspergillus	E0L32_006055_Thyridium_curvatum	0	312	0.42	8.87634E-82	0.89	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_024709037	Aspergillus steynii	Aspergillus	E0L32_006055_Thyridium_curvatum	15	313	0.41	4.81344E-77	0.88	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_024693597	Aspergillus campestris	Aspergillus	E0L32_006055_Thyridium_curvatum	2	331	0.39	1.36093E-74	0.97	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_043161124	Aspergillus pseudoviridinutans	Aspergillus	E0L32_006055_Thyridium_curvatum	2	330	0.39	2.01787E-72	0.96	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_024684849	Aspergillus novofumigatus	Aspergillus	E0L32_006055_Thyridium_curvatum	12	319	0.42	9.65431E-72	0.96	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025554968	Aspergillus homomorphus	Aspergillus	E0L32_006055_Thyridium_curvatum	10	341	0.38	2.50509E-71	0.94	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_033424688	Aspergillus tanneri	Aspergillus	E0L32_006055_Thyridium_curvatum	4	332	0.38	2.27213E-70	0.96	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GFG18440	Aspergillus lentulus	Aspergillus	E0L32_006055_Thyridium_curvatum	0	284	0.43	7.14209E-69	0.89	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_015411788	Aspergillus nomiae	Aspergillus	E0L32_006055_Thyridium_curvatum	5	321	0.37	4.11516E-68	0.93	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_040800910	Aspergillus fijiensis	Aspergillus	E0L32_006055_Thyridium_curvatum	11	343	0.39	2.48735E-65	0.91	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025446926	Aspergillus brunneoviolaceus	Aspergillus	E0L32_006055_Thyridium_curvatum	11	352	0.37	2.75874E-61	0.94	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025499063	Aspergillus aculeatinus	Aspergillus	E0L32_006055_Thyridium_curvatum	11	340	0.38	1.50026E-60	0.91	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025493761	Aspergillus uvarum	Aspergillus	E0L32_006055_Thyridium_curvatum	11	348	0.36	9.16821E-60	0.93	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	PYI25847	Aspergillus indologenus	Aspergillus	E0L32_006055_Thyridium_curvatum	5	339	0.37	3.4377E-59	0.93	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_020060641	Aspergillus aculeatus	Aspergillus	E0L32_006055_Thyridium_curvatum	11	344	0.38	7.24815E-59	0.91	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	PYI23180	Aspergillus violaceofuscus	Aspergillus	E0L32_006055_Thyridium_curvatum	11	343	0.37	1.63489E-58	0.93	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025523104	Aspergillus japonicus	Aspergillus	E0L32_006055_Thyridium_curvatum	11	343	0.37	5.88632E-58	0.93	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAG2003959	Aspergillus fischeri	Aspergillus	E0L32_006055_Thyridium_curvatum	14	335	0.27	9.79006E-17	0.92	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_043145291	Aspergillus udagawae	Aspergillus	E0L32_006055_Thyridium_curvatum	14	320	0.28	1.19986E-16	0.92	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GFF59584	Aspergillus udagawae	Aspergillus	E0L32_006055_Thyridium_curvatum	14	320	0.28	2.03497E-16	0.92	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_001259066	Aspergillus fischeri	Aspergillus	E0L32_006055_Thyridium_curvatum	14	320	0.29	3.83954E-16	0.92	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAF7158723	Aspergillus felis	Aspergillus	E0L32_006055_Thyridium_curvatum	14	335	0.26	3.87027E-15	0.92	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GFF28661	Aspergillus udagawae	Aspergillus	E0L32_006055_Thyridium_curvatum	14	335	0.26	6.20833E-15	0.92	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAF4165494	Aspergillus lentulus	Aspergillus	E0L32_006055_Thyridium_curvatum	14	326	0.28	1.34101E-14	0.89	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_033413989	Aspergillus lentulus	Aspergillus	E0L32_006055_Thyridium_curvatum	14	326	0.28	1.36705E-14	0.89	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025539943	Aspergillus costaricaensis	Aspergillus	E0L32_006055_Thyridium_curvatum	8	337	0.27	3.43462E-14	0.94	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAF4155759	Aspergillus lentulus	Aspergillus	E0L32_006055_Thyridium_curvatum	14	326	0.28	4.58867E-14	0.89	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025475547	Aspergillus neoniger	Aspergillus	E0L32_006055_Thyridium_curvatum	8	337	0.27	5.38683E-14	0.94	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025564806	Aspergillus vadensis	Aspergillus	E0L32_006055_Thyridium_curvatum	29	327	0.29	1.63145E-13	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GKZ26490	Aspergillus brasiliensis	Aspergillus	E0L32_006055_Thyridium_curvatum	29	327	0.27	2.81084E-13	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAB8078630	Aspergillus leporis	Aspergillus	E0L32_006055_Thyridium_curvatum	14	333	0.25	4.69381E-13	0.91	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025389297	Aspergillus eucalypticola	Aspergillus	E0L32_006055_Thyridium_curvatum	29	327	0.28	7.54684E-13	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAE8395211	Aspergillus alliaceus	Aspergillus	E0L32_006055_Thyridium_curvatum	14	326	0.26	1.0127E-12	0.89	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_031903760	Aspergillus alliaceus	Aspergillus	E0L32_006055_Thyridium_curvatum	14	326	0.26	1.18978E-12	0.89	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAF5862430	Aspergillus burnettii	Aspergillus	E0L32_006055_Thyridium_curvatum	14	326	0.26	1.61105E-12	0.89	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAF7597010	Aspergillus hancockii	Aspergillus	E0L32_006055_Thyridium_curvatum	33	145	0.37	4.36322E-12	0.36	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GKZ37275	Aspergillus brasiliensis	Aspergillus	E0L32_006055_Thyridium_curvatum	12	258	0.28	5.67211E-12	0.71	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GLA93286	Aspergillus tubingensis	Aspergillus	E0L32_006055_Thyridium_curvatum	29	327	0.27	7.58242E-12	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GLB07625	Aspergillus tubingensis	Aspergillus	E0L32_006055_Thyridium_curvatum	29	327	0.27	8.41028E-12	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_035352534	Aspergillus tubingensis	Aspergillus	E0L32_006055_Thyridium_curvatum	29	327	0.27	9.09764E-12	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GKZ79562	Aspergillus niger	Aspergillus	E0L32_006055_Thyridium_curvatum	29	327	0.27	1.06423E-11	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_041546569	Aspergillus luchuensis	Aspergillus	E0L32_006055_Thyridium_curvatum	14	327	0.27	1.37199E-11	0.89	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GAQ45751	Aspergillus niger	Aspergillus	E0L32_006055_Thyridium_curvatum	29	316	0.27	2.04898E-11	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GKZ73349	Aspergillus niger	Aspergillus	E0L32_006055_Thyridium_curvatum	14	327	0.26	4.23235E-11	0.89	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025517007	Aspergillus piperis	Aspergillus	E0L32_006055_Thyridium_curvatum	29	327	0.28	4.87096E-11	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GLA18842	Aspergillus niger	Aspergillus	E0L32_006055_Thyridium_curvatum	29	327	0.27	7.08333E-11	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GKZ59947	Aspergillus niger	Aspergillus	E0L32_006055_Thyridium_curvatum	29	327	0.27	9.37735E-11	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	RDK45639	Aspergillus phoenicis	Aspergillus	E0L32_006055_Thyridium_curvatum	29	327	0.26	1.31266E-10	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GLA02511	Aspergillus niger	Aspergillus	E0L32_006055_Thyridium_curvatum	29	327	0.26	1.53843E-10	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAI2824183	Aspergillus niger	Aspergillus	E0L32_006055_Thyridium_curvatum	14	327	0.25	1.73685E-10	0.89	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GCB21645	Aspergillus awamori	Aspergillus	E0L32_006055_Thyridium_curvatum	29	320	0.27	1.80231E-10	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GKZ97415	Aspergillus niger	Aspergillus	E0L32_006055_Thyridium_curvatum	29	327	0.26	1.96078E-10	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_001395763	Aspergillus niger	Aspergillus	E0L32_006055_Thyridium_curvatum	29	327	0.26	2.05437E-10	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAI2926496	Aspergillus niger	Aspergillus	E0L32_006055_Thyridium_curvatum	29	327	0.27	2.40719E-10	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAI3007378	Aspergillus niger	Aspergillus	E0L32_006055_Thyridium_curvatum	29	327	0.26	3.62665E-10	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_026623338	Aspergillus welwitschiae	Aspergillus	E0L32_006055_Thyridium_curvatum	14	343	0.25	3.98221E-10	0.89	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_040705305	Aspergillus sydowii	Aspergillus	E0L32_006055_Thyridium_curvatum	5	230	0.25	4.84001E-10	0.65	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	OJJ70095	Aspergillus brasiliensis	Aspergillus	E0L32_006055_Thyridium_curvatum	29	344	0.24	5.06674E-10	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GLA42716	Aspergillus niger	Aspergillus	E0L32_006055_Thyridium_curvatum	29	327	0.26	5.5636E-10	0.84	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025396382	Aspergillus heteromorphus	Aspergillus	E0L32_006055_Thyridium_curvatum	11	236	0.27	9.74705E-10	0.65	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GLA23754	Aspergillus niger	Aspergillus	E0L32_006055_Thyridium_curvatum	13	327	0.26	0.00000000123645	0.89	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_040666598	Aspergillus versicolor	Aspergillus	E0L32_006055_Thyridium_curvatum	10	321	0.22	0.00000000303243	0.89	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAI2861188	Aspergillus niger	Aspergillus	E0L32_006055_Thyridium_curvatum	14	327	0.25	0.00000000528725	0.89	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAI2987951	Aspergillus niger	Aspergillus	E0L32_006055_Thyridium_curvatum	14	327	0.25	0.00000000543579	0.89	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025449050	Aspergillus niger	Aspergillus	E0L32_006055_Thyridium_curvatum	14	343	0.24	0.0000000258638	0.89	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_033426202	Aspergillus tanneri	Aspergillus	E0L32_006055_Thyridium_curvatum	11	236	0.25	0.000000985915	0.65	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAB8067044	Aspergillus leporis	Aspergillus	E0L32_006055_Thyridium_curvatum	0	278	0.24	0.00000126029	0.85	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAF9883233	Aspergillus nanangensis	Aspergillus	E0L32_006055_Thyridium_curvatum	28	301	0.25	0.00145573	0.88	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAF7596923	Aspergillus hancockii	Aspergillus	E0L32_006055_Thyridium_curvatum	14	120	0.32	0.00388493	0.37	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_033418688	Aspergillus lentulus	Aspergillus	KAF8548865.1	2	318	0.43	1.34972E-83	0.9	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_015411788	Aspergillus nomiae	Aspergillus	KAF8548865.1	5	322	0.41	2.73836E-83	0.91	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_024709037	Aspergillus steynii	Aspergillus	KAF8548865.1	0	318	0.42	1.71604E-79	0.9	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_024693597	Aspergillus campestris	Aspergillus	KAF8548865.1	3	330	0.41	6.29706E-78	0.94	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_033424688	Aspergillus tanneri	Aspergillus	KAF8548865.1	3	350	0.38	1.55128E-76	0.98	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_043161124	Aspergillus pseudoviridinutans	Aspergillus	KAF8548865.1	5	338	0.38	1.56683E-76	0.96	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	GFG18440	Aspergillus lentulus	Aspergillus	KAF8548865.1	2	290	0.45	3.34105E-76	0.9	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025554968	Aspergillus homomorphus	Aspergillus	KAF8548865.1	2	346	0.37	1.81844E-74	0.97	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_024684849	Aspergillus novofumigatus	Aspergillus	KAF8548865.1	3	301	0.42	1.78398E-71	0.9	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	PYI25847	Aspergillus indologenus	Aspergillus	KAF8548865.1	2	340	0.35	9.98978E-61	0.92	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_040800910	Aspergillus fijiensis	Aspergillus	KAF8548865.1	2	344	0.35	1.06204E-59	0.92	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025446926	Aspergillus brunneoviolaceus	Aspergillus	KAF8548865.1	2	347	0.34	4.85932E-57	0.93	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025493761	Aspergillus uvarum	Aspergillus	KAF8548865.1	166	348	0.36	1.10775E-34	0.61	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025493761	Aspergillus uvarum	Aspergillus	KAF8548865.1	2	108	0.5	1.6797E-24	0.35	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025523104	Aspergillus japonicus	Aspergillus	KAF8548865.1	160	346	0.35	2.63929E-32	0.62	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025523104	Aspergillus japonicus	Aspergillus	KAF8548865.1	6	108	0.51	1.13472E-23	0.34	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	PYI23180	Aspergillus violaceofuscus	Aspergillus	KAF8548865.1	160	346	0.35	3.11373E-32	0.62	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	PYI23180	Aspergillus violaceofuscus	Aspergillus	KAF8548865.1	6	108	0.51	1.16943E-23	0.34	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025499063	Aspergillus aculeatinus	Aspergillus	KAF8548865.1	135	341	0.33	4.24092E-30	0.68	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_025499063	Aspergillus aculeatinus	Aspergillus	KAF8548865.1	2	112	0.51	8.116E-25	0.37	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_020060641	Aspergillus aculeatus	Aspergillus	KAF8548865.1	168	345	0.36	9.85365E-30	0.6	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_020060641	Aspergillus aculeatus	Aspergillus	KAF8548865.1	0	112	0.54	1.61562E-25	0.37	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAF7597010	Aspergillus hancockii	Aspergillus	KAF8548865.1	3	146	0.38	1.07968E-15	0.51	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAH8710545	Beauveria bassiana	Beauveria	KAJ7289093.1:10-317	8	169	0.34	0.0000000319237	0.58	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	KAH8710545	Beauveria bassiana	Beauveria	KAJ7289093.1:10-317	196	346	0.26	0.00648966	0.45	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	OAA41870	Beauveria brongniartii	Beauveria	KAJ7289093.1:10-317	5	140	0.33	0.0000000688741	0.44	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	OAA41870	Beauveria brongniartii	Beauveria	KAJ7289093.1:10-317	167	317	0.26	0.000831536	0.45	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	XP_008599793	Beauveria bassiana	Beauveria	KAJ7289093.1:10-317	5	140	0.33	0.000000100441	0.44	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	XP_008599793	Beauveria bassiana	Beauveria	KAJ7289093.1:10-317	167	317	0.26	0.00499138	0.45	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	KGQ05596	Beauveria bassiana	Beauveria	KAJ7289093.1:10-317	5	140	0.33	0.00000010712	0.44	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	KGQ05596	Beauveria bassiana	Beauveria	KAJ7289093.1:10-317	167	317	0.25	0.0110059	0.45	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	PMB68916	Beauveria bassiana	Beauveria	KAJ7289093.1:10-317	5	140	0.33	0.000000110116	0.44	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	PMB68916	Beauveria bassiana	Beauveria	KAJ7289093.1:10-317	167	317	0.25	0.0103354	0.45	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	CAG9983726	Clonostachys byssicola	Clonostachys	KAJ7289093.1:10-317	21	127	0.28	0.0111041	0.36	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	CAH0045577	Clonostachys solani	Clonostachys	KAJ7289093.1:10-317	21	127	0.27	0.0275999	0.36	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	VUC23047	Clonostachys rosea	Clonostachys	KAJ7289093.1:10-317	21	127	0.28	0.0303317	0.36	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	CAG9957127	Clonostachys rosea	Clonostachys	KAJ7289093.1:10-317	21	127	0.27	0.0387379	0.36	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	CAH0045577	Clonostachys solani	Clonostachys	E0L32_006055_Thyridium_curvatum	6	333	0.58	7.40633E-132	0.96	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	CAG9957127	Clonostachys rosea	Clonostachys	E0L32_006055_Thyridium_curvatum	6	333	0.57	3.12636E-131	0.96	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	CAI6088271	Clonostachys chloroleuca	Clonostachys	E0L32_006055_Thyridium_curvatum	6	336	0.56	1.61431E-130	0.97	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	VUC23047	Clonostachys rosea	Clonostachys	E0L32_006055_Thyridium_curvatum	6	333	0.57	2.64317E-130	0.96	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	CAG9983726	Clonostachys byssicola	Clonostachys	E0L32_006055_Thyridium_curvatum	6	333	0.57	2.80848E-130	0.96	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	CAG9983726	Clonostachys byssicola	Clonostachys	KAF8548865.1	3	336	0.38	6.3985E-68	0.96	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	CAH0045577	Clonostachys solani	Clonostachys	KAF8548865.1	3	335	0.38	2.18575E-67	0.96	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	VUC23047	Clonostachys rosea	Clonostachys	KAF8548865.1	3	338	0.36	1.86233E-66	0.97	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	CAG9957127	Clonostachys rosea	Clonostachys	KAF8548865.1	11	335	0.38	2.30535E-65	0.93	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	CAI6088271	Clonostachys chloroleuca	Clonostachys	KAF8548865.1	3	333	0.38	2.77894E-65	0.95	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	RDW66589	Coleophoma cylindrospora	Coleophoma	E0L32_006055_Thyridium_curvatum	5	332	0.5	5.29427E-119	0.96	no		Cus1	Ascomycota	Leotiomycetes	Helotiales
+CUS	RDW86037	Coleophoma crateriformis	Coleophoma	E0L32_006055_Thyridium_curvatum	5	332	0.5	7.34401E-119	0.96	no		Cus1	Ascomycota	Leotiomycetes	Helotiales
+CUS	RDW86037	Coleophoma crateriformis	Coleophoma	KAF8548865.1	2	336	0.32	1.81099E-48	0.96	no		Cus1	Ascomycota	Leotiomycetes	Helotiales
+CUS	RDW66589	Coleophoma cylindrospora	Coleophoma	KAF8548865.1	2	336	0.32	2.95941E-48	0.96	no		Cus1	Ascomycota	Leotiomycetes	Helotiales
+CUS	TQV92189	Cordyceps javanica	Cordyceps	KAJ7289093.1:10-317	5	140	0.31	0.000000617211	0.44	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	TQV92189	Cordyceps javanica	Cordyceps	KAJ7289093.1:10-317	167	317	0.28	0.0238744	0.45	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	XP_018704731	Cordyceps fumosorosea	Cordyceps	E0L32_006055_Thyridium_curvatum	4	323	0.4	2.10193E-72	0.94	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	TQW04574	Cordyceps javanica	Cordyceps	E0L32_006055_Thyridium_curvatum	2	101	0.4	2.05485E-17	0.29	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	TQV92189	Cordyceps javanica	Cordyceps	E0L32_006055_Thyridium_curvatum	6	231	0.24	0.000000868114	0.65	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	XP_018704731	Cordyceps fumosorosea	Cordyceps	KAF8548865.1	5	329	0.42	4.24208E-80	0.93	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	TQW04574	Cordyceps javanica	Cordyceps	KAF8548865.1	0	108	0.36	5.11717E-19	0.36	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	KAI0695712	Cytidiella melzeri	Cytidiella	KAJ7289093.1:10-317	1	296	0.46	3.20774E-61	0.97	no		Cus3	Basidiomycota	Agaricomycetes	Polyporales
+CUS	KAI0686717	Cytidiella melzeri	Cytidiella	KAJ7289093.1:10-317	136	213	0.61	5.22681E-25	0.25	no		Cus3	Basidiomycota	Agaricomycetes	Polyporales
+CUS	KAI0686717	Cytidiella melzeri	Cytidiella	KAJ7289093.1:10-317	1	141	0.46	1.67029E-15	0.52	no		Cus3	Basidiomycota	Agaricomycetes	Polyporales
+CUS	KAI0695712	Cytidiella melzeri	Cytidiella	KAG8213830.1	1	171	0.54	1.13632E-42	0.88	no		Cus3	Basidiomycota	Agaricomycetes	Polyporales
+CUS	KAI0686717	Cytidiella melzeri	Cytidiella	KAG8213830.1	1	141	0.51	1.89628E-27	0.74	no		Cus3	Basidiomycota	Agaricomycetes	Polyporales
+CUS	EMR72593	Eutypa lata	Eutypa	E0L32_006055_Thyridium_curvatum	3	350	0.54	8.88724E-128	0.96	no		Cus1	Ascomycota	Sordariomycetes	Xylariales
+CUS	KAI1250319	Eutypa lata	Eutypa	E0L32_006055_Thyridium_curvatum	3	360	0.53	3.51827E-126	0.96	no		Cus1	Ascomycota	Sordariomycetes	Xylariales
+CUS	EMR72593	Eutypa lata	Eutypa	KAF8548865.1	11	352	0.36	1.18458E-55	0.92	no		Cus1	Ascomycota	Sordariomycetes	Xylariales
+CUS	KAI1250319	Eutypa lata	Eutypa	KAF8548865.1	189	363	0.41	4.38171E-32	0.58	no		Cus1	Ascomycota	Sordariomycetes	Xylariales
+CUS	KAI1250319	Eutypa lata	Eutypa	KAF8548865.1	11	118	0.48	6.21931E-20	0.34	no		Cus1	Ascomycota	Sordariomycetes	Xylariales
+CUS	RTE84231	Fusarium euwallaceae	Fusarium	E0L32_006055_Thyridium_curvatum	2	335	0.63	7.37614E-151	0.97	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	RSL50743	Fusarium sp.	Fusarium	E0L32_006055_Thyridium_curvatum	2	335	0.63	8.13916E-151	0.97	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	RSM16668	Fusarium ambrosium	Fusarium	E0L32_006055_Thyridium_curvatum	2	335	0.63	9.48594E-151	0.97	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	RSL79710	Fusarium floridanum	Fusarium	E0L32_006055_Thyridium_curvatum	2	335	0.63	1.99562E-150	0.97	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	KAF4468282	Fusarium albosuccineum	Fusarium	E0L32_006055_Thyridium_curvatum	5	335	0.64	2.91175E-149	0.96	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	KAJ3536212	Fusarium decemcellulare	Fusarium	E0L32_006055_Thyridium_curvatum	5	335	0.62	4.52706E-149	0.96	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	RMJ18400	Fusarium kuroshium	Fusarium	E0L32_006055_Thyridium_curvatum	2	335	0.63	9.17219E-149	0.97	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	RSL48876	Fusarium duplospermum	Fusarium	E0L32_006055_Thyridium_curvatum	1	319	0.62	3.27391E-140	0.92	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	KAF5011016	Fusarium decemcellulare	Fusarium	E0L32_006055_Thyridium_curvatum	0	316	0.61	4.56451E-139	0.92	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	RSL50743	Fusarium sp.	Fusarium	KAF8548865.1	11	338	0.37	2.32908E-64	0.93	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	RMJ18400	Fusarium kuroshium	Fusarium	KAF8548865.1	11	338	0.37	6.92474E-64	0.93	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	RSL79710	Fusarium floridanum	Fusarium	KAF8548865.1	11	338	0.36	3.45403E-63	0.93	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	RTE84231	Fusarium euwallaceae	Fusarium	KAF8548865.1	11	338	0.36	3.5676E-63	0.93	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	RSM16668	Fusarium ambrosium	Fusarium	KAF8548865.1	11	338	0.36	3.93119E-63	0.93	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	KAF4468282	Fusarium albosuccineum	Fusarium	KAF8548865.1	11	338	0.37	6.32158E-63	0.93	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	KAJ3536212	Fusarium decemcellulare	Fusarium	KAF8548865.1	11	338	0.37	1.13361E-62	0.93	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	KAF5011016	Fusarium decemcellulare	Fusarium	KAF8548865.1	7	319	0.38	9.67282E-60	0.88	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	RSL48876	Fusarium duplospermum	Fusarium	KAF8548865.1	11	319	0.35	7.55692E-54	0.87	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	MCJ1302215	Hypocenomyce scalaris	Hypocenomyce	E0L32_006055_Thyridium_curvatum	27	202	0.33	3.66511E-21	0.52	no		Cus1	Ascomycota	Lecanoromycetes	Umbilicariales
+CUS	MCJ1302215	Hypocenomyce scalaris	Hypocenomyce	KAF8548865.1	15	126	0.3	0.000273997	0.38	no		Cus1	Ascomycota	Lecanoromycetes	Umbilicariales
+CUS	KAI0381307	Hypomontagnella monticulosa	Hypomontagnella	KAJ7289093.1:10-317	21	135	0.3	0.000233408	0.39	no		Cus1	Ascomycota	Sordariomycetes	Xylariales
+CUS	KAI0381307	Hypomontagnella monticulosa	Hypomontagnella	E0L32_006055_Thyridium_curvatum	5	329	0.66	5.23026E-154	0.95	no		Cus1	Ascomycota	Sordariomycetes	Xylariales
+CUS	KAI0381307	Hypomontagnella monticulosa	Hypomontagnella	KAF8548865.1	11	334	0.37	3.05513E-60	0.93	no		Cus1	Ascomycota	Sordariomycetes	Xylariales
+CUS	KAI1776951	Hypoxylon cercidicola	Hypoxylon	E0L32_006055_Thyridium_curvatum	5	330	0.64	5.58193E-155	0.95	no		Cus1	Ascomycota	Sordariomycetes	Xylariales
+CUS	KAI6091429	Hypoxylon rubiginosum	Hypoxylon	E0L32_006055_Thyridium_curvatum	5	329	0.6	3.93749E-146	0.95	no		Cus1	Ascomycota	Sordariomycetes	Xylariales
+CUS	KAI1776951	Hypoxylon cercidicola	Hypoxylon	KAF8548865.1	2	334	0.35	2.89287E-61	0.96	no		Cus1	Ascomycota	Sordariomycetes	Xylariales
+CUS	KAI6091429	Hypoxylon rubiginosum	Hypoxylon	KAF8548865.1	11	332	0.34	2.18196E-59	0.92	no		Cus1	Ascomycota	Sordariomycetes	Xylariales
+CUS	XP_040678521	Metarhizium album	Metarhizium	KAG8213830.1	162	316	0.24	0.0165591	0.71	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	XP_040678521	Metarhizium album	Metarhizium	E0L32_006055_Thyridium_curvatum	7	326	0.39	7.64116E-72	0.94	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	XP_040678521	Metarhizium album	Metarhizium	KAF8548865.1	12	333	0.41	5.75848E-84	0.92	no		Cus1	Ascomycota	Sordariomycetes	Hypocreales
+CUS	PHH66791	Ophiocordyceps australis	Ophiocordyceps	KAJ7289093.1:10-317	11	142	0.31	0.000000428652	0.42	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	PHH83508	Ophiocordyceps australis	Ophiocordyceps	KAJ7289093.1:10-317	13	142	0.29	0.0000130903	0.42	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	XP_056495672	Penicillium citrinum	Penicillium	KAJ7289093.1:10-317	13	145	0.31	0.00000132635	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAJ5595761	Penicillium hetheringtonii	Penicillium	KAJ7289093.1:10-317	13	145	0.31	0.0000019856	0.43	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_058318692	Penicillium antarcticum	Penicillium	KAJ7289093.1:10-317	13	141	0.3	0.000223062	0.42	no		Cus2	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	KAJ9148966	Pleurostoma richardsiae	Pleurostoma	E0L32_006055_Thyridium_curvatum	3	330	0.66	3.52552E-154	0.96	no		Cus1	Ascomycota	Sordariomycetes	Calosphaeriales
+CUS	KAJ9148966	Pleurostoma richardsiae	Pleurostoma	KAF8548865.1	11	333	0.35	1.02092E-56	0.93	no		Cus1	Ascomycota	Sordariomycetes	Calosphaeriales
+CUS	KAG0017123	Podila clonocystis	Podila	E0L32_006055_Thyridium_curvatum	23	345	0.35	1.63114E-54	0.93	no		Cus1	Mucoromycota	Mortierellomycetes	Mortierellales
+CUS	KAG0017123	Podila clonocystis	Podila	KAF8548865.1	14	349	0.39	1.13293E-72	0.95	no		Cus1	Mucoromycota	Mortierellomycetes	Mortierellales
+CUS	KFX95065	Pseudogymnoascus sp.	Pseudogymnoascus	KAJ7289093.1:10-317	10	137	0.32	0.00000466036	0.41	no		Cus2	Ascomycota	Leotiomycetes	
+CUS	KFX90089	Pseudogymnoascus sp.	Pseudogymnoascus	E0L32_006055_Thyridium_curvatum	8	304	0.24	0.000000995876	0.89	no		Cus2	Ascomycota	Leotiomycetes	
+CUS	XP_047843014	Purpureocillium takamizusanense	Purpureocillium	KAJ7289093.1:10-317	11	146	0.33	0.0000000235566	0.44	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	XP_047843014	Purpureocillium takamizusanense	Purpureocillium	KAJ7289093.1:10-317	200	323	0.28	0.0231138	0.37	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	XP_047837326	Purpureocillium takamizusanense	Purpureocillium	KAJ7289093.1:10-317	3	144	0.28	0.00000994681	0.45	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	XP_047837326	Purpureocillium takamizusanense	Purpureocillium	KAJ7289093.1:10-317	175	325	0.27	0.00213971	0.45	no		Cus2	Ascomycota	Sordariomycetes	Hypocreales
+CUS	KAF2093315	Rhizodiscina lignyota	Rhizodiscina	KAJ7289093.1:10-317	7	142	0.3	0.000000754469	0.44	no		Cus2	Ascomycota	Dothideomycetes	Aulographales
+CUS	XP_046065161	Talaromyces proteolyticus	Talaromyces	E0L32_006055_Thyridium_curvatum	12	336	0.39	5.48946E-78	0.96	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_046065161	Talaromyces proteolyticus	Talaromyces	KAF8548865.1	0	320	0.42	2.69946E-81	0.91	no		Cus1	Ascomycota	Eurotiomycetes	Eurotiales
+CUS	XP_030995295	Thyridium curvatum	Thyridium	KAJ7289093.1:10-317	17	130	0.3	0.0129158	0.38	no		Cus1	Ascomycota	Sordariomycetes	
+CUS	XP_030995295	Thyridium curvatum	Thyridium	E0L32_006055_Thyridium_curvatum	0	339	1.0	0.0	1.0	no		Cus1	Ascomycota	Sordariomycetes	
+CUS	XP_030995295	Thyridium curvatum	Thyridium	KAF8548865.1	14	331	0.34	8.57307E-58	0.91	no		Cus1	Ascomycota	Sordariomycetes	
+SUS	XM_007842446	Pestalotiopsis fici	Pestalotiopsis	SUS_Tylopilus_JBBPXA010000488:7395-8376	33	993	0.29	4.05559E-15	0.99	no		SUS	Ascomycota	Sordariomycetes	Xylariales
+ORF358	KAF2005557	Amniculicola lignicola	Amniculicola	AGUE01000019.1:62057-63245	126	231	0.37	4.16297E-17	0.27	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAF2005557	Amniculicola lignicola	Amniculicola	AGUE01000019.1:62057-63245	0	134	0.36	2.71156E-15	0.37	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	XP_024719804	Amorphotheca resinae	Amorphotheca	AGUE01000019.1:62057-63245	78	233	0.54	1.01628E-43	0.41	no		ORF358	Ascomycota	Leotiomycetes	Helotiales
+ORF358	XP_024719804	Amorphotheca resinae	Amorphotheca	AGUE01000019.1:62057-63245	239	373	0.48	1.16759E-33	0.35	no		ORF358	Ascomycota	Leotiomycetes	Helotiales
+ORF358	XP_024719804	Amorphotheca resinae	Amorphotheca	CEMI01507432.1:62-1306	54	371	0.32	7.9709E-22	0.88	no		ORF358	Ascomycota	Leotiomycetes	Helotiales
+ORF358	XP_024719804	Amorphotheca resinae	Amorphotheca	JASWIE010000005.1:234268-235548	52	242	0.28	5.20437E-12	0.47	no		ORF358	Ascomycota	Leotiomycetes	Helotiales
+ORF358	CEH15202	Ceraceosorus bombacis	Ceraceosorus	CEMI01507432.1:62-1306	36	410	0.28	3.5017E-28	0.81	no		ORF358	Basidiomycota	Exobasidiomycetes	Ceraceosorales
+ORF358	CEH15202	Ceraceosorus bombacis	Ceraceosorus	JASWIE010000005.1:234268-235548	36	387	0.28	3.91611E-15	0.83	no		ORF358	Basidiomycota	Exobasidiomycetes	Ceraceosorales
+ORF358	XP_025368026	Ceraceosorus guamensis	Ceraceosorus	JASWIE010000005.1:234268-235548	36	360	0.28	0.00000134546	0.81	no		ORF358	Basidiomycota	Exobasidiomycetes	Ceraceosorales
+ORF358	CEH15202	Ceraceosorus bombacis	Ceraceosorus	JBBPKX010000014.1:19072-20196	12	410	0.25	5.04205E-14	0.98	no		ORF358	Basidiomycota	Exobasidiomycetes	Ceraceosorales
+ORF358	PSN70700	Corynespora cassiicola	Corynespora	AGUE01000019.1:62057-63245	116	213	0.39	8.77737E-14	0.26	yes	Too short		Ascomycota	Dothideomycetes	Pleosporales
+ORF358	PSN70700	Corynespora cassiicola	Corynespora	AGUE01000019.1:62057-63245	0	111	0.32	0.000507758	0.34	yes	Too short		Ascomycota	Dothideomycetes	Pleosporales
+ORF358	PSN72791	Corynespora cassiicola	Corynespora	AGUE01000019.1:62057-63245	458	529	0.41	0.000273184	0.18	yes	Too short		Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAK1957256	Colletotrichum sublineola	Colletotrichum	AGUE01000019.1:62057-63245	215	338	0.46	1.19905E-26	0.32	no		ORF358	Ascomycota	Sordariomycetes	Glomerellales
+ORF358	KAK1957256	Colletotrichum sublineola	Colletotrichum	AGUE01000019.1:62057-63245	58	208	0.33	3.81781E-11	0.39	no		ORF358	Ascomycota	Sordariomycetes	Glomerellales
+ORF358	KAK2036135	Colletotrichum somersetense	Colletotrichum	AGUE01000019.1:62057-63245	215	338	0.46	9.08933E-26	0.32	no		ORF358	Ascomycota	Sordariomycetes	Glomerellales
+ORF358	KAK2036135	Colletotrichum somersetense	Colletotrichum	AGUE01000019.1:62057-63245	58	208	0.33	4.70656E-12	0.39	no		ORF358	Ascomycota	Sordariomycetes	Glomerellales
+ORF358	KAK1989884	Colletotrichum falcatum	Colletotrichum	AGUE01000019.1:62057-63245	199	322	0.45	1.72071E-25	0.32	no		ORF358	Ascomycota	Sordariomycetes	Glomerellales
+ORF358	KAK1989884	Colletotrichum falcatum	Colletotrichum	AGUE01000019.1:62057-63245	58	200	0.31	6.63484E-10	0.36	no		ORF358	Ascomycota	Sordariomycetes	Glomerellales
+ORF358	XP_008100813	Colletotrichum graminicola	Colletotrichum	AGUE01000019.1:62057-63245	215	338	0.44	5.17511E-25	0.32	no		ORF358	Ascomycota	Sordariomycetes	Glomerellales
+ORF358	KAK1989884	Colletotrichum falcatum	Colletotrichum	JASWIE010000005.1:234268-235548	199	295	0.36	0.000867624	0.25	no		ORF358	Ascomycota	Sordariomycetes	Glomerellales
+ORF358	XP_008087608	Glarea lozoyensis	Glarea	AGUE01000019.1:62057-63245	80	456	1.0	0.0	1.0	no		ORF358	Ascomycota	Leotiomycetes	Helotiales
+ORF358	EHL02794	Glarea lozoyensis	Glarea	AGUE01000019.1:62057-63245	48	386	1.0	0.0	1.0	no		ORF358	Ascomycota	Leotiomycetes	Helotiales
+ORF358	XP_008087608	Glarea lozoyensis	Glarea	CEMI01507432.1:62-1306	59	432	0.28	1.36694E-25	0.83	no		ORF358	Ascomycota	Leotiomycetes	Helotiales
+ORF358	EHL02794	Glarea lozoyensis	Glarea	CEMI01507432.1:62-1306	87	362	0.29	1.70992E-17	0.66	no		ORF358	Ascomycota	Leotiomycetes	Helotiales
+ORF358	XP_008087608	Glarea lozoyensis	Glarea	JASWIE010000005.1:234268-235548	54	427	0.28	3.45585E-25	0.89	no		ORF358	Ascomycota	Leotiomycetes	Helotiales
+ORF358	EHL02794	Glarea lozoyensis	Glarea	JASWIE010000005.1:234268-235548	77	344	0.27	8.19394E-15	0.62	no		ORF358	Ascomycota	Leotiomycetes	Helotiales
+ORF358	XP_008087608	Glarea lozoyensis	Glarea	JBBPKX010000014.1:19072-20196	59	432	0.26	3.33369E-10	0.93	no		ORF358	Ascomycota	Leotiomycetes	Helotiales
+ORF358	KLU88299	Magnaporthiopsis poae	Magnaporthiopsis	AGUE01000019.1:62057-63245	183	275	0.51	4.52779E-21	0.24	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KLU88299	Magnaporthiopsis poae	Magnaporthiopsis	AGUE01000019.1:62057-63245	52	178	0.43	0.00000000514512	0.39	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KAJ7124363	Mycena epipterygia	Mycena	AGUE01000019.1:62057-63245	4	101	0.4	0.00000000234101	0.27	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAJ7124363	Mycena epipterygia	Mycena	CEMI01507432.1:62-1306	3	293	0.39	1.91323E-52	0.71	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAJ7192342	Mycena pura	Mycena	CEMI01507432.1:62-1306	342	640	0.41	1.91703E-41	0.86	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAK1222071	Marasmius sp.	Marasmius	CEMI01507432.1:62-1306	12	436	0.25	3.52119E-25	0.88	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAJ7124363	Mycena epipterygia	Mycena	JASWIE010000005.1:234268-235548	8	271	0.33	3.79786E-21	0.69	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAJ7192342	Mycena pura	Mycena	JASWIE010000005.1:234268-235548	539	639	0.43	3.83172E-14	0.25	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAK1222071	Marasmius sp.	Marasmius	JASWIE010000005.1:234268-235548	20	409	0.24	4.55321E-10	0.85	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAJ7124363	Mycena epipterygia	Mycena	JBBPKX010000014.1:19072-20196	0	294	0.33	7.15443E-41	0.82	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAJ7192342	Mycena pura	Mycena	JBBPKX010000014.1:19072-20196	539	640	0.46	1.23388E-15	0.28	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAJ7192342	Mycena pura	Mycena	JBBPKX010000014.1:19072-20196	359	511	0.31	9.03569E-10	0.4	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAJ4292800	Kalmusia sp.	Kalmusia	AGUE01000019.1:62057-63245	434	557	0.5	3.91854E-27	0.34	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAJ4292800	Kalmusia sp.	Kalmusia	AGUE01000019.1:62057-63245	282	414	0.36	6.02919E-14	0.35	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAF2691411	Lentithecium fluviatile	Lentithecium	AGUE01000019.1:62057-63245	269	385	0.44	7.19713E-21	0.3	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAK3202946	Pseudopithomyces chartarum	Pseudopithomyces	AGUE01000019.1:62057-63245	476	595	0.46	4.08056E-18	0.32	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAK3202946	Pseudopithomyces chartarum	Pseudopithomyces	AGUE01000019.1:62057-63245	333	466	0.38	4.0938E-16	0.36	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	XP_056076917	Didymosphaeria variabile	Didymosphaeria	AGUE01000019.1:62057-63245	473	596	0.45	5.93186E-18	0.33	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	XP_056076917	Didymosphaeria variabile	Didymosphaeria	AGUE01000019.1:62057-63245	311	445	0.34	0.0000000427027	0.34	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAF1968327	Bimuria novae-zelandiae	Bimuria	AGUE01000019.1:62057-63245	172	308	0.41	7.7133E-18	0.36	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	PVI02298	Periconia macrospinosa	Periconia	AGUE01000019.1:62057-63245	517	638	0.44	2.60979E-17	0.32	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	PVI02298	Periconia macrospinosa	Periconia	AGUE01000019.1:62057-63245	358	483	0.34	0.00000106438	0.32	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAJ4287791	Kalmusia sp.	Kalmusia	AGUE01000019.1:62057-63245	355	482	0.36	3.99039E-16	0.35	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAJ4287791	Kalmusia sp.	Kalmusia	AGUE01000019.1:62057-63245	490	578	0.43	0.00000020316	0.32	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	CAI6334220	Periconia digitata	Periconia	AGUE01000019.1:62057-63245	431	578	0.4	4.75801E-16	0.36	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	CAI6334220	Periconia digitata	Periconia	AGUE01000019.1:62057-63245	290	425	0.35	2.51503E-12	0.35	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAK3214072	Pseudopithomyces chartarum	Pseudopithomyces	AGUE01000019.1:62057-63245	130	269	0.39	1.78036E-15	0.36	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAK3214072	Pseudopithomyces chartarum	Pseudopithomyces	AGUE01000019.1:62057-63245	277	377	0.43	4.72673E-14	0.26	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	PVH92212	Periconia macrospinosa	Periconia	AGUE01000019.1:62057-63245	455	591	0.38	1.24651E-14	0.34	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	PVH92212	Periconia macrospinosa	Periconia	AGUE01000019.1:62057-63245	300	429	0.33	0.00000000706681	0.33	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAJ4293487	Kalmusia sp.	Kalmusia	AGUE01000019.1:62057-63245	685	809	0.38	3.77486E-13	0.33	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAJ4297667	Kalmusia sp.	Kalmusia	AGUE01000019.1:62057-63245	491	596	0.38	6.64847E-13	0.28	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAJ4286475	Kalmusia sp.	Kalmusia	AGUE01000019.1:62057-63245	420	534	0.39	2.26811E-12	0.3	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	XP_056071217	Didymosphaeria variabile	Didymosphaeria	AGUE01000019.1:62057-63245	19	121	0.39	1.80203E-11	0.27	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAJ4296727	Kalmusia sp.	Kalmusia	AGUE01000019.1:62057-63245	268	390	0.36	2.8056E-11	0.32	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAF2451746	Karstenula rhodostoma	Karstenula	AGUE01000019.1:62057-63245	120	222	0.39	6.48726E-10	0.27	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAF1973883	Bimuria novae-zelandiae	Bimuria	AGUE01000019.1:62057-63245	411	506	0.4	0.00000000274475	0.25	yes	Too short		Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAL1602451	Paraconiothyrium brasiliense	Paraconiothyrium	AGUE01000019.1:62057-63245	144	254	0.33	0.0000000095892	0.26	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAL1602451	Paraconiothyrium brasiliense	Paraconiothyrium	AGUE01000019.1:62057-63245	27	138	0.37	0.0000000354321	0.35	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAF1971029	Bimuria novae-zelandiae	Bimuria	AGUE01000019.1:62057-63245	165	253	0.34	0.00000020202	0.21	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAJ4299160	Kalmusia sp.	Kalmusia	AGUE01000019.1:62057-63245	304	389	0.34	0.000191271	0.22	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAF2445322	Karstenula rhodostoma	Karstenula	AGUE01000019.1:62057-63245	406	525	0.34	0.000228322	0.3	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAJ4289065	Kalmusia sp.	Kalmusia	AGUE01000019.1:62057-63245	357	474	0.3	0.00117412	0.3	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAL1602451	Paraconiothyrium brasiliense	Paraconiothyrium	CEMI01507432.1:62-1306	8	138	0.35	0.000000161231	0.35	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	XP_056076917	Didymosphaeria variabile	Didymosphaeria	CEMI01507432.1:62-1306	279	446	0.31	0.0000179728	0.37	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAJ4297667	Kalmusia sp.	Kalmusia	CEMI01507432.1:62-1306	317	482	0.3	0.000190513	0.43	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAJ4299160	Kalmusia sp.	Kalmusia	CEMI01507432.1:62-1306	153	302	0.3	0.00140567	0.39	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAK3202946	Pseudopithomyces chartarum	Pseudopithomyces	JASWIE010000005.1:234268-235548	305	465	0.28	0.0000311008	0.4	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAJ4287791	Kalmusia sp.	Kalmusia	JASWIE010000005.1:234268-235548	321	479	0.26	0.0017129	0.4	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAF2786046	Melanomma pulvis-pyrius	Melanomma	AGUE01000019.1:62057-63245	419	511	0.4	5.84788E-11	0.24	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAK4219772	Rhypophila decipiens	Rhypophila	AGUE01000019.1:62057-63245	47	386	0.3	3.88301E-26	0.92	no		ORF358	Ascomycota	Sordariomycetes	Sordariales
+ORF358	KAK4219772	Rhypophila decipiens	Rhypophila	CEMI01507432.1:62-1306	23	420	0.35	1.97478E-61	0.89	no		ORF358	Ascomycota	Sordariomycetes	Sordariales
+ORF358	KAK4219772	Rhypophila decipiens	Rhypophila	JASWIE010000005.1:234268-235548	0	406	1.0	0.0	1.0	no		ORF358	Ascomycota	Sordariomycetes	Sordariales
+ORF358	KAK4219772	Rhypophila decipiens	Rhypophila	JBBPKX010000014.1:19072-20196	29	421	0.31	5.41277E-49	0.99	no		ORF358	Ascomycota	Sordariomycetes	Sordariales
+ORF358	KAF2706245	Pleomassaria siparia	Pleomassaria	AGUE01000019.1:62057-63245	432	550	0.54	8.956E-32	0.33	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAF2706245	Pleomassaria siparia	Pleomassaria	AGUE01000019.1:62057-63245	282	412	0.33	6.1841E-10	0.35	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAF2714312	Pleomassaria siparia	Pleomassaria	AGUE01000019.1:62057-63245	306	426	0.45	1.51455E-22	0.33	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAF2714312	Pleomassaria siparia	Pleomassaria	AGUE01000019.1:62057-63245	177	305	0.41	1.58956E-18	0.35	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAF2712258	Pleomassaria siparia	Pleomassaria	AGUE01000019.1:62057-63245	444	564	0.39	6.94799E-15	0.32	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAF2715735	Pleomassaria siparia	Pleomassaria	AGUE01000019.1:62057-63245	72	128	0.45	0.000547698	0.14	yes	Too short		Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAJ4329645	Didymella glomerata	Didymella	AGUE01000019.1:62057-63245	267	392	0.49	1.37301E-29	0.34	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAJ4329645	Didymella glomerata	Didymella	AGUE01000019.1:62057-63245	109	252	0.34	4.65395E-14	0.38	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	XP_029744462	Pyricularia pennisetigena	Pyricularia	AGUE01000019.1:62057-63245	195	312	0.46	2.88519E-19	0.31	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KAI6381344	Pyricularia grisea	Pyricularia	AGUE01000019.1:62057-63245	192	318	0.47	5.92152E-17	0.32	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KAI6381344	Pyricularia grisea	Pyricularia	AGUE01000019.1:62057-63245	49	188	0.38	2.32586E-10	0.35	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	QBZ57619	Pyricularia oryzae	Pyricularia	AGUE01000019.1:62057-63245	190	309	0.42	5.04405E-14	0.31	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	QBZ57619	Pyricularia oryzae	Pyricularia	AGUE01000019.1:62057-63245	53	212	0.33	2.55731E-10	0.44	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	XP_029744311	Pyricularia pennisetigena	Pyricularia	AGUE01000019.1:62057-63245	190	309	0.42	5.28556E-14	0.31	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	XP_029744311	Pyricularia pennisetigena	Pyricularia	AGUE01000019.1:62057-63245	53	212	0.33	4.58816E-10	0.44	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	TLD09435	Pyricularia sp.	Pyricularia	AGUE01000019.1:62057-63245	41	181	0.36	5.33914E-14	0.35	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	TLD09435	Pyricularia sp.	Pyricularia	AGUE01000019.1:62057-63245	190	270	0.45	1.90991E-11	0.22	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KAI7909146	Pyricularia oryzae	Pyricularia	AGUE01000019.1:62057-63245	32	151	0.39	1.73895E-13	0.31	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KAI6478899	Pyricularia oryzae	Pyricularia	AGUE01000019.1:62057-63245	76	195	0.38	4.10958E-12	0.31	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KAI6407780	Pyricularia oryzae	Pyricularia	AGUE01000019.1:62057-63245	167	289	0.39	1.07992E-11	0.32	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KAI6459701	Pyricularia oryzae	Pyricularia	AGUE01000019.1:62057-63245	167	289	0.38	1.07992E-11	0.32	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KAI6540284	Pyricularia oryzae	Pyricularia	AGUE01000019.1:62057-63245	167	289	0.38	2.07606E-11	0.32	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KAI6287345	Pyricularia oryzae	Pyricularia	AGUE01000019.1:62057-63245	11	127	0.39	2.11123E-11	0.31	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	QBZ53553	Pyricularia oryzae	Pyricularia	AGUE01000019.1:62057-63245	192	311	0.38	3.0192E-11	0.31	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	QBZ53553	Pyricularia oryzae	Pyricularia	AGUE01000019.1:62057-63245	53	178	0.34	1.97004E-10	0.32	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KAI6522376	Pyricularia oryzae	Pyricularia	AGUE01000019.1:62057-63245	192	311	0.38	3.36413E-11	0.31	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KAI6522376	Pyricularia oryzae	Pyricularia	AGUE01000019.1:62057-63245	53	178	0.35	4.77325E-10	0.32	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KAI6254220	Pyricularia oryzae	Pyricularia	AGUE01000019.1:62057-63245	196	315	0.38	4.25693E-11	0.31	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KAI6254220	Pyricularia oryzae	Pyricularia	AGUE01000019.1:62057-63245	57	182	0.35	9.07513E-11	0.32	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KAI6342540	Pyricularia oryzae	Pyricularia	AGUE01000019.1:62057-63245	196	315	0.38	4.49961E-11	0.31	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KAI6342540	Pyricularia oryzae	Pyricularia	AGUE01000019.1:62057-63245	57	182	0.35	9.50335E-11	0.32	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	XP_030978281	Pyricularia grisea	Pyricularia	AGUE01000019.1:62057-63245	199	343	0.32	0.0000000169103	0.35	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	XP_030978281	Pyricularia grisea	Pyricularia	AGUE01000019.1:62057-63245	56	192	0.34	0.0000000272947	0.39	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KAI6590859	Pyricularia oryzae	Pyricularia	AGUE01000019.1:62057-63245	1	105	0.34	0.0000151206	0.26	no		ORF358	Ascomycota	Sordariomycetes	Magnaporthales
+ORF358	KAH7138191	Dendryphion nanum	Dendryphion	AGUE01000019.1:62057-63245	286	392	0.31	0.000000120373	0.28	no		ORF358	Ascomycota	Dothideomycetes	Pleosporales
+ORF358	KAF8887076	Infundibulicybe gibba	Infundibulicybe	AGUE01000019.1:62057-63245	77	393	0.3	8.33225E-30	0.91	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAG6916237	Tephrocybe rancida	Tephrocybe	AGUE01000019.1:62057-63245	45	361	0.33	3.14737E-28	0.91	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAF8887082	Infundibulicybe gibba	Infundibulicybe	AGUE01000019.1:62057-63245	0	311	0.3	3.10499E-25	0.9	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAF8886214	Infundibulicybe gibba	Infundibulicybe	AGUE01000019.1:62057-63245	0	294	0.29	3.1672E-16	0.9	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAG6818627	Arthromyces matolae	Arthromyces	AGUE01000019.1:62057-63245	43	275	0.31	8.01744E-16	0.7	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAG6834432	Arthromyces matolae	Arthromyces	AGUE01000019.1:62057-63245	43	234	0.3	4.20219E-13	0.51	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAF8887076	Infundibulicybe gibba	Infundibulicybe	CEMI01507432.1:62-1306	14	417	0.96	0.0	0.97	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAF8887082	Infundibulicybe gibba	Infundibulicybe	CEMI01507432.1:62-1306	0	335	0.94	0.0	0.81	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAF8886214	Infundibulicybe gibba	Infundibulicybe	CEMI01507432.1:62-1306	0	318	0.91	0.0	0.81	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAG6916237	Tephrocybe rancida	Tephrocybe	CEMI01507432.1:62-1306	8	382	0.41	1.13499E-94	0.91	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAG6818627	Arthromyces matolae	Arthromyces	CEMI01507432.1:62-1306	0	279	0.41	3.67832E-62	0.68	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAG6834432	Arthromyces matolae	Arthromyces	CEMI01507432.1:62-1306	0	248	0.4	6.55436E-52	0.6	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAF8887076	Infundibulicybe gibba	Infundibulicybe	JASWIE010000005.1:234268-235548	44	398	0.38	3.67188E-63	0.92	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAG6916237	Tephrocybe rancida	Tephrocybe	JASWIE010000005.1:234268-235548	12	343	0.36	4.38957E-62	0.86	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAF8887082	Infundibulicybe gibba	Infundibulicybe	JASWIE010000005.1:234268-235548	0	316	0.37	1.01692E-46	0.82	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAG6818627	Arthromyces matolae	Arthromyces	JASWIE010000005.1:234268-235548	10	279	0.38	7.92407E-46	0.7	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAG6834432	Arthromyces matolae	Arthromyces	JASWIE010000005.1:234268-235548	10	247	0.37	3.82408E-37	0.62	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAF8886214	Infundibulicybe gibba	Infundibulicybe	JASWIE010000005.1:234268-235548	0	299	0.34	4.48058E-33	0.82	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAF8887076	Infundibulicybe gibba	Infundibulicybe	JBBPKX010000014.1:19072-20196	50	417	0.44	1.36607E-106	1.0	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAF8887082	Infundibulicybe gibba	Infundibulicybe	JBBPKX010000014.1:19072-20196	0	335	0.44	1.18993E-89	0.91	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAG6916237	Tephrocybe rancida	Tephrocybe	JBBPKX010000014.1:19072-20196	17	378	0.37	3.87278E-71	0.99	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAF8886214	Infundibulicybe gibba	Infundibulicybe	JBBPKX010000014.1:19072-20196	0	316	0.4	1.92088E-68	0.91	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAG6818627	Arthromyces matolae	Arthromyces	JBBPKX010000014.1:19072-20196	15	279	0.36	1.88885E-49	0.71	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAG6834432	Arthromyces matolae	Arthromyces	JBBPKX010000014.1:19072-20196	15	246	0.35	6.39473E-38	0.62	no		ORF358	Basidiomycota	Agaricomycetes	Agaricales
+ORF358	KAI0153137	Xylariaceae sp.	Xylariaceae	CEMI01507432.1:62-1306	15	399	0.32	3.50477E-57	0.9	no		ORF358	Ascomycota	Sordariomycetes	Xylariales
+ORF358	KAI1325734	Xylariaceae sp.	Xylariaceae	CEMI01507432.1:62-1306	18	399	0.31	4.80399E-56	0.89	no		ORF358	Ascomycota	Sordariomycetes	Xylariales
+ORF358	KAI1258539	Xylariaceae sp.	Xylariaceae	CEMI01507432.1:62-1306	18	399	0.31	5.12131E-56	0.89	no		ORF358	Ascomycota	Sordariomycetes	Xylariales
+ORF358	KAI0153137	Xylariaceae sp.	Xylariaceae	JASWIE010000005.1:234268-235548	19	362	0.35	1.79168E-51	0.86	no		ORF358	Ascomycota	Sordariomycetes	Xylariales
+ORF358	KAI1325734	Xylariaceae sp.	Xylariaceae	JASWIE010000005.1:234268-235548	19	383	0.34	1.4663E-48	0.93	no		ORF358	Ascomycota	Sordariomycetes	Xylariales
+ORF358	KAI1258539	Xylariaceae sp.	Xylariaceae	JASWIE010000005.1:234268-235548	20	362	0.33	2.68666E-48	0.86	no		ORF358	Ascomycota	Sordariomycetes	Xylariales
+ORF358	KAI1258539	Xylariaceae sp.	Xylariaceae	JBBPKX010000014.1:19072-20196	26	400	0.31	1.05652E-41	0.99	no		ORF358	Ascomycota	Sordariomycetes	Xylariales
+ORF358	KAI0153137	Xylariaceae sp.	Xylariaceae	JBBPKX010000014.1:19072-20196	26	400	0.3	1.06374E-39	0.99	no		ORF358	Ascomycota	Sordariomycetes	Xylariales
+ORF358	KAI1325734	Xylariaceae sp.	Xylariaceae	JBBPKX010000014.1:19072-20196	26	400	0.28	2.31758E-36	0.99	no		ORF358	Ascomycota	Sordariomycetes	Xylariales
+ORF358	GAM83019	fungal sp.	fungal	AGUE01000019.1:62057-63245	63	425	0.52	4.48893E-120	0.97	no		ORF358			

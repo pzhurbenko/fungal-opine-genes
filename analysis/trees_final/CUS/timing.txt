@@ -1,0 +1,47 @@
+CUS mafft_linsi 40s
+CUS hmmalign 1s
+CUS clipkit_mafft 1s
+CUS fasttree_mafft 22s
+CUS iqtree_mafft 4331s
+CUS clipkit_hmmalign 1s
+CUS fasttree_hmmalign 4s
+CUS iqtree_hmmalign 14258s
+CUS DONE Sun Sep  6 10:53:07 IDT 2026
+model: JTT+R7
+CUS iqtree_H_tdna 2695s
+CUS iqtree_H_alt 8638s
+CUS au_test 18s
+CUS FINAL_DONE Sun Sep  6 21:17:10 IDT 2026
+CUS lineage_cus_mono 2077s
+CUS lineage_bol_tdna 2304s
+CUS lineage_cus_tdna4 2942s
+CUS lineage_cus_bact 2976s
+CUS lineage_cus_tdna 3447s
+CUS lineage_cus_mis 2325s
+CUS lineage_bol_act 2072s
+CUS lineage_cus_act_x 2752s
+CUS lineage_bol_othercus 4846s
+CUS lineage_bol_mis 3855s
+CUS lineage_cus_bact_x 2303s
+CUS lineage_cus_mono_x 1965s
+CUS lineage_bol_othercus_x 3711s
+CUS lineage_cus_act 2843s
+CUS lineage_cus_tdna_x 3888s
+CUS lineage_cus_mis_x 4132s
+CUS lineage_cus_tdna4_x 3508s
+CUS lineage_bol_tdna_x 3619s
+CUS lineage_bol_mis_x 4430s
+CUS lineage_l_au 33s; LINEAGE_AU_l_DONE Mon Sep  7 01:21:21 IDT 2026
+CUS lineage_s_au 37s; LINEAGE_AU_s_DONE Mon Sep  7 01:21:24 IDT 2026
+CUS lineage_bol_act_x 5617s
+CUS lineage_x_l_au 25s; LINEAGE_AU_x_l_DONE Mon Sep  7 01:24:50 IDT 2026
+CUS lineage_x_au 27s; LINEAGE_AU_x_DONE Mon Sep  7 01:24:48 IDT 2026
+CUS lineage_x_s_au 30s; LINEAGE_AU_x_s_DONE Mon Sep  7 01:24:51 IDT 2026
+CUS lineage_nb_au 42s; LINEAGE_AU_nb_DONE Sun Oct 11 23:32:39 IDT 2026
+CUS lineage_nb_tdna_x 2580s
+CUS lineage_nb_tdna4_x 2863s
+CUS lineage_nb_bact_x 4184s
+CUS lineage_nb_act_x 8412s
+CUS lineage_nb_mono_x 9277s
+CUS lineage_nb_mis_x 9807s
+CUS lineage_nb_au 54s; LINEAGE_AU_nb_DONE Mon Oct 12 02:08:29 IDT 2026

@@ -1,0 +1,48 @@
+hmm	type	cluster_rep	cluster_genes	cluster_products	n_asm_E_le_1e5	best_score	best_score_asm	rep_mapping
+AAZ50394.1|DQ058764.1|Agrobacterium_tumefaciens|-|orf_Bo003|276	tdna_lineage	AAZ50394.1		orf_Bo003(1)	22	139.8	GCA_041722695.1	
+AAZ50401.1|DQ058764.1|Agrobacterium_tumefaciens|sus|Sus|333	tdna_lineage	AAZ50401.1	sus	Sus(1)	36	296.8	GCA_041722795.1	
+AAZ50402.1_orf_Bo011	tdna_lineage	AAZ50402.1		orf_Bo011(1); orf_Bo004(1)	7	99.3	GCA_041722695.1	
+AAZ50403.1|DQ058764.1|Agrobacterium_tumefaciens|-|orf_Bo012|91	tdna_lineage	AAZ50403.1		orf_Bo012(1)	1	51.0	GCA_041722695.1	
+AAZ50404.1|DQ058764.1|Agrobacterium_tumefaciens|-|orf_Bo013|151	tdna_lineage	AAZ50404.1		orf_Bo013(1)	2	32.1	GCA_038088915.1	
+AAZ50405.1|DQ058764.1|Agrobacterium_tumefaciens|-|orf_Bo014|117	tdna_lineage	AAZ50405.1		orf_Bo014(1)	3	54.1	GCA_041721915.1	
+AAZ50406.1|DQ058764.1|Agrobacterium_tumefaciens|-|orf_Bo015|528	tdna_lineage	AAZ50406.1		orf_Bo015(1)	6	58.4	GCA_038089975.1	
+AAZ50407.1|DQ058764.1|Agrobacterium_tumefaciens|lecH|LecH|372	tdna_lineage	AAZ50407.1	lecH	LecH(1)	9	49.6	GCA_016618355.2	
+AAZ50408.1|DQ058764.1|Agrobacterium_tumefaciens|lecG|LecG|466	tdna_lineage	AAZ50408.1	lecG	LecG(1)	1	45.3	GCA_041722015.1	
+AAZ50409.1|DQ058764.1|Agrobacterium_tumefaciens|lecF|LecF|97	tdna_lineage	AAZ50409.1	lecF	LecF(1)	0	25.4	GCA_038088915.1	
+AAZ50410.1|DQ058764.1|Agrobacterium_tumefaciens|lecE|LecE|372	tdna_lineage	AAZ50410.1	lecE	LecE(1)	4	493.2	GCA_038090195.1	
+AAZ50411.1|DQ058764.1|Agrobacterium_tumefaciens|lecD|LecD|618	tdna_lineage	AAZ50411.1	lecD	LecD(1)	516	701.2	GCA_016618355.2	
+AAZ50412.1|DQ058764.1|Agrobacterium_tumefaciens|lecC|LecC|292	tdna_lineage	AAZ50412.1	lecC	LecC(1)	11	231.2	GCA_016618355.2	
+AAZ50413.1|DQ058764.1|Agrobacterium_tumefaciens|lecB|LecB|313	tdna_lineage	AAZ50413.1	lecB	LecB(1)	14	268.3	GCA_016618355.2	
+AAZ50414.1|DQ058764.1|Agrobacterium_tumefaciens|lecR|LecR|300	tdna_lineage	AAZ50414.1	lecR	LecR(1)	15	144.3	GCA_016618355.2	
+AAZ50415.1|DQ058764.1|Agrobacterium_tumefaciens|lecA|LecA|519	tdna_lineage	AAZ50415.1	lecA	LecA(1)	5	166.3	GCA_016618355.2	
+ABW89728.1|AE007871.2|Agrobacterium_fabrum_str._C58|-|hypothetical_protein|88	tdna_lineage	ABW89728.1		hypothetical_protein(1)	0	27.2	GCA_000827425.1	
+ABW89729.1|AE007871.2|Agrobacterium_fabrum_str._C58|-|hypothetical_protein|101	tdna_lineage	ABW89729.1		hypothetical_protein(1)	0	24.3	GCA_038093375.1	
+ACS__OUTGROUP	family_subgroup				10	63.6	GCA_041721715.1	
+ACS__acs	family_subgroup				95	223.9	GCA_038091375.1	
+ACS__gdpd_meso	family_subgroup				81	601.9	GCA_038090135.1	
+ACS__kerr14	family_subgroup				94	183.8	GCA_038091375.1	
+BAA87800.1|AB016260.1|Agrobacterium_tumefaciens|tiorf175||349	tdna_lineage	BAA87800.1	tiorf175	(1)	8	78.5	GCA_038094375.1	
+BAA87801.1|AB016260.1|Agrobacterium_tumefaciens|tiorf176||147	tdna_lineage	BAA87801.1	tiorf176	(1)	5	43.4	GCA_038089015.1	
+CUS__cus	family_subgroup				34	477.9	GCA_038094555.1	
+CUS__cusrel181	family_subgroup				37	213.7	GCA_038088875.1	
+CUS__mis	family_subgroup				45	356.0	GCA_038088875.1	
+CUS__rcorf12	family_subgroup				29	245.2	GCA_038089035.1	
+OG|Agro_WP_128406407.1_hypothetical_protein_Rhizobium_leguminosarum	family_subgroup				27	96.2	GCA_041722915.1	
+ORF358__orf358	family_subgroup				5	201.0	GCA_038089435.1	
+SUS__OUTGROUP	family_subgroup				508	184.8	GCA_041722795.1	
+SUS__sus	family_subgroup				42	506.0	GCA_041722795.1	
+WP_010900201.1|NC_002575.1|Martinezella_rhizogenes|-|hypothetical_protein|274	tdna_lineage	WP_010900201.1		hypothetical_protein(1)	0	27.8	GCA_038098575.1	
+WP_010974816.1_glycerophosphodieste	tdna_lineage	WP_010974816.1	acsx,tiorf172,tiorf180,torf6	glycerophosphodiester_phosphodiesterase_(17); agrocinopine_synthase(2); (2)	93	181.1	GCA_038091375.1	
+WP_010974824.1_FAD-dependent_oxidor	tdna_lineage	WP_010974824.1	iaaM,iam,tiorf183,tms1	FAD-dependent_oxidoreductase(15); tryptophan_2-monooxygenase(3); iaaM(1)	77	39.6	GCA_029603245.1	
+WP_080864006.1_M24_family_metallope	tdna_lineage	WP_080864006.1	ags	M24_family_metallopeptidase(14); ags(1); Ags(1)	29	56.1	GCA_038089855.1	
+WP_083212579.1_RolB_family_protein	tdna_lineage	WP_083212579.1	gene,tiorf173,tiorf181	RolB_family_protein(19); (3); indole-3-lactate_synthase(1)	1	31.9	GCA_038090615.1	
+WP_174168441.1_RolB_family_protein	tdna_lineage	WP_174168441.1	tiorf178	RolB_family_protein(14); D_protein(1); (1)	0	23.9	GCA_038094015.1	
+WP_176453671.1|NC_002575.1|Martinezella_rhizogenes|-|cucumopine_synthase-related_protein|308	tdna_lineage	WP_176453671.1		cucumopine_synthase-related_protein(1)	35	251.4	GCA_038088875.1	
+gene_	tdna_lineage	AAF77128.1	gene	hypothetical_protein(2); (1); orf_Bo025(1)	0	28.6	GCA_038094575.1	manual(unverified)
+iaaH_iaaH	tdna_lineage	AAF77122.1	iaaH,iah,tiorf182,tms2	indoleacetamide_hydrolase(17); iaaH(1); Iah(1)	514	89.3	GCA_016618355.2	manual(unverified)
+ipt_ipt	tdna_lineage	AAF77124.1	ipt,tiorf184	adenylate_dimethylallyltransferase_Ipt(17); ipt(1); Ipt(1)	2	38.0	GCA_038092355.1	manual(unverified)
+mas1__mas1_	tdna_lineage	AAF77131.1	mas1,mas1'	SDR_family_NAD(P)-dependent_oxidoreducta(14); mas1'(1); Mas1(1)	80	74.6	GCA_038094735.1	manual(unverified)
+nos_D-nopaline_dehydroge	tdna_lineage	WP_010974826.1	nos,tiorf187	D-nopaline_dehydrogenase(4); (1)	8	282.6	GCA_003315995.1	manual(unverified)
+ocs_ocs	tdna_lineage	AAF77127.1	ocs	lysopine/octopine_dehydrogenase(2); ocs(1)	4	82.3	GCA_038088915.1	manual(unverified)
+ons_ons	tdna_lineage	AAF77125.1	ons,tiorf185	RolB_family_protein(16); ons(1); 6a_protein(1)	0	25.9	GCA_016800925.1	manual(unverified)
+rolB_C__protein	tdna_lineage	AAK90962.1	rolB,tiorf177	RolB_family_protein(14); C'_protein(1); (1)	1	30.6	GCA_038090615.1	manual(unverified)

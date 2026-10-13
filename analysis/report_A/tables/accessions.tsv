@@ -1,0 +1,90 @@
+GCA	организм по NCBI	вид по mash-кластеру	уровень сборки	дата	BioSample	BioProject	N50 контигов, п.н.	длина, п.н.	где использована
+GCA_001691785.3	Amanita brunnescens Koide BX004		Scaffold	2018-10-17	SAMN02603359	PRJNA236753	12726	36016155	носитель: CUS
+GCA_003315995.1	Butyriboletus roseoflavus	Butyriboletus roseoflavus	Scaffold	2018-07-13	SAMN09010643	PRJNA454572	17569	28767420	кластер Butyriboletus roseoflavus (mash); независимые сборки / mash; носитель: ACS-acc; носитель: CUS
+GCA_003316055.1	Boletus speciosus	Butyriboletus roseoflavus	Scaffold	2018-07-13	SAMN09010641	PRJNA454572	14267	29905459	кластер Butyriboletus roseoflavus (mash); носитель: ACS-acc
+GCA_003316065.1	Retiboletus ornatipes	Butyriboletus roseoflavus	Scaffold	2018-07-13	SAMN09010638	PRJNA454572	14574	29764564	кластер Butyriboletus roseoflavus (mash); независимые сборки / mash; носитель: CUS
+GCA_003316165.1	Boletus edulis	Boletus edulis	Scaffold	2018-07-13	SAMN09010636	PRJNA454572	12171	52575740	независимые сборки / mash
+GCA_004296355.1	Lepiota venenata		Contig	2019-02-25	SAMN10145369	PRJNA493910	1272972	49247364	носитель: CUS
+GCA_008802755.1	Monosporozyma servazzii		Scaffold	2019-10-02	SAMN12715194	PRJNA564535	281905	11767043	носитель: CUS
+GCA_014904935.1	Melanogaster broomeanus	Melanogaster broomeanus	Scaffold	2020-10-20	SAMN05661048	PRJNA234408	93556	49614189	носитель: SUS
+GCA_014925795.1	Boletus edulis	extra	Contig	2020-10-23	SAMN10865816	PRJNA519679	380211	69185680	независимые сборки / mash
+GCA_015179015.1	Boletus edulis BED1	extra	Contig	2020-11-02	SAMN02746047	PRJNA200598	420549	66525486	независимые сборки / mash
+GCA_015266435.1	Epicoccum latusicollum		Contig	2020-11-06	SAMN15501750	PRJNA645278	1982625	33587228	носитель: CUS
+GCA_018397855.1	Boletus reticuloceps	Boletus reticuloceps	Contig	2021-05-18	SAMN17925178	PRJNA702108	1110723	55833107	независимые сборки / mash; носитель: ACS-acc; носитель: SUS
+GCA_019096195.1	Boletus sp. NGJ	Butyriboletus roseoflavus	Scaffold	2021-07-02	SAMN18876713	PRJNA725354	520854	33501578	кластер Butyriboletus roseoflavus (mash); носитель: ACS-acc; носитель: CUS
+GCA_019327925.1	Leucocoprinus sp. KB1807203		Contig	2021-07-23	SAMN19158101	PRJNA713779	189029	38119301	носитель: ACS-acc
+GCA_019364595.1	Butyriboletus roseoflavus	Butyriboletus roseoflavus	Contig	2021-07-27	SAMN18241835	PRJNA713307	2704075	33976981	кластер Butyriboletus roseoflavus (mash); независимые сборки / mash; носитель: ACS-acc; носитель: CUS
+GCA_022559915.2	Septoria petroselini		Scaffold	2022-10-03	SAMN18035169	PRJNA704227	338537	29145266	носитель: CUS
+GCA_022592445.1	Cytidiella melzeri		Contig	2022-03-16	SAMN05519187	PRJNA331562	105945	50894641	носитель: CUS
+GCA_022837065.1	Boletus edulis	Boletus edulis	Scaffold	2022-04-08	SAMN21436121	PRJNA763230	148710	47489159	независимые сборки / mash
+GCA_025677925.1	Epicoccum latusicollum		Contig	2022-10-13	SAMN30472633	PRJNA872902	1859063	33242988	носитель: CUS
+GCA_028408395.1	Monosporozyma servazzii		Scaffold	2023-02-02	SAMN25820613	PRJNA799447	874116	12334243	носитель: CUS
+GCA_029233265.1	Mycena alexandri		Contig	2023-03-17	SAMN08777676	PRJNA442839	328412	132306732	носитель: CUS
+GCA_029282285.1	Mycena rebaudengoi		Contig	2023-03-20	SAMN08779411	PRJNA443296	771041	218590756	носитель: CUS
+GCA_029378385.1	Mycena metata		Contig	2023-03-24	SAMN06296067	PRJNA369997	358022	164113792	носитель: CUS
+GCA_029449245.1	Mortierella alpina		Contig	2023-03-28	SAMN29490473	PRJNA855440	2534572	40220517	носитель: SUS
+GCA_037040905.1	Monosporozyma servazzii		Scaffold	2024-03-06	SAMN38094939	PRJNA833221	19377	11170048	носитель: CUS
+GCA_038088615.1	Boletus rex-veris	Boletus rex-veris	Scaffold	2024-04-12	SAMN38199656	PRJNA1022813	1719	76050418	носитель: ACS-acc
+GCA_038088635.1	Veloboletus limbatus	Veloboletus limbatus	Scaffold	2024-04-12	SAMN38199655	PRJNA1022813	2970	92183165	носитель: ACS-acc; носитель: SUS
+GCA_038088695.1	Boletus variipes	Boletus variipes	Scaffold	2024-04-12	SAMN38089344	PRJNA1022813	3915	87123431	независимые сборки / mash; носитель: ACS-acc; носитель: SUS
+GCA_038088715.1	Boletus variipes var. fagicola	Boletus variipes	Scaffold	2024-04-12	SAMN38199654	PRJNA1022813	1104	73546778	независимые сборки / mash; носитель: ACS-acc; носитель: CUS; риды SRA SRR28540308
+GCA_038088795.1	Boletus rex-veris	Boletus rex-veris	Scaffold	2024-04-12	SAMN38199651	PRJNA1022813	14302	54229967	носитель: ACS-acc; носитель: SUS
+GCA_038088875.1	Austroboletus festivus	Austroboletus festivus	Scaffold	2024-04-12	SAMN38199646	PRJNA1022813	9125	77635256	независимые сборки / mash
+GCA_038088955.1	Neotropicomus parvogracilis	Neotropicomus parvogracilis	Scaffold	2024-04-12	SAMN38199643	PRJNA1022813	5114	51024417	носитель: ACS-acc; носитель: SUS
+GCA_038089015.1	Chalciporus aff. trinitensis	Chalciporus aff. trinitensis	Scaffold	2024-04-12	SAMN38199641	PRJNA1022813	2094	72641236	носитель: SUS
+GCA_038089035.1	Boletellus dicymbophilus	Boletellus dicymbophilus	Scaffold	2024-04-12	SAMN38199639	PRJNA1022813	3428	81950677	носитель: CUS
+GCA_038089135.1	Boletus edulis	extra	Scaffold	2024-04-12	SAMN38089342	PRJNA1022813	371	6904648	независимые сборки / mash
+GCA_038089155.1	Nevesoporus exiguus	Nevesoporus exiguus	Scaffold	2024-04-12	SAMN38199632	PRJNA1022813	10978	73682856	носитель: ACS-acc; носитель: SUS
+GCA_038089235.1	Boletellus ananas	Boletellus ananas	Scaffold	2024-04-12	SAMN38199629	PRJNA1022813	4703	124259396	независимые сборки / mash; носитель: ACS-k14; носитель: CUS; риды SRA SRR28539995
+GCA_038089435.1	Boletus austroedulis	Boletus austroedulis	Scaffold	2024-04-12	SAMN38199599	PRJNA1022813	3020	62221902	носитель: CUS; риды SRA SRR28540344
+GCA_038089575.1	Phylloporus pelletieri	Phylloporus pelletieri	Scaffold	2024-04-12	SAMN38199597	PRJNA1022813	2591	32394983	носитель: ACS-acc
+GCA_038089715.1	Veloporphyrellus conicus	Veloporphyrellus conicus	Scaffold	2024-04-12	SAMN38199587	PRJNA1022813	4479	40790203	носитель: ACS-acc; носитель: SUS
+GCA_038089875.1	Fistulinella prunicolor	Fistulinella prunicolor	Scaffold	2024-04-12	SAMN38199581	PRJNA1022813	16334	45918294	носитель: CUS
+GCA_038089895.1	Boletellus ananas	Boletellus ananas	Scaffold	2024-04-12	SAMN38199576	PRJNA1022813	26762	43530106	независимые сборки / mash; носитель: ACS-acc
+GCA_038089935.1	Boletellus emodensis	Boletellus emodensis	Scaffold	2024-04-12	SAMN38199574	PRJNA1022813	20984	42011282	носитель: SUS
+GCA_038089975.1	Boletellus ananiceps	Boletellus ananiceps	Scaffold	2024-04-12	SAMN38199573	PRJNA1022813	9009	55918461	носитель: ACS-acc; носитель: SUS
+GCA_038090035.1	Xerocomus nothofagi	Xerocomus nothofagi	Scaffold	2024-04-12	SAMN38199570	PRJNA1022813	5605	46154583	носитель: ACS-acc; носитель: SUS
+GCA_038090135.1	Pulveroboletus ravenelii	Pulveroboletus ravenelii	Scaffold	2024-04-12	SAMN38199567	PRJNA1022813	16657	50736763	носитель: ACS-acc; носитель: CUS
+GCA_038090195.1	Boletellus deceptivus	Boletellus deceptivus	Scaffold	2024-04-12	SAMN38199562	PRJNA1022813	3593	82476562	носитель: ACS-acc; носитель: SUS
+GCA_038090615.1	Phylloporus gajari	Phylloporus gajari	Scaffold	2024-04-12	SAMN38199540	PRJNA1022813	530	193215278	носитель: ACS-acc
+GCA_038090635.1	Rubroboletus satanas	Rubroboletus satanas	Scaffold	2024-04-12	SAMN38199535	PRJNA1022813	11077	46332505	носитель: ACS-k14; носитель: SUS; риды SRA SRR28540133
+GCA_038090655.1	Gastroboletus turbinatus	Gastroboletus turbinatus	Contig	2024-04-12	SAMN38199533	PRJNA1022813	3616	56938543	носитель: SUS
+GCA_038090915.1	Boletus eberwhitei	Boletus eberwhitei	Scaffold	2024-04-12	SAMN38199522	PRJNA1022813	19967	48309558	носитель: ACS-k14
+GCA_038090975.1	Boletellus pseudochrysenteroides	Boletellus pseudochrysenteroides	Scaffold	2024-04-12	SAMN38199520	PRJNA1022813	7669	49879969	носитель: ACS-acc; носитель: ACS-k14
+GCA_038091075.1	Phylloporus rhodoxanthus	Phylloporus rhodoxanthus	Scaffold	2024-04-12	SAMN38199515	PRJNA1022813	1386	78761151	независимые сборки / mash
+GCA_038091195.1	Phylloporus rhodoxanthus	Phylloporus rhodoxanthus	Scaffold	2024-04-12	SAMN38199511	PRJNA1022813	10533	49541904	независимые сборки / mash
+GCA_038091215.1	Retiboletus ornatipes	extra	Scaffold	2024-04-12	SAMN38199510	PRJNA1022813	16934	52821092	независимые сборки / mash
+GCA_038091295.1	Tylopilus felleus	Tylopilus felleus	Scaffold	2024-04-12	SAMN38199506	PRJNA1022813	23338	42638358	независимые сборки / mash
+GCA_038091375.1	Austroboletus festivus	Austroboletus festivus	Scaffold	2024-04-12	SAMN38199504	PRJNA1022813	666	68491815	независимые сборки / mash; носитель: ACS-k14; носитель: SUS; риды SRA SRR28540039
+GCA_038092355.1	Caloboletus inedulis	Caloboletus inedulis	Scaffold	2024-04-12	SAMN38199452	PRJNA1022813	4878	39497380	носитель: ACS-acc
+GCA_038092395.1	Boletus variipes var. fagicola	Boletus variipes	Scaffold	2024-04-12	SAMN38199449	PRJNA1022813	8519	62075716	независимые сборки / mash; носитель: ACS-acc; носитель: CUS
+GCA_038093095.1	Boletus insuetus	Boletus variipes	Scaffold	2024-04-12	SAMN38199413	PRJNA1022813	28806	49789942	носитель: ACS-acc; носитель: CUS
+GCA_038093215.1	Boletus edulis	Boletus edulis	Scaffold	2024-04-12	SAMN38199405	PRJNA1022813	6064	52952739	независимые сборки / mash; носитель: ACS-k14; риды SRA SRR28540181
+GCA_038093235.1	Boletus harrisonii	Boletus harrisonii	Scaffold	2024-04-12	SAMN38199408	PRJNA1022813	7802	63858611	носитель: ACS-k14
+GCA_038093275.1	Tylopilus felleus	extra	Contig	2024-04-12	SAMN38199407	PRJNA1022813	994	48909522	независимые сборки / mash
+GCA_038093655.1	Boletus reticuloceps	extra	Scaffold	2024-04-12	SAMN38199380	PRJNA1022813	1306	78660621	независимые сборки / mash
+GCA_038093895.1	Boletus aff. mottiae	Boletus aff. mottiae	Scaffold	2024-04-12	SAMN38199356	PRJNA1022813	19062	52092295	носитель: ACS-k14
+GCA_038094175.1	Boletellus aff. lepidospora	Boletellus aff. lepidospora	Scaffold	2024-04-12	SAMN38199327	PRJNA1022813	10987	66188512	носитель: SUS
+GCA_038094235.1	Fistulinella staudtii	Fistulinella staudtii	Scaffold	2024-04-12	SAMN38199329	PRJNA1022813	3605	53412337	носитель: ACS-acc; носитель: SUS
+GCA_038094475.1	Phylloporus aff. rhodophaeus	Phylloporus aff. rhodophaeus	Scaffold	2024-04-12	SAMN38199306	PRJNA1022813	21253	46322017	носитель: SUS
+GCA_038094555.1	Boletus aff. phaeocephalus	Boletus aff. phaeocephalus	Scaffold	2024-04-12	SAMN38199301	PRJNA1022813	2356	56714350	носитель: CUS
+GCA_038094735.1	Exsudoporus floridanus	Exsudoporus floridanus	Scaffold	2024-04-12	SAMN38199290	PRJNA1022813	4960	43751322	носитель: ACS-acc
+GCA_038098575.1	Tylopilus aff. beelii	Tylopilus aff. beelii	Scaffold	2024-04-12	SAMN38199331	PRJNA1022813	5548	67509732	носитель: SUS
+GCA_040893085.1	Epicoccum sorghinum		Chromosome	2024-07-26	SAMN41679883	PRJNA1120184	1661624	32694839	носитель: CUS
+GCA_041721835.1	Phylloporus sp. TRTC168454	Phylloporus sp. TRTC163509	Scaffold	2024-09-02	SAMN38199614	PRJNA1022813	10049	58152183	носитель: SUS
+GCA_041722095.1	Tylopilus sp. KM206722	Tylopilus sp. KM206722	Scaffold	2024-09-02	SAMN38199397	PRJNA1022813	1226	70128747	носитель: ACS-acc
+GCA_041722235.1	Phylloporus sp. TRTC163509	Phylloporus sp. TRTC163509	Scaffold	2024-09-02	SAMN38199379	PRJNA1022813	1438	81183672	носитель: SUS
+GCA_041722315.1	Porphyrellus sp. KM206675	Porphyrellus sp. KM206675	Scaffold	2024-09-02	SAMN38199387	PRJNA1022813	416	165037229	носитель: SUS
+GCA_041722475.1	Boletaceae sp. TRTC157251	Boletaceae sp. TRTC157251	Scaffold	2024-09-02	SAMN38199354	PRJNA1022813	2564	76916022	носитель: CUS
+GCA_041722595.1	Boletaceae sp. UT-M0000358	Boletaceae sp. UT-M0000358	Scaffold	2024-09-02	SAMN38199336	PRJNA1022813	18022	42261171	носитель: SUS
+GCA_041722635.1	Boletaceae sp. TRTC157229	Boletaceae sp. TRTC157229	Scaffold	2024-09-02	SAMN38199349	PRJNA1022813	516	242609850	носитель: ACS-acc; носитель: SUS
+GCA_041722655.1	Porphyrellus sp. 'aff. excedens' UT-M0000382	Porphyrellus sp. 'aff. excedens' UT-M0000382	Scaffold	2024-09-02	SAMN38199328	PRJNA1022813	19220	51024959	носитель: SUS
+GCA_041722675.1	aff. Porphyrellus sp. UT-M0000367	aff. Porphyrellus sp. UT-M0000367	Scaffold	2024-09-02	SAMN38199334	PRJNA1022813	3421	57902900	носитель: SUS
+GCA_041722695.1	Tylopilus sp. UT-M0000335	Tylopilus sp. UT-M0000335	Scaffold	2024-09-02	SAMN38199322	PRJNA1022813	2146	63462171	носитель: ACS-acc; носитель: SUS; риды SRA SRR28540336
+GCA_041722775.1	Phylloporus sp. UT-M0000405	Phylloporus sp. UT-M0000405	Scaffold	2024-09-02	SAMN38199318	PRJNA1022813	767	64803072	носитель: CUS
+GCA_041722795.1	Tylopilus sp. UT-M0000054	Tylopilus sp. UT-M0000054	Scaffold	2024-09-02	SAMN38199315	PRJNA1022813	45258	38885275	носитель: SUS
+GCA_041722855.1	Boletellus sp. UT-M0000026	Boletellus sp. UT-M0000026	Scaffold	2024-09-02	SAMN38199314	PRJNA1022813	2728	69124517	носитель: SUS
+GCA_041722915.1	aff. Porphyrellus sp. UT-M0000030	aff. Porphyrellus sp. UT-M0000030	Scaffold	2024-09-02	SAMN38199307	PRJNA1022813	36868	63162898	носитель: SUS
+GCA_054741165.1	Boletus edulis	extra	Chromosome	2026-01-26	SAMN44794632	PRJNA1187522	2952305	41815337	независимые сборки / mash
+GCA_054948845.1	Tylopilus felleus	Tylopilus felleus	Contig	2026-02-06	SAMN40207535	PRJNA1081017	2410575	39403162	независимые сборки / mash
+GCA_963678725.1	Monosporozyma servazzii		Contig	2023-12-11	SAMEA112770463	PRJEB57332	721095	12099517	носитель: CUS

@@ -1,0 +1,16 @@
+name: orthofinder
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - orthofinder=2.5.5
+  - diamond
+  - mcl
+  - mafft
+  - fasttree
+  - iqtree
+  - python=3.9
+  - networkx
+  - scikit-learn
+  - ca-certificates
+  - openssl

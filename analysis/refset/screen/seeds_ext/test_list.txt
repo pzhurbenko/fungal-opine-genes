@@ -1,0 +1,6 @@
+${GMO_ROOT}/data/fungal_proteomes/fungi_annotated/ncbi_dataset/data/GCA_018397855.1/protein.faa
+${GMO_ROOT}/data/fungal_proteomes/fungi_annotated/ncbi_dataset/data/GCA_019364595.1/protein.faa
+${GMO_ROOT}/data/fungal_proteomes/fungi_annotated/ncbi_dataset/data/GCA_029282285.1/protein.faa
+${GMO_ROOT}/data/fungal_proteomes/fungi_annotated/ncbi_dataset/data/GCA_000151355.1/protein.faa
+${GMO_ROOT}/data/fungal_proteomes/fungi_annotated/ncbi_dataset/data/GCA_001298375.2/protein.faa
+${GMO_ROOT}/data/fungal_proteomes/fungi_annotated/ncbi_dataset/data/GCA_000731615.1/protein.faa

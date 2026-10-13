@@ -1,0 +1,14 @@
+fam	ref	len	id_to_canonical	max_id_other_T1	mean_id_T1	id_to_paralog	pfam
+ACS	Agro_WP_111794344_1_MULTISPECIES_hypothetical_protein_Agrobacterium	423	0.19	0.29	0.22	0.22	(none)
+ACS	Plant_CAM6009234_1_unnamed_protein_product_Sphagnum_balticum	443	0.20	0.29	0.18	0.03	(none)
+ACS	Plant_PON40589_1_hypothetical_protein_PanWU01x14_296110_Parasponia_andersonii	159	0.25	0.27	0.21	0.24	(none)
+ACS	Agro_WP_269347785_1_hypothetical_protein_Agrobacterium_sp_SOY23	387	0.25	0.40	0.24	0.26	GDPD
+ACS	Agro_WP_192068445_1_MULTISPECIES_glycerophosphodiester_phosphodiesterase_family_protein_un	456	0.32	0.45	0.31	0.37	GDPD
+ACS	Agro_WP_217577425_1_glycerophosphodiester_phosphodiesterase_family_protein_Mesorhizobium_s	395	0.33	0.40	0.26	0.25	GDPD
+ACS	Plant_AIK35201_1_Acs_Ipomoea_batatas	305	0.34	0.97	0.38	0.52	GDPD
+ACS	Agro_QTG17267_1_agrocinopine_synthase_Agrobacterium_tumefaciens	430	0.34	0.70	0.40	0.73	GDPD
+ACS	Agro_WP_209160150_1_MULTISPECIES_glycerophosphodiester_phosphodiesterase_family_protein_un	370	0.34	0.48	0.33	0.44	GDPD
+ACS	Plant_che1CaTE-Acs	443	0.37	0.60	0.39	0.58	GDPD
+ACS	Plant_GMD67474_1_agrocinopine_synthase_Ipomoea_batatas	424	0.37	0.97	0.42	0.65	GDPD
+ACS	Plant_WML69206_1_agrocinopine_synthase_Agrobacterium_sp_Nicotiana_noctiflora	341	0.40	0.60	0.36	0.50	(none)
+ACS	Agro_WP_280174108_1_glycerophosphodiester_phosphodiesterase_family_protein_Agrobacterium_t	370	1.00	0.40	0.30	0.34	GDPD

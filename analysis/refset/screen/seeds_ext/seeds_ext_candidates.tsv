@@ -1,0 +1,18 @@
+gca	organism	gene	seed_id	seed_source	protein	pident	bits	evalue	cov_seed	cov_query	qlen	pident_bact	pident_plant	contam	dup_dropped
+GCA_029378385.1	Mycena metata	cus	WP_233741845.1	bacterial	KAJ7770518.1	62.4	397.0	6.36e-140	0.904	0.972	323	62.4	61.7	0	0
+GCA_029282285.1	Mycena rebaudengoi	cus	MED6115461.1	plant_cTDNA	KAJ7289093.1	61.8	382.0	1.48e-134	0.978	0.972	323	60.6	61.8	0	0
+GCA_029233265.1	Mycena alexandri	cus	MED6115461.1	plant_cTDNA	KAJ7039838.1	61.7	388.0	1.10e-136	0.968	0.963	323	59.9	61.7	0	0
+GCA_964275055.1	Monosporozyma servazzii	cus	KAH7432836.1	plant_cTDNA	CAL9735043.1	57.4	370.0	4.90e-129	1.0	1.0	337	46.5	57.4	0	0
+GCA_001691785.3	Amanita brunnescens Koide BX004	cus	KAL3512627.1	plant_cTDNA	KAF8736273.1	56.3	328.0	5.61e-114	0.997	0.996	280	48.3	56.3	0	0
+GCA_058411305.1	Hebeloma velutipes	cus	WP_233741845.1	bacterial	KAO1061018.1	56.1	380.0	3.72e-133	0.924	1.0	319	56.1	56.4	0	0
+GCA_019364595.1	Butyriboletus roseoflavus	cus	WP_233741845.1	bacterial	KAG8216553.1	52.4	196.0	5.64e-63	0.549	0.913	207	52.4	47.1	0	0
+GCA_000151355.1	Fusarium vanettenii 77-13-4	chs	A0A2Z2PGA9	bacterial	EEU41297.1	60.2	481.0	1.41e-170	0.943	0.948	405	60.2		0	0
+GCA_050370095.1	Fusarium phalaenopsidis	chs	A0A2Z2PGA9	bacterial	KAL6359175.1	60.2	489.0	7.18e-174	0.943	0.941	408	60.2		0	0
+GCA_054098485.1	Fusarium nematophilum	chs	A0A2Z2PGA9	bacterial	KAM5380328.1	60.2	471.0	6.92e-167	0.939	0.936	408	60.2		0	0
+GCA_054098565.1	Fusarium nematophilum	chs	A0A2Z2PGA9	bacterial	KAM5345661.1	60.2	471.0	6.92e-167	0.939	0.936	408	60.2		0	0
+GCA_025433565.1	Fusarium sp. Ph1	chs	A0A2Z2PGA9	bacterial	KAI8662381.1	59.9	486.0	1.67e-172	0.943	0.941	408	59.9		0	0
+GCA_023101225.1	Fusarium solani-melongenae	chs	A0A2Z2PGA9	bacterial	UPK93317.1	59.1	476.0	7.36e-169	0.943	0.941	408	59.1		0	0
+GCA_030020275.1	Fusarium oxysporum	chs	A0A2Z2PGA9	bacterial	KAJ9415499.1	50.3	286.0	3.72e-96	0.713	0.968	277	50.3		0	0
+GCA_023509805.1	Fusarium oxysporum f. sp. albedinis	chs	A0A2Z2PGA9	bacterial	KAI3576115.1	49.0	280.0	4.54e-94	0.713	0.966	266	49.0		0	0
+GCA_032206225.1	Fusarium oxysporum f. sp. albedinis	chs	A0A2Z2PGA9	bacterial	KAK2472897.1	49.0	280.0	4.54e-94	0.713	0.966	266	49.0		0	0
+GCA_000149955.2	Fusarium oxysporum f. sp. lycopersici 4287	chs	A0A2Z2PGA9	bacterial	KNB14377.1	46.9	263.0	2.20e-87	0.713	0.965	260	46.9		0	0

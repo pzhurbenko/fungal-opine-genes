@@ -1,0 +1,9 @@
+gca	organism	n_chains	max_pident	genome_is_carrier	n_on_carrier_contig	subjects
+GCA_003315995.1	Butyriboletus roseoflavus	1	37.0	1	0	WP_010974826.1:nos
+GCA_003316055.1	Boletus speciosus	1	37.3	1	0	WP_010974826.1:nos
+GCA_019096195.1	Boletus sp. NGJ	1	36.2	1	1	WP_010974826.1:nos
+GCA_019364595.1	Butyriboletus roseoflavus	1	37.3	1	1	WP_010974826.1:nos
+GCA_038089435.1	Boletus austroedulis	2	39.2	1	0	WP_010974826.1:nos
+GCA_038090195.1	Boletellus deceptivus	1	64.7	1	0	WP_010891455.1:NAD_NADP_octopine_nopaline_dehydrogenase
+GCA_038094575.1	Phylloporus cf. nigrescens	1	52.1	0	0	AAK90977.1:noxA
+GCA_041722635.1	Boletaceae sp. TRTC157229	1	37.7	1	0	WP_010974826.1:nos

@@ -1,0 +1,34 @@
+locus_id	gca	organism	pid_to_vanettenii_EEU41297	cov_EEU	pid_to_chs_seed	status	depends_on_70pct_rule
+GCA_000151355.1_L1	GCA_000151355.1	Fusarium vanettenii 77-13-4	1.0	1.0	0.5879	intact	0
+GCA_027945495.1_L1	GCA_027945495.1	Fusarium falciforme	0.9433	0.348	0.5391	pseudogene	0
+GCA_050370095.1_L1	GCA_050370095.1	Fusarium phalaenopsidis	0.9432	1.0	0.5879	intact	0
+GCA_025433565.1_L1	GCA_025433565.1	Fusarium sp. Ph1	0.9407	1.0	0.5854	intact	0
+GCA_023101225.1_L1	GCA_023101225.1	Fusarium solani-melongenae	0.9383	1.0	0.5911	intact	0
+GCA_020796175.1_L1	GCA_020796175.1	Fusarium oxysporum f. sp. matthiolae	0.879	0.738	0.5561	pseudogene	0
+GCA_023509805.1_L1	GCA_023509805.1	Fusarium oxysporum f. sp. albedinis	0.879	0.738	0.5561	pseudogene	0
+GCA_026229875.1_L1	GCA_026229875.1	Fusarium oxysporum f. sp. albedinis	0.879	0.738	0.5561	pseudogene	0
+GCA_032206225.1_L1	GCA_032206225.1	Fusarium oxysporum f. sp. albedinis	0.879	0.738	0.5561	pseudogene	0
+GCA_000149955.2_L1	GCA_000149955.2	Fusarium oxysporum f. sp. lycopersici 4287	0.8696	0.738	0.0	pseudogene	1
+GCA_030020275.1_L1	GCA_030020275.1	Fusarium oxysporum	0.8696	0.738	0.0	pseudogene	1
+GCA_000260495.2_L1	GCA_000260495.2	Fusarium oxysporum f. sp. melonis 26406	0.8657	0.738	0.5458	pseudogene	0
+GCA_000271745.2_L1	GCA_000271745.2	Fusarium oxysporum NRRL 32931	0.8624	0.738	0.5458	pseudogene	0
+GCA_054098485.1_L1	GCA_054098485.1	Fusarium nematophilum	0.8532	0.993	0.5799	intact	0
+GCA_054098565.1_L1	GCA_054098565.1	Fusarium nematophilum	0.8532	0.993	0.5799	intact	0
+GCA_000259975.2_L1	GCA_000259975.2	Fusarium oxysporum f. sp. lycopersici MN25	0.766	0.323	0.0	truncated	1
+GCA_000260155.3_L1	GCA_000260155.3	Fusarium oxysporum f. sp. radicis-lycopersici 26381	0.766	0.323	0.0	truncated	1
+GCA_000271705.2_L1	GCA_000271705.2	Fusarium oxysporum Fo47	0.766	0.323	0.0	truncated	1
+GCA_001702695.2_L1	GCA_001702695.2	Fusarium oxysporum f. sp. radicis-cucumerinum	0.766	0.323	0.0	truncated	1
+GCA_003615155.1_L1	GCA_003615155.1	Fusarium oxysporum	0.766	0.323	0.0	truncated	1
+GCA_003615165.1_L1	GCA_003615165.1	Fusarium oxysporum	0.766	0.323	0.0	truncated	1
+GCA_013085055.1_L1	GCA_013085055.1	Fusarium oxysporum Fo47	0.766	0.323	0.0	truncated	1
+GCA_013363075.1_L1	GCA_013363075.1	Fusarium oxysporum	0.766	0.323	0.0	truncated	1
+GCA_003615185.1_L1	GCA_003615185.1	Fusarium oxysporum	0.7589	0.323	0.0	truncated	1
+GCA_027945405.1_L1	GCA_027945405.1	Fusarium oxysporum	0.7589	0.323	0.0	truncated	1
+GCA_027945555.1_L1	GCA_027945555.1	Fusarium oxysporum	0.7589	0.323	0.0	truncated	1
+GCA_054098455.1_L1	GCA_054098455.1	Fusarium oxysporum	0.7589	0.323	0.0	truncated	1
+GCA_003615075.1_L1	GCA_003615075.1	Fusarium oxysporum f. sp. cepae	0.7518	0.323	0.0	truncated	1
+GCA_003615085.1_L1	GCA_003615085.1	Fusarium oxysporum f. sp. cepae	0.7518	0.323	0.0	truncated	1
+GCA_003615095.1_L1	GCA_003615095.1	Fusarium oxysporum f. sp. cepae	0.7518	0.323	0.0	truncated	1
+GCA_004141715.1_L1	GCA_004141715.1	Fusarium oxysporum f. sp. narcissi	0.7518	0.323	0.0	truncated	1
+GCA_020744425.1_L1	GCA_020744425.1	Dactylonectria macrodidyma	0.6571	0.259	0.6538	truncated	0
+GCA_020744375.1_L1	GCA_020744375.1	Dactylonectria estremocensis	0.5797	0.97	0.5849	pseudogene	0

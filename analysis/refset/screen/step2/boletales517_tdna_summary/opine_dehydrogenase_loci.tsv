@@ -1,0 +1,10 @@
+gca	organism	contig	contig_len	start	end	strand	subject	pident	subj_cov	genome_is_carrier	contig_has_carrier_locus	carrier_lineages_on_contig
+GCA_003315995.1	Butyriboletus roseoflavus	QFEE01000845.1	30935	1066	2190	+	WP_010974826.1|TDNA|NZ_CP048576.1|Agrobacterium_tumefaciens|nos|D-nopaline_dehydrogenase	37.0	0.92	1	0	
+GCA_003316055.1	Boletus speciosus	QFEG01003584.1	13154	11957	13081	-	WP_010974826.1|TDNA|NZ_CP048576.1|Agrobacterium_tumefaciens|nos|D-nopaline_dehydrogenase	37.3	0.92	1	0	
+GCA_019096195.1	Boletus sp. NGJ	JAGTXK010000179.1	37830	17313	18437	+	WP_010974826.1|TDNA|NZ_CP048576.1|Agrobacterium_tumefaciens|nos|D-nopaline_dehydrogenase	36.2	0.92	1	1	acc-type GDPD
+GCA_019364595.1	Butyriboletus roseoflavus	JAHRGV010000067.1	2576528	1436802	1437926	+	WP_010974826.1|TDNA|NZ_CP048576.1|Agrobacterium_tumefaciens|nos|D-nopaline_dehydrogenase	37.3	0.92	1	1	acc-type GDPD
+GCA_038089435.1	Boletus austroedulis	JBBPKX010000014.1	51716	8989	9999	-	WP_010974826.1|TDNA|NZ_CP048576.1|Agrobacterium_tumefaciens|nos|D-nopaline_dehydrogenase	38.5	0.83	1	0	
+GCA_038089435.1	Boletus austroedulis	JBBPKX010000046.1	36221	2043	3053	-	WP_010974826.1|TDNA|NZ_CP048576.1|Agrobacterium_tumefaciens|nos|D-nopaline_dehydrogenase	39.2	0.83	1	0	
+GCA_038090195.1	Boletellus deceptivus	JBBPMG010002051.1	5477	409	1479	+	WP_010891455.1|opine_related|NZ_CP048576.1|Agrobacterium_tumefaciens|-|NAD_NADP_octopine_nopaline_dehydrogenase	64.7	0.99	1	0	
+GCA_038094575.1	Phylloporus cf. nigrescens	JBBPTW010001200.1	6840	1889	2685	-	AAK90977.1|opine_related|AE007871.2|Agrobacterium_fabrum_str.|noxA|D-nopaline_dehydrogenase	52.1	0.65	0	0	
+GCA_041722635.1	Boletaceae sp. TRTC157229	JBBPWO010000281.1	14498	3953	5057	+	WP_010974826.1|TDNA|NZ_CP048576.1|Agrobacterium_tumefaciens|nos|D-nopaline_dehydrogenase	37.7	0.89	1	0	

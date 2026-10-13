@@ -1,0 +1,56 @@
+Loci in catalog without ORF358: 2791 (round2 ACS+CUS+SUS = 2789, + 2 addenda); homologs (not not_homolog/not_run): 1912; not a homolog: 879
+Homologs placed on tree (basis=tree): 1194; hmm_only homologs: 703; similarity: 15
+
+Per lineage (all loci): loci / intact / genomes / species
+  ACS | acc-type GDPD: 60 / 3 / 30 / 24
+  ACS | acc-type GDPD (not placed): 38 / 0 / 21 / 17
+  ACS | acs-HMM group (not placed): 93 / 0 / 56 / 39
+  ACS | native fungal GDPD (main clade): 102 / 48 / 75 / 43
+  ACS | no HMM subgroup (not placed): 20 / 0 / 16 / 13
+  ACS | not a homolog: 855 / 0 / 778 / 137
+  ACS | other fungal GDPD (position unresolved): 31 / 30 / 21 / 18
+  ACS | outgroup-HMM (not placed): 37 / 0 / 37 / 12
+  ACS | pKerr14a-type acs-like: 19 / 6 / 8 / 8
+  ACS | pKerr14a-type acs-like (not placed): 30 / 0 / 30 / 9
+  CUS | actinobacterial-type: 591 / 359 / 478 / 65
+  CUS | actinobacterial-type (not placed): 286 / 0 / 158 / 26
+  CUS | cus-like (T-DNA type): 50 / 34 / 36 / 22
+  CUS | cus-like (T-DNA type) (not placed): 36 / 0 / 15 / 12
+  CUS | cus-related small ORF (cusrel181) (not placed): 34 / 0 / 23 / 17
+  CUS | mis lineage: 293 / 254 / 263 / 108
+  CUS | mis lineage (not placed): 58 / 0 / 29 / 27
+  CUS | not a homolog: 20 / 1 / 18 / 17
+  CUS | other bacterial-type CUS (beta-proteobacteria) (not placed): 6 / 0 / 6 / 5
+  CUS | other bacterial-type CUS (not placed): 3 / 0 / 2 / 2
+  CUS | outgroup-HMM (not placed): 12 / 0 / 11 / 3
+  CUS | rcorf12 (not placed): 1 / 0 / 1 / 1
+  SUS | OCD-like bacterial (not placed): 2 / 0 / 2 / 1
+  SUS | OCD-like, outside T-DNA sus clade: 5 / 5 / 5 / 3
+  SUS | not a homolog: 4 / 0 / 4 / 3
+  SUS | sus-like (T-DNA type): 58 / 36 / 33 / 31
+  SUS | sus-like (T-DNA type) (not placed): 47 / 0 / 20 / 19
+
+Four paper lineages, tree-placed + listed non-tree (as in report_A): outside Boletales
+  sus-like (T-DNA type): 58 loci, 36 intact, 33 genomes, 31 species; outside Boletales: 1 loci, 1 species
+      Mortierella alpina [Mortierellales] pseudogene_like x1
+  cus-like (T-DNA type): 50 loci, 34 intact, 36 genomes, 22 species; outside Boletales: 24 loci, 12 species
+      Amanita brunnescens [Agaricales] intact x1
+      Cytidiella melzeri [Polyporales] intact x1
+      Cytidiella melzeri [Polyporales] pseudogene_like x2
+      Epicoccum latusicollum [Pleosporales] intact x1
+      Epicoccum latusicollum [Pleosporales] pseudogene_like x1
+      Epicoccum sorghinum [Pleosporales] intact x1
+      Hebeloma velutipes [Agaricales] intact x1
+      Lepiota venenata [Agaricales] pseudogene_like x1
+      Monosporozyma servazzii [Saccharomycetales] intact x9
+      Mycena alexandri [Agaricales] intact x1
+      Mycena metata [Agaricales] intact x1
+      Mycena rebaudengoi [Agaricales] intact x2
+      Phoma sp. [Pleosporales] intact x1
+      Septoria petroselini [Mycosphaerellales] intact x1
+  acc-type GDPD: 60 loci, 3 intact, 30 genomes, 24 species; outside Boletales: 1 loci, 1 species
+      Leucocoprinus sp. [Agaricales] pseudogene_like x1
+  pKerr14a-type acs-like: 19 loci, 6 intact, 8 genomes, 8 species; outside Boletales: 0 loci, 0 species
+
+Taxonomy: loci without family_tax: 27; without division: 5
+Species via mash clusters (Boletales): 574; Boletales loci without cluster: 0

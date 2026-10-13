@@ -1,0 +1,173 @@
+# ============================================================================
+# GMO loci pipeline — configuration
+# Все пути относительно project_dir, если не абсолютные.
+# ============================================================================
+project_dir: ${GMO_ROOT}
+
+inputs:
+  blast_stats: data/tsv/merged/all_blast_stats.tsv      # все tblastn/blastp хиты (3760 строк), источник реестра локусов
+  rep_seqs_dir: data/tsv/rep_seqs                        # <FAM>_rep_seqs.tsv: колонки Subj_Accession_agro / Subj_Name_agro → ярус 2
+  curated_dir: analysis/curated                          # <FAM>.fasta после карантина: Agro_/Plant_ заголовки → ярус 1
+  quarantine_tsv: analysis/quarantine/quarantine.tsv     # исключённые последовательности (не используются как направляющие)
+
+out_dir: analysis/loci_pipeline                          # всё создаётся здесь: registry/ contigs/ guides/ round<N>/
+
+families: [ACS, CUS, SUS, ORF358]
+
+conda_env: annot                                         # miniprot, augustus, diamond, hmmer, mafft, biopython, entrez-direct, ncbi-datasets-cli
+ncbi_api_key_env: NCBI_API_KEY                           # если переменная задана — 10 req/s, иначе 3 req/s
+
+registry:
+  merge_gap: 5000            # HSP одного семейства на одном контиге ближе этого расстояния = один локус (интроны грибов ≤ 3 кб)
+
+fetch:
+  contig_full_max: 1000000   # контиг ≤ 1 Мб качаем целиком (контекст, GC-профиль, границы островков)
+  flank_context: 100000      # для контигов > 1 Мб: окно ±100 кб вокруг локуса
+  window_is_context: true    # AUGUSTUS и соседи считаются на скачанной последовательности (см. annotate.context_max)
+
+guides:
+  # T1 references to EXCLUDE from guides and from the family HMM (kept in guides/<FAM>_T1_excluded.faa as tree outgroups).
+  # Matched as substrings of the curated fasta header. Decision 2026-09-05: these four SUS "Agro" refs are chromosomal
+  # ornithine cyclodeaminases (0.26-0.33 identity to pRi T-DNA sus, up to 0.54 to chromosomal OCD), not T-DNA sus.
+  exclude_T1:
+    SUS: [Agro_MFA7416147, Agro_MBA3043409, Agro_WP_084365946, Agro_WP_111794418]
+    # ACS 2026-09-05: Plant_CAM6009234 (Sphagnum "unnamed protein": 4 weak nr hits, no Pfam), Plant_PON40589 (159-aa fragment,
+    # only self-hit), Agro_WP_111794344 (PI-PLC/GDPD present in many A. tumefaciens strains = chromosomal; <=0.29 to every T-DNA
+    # lineage; nr hits = chromosomal GDPD 66%, acs only 24%) -> outgroup pool. Rule: a reference is excluded when it is equally far
+    # from ALL T-DNA lineages, its nr hits carry no annotated T-DNA genes and its context is chromosomal — NOT because it is a singleton.
+    # Plant_PON40589 (Parasponia) REINSTATED 2026-09-05: acs-HMM 39.8 бит (E 1e-13), OUTGROUP 0; лежит в cT-DNA-кластере scf00435
+    # рядом с тремя SUS-фрагментами (PON40587/91/93, E 1e-48…1e-65) — настоящий фрагмент cT-DNA acs, не мусор.
+    ACS: [Plant_CAM6009234, Agro_WP_111794344]
+    # CUS 2026-09-05: Agro_WP_128406407 (138 aa, no Pfam, chromosomal Rhizobium hypothetical, singleton)
+    CUS: [Agro_WP_128406407]
+    ORF358: []
+  # Subgroups (2026-09-05, single-linkage >=0.45 normalised identity over T1+T2). One HMM per subgroup; every model is assigned
+  # to the best-scoring subgroup. T1 members listed by header substring; T2 members join the subgroup of their closest T1.
+  # A family without an entry is one subgroup named after the family.
+  subgroups:
+    ACS:
+      acs:       [che1CaTE-Acs, AIK35201, QTG17267, WP_209160150, GMD67474, WML69206, WP_192068445, PON40589]   # classic pTi acs + plant cT-DNA Acs (PON40589 = Parasponia cT-DNA fragment 159 aa);
+                 # WP_192068445 = acs periphery (0.45 to WP_209160150; nr hits: GDPD-family + agrocinopine synthase Agrobacterium 42-45%)
+      # gdpd_meso: PI-PLC/GDPD genes sitting in acc-like CATABOLIC loci (GDPD accF + inositol monophosphatase accG + carbohydrate ABC
+      # transporter + DeoR/GlpR regulator) in Mesorhizobium GbtcB19 (WP_217577425) and Agrobacterium sp. SOY23 (WP_269347785) —
+      # i.e. NOT T-DNA acs but the agrocinopine-catabolism-associated lineage; closest bacterial relatives of Boletales ACS (58-65%).
+      # WP_269347785 kept after with/without test 2026-09-05: raises scores of true fungal members (Rhizopogon 38->51, Mycena 85->102),
+      # negatives stay crushed by OUTGROUP (yeast Gde1p 16->26 vs OUTGROUP 623).
+      gdpd_meso: [WP_217577425, WP_269347785]   # Mesorhizobium/Agrobacterium PI-PLC/GDPD of acc-like loci; closest bacterial relatives of Boletales
+                 # ACS (58-65%); WP_269347785 (A. sp. SOY23) = periphery: 0.40 to the group, nr hits Mesorhizobium GDPD 46%, Boletales 38%
+      kerr14:    [WP_280174108]     # A. tumefaciens Kerr14 "putative agrocinopine synthase" lineage (CUX65485)
+    CUS:
+      cus:       [MED6115461, KAL3512627, WBO26547, KAK9667948, KAH7432836, tra3CaTG-Cus, WP_174037302, WP_233741845]
+      mis:       [VFQ61161, AIV42059, BAB16139, WP_174054202]          # mikimopine synthase lineage (riorf20)
+      rcorf12:   [WP_077768163]     # DUF3830 + Cucumopine_C, pRi2659 rcorf12 "cucumopine synthase-related"
+      cusrel181: [WP_010900213]     # 181-aa "cucumopine synthase-related protein", pRi1724 (NC_002575)
+  # Outgroup (decoy) HMMs, one per family: native fungal paralogs + chromosomal bacterial paralogs of the same fold.
+  # Stage 05 assigns every model to the best-scoring HMM among subgroups AND the outgroup; a model whose best HMM is the
+  # outgroup is 'not_homolog' even if a subgroup HMM also hits it. This is what keeps native yeast GDPD (Gde1p) or native
+  # OCD out of the T-DNA families without having to narrow the subgroup HMMs. Entries: header substrings of <FAM>_T1_excluded.faa
+  # and/or NCBI protein accessions (fetched).
+  outgroups:
+    # 2026-09-05 expanded from the acc-test tree: native fungal GDPD clade (no T-DNA/acc-locus refs inside), <=2 per fungal class
+    ACS: [Agro_WP_111794344, NP_015215.1, XP_001217593.1, XP_001823302.1, CAF9909976.1, KAI4140197.1, KIK69313.1, KAF5374590.1, KAF1343677.1, KAF2677707.1, XP_008715454.1, XP_040635025.1, MCJ1455451.1, TVY82334.1, KAB5525742.1, KAB5554542.1]
+    # SUS v1 (2026-09-05): chromosomal Rhizobiales OCD moved to their OWN subgroup (subgroups_extra.SUS.ocd_rhizobiales_chromosomal);
+    # OUTGROUP = distant OCD/mu-crystallin fold: native fungal OCD-like (from step-3 proteomes, <=1 per class), archaeal OCD, reductase
+    SUS: [WP_151986804.1, Agro_WP_111794418, KAF8552678.1, KAH0437978.1, KFH71693.1, XP_007840637.1, XP_056037437.1, WP_089777055.1, WP_062264854.1, WP_188602682.1]
+    CUS: [Agro_WP_128406407]     # DUF3830 family (bacterial + Clonostachys) — closest non-CUS relatives
+    ORF358: []
+  # Extra T1 references not present in analysis/curated (NCBI protein accessions, fetched; header T1|Plant_<acc>_<organism>).
+  # SUS 2026-09-05: Parasponia andersonii cT-DNA cluster scf00435 (JXTB01000435) — three SUS fragments next to the acs fragment PON40589.
+  extra_T1:
+    SUS: [PON40587.1, PON40591.1, PON40593.1]
+  # Additional lineages by NCBI accession -> own competitive subgroup (tier T2x). Selected 2026-09-05 from the nr neighbourhood
+  # (refset/neighbourhood/subjects_annotated.tsv, refset/outgroup_v1_selection.json): <=2 per genus, complete replicons preferred.
+  subgroups_extra:
+    SUS:
+      ocd_rhizobiales_chromosomal: [AUC13453.1, QDG94046.1, WP_126097880.1, WIE93331.1, WP_114836055.1, UXT93026.1, WP_069042703.1, WP_085857703.1, WP_026615224.1, WP_026619421.1, WP_228017358.1, WP_262294504.1, WP_210057129.1, WP_233954827.1, WP_037418621.1, WP_097540713.1, WP_114836055.1, MFA7416147.1, MBA3043409.1, WP_084365946.1]
+      ocd_other_bacteria: [WP_085545780.1, WP_329068487.1, APF35841.1, WP_250131643.1, HYH28366.1, WP_188326420.1, BFD90164.1, PZN56776.1, WP_206548719.1, WP_313720880.1, WP_127491873.1, WP_262165449.1, TMC60602.1, QOT73213.1]
+    CUS:
+      cus_actinobacteria: [WP_251093482.1, WSJ19217.1, WP_153263749.1, BFE35560.1, WP_093638342.1, WP_257486459.1, WP_014140113.1, WP_284528710.1, MBS1677225.1]
+      cus_betaproteobacteria: [WP_291962963.1, WP_011489047.1, WP_213324807.1, WP_018439688.1, KAF7962840.1, WP_060818168.1, WP_273996079.1]
+      cus_other_bacteria: [WP_203523976.1, WP_321980918.1, CAH1662349.1, WP_136987837.1, HNZ08283.1, MBI1778113.1, WP_010101086.1, HXX37684.1, WP_261231661.1, WP_218425845.1]
+  # Origin label per subgroup (written to loci_table.tsv column 'origin'): the paper separates T-DNA from other bacterial donors.
+  origin:
+    acs: T-DNA
+    kerr14: T-DNA_atypical_pKerr14a
+    gdpd_meso: catabolic_locus_acc_like
+    cus: T-DNA
+    mis: T-DNA
+    rcorf12: T-DNA
+    cusrel181: T-DNA
+    cus_actinobacteria: bacterial_nonRhizobiales
+    cus_betaproteobacteria: bacterial_nonRhizobiales
+    cus_other_bacteria: bacterial_nonRhizobiales
+    sus: T-DNA
+    ocd_rhizobiales_chromosomal: bacterial_chromosomal
+    ocd_other_bacteria: bacterial_other
+    orf358: T-DNA
+  tier2_min_identity: 0.40   # агро-хит из rep_seqs идёт в ярус 2, если ≥40% идентичен хотя бы одному белку яруса 1
+                             # (отсекает хромосомные паралоги того же фолда: OCD, редуктазы, TIR и т.п.)
+  tier3_min_identity: 0.30   # грибная модель идёт в ярус 3 только со статусом intact/pseudogene_like, HMM-pass и ≥30% к ярусу 1/2
+
+annotate:
+  flank_model: 15000         # окно для miniprot: HSP ± 15 кб (сам ген ≤ 3 кб)
+  context_max: 250000        # AUGUSTUS гоняем на всей скачанной последовательности, если она ≤ 250 кб, иначе ±100 кб
+  miniprot:
+    max_intron: 3000         # -G
+    threads: 2
+  augustus:
+    default_species: laccaria_bicolor
+    # Class (из таксономии blast_stats) → набор параметров AUGUSTUS
+    by_class:
+      Agaricomycetes: laccaria_bicolor
+      Dacrymycetes: laccaria_bicolor
+      Tremellomycetes: cryptococcus_neoformans_neoformans_B
+      Microbotryomycetes: ustilago_maydis
+      Pucciniomycetes: ustilago_maydis
+      Ustilaginomycetes: ustilago_maydis
+      Exobasidiomycetes: ustilago_maydis
+      Sordariomycetes: fusarium_graminearum
+      Dothideomycetes: botrytis_cinerea
+      Leotiomycetes: botrytis_cinerea
+      Eurotiomycetes: aspergillus_nidulans
+      Pezizomycetes: botrytis_cinerea
+      Xylonomycetes: botrytis_cinerea
+      Saccharomycetes: saccharomyces_cerevisiae_S288C
+      Mortierellomycetes: rhizopus_oryzae
+      Mucoromycetes: rhizopus_oryzae
+      Glomeromycetes: rhizopus_oryzae
+    by_division:             # если класс не в списке
+      Basidiomycota: laccaria_bicolor
+      Ascomycota: fusarium_graminearum
+      Mucoromycota: rhizopus_oryzae
+      Zoopagomycota: rhizopus_oryzae
+      Chytridiomycota: rhizopus_oryzae
+      Microsporidia: encephalitozoon_cuniculi_GB
+  neighbors:
+    min_multiexon_each_side: 3   # адаптивное окно: расширяем, пока с каждой стороны не набрано столько генов с ≥2 экзонами
+    steps_kb: [15, 50, 100]      # ступени расширения (последняя = до края скачанной последовательности)
+    gc_bin: 10000
+
+validate:
+  hmm_evalue: 1.0e-5         # hmmsearch порог для статуса «гомолог»
+  # Конкурентная схема: gap = score(лучшая подгруппа) - score(OUTGROUP). Эмпирика тест-100 + 474 NCBI-белка (2026-09-05):
+  # распределение gap бимодальное — <-50 бит (187 дрожжевых Gde1p и т.п.) и >+20 бит (настоящие кандидаты); между -12 и +20
+  # лежат только слабые с обеих сторон (оба скора 10-27 бит). 20 бит ≈ 10^6 отношения правдоподобий.
+  ambiguous_gap_bits: 20     # |gap| < 20 -> ambiguous (ни одна сторона не выигрывает уверенно)
+  min_score_bits: 30         # лучший скор подгруппы < 30 бит -> ambiguous даже при большом gap (OUTGROUP просто не сработал)
+  fragment_frac: 0.60        # белок короче 60% медианы направляющих яруса 1 → fragment
+  te_keywords: "transposase|integrase|retrotransposon|reverse transcriptase|gag-pol|polyprotein|helitron|MULE|hAT |Tc1|mariner|Gypsy|Copia|Ty3|LINE-1|transposon"
+
+diamond:
+  db: /shareDB/blastdb/nr/diamond/nr_10_2025.dmnd        # общая база кластера (Oct 2025), БЕЗ таксономии → организм из stitle
+  threads: 64
+  block_size: 24             # -b: чем больше, тем меньше проходов по 371 ГБ базы; ~250-300 ГБ RAM
+  index_chunks: 1            # -c
+  max_target_seqs: 10
+  evalue: 1.0e-5
+  sensitivity: ""            # "" = default; "--sensitive" только для целевых генов при необходимости
+
+lsf:
+  queue: short
+  mem_per_slot_mb: 4000
+  annotate_concurrency: 150  # %N в job array
+  diamond_mem_per_slot_mb: 5000

@@ -1,0 +1,117 @@
+protein	organism	genus	gene	base_fate	o_bact_org	rhizobial_best_bact	o_bact_pid	o_top50_bact	o_h	pident_seed	cov_seed	m_contam_pid	m_A_hits	m_A_margin_bits	m_B_ident	m_B_cov	m_B_ratio	B_own_pass	m_C_ident	grid_frac_changed
+KAH7120428.1	Dactylonectria estremocensis	Dactylonectria	chs	B	Agrobacterium vitis	True	45.0	50	296.0	44.0	0.978	-45.0	15	246.0	9.0	0.578	0.078	True	-5.0	0.5
+KAM5380328.1	Fusarium nematophilum	Fusarium	chs	B	Agrobacterium larrymoorei	True	62.9	50	491.0	60.2	0.939	-27.1	15	441.0	25.200000000000003	0.539	0.057	True	12.899999999999999	0.0
+KAM5345661.1	Fusarium nematophilum	Fusarium	chs	B	Agrobacterium larrymoorei	True	62.9	50	491.0	60.2	0.939	-27.1	15	441.0	25.200000000000003	0.539	0.057	True	12.899999999999999	0.0
+RKL16097.1	Fusarium oxysporum	Fusarium	chs	B	Agrobacterium larrymoorei	True	62.7	49	157.0	61.9	0.29	-27.299999999999997	14	107.0	26.9	-0.11	0.087	False	12.700000000000003	0.0
+RKL01087.1	Fusarium oxysporum	Fusarium	chs	B	Agrobacterium larrymoorei	True	62.7	49	157.0	61.9	0.29	-27.299999999999997	14	107.0	26.9	-0.11	0.087	False	12.700000000000003	0.0
+RKL51690.1	Fusarium oxysporum	Fusarium	chs	B	Agrobacterium larrymoorei	True	61.9	50	153.0	61.0	0.29	-28.1	15	103.0	26.0	-0.11	0.085	False	11.899999999999999	0.0
+KAF5258030.1	Fusarium oxysporum	Fusarium	chs	B	Agrobacterium larrymoorei	True	62.7	49	157.0	61.9	0.29	-27.299999999999997	14	107.0	26.9	-0.11	0.087	False	12.700000000000003	0.0
+KAJ4123352.1	Fusarium oxysporum	Fusarium	chs	B	Agrobacterium larrymoorei	True	61.9	50	153.0	61.0	0.29	-28.1	15	103.0	26.0	-0.11	0.085	False	11.899999999999999	0.0
+KAJ4275658.1	Fusarium oxysporum	Fusarium	chs	B	Agrobacterium larrymoorei	True	61.9	50	153.0	61.0	0.29	-28.1	15	103.0	26.0	-0.11	0.085	False	11.899999999999999	0.0
+KAJ9415499.1	Fusarium oxysporum	Fusarium	chs	B	Agrobacterium vitis	True	50.3	50	288.0	50.3	0.713	-39.7	15	238.0	15.299999999999997	0.313	0.1	True	0.29999999999999716	0.0
+KAM5385907.1	Fusarium oxysporum	Fusarium	chs	B	Agrobacterium larrymoorei	True	61.9	50	153.0	61.0	0.29	-28.1	15	103.0	26.0	-0.11	0.085	False	11.899999999999999	0.0
+EWZ31120.1	Fusarium oxysporum Fo47	Fusarium	chs	B	Agrobacterium larrymoorei	True	62.7	49	156.0	61.9	0.29	-27.299999999999997	14	106.0	26.9	-0.11	0.087	False	12.700000000000003	0.0
+QKD61567.2	Fusarium oxysporum Fo47	Fusarium	chs	B	Agrobacterium larrymoorei	True	62.7	49	156.0	61.9	0.29	-27.299999999999997	14	106.0	26.9	-0.11	0.087	False	12.700000000000003	0.0
+EWY82264.1	Fusarium oxysporum NRRL 32931	Fusarium	chs	B	Agrobacterium vitis	True	54.2	50	217.0	54.2	0.499	-35.8	15	167.0	19.200000000000003	0.099	0.1	True	4.200000000000003	0.0
+XP_031031182.1	Fusarium oxysporum NRRL 32931	Fusarium	chs	B	Agrobacterium vitis	True	54.2	50	217.0	54.2	0.499	-35.8	15	167.0	19.200000000000003	0.099	0.1	True	4.200000000000003	0.0
+KAI3576115.1	Fusarium oxysporum f. sp. albedinis	Fusarium	chs	B	Agrobacterium vitis	True	49.0	50	283.0	49.0	0.713	-41.0	15	233.0	14.0	0.313	0.1	True	-1.0	0.0
+KAJ0143367.1	Fusarium oxysporum f. sp. albedinis	Fusarium	chs	B	Agrobacterium vitis	True	54.7	50	223.0	54.7	0.499	-35.3	15	173.0	19.700000000000003	0.099	0.1	True	4.700000000000003	0.0
+KAK2472897.1	Fusarium oxysporum f. sp. albedinis	Fusarium	chs	B	Agrobacterium vitis	True	49.0	50	283.0	49.0	0.713	-41.0	15	233.0	14.0	0.313	0.1	True	-1.0	0.0
+RKK51892.1	Fusarium oxysporum f. sp. cepae	Fusarium	chs	B	Agrobacterium larrymoorei	True	61.0	50	153.0	60.2	0.29	-29.0	15	103.0	25.200000000000003	-0.11	0.087	False	11.0	0.0
+RKK08570.1	Fusarium oxysporum f. sp. cepae	Fusarium	chs	B	Agrobacterium larrymoorei	True	61.0	50	153.0	60.2	0.29	-29.0	15	103.0	25.200000000000003	-0.11	0.087	False	11.0	0.0
+RKK49538.1	Fusarium oxysporum f. sp. cepae	Fusarium	chs	B	Agrobacterium larrymoorei	True	61.0	50	153.0	60.2	0.29	-29.0	15	103.0	25.200000000000003	-0.11	0.087	False	11.0	0.0
+KNB14377.1	Fusarium oxysporum f. sp. lycopersici 4287	Fusarium	chs	B	Agrobacterium vitis	True	47.2	50	266.0	46.9	0.713	-42.8	15	216.0	11.899999999999999	0.313	0.094	True	-2.799999999999997	0.0
+XP_018252422.1	Fusarium oxysporum f. sp. lycopersici 4287	Fusarium	chs	B	Agrobacterium vitis	True	47.2	50	266.0	46.9	0.713	-42.8	15	216.0	11.899999999999999	0.313	0.094	True	-2.799999999999997	0.0
+EWZ80709.1	Fusarium oxysporum f. sp. lycopersici MN25	Fusarium	chs	B	Agrobacterium larrymoorei	True	62.7	49	156.0	61.9	0.29	-27.299999999999997	14	106.0	26.9	-0.11	0.087	False	12.700000000000003	0.0
+KAH7466404.1	Fusarium oxysporum f. sp. matthiolae	Fusarium	chs	B	Agrobacterium vitis	True	54.7	50	223.0	54.7	0.499	-35.3	15	173.0	19.700000000000003	0.099	0.1	True	4.700000000000003	0.0
+EXK36477.1	Fusarium oxysporum f. sp. melonis 26406	Fusarium	chs	B	Agrobacterium vitis	True	53.7	50	213.0	53.7	0.499	-36.3	15	163.0	18.700000000000003	0.099	0.1	True	3.700000000000003	0.0
+RYC87345.1	Fusarium oxysporum f. sp. narcissi	Fusarium	chs	B	Agrobacterium larrymoorei	True	61.0	50	153.0	60.2	0.29	-29.0	15	103.0	25.200000000000003	-0.11	0.087	False	11.0	0.0
+PCD24768.1	Fusarium oxysporum f. sp. radicis-cucumerinum	Fusarium	chs	B	Agrobacterium larrymoorei	True	62.7	49	157.0	61.9	0.29	-27.299999999999997	14	107.0	26.9	-0.11	0.087	False	12.700000000000003	0.0
+EXL52446.1	Fusarium oxysporum f. sp. radicis-lycopersici 26381	Fusarium	chs	B	Agrobacterium larrymoorei	True	62.7	49	156.0	61.9	0.29	-27.299999999999997	14	106.0	26.9	-0.11	0.087	False	12.700000000000003	0.0
+KAL6359175.1	Fusarium phalaenopsidis	Fusarium	chs	B	Agrobacterium larrymoorei	True	61.6	50	498.0	60.2	0.943	-28.4	15	448.0	25.200000000000003	0.543	0.077	True	11.600000000000001	0.0
+UPK93317.1	Fusarium solani-melongenae	Fusarium	chs	B	Agrobacterium larrymoorei	True	60.3	50	486.0	59.1	0.943	-29.700000000000003	15	436.0	24.1	0.543	0.08	True	10.299999999999997	0.0
+KAI8662381.1	Fusarium sp. Ph1	Fusarium	chs	B	Agrobacterium larrymoorei	True	61.3	50	494.0	59.9	0.943	-28.700000000000003	15	444.0	24.9	0.543	0.077	True	11.299999999999997	0.0
+EEU41297.1	Fusarium vanettenii 77-13-4	Fusarium	chs	B	Agrobacterium larrymoorei	True	61.9	50	496.0	60.2	0.943	-28.1	15	446.0	25.200000000000003	0.543	0.073	True	11.899999999999999	0.0
+KAF8736273.1	Amanita brunnescens Koide BX004	Amanita	cus	B	Labrys wisconsinensis	True	58.6	48	220.0	56.3	0.997	-31.4	13	170.0	21.299999999999997	0.597	0.061	True	8.600000000000001	0.3333333333333333
+KAO1061018.1	Hebeloma velutipes	Hebeloma	cus	B	Allorhizobium ampelinum	True	56.4	49	192.0	56.1	0.924	-33.6	14	142.0	21.1	0.524	0.095	True	6.399999999999999	0.3333333333333333
+CAL9735043.1	Monosporozyma servazzii	Monosporozyma	cus	B	Devosia sp. YIM 151766	True	54.9	48	102.0	57.4	1.0	-35.1	13	52.0	22.4	0.6	0.146	True	4.899999999999999	0.0
+KAJ7039838.1	Mycena alexandri	Mycena	cus	B	Allorhizobium ampelinum	True	60.2	47	194.0	61.7	0.968	-29.799999999999997	12	144.0	26.700000000000003	0.568	0.125	True	10.200000000000003	0.0
+KAJ7770518.1	Mycena metata	Mycena	cus	B	Allorhizobium ampelinum	True	62.7	48	204.0	62.4	0.904	-27.299999999999997	13	154.0	27.4	0.504	0.095	True	12.700000000000003	0.0
+KAJ7289093.1	Mycena rebaudengoi	Mycena	cus	B	Allorhizobium ampelinum	True	60.9	47	182.0	61.8	0.978	-29.1	12	132.0	26.799999999999997	0.578	0.115	True	10.899999999999999	0.0
+KAG8213183.1	Butyriboletus roseoflavus	Butyriboletus	nos	B	Agrobacterium tumefaciens	True	39.1	42	74.0	40.0	0.67	-50.9	7	24.0	5.0	0.27	0.123	True	-10.899999999999999	0.52
+KAM7213959.1	Rhypophila decipiens	Rhypophila	nos	B	Agrobacterium vitis	True	34.3	49	68.0	34.3	0.823	-55.7	14	18.0	-0.7000000000000028	0.423	0.1	False	-15.700000000000003	0.75
+KAK4208163.1	Rhypophila decipiens	Rhypophila	nos	B	Sinorhizobium meliloti	True	33.9	49	75.0	33.3	0.918	-56.1	14	25.0	-1.7000000000000028	0.518	0.082	False	-16.1	0.6833333333333333
+KAM7187585.1	Rhypophila sp. PSN 637	Rhypophila	nos	B	Agrobacterium tumefaciens	True	39.5	45	99.0	36.0	0.939	-50.5	10	49.0	1.0	0.539	0.011	True	-10.5	0.6166666666666667
+KAF9232081.1	Melanogaster broomeanus	Melanogaster	sus	B	Rhizobium rhizogenes	True	40.8	37	105.0	41.5	0.497	-49.2	2	55.0	6.5	0.097	0.117	True	-9.200000000000003	0.775
+KAG6371153.1	Boletus reticuloceps	Boletus	acs,acs_pKerr14a	C	Mesorhizobium sp. GbtcB19	True	64.8	48	323.1	31.9	0.808	-25.200000000000003	13	273.1	-3.1000000000000014	0.408	-0.408	False	14.799999999999997	0.0
+KAG8213181.1	Butyriboletus roseoflavus	Butyriboletus	acs,acs_pKerr14a	C	Mesorhizobium sp. GbtcB19	True	57.5	50	288.4	28.5	0.822	-32.5	15	238.39999999999998	-6.5	0.422	-0.404	False	7.5	0.2
+KAF4581365.1	Pleurotus pulmonarius	Pleurotus	acs,acs_pKerr14a	C	Ensifer sp. Root31	True	51.0	40	318.4	27.4	0.622	-39.0	5	268.4	-7.600000000000001	0.222	-0.363	False	1.0	0.52
+KAL4260645.1	Pleurotus pulmonarius	Pleurotus	acs,acs_pKerr14a	C	Ensifer sp. Root31	True	51.0	40	318.4	27.4	0.622	-39.0	5	268.4	-7.600000000000001	0.222	-0.363	False	1.0	0.52
+GKU08709.1	Fusarium langsethiae	Fusarium	nos	C	Agrobacterium larrymoorei	True	78.0	47	268.0	25.2	0.687	-12.0	12	218.0	-9.8	0.287	-0.577	False	28.0	0.0
+KPA35696.1	Fusarium langsethiae	Fusarium	ocs	C	Agrobacterium larrymoorei	True	79.1	49	257.0	21.8	0.749	-10.900000000000006	14	207.0	-13.2	0.349	-0.624	False	29.099999999999994	0.0
+KAK0366082.1	Friedmanniomyces endolithicus	Friedmanniomyces	chs	contamination	Sphingobium yanoikuyae	False	99.7	50	775.0	25.6	0.894	9.700000000000003	15	725.0	-9.399999999999999	0.494	-0.643	False		0.0
+KAI7253817.1	Hortaea werneckii	Hortaea	chs	contamination	Paenibacillus sp. IHB B 3415	False	97.8	50	255.0	24.7	0.912	7.799999999999997	15	205.0	-10.3	0.512	-0.647	False		0.0
+KAJ8143645.1	Metschnikowia pulcherrima	Metschnikowia	chs	contamination	Cellulosimicrobium cellulans	False	96.4	49	727.0	33.3	0.376	6.400000000000006	14	677.0	-1.7000000000000028	-0.024	-0.555	False		0.0
+KAF9122689.1	Mortierella sp. GBA39	Mortierella	chs	contamination	Paenibacillus sp. SSG-1	False	99.7	50	194.0	22.1	0.919	9.700000000000003	15	144.0	-12.899999999999999	0.519	-0.678	False		0.0
+KAG1453357.1	Rhizopus arrhizus	Rhizopus	chs	contamination	Achromobacter sp. Bel	False	99.6	50	349.0	30.5	0.373	9.599999999999994	15	299.0	-4.5	-0.027	-0.594	False		0.0
+KAG1203422.1	Rhizopus arrhizus	Rhizopus	chs	contamination	Achromobacter sp. Bel	False	99.7	50	637.0	31.2	0.373	9.700000000000003	15	587.0	-3.8000000000000007	-0.027	-0.587	False		0.0
+KAG1438974.1	Rhizopus arrhizus	Rhizopus	mas1	contamination	Achromobacter marplatensis	False	99.3	50	282.0	40.7	0.321	9.299999999999997	15	232.0	5.700000000000003	-0.079	-0.49	False		0.0
+KAG1254624.1	Rhizopus microsporus	Rhizopus	mas1	contamination	Achromobacter marplatensis	False	100.0	50	460.0	39.5	0.505	10.0	15	410.0	4.5	0.105	-0.505	False		0.0
+KAF9139135.1	Mortierella sp. GBA39	Mortierella	mas2	contamination	Paenibacillus favisporus	False	90.5	50	583.0	22.2	0.736	0.5	15	533.0	-12.8	0.336	-0.655	False		0.0
+KAH0437978.1	Aureobasidium melanogenum	Aureobasidium	sus	contamination	Paraburkholderia fungorum	False	99.5	50	2221.0	30.3	0.538	9.5	15	2171.0	-4.699999999999999	0.138	-0.595	False		0.0
+KAG1254267.1	Rhizopus arrhizus	Rhizopus	vis	contamination	Achromobacter marplatensis	False	99.4	50	322.0	29.9	0.422	9.400000000000006	15	272.0	-5.100000000000001	0.022	-0.599	False		0.0
+KAI0199099.1	Astrocystis sublimbata	Astrocystis	acs	marginal	Agrobacterium larrymoorei	True	31.7	10	38.0	22.7	0.741	-58.3	-25	-12.0	-12.3	0.341	-0.184	False	-18.3	0.0
+KAJ7464060.1	Mycena latifolia	Mycena	acs,acs_pKerr14a	marginal	Rhizobium	True	30.4	43	1.0	33.7	0.607	-59.6	8	-49.0	-1.2999999999999972	0.207	0.209	False	-19.6	0.0
+CAG8455553.1	Ambispora gerdemannii	Ambispora	chs	marginal	endosymbiont GvMRE of Glomus versiforme	False	67.8	46	38.0	27.9	0.548	-22.200000000000003	11	-12.0	-7.100000000000001	0.148	-0.488	False		0.4
+KAE8341690.1	Aspergillus arachidicola	Aspergillus	chs	marginal	Neorhizobium galegae	True	45.4	49	5.0	22.0	0.919	-44.6	14	-45.0	-13.0	0.519	-0.415	False	-4.600000000000001	0.0
+RAL15815.1	Aspergillus homomorphus CBS 101889	Aspergillus	chs	marginal	Neorhizobium galegae	True	53.1	50	28.0	24.2	0.926	-36.9	15	-22.0	-10.8	0.526	-0.444	False	3.1000000000000014	0.2
+KAA8645324.1	Aspergillus tanneri	Aspergillus	chs	marginal	Neorhizobium galegae	True	55.2	49	2.0	22.0	0.916	-34.8	14	-48.0	-13.0	0.516	-0.501	False	5.200000000000003	0.0
+THC92788.1	Aspergillus tanneri	Aspergillus	chs	marginal	Xaviernesmea oryzae	False	49.7	48	1.0	25.9	0.41	-40.3	13	-49.0	-9.100000000000001	0.01	-0.379	False		0.0
+CAH1755682.1	Entrophospora sp. SA101	Entrophospora	chs	marginal	Candidatus Moeniiplasma glomeromycotorum	False	71.6	32	4.0	29.5	0.354	-18.400000000000006	-3	-46.0	-5.5	-0.046	-0.488	False		0.0
+KAJ6784079.1	Aphanocladium album	Aphanocladium	mas1	marginal	Streptomyces sp. NBC_01356	False	62.8	34	8.0	35.5	0.423	-27.200000000000003	-1	-42.0	0.5	0.023	-0.335	False		0.0
+OKL59002.1	Talaromyces atroroseus	Talaromyces	mas1	marginal	Acinetobacter pittii	False	72.1	1	1.0	36.4	0.421	-17.900000000000006	-34	-49.0	1.3999999999999986	0.021	-0.395	False		0.0
+EED24058.1	Talaromyces stipitatus ATCC 10500	Talaromyces	mas1	marginal	Acinetobacter pittii	False	73.2	1	6.0	36.5	0.421	-16.799999999999997	-34	-44.0	1.5	0.021	-0.401	False		0.0
+KAN1538006.1	Trichosporon ovoides	Trichosporon	mas1	marginal	Pararhodospirillum oryzae	False	62.0	50	23.0	35.3	0.426	-28.0	15	-27.0	0.29999999999999716	0.026	-0.331	False		0.2
+PMB73139.1	Beauveria bassiana	Beauveria	nos	marginal	Bradyrhizobium sp. SZCCHNS3002	True	41.3	22	17.0	29.1	0.738	-48.7	-13	-33.0	-5.899999999999999	0.338	-0.195	False	-8.700000000000003	0.0
+KAM3546940.1	Beauveria bassiana	Beauveria	nos	marginal	Bradyrhizobium sp. SZCCHNS3002	True	41.6	22	17.0	29.1	0.738	-48.4	-13	-33.0	-5.899999999999999	0.338	-0.2	False	-8.399999999999999	0.0
+KAM0666636.1	Beauveria bassiana	Beauveria	nos	marginal	Bradyrhizobium sp. SZCCHNS3002	True	41.0	42	9.0	28.6	0.738	-49.0	7	-41.0	-6.399999999999999	0.338	-0.202	False	-9.0	0.0
+PQK08802.1	Beauveria bassiana	Beauveria	nos	marginal	Bradyrhizobium sp. SZCCHNS3002	True	41.6	24	12.0	28.6	0.738	-48.4	-11	-38.0	-6.399999999999999	0.338	-0.213	False	-8.399999999999999	0.0
+KAM3535648.1	Beauveria bassiana	Beauveria	nos	marginal	Bradyrhizobium sp. SZCCHNS3002	True	41.6	22	15.0	28.2	0.84	-48.4	-13	-35.0	-6.800000000000001	0.44	-0.222	False	-8.399999999999999	0.0
+KAM3532117.1	Beauveria bassiana	Beauveria	nos	marginal	Bradyrhizobium sp. SZCCHNS3002	True	41.0	34	5.0	28.1	0.738	-49.0	-1	-45.0	-6.899999999999999	0.338	-0.215	False	-9.0	0.0
+EJP68988.1	Beauveria bassiana ARSEF 2860	Beauveria	nos	marginal	Bradyrhizobium sp. SZCCHNRI1009	True	42.3	39	16.0	28.6	0.738	-47.7	4	-34.0	-6.399999999999999	0.338	-0.224	False	-7.700000000000003	0.0
+KGQ08844.1	Beauveria bassiana D1-5	Beauveria	nos	marginal	Bradyrhizobium sp. SZCCHNS3002	True	41.6	26	15.0	28.2	0.74	-48.4	-9	-35.0	-6.800000000000001	0.34	-0.222	False	-8.399999999999999	0.0
+KAM3507744.1	Beauveria gryllotalpidicola	Beauveria	nos	marginal	Bradyrhizobium sp. SZCCHNS3002	True	40.5	32	15.0	29.7	0.738	-49.5	-3	-35.0	-5.300000000000001	0.338	-0.167	False	-9.5	0.0
+KAM3484578.1	Beauveria namnaoensis	Beauveria	nos	marginal	Bradyrhizobium sp. SZCCHNS3002	True	41.6	28	14.0	29.3	0.738	-48.4	-7	-36.0	-5.699999999999999	0.338	-0.196	False	-8.399999999999999	0.0
+KAM3494973.1	Beauveria namnaoensis	Beauveria	nos	marginal	Bradyrhizobium sp. SZCCHNS3002	True	41.6	28	14.0	29.3	0.738	-48.4	-7	-36.0	-5.699999999999999	0.338	-0.196	False	-8.399999999999999	0.0
+KAM3467039.1	Beauveria neobassiana	Beauveria	nos	marginal	Bradyrhizobium sp. SZCCHNS3002	True	41.9	25	16.0	28.5	0.74	-48.1	-10	-34.0	-6.5	0.34	-0.22	False	-8.100000000000001	0.0
+KAM3477698.1	Beauveria neobassiana	Beauveria	nos	marginal	Bradyrhizobium sp. SZCCHNS3002	True	41.9	25	16.0	28.5	0.74	-48.1	-10	-34.0	-6.5	0.34	-0.22	False	-8.100000000000001	0.0
+KAN5924949.1	Beauveria neobassiana	Beauveria	nos	marginal	Bradyrhizobium sp. SZCCHNS3002	True	41.9	25	14.0	28.5	0.74	-48.1	-10	-36.0	-6.5	0.34	-0.22	False	-8.100000000000001	0.0
+KAN4143432.1	Cordyceps cateniannulata	Cordyceps	nos	marginal	Bradyrhizobium oligotrophicum	True	42.7	32	18.0	29.1	0.738	-47.3	-3	-32.0	-5.899999999999999	0.338	-0.219	False	-7.299999999999997	0.0
+KAK3175812.1	Lecanicillium sp. MT-2017a	Lecanicillium	nos	marginal	unclassified Bradyrhizobium	False	46.3	22	1.6	29.4	0.328	-43.7	-13	-48.4	-5.600000000000001	-0.072	-0.265	False		0.0
+KAJ7458538.1	Mycena latifolia	Mycena	nos	marginal	unclassified Bradyrhizobium	False	49.9	44	32.0	32.0	0.785	-40.1	9	-18.0	-3.0	0.385	-0.259	False		0.32
+KAF2158142.1	Myriangium duriaei CBS 260.36	Myriangium	nos	marginal	Rhizobium sp.	True	30.2	23	5.0	22.4	0.782	-59.8	-12	-45.0	-12.600000000000001	0.382	-0.158	False	-19.8	0.0
+RDA94655.1	Ophiocordyceps camponoti-saundersi (nom. inval.)	Ophiocordyceps	nos	marginal	unclassified Bradyrhizobium	False	38.3	18	3.0	24.6	0.738	-51.7	-17	-47.0	-10.399999999999999	0.338	-0.258	False		0.0
+KAM3532117.1	Beauveria bassiana	Beauveria	ocs	marginal	Bradyrhizobium sp. SZCCHNS3002	True	41.0	34	5.0	22.9	0.997	-49.0	-1	-45.0	-12.100000000000001	0.597	-0.341	False	-9.0	0.0
+KAM0666636.1	Beauveria bassiana	Beauveria	ocs	marginal	Bradyrhizobium sp. SZCCHNS3002	True	41.0	42	9.0	23.7	0.997	-49.0	7	-41.0	-11.3	0.597	-0.322	False	-9.0	0.0
+KAN4143432.1	Cordyceps cateniannulata	Cordyceps	ocs	marginal	Bradyrhizobium oligotrophicum	True	42.7	32	18.0	25.5	0.997	-47.3	-3	-32.0	-9.5	0.597	-0.303	False	-7.299999999999997	0.0
+KAJ4397655.1	Gnomoniopsis smithogilvyi	Gnomoniopsis	ocs	marginal	unclassified Bradyrhizobium	False	35.4	22	6.0	26.9	0.989	-54.6	-13	-44.0	-8.100000000000001	0.589	-0.14	False		0.0
+KAH0962947.1	Hirsutella rhossiliensis	Hirsutella	ocs	marginal	Bradyrhizobium oligotrophicum	True	42.5	25	21.0	28.1	0.983	-47.5	-10	-29.0	-6.899999999999999	0.583	-0.239	False	-7.5	0.04
+EJP68988.1	Beauveria bassiana ARSEF 2860	Beauveria	vis	marginal	Bradyrhizobium sp. SZCCHNRI1009	True	42.3	39	16.0	23.1	0.997	-47.7	4	-34.0	-11.899999999999999	0.597	-0.354	False	-7.700000000000003	0.0
+KAM3507744.1	Beauveria gryllotalpidicola	Beauveria	vis	marginal	Bradyrhizobium sp. SZCCHNS3002	True	40.5	32	15.0	24.0	0.997	-49.5	-3	-35.0	-11.0	0.597	-0.307	False	-9.5	0.0
+KAG5951299.1	Claviceps sorghi	Claviceps	vis	marginal	unclassified Bradyrhizobium	False	39.3	23	5.0	27.5	0.992	-50.7	-12	-45.0	-7.5	0.592	-0.2	False		0.0
+ATY61894.1	Cordyceps militaris	Cordyceps	vis	marginal	Bradyrhizobium sp. SZCCHNRI20481	True	40.1	16	8.0	25.6	0.997	-49.9	-19	-42.0	-9.399999999999999	0.597	-0.262	False	-9.899999999999999	0.0
+EGX90707.1	Cordyceps militaris CM01	Cordyceps	vis	marginal	Bradyrhizobium sp. SRS-191	True	40.3	16	5.0	26.3	0.997	-49.7	-19	-45.0	-8.7	0.597	-0.247	False	-9.700000000000003	0.0
+KAJ7458538.1	Mycena latifolia	Mycena	vis	marginal	unclassified Bradyrhizobium	False	49.9	44	32.0	27.9	0.981	-40.1	9	-18.0	-7.100000000000001	0.581	-0.341	False		0.32
+KAG2362636.1	Suillus spraguei	Suillus	vis	marginal	Agrobacterium	True	31.3	3	5.0	31.3	0.808	-58.7	-32	-45.0	-3.6999999999999993	0.408	0.1	False	-18.7	0.0
+KXN89159.1	Leucoagaricus sp. SymC.cos	Leucoagaricus	acs,acs_pKerr14a	single	Rhizobium	True	30.3	50	64.0	30.1	0.912	-59.7	15	14.0	-4.899999999999999	0.512	0.093	False	-19.7	0.5
+BEJ12881.1	Cutaneotrichosporon sp. HIS471	Cutaneotrichosporon	mas1	single	Xanthomonadaceae bacterium	False	63.7	50	315.0	35.3	0.416	-26.299999999999997	15	265.0	0.29999999999999716	0.016	-0.346	False		0.0
+OXV05108.1	Elaphomyces granulatus	Elaphomyces	mas1	single	Ignavibacteria bacterium	False	75.3	49	379.0	28.0	0.437	-14.700000000000003	14	329.0	-7.0	0.037	-0.528	False		0.0
+KZZ90191.1	Moelleriella libera RCEF 2490	Moelleriella	sus	single	Paraburkholderia aspalathi	False	25.3	50	83.2	23.9	0.65	-64.7	15	33.2	-11.100000000000001	0.25	0.045	False		0.0
+ETS73999.1	Pestalotiopsis fici W106-1	Pestalotiopsis	sus	single	Roseibium aggregatum	True	35.8	50	144.0	29.9	0.92	-54.2	15	94.0	-5.100000000000001	0.52	-0.065	False	-14.200000000000003	0.0
+EEB09509.1	Schizosaccharomyces japonicus yFS275	Schizosaccharomyces	sus	single	Halomonas sp. LBP4	False	56.9	50	344.0	29.7	0.531	-33.1	15	294.0	-5.300000000000001	0.131	-0.378	False		0.0
+CAC19749.1	Schizosaccharomyces pombe	Schizosaccharomyces	sus	single	Halomonas anticariensis	False	54.2	50	322.0	25.9	0.536	-35.8	15	272.0	-9.100000000000001	0.136	-0.422	False		0.0
+KAL2315332.1	Schizosaccharomyces pombe	Schizosaccharomyces	sus	single	Halomonas anticariensis	False	54.2	50	322.0	25.4	0.536	-35.8	15	272.0	-9.600000000000001	0.136	-0.431	False		0.0
+CAN6596920.1	Schizosaccharomyces pombe	Schizosaccharomyces	sus	single	Halomonas anticariensis	False	54.2	50	321.0	26.5	0.536	-35.8	15	271.0	-8.5	0.136	-0.411	False		0.0
+NP_593514.1	Schizosaccharomyces pombe	Schizosaccharomyces	sus	single	Halomonas anticariensis	False	54.2	50	322.0	25.9	0.536	-35.8	15	272.0	-9.100000000000001	0.136	-0.422	False		0.0
+WWD22210.1	Kwoniella shandongensis	Kwoniella	vis	single	Bosea sp. (in: a-proteobacteria)	True	42.5	41	66.0	22.3	0.953	-47.5	6	16.0	-12.7	0.553	-0.375	False	-7.5	0.616
+KAG1458480.1	Rhizopus arrhizus	Rhizopus	vis	single	Luminiphilus sp.	False	60.8	50	475.0	29.9	0.603	-29.200000000000003	15	425.0	-5.100000000000001	0.203	-0.408	False		0.0

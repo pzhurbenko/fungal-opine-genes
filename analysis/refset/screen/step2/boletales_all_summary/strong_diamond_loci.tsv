@@ -1,0 +1,25 @@
+gca	organism	contig	contig_len	start	end	strand	subject	cat	lineage	pident	subj_cov
+GCA_002994855.1	Rhizopogon sp. AM-2018a	PVXZ01006661.1	1582	664	1181	-	WP_474368109.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|ABC_transporter_ATP-binding_protein	opine_related		45.0	0.60
+GCA_002994855.1	Rhizopogon sp. AM-2018a	PVXZ01008953.1	833	9	537	-	WP_474368109.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|ABC_transporter_ATP-binding_protein	opine_related		52.2	0.56
+GCA_002995455.1	Rhizopogon fuscorubens	PVYL01017565.1	1009	18	773	+	WP_474368109.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|ABC_transporter_ATP-binding_protein	opine_related		48.2	0.74
+GCA_003316505.1	Suillus alpinus	QFEX01000699.1	29650	28997	29518	+	WP_474368109.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|ABC_transporter_ATP-binding_protein	opine_related		45.7	0.57
+GCA_016584345.1	Suillus ampliporus	JABCPV010000034.1	283672	9652	10209	+	WP_474368109.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|ABC_transporter_ATP-binding_protein	opine_related		47.6	0.59
+GCA_016618355.2	Astraeus odoratus	JADGIP010000006.1	104900	9297	10675	+	WP_060716474.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|amino_acid_ABC_transporter_ATP-binding_p	opine_related		54.2	1.00
+GCA_016618355.2	Astraeus odoratus	JADGIP010000020.1	82610	40832	42634	-	AAZ50437.1|opine_related|DQ058764.1|Agrobacterium_tumefaciens|mocB|MocB	opine_related	mocB	58.7	0.99
+GCA_016618355.2	Astraeus odoratus	JADGIP010000024.1	79995	77570	78559	+	AAZ50438.1|opine_related|DQ058764.1|Agrobacterium_tumefaciens|mocA|MocA	opine_related	mocA	50.8	0.93
+GCA_016618355.2	Astraeus odoratus	JADGIP010000024.1	79995	64178	65553	-	WP_060716474.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|amino_acid_ABC_transporter_ATP-binding_p	opine_related		50.2	0.96
+GCA_016618355.2	Astraeus odoratus	JADGIP010000028.1	74503	38445	39161	-	WP_010974799.1|opine_related|NZ_CP048521.1|Agrobacterium_tumefaciens|-|ABC_transporter_ATP-binding_protein	opine_related		58.2	0.92
+GCA_016618355.2	Astraeus odoratus	JADGIP010000028.1	74503	39206	39964	-	WP_010974869.1|opine_related|NZ_CP048521.1|Agrobacterium_tumefaciens|ssuC|aliphatic_sulfonate_ABC_transporter_perm	opine_related	ssuC	61.0	0.95
+GCA_016618355.2	Astraeus odoratus	JADGIP010000030.1	70351	56	796	-	WP_010974830.1|opine_related|NZ_CP048521.1|Agrobacterium_tumefaciens|nocP|nopaline_ABC_transporter_ATP-binding_pro	opine_related	nocP	62.8	0.96
+GCA_016618355.2	Astraeus odoratus	JADGIP010000050.1	58420	26552	27301	+	WP_060716491.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|amino_acid_ABC_transporter_ATP-binding_p	opine_related		50.0	0.99
+GCA_016618355.2	Astraeus odoratus	JADGIP010000054.1	12966	66	803	-	WP_060716474.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|amino_acid_ABC_transporter_ATP-binding_p	opine_related		52.0	0.95
+GCA_016618355.2	Astraeus odoratus	JADGIP010000075.1	48246	28018	29010	+	WP_010900226.1|opine_related|NC_002575.1|Martinezella_rhizogenes|-|ABC_transporter_ATP-binding_protein	opine_related		46.7	0.90
+GCA_016618355.2	Astraeus odoratus	JADGIP010000084.1	45870	28291	29358	+	WP_045022987.1|opine_related|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|ABC_transporter_ATP-binding_protein	opine_related		45.9	0.98
+GCA_016618355.2	Astraeus odoratus	JADGIP010000100.1	40835	11180	12247	+	WP_045022987.1|opine_related|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|ABC_transporter_ATP-binding_protein	opine_related		49.7	0.99
+GCA_016618355.2	Astraeus odoratus	JADGIP010000175.1	31228	21363	23162	+	WP_065698669.1|opine_related|NZ_NXEJ01000013.1|Agrobacterium_rosae|-|ABC_transporter_ATP-binding_protein	opine_related		56.9	0.96
+GCA_016618355.2	Astraeus odoratus	JADGIP010000707.1	12588	10048	10767	-	WP_060716474.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|amino_acid_ABC_transporter_ATP-binding_p	opine_related		54.6	0.95
+GCA_016618355.2	Astraeus odoratus	JADGIP010001163.1	7982	2022	3874	-	WP_065698669.1|opine_related|NZ_NXEJ01000013.1|Agrobacterium_rosae|-|ABC_transporter_ATP-binding_protein	opine_related		45.8	0.94
+GCA_038088915.1	Sutorius aff. eximius	JBBPJV010016819.1	462	187	453	+	WP_003150552.1|opine_related|NZ_CP007228.1|Agrobacterium_tumefaciens|merP|mercury_resistance_system_periplasmic_bi	opine_related	merP	58.4	0.98
+GCA_038094575.1	Phylloporus cf. nigrescens	JBBPTW010001200.1	6840	1889	2685	-	AAK90977.1|opine_related|AE007871.2|Agrobacterium_fabrum_str.|noxA|D-nopaline_dehydrogenase	opine_related	noxA	52.1	0.65
+GCA_038094715.1	Heimioporus punctisporus	JBBPUN010051723.1	330	42	263	+	AAZ50402.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|-|orf_Bo011	TDNA		50.0	0.55
+GCA_041722495.1	Boletaceae sp. TRTC157249	JBBPWM010055081.1	287	1	240	-	AAZ50402.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|-|orf_Bo011	TDNA		65.0	0.62

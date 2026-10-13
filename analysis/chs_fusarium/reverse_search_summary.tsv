@@ -1,0 +1,6 @@
+query	first_nonFusarium_rank	first_nonFusarium_org	pident	first_nonFusarium_fungus_rank	fungus	pident_fungus	first_bacterium_rank	bact	pident_bact	n_hits
+EEU41297.1	4	Agrobacterium larrymoorei	61.9	78	Dactylonectria estremocensis	44.2	4	Agrobacterium larrymoorei	61.9	100
+KAI8662381.1	4	Agrobacterium larrymoorei	61.3	76	Dactylonectria estremocensis	44.6	4	Agrobacterium larrymoorei	61.3	100
+KAM5380328.1	4	Agrobacterium larrymoorei	62.9	75	Dactylonectria estremocensis	44.9	4	Agrobacterium larrymoorei	62.9	100
+KNB14377.1	10	Agrobacterium vitis	47.2	47	Dactylonectria estremocensis	42.9	10	Agrobacterium vitis	47.2	55
+KAJ9415499.1	10	Agrobacterium vitis	50.3	48	Dactylonectria estremocensis	41.7	10	Agrobacterium vitis	50.3	55

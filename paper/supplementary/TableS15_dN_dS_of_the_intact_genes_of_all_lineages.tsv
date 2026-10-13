@@ -1,0 +1,11 @@
+gene_set	n_sequences	codons_strict	codons_le20pct_gaps	omega_M0_strict	omega_M0_le20pct_gaps	LRT_M7_vs_M8	p_M7_vs_M8	p_M8a_vs_M8	BEB_sites_P_gt_0.95	yn00_pairs_used	yn00_median_dNdS	yn00_median_dNdS_dS_le2	yn00_pairs_dS_gt2
+sus-like	31	85		0.24883		-0.00	1	1	0	464	0.290		
+cus-like (all intact copies)	27	97		0.16294		0.32	0.852	1	0	347	0.283		
+cus-like, outside Boletales (all intact copies)	20	247	299	0.10311	0.10218	1.39	0.498	0.389	0	179	0.202	0.235	120
+cus-like, outside Boletales (one copy per species)	12	247	290	0.10451	0.10658	-0.00	1	0.386	0	65	0.192	0.321	38
+chs-like	6	402	402	0.20514	0.20514	-0.00	1	1	0	13	0.199	0.199	0
+pKerr14a-type acs-like	6	99	219	0.64178	0.53676	4.99	0.0827	0.0259	1	15	0.575	0.575	0
+nos-subfamily opine dehydrogenase (Boletales)	4	274	274	0.80663	0.80663	8.16	0.0169	0.00451	0	5	0.768	0.768	0
+odh island: odh	5	324	324	0.48413	0.48413	-0.00	1	1	0	7	0.433	0.433	0
+odh island: pepP	2	383	383							1	0.137	0.137	0
+odh island: orf3	3	258	258							2	0.660	0.660	0

@@ -1,0 +1,24 @@
+fam	ref	len	id_to_canonical	max_id_other_T1	mean_id_T1	id_to_paralog	pfam
+SUS	Agro_WP_084365946_1_ornithine_cyclodeaminase_family_protein_Rhizobium_sp_RU36D	316	0.26	0.29	0.21	0.22	OCD_Mu_crystall + Shikimate_DH
+SUS	Agro_WP_111794418_1_MULTISPECIES_hypothetical_protein_Agrobacterium	337	0.28	0.31	0.26	0.28	OCD_Mu_crystall + Shikimate_DH
+SUS	Agro_MBA3043409_1_MAG_ornithine_cyclodeaminase_Rhizobiaceae_bacterium	352	0.29	0.73	0.31	0.54	OCD_Mu_crystall + Shikimate_DH
+SUS	Agro_MFA7416147_1_MAG_ornithine_cyclodeaminase_Rhizobium_sp	366	0.33	0.73	0.32	0.47	OCD_Mu_crystall + Shikimate_DH
+SUS	Agro_WP_107028680_1_hypothetical_protein_Ensifer_sp_NM-2	361	0.42	0.44	0.36	0.24	OCD_Mu_crystall
+SUS	Plant_Parasponia_andersonii_isolate_WU1-14_PanWU01x14_asm01_scf00642_whole_genome_shotgun_	317	0.43	0.47	0.37	0.24	OCD_Mu_crystall
+SUS	Plant_Trema_orientale_isolate_RG33-2_TorRG33x02_asm01_scf00104_whole_genome_shotgun_sequen	256	0.44	0.48	0.37	0.30	(none)
+SUS	Agro_WP_173994934_1_MULTISPECIES_hypothetical_protein_Rhizobium_Agrobacterium_group	331	0.49	0.51	0.41	0.27	OCD_Mu_crystall + Shikimate_DH
+SUS	Plant_Quillaja_saponaria_isolate_S10_chromosome_2_whole_genome_shotgun_sequence_JARAOO0100	202	0.49	0.59	0.44	0.24	Shikimate_DH
+SUS	Plant_Parasponia_andersonii_isolate_WU1-14_PanWU01x14_asm01_scf00069_whole_genome_shotgun_	316	0.51	0.68	0.45	0.30	(none)
+SUS	Plant_Diospyros_kaki_Taishu_DNA_chromosome_4_draft_genome_sequence_whole_genome_shotgun_se	330	0.53	0.59	0.47	0.34	OCD_Mu_crystall + Shikimate_DH
+SUS	Plant_Nicotiana_tomentosiformis_chromosome_7_whole_genome_shotgun_sequence_ASAG02000007_48	337	0.55	1.00	0.51	0.32	OCD_Mu_crystall + Shikimate_DH
+SUS	Plant_Nicotiana_tabacum_whole_genome_shotgun_sequence_AWOK01615540_1343_1844_2709_3255_337	337	0.55	1.00	0.51	0.31	OCD_Mu_crystall + Shikimate_DH
+SUS	Plant_Euphorbia_esula_cultivar_1984-ND001_c294543_g1_i1_whole_genome_shotgun_sequence_PJAE	286	0.60	0.67	0.52	0.33	OCD_Mu_crystall + Shikimate_DH
+SUS	Agro_WP_034521016_1_MULTISPECIES_hypothetical_protein_Rhizobium_Agrobacterium_group	344	0.61	0.85	0.53	0.34	OCD_Mu_crystall + Shikimate_DH
+SUS	Agro_WP_174158420_1_hypothetical_protein_Rhizobium_rhizogenes	361	0.62	0.85	0.52	0.31	OCD_Mu_crystall + Shikimate_DH
+SUS	Plant_Juglans_cathayensis_isolate_DJUG11_03_scaffold974_whole_genome_shotgun_sequence_QEOU	337	0.70	1.00	0.59	0.36	OCD_Mu_crystall + Shikimate_DH
+SUS	Plant_Juglans_sigillata_isolate_DJUG951_04_scaffold4680_whole_genome_shotgun_sequence_QEOY	337	0.70	0.98	0.58	0.35	OCD_Mu_crystall + Shikimate_DH
+SUS	Plant_Cyclocarya_paliurus_isolate_4PA2023_chromosome_3D_whole_genome_shotgun_sequence_JARV	337	0.71	0.97	0.59	0.35	OCD_Mu_crystall + Shikimate_DH
+SUS	Plant_Juglans_mandshurica_isolate_NFU_2021_chromosome_7_whole_genome_shotgun_sequence_JAJJ	337	0.71	1.00	0.59	0.36	OCD_Mu_crystall + Shikimate_DH
+SUS	Plant_Ipomoea_batatas_cultivar_Taizhong6_chromosome_7_chr7_whole_genome_shotgun_sequence_N	332	0.76	0.76	0.51	0.35	OCD_Mu_crystall
+SUS	Plant_Diospyros_lotus_cultivar_W01_chromosome_8_whole_genome_shotgun_sequence_JACNMG010000	337	0.77	0.78	0.54	0.33	OCD_Mu_crystall + Shikimate_DH
+SUS	Agro_WP_269710210_1_hypothetical_protein_Rhizobium_rhizogenes	341	0.98	0.78	0.54	0.33	OCD_Mu_crystall + Shikimate_DH

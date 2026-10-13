@@ -1,0 +1,491 @@
+IQ-TREE 3.1.1 built Apr  8 2026
+
+Input file name: chs_tree.trim.aln
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 1
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+Since you used ModelFinder please also cite: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 58 sequences with 687 amino-acid sites
+Number of constant sites: 64 (= 9.31587% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 64 (= 9.31587% of all sites)
+Number of parsimony informative sites: 466
+Number of distinct site patterns: 669
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: Q.PFAM+I+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+Q.PFAM+I+G4      -24641.592   49513.183 +    0.998   49559.908 +    0.997   50034.401 +    0.981
+Q.PFAM+G4        -24648.782   49525.565 -  0.00204   49571.404 -  0.00318   50042.251 -   0.0194
+WAG+I+G4         -24693.332   49616.665 - 3.38e-23   49663.390 - 3.37e-23   50137.883 - 3.32e-23
+WAG+G4           -24697.995   49623.989 - 8.67e-25   49669.829 - 1.35e-24   50140.676 - 8.21e-24
+LG+I+G4          -24697.755   49625.509 - 4.05e-25   49672.234 - 4.05e-25   50146.728 - 3.98e-25
+LG+G4            -24704.356   49636.712 -  1.5e-27   49682.551 - 2.33e-27   50153.398 - 1.42e-26
+LG+I+R3          -24699.644   49635.287 - 3.05e-27   49684.731 - 7.83e-28   50170.103 - 3.34e-30
+LG+I+R4          -24693.585   49627.170 - 1.77e-25   49678.477 - 1.79e-26   50171.050 - 2.08e-30
+LG+R4            -24700.746   49639.491 - 3.73e-28   49689.862 - 6.02e-29   50178.839 - 4.24e-32
+LG+R3            -24707.744   49649.488 - 2.52e-30   49698.015 - 1.02e-30   50179.771 - 2.66e-32
+LG+R5            -24699.593   49641.187 -  1.6e-28   49693.441 - 1.01e-29   50189.599 - 1.95e-34
+WAG+F+I+G4       -24667.309   49602.618 - 3.79e-20   49668.162 -  3.1e-24   50209.951 - 7.44e-39
+WAG+F+G4         -24671.852   49609.705 -  1.1e-21   49674.161 - 1.55e-25   50212.505 - 2.07e-39
+VT+I+G4          -24732.227   49694.455 - 4.33e-40   49741.180 - 4.32e-40   50215.673 - 4.25e-40
+VT+G4            -24737.387   49702.773 - 6.76e-42   49748.613 - 1.05e-41   50219.459 - 6.41e-41
+Q.PFAM+F+I+G4    -24679.952   49627.905 - 1.22e-25   49693.448 -    1e-29   50235.238 -  2.4e-44
+LG+F+I+G4        -24682.652   49633.304 - 8.23e-27   49698.848 - 6.73e-31   50240.637 - 1.61e-45
+Q.PFAM+F+G4      -24686.467   49638.933 - 4.93e-28   49703.389 - 6.95e-32   50241.734 - 9.33e-46
+LG+F+G4          -24688.623   49643.245 - 5.71e-29   49707.701 - 8.05e-33   50246.046 - 1.08e-46
+JTT+I+G4         -24777.250   49784.501 - 1.21e-59   49831.226 - 1.21e-59   50305.719 - 1.19e-59
+LG+I+R2          -24774.266   49780.533 - 8.81e-59   49828.154 - 5.62e-59   50306.283 - 8.98e-60
+JTT+G4           -24782.835   49793.670 - 1.24e-61   49839.510 - 1.92e-61   50310.357 - 1.17e-60
+JTTDCMUT+I+G4    -24779.613   49789.226 - 1.14e-60   49835.951 - 1.14e-60   50310.444 - 1.12e-60
+JTTDCMUT+G4      -24784.712   49797.424 - 1.89e-62   49843.263 - 2.94e-62   50314.110 - 1.79e-61
+LG+R2            -24790.220   49810.440 - 2.82e-65   49857.165 - 2.82e-65   50331.658 - 2.77e-65
+VT+F+I+G4        -24731.449   49730.897 - 5.29e-48   49796.441 - 4.33e-52   50338.230 - 1.04e-66
+VT+F+G4          -24736.436   49738.871 - 9.81e-50   49803.327 - 1.38e-53   50341.672 - 1.86e-67
+CPREV+F+G4       -24791.536   49849.073 - 1.15e-73   49913.528 - 1.63e-77   50451.873 - 2.18e-91
+CPREV+F+I+G4     -24790.639   49849.279 - 1.04e-73   49914.822 - 8.51e-78   50456.611 - 2.04e-92
+PMB+I+G4         -24883.667   49997.334 - 7.36e-106   50044.060 - 7.35e-106   50518.553 - 7.23e-106
+PMB+G4           -24889.392   50006.783 - 6.53e-108   50052.623 - 1.02e-107   50523.469 - 6.19e-107
+Q.PLANT+I+G4     -24886.621   50003.241 - 3.84e-107   50049.966 - 3.84e-107   50524.460 - 3.77e-107
+Q.INSECT+I+G4    -24887.184   50004.368 - 2.19e-107   50051.093 - 2.18e-107   50525.586 - 2.15e-107
+Q.YEAST+F+I+G4   -24825.717   49919.435 - 6.06e-89   49984.978 - 4.96e-93   50526.768 - 1.19e-107
+JTTDCMUT+F+I+G4  -24827.110   49922.220 - 1.51e-89   49987.764 - 1.23e-93   50529.553 - 2.96e-108
+Q.PLANT+G4       -24894.259   50016.518 - 5.03e-110   50062.357 - 7.82e-110   50533.204 - 4.76e-109
+JTTDCMUT+F+G4    -24832.757   49931.514 - 1.44e-91   49995.969 - 2.04e-95   50534.314 - 2.73e-109
+CPREV+G4         -24895.790   50019.579 - 1.09e-110   50065.418 - 1.69e-110   50536.265 - 1.03e-109
+JTT+F+I+G4       -24830.469   49928.937 - 5.24e-91   49994.481 - 4.29e-95   50536.270 - 1.03e-109
+Q.YEAST+F+G4     -24833.785   49933.570 - 5.17e-92   49998.025 - 7.29e-96   50536.370 - 9.78e-110
+Q.INSECT+G4      -24896.811   50021.622 - 3.92e-111   50067.462 - 6.09e-111   50538.309 - 3.71e-110
+CPREV+I+G4       -24894.095   50018.189 - 2.18e-110   50064.914 - 2.18e-110   50539.407 - 2.14e-110
+JTT+F+G4         -24836.641   49939.282 - 2.97e-93   50003.738 - 4.19e-97   50542.083 - 5.62e-111
+RTREV+F+I+G4     -24834.262   49936.525 - 1.18e-92   50002.068 - 9.65e-97   50543.858 - 2.31e-111
+RTREV+F+G4       -24840.163   49946.326 - 8.78e-95   50010.781 - 1.24e-98   50549.126 - 1.66e-112
+Q.INSECT+F+I+G4  -24839.706   49947.412 -  5.1e-95   50012.955 - 4.18e-99   50554.744 -   1e-113
+Q.INSECT+F+G4    -24848.721   49963.442 - 1.69e-98   50027.897 - 2.38e-102   50566.242 - 3.19e-116
+PMB+F+I+G4       -24851.784   49971.568 - 2.9e-100   50037.112 - 2.37e-104   50578.901 - 5.69e-119
+PMB+F+G4         -24857.253   49980.506 - 3.32e-102   50044.961 - 4.68e-106   50583.306 - 6.29e-120
+BLOSUM62+I+G4    -24926.876   50083.752 - 1.26e-124   50130.477 - 1.26e-124   50604.971 - 1.24e-124
+BLOSUM62+G4      -24932.905   50093.811 - 8.27e-127   50139.650 - 1.29e-126   50610.497 - 7.83e-126
+BLOSUM62+F+I+G4  -24868.804   50005.609 - 1.18e-107   50071.152 - 9.62e-112   50612.941 - 2.31e-126
+BLOSUM62+F+G4    -24874.435   50014.869 - 1.15e-109   50079.325 - 1.62e-113   50617.670 - 2.17e-127
+Q.YEAST+I+G4     -24945.941   50121.881 - 6.64e-133   50168.606 - 6.63e-133   50643.100 - 6.52e-133
+Q.YEAST+G4       -24954.900   50137.801 - 2.32e-136   50183.640 - 3.61e-136   50654.487 - 2.2e-135
+Q.PLANT+F+I+G4   -24906.275   50080.551 - 6.26e-124   50146.094 - 5.13e-128   50687.883 - 1.23e-142
+Q.PLANT+F+G4     -24913.853   50093.705 - 8.72e-127   50158.161 - 1.23e-130   50696.506 - 1.65e-144
+RTREV+I+G4       -24995.576   50221.151 - 1.84e-154   50267.876 - 1.84e-154   50742.370 - 1.81e-154
+RTREV+G4         -25002.572   50233.144 - 4.59e-157   50278.983 - 7.14e-157   50749.830 - 4.35e-156
+Q.MAMMAL+I+G4    -25015.990   50261.980 - 2.51e-163   50308.705 - 2.51e-163   50783.198 - 2.47e-163
+Q.MAMMAL+G4      -25027.463   50282.927 - 7.1e-168   50328.766 - 1.1e-167   50799.613 - 6.73e-167
+DAYHOFF+I+G4     -25047.559   50325.118 - 4.89e-177   50371.843 - 4.89e-177   50846.337 - 4.81e-177
+DCMUT+I+G4       -25047.748   50325.497 - 4.05e-177   50372.222 - 4.05e-177   50846.715 - 3.98e-177
+DAYHOFF+G4       -25052.142   50332.283 - 1.36e-178   50378.122 - 2.12e-178   50848.969 - 1.29e-177
+DCMUT+G4         -25052.332   50332.664 - 1.12e-178   50378.504 - 1.75e-178   50849.351 - 1.07e-177
+DCMUT+F+I+G4     -25016.218   50300.437 - 1.12e-171   50365.980 - 9.17e-176   50907.769 - 2.2e-190
+DAYHOFF+F+I+G4   -25016.496   50300.992 - 8.48e-172   50366.536 - 6.94e-176   50908.325 - 1.66e-190
+DCMUT+F+G4       -25020.515   50307.030 - 4.14e-173   50371.486 - 5.84e-177   50909.831 - 7.84e-191
+DAYHOFF+F+G4     -25020.772   50307.543 - 3.21e-173   50371.999 - 4.52e-177   50910.344 - 6.07e-191
+MTINV+F+I+G4     -25081.484   50430.969 - 5.06e-200   50496.512 - 4.15e-204   51038.302 - 9.94e-219
+MTINV+F+G4       -25089.194   50444.389 - 6.17e-203   50508.844 - 8.7e-207   51047.189 - 1.17e-220
+FLU+F+I+G4       -25091.306   50450.611 - 2.75e-204   50516.155 - 2.25e-208   51057.944 - 5.4e-223
+MTREV+F+I+G4     -25096.664   50461.327 - 1.29e-206   50526.871 - 1.06e-210   51068.660 - 2.54e-225
+FLU+F+G4         -25101.920   50469.840 - 1.84e-208   50534.295 - 2.59e-212   51072.640 - 3.47e-226
+MTREV+F+G4       -25102.705   50471.409 - 8.37e-209   50535.865 - 1.18e-212   51074.210 - 1.58e-226
+Q.MAMMAL+F+I+G4  -25099.724   50467.448 - 6.07e-208   50532.992 - 4.97e-212   51074.781 - 1.19e-226
+Q.BIRD+I+G4      -25162.220   50554.440 - 7.82e-227   50601.165 - 7.81e-227   51075.659 - 7.68e-227
+Q.BIRD+G4        -25173.986   50575.972 - 1.65e-231   50621.811 - 2.57e-231   51092.658 - 1.56e-230
+Q.MAMMAL+F+G4    -25112.273   50490.547 - 5.85e-213   50555.002 - 8.25e-217   51093.347 - 1.11e-230
+LG+I             -25213.926   50655.852 - 7.44e-249   50701.691 - 1.16e-248   51172.538 - 7.05e-248
+HIVB+I+G4        -25247.625   50725.251 - 6.34e-264   50771.976 - 6.33e-264   51246.469 - 6.23e-264
+LG               -25257.492   50740.984 - 2.43e-267   50785.948 - 5.85e-267   51253.138 - 2.22e-265
+HIVB+G4          -25255.400   50738.800 - 7.24e-267   50784.640 - 1.13e-266   51255.487 - 6.86e-266
+HIVB+F+I+G4      -25213.140   50694.281 - 3.37e-257   50759.824 - 2.76e-261   51301.614 - 6.61e-276
+HIVB+F+G4        -25221.406   50708.812 - 2.35e-260   50773.267 - 3.32e-264   51311.612 - 4.45e-278
+MTMET+F+I+G4     -25232.008   50732.016 - 2.15e-265   50797.559 - 1.76e-269   51339.348 - 4.23e-284
+MTMET+F+G4       -25238.704   50743.408 - 7.23e-268   50807.864 - 1.02e-271   51346.209 - 1.37e-285
+FLU+I+G4         -25312.565   50855.131 - 3.97e-292   50901.856 - 3.97e-292   51376.349 - 3.9e-292
+FLU+G4           -25322.555   50873.109 - 4.95e-296   50918.948 - 7.71e-296   51389.795 - 4.69e-295
+Q.BIRD+F+I+G4    -25271.611   50811.221 - 1.36e-282   50876.765 - 1.11e-286   51418.554 - 2.67e-301
+Q.BIRD+F+G4      -25284.695   50835.389 - 7.69e-288   50899.845 - 1.08e-291   51438.190 - 1.45e-305
+MTZOA+F+I+G4     -25298.067   50864.134 - 4.4e-294   50929.678 - 3.61e-298   51471.467 - 8.64e-313
+MTZOA+F+G4       -25306.592   50879.184 - 2.38e-297   50943.640 - 3.35e-301   51481.984 - 4.5e-315
+MTVER+F+I+G4     -25467.998   51203.995 -        0   51269.539 -        0   51811.328 -        0
+MTVER+F+G4       -25475.291   51216.583 -        0   51281.039 -        0   51819.383 -        0
+MTART+F+I+G4     -25681.563   51631.126 -        0   51696.669 -        0   52238.459 -        0
+FLAVI+F+I+G4     -25684.653   51637.306 -        0   51702.850 -        0   52244.639 -        0
+MTART+F+G4       -25689.902   51645.805 -        0   51710.261 -        0   52248.605 -        0
+FLAVI+F+G4       -25690.011   51646.023 -        0   51710.478 -        0   52248.823 -        0
+FLAVI+I+G4       -25755.187   51740.375 -        0   51787.100 -        0   52261.593 -        0
+FLAVI+G4         -25761.854   51751.709 -        0   51797.548 -        0   52268.395 -        0
+MTMAM+F+I+G4     -25756.092   51780.184 -        0   51845.727 -        0   52387.517 -        0
+MTMAM+F+G4       -25764.172   51794.345 -        0   51858.801 -        0   52397.145 -        0
+MTZOA+I+G4       -25984.510   52199.020 -        0   52245.745 -        0   52720.238 -        0
+MTZOA+G4         -25992.849   52213.697 -        0   52259.537 -        0   52730.383 -        0
+HIVW+F+I+G4      -25951.699   52171.399 -        0   52236.942 -        0   52778.731 -        0
+HIVW+F+G4        -25965.633   52197.265 -        0   52261.721 -        0   52800.066 -        0
+MTREV+I+G4       -26177.516   52585.032 -        0   52631.757 -        0   53106.250 -        0
+MTREV+G4         -26185.602   52599.203 -        0   52645.042 -        0   53115.889 -        0
+MTMET+I+G4       -26364.985   52959.970 -        0   53006.695 -        0   53481.188 -        0
+MTMET+G4         -26370.878   52969.755 -        0   53015.595 -        0   53486.442 -        0
+HIVW+I+G4        -26382.811   52995.622 -        0   53042.347 -        0   53516.840 -        0
+HIVW+G4          -26393.952   53015.905 -        0   53061.744 -        0   53532.591 -        0
+MTVER+I+G4       -26418.997   53067.995 -        0   53114.720 -        0   53589.213 -        0
+MTVER+G4         -26424.771   53077.543 -        0   53123.382 -        0   53594.229 -        0
+MTINV+I+G4       -26565.725   53361.451 -        0   53408.176 -        0   53882.669 -        0
+MTINV+G4         -26572.498   53372.995 -        0   53418.834 -        0   53889.681 -        0
+MTART+I+G4       -26776.200   53782.399 -        0   53829.124 -        0   54303.618 -        0
+MTART+G4         -26786.035   53800.069 -        0   53845.908 -        0   54316.755 -        0
+MTMAM+I+G4       -26865.397   53960.794 -        0   54007.519 -        0   54482.012 -        0
+MTMAM+G4         -26873.366   53974.731 -        0   54020.570 -        0   54491.417 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: Q.PFAM+I+G4
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0085
+Gamma shape alpha: 1.8075
+
+ Category  Relative_rate  Proportion
+  0         0              0.0085
+  1         0.2715         0.2479
+  2         0.6383         0.2479
+  3         1.0735         0.2479
+  4         2.0511         0.2479
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -24638.0423 (s.e. 712.7899)
+Unconstrained log-likelihood (without tree): -4458.3488
+Number of free parameters (#branches + #model parameters): 115
+Akaike information criterion (AIC) score: 49506.0846
+Corrected Akaike information criterion (AICc) score: 49552.8097
+Bayesian information criterion (BIC) score: 50027.3031
+
+Total tree length (sum of branch lengths): 24.2827
+Sum of internal branch lengths: 11.0546 (45.5248% of tree length)
+
+WARNING: 1 near-zero internal branches (<0.0015) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'SEED_ags_P27875' is drawn at root
+Numbers in parentheses are SH-aLRT support (%) / ultrafast bootstrap support (%)
+
++----SEED_ags_P27875
+|
+|                                      +**SEED_chs_A0A2Z2PGA9
+|                                   +**| (0/100)
+|                                   |  +**BACT_WP_139103025.1
+|                                +--| (96/100)
+|                                |  +--BACT_WP_272871282.1
+|                             +--| (99.6/100)
+|                             |  +--BACT_WP_272951408.1
+|                         +---| (100/100)
+|                         |   +--BACT_WP_084631803.1
+|                      +--| (84.3/79)
+|                      |  +--CHSlike_Dactylonectria_estremocensis_KAH7120428.1
+|                  +---| (99.8/100)
+|                  |   |        +--CHSlike_Fusarium_vanettenii_77134_GCA_000151355.1_EEU41297.1
+|                  |   |     +--| (73.6/64)
+|                  |   |     |  +--CHSlike_Fusarium_solanimelongenae_GCA_023101225.1_UPK93317.1
+|                  |   |  +--| (99.2/100)
+|                  |   |  |  |     +**CHSlike_Fusarium_phalaenopsidis_GCA_050370095.1_KAL6359175.1
+|                  |   |  |  |  +--| (91.8/100)
+|                  |   |  |  |  |  +--CHSlike_Fusarium_sp_Ph1_GCA_025433565.1_KAI8662381.1
+|                  |   |  |  +--| (79.2/75)
+|                  |   |  |     |     +**CHSlike_Fusarium_oxysporum_GCA_030020275.1_KAJ9415499.1
+|                  |   |  |     |  +--| (97/100)
+|                  |   |  |     |  |  +**CHSlike_Fusarium_oxysporum_f_GCA_000149955.2_KNB14377.1
+|                  |   |  |     +--| (99.8/100)
+|                  |   |  |        |  +**CHSlike_Fusarium_oxysporum_f_GCA_023509805.1_KAI3576115.1
+|                  |   |  |        +--| (91.2/98)
+|                  |   |  |           +**CHSlike_Fusarium_oxysporum_f_GCA_032206225.1_KAK2472897.1
+|                  |   +--| (99.9/100)
+|                  |      |  +**CHSlike_Fusarium_nematophilum_GCA_054098485.1_KAM5380328.1
+|                  |      +--| (99.6/100)
+|                  |         +**CHSlike_Fusarium_nematophilum_GCA_054098565.1_KAM5345661.1
+|              +---| (100/100)
+|              |   +-------BACT_WP_292444889.1
+|           +--| (79.6/39)
+|           |  |  +---BACT_WP_060898469.1
+|           |  +--| (98/92)
+|           |     +-----------BACT_WP_310240812.1
+|        +--| (51.7/43)
+|        |  |        +--BACT_WP_062172194.1
+|        |  |     +--| (30.3/37)
+|        |  |     |  |  +--BACT_WP_307273360.1
+|        |  |     |  +--| (65.3/38)
+|        |  |     |     +--BACT_WP_224516190.1
+|        |  |  +--| (96.7/93)
+|        |  |  |  +--BACT_MBN9548210.1
+|        |  +--| (96.4/97)
+|        |     |     +--BACT_WP_168300307.1
+|        |     |  +--| (97.7/100)
+|        |     |  |  +--BACT_RZS76815.1
+|        |     +--| (98.8/99)
+|        |        +--BACT_HDK6220028.1
+|     +--| (90.6/51)
+|     |  +--BACT_WP_127409827.1
+|  +--| (98.3/100)
+|  |  |                                  +--AGSnat_Mortierella_Mortierellomycetes_KAF9122689.1
+|  |  |                               +--| (85/89)
+|  |  |                               |  +---AGSnat_Irineochytrium__KAJ3198587.1
+|  |  |                     +---------| (100/100)
+|  |  |                     |         +--AGSnat_Hortaea__KAI7258808.1
+|  |  |                  +--| (83.4/84)
+|  |  |                  |  |                       +---AGSnat_Athelia__KAF7972090.1
+|  |  |                  |  |                    +--| (90.8/91)
+|  |  |                  |  |                    |  +------AGSnat_Rhizopogon_Agaricomycetes_OJA17421.1
+|  |  |                  |  |                 +--| (98.1/99)
+|  |  |                  |  |                 |  |  +--AGSnat_Mycena_Agaricomycetes_KAJ7043199.1
+|  |  |                  |  |                 |  +--| (99.7/100)
+|  |  |                  |  |                 |     +--AGSnat_Mycena_Agaricomycetes_KAJ7871417.1
+|  |  |                  |  |              +--| (93.5/89)
+|  |  |                  |  |              |  |         +---AGSnat_Naganishia_Tremellomycetes_KAJ9125883.1
+|  |  |                  |  |              |  +---------| (100/100)
+|  |  |                  |  |              |            +--AGSnat_Naganishia_Tremellomycetes_GHJ87722.1
+|  |  |                  |  |           +--| (93/94)
+|  |  |                  |  |           |  +-----------AGSnat_Rhodotorula_Microbotryomycetes_TNY24483.1
+|  |  |                  |  +-----------| (100/100)
+|  |  |                  |              |            +--AGSnat_Xylariaceae_Sordariomycetes_KAI1338055.1
+|  |  |                  |              |         +--| (92.7/91)
+|  |  |                  |              |         |  +---AGSnat_Trichoderma_Sordariomycetes_KAL7918480.1
+|  |  |                  |              |  +------| (100/100)
+|  |  |                  |              |  |      |  +--AGSnat_Coleophoma_Leotiomycetes_RDW89246.1
+|  |  |                  |              |  |      +--| (99.8/100)
+|  |  |                  |              |  |         +--AGSnat_Coleophoma_Leotiomycetes_RDW70388.1
+|  |  |                  |              +--| (29.5/54)
+|  |  |                  |                 |            +**AGSnat_Colletotrichum_Sordariomycetes_KAF4806334.1
+|  |  |                  |                 |         +--| (99.9/100)
+|  |  |                  |                 |         |  +--AGSnat_Colletotrichum_Sordariomycetes_KAF5511669.1
+|  |  |                  |                 +---------| (100/100)
+|  |  |                  |                           +--AGSnat_Rhizodiscina_Dothideomycetes_KAF2093222.1
+|  |  |               +--| (86.3/87)
+|  |  |               |  +--------------------AGSnat_Penicillium_Eurotiomycetes_KAJ5609970.1
+|  |  +---------------| (100/100)
+|  |                  +-----------------------AGSnat_Aspergillus_Eurotiomycetes_KAA8645324.1
++--| (98.6/100)
+|  |              +--BACT_UUZ73203.1
+|  |           +--| (96.6/100)
+|  |           |  +--BACT_WP_011485240.1
+|  |        +--| (95.3/94)
+|  |        |  |  +--BACT_WP_056361689.1
+|  |        |  +--| (100/100)
+|  |        |     +--BACT_MDP9155482.1
+|  |     +--| (37.6/50)
+|  |     |  +--BACT_WP_092130881.1
+|  |  +--| (70.6/75)
+|  |  |  |  +--BACT_KQU89542.1
+|  |  |  +--| (90.9/77)
+|  |  |     +--BACT_WP_114832443.1
+|  +--| (100/100)
+|     +-----BACT_WP_247035397.1
+|
+|     +--BACT_QRM41779.1
+|  +--| (99.4/100)
+|  |  +--BACT_PYE31889.1
++--| (98.9/100)
+   +--BACT_WP_183129267.1
+
+Tree in newick format:
+
+(SEED_ags_P27875:0.3873386796,((((((((((((SEED_chs_A0A2Z2PGA9:0.0000024226,BACT_WP_139103025.1:0.0000022410)0/100:0.0000021233,BACT_WP_272871282.1:0.0076903533)96/100:0.0224548521,BACT_WP_272951408.1:0.0306192269)99.6/100:0.1248266164,BACT_WP_084631803.1:0.1110379215)100/100:0.3307499003,CHSlike_Dactylonectria_estremocensis_KAH7120428.1:0.3004277718)84.3/79:0.0716919671,(((CHSlike_Fusarium_vanettenii_77134_GCA_000151355.1_EEU41297.1:0.0501628162,CHSlike_Fusarium_solanimelongenae_GCA_023101225.1_UPK93317.1:0.0312139658)73.6/64:0.0032094503,((CHSlike_Fusarium_phalaenopsidis_GCA_050370095.1_KAL6359175.1:0.0000021453,CHSlike_Fusarium_sp_Ph1_GCA_025433565.1_KAI8662381.1:0.0029727745)91.8/100:0.0120096570,((CHSlike_Fusarium_oxysporum_GCA_030020275.1_KAJ9415499.1:0.0000021414,CHSlike_Fusarium_oxysporum_f_GCA_000149955.2_KNB14377.1:0.0000029267)97/100:0.0307517259,(CHSlike_Fusarium_oxysporum_f_GCA_023509805.1_KAI3576115.1:0.0000022380,CHSlike_Fusarium_oxysporum_f_GCA_032206225.1_KAK2472897.1:0.0000023718)91.2/98:0.0137542591)99.8/100:0.0732814932)79.2/75:0.0048842136)99.2/100:0.0906091558,(CHSlike_Fusarium_nematophilum_GCA_054098485.1_KAM5380328.1:0.0000010002,CHSlike_Fusarium_nematophilum_GCA_054098565.1_KAM5345661.1:0.0000010002)99.6/100:0.0859354809)99.9/100:0.2273930312)99.8/100:0.3106824786,BACT_WP_292444889.1:0.6506191384)100/100:0.3744878430,(BACT_WP_060898469.1:0.3737786455,BACT_WP_310240812.1:0.9349154728)98/92:0.1913544723)79.6/39:0.0557209129,(((BACT_WP_062172194.1:0.0745782074,(BACT_WP_307273360.1:0.0462820171,BACT_WP_224516190.1:0.0845806165)65.3/38:0.0177721443)30.3/37:0.0105163549,BACT_MBN9548210.1:0.0628987399)96.7/93:0.0415037251,((BACT_WP_168300307.1:0.0175729112,BACT_RZS76815.1:0.0404730890)97.7/100:0.0539934768,BACT_HDK6220028.1:0.1493153864)98.8/99:0.0676911211)96.4/97:0.0676383672)51.7/43:0.0813195641,BACT_WP_127409827.1:0.1625414084)90.6/51:0.1201846604,(((((AGSnat_Mortierella_Mortierellomycetes_KAF9122689.1:0.1949411205,AGSnat_Irineochytrium__KAJ3198587.1:0.3407106302)85/89:0.1164110456,AGSnat_Hortaea__KAI7258808.1:0.2813005598)100/100:0.7792583057,(((((AGSnat_Athelia__KAF7972090.1:0.3398669214,AGSnat_Rhizopogon_Agaricomycetes_OJA17421.1:0.5700371007)90.8/91:0.1437618139,(AGSnat_Mycena_Agaricomycetes_KAJ7043199.1:0.2106739069,AGSnat_Mycena_Agaricomycetes_KAJ7871417.1:0.1867138029)99.7/100:0.2690940006)98.1/99:0.2351414325,(AGSnat_Naganishia_Tremellomycetes_KAJ9125883.1:0.3277018792,AGSnat_Naganishia_Tremellomycetes_GHJ87722.1:0.2589356438)100/100:0.8065972704)93.5/89:0.1781337977,AGSnat_Rhodotorula_Microbotryomycetes_TNY24483.1:0.9640838709)93/94:0.2226434289,(((AGSnat_Xylariaceae_Sordariomycetes_KAI1338055.1:0.2836571791,AGSnat_Trichoderma_Sordariomycetes_KAL7918480.1:0.3666702179)92.7/91:0.1359391758,(AGSnat_Coleophoma_Leotiomycetes_RDW89246.1:0.0089783968,AGSnat_Coleophoma_Leotiomycetes_RDW70388.1:0.0266139183)99.8/100:0.2189316634)100/100:0.6004059816,((AGSnat_Colletotrichum_Sordariomycetes_KAF4806334.1:0.0000023104,AGSnat_Colletotrichum_Sordariomycetes_KAF5511669.1:0.0047668907)99.9/100:0.2677861920,AGSnat_Rhizodiscina_Dothideomycetes_KAF2093222.1:0.2093966401)100/100:0.7901370872)29.5/54:0.1556150147)100/100:0.9902999810)83.4/84:0.2616339007,AGSnat_Penicillium_Eurotiomycetes_KAJ5609970.1:1.6094772073)86.3/87:0.2097755743,AGSnat_Aspergillus_Eurotiomycetes_KAA8645324.1:1.9028038836)100/100:1.2795835240)98.3/100:0.1898633450,(((((BACT_UUZ73203.1:0.0384220673,BACT_WP_011485240.1:0.0103210229)96.6/100:0.0593730664,(BACT_WP_056361689.1:0.0252622487,BACT_MDP9155482.1:0.0309696400)100/100:0.1148393144)95.3/94:0.0444328274,BACT_WP_092130881.1:0.1061269199)37.6/50:0.0245644552,(BACT_KQU89542.1:0.1986389937,BACT_WP_114832443.1:0.2337935219)90.9/77:0.0536119551)70.6/75:0.0400450440,BACT_WP_247035397.1:0.4953889272)100/100:0.1662155771)98.6/100:0.1203907584,((BACT_QRM41779.1:0.0519551794,BACT_PYE31889.1:0.0982633111)99.4/100:0.1156310797,BACT_WP_183129267.1:0.2021086226)98.9/100:0.1105541608);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -24638.043514
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++----SEED_ags_P27875
+|
+|                                      +--SEED_chs_A0A2Z2PGA9
+|                                   +--| (100)
+|                                   |  +--BACT_WP_139103025.1
+|                                +--| (100)
+|                                |  +--BACT_WP_272871282.1
+|                             +--| (100)
+|                             |  +--BACT_WP_272951408.1
+|                         +---| (100)
+|                         |   +--BACT_WP_084631803.1
+|                      +--| (79)
+|                      |  +--CHSlike_Dactylonectria_estremocensis_KAH7120428.1
+|                  +---| (100)
+|                  |   |        +--CHSlike_Fusarium_vanettenii_77134_GCA_000151355.1_EEU41297.1
+|                  |   |     +--| (64)
+|                  |   |     |  +--CHSlike_Fusarium_solanimelongenae_GCA_023101225.1_UPK93317.1
+|                  |   |  +--| (100)
+|                  |   |  |  |     +--CHSlike_Fusarium_phalaenopsidis_GCA_050370095.1_KAL6359175.1
+|                  |   |  |  |  +--| (100)
+|                  |   |  |  |  |  +--CHSlike_Fusarium_sp_Ph1_GCA_025433565.1_KAI8662381.1
+|                  |   |  |  +--| (75)
+|                  |   |  |     |     +--CHSlike_Fusarium_oxysporum_GCA_030020275.1_KAJ9415499.1
+|                  |   |  |     |  +--| (100)
+|                  |   |  |     |  |  +--CHSlike_Fusarium_oxysporum_f_GCA_000149955.2_KNB14377.1
+|                  |   |  |     +--| (100)
+|                  |   |  |        |  +--CHSlike_Fusarium_oxysporum_f_GCA_023509805.1_KAI3576115.1
+|                  |   |  |        +--| (98)
+|                  |   |  |           +--CHSlike_Fusarium_oxysporum_f_GCA_032206225.1_KAK2472897.1
+|                  |   +--| (100)
+|                  |      |  +--CHSlike_Fusarium_nematophilum_GCA_054098485.1_KAM5380328.1
+|                  |      +--| (100)
+|                  |         +--CHSlike_Fusarium_nematophilum_GCA_054098565.1_KAM5345661.1
+|              +---| (100)
+|              |   +-------BACT_WP_292444889.1
+|           +--| (39)
+|           |  |  +---BACT_WP_060898469.1
+|           |  +--| (92)
+|           |     +-----------BACT_WP_310240812.1
+|        +--| (43)
+|        |  |        +--BACT_WP_062172194.1
+|        |  |     +--| (37)
+|        |  |     |  |  +--BACT_WP_307273360.1
+|        |  |     |  +--| (38)
+|        |  |     |     +--BACT_WP_224516190.1
+|        |  |  +--| (93)
+|        |  |  |  +--BACT_MBN9548210.1
+|        |  +--| (97)
+|        |     |     +--BACT_WP_168300307.1
+|        |     |  +--| (100)
+|        |     |  |  +--BACT_RZS76815.1
+|        |     +--| (99)
+|        |        +--BACT_HDK6220028.1
+|     +--| (51)
+|     |  +--BACT_WP_127409827.1
+|  +--| (100)
+|  |  |                                  +--AGSnat_Mortierella_Mortierellomycetes_KAF9122689.1
+|  |  |                               +--| (89)
+|  |  |                               |  +---AGSnat_Irineochytrium__KAJ3198587.1
+|  |  |                     +---------| (100)
+|  |  |                     |         +--AGSnat_Hortaea__KAI7258808.1
+|  |  |                  +--| (84)
+|  |  |                  |  |                       +---AGSnat_Athelia__KAF7972090.1
+|  |  |                  |  |                    +--| (91)
+|  |  |                  |  |                    |  +------AGSnat_Rhizopogon_Agaricomycetes_OJA17421.1
+|  |  |                  |  |                 +--| (99)
+|  |  |                  |  |                 |  |  +--AGSnat_Mycena_Agaricomycetes_KAJ7043199.1
+|  |  |                  |  |                 |  +--| (100)
+|  |  |                  |  |                 |     +--AGSnat_Mycena_Agaricomycetes_KAJ7871417.1
+|  |  |                  |  |              +--| (89)
+|  |  |                  |  |              |  |         +---AGSnat_Naganishia_Tremellomycetes_KAJ9125883.1
+|  |  |                  |  |              |  +---------| (100)
+|  |  |                  |  |              |            +--AGSnat_Naganishia_Tremellomycetes_GHJ87722.1
+|  |  |                  |  |           +--| (94)
+|  |  |                  |  |           |  +-----------AGSnat_Rhodotorula_Microbotryomycetes_TNY24483.1
+|  |  |                  |  +-----------| (100)
+|  |  |                  |              |            +--AGSnat_Xylariaceae_Sordariomycetes_KAI1338055.1
+|  |  |                  |              |         +--| (91)
+|  |  |                  |              |         |  +---AGSnat_Trichoderma_Sordariomycetes_KAL7918480.1
+|  |  |                  |              |  +------| (100)
+|  |  |                  |              |  |      |  +--AGSnat_Coleophoma_Leotiomycetes_RDW89246.1
+|  |  |                  |              |  |      +--| (100)
+|  |  |                  |              |  |         +--AGSnat_Coleophoma_Leotiomycetes_RDW70388.1
+|  |  |                  |              +--| (54)
+|  |  |                  |                 |            +--AGSnat_Colletotrichum_Sordariomycetes_KAF4806334.1
+|  |  |                  |                 |         +--| (100)
+|  |  |                  |                 |         |  +--AGSnat_Colletotrichum_Sordariomycetes_KAF5511669.1
+|  |  |                  |                 +---------| (100)
+|  |  |                  |                           +--AGSnat_Rhizodiscina_Dothideomycetes_KAF2093222.1
+|  |  |               +--| (87)
+|  |  |               |  +--------------------AGSnat_Penicillium_Eurotiomycetes_KAJ5609970.1
+|  |  +---------------| (100)
+|  |                  +-----------------------AGSnat_Aspergillus_Eurotiomycetes_KAA8645324.1
++--| (100)
+|  |              +--BACT_UUZ73203.1
+|  |           +--| (100)
+|  |           |  +--BACT_WP_011485240.1
+|  |        +--| (94)
+|  |        |  |  +--BACT_WP_056361689.1
+|  |        |  +--| (100)
+|  |        |     +--BACT_MDP9155482.1
+|  |     +--| (50)
+|  |     |  +--BACT_WP_092130881.1
+|  |  +--| (75)
+|  |  |  |  +--BACT_KQU89542.1
+|  |  |  +--| (77)
+|  |  |     +--BACT_WP_114832443.1
+|  +--| (100)
+|     +-----BACT_WP_247035397.1
+|
+|     +--BACT_QRM41779.1
+|  +--| (100)
+|  |  +--BACT_PYE31889.1
++--| (100)
+   +--BACT_WP_183129267.1
+
+
+Consensus tree in newick format: 
+
+(SEED_ags_P27875:0.3872130795,((((((((((((SEED_chs_A0A2Z2PGA9:0.0000024222,BACT_WP_139103025.1:0.0000020817)100:0.0000025419,BACT_WP_272871282.1:0.0076873077)100:0.0224450882,BACT_WP_272951408.1:0.0306113593)100:0.1247525346,BACT_WP_084631803.1:0.1110392964)100:0.3305859731,CHSlike_Dactylonectria_estremocensis_KAH7120428.1:0.3003016837)79:0.0717049868,(((CHSlike_Fusarium_vanettenii_77134_GCA_000151355.1_EEU41297.1:0.0501413600,CHSlike_Fusarium_solanimelongenae_GCA_023101225.1_UPK93317.1:0.0312005640)64:0.0032089665,((CHSlike_Fusarium_phalaenopsidis_GCA_050370095.1_KAL6359175.1:0.0000024222,CHSlike_Fusarium_sp_Ph1_GCA_025433565.1_KAI8662381.1:0.0029721266)100:0.0120047701,((CHSlike_Fusarium_oxysporum_GCA_030020275.1_KAJ9415499.1:0.0000024222,CHSlike_Fusarium_oxysporum_f_GCA_000149955.2_KNB14377.1:0.0000024222)100:0.0307409336,(CHSlike_Fusarium_oxysporum_f_GCA_023509805.1_KAI3576115.1:0.0000024222,CHSlike_Fusarium_oxysporum_f_GCA_032206225.1_KAK2472897.1:0.0000024222)98:0.0137487703)100:0.0732486774)75:0.0048827397)100:0.0905923602,(CHSlike_Fusarium_nematophilum_GCA_054098485.1_KAM5380328.1:0.0000024222,CHSlike_Fusarium_nematophilum_GCA_054098565.1_KAM5345661.1:0.0000024222)100:0.0858900461)100:0.2273173208)100:0.3106102381,BACT_WP_292444889.1:0.6503581543)100:0.3743483258,(BACT_WP_060898469.1:0.3735735498,BACT_WP_310240812.1:0.9345498186)92:0.1913888273)39:0.0557203963,(((BACT_WP_062172194.1:0.0745548070,(BACT_WP_307273360.1:0.0462683574,BACT_WP_224516190.1:0.0845523055)38:0.0177665190)37:0.0105138059,BACT_MBN9548210.1:0.0628797685)93:0.0414855196,((BACT_WP_168300307.1:0.0175693080,BACT_RZS76815.1:0.0404587190)100:0.0539780103,BACT_HDK6220028.1:0.1492639261)99:0.0676779652)97:0.0676024116)43:0.0813114297,BACT_WP_127409827.1:0.1624700894)51:0.1204332456,(((((AGSnat_Mortierella_Mortierellomycetes_KAF9122689.1:0.1949013550,AGSnat_Irineochytrium__KAJ3198587.1:0.3406244822)89:0.1163542118,AGSnat_Hortaea__KAI7258808.1:0.2812973296)100:0.7790272719,(((((AGSnat_Athelia__KAF7972090.1:0.3398205599,AGSnat_Rhizopogon_Agaricomycetes_OJA17421.1:0.5699360704)91:0.1437264290,(AGSnat_Mycena_Agaricomycetes_KAJ7043199.1:0.2106537638,AGSnat_Mycena_Agaricomycetes_KAJ7871417.1:0.1866746391)100:0.2690700780)99:0.2350899982,(AGSnat_Naganishia_Tremellomycetes_KAJ9125883.1:0.3277056873,AGSnat_Naganishia_Tremellomycetes_GHJ87722.1:0.2588517718)100:0.8064926686)89:0.1781202924,AGSnat_Rhodotorula_Microbotryomycetes_TNY24483.1:0.9638769358)94:0.2225558044,(((AGSnat_Xylariaceae_Sordariomycetes_KAI1338055.1:0.2836262411,AGSnat_Trichoderma_Sordariomycetes_KAL7918480.1:0.3665808486)91:0.1359900842,(AGSnat_Coleophoma_Leotiomycetes_RDW89246.1:0.0089899544,AGSnat_Coleophoma_Leotiomycetes_RDW70388.1:0.0265986148)100:0.2188385868)100:0.6003374485,((AGSnat_Colletotrichum_Sordariomycetes_KAF4806334.1:0.0000024222,AGSnat_Colletotrichum_Sordariomycetes_KAF5511669.1:0.0047665183)100:0.2676563662,AGSnat_Rhizodiscina_Dothideomycetes_KAF2093222.1:0.2094732960)100:0.7899199783)54:0.1556666108)100:0.9900596580)84:0.2616065528,AGSnat_Penicillium_Eurotiomycetes_KAJ5609970.1:1.6090636332)87:0.2097302689,AGSnat_Aspergillus_Eurotiomycetes_KAA8645324.1:1.9022521766)100:1.2791691187)100:0.1896068003,(((((BACT_UUZ73203.1:0.0384114452,BACT_WP_011485240.1:0.0103174570)100:0.0593616670,(BACT_WP_056361689.1:0.0252545273,BACT_MDP9155482.1:0.0309634825)100:0.1148084181)94:0.0444218889,BACT_WP_092130881.1:0.1060988325)50:0.0245612092,(BACT_KQU89542.1:0.1985763816,BACT_WP_114832443.1:0.2337194393)77:0.0536118552)75:0.0400307430,BACT_WP_247035397.1:0.4952456143)100:0.1661554437)100:0.1203820356,((BACT_QRM41779.1:0.0519462005,BACT_PYE31889.1:0.0982324566)100:0.1155914888,BACT_WP_183129267.1:0.2020608331)100:0.1105241625);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t chs_tree.iqtree.treefile -m "Q.PFAM+I{0.00851557}+G4{1.80752}" --length 687
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s chs_tree.trim.aln --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s chs_tree.trim.aln --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Tue Oct  6 17:20:09 2026
+Total CPU time used: 2473.424667 seconds (0h:41m:13s)
+Total wall-clock time used: 159.1778737 seconds (0h:2m:39s)
+

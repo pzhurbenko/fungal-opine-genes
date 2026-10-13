@@ -1,0 +1,10 @@
+query_protein	gene	query_length_aa	hits_total	hits_Fusarium_Neocosmospora	best_hit	best_hit_organism	best_hit_identity_pct	best_hit_alignment_length_aa	second_bacterial_hit_identity_pct	best_fungal_hit	best_fungal_hit_organism	best_fungal_hit_identity_pct	fungal_among_top50	non_fungal_among_top50
+KAL3595991.1	left flanking fungal gene (F. poae Fp133)	64	1000	163	AIN35005.1	synthetic construct	87.9	58	87.7	KAF2744142.1	Sporormia fimetaria CBS 119925	77.4	47	3
+KAL3595992.1	odh (F. poae Fp133, chr 3 copy)	353	1000	4	WP_309770759.1	Agrobacterium larrymoorei	78.3	351	40.1	KAF2744556.1	Sporormia fimetaria CBS 119925	38.4	2	48
+KAL3595993.1	pepP (F. poae Fp133, chr 3 copy)	383	1000	7	WP_309770757.1	Agrobacterium larrymoorei	86.5	193	90.0	KAE8341690.1	Aspergillus arachidicola	41.8	1	49
+KAL3595994.1	orf3 (F. poae Fp133, chr 3 copy)	259	35	2	WP_309770756.1	Agrobacterium larrymoorei	70.4	250		KAI0875730.1	Hypoxylon argillaceum	32.3	32	1
+KAL3595995.1	right flanking fungal gene (F. poae Fp133)	128	1000	221	KAH7308380.1	Stachybotrys elegans	86.7	128	74.2	KAH7308380.1	Stachybotrys elegans	86.7	48	2
+GKU08709.1	odh (F. langsethiae MFG 217702)	324	1000	4	WP_309770759.1	Agrobacterium larrymoorei	78.0	322	40.9	KAF2744556.1	Sporormia fimetaria CBS 119925	38.6	3	47
+KPA35697.1	pepP (F. langsethiae Fl201059)	383	1000	7	WP_309770757.1	Agrobacterium larrymoorei	87.0	193	89.4	KAE8341690.1	Aspergillus arachidicola	41.8	1	49
+KAG8673964.1	odh (F. poae DAOMC 252244, chr 2 copy)	283	1000	4	WP_309770759.1	Agrobacterium larrymoorei	78.3	281	38.7	KAF2744556.1	Sporormia fimetaria CBS 119925	37.3	2	48
+KAG8664661.1	odh (F. poae DAOMC 252244, contig_2 copy)	350	1000	5	WP_309770759.1	Agrobacterium larrymoorei	79.0	281	38.4	KAF2744556.1	Sporormia fimetaria CBS 119925	37.8	2	48

@@ -1,0 +1,5 @@
+GCA_000497325.4	${GMO_ROOT}/data/fungal_genomes/step2/ncbi_dataset/data/GCA_000497325.4/GCA_000497325.4_ASM49732v4_genomic.fna	45586831
+GCA_018397855.1	${GMO_ROOT}/data/fungal_genomes/step2/ncbi_dataset/data/GCA_018397855.1/GCA_018397855.1_ASM1839785v1_genomic.fna	56542695
+GCA_019364595.1	${GMO_ROOT}/data/fungal_genomes/step2/ncbi_dataset/data/GCA_019364595.1/GCA_019364595.1_ASM1936459v1_genomic.fna	34408616
+GCA_029300775.1	${GMO_ROOT}/data/fungal_genomes/step2/ncbi_dataset/data/GCA_029300775.1/GCA_029300775.1_ASM2930077v1_genomic.fna	8224131
+GCA_036250445.1	${GMO_ROOT}/data/fungal_genomes/step2/ncbi_dataset/data/GCA_036250445.1/GCA_036250445.1_CLR1234_spades_200_genomic.fna	919873235

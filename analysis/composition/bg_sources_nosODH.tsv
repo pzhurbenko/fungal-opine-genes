@@ -1,0 +1,6 @@
+gca	bg_source	n_bg_genes	notes
+GCA_003315995.1	augustus_neighbors	37	AUGUSTUS neighbor genes of 10 locus dirs (complete genes: start+stop codon); excluded TE-flagged(diamond)=2, overlap registry loci=9, bad/short=5
+GCA_003316055.1	augustus_neighbors	3	AUGUSTUS neighbor genes of 4 locus dirs (complete genes: start+stop codon); excluded TE-flagged(diamond)=0, overlap registry loci=2, bad/short=4
+GCA_019096195.1	augustus_neighbors	137	AUGUSTUS neighbor genes of 9 locus dirs (complete genes: start+stop codon); excluded TE-flagged(diamond)=11, overlap registry loci=10, bad/short=8
+GCA_019364595.1	ncbi_annotation_CDS	8117	NCBI datasets cds_from_genomic.fna; excluded TE-product=0, overlap registry loci=7, bad/short(<300nt)=890
+GCA_038089435.1	augustus_neighbors	12	AUGUSTUS neighbor genes of 10 locus dirs (complete genes: start+stop codon); excluded TE-flagged(diamond)=2, overlap registry loci=5, bad/short=1

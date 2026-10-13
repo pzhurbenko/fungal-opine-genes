@@ -1,0 +1,10 @@
+threshold	n_contigs_flagged	n_genomes_ge3_contigs	n_family_loci	fam_contig_flag	fam_genome_flag	fam_short_contig_flag	fam_any_flag
+40	4296	28	1951	0	45	237	282
+45	2308	21	1951	0	30	196	226
+50	1401	19	1951	0	27	152	179
+55	729	15	1951	0	23	117	140
+60	427	13	1951	0	21	77	98
+65	239	11	1951	0	21	30	51
+70	156	11	1951	0	21	9	30
+75	102	11	1951	0	21	1	22
+80	70	7	1951	0	15	0	15

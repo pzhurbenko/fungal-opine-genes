@@ -1,0 +1,5 @@
+order	phylum	n_proteomes	n_with_candidates	share_pct	n_TDNA_candidate_proteomes	n_nonTDNA_candidate_proteomes	genera_with_candidates
+Hypocreales	Ascomycota	581	33	5.68	31	2	Dactylonectria; Fusarium
+Boletales	Basidiomycota	62	3	4.84	2	2	Boletus; Butyriboletus; Melanogaster
+Agaricales	Basidiomycota	219	5	2.28	5	0	Amanita; Hebeloma; Mycena
+Saccharomycetales	Ascomycota	560	1	0.18	1	0	Monosporozyma

@@ -1,0 +1,325 @@
+gca	organism	species	complex	level	n_contigs	assembly_len	assembly_gc	n_chs_like	n_borderline	n_ags_like	genome_status
+GCA_043643485.1	[Neocosmospora] mangrovei	Neocosmospora mangrovei	FSSC/Neocosmospora	Contig	20	49172478	50.11	0	0	0	absent
+GCA_057673785.1	[Neocosmospora] sp. B6999-5	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	418	48704472	50.65	0	0	0	absent
+GCA_057673805.1	[Neocosmospora] sp. B6999-4	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	345	50605012	49.51	0	0	0	absent
+GCA_057673865.1	[Neocosmospora] sp. B6999-4	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	427	49491811	50.34	0	0	0	absent
+GCA_057673905.1	[Neocosmospora] sp. B6999-4	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	430	49459135	50.28	0	0	0	absent
+GCA_057673925.1	[Neocosmospora] sp. B6999-4	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	436	49085274	50.56	0	0	0	absent
+GCA_057673945.1	[Neocosmospora] sp. B6999-4	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	506	49031541	50.57	0	0	0	absent
+GCA_057673975.1	[Neocosmospora] sp. B6999-4	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	365	50436248	49.64	0	0	0	absent
+GCA_057674065.1	[Neocosmospora] sp. B6999-4	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	435	49381138	50.38	0	0	0	absent
+GCA_057674085.1	[Neocosmospora] sp. B6999-2	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	276	49921634	49.52	0	0	0	absent
+GCA_057674105.1	[Neocosmospora] sp. B6999-3	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	93	46088817	50.26	0	0	0	absent
+GCA_057674165.1	[Neocosmospora] sp. B6999-2	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	402	49387446	49.91	0	0	0	absent
+GCA_057674185.1	[Neocosmospora] sp. B6999-1	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	296	51034835	49.16	0	0	0	absent
+GCA_057674245.1	[Neocosmospora] sp. B6999-1	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	393	50399014	49.55	0	0	0	absent
+GCA_057674285.1	[Neocosmospora] sp. B6999-1	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	394	50557270	49.43	0	0	0	absent
+GCA_057674295.1	[Neocosmospora] sp. B6999-1	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	380	50438983	49.57	0	0	0	absent
+GCA_057674335.1	[Neocosmospora] sp. B6999-1	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	432	49648580	50.11	0	0	0	absent
+GCA_057674405.1	[Neocosmospora] sp. B6999-1	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	846	50275033	49.56	0	0	0	absent
+GCA_057674425.1	[Neocosmospora] sp. B6999-1	Neocosmospora sp.	FSSC/Neocosmospora	Scaffold	319	50843582	49.22	0	0	0	absent
+GCA_020744375.1	Dactylonectria estremocensis	Dactylonectria estremocensis	Dactylonectria	Contig	115	64663708	51.49	1	0	0	pseudogene
+GCA_020744425.1	Dactylonectria macrodidyma	Dactylonectria macrodidyma	Dactylonectria	Contig	87	77328613	50.17	1	0	0	truncated
+GCA_000149555.1	Fusarium verticillioides 7600	Fusarium verticillioides	other Fusarium	Chromosome	24	41885085	48.67	0	0	0	absent
+GCA_000149955.2	Fusarium oxysporum f. sp. lycopersici 4287	Fusarium oxysporum	F. oxysporum	Chromosome	88	61471697	48.37	1	0	0	pseudogene
+GCA_000151355.1	Fusarium vanettenii 77-13-4	Fusarium vanettenii	FSSC/Neocosmospora	Scaffold	209	51286497	50.78	1	0	0	intact
+GCA_000222805.1	Fusarium oxysporum f. sp. conglutinans Fo5176	Fusarium oxysporum	F. oxysporum	Contig	7858	54767602	47.81	0	0	0	absent
+GCA_000240135.3	Fusarium graminearum PH-1	Fusarium graminearum	other Fusarium	Chromosome	21	36565771	48.28	0	0	0	absent
+GCA_000259975.2	Fusarium oxysporum f. sp. lycopersici MN25	Fusarium oxysporum	F. oxysporum	Scaffold	388	48637398	47.75	1	0	0	truncated
+GCA_000260075.2	Fusarium oxysporum f. sp. pisi HDV247	Fusarium oxysporum	F. oxysporum	Scaffold	472	55188216	47.6	0	0	0	absent
+GCA_000260155.3	Fusarium oxysporum f. sp. radicis-lycopersici 26381	Fusarium oxysporum	F. oxysporum	Scaffold	418	49359289	47.62	1	0	0	truncated
+GCA_000260175.2	Fusarium oxysporum f. sp. vasinfectum 25433	Fusarium oxysporum	F. oxysporum	Scaffold	985	52914414	47.65	0	0	0	absent
+GCA_000260195.2	Fusarium odoratissimum NRRL 54006	Fusarium odoratissimum	other Fusarium	Scaffold	418	46553780	47.5	0	0	0	absent
+GCA_000260215.2	Fusarium oxysporum f. sp. conglutinans race 2 54008	Fusarium oxysporum	F. oxysporum	Scaffold	2552	53575352	47.69	0	0	0	absent
+GCA_000260235.2	Fusarium oxysporum f. sp. raphani 54005	Fusarium oxysporum	F. oxysporum	Scaffold	1218	53499362	47.8	0	0	0	absent
+GCA_000260495.2	Fusarium oxysporum f. sp. melonis 26406	Fusarium oxysporum	F. oxysporum	Scaffold	1146	54034280	47.5	1	0	0	pseudogene
+GCA_000271705.2	Fusarium oxysporum Fo47	Fusarium oxysporum	F. oxysporum	Scaffold	124	49664628	47.68	1	0	0	truncated
+GCA_000271745.2	Fusarium oxysporum NRRL 32931	Fusarium oxysporum	F. oxysporum	Scaffold	168	47906303	47.61	1	0	0	pseudogene
+GCA_000303195.2	Fusarium pseudograminearum CS3096	Fusarium pseudograminearum	other Fusarium	Chromosome	281	36973259	47.77	0	0	0	absent
+GCA_000350345.1	Fusarium oxysporum f. sp. cubense race 1	Fusarium oxysporum	F. oxysporum	Scaffold	1341	47657417	47.84	0	0	0	absent
+GCA_000350365.1	Fusarium odoratissimum	Fusarium odoratissimum	other Fusarium	Scaffold	840	52926277	48.13	0	0	0	absent
+GCA_000599445.1	Fusarium graminearum	Fusarium graminearum	other Fusarium	Chromosome	199	36667552	48.03	0	0	0	absent
+GCA_000769215.1	Fusarium avenaceum	Fusarium avenaceum	other Fusarium	Scaffold	83	41590745	48.47	0	0	0	absent
+GCA_001023035.1	Fusarium fujikuroi	Fusarium fujikuroi	other Fusarium	Scaffold	187	43110459	48.84	0	0	0	absent
+GCA_001023045.1	Fusarium fujikuroi	Fusarium fujikuroi	other Fusarium	Scaffold	835	43096072	48.77	0	0	0	absent
+GCA_001023065.1	Fusarium fujikuroi	Fusarium fujikuroi	other Fusarium	Scaffold	2959	43499819	48.76	0	0	0	absent
+GCA_001292635.1	Fusarium langsethiae	Fusarium langsethiae	other Fusarium	Scaffold	1586	37543021	48.27	0	0	0	absent
+GCA_001654555.2	Fusarium agapanthi	Fusarium agapanthi	other Fusarium	Scaffold	2350	41300597	48.5	0	0	0	absent
+GCA_001675295.1	Fusarium poae	Fusarium poae	other Fusarium	Scaffold	181	46476831	46.23	0	0	0	absent
+GCA_001702695.2	Fusarium oxysporum f. sp. radicis-cucumerinum	Fusarium oxysporum	F. oxysporum	Chromosome	33	52908293	47.67	1	0	0	truncated
+GCA_001703955.2	Fusarium pseudograminearum	Fusarium pseudograminearum	other Fusarium	Chromosome	77	36341670	48.29	0	0	0	absent
+GCA_002352725.1	Fusarium graminearum	Fusarium graminearum	other Fusarium	Scaffold	67	36883775	48.18	0	0	0	absent
+GCA_002894225.1	Fusarium nygamai	Fusarium nygamai	other Fusarium	Scaffold	991	50242135	47.51	0	0	0	absent
+GCA_002980475.2	Fusarium beomiforme	Fusarium beomiforme	other Fusarium	Scaffold	1868	46521357	47.89	0	0	0	absent
+GCA_003012285.1	Fusarium longipes	Fusarium longipes	FSSC/Neocosmospora	Scaffold	544	35314544	48.19	0	0	0	absent
+GCA_003012295.1	Fusarium flagelliforme	Fusarium flagelliforme	other Fusarium	Scaffold	1073	39607924	48.54	0	0	0	absent
+GCA_003012315.1	Fusarium sporotrichioides	Fusarium sporotrichioides	other Fusarium	Scaffold	446	37429079	48.28	0	0	0	absent
+GCA_003033665.1	Fusarium culmorum	Fusarium culmorum	other Fusarium	Contig	36	38110313	47.54	0	0	0	absent
+GCA_003290285.1	Fusarium proliferatum	Fusarium proliferatum	other Fusarium	Scaffold	104	45499559	48.29	0	0	0	absent
+GCA_003316975.2	Fusarium verticillioides	Fusarium verticillioides	other Fusarium	Chromosome	255	42535067	48.17	0	0	0	absent
+GCA_003316985.1	Fusarium coffeatum	Fusarium coffeatum	other Fusarium	Contig	550	37769732	48.26	0	0	0	absent
+GCA_003316995.2	Fusarium verticillioides	Fusarium verticillioides	other Fusarium	Chromosome	258	42294396	48.28	0	0	0	absent
+GCA_003317015.2	Fusarium verticillioides	Fusarium verticillioides	other Fusarium	Chromosome	153	42398840	48.38	0	0	0	absent
+GCA_003615075.1	Fusarium oxysporum f. sp. cepae	Fusarium oxysporum	F. oxysporum	Scaffold	1997	51009701	47.58	1	0	0	truncated
+GCA_003615085.1	Fusarium oxysporum f. sp. cepae	Fusarium oxysporum	F. oxysporum	Chromosome	34	53425788	47.73	1	0	0	truncated
+GCA_003615095.1	Fusarium oxysporum f. sp. cepae	Fusarium oxysporum	F. oxysporum	Scaffold	2119	51407732	47.6	1	0	0	truncated
+GCA_003615115.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	3121	54787818	47.88	0	0	0	absent
+GCA_003615155.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	2373	53038185	47.47	1	0	0	truncated
+GCA_003615165.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	1719	50515499	48.0	1	0	0	truncated
+GCA_003615185.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	920	50292220	47.62	1	0	0	truncated
+GCA_003615215.1	Fusarium proliferatum	Fusarium proliferatum	other Fusarium	Scaffold	581	45689467	48.65	0	0	0	absent
+GCA_003698175.1	Fusarium kuroshium	Fusarium kuroshium	FSSC/Neocosmospora	Scaffold	1403	46636844	51.34	0	0	0	absent
+GCA_003946985.1	Fusarium duplospermum	Fusarium duplospermum	other Fusarium	Scaffold	1006	47520037	50.94	0	0	0	absent
+GCA_003946995.1	Fusarium oligoseptatum	Fusarium oligoseptatum	FSSC/Neocosmospora	Scaffold	1171	48659138	51.28	0	0	0	absent
+GCA_003947005.1	Fusarium floridanum	Fusarium floridanum	other Fusarium	Scaffold	1719	47429815	51.4	0	0	0	absent
+GCA_003947015.1	Fusarium sp. AF-6	Fusarium sp.	other Fusarium	Contig	1182	43121288	51.43	0	0	0	absent
+GCA_003947045.1	Fusarium ambrosium	Fusarium ambrosium	FSSC/Neocosmospora	Scaffold	1366	49042336	51.13	0	0	0	absent
+GCA_003957675.1	Fusarium euwallaceae	Fusarium euwallaceae	FSSC/Neocosmospora	Contig	1773	50550986	51.1	0	0	0	absent
+GCA_004141715.1	Fusarium oxysporum f. sp. narcissi	Fusarium oxysporum	F. oxysporum	Scaffold	4349	57517562	47.77	1	0	0	truncated
+GCA_005930515.1	Fusarium oxysporum f. sp. cubense	Fusarium oxysporum	F. oxysporum	Contig	12	51139495	47.48	0	0	0	absent
+GCA_007994515.1	Fusarium oxysporum f. sp. cubense	Fusarium oxysporum	F. oxysporum	Contig	15	48588396	47.54	0	0	0	absent
+GCA_009663055.1	Fusarium fujikuroi	Fusarium fujikuroi	other Fusarium	Chromosome	12	43722320	47.51	0	0	0	absent
+GCA_009663095.1	Fusarium fujikuroi	Fusarium fujikuroi	other Fusarium	Chromosome	12	43737213	47.49	0	0	0	absent
+GCA_009663115.1	Fusarium fujikuroi	Fusarium fujikuroi	other Fusarium	Chromosome	12	45614948	47.2	0	0	0	absent
+GCA_012931995.1	Fusarium albosuccineum	Fusarium albosuccineum	other Fusarium	Scaffold	4197	50867201	51.78	0	0	0	absent
+GCA_012932015.1	Fusarium acutatum	Fusarium acutatum	other Fusarium	Scaffold	982	43327976	48.48	0	0	0	absent
+GCA_012932025.1	Fusarium austroafricanum	Fusarium austroafricanum	other Fusarium	Scaffold	1963	45682287	48.07	0	0	0	absent
+GCA_012959155.1	Fusarium avenaceum	Fusarium avenaceum	other Fusarium	Scaffold	34	41702554	48.07	0	0	0	absent
+GCA_012959185.1	Fusarium graminearum	Fusarium graminearum	other Fusarium	Scaffold	54	36764292	47.96	0	0	0	absent
+GCA_013085055.1	Fusarium oxysporum Fo47	Fusarium oxysporum	F. oxysporum	Complete Genome	12	50358849	47.71	1	0	0	truncated
+GCA_013266165.1	Fusarium graminum	Fusarium graminum	other Fusarium	Scaffold	977	34983573	48.89	0	0	0	absent
+GCA_013266175.1	Fusarium gaditjirri	Fusarium gaditjirri	other Fusarium	Scaffold	834	41888603	48.57	0	0	0	absent
+GCA_013266185.1	Fusarium sarcochroum	Fusarium sarcochroum	other Fusarium	Scaffold	1849	46449918	49.08	0	0	0	absent
+GCA_013266195.1	Fusarium zealandicum	Fusarium zealandicum	other Fusarium	Scaffold	1836	33536579	52.57	0	0	0	absent
+GCA_013266205.1	Fusarium decemcellulare	Fusarium decemcellulare	other Fusarium	Scaffold	3482	53686487	51.79	0	0	0	absent
+GCA_013266265.1	Fusarium sp. NRRL 66182	Fusarium sp.	other Fusarium	Scaffold	16970	48025651	49.21	0	0	0	absent
+GCA_013363075.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	5286	46979197	48.46	1	0	0	truncated
+GCA_013364935.1	Fusarium anthophilum	Fusarium anthophilum	other Fusarium	Scaffold	1118	45757352	48.65	0	0	0	absent
+GCA_013364965.1	Fusarium austroamericanum	Fusarium austroamericanum	other Fusarium	Scaffold	899	36935928	48.33	0	0	0	absent
+GCA_013395995.1	Fusarium pseudoanthophilum	Fusarium pseudoanthophilum	other Fusarium	Scaffold	1816	42829214	48.77	0	0	0	absent
+GCA_013396005.1	Fusarium napiforme	Fusarium napiforme	other Fusarium	Scaffold	1411	42092515	48.88	0	0	0	absent
+GCA_013396015.1	Fusarium mexicanum	Fusarium mexicanum	other Fusarium	Scaffold	958	44021866	48.64	0	0	0	absent
+GCA_013396025.1	Fusarium phyllophilum	Fusarium phyllophilum	other Fusarium	Scaffold	1628	43389320	48.43	0	0	0	absent
+GCA_013396035.1	Fusarium pseudocircinatum	Fusarium pseudocircinatum	other Fusarium	Scaffold	1040	43320561	48.82	0	0	0	absent
+GCA_013396075.1	Fusarium subglutinans	Fusarium subglutinans	other Fusarium	Contig	905	44178338	48.09	0	0	0	absent
+GCA_013396095.1	Fusarium sp. NRRL 52700	Fusarium sp.	other Fusarium	Contig	528	42989975	47.86	0	0	0	absent
+GCA_013396165.1	Fusarium globosum	Fusarium globosum	other Fusarium	Scaffold	1696	44598021	48.78	0	0	0	absent
+GCA_013396175.1	Fusarium denticulatum	Fusarium denticulatum	other Fusarium	Scaffold	909	43161494	48.67	0	0	0	absent
+GCA_013396185.1	Fusarium circinatum	Fusarium circinatum	other Fusarium	Scaffold	1223	42615541	48.61	0	0	0	absent
+GCA_013396195.1	Fusarium tjaetaba	Fusarium tjaetaba	other Fusarium	Scaffold	867	43094252	48.82	0	0	0	absent
+GCA_013396205.1	Fusarium mundagurra	Fusarium mundagurra	other Fusarium	Scaffold	1616	49121928	48.42	0	0	0	absent
+GCA_013396255.1	Fusarium sp. NRRL 25303	Fusarium sp.	other Fusarium	Scaffold	941	43724536	48.82	0	0	0	absent
+GCA_013396295.1	Fusarium heterosporum	Fusarium heterosporum	other Fusarium	Scaffold	793	35674141	48.66	0	0	0	absent
+GCA_013758895.1	Fusarium bulbicola	Fusarium bulbicola	other Fusarium	Scaffold	1719	43605813	48.78	0	0	0	absent
+GCA_013781345.1	Fusarium coicis	Fusarium coicis	other Fusarium	Scaffold	1267	42721782	48.89	0	0	0	absent
+GCA_014154955.1	Fusarium oxysporum f. sp. conglutinans	Fusarium oxysporum	F. oxysporum	Chromosome	19	67983296	48.2	0	0	0	absent
+GCA_014764975.2	Fusarium sp. DS 682	Fusarium sp.	other Fusarium	Contig	11597	56063991	46.69	0	0	0	absent
+GCA_016952305.1	Fusarium pseudograminearum	Fusarium pseudograminearum	other Fusarium	Complete Genome	7	37941760	47.0	0	0	0	absent
+GCA_016952355.1	Fusarium culmorum	Fusarium culmorum	other Fusarium	Complete Genome	6	37658711	47.4	0	0	0	absent
+GCA_017309865.1	Fusarium proliferatum	Fusarium proliferatum	other Fusarium	Scaffold	757	48779490	48.18	0	0	0	absent
+GCA_017309875.1	Fusarium proliferatum	Fusarium proliferatum	other Fusarium	Scaffold	154	45293945	48.32	0	0	0	absent
+GCA_017309895.1	Fusarium proliferatum	Fusarium proliferatum	other Fusarium	Scaffold	12	43842875	48.32	0	0	0	absent
+GCA_018282135.1	Fusarium avenaceum	Fusarium avenaceum	other Fusarium	Scaffold	214	41192406	48.43	0	0	0	absent
+GCA_018296245.1	Fusarium xylarioides	Fusarium xylarioides	other Fusarium	Contig	16509	60032360	42.11	0	0	0	absent
+GCA_018296265.1	Fusarium xylarioides	Fusarium xylarioides	other Fusarium	Contig	18893	61006077	42.0	0	0	0	absent
+GCA_018296285.1	Fusarium xylarioides	Fusarium xylarioides	other Fusarium	Contig	17105	59292093	42.44	0	0	0	absent
+GCA_018296305.1	Fusarium xylarioides	Fusarium xylarioides	other Fusarium	Contig	22259	63055833	40.66	0	0	0	absent
+GCA_018296325.1	Fusarium xylarioides	Fusarium xylarioides	other Fusarium	Contig	11944	57004444	42.49	0	0	0	absent
+GCA_018296345.1	Fusarium xylarioides	Fusarium xylarioides	other Fusarium	Contig	20717	62280680	40.89	0	0	0	absent
+GCA_018894095.1	Fusarium oxysporum f. sp. conglutinans	Fusarium oxysporum	F. oxysporum	Scaffold	147	72150645	48.18	0	0	0	absent
+GCA_019157275.1	Fusarium oxysporum f. sp. raphani	Fusarium oxysporum	F. oxysporum	Contig	59	66822448	48.12	0	0	0	absent
+GCA_019157295.1	Fusarium oxysporum f. sp. rapae	Fusarium oxysporum	F. oxysporum	Contig	25	59760091	47.78	0	0	0	absent
+GCA_019425555.1	Fusarium venenatum	Fusarium venenatum	other Fusarium	Contig	105	37649670	47.6	0	0	0	absent
+GCA_019609905.1	Fusarium poae	Fusarium poae	other Fusarium	Chromosome	13	44000513	46.57	0	0	0	absent
+GCA_019915245.1	Fusarium musae	Fusarium musae	other Fusarium	Chromosome	13	44015302	47.24	0	0	0	absent
+GCA_020744115.1	Fusarium avenaceum	Fusarium avenaceum	other Fusarium	Contig	13	42232206	48.1	0	0	0	absent
+GCA_020744135.1	Fusarium venenatum	Fusarium venenatum	other Fusarium	Contig	9	37452605	47.64	0	0	0	absent
+GCA_020744335.1	Fusarium sp. MPI-SDFR-AT-0072	Fusarium sp.	other Fusarium	Contig	19	48370669	47.76	0	0	0	absent
+GCA_020744355.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Contig	66	55719217	47.71	0	0	0	absent
+GCA_020744385.1	Fusarium flagelliforme	Fusarium flagelliforme	other Fusarium	Contig	15	40328194	48.19	0	0	0	absent
+GCA_020744455.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Contig	128	52242347	48.52	0	0	0	absent
+GCA_020744475.1	Fusarium redolens	Fusarium redolens	other Fusarium	Contig	74	52563400	46.9	0	0	0	absent
+GCA_020744495.1	Fusarium solani	Fusarium solani	FSSC/Neocosmospora	Contig	74	52932111	51.0	0	0	0	absent
+GCA_020744515.1	Fusarium tricinctum	Fusarium tricinctum	other Fusarium	Contig	21	43693088	47.65	0	0	0	absent
+GCA_020796175.1	Fusarium oxysporum f. sp. matthiolae	Fusarium oxysporum	F. oxysporum	Contig	40	60310576	47.67	1	0	0	pseudogene
+GCA_022180325.1	Fusarium langsethiae	Fusarium langsethiae	other Fusarium	Scaffold	3556	38420390	48.2	0	0	0	absent
+GCA_022180345.1	Fusarium langsethiae	Fusarium langsethiae	other Fusarium	Scaffold	3809	38253641	48.24	0	0	0	absent
+GCA_022627095.1	Fusarium sp. FIESC RH6	Fusarium sp.	other Fusarium	Scaffold	2378	39998308	47.59	0	0	0	absent
+GCA_022627105.1	Fusarium chuoi	Fusarium chuoi	other Fusarium	Scaffold	1207	44398943	47.7	0	0	0	absent
+GCA_022627115.1	Fusarium annulatum	Fusarium annulatum	other Fusarium	Scaffold	1743	44219330	48.32	0	0	0	absent
+GCA_022627125.1	Fusarium chuoi	Fusarium chuoi	other Fusarium	Scaffold	888	45424172	46.83	0	0	0	absent
+GCA_022627135.1	Fusarium proliferatum	Fusarium proliferatum	other Fusarium	Scaffold	673	44982388	48.07	0	0	0	absent
+GCA_023101225.1	Fusarium solani-melongenae	Fusarium solani-melongenae	FSSC/Neocosmospora	Complete Genome	12	49477711	50.73	1	0	0	intact
+GCA_023509805.1	Fusarium oxysporum f. sp. albedinis	Fusarium oxysporum	F. oxysporum	Contig	114	65559131	47.73	1	0	0	pseudogene
+GCA_023522795.1	Fusarium solani	Fusarium solani	FSSC/Neocosmospora	Contig	19	59379714	50.66	0	0	0	absent
+GCA_024752415.1	Fusarium pseudograminearum	Fusarium pseudograminearum	other Fusarium	Chromosome	4	37331386	47.45	0	0	0	absent
+GCA_024865645.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	1498	46286843	47.68	0	0	0	absent
+GCA_025331925.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Chromosome	24	68356969	48.2	0	0	0	absent
+GCA_025433545.1	Fusarium keratoplasticum	Fusarium keratoplasticum	FSSC/Neocosmospora	Chromosome	25	49462855	51.25	0	0	0	absent
+GCA_025433555.1	Fusarium keratoplasticum	Fusarium keratoplasticum	FSSC/Neocosmospora	Chromosome	26	53490075	51.35	0	0	0	absent
+GCA_025433565.1	Fusarium sp. Ph1	Fusarium sp.	other Fusarium	Chromosome	24	51460811	51.06	1	0	0	intact
+GCA_025433615.1	Fusarium sp. LHS14.1	Fusarium sp.	other Fusarium	Chromosome	35	56318919	48.55	0	0	0	absent
+GCA_026229875.1	Fusarium oxysporum f. sp. albedinis	Fusarium oxysporum	F. oxysporum	Scaffold	2834	58234281	48.27	1	0	0	pseudogene
+GCA_026873545.1	Fusarium falciforme	Fusarium falciforme	FSSC/Neocosmospora	Complete Genome	14	53563088	49.38	0	0	0	absent
+GCA_027627305.1	Fusarium decemcellulare	Fusarium decemcellulare	other Fusarium	Scaffold	6066	50541515	50.13	0	0	0	absent
+GCA_027945235.1	Fusarium irregulare	Fusarium irregulare	other Fusarium	Scaffold	41	37937248	48.06	0	0	0	absent
+GCA_027945245.1	Fusarium irregulare	Fusarium irregulare	other Fusarium	Scaffold	42	38174887	48.03	0	0	0	absent
+GCA_027945255.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	107	42238012	47.52	0	0	0	absent
+GCA_027945265.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	239	45007583	47.44	0	0	0	absent
+GCA_027945275.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	60	42897137	47.5	0	0	0	absent
+GCA_027945305.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	259	44944953	47.42	0	0	0	absent
+GCA_027945315.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	59	41909290	47.57	0	0	0	absent
+GCA_027945335.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	245	44959929	47.38	0	0	0	absent
+GCA_027945365.1	Fusarium equiseti	Fusarium equiseti	other Fusarium	Scaffold	89	37111087	47.76	0	0	0	absent
+GCA_027945395.1	Fusarium falciforme	Fusarium falciforme	FSSC/Neocosmospora	Contig	296	65538456	47.69	0	0	0	absent
+GCA_027945405.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Contig	136	50594913	47.38	1	0	0	truncated
+GCA_027945495.1	Fusarium falciforme	Fusarium falciforme	FSSC/Neocosmospora	Scaffold	1010	56457383	49.12	1	0	0	pseudogene
+GCA_027945505.1	Fusarium falciforme	Fusarium falciforme	FSSC/Neocosmospora	Scaffold	866	54321482	49.36	0	0	0	absent
+GCA_027945515.1	Fusarium falciforme	Fusarium falciforme	FSSC/Neocosmospora	Scaffold	1035	55360567	49.49	0	0	0	absent
+GCA_027945525.1	Fusarium solani	Fusarium solani	FSSC/Neocosmospora	Scaffold	1595	54725519	50.62	0	0	0	absent
+GCA_027945535.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	208	45048357	47.41	0	0	0	absent
+GCA_027945555.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	383	48565265	47.63	1	0	0	truncated
+GCA_027945595.1	Fusarium torreyae	Fusarium torreyae	other Fusarium	Scaffold	92	46518303	47.93	0	0	0	absent
+GCA_027946385.1	Fusarium piperis	Fusarium piperis	FSSC/Neocosmospora	Contig	2063	41415286	52.17	0	0	0	absent
+GCA_030020275.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	44	55580320	47.8	1	0	0	pseudogene
+GCA_030719095.1	Fusarium oxysporum f. sp. vasinfectum	Fusarium oxysporum	F. oxysporum	Complete Genome	13	49876382	47.41	0	0	0	absent
+GCA_031834405.1	Fusarium oxysporum II5	Fusarium oxysporum	F. oxysporum	Chromosome	53	49425076	47.53	0	0	0	absent
+GCA_032206225.1	Fusarium oxysporum f. sp. albedinis	Fusarium oxysporum	F. oxysporum	Chromosome	51	65971825	47.77	1	0	0	pseudogene
+GCA_032878545.1	Fusarium oxysporum f. sp. vasinfectum	Fusarium oxysporum	F. oxysporum	Contig	18	64498093	47.62	0	0	0	absent
+GCA_032884055.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	854	49992589	47.67	0	0	0	absent
+GCA_032991405.1	Fusarium oxysporum f. sp. vasinfectum	Fusarium oxysporum	F. oxysporum	Contig	16	61066645	47.82	0	0	0	absent
+GCA_037074405.1	Fusarium graminearum	Fusarium graminearum	other Fusarium	Chromosome	8	37415088	47.85	0	0	0	absent
+GCA_037074415.1	Fusarium graminearum	Fusarium graminearum	other Fusarium	Chromosome	17	37949588	48.22	0	0	0	absent
+GCA_037213105.1	Fusarium graminearum	Fusarium graminearum	other Fusarium	Complete Genome	5	37223430	47.93	0	0	0	absent
+GCA_037255895.1	Fusarium graminearum	Fusarium graminearum	other Fusarium	Complete Genome	5	36882021	47.93	0	0	0	absent
+GCA_038050555.1	Fusarium oxysporum f. sp. vasinfectum	Fusarium oxysporum	F. oxysporum	Scaffold	30	64156821	47.64	0	0	0	absent
+GCA_038181435.1	Fusarium acuminatum	Fusarium acuminatum	other Fusarium	Complete Genome	11	46698876	47.76	0	0	0	absent
+GCA_041870755.1	Fusarium sambucinum	Fusarium sambucinum	other Fusarium	Complete Genome	5	38478011	46.89	0	0	0	absent
+GCA_046056315.1	Fusarium poae	Fusarium poae	other Fusarium	Complete Genome	7	45049967	46.6	0	0	0	absent
+GCA_047716405.1	Fusarium chlamydosporum	Fusarium chlamydosporum	other Fusarium	Contig	23	37798897	47.86	0	0	0	absent
+GCA_049000195.1	Fusarium oxysporum f. sp. vasinfectum	Fusarium oxysporum	F. oxysporum	Contig	57	54587737	47.68	0	0	0	absent
+GCA_049000225.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Contig	53	59819757	47.55	0	0	0	absent
+GCA_050370095.1	Fusarium phalaenopsidis	Fusarium phalaenopsidis	FSSC/Neocosmospora	Contig	54	52236286	50.89	1	0	0	intact
+GCA_050947815.1	Fusarium sambucinum	Fusarium sambucinum	other Fusarium	Complete Genome	5	38685087	46.95	0	0	0	absent
+GCA_051622415.1	Fusarium oxysporum f. sp. mori	Fusarium oxysporum	F. oxysporum	Scaffold	370	47987622	47.53	0	0	0	absent
+GCA_051622495.1	Fusarium oxysporum f. sp. mori	Fusarium oxysporum	F. oxysporum	Scaffold	451	47952123	47.56	0	0	0	absent
+GCA_051622515.1	Fusarium oxysporum f. sp. mori	Fusarium oxysporum	F. oxysporum	Scaffold	405	47967655	47.55	0	0	0	absent
+GCA_051622595.1	Fusarium oxysporum f. sp. mori	Fusarium oxysporum	F. oxysporum	Scaffold	587	47740797	47.69	0	0	0	absent
+GCA_051624415.1	Fusarium oxysporum f. sp. zingiberi	Fusarium oxysporum	F. oxysporum	Contig	95	53509504	47.71	0	0	0	absent
+GCA_052058685.1	Fusarium commune	Fusarium commune	other Fusarium	Contig	226	51591088	47.75	0	0	0	absent
+GCA_052550365.1	Fusarium odoratissimum	Fusarium odoratissimum	other Fusarium	Scaffold	493	45518950	47.71	0	0	0	absent
+GCA_052570155.1	Fusarium lateritium	Fusarium lateritium	other Fusarium	Scaffold	412	44471339	52.47	0	0	0	absent
+GCA_052570225.1	Fusarium lateritium	Fusarium lateritium	other Fusarium	Scaffold	460	39759082	48.24	0	0	0	absent
+GCA_052570285.1	Fusarium lateritium	Fusarium lateritium	other Fusarium	Scaffold	386	39762813	48.17	0	0	0	absent
+GCA_052570295.1	Fusarium lateritium	Fusarium lateritium	other Fusarium	Scaffold	296	38267956	48.29	0	0	0	absent
+GCA_052570305.1	Fusarium lateritium	Fusarium lateritium	other Fusarium	Scaffold	215	37750447	47.55	0	0	0	absent
+GCA_052570355.1	Fusarium lateritium	Fusarium lateritium	other Fusarium	Scaffold	349	39169861	48.23	0	0	0	absent
+GCA_052570365.1	Fusarium lateritium	Fusarium lateritium	other Fusarium	Scaffold	611	37663291	48.63	0	0	0	absent
+GCA_052570435.1	Fusarium lateritium	Fusarium lateritium	other Fusarium	Scaffold	284	39536262	48.19	0	0	0	absent
+GCA_052570455.1	Fusarium lateritium	Fusarium lateritium	other Fusarium	Scaffold	249	37782808	47.56	0	0	0	absent
+GCA_052570465.1	Fusarium lateritium	Fusarium lateritium	other Fusarium	Scaffold	356	40709643	47.44	0	0	0	absent
+GCA_052570515.1	Fusarium lateritium	Fusarium lateritium	other Fusarium	Scaffold	99	37632154	47.6	0	0	0	absent
+GCA_052570605.1	Fusarium lateritium	Fusarium lateritium	other Fusarium	Scaffold	1444	37931455	48.72	0	0	0	absent
+GCA_052570615.1	Fusarium lateritium	Fusarium lateritium	other Fusarium	Scaffold	368	37746444	47.45	0	0	0	absent
+GCA_052570645.1	Fusarium lateritium	Fusarium lateritium	other Fusarium	Scaffold	270	39935024	48.11	0	0	0	absent
+GCA_052570695.1	Fusarium culmorum	Fusarium culmorum	other Fusarium	Scaffold	612	38734768	48.05	0	0	0	absent
+GCA_052570705.1	Fusarium culmorum	Fusarium culmorum	other Fusarium	Scaffold	457	36873519	48.1	0	0	0	absent
+GCA_052570715.1	Fusarium culmorum	Fusarium culmorum	other Fusarium	Scaffold	580	36693245	47.97	0	0	0	absent
+GCA_052570805.1	Fusarium culmorum	Fusarium culmorum	other Fusarium	Scaffold	448	36634568	48.13	0	0	0	absent
+GCA_052570815.1	Fusarium culmorum	Fusarium culmorum	other Fusarium	Scaffold	738	37545998	47.78	0	0	0	absent
+GCA_052570865.1	Fusarium culmorum	Fusarium culmorum	other Fusarium	Scaffold	587	37766511	47.77	0	0	0	absent
+GCA_052571635.1	Fusarium lateritium	Fusarium lateritium	other Fusarium	Scaffold	658	45085416	48.18	0	0	0	absent
+GCA_052571695.1	Fusarium culmorum	Fusarium culmorum	other Fusarium	Scaffold	1372	39904268	47.95	0	0	0	absent
+GCA_053754955.1	Fusarium oxysporum f. sp. cubense	Fusarium oxysporum	F. oxysporum	Chromosome	18	50279060	47.8	0	0	0	absent
+GCA_053754965.1	Fusarium oxysporum f. sp. cubense	Fusarium oxysporum	F. oxysporum	Chromosome	19	48202284	47.51	0	0	0	absent
+GCA_054098455.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	827	46537525	48.39	1	0	0	truncated
+GCA_054098485.1	Fusarium nematophilum	Fusarium nematophilum	FSSC/Neocosmospora	Scaffold	2430	53111252	52.84	1	0	0	intact
+GCA_054098565.1	Fusarium nematophilum	Fusarium nematophilum	FSSC/Neocosmospora	Contig	11	58766963	50.2	1	0	0	intact
+GCA_054130785.1	Fusarium oxysporum f. sp. phaseoli	Fusarium oxysporum	F. oxysporum	Chromosome	41	54437586	47.54	0	0	0	absent
+GCA_054370115.1	Fusarium falciforme	Fusarium falciforme	FSSC/Neocosmospora	Contig	21	62652977	49.07	0	0	0	absent
+GCA_054370135.1	Fusarium solani	Fusarium solani	FSSC/Neocosmospora	Contig	22	58072468	50.57	0	0	0	absent
+GCA_055853645.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Chromosome	47	57653349	47.62	0	0	0	absent
+GCA_056098845.1	Fusarium sp. IMII-1	Fusarium sp.	other Fusarium	Scaffold	38	40364155	45.97	0	0	0	absent
+GCA_057674445.1	Fusarium pseudensiforme	Fusarium pseudensiforme	other Fusarium	Scaffold	293	49967299	48.42	0	0	0	absent
+GCA_057674525.1	Fusarium pseudensiforme	Fusarium pseudensiforme	other Fusarium	Scaffold	369	48853893	48.76	0	0	0	absent
+GCA_057674545.1	Fusarium cf. solani	Fusarium cf.	other Fusarium	Scaffold	730	48111543	50.13	0	0	0	absent
+GCA_057674555.1	Fusarium cf. solani	Fusarium cf.	other Fusarium	Scaffold	574	46068672	50.79	0	0	0	absent
+GCA_057674645.1	Fusarium duplospermum	Fusarium duplospermum	other Fusarium	Scaffold	589	47688954	50.51	0	0	0	absent
+GCA_057674665.1	Fusarium duplospermum	Fusarium duplospermum	other Fusarium	Scaffold	587	48469068	50.44	0	0	0	absent
+GCA_057674705.1	Fusarium obliquiseptatum	Fusarium obliquiseptatum	other Fusarium	Scaffold	429	47724083	50.75	0	0	0	absent
+GCA_057674765.1	Fusarium cf. solani	Fusarium cf.	other Fusarium	Scaffold	245	45323435	50.83	0	0	0	absent
+GCA_057674785.1	Fusarium mekan	Fusarium mekan	other Fusarium	Scaffold	332	50540929	49.47	0	0	0	absent
+GCA_057674825.1	Fusarium awan	Fusarium awan	other Fusarium	Scaffold	885	52989631	49.14	0	0	0	absent
+GCA_057674865.1	Fusarium awan	Fusarium awan	other Fusarium	Scaffold	798	53603810	48.78	0	0	0	absent
+GCA_057674905.1	Fusarium akasia	Fusarium akasia	other Fusarium	Scaffold	485	49922951	49.75	0	0	0	absent
+GCA_057674945.1	Fusarium akasia	Fusarium akasia	other Fusarium	Scaffold	550	51024459	49.31	0	0	0	absent
+GCA_057674965.1	Fusarium euwallaceae	Fusarium euwallaceae	FSSC/Neocosmospora	Scaffold	424	51701522	49.07	0	0	0	absent
+GCA_057675025.1	Fusarium euwallaceae	Fusarium euwallaceae	FSSC/Neocosmospora	Scaffold	523	49712923	50.49	0	0	0	absent
+GCA_057675065.1	Fusarium cf. solani	Fusarium cf.	other Fusarium	Scaffold	235	45311473	50.84	0	0	0	absent
+GCA_057675085.1	Fusarium obliquiseptatum	Fusarium obliquiseptatum	other Fusarium	Scaffold	1115	46259859	51.39	0	0	0	absent
+GCA_057675105.1	Fusarium tuaranense	Fusarium tuaranense	other Fusarium	Scaffold	561	49072775	50.46	0	0	0	absent
+GCA_057675185.1	Fusarium oligoseptatum	Fusarium oligoseptatum	FSSC/Neocosmospora	Scaffold	562	49863614	50.33	0	0	0	absent
+GCA_057675205.1	Fusarium floridanum	Fusarium floridanum	other Fusarium	Scaffold	523	48338502	51.01	0	0	0	absent
+GCA_057675225.1	Fusarium tuaranense	Fusarium tuaranense	other Fusarium	Scaffold	473	48301748	50.9	0	0	0	absent
+GCA_057675305.1	Fusarium floridanum	Fusarium floridanum	other Fusarium	Scaffold	562	48876894	50.6	0	0	0	absent
+GCA_057675325.1	Fusarium floridanum	Fusarium floridanum	other Fusarium	Scaffold	529	47866127	51.24	0	0	0	absent
+GCA_057675345.1	Fusarium floridanum	Fusarium floridanum	other Fusarium	Scaffold	540	48342618	50.96	0	0	0	absent
+GCA_057675365.1	Fusarium warna	Fusarium warna	other Fusarium	Scaffold	347	49855713	49.73	0	0	0	absent
+GCA_057675385.1	Fusarium variasi	Fusarium variasi	other Fusarium	Scaffold	219	48947133	51.25	0	0	0	absent
+GCA_057675405.1	Fusarium variasi	Fusarium variasi	other Fusarium	Scaffold	211	49785708	51.06	0	0	0	absent
+GCA_057675485.1	Fusarium mekan	Fusarium mekan	other Fusarium	Scaffold	386	50499909	49.65	0	0	0	absent
+GCA_057675505.1	Fusarium euwallaceae	Fusarium euwallaceae	FSSC/Neocosmospora	Scaffold	512	50514511	50.01	0	0	0	absent
+GCA_057675525.1	Fusarium euwallaceae	Fusarium euwallaceae	FSSC/Neocosmospora	Scaffold	411	51718892	49.08	0	0	0	absent
+GCA_057675605.1	Fusarium rekanum	Fusarium rekanum	other Fusarium	Scaffold	459	50313008	49.31	0	0	0	absent
+GCA_057675625.1	Fusarium rekanum	Fusarium rekanum	other Fusarium	Scaffold	477	50179775	49.34	0	0	0	absent
+GCA_057675645.1	Fusarium cf. solani	Fusarium cf.	other Fusarium	Scaffold	301	50208503	49.13	0	0	0	absent
+GCA_057675685.1	Fusarium cf. solani	Fusarium cf.	other Fusarium	Scaffold	294	50100333	49.16	0	0	0	absent
+GCA_057675705.1	Fusarium cf. solani	Fusarium cf.	other Fusarium	Scaffold	519	48405517	51.16	0	0	0	absent
+GCA_057675765.1	Fusarium cf. solani	Fusarium cf.	other Fusarium	Scaffold	544	50795242	49.54	0	0	0	absent
+GCA_057675785.1	Fusarium cf. solani	Fusarium cf.	other Fusarium	Scaffold	603	49980425	50.06	0	0	0	absent
+GCA_057675825.1	Fusarium cf. solani	Fusarium cf.	other Fusarium	Scaffold	302	47919122	49.03	0	0	0	absent
+GCA_057675845.1	Fusarium cf. solani	Fusarium cf.	other Fusarium	Scaffold	511	49989974	49.78	0	0	0	absent
+GCA_057675865.1	Fusarium cf. solani	Fusarium cf.	other Fusarium	Scaffold	313	49752667	49.31	0	0	0	absent
+GCA_057675945.1	Fusarium cf. solani	Fusarium cf.	other Fusarium	Scaffold	472	50145653	49.62	0	0	0	absent
+GCA_057675965.1	Fusarium cf. solani	Fusarium cf.	other Fusarium	Scaffold	538	50746654	49.57	0	0	0	absent
+GCA_057675985.1	Fusarium kuroshium	Fusarium kuroshium	FSSC/Neocosmospora	Scaffold	468	48585587	50.4	0	0	0	absent
+GCA_057676005.1	Fusarium papillatum	Fusarium papillatum	other Fusarium	Scaffold	699	49180236	50.43	0	0	0	absent
+GCA_057676085.1	Fusarium drepaniforme	Fusarium drepaniforme	other Fusarium	Scaffold	414	48541851	50.54	0	0	0	absent
+GCA_057676105.1	Fusarium papillatum	Fusarium papillatum	other Fusarium	Scaffold	721	48371155	50.63	0	0	0	absent
+GCA_057676125.1	Fusarium ambrosium	Fusarium ambrosium	FSSC/Neocosmospora	Scaffold	669	48507881	51.03	0	0	0	absent
+GCA_057676205.1	Fusarium ambrosium	Fusarium ambrosium	FSSC/Neocosmospora	Scaffold	585	47897367	50.87	0	0	0	absent
+GCA_057676225.1	Fusarium ambrosium	Fusarium ambrosium	FSSC/Neocosmospora	Scaffold	334	51686619	48.54	0	0	0	absent
+GCA_057676245.1	Fusarium ambrosium	Fusarium ambrosium	FSSC/Neocosmospora	Scaffold	549	49522473	50.04	0	0	0	absent
+GCA_057814765.1	Fusarium oxysporum f. sp. rapae	Fusarium oxysporum	F. oxysporum	Scaffold	261	57926520	47.83	0	0	0	absent
+GCA_900007375.1	Fusarium venenatum	Fusarium venenatum	other Fusarium	Chromosome	6	38660186	47.69	0	0	0	absent
+GCA_900029915.1	Fusarium proliferatum	Fusarium proliferatum	other Fusarium	Scaffold	155	43166078	48.72	0	0	0	absent
+GCA_900044065.1	Fusarium mangiferae	Fusarium mangiferae	other Fusarium	Scaffold	254	46292722	48.19	0	0	0	absent
+GCA_900044135.1	Fusarium graminearum	Fusarium graminearum	other Fusarium	Chromosome	6	38047942	48.15	0	0	0	absent
+GCA_900067095.1	Fusarium proliferatum ET1	Fusarium proliferatum	other Fusarium	Scaffold	32	45210324	48.43	0	0	0	absent
+GCA_900073075.1	Fusarium graminearum	Fusarium graminearum	other Fusarium	Complete Genome	5	37008806	47.9	0	0	0	absent
+GCA_900079805.1	Fusarium fujikuroi IMI 58289	Fusarium fujikuroi	other Fusarium	Chromosome	12	43832314	47.47	0	0	0	absent
+GCA_900096505.1	Fusarium fujikuroi	Fusarium fujikuroi	other Fusarium	Scaffold	66	43998436	48.14	0	0	0	absent
+GCA_900096605.1	Fusarium fujikuroi	Fusarium fujikuroi	other Fusarium	Contig	318	44324837	48.24	0	0	0	absent
+GCA_900096615.1	Fusarium fujikuroi	Fusarium fujikuroi	other Fusarium	Scaffold	241	44041582	47.5	0	0	0	absent
+GCA_900096625.1	Fusarium fujikuroi	Fusarium fujikuroi	other Fusarium	Scaffold	240	45342496	47.48	0	0	0	absent
+GCA_900096635.1	Fusarium fujikuroi	Fusarium fujikuroi	other Fusarium	Scaffold	28	44975616	47.52	0	0	0	absent
+GCA_900096645.1	Fusarium fujikuroi	Fusarium fujikuroi	other Fusarium	Scaffold	86	45765444	47.25	0	0	0	absent
+GCA_900096685.1	Fusarium fujikuroi	Fusarium fujikuroi	other Fusarium	Scaffold	182	46063609	47.49	0	0	0	absent
+GCA_900096695.1	Fusarium oxysporum	Fusarium oxysporum	F. oxysporum	Scaffold	49	49085590	47.42	0	0	0	absent
+GCA_900096705.1	Fusarium fujikuroi	Fusarium fujikuroi	other Fusarium	Scaffold	227	46133096	47.34	0	0	0	absent
+GCA_900312805.1	Fusarium torulosum	Fusarium torulosum	other Fusarium	Scaffold	1335	41285096	48.23	0	0	0	absent
+GCA_900492705.2	Fusarium graminearum	Fusarium graminearum	other Fusarium	Contig	96	36807931	47.97	0	0	0	absent
+GCA_901446245.1	Fusarium graminearum	Fusarium graminearum	other Fusarium	Scaffold	283	36753730	48.32	0	0	0	absent
+GCA_901677955.1	Fusarium fujikuroi	Fusarium fujikuroi	other Fusarium	Scaffold	428	45814433	47.34	0	0	0	absent
+GCA_901677965.1	Fusarium fujikuroi	Fusarium fujikuroi	other Fusarium	Scaffold	498	46485183	47.32	0	0	0	absent
+GCA_902702945.1	Fusarium fujikuroi	Fusarium fujikuroi	other Fusarium	Scaffold	1094	46029076	47.4	0	0	0	absent
+GCA_905332025.1	Fusarium graminearum	Fusarium graminearum	other Fusarium	Scaffold	297	36563540	48.16	0	0	0	absent
+GCA_905332055.1	Fusarium graminearum	Fusarium graminearum	other Fusarium	Contig	139	37010759	48.06	0	0	0	absent
+GCA_905359455.1	Fusarium graminearum	Fusarium graminearum	other Fusarium	Scaffold	203	36456942	48.33	0	0	0	absent
+GCA_905359465.1	Fusarium graminearum	Fusarium graminearum	other Fusarium	Contig	1599	36282076	48.29	0	0	0	absent
+GCA_905359475.1	Fusarium graminearum	Fusarium graminearum	other Fusarium	Scaffold	278	36760321	48.32	0	0	0	absent
+GCA_905359485.1	Fusarium graminearum	Fusarium graminearum	other Fusarium	Scaffold	292	37136041	48.29	0	0	0	absent
+GCA_910393935.1	Fusarium equiseti	Fusarium equiseti	other Fusarium	Scaffold	206	37882472	48.03	0	0	0	absent
+GCA_954870535.1	Fusarium sp. VM40	Fusarium sp.	other Fusarium	Contig	19	42058709	47.72	0	0	0	absent
+GCA_964030585.1	Fusarium verticillioides	Fusarium verticillioides	other Fusarium	Contig	246	43645117	47.88	0	0	0	absent
+GCA_964035615.1	Fusarium verticillioides	Fusarium verticillioides	other Fusarium	Contig	702	43552795	47.92	0	0	0	absent

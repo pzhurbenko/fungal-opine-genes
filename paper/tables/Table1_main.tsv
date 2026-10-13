@@ -1,0 +1,9 @@
+family	lineage	origin	n_loci	n_nonredundant_tree_leaves	n_intact	n_pseudogene	n_fragments	n_genomes	n_species	n_orders	orders	n_species_Boletales	additional_fragments_profile_only
+SUS	sus-like (T-DNA type)	T-DNA	58	52	36	22	0	33	31	2	Boletales (30); Mortierellales (1)	30	47
+CUS	cus-like (T-DNA type)	T-DNA	50	42	34	16	0	36	22	6	Boletales (10); Agaricales (6); Pleosporales (3); Mycosphaerellales (1); Polyporales (1); Saccharomycetales (1)	10	36
+CUS	mis lineage	T-DNA, direction unresolved	293	193	254	39	0	263	108	14	Hypocreales (36); Eurotiales (25); Boletales (24); Xylariales (6); NA (4); Pleosporales (3); Helotiales (2); Ophiostomatales (2); Calosphaeriales (1); Glomerellales (1); Mortierellales (1); Onygenales (1); Togniniales (1); Umbilicariales (1)	24	58
+CUS	actinobacterial-type	bacterial, non-rhizobial	591	130	359	232	0	478	65	5	Eurotiales (33); Hypocreales (26); Onygenales (3); NA (2); Aulographales (1)	0	286
+ACS	acc-type GDPD	acc-like catabolic locus	60	60	3	57	0	30	24	2	Boletales (23); Agaricales (1)	23	38
+ACS	pKerr14a-type acs-like	Ti-type plasmid pKerr14a	19	6	6	0	13	8	8	1	Boletales (8)	8	30
+ACS	native fungal GDPD (main clade)	fungal	102	94	48	54	0	75	43	4	Boletales (24); Agaricales (12); Russulales (6); NA (1)	24	0
+ACS	other fungal GDPD (position unresolved)	fungal	31	25	30	1	0	21	18	6	Boletales (7); Agaricales (6); Phallales (2); Cantharellales (1); Hypocreales (1); Pleosporales (1)	7	0

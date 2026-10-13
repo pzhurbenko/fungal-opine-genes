@@ -1,0 +1,1566 @@
+wgs_prefix	gca	organism	status	annotated	refseq	submitter	gc_percent	total_len
+JAGFBS01	GCA_018397855.1	Boletus reticuloceps	Contig	yes	no	INRAE	50	55833107
+JAHRGV01	GCA_019364595.1	Butyriboletus roseoflavus	Contig	yes	no	INRAE	49	33976981
+JAKRWS02	GCA_023078535.2	Rhodotorula toruloides	Scaffold	no	no	Nanjing Tech University	59	22546560
+JBBPKL01	GCA_038089235.1	Boletellus ananas	Scaffold	no	no	University of Utah	46.5	124259396
+JBBPUD01	GCA_038094475.1	Phylloporus aff. rhodophaeus	Scaffold	no	no	University of Utah	47	46322017
+PVXX01	GCA_002995015.1	Rhizopogon vesiculosus	Scaffold	no	no	Oregon State University	48	40136314
+WODD01	GCA_019775935.1	Neoascochyta sp. HWLR27	Scaffold	no	no	Western Sydney University	55.5	27436464
+CALMRJ01	GCA_937873335.1	Brettanomyces bruxellensis	Contig	no	no	European Bioinformatics Institute	40	12415577
+CAPP02	GCA_000604185.2	Neurospora sublineolata	Scaffold	no	no	EBC	52.5	35701420
+CAPT01	GCA_001039675.1	Nakaseomyces delphensis	Contig	no	no	LabRI	39	10867681
+CAXUWG01	GCA_964255335.1	Pyrenula pseudobufonia	Scaffold	no	no	Spribille Lab	50.5	28894720
+CCYA01	GCA_900000165.1	Ceraceosorus bombacis	Scaffold	yes	no	IPF	55.5	26090089
+JAAAIF01	GCA_015852375.1	Podila clonocystis	Scaffold	yes	no	DOE Joint Genome Institute	49	39506643
+JACONQ01	GCA_014281115.1	Laburnicola sp. R22_1	Contig	no	no	Chinese Academy of Forestry	44.5	64007018
+JACVQN01	GCA_019828945.1	Aspergillus croceus	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	50.5	22867324
+JACWGD01	GCA_015881745.1	Pseudopestalotiopsis theae	Contig	no	no	Fujian Agriculture and Forestry University	49.5	50412300
+JADNRW01	GCA_015501535.1	Cyathus striatus	Contig	yes	no	DOE Joint Genome Institute	43.5	91180015
+JADNYI01	GCA_015501065.1	Infundibulicybe gibba	Contig	yes	no	DOE Joint Genome Institute	50	65973163
+JAGTXK01	GCA_019096195.1	Boletus sp. NGJ	Scaffold	no	no	Wenzhou Medical University	49	33501578
+JAHGAU01	GCA_019925105.1	Niebla homalea	Contig	no	no	The Field Museum	38	50566743
+JAJBKE01	GCA_022344635.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51.5	33661040
+JAJBKK01	GCA_022344495.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51	34297043
+JAJBKU01	GCA_022344295.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	34098132
+JAJDFF02	GCA_021527025.2	Geoglossum cookeanum	Scaffold	no	no	Iridian Genomes	55.5	194301940
+JAJJXH01	GCA_022495235.1	Xylaria curta	Scaffold	yes	no	DOE Joint Genome Institute	47.5	43923592
+JAJNKF01	GCA_023088245.1	Neofusicoccum parvum	Scaffold	no	no	Shandong Agricultural University	56	49557376
+JAJTTZ01	GCA_036971285.1	Dactylellina cionopaga	Scaffold	no	no	Institute of Microbiology, Chinese Academy of Sciences	44	41862661
+JAKIRX01	GCA_022577775.1	Wickerhamiella vanderwaltii	Contig	no	no	UCIBIO	45.5	9917597
+JAKJLV01	GCA_023134325.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	49.5	37425665
+JAKTTD01	GCA_030580535.1	Monosporozyma servazzii	Scaffold	no	no	UW-Madison	34.5	12308946
+JALAIG01	GCA_023645855.1	Letrouitia transgressa	Contig	yes	no	Royal Botanic Gardens Kew	48	27985263
+JALDZC01	GCA_022814315.1	Hypocenomyce scalaris	Scaffold	yes	no	University of Graz	48.5	31917170
+JALJPV01	GCA_026652275.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	45.5	59226624
+JALZYQ01	GCA_023619725.1	Aspergillus sp. R2804	Scaffold	no	no	Dalian Medical University	50	34532075
+JANATF01	GCA_029449245.1	Mortierella alpina	Contig	no	no	Shandong Normal University	51	40220517
+JANQAS01	GCA_024734855.1	Rhodotorula toruloides	Scaffold	no	no	Nanjing Tech University	59	22546560
+JANURY01	GCA_025677925.1	Epicoccum latusicollum	Contig	no	no	Guizhou University	52	33242988
+JAPDRK01	GCA_030247875.1	Cladophialophora chaetospira	Scaffold	yes	no	University of California, Riverside	52	35553408
+JAPFUS01	GCA_030780325.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32066121
+JAPPUR01	GCA_027569015.1	Ascodesmis sphaerospora	Contig	no	no	Northwestern University	50.5	49538203
+JAQGEP01	GCA_028476805.1	Acrocalymma vagum	Scaffold	no	no	Zhejiang University	48	55745741
+JARADR01	GCA_033735335.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39066996
+JAYKUG01	GCA_036250445.1	Hemileia vastatrix	Contig	no	no	University of Hawaii at Manoa	43	736183069
+JBBPJK01	GCA_038088715.1	Boletus variipes	Scaffold	no	no	University of Utah	49.5	73546778
+JBBPJX01	GCA_038088955.1	Neotropicomus parvogracilis	Scaffold	no	no	University of Utah	47	51024417
+JBBPKB01	GCA_038089035.1	Boletellus dicymbophilus	Scaffold	no	no	University of Utah	44.5	81950677
+JBBPLJ01	GCA_038089715.1	Veloporphyrellus conicus	Scaffold	no	no	University of Utah	48	40790203
+JBBPLV01	GCA_038089975.1	Boletellus ananiceps	Scaffold	no	no	University of Utah	51	55918461
+JBBPMT01	GCA_038090455.1	Garcileccinum viscosum	Scaffold	no	no	University of Utah	45	89299988
+JBBPOG01	GCA_038091375.1	Austroboletus festivus	Scaffold	no	no	University of Utah	47.5	68491815
+JBBPRQ01	GCA_038093095.1	Boletus insuetus	Scaffold	no	no	University of Utah	49	49789942
+JBBPWX01	GCA_041722695.1	Tylopilus sp. UT-M0000335	Scaffold	no	no	University of Utah	48	63462171
+JBEEQB01	GCA_040893085.1	Epicoccum sorghinum	Chromosome	no	no	China Agricultural University	52	32694839
+JPJR01	GCA_000750675.1	Pseudogymnoascus sp. VKM F-3808	Contig	yes	no	Moscow State University	50.5	27778879
+JPJZ01	GCA_000750815.1	Pseudogymnoascus sp. VKM F-4516 (FW-969)	Contig	yes	no	Moscow State University	50.5	27599203
+JSEJ01	GCA_000785585.1	Cladophialophora immunda	Contig	yes	no	University of Natural Resources and Life Sciences, Vienna	53	41583904
+JYBZ01	GCF_000835495.1	Cladophialophora immunda	Scaffold	yes	yes	Broad Institute	53	43029152
+JZSE01	GCA_001270345.1	Amorphotheca resinae	Scaffold	no	no	East China University of Science and Technology	49	54474545
+LDUC01	GCA_012184355.1	Dactylellina cionopaga	Scaffold	yes	no	Laboratory for Conservation and Utilization of Bio-Resources and Key Laboratory for Microbial Diversity in Southwest China, Ministry of Education	45	43120050
+LKPZ01	GCA_001444555.1	Naganishia albida	Contig	no	no	Columbia University	52.5	24807186
+LUDX01	GCA_003267905.1	Beauveria pseudobassiana	Scaffold	no	no	National Institute of Horticultural and Herbal Science, Rural Development Administration	51	34508107
+MCHD01	GCF_003144195.1	Ceraceosorus guamensis	Scaffold	yes	yes	DOE Joint Genome Institute	56	24148100
+PDLN01	GCA_003369635.1	Coleophoma crateriformis	Scaffold	yes	no	The University of Texas Health Science Center at Houston	48.5	40652013
+PEKF01	GCA_003073195.1	Ramalina intermedia	Scaffold	no	no	Yunnan Academy of Forestry	52	26246405
+PTQT01	GCA_003243735.1	Monosporozyma servazzii	Contig	no	no	World Institute of Kimchi	34.5	12498071
+PVXV01	GCA_002994995.1	Rhizopogon hawkerae	Scaffold	no	no	Oregon State University	48.5	36992390
+PZJY01	GCA_031472005.1	Tetracladium setigerum	Scaffold	no	no	Nakdonggang National Institute of Biological Resources	46.5	39220606
+QFEE01	GCA_003315995.1	Butyriboletus roseoflavus	Scaffold	no	no	Kunming University of Science and Technology	49.5	28767420
+QFEG01	GCA_003316055.1	Boletus speciosus	Scaffold	no	no	Kunming University of Science and Technology	49.5	29905459
+QFEH01	GCA_003316065.1	Retiboletus ornatipes	Scaffold	no	no	Kunming University of Science and Technology	50	29764564
+QYSG01	GCA_003988875.1	Lachnum nothofagi	Scaffold	no	no	Manaaki Whenua Landcare Research	40.5	74582935
+SPUK01	GCA_006981985.1	Cordyceps javanica	Scaffold	yes	no	The Institute of Vegetables and Flowers CAAS	53	34933242
+VRLF01	GCA_024704485.1	Pyricularia oryzae	Contig	yes	no	University of Bedfordshire	50	42785286
+WIOP01	GCA_014904935.1	Melanogaster broomeanus	Scaffold	yes	no	DOE Joint Genome Institute	50	49614189
+ABFE01	GCF_000143565.1	Laccaria bicolor	Scaffold	yes	yes	Laccaria Genome Consortium	47	64877444
+ABPO01	GCA_000182115.1	Saccharomyces pastorianus	Scaffold	no	no	SUNTORY LIMITED (Japan)	39	22382146
+ACJE01	GCA_000230395.2	Aspergillus niger	Contig	yes	no	DOE Joint Genome Institute	50.5	34853277
+ACJF01	GCF_000151355.1	Fusarium vanettenii	Scaffold	yes	yes	DOE Joint Genome Institute	51	51286497
+ACOD01	GCF_000149035.1	Colletotrichum graminicola	Scaffold	yes	yes	Broad Institute	49	51604658
+ADAH01	GCF_000280675.1	Beauveria bassiana	Scaffold	yes	yes	Zhejiang University, China	51.5	33693936
+AEIW01	GCA_001644785.1	Cordyceps cicadae	Contig	no	no	Bio-Asia Life Science Institute	52.5	34522046
+AFDG01	GCA_000209345.1	Saccharomyces cerevisiae	Scaffold	no	no	Genome Sequencing Center (GSC) at Washington University (WashU) School of Medicine	38.5	10255887
+AFZN01	GCA_013368665.1	Saccharomyces cerevisiae	Scaffold	no	no	Genome Sequencing Center (GSC) at Washington University (WashU) School of Medicine	38.5	10773514
+AFZO01	GCA_013368685.1	Saccharomyces cerevisiae	Scaffold	no	no	Genome Sequencing Center (GSC) at Washington University (WashU) School of Medicine	38	11596832
+AGUE01	GCA_000238015.2	Glarea lozoyensis	Scaffold	yes	no	Institute of Pharmaceutical Sciences	46	38673282
+AHIG01	GCA_001990825.1	Aspergillus carbonarius	Scaffold	yes	no	DOE Joint Genome Institute	51.5	36149134
+ALVE01	GCF_000409485.1	Glarea lozoyensis	Scaffold	yes	yes	Institute Of Microbiology, Chinese Academy of Sciences 	46	39509734
+ANFO01	GCA_000770705.1	Beauveria bassiana	Contig	yes	no	Institute of Plant Protection, Jilin Academy of Agricultural Sciences	52	36692259
+ANIS01	GCA_000382605.1	Leucocoprinus gongylophorus	Scaffold	no	no	UW-Madison	35	100245223
+ANKU01	GCA_002871045.1	Pyricularia grisea	Scaffold	no	no	Seoul National University	48.5	47589632
+ANOW01	GCA_002866905.1	Pyricularia grisea	Contig	no	no	Seoul National University	49.5	37796700
+AORD01	GCF_000392275.1	Phaeoacremonium minimum	Scaffold	yes	yes	UC Davis	49.5	47465449
+AORF01	GCF_000349385.1	Eutypa lata	Scaffold	yes	yes	UC Davis		54005819
+AUZU01	GCA_000633045.1	Aspergillus niger	Scaffold	no	no	South China University of Technology	50.5	34604268
+AWWW01	GCA_000498615.1	Helminthosporium solani	Contig	no	no	University of Wisconsin-Madison	49	34531622
+AYJS02	GCA_000497105.2	Nakaseomyces glabratus	Scaffold	no	no	Jiangnan University	38.5	12145350
+AYJV03	GCA_000497325.4	Fusarium circinatum	Chromosome	no	no	Pitch canker sequencing project	47	45020843
+AZHA01	GCA_001636735.1	Beauveria brongniartii	Scaffold	yes	no	Shanghai Institutes for Biological Sciences, CAS	51.5	32515992
+AZHB01	GCF_001636725.1	Cordyceps fumosorosea	Scaffold	yes	yes	Shanghai Institutes for Biological Sciences, CAS	53.5	33485962
+AZHE01	GCF_000804445.1	Metarhizium album	Scaffold	yes	yes	Shanghai Institutes for Biological Sciences, CAS	53	30449065
+BCGR01	GCA_001599375.1	Phoma herbarum	Scaffold	no	no	RIKEN Center for Life Science Technologies, Division of Genomic Technologies	52.5	39263577
+BCHX01	GCA_001599755.1	Gliomastix tumulicola	Scaffold	no	no	RIKEN Center for Life Science Technologies, Division of Genomic Technologies	55	42385401
+BCIA01	GCA_001599815.1	Furcasterigmium furcatum	Scaffold	no	no	RIKEN Center for Life Science Technologies, Division of Genomic Technologies	58	40320693
+BCIP01	GCA_001599995.1	Ambrosiozyma monospora	Scaffold	no	no	RIKEN Center for Life Science Technologies, Division of Genomic Technologies	38	24978438
+BCKA01	GCA_001950535.1	Penicillium citrinum	Scaffold	no	no	RIKEN Center for Life Science Technologies, Division of Genomic Technologies	46.5	33998198
+BCLY01	GCA_001445615.2	Aspergillus lentulus	Contig	yes	no	Medical Mycology Research Center	49.5	30774200
+BDDP01	GCA_001652835.1	Tricholoma matsutake	Scaffold	no	no	Labolatoly of food microbiology and engineering, Applied Life Chemistry, Faculty of Agriculture , Kindai University	45.5	131718925
+BDHI01	GCA_003850985.1	Aspergillus awamori	Contig	yes	no	Medical Mycology Research Center	49.5	38597812
+BHVY01	GCF_018340605.1	Aspergillus pseudoviridinutans	Scaffold	yes	yes	Medical Mycology Research Center	49.5	33330675
+BLKD01	GCA_010723975.1	Aspergillus lentulus	Scaffold	yes	no	Medical Mycology Research Center	49.5	30957489
+BLKH01	GCF_010724455.1	Aspergillus lentulus	Scaffold	yes	yes	Medical Mycology Research Center	50	30229310
+BLKI01	GCA_010724575.1	Aspergillus lentulus	Scaffold	yes	no	Medical Mycology Research Center	49.5	31053882
+BLKJ01	GCA_010724635.1	Aspergillus lentulus	Scaffold	yes	no	Medical Mycology Research Center	49.5	31225736
+BLKL01	GCA_010724915.1	Aspergillus lentulus	Scaffold	yes	no	Medical Mycology Research Center	49.5	30753187
+BQMC01	GCA_024862975.1	Aspergillus niger	Contig	yes	no	Laboratory of Applied Biochemistry Department of Applied Chemistry Faculty of Science and Engineering, Waseda University	49.5	35884609
+BROT01	GCA_027923945.1	Aspergillus niger	Scaffold	yes	no	Medical Mycology Research Center	49.5	37233258
+BROV01	GCA_027923785.1	Aspergillus niger	Scaffold	yes	no	Medical Mycology Research Center	49.5	35914973
+BROW01	GCA_027923865.1	Aspergillus niger	Scaffold	yes	no	Medical Mycology Research Center	49.5	37791686
+BROX01	GCA_027924005.1	Aspergillus niger	Scaffold	yes	no	Medical Mycology Research Center	49.5	37342888
+BROY01	GCA_027923985.1	Aspergillus niger	Scaffold	yes	no	Medical Mycology Research Center	49.5	36701343
+BROZ01	GCA_027923725.1	Aspergillus niger	Scaffold	yes	no	Medical Mycology Research Center	49.5	36085793
+BRPA01	GCA_027923805.1	Aspergillus niger	Scaffold	yes	no	Medical Mycology Research Center	49.5	36104501
+BSXS01	GCA_030267745.1	Ambrosiozyma monospora	Contig	yes	no	Biological Resource Center, National Institute of Technology and Evaluation (NBRC)	38	28916333
+CABFNO02	GCA_902006505.2	Clonostachys byssicola	Scaffold	yes	no	SWEDISH UNIVERSITY OF AGRICULTURAL SCIENCES	50	55062982
+CABFNP03	GCA_902074915.1	Clonostachys chloroleuca	Scaffold	yes	no	SWEDISH UNIVERSITY OF AGRICULTURAL SCIENCES	49	61358807
+CABFNS01	GCA_902085965.1	Clonostachys rosea	Scaffold	yes	no	SWEDISH UNIVERSITY OF AGRICULTURAL SCIENCES	50.5	53069127
+CABFOC02	GCA_902141235.2	Clonostachys solani	Contig	yes	no	SWEDISH UNIVERSITY OF AGRICULTURAL SCIENCES	50	54492124
+CADCWR01	GCA_902806465.1	Hypomontagnella monticulosa	Contig	no	no	CEBITEC	46	42889121
+CADCWW01	GCA_902806505.1	Hypoxylon lienhwacheense	Contig	no	no	CEBITEC	45.5	35785595
+CADEBF01	GCA_902825475.1	Hypomontagnella monticulosa	Contig	no	no	CEBITEC	46.5	42321440
+CADEHS02	GCA_902827195.2	Clonostachys rosea	Scaffold	yes	no	SWEDISH UNIVERSITY OF AGRICULTURAL SCIENCES	48.5	70731402
+CAJHKQ01	GCA_905109915.1	Pyricularia oryzae	Scaffold	no	no	UNIVERSITY OF EXETER	50	43511044
+CAJJIA01	GCA_905186785.1	Pyricularia oryzae	Scaffold	no	no	UNIVERSITY OF EXETER	50	43437982
+CAKJYE01	GCA_918250775.1	Saccharomyces mikatae	Scaffold	no	no	University of Oslo	37.5	11963209
+CAKJYV01	GCA_918272125.1	Saccharomyces mikatae	Scaffold	no	no	University of Oslo	38	11792221
+CAKNEV01	GCA_930272055.1	Rhizopogon roseolus	Scaffold	no	no	INSTITUTE OF MICROBIOLOGY, ETH ZURICH	47.5	37675430
+CALMZL01	GCA_937870575.1	Nakaseomyces glabratus	Contig	no	no	European Bioinformatics Institute	38.5	11810450
+CALYLR01	GCA_944952825.1	Pyricularia grisea	Contig	no	no	The John Innes Centre	48	43698160
+CALYLT01	GCA_944989265.1	Pyricularia grisea	Contig	no	no	The John Innes Centre	48	43475824
+CAMZOP01	GCA_947343155.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11741056
+CAMZOU01	GCA_947343125.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11827920
+CAMZOW01	GCA_947343065.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	12026368
+CAMZPD01	GCA_947343225.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11927590
+CAMZPI01	GCA_947343185.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38.5	11621305
+CAMZPL01	GCA_947343175.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38.5	11682541
+CAMZPO01	GCA_947343295.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11972389
+CAMZQN01	GCA_947343535.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11768872
+CAMZQQ01	GCA_947343635.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38.5	11618574
+CAMZQT01	GCA_947343555.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11829725
+CAMZQW01	GCA_947343585.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11902102
+CAMZQY01	GCA_947343565.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11759136
+CAMZRG01	GCA_947343725.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11883299
+CAMZRH01	GCA_947343755.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	12027868
+CAMZRJ01	GCA_947343795.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11821301
+CAMZRL01	GCA_947343775.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11790384
+CAMZRN01	GCA_947343805.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11675773
+CAMZRO01	GCA_947343815.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11821928
+CAMZRX01	GCA_947343895.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38.5	11877393
+CAMZSQ01	GCA_947344135.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11703108
+CAMZSS01	GCA_947344065.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11814647
+CAMZSV01	GCA_947344105.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38.5	11698759
+CAMZTC01	GCA_947344235.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11471345
+CAMZTK01	GCA_947344305.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11892676
+CAMZTO01	GCA_947344205.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11691810
+CAMZTQ01	GCA_947344245.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11818645
+CAMZTR01	GCA_947344195.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11824094
+CAMZTT01	GCA_947344645.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11719389
+CAMZTV01	GCA_947344665.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38.5	11639773
+CAMZTW01	GCA_947344395.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11884728
+CAMZUA01	GCA_947344755.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11764906
+CAMZUC01	GCA_947344725.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11892894
+CAMZUG01	GCA_947344745.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11678141
+CAMZUJ01	GCA_947344565.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11696912
+CAMZUS01	GCA_947344505.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11767030
+CAMZUV01	GCA_947344625.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11776784
+CAMZUX01	GCA_947344455.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11990904
+CAMZUY01	GCA_947344515.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11982680
+CAMZVA01	GCA_947344535.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11745569
+CAMZVH01	GCA_947344805.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11577254
+CAMZVJ01	GCA_947344825.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	12120352
+CAMZVL01	GCA_947344835.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11767972
+CAMZVN01	GCA_947344855.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11921343
+CAMZVW01	GCA_947345085.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11817920
+CAMZWC01	GCA_947344975.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11815500
+CAMZWD01	GCA_947344925.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11831598
+CAMZWL01	GCA_947344945.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11665936
+CAMZWM01	GCA_947344895.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11699116
+CAMZWT01	GCA_947345155.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11909376
+CAMZWW01	GCA_947345205.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11979272
+CAMZXD01	GCA_947345275.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11865098
+CAMZXE01	GCA_947345285.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11770827
+CAMZXI01	GCA_947345325.1	Saccharomyces cerevisiae	Scaffold	no	no	Quadram Institute Bioscience	38	11872902
+CANBMT01	GCA_947369855.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	11971140
+CANBMW01	GCA_029990845.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	12310174
+CANBMX03			UNRESOLVED					
+CANBNQ01	GCA_947370275.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	12116088
+CANBOP01	GCA_029991315.1	Saccharomyces cerevisiae	Scaffold	yes	no	ibps sorbonne universite	38.5	12137032
+CANBQB01	GCA_029991225.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	11832229
+CANBQV02	GCA_030036135.2	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	32845401
+CANBQZ02	GCA_030036335.2	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	28796060
+CANBSO01	GCA_029991755.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	11982662
+CANBTS01	GCA_029990905.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	12071171
+CANBTV01	GCA_029990965.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	11920395
+CANBVP01	GCA_947370195.1	Saccharomyces cerevisiae	Scaffold	yes	no	ibps sorbonne universite	38.5	11861488
+CANBWI01	GCA_029990515.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	11911399
+CANBXQ01	GCA_947370715.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	11885734
+CANBYB01	GCA_029991605.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	12062428
+CANBYQ03			UNRESOLVED					
+CANBZZ02	GCA_030036155.2	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	31401219
+CANCBM01	GCA_029989845.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	11862453
+CANCBT01	GCA_947370025.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	11877387
+CANCDV01	GCA_947370435.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	11945347
+CANCFI03			UNRESOLVED					
+CANCFJ01	GCA_947369795.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	11830859
+CANCFK03			UNRESOLVED					
+CANCGW02	GCA_030036355.2	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	10082363
+CANCIE01	GCA_029990705.1	Saccharomyces cerevisiae	Scaffold	yes	no	ibps sorbonne universite	38.5	12232740
+CANCIU01	GCA_029990125.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	11799794
+CANCMJ02	GCA_030036455.2	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	31486056
+CANCMT02	GCA_030036115.2	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	57099456
+CANCNF02	GCA_030036235.2	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	35839082
+CANCNU01	GCA_029990805.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	11815591
+CANCON01	GCA_029990435.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	11865127
+CANCOQ01	GCA_029990785.1	Saccharomyces cerevisiae	Scaffold	yes	no	ibps sorbonne universite	38.5	11765885
+CANCPB01	GCA_029990535.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	12028136
+CANCSG01	GCA_947370535.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	12102675
+CANCTQ02	GCA_030036315.2	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38	21331923
+CANCUT03			UNRESOLVED					
+CANCVL01	GCA_029991515.1	Saccharomyces cerevisiae	Contig	yes	no	ibps sorbonne universite	38.5	11869610
+CANCVM03			UNRESOLVED					
+CAOQHR01	GCA_948474695.1	Periconia digitata	Contig	yes	no	INRAE	49	39023295
+CAPU01	GCA_001077315.1	Nakaseomyces bracarensis	Contig	no	no	LabRI	36	12229542
+CAUJNN01	GCA_963379335.1	Aspergillus sp.	Contig	no	no	NIH/NHGRI	50	12587437
+CAVMBW01	GCA_963678725.1	Monosporozyma servazzii	Contig	no	no	Quadram Institute Bioscience	34.5	12099517
+CBWZ01	GCA_000530345.1	Aspergillus sclerotiorum	Contig	no	no	SVSB	51	32841510
+CEMI01	GCA_900068925.1	Infundibulicybe gibba	Scaffold	no	no	Royal Botanic Gardens, Kew	49	73384637
+CEMM01	GCA_900068975.1	Hygrocybe conica	Scaffold	no	no	Royal Botanic Gardens, Kew	49.5	67958227
+CVRC01	GCA_900069095.1	Tubaria furfuracea	Scaffold	no	no	Royal Botanic Gardens, Kew	53.5	152547291
+CVRD01	GCA_001179745.1	Clavaria fumosa	Scaffold	no	no	Royal Botanic Gardens, Kew	55.5	70469476
+DAGWXF01	GCA_029295265.1	Sordariomycetes sp.	Scaffold	no	no	Helmholtz Centre for Environmental Research - UFZ	50.5	20017446
+DAGWXM01	GCA_029295075.1	Sordariomycetes sp.	Scaffold	no	no	Helmholtz Centre for Environmental Research - UFZ	50.5	36932287
+DAGXGM01	GCA_029300775.1	Saccharomyces cerevisiae	Scaffold	no	no	Helmholtz Centre for Environmental Research - UFZ	38.5	7970488
+FMSJ01	GCA_900096545.1	Nakaseomyces glabratus	Contig	yes	no	Technische Universitat Munchen - WZW	38.5	12296340
+FWCK01	GCA_900169545.1	Corynespora cassiicola	Scaffold	no	no	UNIVERSITY OF BRISTOL	52	42503748
+FWDN01	GCA_900166875.1	Nakaseomyces glabratus	Contig	yes	no	Technische Universitat Munchen - WZW	38.5	12296340
+FXEA01	GCA_900177955.1	Saccharomyces cerevisiae	Scaffold	no	no	INRA	41	9311869
+JAAAPP01	GCA_012656435.1	Aspergillus lentulus	Scaffold	yes	no	UNICAMP	49.5	30966382
+JAAAPQ01	GCA_012656455.1	Aspergillus lentulus	Scaffold	yes	no	UNICAMP	49.5	30687957
+JAAAPR01	GCA_012656445.1	Aspergillus lentulus	Scaffold	yes	no	UNICAMP	49	31600815
+JAAAPS01	GCA_012656395.1	Aspergillus lentulus	Scaffold	yes	no	UNICAMP	49.5	31244689
+JAAAPT01	GCA_012656375.1	Aspergillus lentulus	Scaffold	yes	no	UNICAMP	49.5	31201550
+JAAAPU01	GCA_012656335.1	Aspergillus lentulus	Scaffold	yes	no	UNICAMP	49.5	31549315
+JAABUG02	GCA_011319215.2	Scortechinia acanthostroma	Scaffold	no	no	Iridian Genomes	57.5	180836031
+JAACJD01	GCF_011692745.1	Arthroderma uncinatum	Contig	yes	yes	Chinese Academy of Medical Science and Peking Union Medical College	48.5	23563256
+JAACJN01	GCA_013368555.1	Collybiopsis confluens	Contig	yes	no	Lund University	46.5	60120426
+JAADKI01	GCA_010015655.1	Bimuria novae-zelandiae	Scaffold	yes	no	DOE Joint Genome Institute	44.5	78183505
+JAADKK01	GCA_010015725.1	Amniculicola lignicola	Scaffold	yes	no	DOE Joint Genome Institute	48	49576578
+JAADKO01	GCA_010015805.1	Rhizodiscina lignyota	Scaffold	yes	no	DOE Joint Genome Institute	51	33426352
+JAADYS01	GCA_012931995.1	Fusarium albosuccineum	Scaffold	yes	no	US Department of Agriculture, Agriculture Research Service	52	50867201
+JAAECO01	GCA_036850795.1	Cordyceps javanica	Contig	no	no	Taiwan Agricultural Chemicals and Toxic Substances Research Institute	53	34128300
+JAAEJB01	GCA_010093485.1	Karstenula rhodostoma	Scaffold	yes	no	DOE Joint Genome Institute	47.5	45074449
+JAAEJO01	GCA_010093715.1	Pleomassaria siparia	Scaffold	yes	no	DOE Joint Genome Institute	47.5	43176591
+JAAGLE01	GCA_010405425.1	Lentithecium fluviatile	Scaffold	yes	no	DOE Joint Genome Institute	48	54688705
+JAAGWO01	GCA_013266205.1	Fusarium decemcellulare	Scaffold	yes	no	US Department of Agriculture, Agriculture Research Service	52	53686487
+JAAKGX01	GCA_019775995.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	51.5	40916473
+JAAKHB01	GCA_033035145.1	Pyricularia oryzae	Scaffold	no	no	University of Kentucky	50.5	43853137
+JAAKHC01	GCA_033035115.1	Pyricularia oryzae	Scaffold	no	no	University of Kentucky	51	42718462
+JAAKHD01	GCA_033035085.1	Pyricularia oryzae	Scaffold	no	no	University of Kentucky	50	43244095
+JAALCZ01	GCA_012978415.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	51	41760938
+JAALDD01	GCA_017589555.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50.5	43681297
+JAALDG01	GCA_012978495.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	51.5	40104735
+JAALDH01	GCA_012978505.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	51.5	40318458
+JAALDI01	GCA_012978515.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50	43555119
+JAALDJ01	GCA_012979075.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50	43478302
+JAALGG01	GCA_011801745.1	Phyllachora maydis	Scaffold	no	no	Purdue University, Botany and Plant Pathology	47	45742705
+JAALXJ01	GCA_012977725.1	Fusarium tricinctum	Scaffold	no	no	US Department of Agriculture, Agriculture Research Service	48.5	41025305
+JAALXM01	GCA_012978535.1	Fusarium sp. NRRL 62957	Contig	no	no	US Department of Agriculture, Agriculture Research Service	51.5	43824757
+JAALXN01	GCA_012978555.1	Fusarium drepaniforme	Scaffold	no	no	US Department of Agriculture, Agriculture Research Service	51	48125938
+JAANAJ01	GCA_012654075.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50.5	42563887
+JAAOAH01	GCA_013186765.1	Fusarium bulbicola	Scaffold	no	no	US Department of Agriculture, Agriculture Research Service	48.5	42349376
+JAAOAL01	GCA_013186775.1	Fusarium dlaminii	Contig	no	no	US Department of Agriculture, Agriculture Research Service	48.5	44062281
+JAAQPE01	GCA_013396185.1	Fusarium circinatum	Scaffold	yes	no	US Department of Agriculture, Agriculture Research Service	48.5	42547896
+JAAQPG01	GCA_013186905.1	Fusarium udum	Scaffold	no	no	US Department of Agriculture, Agriculture Research Service	48.5	44617809
+JAAVUA01	GCA_014898875.1	Fusarium miscanthi	Scaffold	no	no	US Department of Agriculture, Agriculture Research Service	49	40939057
+JAAVUI01	GCA_014899075.1	Fusarium goolgardi	Scaffold	no	no	US Department of Agriculture, Agriculture Research Service	48	34842037
+JAAXMU01	GCA_012490815.1	Pyricularia oryzae	Contig	no	no	CAAS,Chinese Academy of Agricultural Sciences	51	38497009
+JAAXMV01	GCA_012490805.1	Pyricularia oryzae	Contig	no	no	CAAS,Chinese Academy of Agricultural Sciences	50.5	40186092
+JAAZTN01	GCA_021365345.1	Beauveria bassiana	Contig	yes	no	Jeonbuk National University	49.5	35662634
+JABAJW01	GCA_018855395.1	Arthromyces matolae	Scaffold	yes	no	Wageningen University and Research	47	50532040
+JABAOI01	GCA_012654165.1	Beauveria bassiana	Contig	no	no	Universita degli Studi di Sassari	52	32190906
+JABBWR01	GCA_016695475.1	Suillus decipiens	Scaffold	yes	no	DOE Joint Genome Institute	46	62784544
+JABCJW01	GCA_013184375.1	Fusarium newnesense	Scaffold	no	no	US Department of Agriculture, Agriculture Research Service	48.5	48754646
+JABCKC01	GCA_013186395.1	Fusarium papillatum	Scaffold	no	no	US Department of Agriculture, Agriculture Research Service	51	47993716
+JABCKD01	GCA_013186415.1	Fusarium sp. NRRL 66088	Scaffold	no	no	US Department of Agriculture, Agriculture Research Service	51.5	48685532
+JABCKE02	GCA_013186425.2	Fusarium sp. NRRL 62610	Scaffold	no	no	US Department of Agriculture, Agriculture Research Service	51	46117750
+JABCKN01	GCA_018850235.1	Tephrocybe rancida	Scaffold	no	no	Wageningen University and Research	49	66129832
+JABCKP01	GCA_018850255.1	Arthromyces matolae	Scaffold	no	no	Wageningen University and Research	47	50959025
+JABCKT01	GCA_018858115.1	Tephrocybe rancida	Scaffold	yes	no	Wageningen University and Research	49.5	66588273
+JABCKV01	GCA_018282005.1	Asterophora parasitica	Scaffold	yes	no	Wageningen University and Research	51	34053942
+JABEEN01	GCA_013363205.1	Fusarium tuaranense	Scaffold	no	no	US Department of Agriculture, Agriculture Research Service	51	48885884
+JABFFB01	GCA_013623555.1	Fusarium nisikadoi	Scaffold	no	no	US Department of Agriculture, Agriculture Research Service	49	40881803
+JABFFI01	GCA_013623725.1	Fusarium robinianum	Scaffold	no	no	US Department of Agriculture, Agriculture Research Service	51.5	36526469
+JABJVU01	GCA_013168735.1	Fusarium solani	Contig	no	no	Indian Institute of Science	50.5	48700677
+JABSNF01	GCA_024704135.1	Pyricularia grisea	Scaffold	yes	no	University of Bedfordshire	48	42881890
+JABSNG01	GCA_024704145.1	Pyricularia oryzae	Scaffold	yes	no	University of Bedfordshire	49.5	43610565
+JABSNJ01	GCA_024704255.1	Pyricularia oryzae	Scaffold	yes	no	University of Bedfordshire	50	41929093
+JABSTN01	GCA_013759125.1	Fusarium sp. NRRL 53293	Scaffold	no	no	US Department of Agriculture, Agriculture Research Service	49	43919567
+JABULS01	GCA_024704035.1	Pyricularia oryzae	Scaffold	yes	no	University of Bedfordshire	50	41829476
+JABYMY01	GCA_022385765.1	Trametes cingulata	Scaffold	yes	no	DOE Joint Genome Institute	58	35002292
+JABYQR01	GCA_022592445.1	Cytidiella melzeri	Contig	yes	no	DOE Joint Genome Institute	49.5	50894641
+JACAZI01	GCA_014462655.1	Mycena venus	Contig	yes	no	Academia Sinica	49.5	162187722
+JACBKO01	GCF_022376455.1	Epithele typhae	Contig	yes	yes	DOE Joint Genome Institute	59	56143418
+JACCMO01	GCA_015266435.1	Epicoccum latusicollum	Contig	no	no	Guizhou Tobacco Science Institute	52	33587228
+JACEER01	GCA_016808025.1	Aspergillus japonicus	Scaffold	no	no	University of Colombo	51	35449427
+JACJUF01	GCA_019843645.1	Ophiocordyceps australis	Scaffold	no	no	State University of Feira de Santana (UEFS)	46.5	30391166
+JACTAD01	GCF_014595645.1	Diaporthe citri	Contig	yes	yes	Huazhong Agricultural University	46.5	63685968
+JACTVB01	GCA_018423945.1	Laccaria trichodermophora	Scaffold	no	no	Instituto de Biologia, Universidad Nacional Autonoma de Mexico	47	92785001
+JACTVC01	GCA_018417955.1	Laccaria trichodermophora	Scaffold	no	no	Instituto de Biologia, Universidad Nacional Autonoma de Mexico	47	59062912
+JACTVD01	GCA_018417965.1	Laccaria trichodermophora	Scaffold	no	no	Instituto de Biologia, Universidad Nacional Autonoma de Mexico	46.5	111901891
+JACTVE01	GCA_018423875.1	Laccaria trichodermophora	Scaffold	no	no	Instituto de Biologia, Universidad Nacional Autonoma de Mexico	47	93804552
+JACVMZ01	GCA_022684715.1	Beauveria bassiana	Scaffold	no	no	Universidad Nacional	50.5	34736857
+JACVNA01	GCA_022684685.1	Beauveria bassiana	Scaffold	no	no	Universidad Nacional	50.5	34550421
+JACVNB01	GCA_022684695.1	Beauveria bassiana	Scaffold	no	no	Universidad Nacional	50	32980371
+JACVNC01	GCA_022684705.1	Beauveria bassiana	Scaffold	no	no	Universidad Nacional	50.5	32975303
+JACVND01	GCA_022684745.1	Beauveria bassiana	Scaffold	no	no	Universidad Nacional	51	32169671
+JACVNE01	GCA_022684725.1	Beauveria bassiana	Scaffold	no	no	Universidad Nacional	50.5	34631488
+JACVNF01	GCA_022758125.1	Beauveria bassiana	Scaffold	no	no	Universidad Nacional	50.5	33004700
+JACVNG01	GCA_022684765.1	Beauveria bassiana	Contig	no	no	Universidad Nacional	50.5	32876856
+JACVQR01	GCA_019827475.1	Penicillium cf. chrysogenum	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	49.5	68790985
+JACVRA01	GCA_019828545.1	Paracamarosporium sp. OC-R06-R3	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	49	45825275
+JACWFA01	GCA_017579625.1	Fusarium sororula	Scaffold	no	no	Forestry and Agricultural Biotechnology Institute (FABI), University of Pretoria	46	47806863
+JACWGA01	GCA_019775315.1	Aspergillus sp. JS3-R5	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	51	25520748
+JACXKL01	GCA_026119635.1	Aspergillus niger	Scaffold	no	no	China Center of Industrial Culture Collection	50	34769151
+JACXKM01	GCA_026119675.1	Aspergillus niger	Scaffold	no	no	China Center of Industrial Culture Collection	49.5	35443646
+JACXKN01	GCA_026119665.1	Aspergillus niger	Scaffold	no	no	China Center of Industrial Culture Collection	49.5	35436306
+JACXKO01	GCA_026119705.1	Aspergillus niger	Scaffold	no	no	China Center of Industrial Culture Collection	49.5	35552239
+JACXKP01	GCA_026119715.1	Aspergillus niger	Scaffold	no	no	China Center of Industrial Culture Collection	49.5	35583932
+JACXKQ01	GCA_026119745.1	Aspergillus niger	Scaffold	no	no	China Center of Industrial Culture Collection	49.5	35730880
+JACXKR01	GCA_026119755.1	Aspergillus niger	Scaffold	no	no	China Center of Industrial Culture Collection	49.5	36275463
+JACXKS01	GCA_026119785.1	Aspergillus niger	Scaffold	no	no	China Center of Industrial Culture Collection	49.5	35575414
+JACYFL01	GCA_014925755.1	Clonostachys rosea	Scaffold	no	no	National Research Council of Canada	50	56858274
+JACYFM01	GCA_014925725.1	Clonostachys rosea	Scaffold	no	no	National Research Council of Canada	50	55510273
+JACYOB01	GCA_014770115.1	Fusarium oxysporum	Scaffold	no	no	Zhongkai University of Agriculture and Engineering	51	47541829
+JADAZO01	GCA_014873005.1	Diaporthe citri	Contig	no	no	ZHEJIANG UNIVERSITY	47.5	63637472
+JADAZP01	GCA_014872985.1	Diaporthe citri	Contig	no	no	ZHEJIANG UNIVERSITY	52.5	53972068
+JADBGJ01	GCA_015266365.1	Beauveria bassiana	Scaffold	no	no	Guangdong Academy of Agricultural Sciences	49	36659285
+JADBGV01	GCA_015586375.1	Aspergillus unguis	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	50.5	25892012
+JADBHA01	GCA_015586245.1	Aspergillus niger	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	49.5	35865776
+JADBHC01	GCA_015586235.1	Aspergillus niger	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	49.5	37533732
+JADBHD01	GCA_015586215.1	Aspergillus niger	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	49.5	37317966
+JADCQZ01	GCA_020087035.1	Acremonium sp. FKII-L8-BK-P5	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	50	34452312
+JADCTT01	GCA_015832225.1	Clonostachys rosea	Contig	no	no	Northwest A&F University	48.5	60683581
+JADDUG01	GCA_018340795.1	Penicillium steckii	Scaffold	no	no	Minjiang University	46.5	33404627
+JADEYF01	GCA_019843515.1	Aspergillus niger	Contig	no	no	Zhejiang University of Technology	49.5	36095484
+JADEZT01	GCA_016618095.1	Colletotrichum echinochloae	Contig	no	no	Hubei Academy of Agricultural Sciences	46.5	62246358
+JADNRB01	GCA_017654865.1	Fusarium sp. FW16.1	Scaffold	no	no	Hamburg University	51	47436558
+JADNRX01	GCA_015501595.1	Hymenopellis radicata	Contig	yes	no	DOE Joint Genome Institute	51	78586690
+JADNRY01	GCA_015501585.1	Rhodocollybia butyracea	Contig	yes	no	DOE Joint Genome Institute	45.5	96282412
+JADPID01	GCA_016748025.1	Aspergillus aculeatinus	Scaffold	no	no	UMass Amherst	50.5	36473088
+JADWDI01	GCA_016097275.1	Aspergillus elegans	Contig	no	no	University Complutense of Madrid	49	36777498
+JADZLS01	GCA_021436905.1	Fusarium circinatum	Chromosome	no	no	Forestry and Agricultural Biotechnology Institute (FABI), University of Pretoria	47	45984420
+JAEBUQ01	GCA_023014435.1	Amanita fuliginea	Scaffold	no	no	Kunming Institute of Botany	46	60225502
+JAEBUS01	GCA_023014475.1	Amanita pallidorosea	Scaffold	no	no	Kunming Institute of Botany	46	57854386
+JAECYW01	GCA_023014335.1	Galerina marginata	Contig	no	no	Kunming Institute of Botany	47.5	69369710
+JAEDUJ01	GCA_017870715.1	Saccharomyces cerevisiae	Scaffold	no	no	Institute of Microbiology	38	11795075
+JAEILZ01	GCA_018873225.1	[Phialemoniopsis] sp. UDSM-2020	Scaffold	no	no	University of Dar es Salaam	53.5	44190464
+JAEMHD01	GCA_016906405.1	Corynespora cassiicola	Contig	no	no	Environment and Plant Protection Institute	51	45111533
+JAEMHE01	GCA_016906425.1	Corynespora cassiicola	Contig	no	no	Environment and Plant Protection Institute	51	47119670
+JAEUWX01	GCA_022496115.1	Corynespora cassiicola	Scaffold	no	no	Henan Agricultural University	52	44895370
+JAEVFL01	GCA_021018615.1	Phlebopus sp. FC_14	Contig	yes	no	DOE Joint Genome Institute	48.5	36096188
+JAFBMQ01	GCA_019976475.1	Aspergillus westerdijkiae	Contig	no	no	Aalborg university	49	36038104
+JAFEME01	GCA_018831755.1	Niveomyces coronatus	Scaffold	no	no	University of Central Florida	51	31950270
+JAFFKC01	GCA_024665945.1	Nakaseomyces glabratus	Scaffold	no	no	Institute for Bioengineering and Biosciences, Instituto Superior Tecnico	38.5	12234984
+JAFFKD01	GCA_024665985.1	Nakaseomyces glabratus	Scaffold	no	no	Institute for Bioengineering and Biosciences, Instituto Superior Tecnico	38.5	12227594
+JAFFKE01	GCA_024666015.1	Nakaseomyces glabratus	Scaffold	no	no	Institute for Bioengineering and Biosciences, Instituto Superior Tecnico	38.5	12206129
+JAFIQS02	GCF_017499595.1	Psilocybe cubensis	Chromosome	yes	yes	Medicinal Genomics	46	46389424
+JAFISE01	GCA_022560025.1	Stagonosporopsis chrysanthemi	Scaffold	no	no	Institute of Microbiology, Chinese Academy of Sciences	51.5	36770571
+JAFJTQ02	GCA_022559915.2	Septoria petroselini	Scaffold	no	no	Institute of Microbiology, Chinese Academy of Sciences	53.5	29145266
+JAGGAR01	GCA_017657315.1	Termitomyces sp. K1Ag	Scaffold	no	no	Wageningen University and Research	47	76223964
+JAGGAS01	GCA_017657355.1	Termitomyces sp. K1Ac	Scaffold	no	no	Wageningen University and Research	47	70706418
+JAGGAW01	GCA_017657375.1	Termitomyces sp. T27	Scaffold	no	no	Wageningen University and Research	46.5	84676684
+JAGIXU01	GCA_018167515.1	Amorphotheca resinae	Contig	no	no	Korea University	47.5	30110100
+JAGKQD01	GCA_022609545.1	Didymella pinodella	Scaffold	no	no	Institute of Microbiology, Chinese Academy of Sciences	52	34778787
+JAGMTT01	GCA_019721355.1	Aspergillus sp. MEXU 27854	Contig	no	no	UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO	53	30756112
+JAGQDI01	GCA_020615335.1	Fusarium pilosicola	Contig	no	no	Forestry and Agricultural Biotechnology Institute (FABI), University of Pretoria	47	47881020
+JAGQEL01	GCA_019202905.1	Corynespora cassiicola	Scaffold	no	no	Federal University of Vicosa	52	46196024
+JAGQEM01	GCA_019202945.1	Corynespora olivacea	Scaffold	no	no	Federal University of Vicosa	53	34047820
+JAGRPH01	GCA_019288275.1	Aspergillus niger	Chromosome	no	no	TU Wien	49.5	40425233
+JAGTTU01	GCA_020797215.1	Nakaseomyces glabratus	Chromosome	yes	no	BSC	39	12491754
+JAGTTV01	GCA_020797205.1	Nakaseomyces glabratus	Chromosome	yes	no	BSC	39	12482983
+JAGTTW01	GCA_020797195.1	Nakaseomyces glabratus	Chromosome	yes	no	BSC	39	12391558
+JAGTTY01	GCA_020797185.1	Nakaseomyces glabratus	Chromosome	yes	no	BSC	39	12509784
+JAGTTZ01	GCA_020797325.1	Nakaseomyces glabratus	Chromosome	yes	no	BSC	39	12468874
+JAGTUA01	GCA_020797355.1	Nakaseomyces glabratus	Chromosome	yes	no	BSC	39	12311592
+JAGUQC01	GCA_018408605.1	Aspergillus unguis	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	50.5	25892532
+JAGUQD01	GCA_018408615.1	Aspergillus unguis	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	50.5	25891216
+JAGXNN02	GCF_023601865.1	Aspergillus affinis	Scaffold	yes	yes	Universidade de Aveiro	50	37565501
+JAHART01	GCA_019191195.1	Penicillium citrinum	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	46.5	30994190
+JAHLKA01	GCA_030867235.1	Colletotrichum falcatum	Scaffold	yes	no	DOE Joint Genome Institute	53	49085377
+JAHMAE01	GCA_030867255.1	Colletotrichum somersetense	Scaffold	yes	no	DOE Joint Genome Institute	50	53667270
+JAHNUO01	GCA_019787685.1	Chiua virens	Contig	yes	no	INRAE	49	48496802
+JAHQIZ01	GCA_019843725.1	Clonostachys rosea	Scaffold	no	no	Western Sydney University	49.5	55519090
+JAHQJB01	GCA_019843565.1	Clonostachys rosea	Scaffold	no	no	Western Sydney University	49.5	55572904
+JAHTMQ01	GCA_019327925.1	Leucocoprinus sp. KB1807203	Contig	no	no	University of Texas at Tyler	42.5	38119301
+JAHUUE01	GCA_027480175.1	Nakaseomyces glabratus	Scaffold	no	no	Institute for Bioengineering and Biosciences, Instituto Superior Tecnico	38.5	12192315
+JAHUUF01	GCA_027480195.1	Nakaseomyces glabratus	Scaffold	no	no	Institute for Bioengineering and Biosciences, Instituto Superior Tecnico	38.5	12192418
+JAHUUG01	GCA_027480185.1	Nakaseomyces glabratus	Scaffold	no	no	Institute for Bioengineering and Biosciences, Instituto Superior Tecnico	38.5	12208290
+JAHVYB01	GCA_020623695.1	Calonectria henricotiae	Scaffold	no	no	USDA-ARS	47	53029493
+JAHVYC01	GCA_020623665.1	Calonectria multiphialidica	Scaffold	no	no	USDA-ARS	50	62898638
+JAHVYD01	GCA_020623675.1	Calonectria pseudonaviculata	Scaffold	no	no	USDA-ARS	46.5	53981834
+JAIJZX01	GCA_021442215.1	Albifimbria verrucaria	Contig	no	no	Nanyang Normal University	49.5	45846596
+JAILXC01	GCA_020284045.1	Aspergillus versicolor	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	50	35112258
+JAILXF01	GCA_020284165.1	Penicillium citrinum	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	46.5	31183193
+JAIOTV01	GCA_026319385.1	Aspergillus sydowii	Scaffold	no	no	NanJing agricutural university	50	35381780
+JAIOTW01	GCA_026319405.1	Aspergillus sydowii	Scaffold	no	no	NanJing agricutural university	50.5	34221739
+JAIWOZ01	GCA_020631695.1	Trichoderma cornu-damae	Chromosome	yes	no	Korea National Arboretum	44	38604505
+JAJAEB01	GCA_021436935.1	Aspergillus creber	Contig	no	no	Normandie University	49.5	34897705
+JAJBJL01	GCA_026259865.1	Aspergillus westerdijkiae	Scaffold	no	no	Institute of Food Science and Technology, CAAS	50	36309715
+JAJBJO01	GCA_022344955.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51.5	33937141
+JAJBJP01	GCA_022344925.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51.5	33663170
+JAJBJQ01	GCA_022344905.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51.5	33512678
+JAJBJR01	GCA_022344885.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51.5	33484307
+JAJBJS01	GCA_022344895.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51.5	33787654
+JAJBJX01	GCA_022344775.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51	34025009
+JAJBJY01	GCA_022344765.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51	34103675
+JAJBJZ01	GCA_022344745.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51	34274301
+JAJBKA01	GCA_022344705.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51	34026010
+JAJBKB01	GCA_022344695.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51	34016377
+JAJBKC01	GCA_022344665.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51	33780720
+JAJBKD01	GCA_022344655.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51	33968938
+JAJBKF01	GCA_022344625.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51	33700628
+JAJBKG01	GCA_022344615.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51	33780674
+JAJBKL01	GCA_022344505.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51.5	33518967
+JAJBKM01	GCA_022344485.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	33040726
+JAJBKN01	GCA_022344465.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51	33933969
+JAJBKO01	GCA_022344435.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	33912099
+JAJBKP01	GCA_022344415.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51	33014735
+JAJBKQ01	GCA_022344405.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	33853933
+JAJBKS01	GCA_022344355.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	33445883
+JAJBKT01	GCA_022344335.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	34088516
+JAJBKW01	GCA_022344265.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	33726328
+JAJBKX01	GCA_022344255.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51	33859980
+JAJBKZ01	GCA_022344235.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	33806366
+JAJBLA01	GCA_022344205.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	33647220
+JAJBLB01	GCA_022344135.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	33637333
+JAJBLC01	GCA_022344125.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	33778586
+JAJBLE01	GCA_022344145.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	33896488
+JAJBLK01	GCA_022345285.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	33392025
+JAJBLL01	GCA_022345245.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	32894866
+JAJBLM01	GCA_022345235.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51	33875197
+JAJBLN01	GCA_022345165.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	33720235
+JAJBLO01	GCA_022345175.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	34037071
+JAJBLP01	GCA_022345185.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51.5	33382474
+JAJBLQ01	GCA_022355435.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	33835726
+JAJBLT01	GCA_022345095.1	Alternaria alternata	Contig	no	no	Beijing Forestry University	51	33800106
+JAJBLU01	GCA_022345075.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	33309423
+JAJBLV01	GCA_022345085.1	Alternaria alternata	Scaffold	no	no	Beijing Forestry University	51	33418568
+JAJEQZ01	GCA_022833035.1	Fusarium marasasianum	Scaffold	no	no	Forestry and Agricultural Biotechnology Institute (FABI), University of Pretoria	46.5	47207981
+JAJGZG01	GCA_026261755.1	Aspergillus niger	Scaffold	no	no	UoN	49.5	35891468
+JAJHGM01	GCA_022385585.1	Hypomontagnella monticulosa	Scaffold	yes	no	DOE Joint Genome Institute	46	42439719
+JAJHUC01	GCA_022578705.1	Xylariaceae sp. FL1019	Scaffold	yes	no	DOE Joint Genome Institute	45.5	51346424
+JAJHUF01	GCA_022578795.1	Xylariaceae sp. FL0255	Scaffold	yes	no	DOE Joint Genome Institute	44.5	50386733
+JAJHUN01	GCF_028009165.1	Akanthomyces muscarius	Chromosome	yes	yes	University of Exeter	53	36207525
+JAJIYX01	GCA_035773195.1	Phallus impudicus	Contig	no	no	School of Bioscience and Technology	44	63542048
+JAJJXC01	GCA_022432385.1	Xylariaceae sp. FL1272	Contig	yes	no	DOE Joint Genome Institute	47	50248018
+JAJKKQ01	GCA_022578615.1	Hypoxylon rubiginosum	Scaffold	yes	no	DOE Joint Genome Institute	48.5	44157955
+JAJLTY01	GCA_030569875.1	Nakaseomyces bracarensis	Scaffold	no	no	UW-Madison	36	12338748
+JAJLUB01	GCA_030564085.1	Nakaseomyces uthaithaninus	Scaffold	no	no	UW-Madison	42	12455243
+JAJLUX01	GCA_030564425.1	Wickerhamiella cacticola	Scaffold	no	no	UW-Madison	48.5	11880098
+JAJLWS01	GCA_030570895.1	Nakaseomyces delphensis	Scaffold	no	no	UW-Madison	39	10889885
+JAJLXE01	GCA_030571095.1	Hansenula sp. yHMH451	Scaffold	no	no	UW-Madison	36	13843270
+JAJLXT01	GCA_030571395.1	Nakaseomyces sp. UFMG-CM-Y6046	Scaffold	no	no	UW-Madison	38	12947746
+JAJLYK01	GCA_022578845.1	Hypoxylon cercidicola	Scaffold	yes	no	DOE Joint Genome Institute	50.5	36615672
+JAJMEL01	GCA_030574155.1	Xiuguozyma insectalens	Scaffold	no	no	UW-Madison	43.5	9248256
+JAJMHA01	GCA_030583085.1	Hermanozyma aechmeae	Scaffold	no	no	UW-Madison	49	11247228
+JAJNMA01	GCA_023089535.1	Botryosphaeria dothidea	Scaffold	no	no	Shandong Agricultural University	53.5	56026960
+JAJNNY01	GCA_022453515.1	Astrocystis sublimbata	Contig	yes	no	DOE Joint Genome Institute	51	42778081
+JAJOHK02	GCA_022457215.2	Leucocoprinus gongylophorus	Contig	no	no	Metropolitan Autonomous University, Campus Cuajimalpa		
+JAJQVK01	GCA_025331885.1	Nakaseomyces glabratus	Chromosome	yes	no	BSC	39	12580898
+JAJQVL01	GCA_025331905.1	Nakaseomyces glabratus	Chromosome	yes	no	BSC	39	12686151
+JAJTJA01	GCF_021365285.1	Talaromyces proteolyticus	Contig	yes	yes	DOE Joint Genome Institute	45.5	37611490
+JAJTTY01	GCA_036971295.1	Dactylellina cionopaga	Scaffold	no	no	Institute of Microbiology, Chinese Academy of Sciences	44	47398064
+JAJTUA01	GCA_036971325.1	Dactylellina cionopaga	Scaffold	no	no	Institute of Microbiology, Chinese Academy of Sciences	44.5	48829040
+JAJUXL01	GCA_021613345.1	Alternaria burnsii	Scaffold	no	no	Guangxi Institute of Botany	51	28671348
+JAKCVR01	GCA_026539265.1	Nakaseomyces glabratus	Contig	no	no	University of Warwick	39	12633394
+JAKCVU01	GCA_026539755.1	Nakaseomyces glabratus	Contig	no	no	University of Warwick	39	12710449
+JAKCVV01	GCA_026539885.1	Nakaseomyces glabratus	Contig	no	no	University of Warwick	39	12337459
+JAKCVX01	GCA_026539985.1	Nakaseomyces glabratus	Contig	no	no	University of Warwick	39	12334482
+JAKCVY01	GCA_026540005.1	Nakaseomyces glabratus	Contig	no	no	University of Warwick	39	12656330
+JAKELH01	GCA_021525015.1	Lactarius pseudohatsudake	Contig	yes	no	DOE Joint Genome Institute	52.5	99708583
+JAKELI01	GCA_021525025.1	Lactarius hengduanensis	Contig	yes	no	DOE Joint Genome Institute	52.5	61963203
+JAKELK01	GCA_021525775.1	Lactarius deliciosus	Contig	yes	no	DOE Joint Genome Institute	52	96043985
+JAKEYE01	GCA_021525005.1	Lactarius hatsudake	Contig	yes	no	DOE Joint Genome Institute	52	95464894
+JAKEYF01	GCA_021527775.1	Lactarius sanguifluus	Contig	yes	no	DOE Joint Genome Institute	52	86230511
+JAKFQR01	GCA_021498365.1	Nakaseomyces glabratus	Scaffold	no	no	University of Houston College of Pharmacy	38.5	12150649
+JAKFQS01	GCA_021498375.1	Nakaseomyces glabratus	Scaffold	no	no	University of Houston College of Pharmacy	38.5	12144313
+JAKFQT01	GCA_021498385.1	Nakaseomyces glabratus	Scaffold	no	no	University of Houston College of Pharmacy	38.5	12137231
+JAKFQU01	GCA_021498435.1	Nakaseomyces glabratus	Scaffold	no	no	University of Houston College of Pharmacy	38.5	12136444
+JAKJLR01	GCA_023134475.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	49.5	35622924
+JAKJLS01	GCA_023134515.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	49.5	35778286
+JAKJLT01	GCA_023134445.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	49.5	35486736
+JAKJLU01	GCA_023134385.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	49.5	37084517
+JAKJLW01	GCA_023134355.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	49.5	35775950
+JAKJLX01	GCA_023134295.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	50	36274773
+JAKJLY01	GCA_023134235.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	49.5	35441747
+JAKJLZ01	GCA_023134415.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	50	34741544
+JAKJMA01	GCA_023134265.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	49.5	36433706
+JAKJMB01	GCA_023137925.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	49.5	35733084
+JAKJMC01	GCA_023137955.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	49.5	36455974
+JAKJMD01	GCA_023137965.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	49.5	35675295
+JAKJME01	GCA_023137895.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	50	34955793
+JAKJMF01	GCA_023137865.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	49.5	35407968
+JAKJMG01	GCA_023091265.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	50	34894469
+JAKJMH01	GCA_023137805.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	50	35033304
+JAKJMI01	GCA_023137835.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	49.5	35624057
+JAKJMJ01	GCA_023137795.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	49.5	37599983
+JAKJMK01	GCA_023137765.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	49.5	37078098
+JAKJML01	GCA_023091205.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	49.5	35763068
+JAKJMM01	GCA_023137735.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	50	35375397
+JAKJMN01	GCA_023137705.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	50	38874115
+JAKJMO01	GCA_023137675.1	Aspergillus niger	Scaffold	yes	no	Utrecht University	49.5	35350131
+JAKJXO02	GCA_022225985.2	Paraconiothyrium brasiliense	Scaffold	yes	no	Agriculture and Agri-Food Canada	51.5	39345625
+JAKLNE01	GCA_022814615.1	Waltergamsia citrina	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	50	34525570
+JAKLNJ01	GCA_022814545.1	Alternaria angustiovoidea	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	51	34215686
+JAKLYX02	GCA_024195175.2	Nakaseomyces glabratus	Scaffold	yes	no	Uludag University Medical School	38.5	12053058
+JAKMAZ01	GCA_029169295.1	Aspergillus alliaceus	Scaffold	no	no	University of Florida	47.5	41600645
+JAKOOT01	GCA_028408395.1	Monosporozyma servazzii	Scaffold	no	no	The University of Adelaide	34.5	12334243
+JAKTPX01	GCA_030579235.1	Nakaseomyces glabratus	Scaffold	no	no	UW-Madison	38.5	12347516
+JAKTRM01	GCA_030579635.1	Wickerhamiella australiensis	Scaffold	no	no	UW-Madison	48.5	11336709
+JAKTRY01	GCA_030579935.1	Ambrosiozyma cicatricosa	Scaffold	no	no	UW-Madison	37.5	23266441
+JAKTRZ01	GCA_030579955.1	Ambrosiozyma monospora	Scaffold	no	no	UW-Madison	38	24315144
+JAKTWM01	GCA_030582215.1	Wickerhamiella alocasiicola	Scaffold	no	no	UW-Madison	49	11809317
+JAKTWN01	GCA_030582035.1	Wickerhamiella occidentalis	Scaffold	no	no	UW-Madison	48	9848422
+JAKTWO01	GCA_030582055.1	Wickerhamiella lipophila	Scaffold	no	no	UW-Madison	48	8771421
+JAKTWR01	GCA_030582415.1	Wickerhamiella vanderwaltii	Scaffold	no	no	UW-Madison	45.5	9962901
+JAKTZJ01	GCA_030564785.1	Metschnikowia hibisci	Scaffold	no	no	UW-Madison	42.5	11320842
+JAKUDF01	GCA_022712995.1	Eutypa lata	Contig	yes	no	The Australian Wine Research Institute	46	53462970
+JAKUKQ01	GCA_022661835.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54773814
+JAKUKR01	GCA_022661825.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54940314
+JAKUKS01	GCA_022661805.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46.5	53556880
+JAKUKT01	GCA_022661775.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54827667
+JAKUKU01	GCA_022661755.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	45.5	56513194
+JAKUKV01	GCA_022661735.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54775528
+JAKUKW01	GCA_022661715.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	55070476
+JAKUKX01	GCA_022661705.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	45.5	55277208
+JAKUKY01	GCA_022661675.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54988747
+JAKUKZ01	GCA_022661665.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54851794
+JAKULA01	GCA_022661635.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	45.5	55288697
+JAKULB01	GCA_022661615.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54698370
+JAKULC01	GCA_022661605.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54822150
+JAKULD01	GCA_022661575.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	45.5	55181687
+JAKULE01	GCA_022661565.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54920337
+JAKULF01	GCA_022661535.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	45.5	54535414
+JAKULG01	GCA_022661525.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	55130589
+JAKULH01	GCA_022661515.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	55179620
+JAKULI01	GCA_022661475.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54969816
+JAKULJ01	GCA_022661445.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54992391
+JAKULK01	GCA_022661455.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	55204705
+JAKULL01	GCA_022661435.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	55183616
+JAKULM01	GCA_022661395.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	55120602
+JAKULN01	GCA_022661375.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54950710
+JAKULO01	GCA_022661355.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	55185893
+JAKULP01	GCA_022661345.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54836164
+JAKULQ01	GCA_022661335.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54963668
+JAKULR01	GCA_022661325.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54964501
+JAKULS01	GCA_022661275.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	55006327
+JAKULT01	GCA_022661255.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	45.5	55244067
+JAKULU01	GCA_022661245.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	45.5	55167414
+JAKULV01	GCA_022661235.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	45.5	56870291
+JAKULW01	GCA_022661185.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	55720373
+JAKULX01	GCA_022661205.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	55087575
+JAKULY01	GCA_022661075.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54674161
+JAKULZ01	GCA_022660935.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	45.5	55192079
+JAKUMA01	GCA_022660915.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54859211
+JAKUMB01	GCA_022660925.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	55138237
+JAKUMC01	GCA_022660945.1	Eutypa lata	Contig	no	no	The Australian Wine Research Institute	46	54761314
+JALAIO01	GCA_023646045.1	Letrouitia transgressa	Contig	yes	no	Royal Botanic Gardens Kew	48	26337752
+JALBEZ01	GCA_026652265.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	46.5	57829245
+JALBFA01	GCA_026652305.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	49	51539737
+JALBFB01	GCA_026652355.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	54	43145614
+JALBFC01	GCA_026652695.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	49.5	50305269
+JALBFD01	GCA_026652705.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	45.5	60257832
+JALBFE01	GCA_026652995.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	45.5	60620047
+JALBXX01	GCA_022702475.2	Nakaseomyces glabratus	Contig	no	no	CSIR-NATIONAL INSTITUTE FOR INTERDISCIPLINARY SCIENCE AND TECHNOLOGY	38.5	12176438
+JALCYR01	GCA_023973445.1	Aspergillus niger	Contig	no	no	Centro de Ciencias Genomicas - Universidad Nacional Autonoma de Mexico	49.5	36413744
+JALCYS01	GCA_023973435.1	Aspergillus niger	Contig	no	no	Centro de Ciencias Genomicas - Universidad Nacional Autonoma de Mexico	50.5	37733853
+JALDZH01	GCA_022814215.1	Lobaria immixta	Scaffold	yes	no	University of Graz	47	55886429
+JALILR01	GCA_023184635.1	Umbilicaria deusta	Scaffold	no	no	Senckenberg Gesellschaft fuer Naturforschung	47	40883888
+JALJPU01	GCA_026652225.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	48	53778362
+JALJPW01	GCA_026652245.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	52.5	44929710
+JALJPX01	GCA_026652285.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	45.5	58978423
+JALJPY01	GCA_026653275.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	49	51324951
+JALJPZ01	GCA_026652315.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	45.5	59309189
+JALJQA01	GCA_026653375.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	50	49480776
+JALJQB01	GCA_026653475.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	48.5	52363910
+JALJQC01	GCA_026653595.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	53.5	43764066
+JALJQD01	GCA_026653705.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	49.5	49263723
+JALJQE01	GCA_026654635.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	54	49923410
+JALJQF01	GCA_026656465.1	Colletotrichum graminicola	Scaffold	no	no	University of Bologna	50.5	48885120
+JALPZM01	GCA_026213095.1	Tricholoma matsutake	Contig	no	no	National Institue of Forest Science	45.5	162632606
+JALZYO01	GCA_023619755.1	Aspergillus sp. PB2407	Scaffold	no	no	Dalian Medical University	50	33528687
+JALZYP01	GCA_023619735.1	Aspergillus sp. F3601	Scaffold	no	no	Dalian Medical University	50.5	33620165
+JALZYR01	GCA_023619705.1	Aspergillus sp. PA2101	Scaffold	no	no	Dalian Medical University	50	34494428
+JALZYS01	GCA_023619655.1	Aspergillus sp. S1905	Scaffold	no	no	Dalian Medical University	50	33839119
+JALZYT01	GCA_023619645.1	Aspergillus sp. S2109	Scaffold	no	no	Dalian Medical University	50	33541015
+JALZYU01	GCA_023619615.1	Aspergillus sp. PG3603	Scaffold	no	no	Dalian Medical University	50	33458877
+JALZYV01	GCA_023619605.1	Aspergillus sp. S2105	Scaffold	no	no	Dalian Medical University	50	33789765
+JALZYW01	GCA_023619575.1	Aspergillus sp. PB4102	Scaffold	no	no	Dalian Medical University	50	34477307
+JALZYX01	GCA_023619555.1	Aspergillus sp. PG3608	Scaffold	no	no	Dalian Medical University	50	34896949
+JALZYY01	GCA_023619545.1	Aspergillus sp. PG3606D	Scaffold	no	no	Dalian Medical University	50	33454618
+JALZYZ01	GCA_023619515.1	Aspergillus sp. S1903S	Scaffold	no	no	Dalian Medical University	50	33643979
+JALZZA01	GCA_023619495.1	Aspergillus sp. S3606	Scaffold	no	no	Dalian Medical University	50	33818669
+JALZZB01	GCA_023619485.1	Aspergillus sp. F3604	Scaffold	no	no	Dalian Medical University	50	34895846
+JALZZC01	GCA_023619455.1	Aspergillus sp. PB4106	Scaffold	no	no	Dalian Medical University	50	34486824
+JALZZD01	GCA_023619445.1	Aspergillus sp. F3605	Scaffold	no	no	Dalian Medical University	50	34734933
+JALZZE01	GCA_023619415.1	Aspergillus sp. S1702	Scaffold	no	no	Dalian Medical University	50	34757653
+JALZZF01	GCA_023619405.1	Aspergillus sp. S2103	Scaffold	no	no	Dalian Medical University	50	33613780
+JALZZG01	GCA_023619375.1	Aspergillus sp. PYS2105	Scaffold	no	no	Dalian Medical University	50	34565978
+JALZZH01	GCA_023619365.1	Aspergillus sp. S4401N	Scaffold	no	no	Dalian Medical University	50.5	32947211
+JALZZI01	GCA_023619345.1	Aspergillus sp. M3605	Scaffold	no	no	Dalian Medical University	50	35891085
+JALZZJ01	GCA_023619325.1	Aspergillus sp. PK2410	Scaffold	no	no	Dalian Medical University	50	34397072
+JALZZK01	GCA_023619295.1	Aspergillus sp. S4402	Scaffold	no	no	Dalian Medical University	50	33331040
+JALZZL01	GCA_023619285.1	Aspergillus sp. PH2503	Scaffold	no	no	Dalian Medical University	50	34275684
+JALZZM01	GCA_023619275.1	Aspergillus sp. M3606	Scaffold	no	no	Dalian Medical University	50	35917545
+JALZZN01	GCA_023618995.1	Aspergillus sp. PM3602	Scaffold	no	no	Dalian Medical University	50	33489266
+JALZZO01	GCA_023618985.1	Aspergillus sp. PA40-03	Scaffold	no	no	Dalian Medical University	50	33564663
+JALZZP01	GCA_023618935.1	Aspergillus sp. R3602	Scaffold	no	no	Dalian Medical University	50	33975846
+JALZZQ01	GCA_023618955.1	Aspergillus sp. PB4105	Scaffold	no	no	Dalian Medical University	50.5	34164506
+JALZZR01	GCA_023618865.1	Aspergillus sp. PH3601	Scaffold	no	no	Dalian Medical University	50	33837860
+JALZZS01	GCA_023618915.1	Aspergillus niger	Scaffold	no	no	Dalian Medical University	49.5	36247194
+JALZZT01	GCA_023618895.1	Aspergillus niger	Scaffold	no	no	Dalian Medical University	50	35125051
+JALZZU01	GCA_023618375.1	Aspergillus niger	Scaffold	no	no	Dalian Medical University	49.5	35297913
+JALZZV01	GCA_023618715.1	Aspergillus niger	Scaffold	no	no	Dalian Medical University	49.5	36076070
+JALZZW01	GCA_023618365.1	Aspergillus niger	Scaffold	no	no	Dalian Medical University	49.5	35357304
+JALZZX01	GCA_023618435.1	Aspergillus niger	Scaffold	no	no	Dalian Medical University	49.5	37316188
+JALZZY01	GCA_023625615.1	Aspergillus niger	Scaffold	no	no	Dalian Medical University	50.5	35242155
+JALZZZ01	GCA_023618355.1	Aspergillus niger	Scaffold	no	no	Dalian Medical University	49.5	35549926
+JAMAAA01	GCA_023625655.1	Aspergillus niger	Scaffold	no	no	Dalian Medical University	50.5	35685984
+JAMAAB01	GCA_023618385.1	Aspergillus uvarum	Scaffold	no	no	Dalian Medical University	51	35123517
+JAMAAC01	GCA_023625595.1	Aspergillus uvarum	Scaffold	no	no	Dalian Medical University	50.5	36387186
+JAMAAD01	GCA_023625555.1	Aspergillus lentulus	Scaffold	no	no	Dalian Medical University	49.5	31409807
+JAMAAQ01	GCA_023625335.1	Aspergillus japonicus	Scaffold	no	no	Dalian Medical University	51	36074648
+JAMABF01	GCA_023624995.1	Aspergillus unguis	Scaffold	no	no	Dalian Medical University	50.5	25673477
+JAMABG01	GCA_023624975.1	Aspergillus unguis	Scaffold	no	no	Dalian Medical University	50.5	25670848
+JAMABH01	GCA_023625005.1	Aspergillus unguis	Scaffold	no	no	Dalian Medical University	50.5	25673317
+JAMABI01	GCA_023624955.1	Aspergillus unguis	Scaffold	no	no	Dalian Medical University	50.5	25668907
+JAMABJ01	GCA_023624935.1	Aspergillus sp. PA3604	Scaffold	no	no	Dalian Medical University	50	35261291
+JAMABK01	GCA_023624915.1	Aspergillus amoenus	Scaffold	no	no	Dalian Medical University	50	33040702
+JAMABW01	GCA_023624675.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	47	31617329
+JAMABX01	GCA_023624655.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	33560626
+JAMABY01	GCA_023624595.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	31677846
+JAMAHF01	GCA_023627405.1	Penicillium sp. S1316	Scaffold	no	no	Dalian Medical University	51	41245004
+JAMAHN01	GCA_023627535.1	Aspergillus sp. S1802E	Scaffold	no	no	Dalian Medical University	49.5	36431568
+JAMAHO01	GCA_023627595.1	Aspergillus sp. R2302	Scaffold	no	no	Dalian Medical University	50	35579069
+JAMAHP01	GCA_023627575.1	Aspergillus sp. R2407	Scaffold	no	no	Dalian Medical University	50	36382558
+JAMAJH01	GCA_023629135.1	Nakaseomyces glabratus	Scaffold	no	no	Dalian Medical University	38.5	12193152
+JAMAJI01	GCA_023629155.1	Nakaseomyces glabratus	Scaffold	no	no	Dalian Medical University	38.5	12223951
+JAMFMM01	GCA_025766015.1	Aspergillus sp. Z5	Scaffold	no	no	Dalian Medical University	50	33928939
+JAMFMN01	GCA_025765985.1	Aspergillus sp. Z5	Scaffold	no	no	Dalian Medical University	50	33801708
+JAMFMY01	GCA_025769535.1	Aspergillus niger	Scaffold	no	no	Dalian Medical University	49.5	35792955
+JAMFMZ01	GCA_025769575.1	Aspergillus niger	Scaffold	no	no	Dalian Medical University	49.5	35474516
+JAMFNA01	GCA_025769515.1	Aspergillus niger	Scaffold	no	no	Dalian Medical University	49.5	37241019
+JAMFNB01	GCA_025769485.1	Aspergillus niger	Scaffold	no	no	Dalian Medical University	49.5	36089012
+JAMFNC01	GCA_025769455.1	Aspergillus niger	Scaffold	no	no	Dalian Medical University	50	35779869
+JAMFNX01	GCA_025768765.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46	35121705
+JAMFNY01	GCA_025768735.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	32180833
+JAMFNZ01	GCA_025768795.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	32205893
+JAMFOA01	GCA_025768705.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	32277539
+JAMFOB01	GCA_025768665.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	31703628
+JAMFOC01	GCA_025768615.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	32004788
+JAMFOD01	GCA_025768645.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	31985096
+JAMFOE01	GCA_025768585.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	32255349
+JAMFOF01	GCA_025768555.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	31971813
+JAMFOG01	GCA_025782865.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	31940650
+JAMFOH01	GCA_025768525.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	32885620
+JAMFOI01	GCA_025768445.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	31713240
+JAMFOJ01	GCA_025768405.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	32218659
+JAMFOK01	GCA_025768385.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	31637923
+JAMFOL01	GCA_025768355.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	32194448
+JAMFOM01	GCA_025768325.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	32225090
+JAMFQO01	GCA_025503555.1	Nakaseomyces glabratus	Scaffold	no	no	Dalian Medical University	38.5	12188201
+JAMFRK01	GCA_025531905.1	Penicillium citrinum	Scaffold	no	no	Dalian Medical University	46.5	32193715
+JAMKBE01	GCA_023653575.1	Corynespora cassiicola	Contig	no	no	University of Georgia	51.5	44988225
+JAMKBF01	GCA_023653595.1	Corynespora cassiicola	Contig	no	no	University of Georgia	51.5	48431661
+JAMKBG01	GCA_023653695.1	Corynespora cassiicola	Contig	no	no	University of Georgia	52	47594148
+JAMKBH01	GCA_023653765.1	Corynespora cassiicola	Contig	no	no	University of Georgia	52	49060639
+JAMQMV01	GCA_024115165.1	Fusarium robinianum	Scaffold	no	no	Kazimierz Wielki University	53	34666371
+JAMQYC01	GCA_024500205.1	Corynespora cassiicola	Contig	no	no	University of Georgia	52.5	50904207
+JAMQYD01	GCA_024500335.1	Corynespora cassiicola	Contig	no	no	University of Georgia	50.5	53326121
+JAMXIQ01	GCA_026769995.1	Clonostachys rosea	Scaffold	no	no	Beijing University of Chinese Medicine	51.5	59544003
+JANAJJ01	GCA_027574645.1	Fusarium solani	Scaffold	no	no	Beijing University of Chinese Medicine	51.5	53839771
+JANBVO01	GCA_030052745.1	Pleurostoma richardsiae	Scaffold	yes	no	University of Ljubljana, Biotechnical Faculty	55.5	39834950
+JANBWZ01	GCA_026743855.1	Pleurotus sapidus	Contig	no	no	Justus Liebig University Giessen	51	46879574
+JANBXD01	GCA_024472245.1	Beauveria sp. NWAFU-1	Scaffold	no	no	Northwest A&F University	51	34836366
+JANFQY01	GCA_025592935.1	Aspergillus ostianus	Scaffold	no	no	Institute of Food Science and Technology, CAAS	49.5	35685113
+JANGYB01	GCA_025433615.1	Fusarium sp. LHS14.1	Chromosome	yes	no	Academia Sinica	48.5	56318919
+JANHQD01	GCA_024721195.1	Marasmius sp. AFHP31	Scaffold	yes	no	Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas	49.5	84698778
+JANIWF01	GCA_030705005.1	Naumovozyma dairenensis	Scaffold	no	no	UW-Madison	34	13113092
+JANRMS01	GCA_027627305.1	Fusarium decemcellulare	Scaffold	yes	no	TU Dresden - IHI Zittau	50	50541515
+JANSJP01	GCA_024734325.1	Lactarius hatsudake	Contig	no	no	Hunan Academy of forestry	52	76711549
+JANTQB01	GCA_032988175.1	Myotisia sp. PD_48	Scaffold	yes	no	Northern Arizona University	45.5	21873742
+JANTQE01	GCA_032988195.1	Arachnomyces sp. PD_36	Scaffold	yes	no	Northern Arizona University	48	31316195
+JANTUC01	GCA_026873275.1	Pseudopithomyces maydicus	Contig	no	no	Singapore Centre for Environmental Life Sciences Engineering	50	39434212
+JANYMM01	GCA_025594125.1	Aspergillus ochraceus	Scaffold	no	no	US Department of Agriculture, Agriculture Research Service	51	35235136
+JANYMO01	GCA_030463195.1	Colletotrichum graminicola	Scaffold	no	no	China Agricultural University	45.5	60699984
+JAOANY01	GCA_025380265.1	Beauveria bassiana	Scaffold	no	no	Kyungpook National University	49.5	35637850
+JAOPJF01	GCA_030674015.1	Aspergillus melleus	Scaffold	yes	no	University of Southern California	49	35549718
+JAOWAP01	GCA_028565235.1	Hypoxylon lenormandii	Scaffold	no	no	Iridian Genomes	49.5	42009510
+JAOXNQ01	GCA_028571165.1	Hypoxylon perforatum	Scaffold	no	no	Iridian Genomes	50	48631402
+JAOXNW01	GCA_028566015.1	Echinosphaeria canescens	Scaffold	no	no	Iridian Genomes		
+JAOXNW02	GCA_028566015.2	Echinosphaeria canescens	Scaffold	no	no	Iridian Genomes	57	528033608
+JAOYMO02	GCA_025802455.2	Iodosphaeria phyllophila	Scaffold	no	no	Iridian Genomes	52.5	430532225
+JAOYNU01	GCA_026745395.1	Tympanopsis confertula	Scaffold	no	no	Iridian Genomes	55	189903072
+JAPDEK01	GCA_027569065.1	Aspergillus cavernicola	Contig	no	no	Northwestern University	49	36796528
+JAPDEM01	GCA_027569115.1	Aspergillus fructus	Contig	no	no	Northwestern University	50	33631114
+JAPDKQ01	GCA_027569665.1	Aspergillus bridgeri	Contig	no	no	Northwestern University	49.5	40908724
+JAPDKV01	GCA_027569755.1	Penicillium citrinum	Contig	no	no	Northwestern University	46.5	34677391
+JAPDLB01	GCA_027569935.1	Clonostachys sp. G952	Contig	no	no	Northwestern University	48.5	56216683
+JAPDLC01	GCA_027569955.1	Clonostachys sp. G600	Contig	no	no	Northwestern University	50	55596969
+JAPDNX01	GCA_026108165.1	Aspergillus ochraceus	Scaffold	no	no	Amity University Uttar Pradesh	50	35145228
+JAPEBV01	GCA_027405775.1	Ophiocordyceps robertsii	Contig	no	no	University of Melbourne	38	95879313
+JAPEBW01	GCA_027405785.1	Ophiocordyceps robertsii	Contig	no	no	University of Melbourne	37.5	102727084
+JAPERB01	GCA_030406835.1	Beauveria australis	Contig	no	no	USDA-ARS-NCAUR	52.5	31735603
+JAPERD01	GCA_030411475.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	34364417
+JAPERE01	GCA_030411515.1	Akanthomyces dipterigenus	Contig	no	no	USDA-ARS-NCAUR	54	33310504
+JAPERF01	GCA_030411435.1	Cordyceps cateniannulata	Contig	no	no	USDA-ARS-NCAUR	54	33039992
+JAPERG01	GCA_030411495.1	Cordyceps cateniannulata	Contig	no	no	USDA-ARS-NCAUR	54	33985006
+JAPERH01	GCA_030411535.1	Beauveria australis	Contig	no	no	USDA-ARS-NCAUR	52.5	31806378
+JAPERI01	GCA_030411555.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33914538
+JAPERJ01	GCA_030411615.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33517066
+JAPERK01	GCA_030411595.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	34572694
+JAPERL01	GCA_030411575.1	Akanthomyces lecanii	Contig	no	no	USDA-ARS-NCAUR	53.5	34203468
+JAPERN01	GCA_030411655.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33642176
+JAPERQ01	GCA_030406945.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	34932913
+JAPERR01	GCA_030406955.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52	32626930
+JAPERS01	GCA_030406965.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	51.5	31402141
+JAPETJ01	GCA_026023875.1	Bathelium mastoideum	Contig	yes	no	University of Alberta	49.5	32740561
+JAPETK01	GCA_026054635.1	Bathelium mastoideum	Contig	yes	no	University of Alberta	49.5	33481147
+JAPEUQ01	GCA_027946365.1	Kalmusia sp. IMI 367209	Contig	yes	no	Royal Botanic Gardens, Kew	49.5	42784582
+JAPEUV01	GCA_027946415.1	Didymella glomerata	Contig	yes	no	Royal Botanic Gardens, Kew	53.5	34727068
+JAPEUX01	GCF_027946475.1	Didymosphaeria variabile	Contig	yes	yes	Royal Botanic Gardens, Kew	51	39450705
+JAPEUY01	GCA_027946455.1	Neocucurbitaria cava	Contig	yes	no	Royal Botanic Gardens, Kew	50	34846001
+JAPFRG01	GCA_030778625.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32696341
+JAPFRH01	GCA_030778585.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33225588
+JAPFRI01	GCA_030778605.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33766184
+JAPFRJ01	GCA_030778665.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33816940
+JAPFRL01	GCA_030778565.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33117244
+JAPFRM01	GCA_030778325.1	Beauveria medogensis	Contig	no	no	USDA-ARS-NCAUR	52.5	32570652
+JAPFRN01	GCA_030778225.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32913297
+JAPFRO01	GCA_030778445.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	32558361
+JAPFRP01	GCA_030778425.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32179842
+JAPFRQ01	GCA_030778265.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32765543
+JAPFRR01	GCA_030778185.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	33513402
+JAPFRS01	GCA_030778145.1	Beauveria australis	Contig	no	no	USDA-ARS-NCAUR	52.5	30866406
+JAPFRT01	GCA_030778085.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31273196
+JAPFRU01	GCA_030778125.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	33972210
+JAPFRV01	GCA_030778025.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	33228655
+JAPFRX01	GCA_030778045.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31810611
+JAPFRY01	GCA_030777885.1	Beauveria varroae	Contig	no	no	USDA-ARS-NCAUR	52.5	32574540
+JAPFRZ01	GCA_030777905.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52	33416352
+JAPFSA01	GCA_030777825.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53	33982738
+JAPFSB01	GCA_030777865.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31883248
+JAPFSD01	GCA_032354255.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32926773
+JAPFSF01	GCA_030777765.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	33492262
+JAPFSG01	GCA_030777745.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	50.5	34861675
+JAPFSH01	GCA_030779935.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32689667
+JAPFSI01	GCA_030779865.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	34519565
+JAPFSJ01	GCA_030779805.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52	32747420
+JAPFSK01	GCA_030779765.1	Beauveria brongniartii	Contig	no	no	USDA-ARS-NCAUR	52	32672216
+JAPFSL01	GCA_030779705.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33957609
+JAPFSO01	GCA_030779925.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	34834693
+JAPFSP01	GCA_030779575.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31723642
+JAPFSQ01	GCA_030779505.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31718306
+JAPFSR01	GCA_030779545.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32241595
+JAPFSS01	GCA_030779485.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32197270
+JAPFST01	GCA_030779345.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33235332
+JAPFSU01	GCA_030779365.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31962523
+JAPFSV01	GCA_030779325.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31911252
+JAPFSW01	GCA_030779305.1	Beauveria varroae	Contig	no	no	USDA-ARS-NCAUR	52.5	32508346
+JAPFSZ01	GCA_030779465.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	34571602
+JAPFTA01	GCA_030779265.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	53	31189331
+JAPFTB01	GCA_030779245.1	Fusarium sp. MBC 438	Contig	no	no	USDA-ARS-NCAUR	51.5	46743311
+JAPFTD01	GCA_030779225.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32411526
+JAPFTE01	GCA_030779145.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	34988692
+JAPFTF01	GCA_030779195.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52	34572161
+JAPFTG01	GCA_030779125.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31842932
+JAPFTH01	GCA_030779105.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	30677822
+JAPFTI01	GCA_030779085.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33687409
+JAPFTJ01	GCA_030779055.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	53	28675591
+JAPFTK01	GCA_030779045.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32157208
+JAPFTL01	GCA_030778945.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52	32899938
+JAPFTM01	GCA_030779005.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32280679
+JAPFTN01	GCA_030778885.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	36735940
+JAPFTO01	GCA_030778865.1	Beauveria varroae	Contig	no	no	USDA-ARS-NCAUR	52.5	32611079
+JAPFTP01	GCA_030778845.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33299345
+JAPFTQ01	GCA_032354175.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	53	29167495
+JAPFTR01	GCA_030778785.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31943623
+JAPFTS01	GCA_030778725.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32536558
+JAPFTT01	GCA_030778745.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32095844
+JAPFTU01	GCA_032354235.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32282067
+JAPFTV01	GCA_030780765.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31495090
+JAPFTW01	GCA_030780725.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32111950
+JAPFTX01	GCA_032354215.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32401590
+JAPFTY01	GCA_030780745.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32435896
+JAPFTZ01	GCA_030780785.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32523180
+JAPFUA01	GCA_030780705.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32319726
+JAPFUB01	GCA_030780685.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32405101
+JAPFUC01	GCA_030780665.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31908634
+JAPFUD01	GCA_032354495.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32328909
+JAPFUE01	GCA_030780625.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32494842
+JAPFUG01	GCA_030780535.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	34990985
+JAPFUH01	GCA_030780605.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	34666955
+JAPFUI01	GCA_030780585.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	34857771
+JAPFUJ01	GCA_030780525.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33435789
+JAPFUK01	GCA_030780505.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	34896009
+JAPFUL01	GCA_030780565.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	34922347
+JAPFUM01	GCA_030780475.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32750427
+JAPFUN01	GCA_030780445.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	34992146
+JAPFUO01	GCA_030780465.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32073722
+JAPFUP01	GCA_030780425.1	Beauveria varroae	Contig	no	no	USDA-ARS-NCAUR	52.5	33114780
+JAPFUQ01	GCA_030780405.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	34940247
+JAPFUR01	GCA_030780385.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33427979
+JAPFUT01	GCA_030780265.1	Akanthomyces lecanii	Contig	no	no	USDA-ARS-NCAUR	53.5	39032972
+JAPFUU01	GCA_030780345.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	34596461
+JAPFUV01	GCA_030780285.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31383462
+JAPFUX01	GCA_030780185.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	34897754
+JAPFUY01	GCA_030780125.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	33088803
+JAPFUZ01	GCA_030780105.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	34932855
+JAPFVA01	GCA_030780145.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	34861240
+JAPFVB01	GCA_030779985.1	Akanthomyces dipterigenus	Contig	no	no	USDA-ARS-NCAUR	53.5	33626859
+JAPFVC01	GCA_030781525.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53	35601830
+JAPFVD01	GCA_030780045.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	34640475
+JAPFVE01	GCA_030779905.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	34330840
+JAPFVF01	GCA_030781485.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	33691435
+JAPFVG01	GCA_030781505.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	34596524
+JAPFVH01	GCA_030781385.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31680897
+JAPFVI01	GCA_030781305.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31122117
+JAPFVJ01	GCA_030781325.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	33024240
+JAPFVK01	GCA_030781285.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	33131495
+JAPFVL01	GCA_030781405.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31597769
+JAPFVM01	GCA_030781225.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	34866601
+JAPFVN01	GCA_030781145.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	34379420
+JAPFVO01	GCA_030781125.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	30995491
+JAPFVP01	GCA_030781085.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	34465889
+JAPFVQ01	GCA_030781105.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32063125
+JAPFVR01	GCA_030781025.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53	37054906
+JAPFVS01	GCA_030781065.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31793669
+JAPFVW01	GCA_030780805.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33282912
+JAPFVX01	GCA_030780885.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32623777
+JAPFVY01	GCA_030780825.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33158177
+JAPFVZ01	GCA_030780845.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33237282
+JAPHAX01	GCA_030770595.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33099257
+JAPHAY01	GCA_030770625.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31305619
+JAPHAZ01	GCA_030771925.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	34105198
+JAPHBB01	GCA_030770635.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32797971
+JAPHBC01	GCA_030771935.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32659229
+JAPHBD01	GCA_030771945.1	Beauveria australis	Contig	no	no	USDA-ARS-NCAUR	52.5	31855277
+JAPHBE01	GCA_032353875.1	Beauveria varroae	Contig	no	no	USDA-ARS-NCAUR	52.5	33268847
+JAPHBF01	GCA_030771955.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	32262638
+JAPHBG01	GCA_032353905.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	53	31515039
+JAPHBH01	GCA_030772005.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31285880
+JAPHBI01	GCA_030772015.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32695628
+JAPHBJ01	GCA_030772025.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33599524
+JAPHBK01	GCA_030772035.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32233625
+JAPHBL01	GCA_030772065.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32673333
+JAPHBM01	GCA_030772095.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32621500
+JAPHBN01	GCA_030772105.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32668673
+JAPHBO01	GCA_030772125.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52	32876461
+JAPHBP01	GCA_030772135.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31346630
+JAPHBQ01	GCA_030772175.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32183733
+JAPHBS01	GCA_030772205.1	Beauveria varroae	Contig	no	no	USDA-ARS-NCAUR	52.5	33450903
+JAPHBT01	GCA_030772235.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31011298
+JAPHBU01	GCA_030772255.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32609732
+JAPHBV01	GCA_032353955.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32159494
+JAPHBW01	GCA_030772265.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32108483
+JAPHBX01	GCA_032353995.1	Beauveria brongniartii	Contig	no	no	USDA-ARS-NCAUR	52.5	31852866
+JAPHBY01	GCA_030772295.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32177423
+JAPHBZ01	GCA_030772305.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32630050
+JAPHCA01	GCA_030772365.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33798312
+JAPHCB01	GCA_030772385.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	32832933
+JAPHCC01	GCA_032353975.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33183878
+JAPHCD01	GCA_030772395.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32981067
+JAPHCE01	GCA_030772405.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33373319
+JAPHCF01	GCA_032354095.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32320358
+JAPHCG01	GCA_030772425.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52	34132344
+JAPHCI01	GCA_030772495.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	51.5	34766630
+JAPHCJ01	GCA_030772515.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52	33153192
+JAPHCK01	GCA_030772555.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32192561
+JAPHCL01	GCA_030772535.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33170929
+JAPHCM01	GCA_030772575.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	32499260
+JAPHCN01	GCA_032354015.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33195432
+JAPHCO01	GCA_032354035.1	Beauveria varroae	Contig	no	no	USDA-ARS-NCAUR	52.5	33391728
+JAPHCP01	GCA_032354055.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33428708
+JAPHCQ01	GCA_030772675.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31061677
+JAPHCR01	GCA_030772615.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31536699
+JAPHCS01	GCA_030772635.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31342868
+JAPHCT01	GCA_032354075.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31848129
+JAPHCU01	GCA_032354135.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33062785
+JAPHCV01	GCA_032354115.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32879644
+JAPHCW01	GCA_030772655.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	34526704
+JAPHCX01	GCA_030772595.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52	31617363
+JAPHCY01	GCA_030772755.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33949179
+JAPHCZ01	GCA_030772715.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31463499
+JAPHDA01	GCA_030772695.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33906788
+JAPHDC01	GCA_030772775.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31955747
+JAPHDD01	GCA_030772795.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33699231
+JAPHDE01	GCA_030772855.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31796574
+JAPHDF01	GCA_030772815.1	Akanthomyces lecanii	Contig	no	no	USDA-ARS-NCAUR	53.5	41541374
+JAPHDH01	GCA_030772915.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32351492
+JAPHDI01	GCA_032354195.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33121928
+JAPHDJ01	GCA_030772955.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31216320
+JAPHDK01	GCA_030772835.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33548944
+JAPHDL01	GCA_030772895.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31465382
+JAPHDM01	GCA_030772875.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33144772
+JAPHDN01	GCA_030777425.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	30923877
+JAPHDO01	GCA_030777465.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	35682446
+JAPHDQ01	GCA_030777445.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33350221
+JAPHDR01	GCA_030777485.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52	31938662
+JAPHDS01	GCA_030777505.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52	32764691
+JAPHDU01	GCA_030777525.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33865534
+JAPHDV01	GCA_030777565.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52	33152000
+JAPHDW01	GCA_030777605.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32017070
+JAPHDX01	GCA_030777585.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52	34441970
+JAPHDY01	GCA_030777625.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32434735
+JAPHDZ01	GCA_030777645.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	51.5	30351954
+JAPHEA01	GCA_030777665.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	51.5	31150513
+JAPHEB01	GCA_030777705.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52	30027718
+JAPHEC01	GCA_030777685.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31740044
+JAPHMX01	GCA_028828415.1	Cordyceps cateniannulata	Contig	no	no	Guizhou University	53.5	33634538
+JAPJTW01	GCA_026225675.1	Saccharomyces cerevisiae	Contig	no	no	Kangwon National University	38.5	12971764
+JAPQKT01	GCF_028827155.1	Penicillium citrinum	Contig	yes	yes	Aalborg University	46.5	31396546
+JAPTGH01	GCA_028028555.1	Pseudopestalotiopsis chinensis	Contig	no	no	Huazhong Agricultural University	49	51217406
+JAPUBP01	GCA_029618705.1	Clonostachys rosea	Scaffold	no	no	Beijing University of Chinese Medicine	49.5	57039101
+JAPUFD01	GCA_029948375.1	Ramalina farinacea	Contig	yes	no	Royal Botanic Gardens, Kew	46.5	32742913
+JAPUUL01	GCA_029590625.1	Lasiodiplodia mahajangana	Contig	yes	no	TU Dresden - IHI Zittau	48	40140394
+JAPVOS01	GCA_029582035.1	Aspergillus niger	Contig	no	no	NIAS, RDA	49.5	35559400
+JAPVRD01	GCA_029783905.1	Aspergillus niger	Chromosome	no	no	Soongsil university	49.5	40265216
+JAPVRE01	GCA_029783925.1	Aspergillus niger	Chromosome	no	no	Soongsil university	49.5	37455290
+JAPZBM01	GCF_028974205.1	Penicillium antarcticum	Contig	yes	yes	Aalborg University	49	30836278
+JAQF01	GCA_000603925.1	Corynespora cassiicola	Contig	no	no	UNIVERSITY OF MALAYA	52.5	41385873
+JAQFWX01	GCA_027605045.1	Phallus indusiatus	Scaffold	no	no	Guangxi Academy of Agricultural Sciences	44	67220582
+JAQJAC01	GCA_028827645.1	Penicillium hetheringtonii	Contig	yes	no	Aalborg University	46.5	31629319
+JAQQPM01	GCA_029339225.1	Phyllachora maydis	Scaffold	yes	no	Michigan State University	45	64323051
+JAQTHS01	GCA_034192605.1	Aspergillus sydowii	Contig	no	no	Zhejiang University of Technology	50	34924093
+JAQYTR01	GCA_030914405.1	Beauveria sp. AdecLV25a	Contig	no	no	University of Liverpool	52.5	33539846
+JAQYUB01	GCA_030370815.1	Ilyonectria mors-panacis	Scaffold	no	no	University of Guelph	49	64624400
+JAQYUC01	GCA_030370895.1	Ilyonectria mors-panacis	Scaffold	no	no	University of Guelph	49	64279274
+JAQYUD01	GCA_030370915.1	Ilyonectria mors-panacis	Scaffold	no	no	University of Guelph	49	64910451
+JAQYUE01	GCA_030370945.1	Ilyonectria mors-panacis	Scaffold	no	no	University of Guelph	49	64729306
+JAQYUF01	GCA_030370985.1	Ilyonectria mors-panacis	Scaffold	no	no	University of Guelph	49	64804167
+JAQYUG01	GCA_030371025.1	Ilyonectria mors-panacis	Scaffold	no	no	University of Guelph	49	64594016
+JAQYUH01	GCA_030371055.1	Ilyonectria mors-panacis	Scaffold	no	no	University of Guelph	49	64591167
+JAQYUI01	GCA_030371075.1	Ilyonectria mors-panacis	Scaffold	no	no	University of Guelph	49	64266565
+JAQYUJ01	GCA_030371095.1	Ilyonectria mors-panacis	Scaffold	no	no	University of Guelph	49	64295655
+JAQYUK01	GCA_030371145.1	Ilyonectria mors-panacis	Scaffold	no	no	University of Guelph	49	64781137
+JAQYUL01	GCA_030371195.1	Ilyonectria mors-panacis	Scaffold	no	no	University of Guelph	49	64289175
+JAQYUM01	GCA_030371205.1	Ilyonectria mors-panacis	Scaffold	no	no	University of Guelph	49	64130886
+JARADO01	GCA_033735375.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	38845395
+JARADP01	GCA_033735395.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	38858722
+JARADQ01	GCA_033735355.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	38953942
+JARADS01	GCA_033735315.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	38943576
+JARADT01	GCA_033735275.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39206664
+JARADU01	GCA_033735255.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39124051
+JARADV01	GCA_033735295.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39219334
+JARADW01	GCA_033735235.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	38956340
+JARADX01	GCA_033735215.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39454413
+JARADY01	GCA_033735195.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39191203
+JARADZ01	GCA_033735155.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39111206
+JARAEA01	GCA_033735175.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39173430
+JARAEB01	GCA_033735115.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39497397
+JARAEC01	GCA_033735135.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39476281
+JARAED01	GCA_033735095.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39618895
+JARAEE01	GCA_033735075.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39815157
+JARAEF01	GCA_033735055.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39091922
+JARAEG01	GCA_033735035.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39110050
+JARAEH01	GCA_033734955.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39191899
+JARAEI01	GCA_033734935.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39156358
+JARAEJ01	GCA_033734995.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39266737
+JARAEK01	GCA_033734975.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39078289
+JARAEL01	GCA_033735015.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39737042
+JARAEM01	GCA_033734195.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39926304
+JARAEN01	GCA_033734205.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39785037
+JARAEO01	GCA_033734175.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39409062
+JARAEP01	GCA_033734215.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	38808333
+JARAEQ01	GCA_033734185.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39005279
+JARAER01	GCA_033735545.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	38863186
+JARAES01	GCA_033735475.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	38911740
+JARAET01	GCA_033735415.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	38867960
+JARAEU01	GCA_033735455.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39017670
+JARAEV01	GCA_033735485.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39238575
+JARAEW01	GCA_033735435.1	Psilocybe cubensis	Contig	no	no	University of Queensland	46	39037019
+JAREII01	GCA_033032185.1	Aspergillus niger	Contig	no	no	Sejong University	49	36878095
+JARFTM01	GCA_030278935.1	Trichoderma polysporum	Scaffold	no	no	qinghai university	48	39135697
+JARFXW01	GCA_030015405.1	Aspergillus welwitschiae	Chromosome	no	no	Bangladesh Council of Scientific and Industrial Research (BCSIR)	49.5	37795174
+JARJCM01	GCA_029233265.1	Mycena alexandri	Contig	yes	no	DOE Joint Genome Institute	52	132306732
+JARJCQ01	GCA_029281465.1	Mycena epipterygia	Contig	yes	no	DOE Joint Genome Institute	51	118648059
+JARJCW01	GCA_029281405.1	Mycena pura	Contig	yes	no	DOE Joint Genome Institute	52	96680276
+JARJCX01	GCA_029282285.1	Mycena rebaudengoi	Contig	yes	no	DOE Joint Genome Institute	50.5	218590756
+JARJDH01	GCA_030014135.1	Aspergillus fijiensis	Scaffold	no	no	Shantou University	50	36437053
+JARJLE01	GCA_029289555.1	Mycena latifolia	Contig	yes	no	DOE Joint Genome Institute	52.5	148767387
+JARJOY01	GCA_030781825.1	Akanthomyces lecanii	Contig	no	no	USDA-ARS-NCAUR	53.5	36583390
+JARJOZ01	GCA_030781965.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33415364
+JARJPA01	GCA_030782025.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	32837567
+JARJPB01	GCA_030781865.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32821289
+JARJPC01	GCA_030781805.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33314633
+JARJPD01	GCA_030781665.1	Akanthomyces dipterigenus	Contig	no	no	USDA-ARS-NCAUR	54	33242787
+JARJPG01	GCA_030781585.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33330189
+JARJPH01	GCA_030782885.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	32771523
+JARJPI01	GCA_030781685.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33347267
+JARJPJ01	GCA_030782705.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32710821
+JARJPL01	GCA_030782805.1	Aschersonia sp. MBC 622	Contig	no	no	USDA-ARS-NCAUR	52.5	32680853
+JARJPM01	GCA_030782725.1	Beauveria asiatica	Contig	no	no	USDA-ARS-NCAUR	53	29846347
+JARJPN01	GCA_030782625.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	33910070
+JARJPO01	GCA_030782645.1	Akanthomyces dipterigenus	Contig	no	no	USDA-ARS-NCAUR	54	33437330
+JARJPP01	GCA_030782485.1	Beauveria brongniartii	Contig	no	no	USDA-ARS-NCAUR	52	31105991
+JARJPQ01	GCA_030782445.1	Beauveria asiatica	Contig	no	no	USDA-ARS-NCAUR	52	31787927
+JARJPS01	GCA_030782505.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	32770840
+JARJPT01	GCA_030782525.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	33720465
+JARJPU01	GCA_030782365.1	Beauveria asiatica	Contig	no	no	USDA-ARS-NCAUR	52.5	31390275
+JARJPV01	GCA_030782345.1	Beauveria brongniartii	Contig	no	no	USDA-ARS-NCAUR	52.5	30679444
+JARJPW01	GCA_032354635.1	Beauveria brongniartii	Contig	no	no	USDA-ARS-NCAUR	52.5	30412956
+JARJPX01	GCA_030782325.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32368148
+JARJPY01	GCA_030782385.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32481216
+JARJQA01	GCA_030782265.1	Beauveria brongniartii	Contig	no	no	USDA-ARS-NCAUR	52.5	30548090
+JARJQC01	GCA_030782245.1	Beauveria asiatica	Contig	no	no	USDA-ARS-NCAUR	52.5	31490867
+JARJQD01	GCA_030782205.1	Beauveria asiatica	Contig	no	no	USDA-ARS-NCAUR	52.5	30972081
+JARJQE01	GCA_032354595.1	Beauveria brongniartii	Contig	no	no	USDA-ARS-NCAUR	52.5	32249876
+JARJQF01	GCA_030782225.1	Beauveria brongniartii	Contig	no	no	USDA-ARS-NCAUR	53	31820344
+JARJQG01	GCA_030782185.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31640375
+JARJQH01	GCA_030782165.1	Beauveria brongniartii	Contig	no	no	USDA-ARS-NCAUR	53	31640065
+JARJQI01	GCA_030782125.1	Beauveria brongniartii	Contig	no	no	USDA-ARS-NCAUR	53	31879689
+JARJQJ01	GCA_032358065.1	Beauveria brongniartii	Contig	no	no	USDA-ARS-NCAUR	52	32605393
+JARJQK01	GCA_030782105.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33534634
+JARJQL01	GCA_030782145.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33156715
+JARJQM01	GCA_032354535.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33615561
+JARJQN01	GCA_030782005.1	Beauveria brongniartii	Contig	no	no	USDA-ARS-NCAUR	52.5	30575004
+JARJQO01	GCA_030781985.1	Beauveria asiatica	Contig	no	no	USDA-ARS-NCAUR	52.5	31227107
+JARJQP01	GCA_030781925.1	Akanthomyces dipterigenus	Contig	no	no	USDA-ARS-NCAUR	54	33306630
+JARJQQ01	GCA_030783845.1	Beauveria asiatica	Contig	no	no	USDA-ARS-NCAUR	52.5	31384565
+JARJQR01	GCA_030783865.1	Beauveria asiatica	Contig	no	no	USDA-ARS-NCAUR	52.5	31304616
+JARJQS01	GCA_030783825.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31542002
+JARJQT01	GCA_030783785.1	Beauveria asiatica	Contig	no	no	USDA-ARS-NCAUR	52.5	31488229
+JARJQU01	GCA_030783805.1	Akanthomyces dipterigenus	Contig	no	no	USDA-ARS-NCAUR	53.5	35237545
+JARJQV01	GCA_030783645.1	Beauveria asiatica	Contig	no	no	USDA-ARS-NCAUR	52.5	30963223
+JARJQW01	GCA_030783665.1	Beauveria asiatica	Contig	no	no	USDA-ARS-NCAUR	52.5	31313826
+JARJQX01	GCA_030783725.1	Akanthomyces dipterigenus	Contig	no	no	USDA-ARS-NCAUR	54	33527387
+JARJQY01	GCA_030783745.1	Akanthomyces dipterigenus	Contig	no	no	USDA-ARS-NCAUR	53.5	33650238
+JARJRA01	GCA_030783545.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32687309
+JARJRB01	GCA_030783525.2	Akanthomyces uredinophilus	Contig	no	no	USDA-ARS-NCAUR	52.5	35197475
+JARJRC01	GCA_030783505.1	Beauveria brongniartii	Contig	no	no	USDA-ARS-NCAUR	53	31607982
+JARJRD01	GCA_030783465.1	Beauveria brongniartii	Contig	no	no	USDA-ARS-NCAUR	53	30028006
+JARJRE01	GCA_030783385.1	Akanthomyces dipterigenus	Contig	no	no	USDA-ARS-NCAUR	54	33553279
+JARJRF01	GCA_030783325.1	Beauveria asiatica	Contig	no	no	USDA-ARS-NCAUR	53	31058437
+JARJRG01	GCA_030783345.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31021529
+JARJRH01	GCA_030783265.1	Akanthomyces dipterigenus	Contig	no	no	USDA-ARS-NCAUR	53.5	33792633
+JARJRJ01	GCA_030783165.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33848115
+JARJRK01	GCA_030783205.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31567597
+JARJRL01	GCA_030783025.1	Beauveria varroae	Contig	no	no	USDA-ARS-NCAUR	52.5	32427700
+JARJRM01	GCA_030783005.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32128060
+JARJRN01	GCA_030783085.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32745633
+JARJRO01	GCA_030783045.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	33567940
+JARJRP01	GCA_030782985.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32100691
+JARJRQ01	GCA_030782865.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33754082
+JARJRR01	GCA_030782825.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32615769
+JARJRS01	GCA_030782845.1	Beauveria varroae	Contig	no	no	USDA-ARS-NCAUR	52.5	32566767
+JARJRT01	GCA_030783985.1	Akanthomyces lecanii	Contig	no	no	USDA-ARS-NCAUR	53.5	34688828
+JARJRW01	GCA_030783885.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32538595
+JARJRX01	GCA_030784075.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	34672205
+JARJRY01	GCA_030784025.1	Akanthomyces dipterigenus	Contig	no	no	USDA-ARS-NCAUR	53.5	33648822
+JARJRZ01	GCA_032358105.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31652284
+JARJSA01	GCA_030783965.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31877251
+JARJSB01	GCA_030784175.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33281295
+JARJSC01	GCA_030783995.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31871671
+JARJSD01	GCA_030784825.1	Beauveria varroae	Contig	no	no	USDA-ARS-NCAUR	52.5	32520925
+JARJSE01	GCA_030784905.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	35110273
+JARJSF01	GCA_030784625.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32614443
+JARJSG01	GCA_030784555.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31424361
+JARJSH01	GCA_030784525.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31628414
+JARJSI01	GCA_030785085.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	34592150
+JARJSJ01	GCA_030784515.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33927830
+JARJSK01	GCA_030784505.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31271280
+JARJSL01	GCA_030785045.1	Cordyceps cateniannulata	Contig	no	no	USDA-ARS-NCAUR	54	34168013
+JARJSM01	GCA_030785025.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31165869
+JARJSN01	GCA_030784925.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31096190
+JARJSO01	GCA_030784885.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	30985074
+JARJSP01	GCA_030784865.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	34128031
+JARJSQ01	GCA_030786965.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31115261
+JARJSR01	GCA_030786905.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	30481163
+JARJSS01	GCA_030786925.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	30458208
+JARJST01	GCA_030786555.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33063289
+JARJSU01	GCA_030786345.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31771935
+JARJSV01	GCA_030786195.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32021999
+JARJSW01	GCA_030785975.1	Akanthomyces lecanii	Contig	no	no	USDA-ARS-NCAUR	53.5	35167795
+JARJSX01	GCA_030785225.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	32144787
+JARJSY01	GCA_030785215.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32844664
+JARJSZ01	GCA_030785205.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33520267
+JARJTA01	GCA_030785165.1	Cordyceps javanica	Contig	no	no	USDA-ARS-NCAUR	53.5	33224354
+JARJTC01	GCA_030846815.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	34996684
+JARJTD01	GCA_030788085.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	32537367
+JARJTE01	GCA_030788025.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33257753
+JARJTG01	GCA_030787845.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33799143
+JARJTH01	GCA_030787925.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32885315
+JARJTI01	GCA_030787705.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33510346
+JARJTJ01	GCA_030787685.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31740972
+JARJTK01	GCA_030787525.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31328192
+JARJTL01	GCA_030787535.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33157413
+JARJTM01	GCA_030787405.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33230649
+JARJTN01	GCA_030787415.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	31835926
+JARJTO01	GCA_030787255.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	32602438
+JARJTP01	GCA_030787275.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33565296
+JARJTQ01	GCA_030787235.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33718771
+JARJTR01	GCA_030787215.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	32267256
+JARJTS01	GCA_030787195.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33295376
+JARJTT01	GCA_030787175.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	34015388
+JARJTU01	GCA_030787155.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32790937
+JARJTV01	GCA_030787135.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	32936038
+JARJTX01	GCA_030787095.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33236061
+JARJTY01	GCA_030787075.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	32206168
+JARJTZ01	GCA_030787055.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33309109
+JARJUB01	GCA_030787015.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33587761
+JARJUC01	GCA_032358045.1	Beauveria varroae	Contig	no	no	USDA-ARS-NCAUR	52.5	33029941
+JARJUD01	GCA_030786985.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31570732
+JARJUE01	GCA_030787005.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33591715
+JARJUF01	GCA_030786945.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32285926
+JARJUG01	GCA_030786955.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	32922764
+JARJUH01	GCA_030789625.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32921386
+JARJUI01	GCA_030789675.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31586668
+JARJUJ01	GCA_030789605.1	Cordyceps cateniannulata	Contig	no	no	USDA-ARS-NCAUR	54	33897710
+JARJUK01	GCA_030789565.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33379148
+JARJUL01	GCA_030789585.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33483623
+JARJUM01	GCA_030789545.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32850790
+JARJUN01	GCA_030789505.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33454885
+JARJUO01	GCA_030789525.1	Akanthomyces lecanii	Contig	no	no	USDA-ARS-NCAUR	53.5	35201951
+JARJUP01	GCA_030789465.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	32316518
+JARJUQ01	GCA_030789645.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33961151
+JARJUR01	GCA_030789485.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33168118
+JARJUS01	GCA_030789445.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31808405
+JARJUT01	GCA_030789385.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	32718044
+JARJUU01	GCA_030789425.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	31203386
+JARJUV01	GCA_030789365.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33126259
+JARJUW01	GCA_030789345.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	34493494
+JARJUY01	GCA_030789305.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	34929031
+JARJVA01	GCA_030789405.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33119960
+JARJVB01	GCA_032357895.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	32990555
+JARJVC01	GCA_030789245.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	34069167
+JARJVD01	GCA_030789205.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	30131045
+JARJVE01	GCA_030789185.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33967809
+JARJVF01	GCA_030789085.1	Cordyceps cateniannulata	Contig	no	no	USDA-ARS-NCAUR	54	33616952
+JARJVG01	GCA_030789005.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33264202
+JARJVH01	GCA_032357915.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	34936066
+JARJVI01	GCA_030789045.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	30997008
+JARJVJ01	GCA_030789065.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33884092
+JARJVL01	GCA_030788365.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	34355740
+JARJVM01	GCA_030788355.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	33373367
+JARJVN01	GCA_030788335.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	34506340
+JARJVO01	GCA_030788315.1	Beauveria bassiana	Contig	no	no	USDA-ARS-NCAUR	52.5	33234769
+JARJVP01	GCA_030788305.1	Beauveria pseudobassiana	Contig	no	no	USDA-ARS-NCAUR	53	34552713
+JARKIB01	GCA_029378385.1	Mycena metata	Contig	yes	no	DOE Joint Genome Institute	52	164113792
+JARLUD01	GCA_029962645.1	Aspergillus nomiae	Scaffold	no	no	Vanderbilt University	48	37492286
+JASBWS01	GCA_030039275.1	Naganishia adeliensis	Contig	yes	no	Jet Propulsion Laboratory, California Institute of Technology	53	23268283
+JASEKS01	GCA_030770415.1	Pleoardoris graminearum	Scaffold	no	no	Los Alamos National Laboratory	31.5	101793380
+JASFCW01	GCA_036936985.1	Crucibulum cyathiforme	Scaffold	no	no	University of Florida	45	51396422
+JASMNA01	GCA_035148045.1	Pleoardoris graminearum	Scaffold	no	no	Los Alamos National Laboratory	31	105417085
+JASNQO01	GCA_030378425.1	Periconia sp. TS-2	Scaffold	no	no	Yokohama City University	50	40665975
+JASWIE01	GCA_033297075.1	Rhypophila decipiens	Scaffold	yes	no	DOE Joint Genome Institute	51.5	47086504
+JASWIK01	GCA_031212055.1	Pyricularia oryzae	Contig	no	no	University of Kentucky	50	42058027
+JAUDZH01	GCA_033576145.1	Cladorrhinum samala	Scaffold	yes	no	DOE Joint Genome Institute	51	36213901
+JAUGSI01	GCA_030770045.1	Colletotrichum brevisporum	Contig	no	no	Guangdong Academy of Agricultural Sciences	49	62659034
+JAULRI01	GCA_039700815.1	Laburnicola rhizohalophila	Chromosome	no	no	Chinese Academy of Forestry	44.5	60928144
+JAULRJ01	GCA_039700835.1	Laburnicola rhizohalophila	Chromosome	no	no	Chinese Academy of Forestry	44.5	64008018
+JAUOZT01	GCA_039654905.1	Laburnicola rhizohalophila	Chromosome	no	no	Chinese Academy of Forestry	45.5	129519590
+JAUPCS01	GCA_039654995.1	Laburnicola rhizohalophila	Chromosome	no	no	Chinese Academy of Forestry	45.5	131848821
+JAVHUH01	GCA_031306055.1	Pyricularia oryzae	Scaffold	no	no	University of Kentucky	50	43845043
+JAVLWG01	GCA_033444525.1	Phoma sp. YAFEF320	Scaffold	no	no	Yunnan Academy of Forestry and Grassland	52	32544530
+JAVRQQ01	GCA_036320705.1	Elasticomyces elasticus	Scaffold	yes	no	Shed LighT in the daRk lineagES of the Fungal tree of life (STRES)	53	70608823
+JAWVBB01	GCA_036320845.1	Penicillium citrinum	Contig	yes	no	Temasek Life Sciences laboratories	46.5	31333751
+JAWZSP01	GCA_034401135.1	Volutella citrinella	Contig	no	no	Guizhou University	54	45197029
+JAXQHM01	GCA_037040905.1	Monosporozyma servazzii	Scaffold	no	no	Dalian Medical University	34.5	11170048
+JAXQKN01	GCA_037042525.1	Aspergillus sp. P7301S-1	Scaffold	no	no	Dalian Medical University	50.5	25457646
+JAXQKT01	GCA_037042605.1	Aspergillus sp. PG119-06	Scaffold	no	no	Dalian Medical University	51	25255761
+JAYMDG01	GCA_036872995.1	Hymenopellis raphanipes	Contig	no	no	Qingdao Agriculturual University	50	60215257
+JBBPJI01	GCA_038088615.1	Boletus rex-veris	Scaffold	no	no	University of Utah	49	76050418
+JBBPJJ01	GCA_038088635.1	Veloboletus limbatus	Scaffold	no	no	University of Utah	48	92183165
+JBBPJM01	GCA_038088695.1	Boletus variipes	Scaffold	no	no	University of Utah	49.5	87123431
+JBBPJQ01	GCA_038088795.1	Boletus rex-veris	Scaffold	no	no	University of Utah	49.5	54229967
+JBBPJU01	GCA_038088875.1	Austroboletus festivus	Scaffold	no	no	University of Utah	47	77635256
+JBBPJZ01	GCA_038089015.1	Chalciporus aff. trinitensis	Scaffold	no	no	University of Utah	43	72641236
+JBBPKI01	GCA_038089155.1	Nevesoporus exiguus	Scaffold	no	no	University of Utah	48.5	73682856
+JBBPKW01	GCA_038089475.1	Boletus aff. vermiculosoides	Scaffold	no	no	University of Utah	48	69573286
+JBBPKX01	GCA_038089435.1	Boletus austroedulis	Scaffold	no	no	University of Utah	48	62221902
+JBBPKY01	GCA_038089495.1	Xerocomellus dryophilus	Scaffold	no	no	University of Utah	51	42539129
+JBBPKZ01	GCA_038089575.1	Phylloporus pelletieri	Scaffold	no	no	University of Utah	49.5	32394983
+JBBPLH01	GCA_038089655.1	Imleria badia	Scaffold	no	no	University of Utah	50.5	49261105
+JBBPLL01	GCA_038089755.1	Leccinellum rugosiceps	Scaffold	no	no	University of Utah	48	55745054
+JBBPLP01	GCA_038089875.1	Fistulinella prunicolor	Scaffold	no	no	University of Utah	50	45918294
+JBBPLS01	GCA_038089895.1	Boletellus ananas	Scaffold	no	no	University of Utah	50	43530106
+JBBPLU01	GCA_038089935.1	Boletellus emodensis	Scaffold	no	no	University of Utah	51.5	42011282
+JBBPLW01	GCA_038089995.1	Tylopilus balloui	Scaffold	no	no	University of Utah	48.5	41832403
+JBBPLX01	GCA_038090015.1	Leccinellum albellum	Scaffold	no	no	University of Utah	49	57358810
+JBBPLY01	GCA_038090035.1	Xerocomus nothofagi	Scaffold	no	no	University of Utah	49	46154583
+JBBPMB01	GCA_038090135.1	Pulveroboletus ravenelii	Scaffold	no	no	University of Utah	49.5	50736763
+JBBPMG01	GCA_038090195.1	Boletellus deceptivus	Scaffold	no	no	University of Utah	48	82476562
+JBBPMY01	GCA_038090615.1	Phylloporus gajari	Scaffold	no	no	University of Utah	42	193215278
+JBBPNA01	GCA_038090555.1	Boletus subcaerulescens	Scaffold	no	no	University of Utah	49.5	49764367
+JBBPNB01	GCA_038090635.1	Rubroboletus satanas	Scaffold	no	no	University of Utah	50.5	46332505
+JBBPND01	GCA_038090655.1	Gastroboletus turbinatus	Contig	no	no	University of Utah	49.5	56938543
+JBBPNO01	GCA_038090915.1	Boletus eberwhitei	Scaffold	no	no	University of Utah	48.5	48309558
+JBBPNQ01	GCA_038090975.1	Boletellus pseudochrysenteroides	Scaffold	no	no	University of Utah	49.5	49879969
+JBBPNU01	GCA_038091055.1	Leccinum angustisporum	Scaffold	no	no	University of Utah	41	103764350
+JBBPNV01	GCA_038091075.1	Phylloporus rhodoxanthus	Scaffold	no	no	University of Utah	47.5	78761151
+JBBPNZ01	GCA_038091195.1	Phylloporus rhodoxanthus	Scaffold	no	no	University of Utah	49	49541904
+JBBPOE01	GCA_038091295.1	Tylopilus felleus	Scaffold	no	no	University of Utah	50	42638358
+JBBPOJ01	GCA_038091395.1	Leccinum rimulosum	Scaffold	no	no	University of Utah	49.5	71766228
+JBBPOL01	GCA_038091435.1	Leccinum variabile	Scaffold	no	no	University of Utah	50	63370116
+JBBPOX01	GCA_038091695.1	Leccinum proximum	Scaffold	no	no	University of Utah	49.5	65603183
+JBBPOY01	GCA_038091675.1	Leccinum proliferum	Scaffold	no	no	University of Utah	50	58230790
+JBBPPB01	GCA_038091755.1	Leccinum pallidistipes	Scaffold	no	no	University of Utah	47.5	75388701
+JBBPPD01	GCA_038091795.1	Leccinum olivaceoglutinosum	Scaffold	no	no	University of Utah	50	59308515
+JBBPPG01	GCA_038091855.1	Leccinellum luteum	Scaffold	no	no	University of Utah	49	52718405
+JBBPPN01	GCA_038091995.1	Leccinum holopus	Scaffold	no	no	University of Utah	47	73371616
+JBBPPO01	GCA_038092055.1	Leccinum glutinopallens	Scaffold	no	no	University of Utah	49.5	65568721
+JBBPPQ01	GCA_038092035.1	Leccinum disarticulatum	Scaffold	no	no	University of Utah	50	71963407
+JBBPPV01	GCA_038092115.1	Leccinum brunneo-olivaceum	Scaffold	no	no	University of Utah	47.5	32481341
+JBBPQD01	GCA_038092355.1	Caloboletus inedulis	Scaffold	no	no	University of Utah	49.5	39497380
+JBBPQG01	GCA_038092395.1	Boletus variipes	Scaffold	no	no	University of Utah	46.5	62075716
+JBBPQJ01	GCA_038092415.1	Xerocomus tenax	Scaffold	no	no	University of Utah	49	57822446
+JBBPQY01	GCA_038092735.1	Chalciporus rubritubifer	Scaffold	no	no	University of Utah	49.5	35106514
+JBBPRA01	GCA_038092775.1	Boletus rubescentipes	Scaffold	no	no	University of Utah	49.5	42497777
+JBBPRG01	GCA_038092895.1	Chalciporus pseudorubinellus	Scaffold	no	no	University of Utah	50	46807948
+JBBPRT01	GCA_038093175.1	Boletus hoseneyae	Scaffold	no	no	University of Utah	49	45999607
+JBBPRU01	GCA_038093245.1	Boletus holoroseus	Scaffold	no	no	University of Utah	49.5	55800151
+JBBPRV01	GCA_038093235.1	Boletus harrisonii	Scaffold	no	no	University of Utah	49	63858611
+JBBPRY01	GCA_038093215.1	Boletus edulis	Scaffold	no	no	University of Utah	50.5	52952739
+JBBPSA01	GCA_038093355.1	Boletus calvinii	Scaffold	no	no	University of Utah	50	41892220
+JBBPSL01	GCA_038093555.1	Butyriboletus appendiculatus	Scaffold	no	no	University of Utah	48.5	43354353
+JBBPSN01	GCA_038093615.1	Austroboletus olivaceoglutinosus	Scaffold	no	no	University of Utah	48	56964413
+JBBPTD01	GCA_038093895.1	Boletus aff. mottiae	Scaffold	no	no	University of Utah	49	52092295
+JBBPTG01	GCA_038093975.1	Chalciporus piperatus	Scaffold	no	no	University of Utah	50.5	35949429
+JBBPTQ01	GCA_038098575.1	Tylopilus aff. beelii	Scaffold	no	no	University of Utah	51	67509732
+JBBPTS01	GCA_038094235.1	Fistulinella staudtii	Scaffold	no	no	University of Utah	48	53412337
+JBBPTT01	GCA_038094175.1	Boletellus aff. lepidospora	Scaffold	no	no	University of Utah	50.5	66188512
+JBBPTU01	GCA_038094295.1	Tylopilus aff. beelii	Scaffold	no	no	University of Utah	51	74207848
+JBBPUH01	GCA_038094555.1	Boletus aff. phaeocephalus	Scaffold	no	no	University of Utah	49	56714350
+JBBPUP01	GCA_038094735.1	Exsudoporus floridanus	Scaffold	no	no	University of Utah	49.5	43751322
+JBBPVF01	GCA_041721835.1	Phylloporus sp. TRTC168454	Scaffold	no	no	University of Utah	48.5	58152183
+JBBPVR01	GCA_041722095.1	Tylopilus sp. KM206722	Scaffold	no	no	University of Utah	50	70128747
+JBBPVW01	GCA_041722195.1	Boletaceae sp. KM206713	Scaffold	no	no	University of Utah	50.5	85696048
+JBBPVX01	GCA_041722215.1	Boletaceae sp. KM206711	Scaffold	no	no	University of Utah	49.5	75504216
+JBBPVZ01	GCA_041722315.1	Porphyrellus sp. KM206675	Scaffold	no	no	University of Utah	39.5	165037229
+JBBPWB01	GCA_041722235.1	Phylloporus sp. TRTC163509	Scaffold	no	no	University of Utah	48	81183672
+JBBPWK01	GCA_041722455.1	Boletaceae sp. DLT08-010	Scaffold	no	no	University of Utah	50	67670464
+JBBPWL01	GCA_041722475.1	Boletaceae sp. TRTC157251	Scaffold	no	no	University of Utah	43	76916022
+JBBPWO01	GCA_041722635.1	Boletaceae sp. TRTC157229	Scaffold	no	no	University of Utah	38	242609850
+JBBPWT01	GCA_041722595.1	Boletaceae sp. UT-M0000358	Scaffold	no	no	University of Utah	50	42261171
+JBBPWU01	GCA_041722675.1	aff. Porphyrellus sp. UT-M0000367	Scaffold	no	no	University of Utah	49.5	57902900
+JBBPWY01	GCA_041722775.1	Phylloporus sp. UT-M0000405	Scaffold	no	no	University of Utah	42.5	64803072
+JBBPXA01	GCA_041722795.1	Tylopilus sp. UT-M0000054	Scaffold	no	no	University of Utah	49	38885275
+JBBPXB01	GCA_041722855.1	Boletellus sp. UT-M0000026	Scaffold	no	no	University of Utah	44.5	69124517
+JBBPXF01	GCA_041722915.1	aff. Porphyrellus sp. UT-M0000030	Scaffold	no	no	University of Utah	43	63162898
+JBBPXK01	GCA_041722655.1	Porphyrellus sp. 'aff. excedens' UT-M0000382	Scaffold	no	no	University of Utah	49	51024959
+JBCIYP01	GCA_040113005.1	Epicoccum sorghinum	Scaffold	no	no	South China Agricultural University	52	31364396
+JBCJFB01	GCA_040113025.1	Pyricularia grisea	Scaffold	no	no	South China Agricultural University	49.5	41199273
+JBDFSK01	GCA_040763265.1	Corynespora cassiicola	Contig	no	no	Guizhou Academy of Science	51	45185409
+JBFMKN01	GCA_041380665.1	Clonostachys rosea	Scaffold	no	no	Tamil Nadu Agricultural University	51	52422609
+JGVQ01	GCA_001007845.1	Nigrograna mackinnonii	Contig	no	no	Yale University	48	51710636
+JJNP01	GCA_000827265.1	Collybiopsis luxurians	Scaffold	yes	no	DOE JGI	45	66281670
+JMDQ01	GCA_000827355.1	Hebeloma cylindrosporum	Scaffold	yes	no	DOE Joint Genome Institute	48.5	38226047
+JMNB01	GCA_000733645.1	Beauveria rudraprayagi	Contig	no	no	CSIR- Institute of Microbial technology (IMTECH)	50	36589529
+JMNC01	GCA_000733625.1	Cordyceps farinosa	Contig	no	no	CSIR- Institute of Microbial technology (IMTECH)	53	34157461
+JMSL01	GCA_000827195.1	Laccaria amethystina	Scaffold	yes	no	DOE Joint Genome Institute		
+JNHV02	GCA_001691785.3	Amanita brunnescens	Scaffold	yes	no	Harvard University	49	36016155
+JNOM01	GCF_001204775.2	Aspergillus nomiae	Contig	yes	yes	USDA-ARS-SRRC	49	36137300
+JPJS01	GCA_000750665.1	Pseudogymnoascus sp. VKM F-3557	Contig	yes	no	Moscow State University	50	27649855
+JPJX01	GCA_000750795.1	Pseudogymnoascus sp. VKM F-4514 (FW-929)	Contig	yes	no	Moscow State University	50.5	27026992
+JPOR01	GCA_002740505.1	Aspergillus niger	Contig	no	no	South China University of Technology	50	35378992
+JRHA01	GCA_001682635.1	Beauveria bassiana	Contig	yes	no	Wageningen University	48.5	35021612
+JRVE01	GCA_000876485.1	Fusarium circinatum	Scaffold	no	no	Forestry and Agriculture Biotechnology Institute University of Pretoria	48.5	42540497
+JTCW01	GCA_001684195.1	Beauveria bassiana	Scaffold	no	no	Wageningen University	49.5	36971660
+JTCX01	GCA_001684205.1	Beauveria bassiana	Scaffold	no	no	Wageningen University	49	38828503
+JTCY01	GCA_001684225.1	Beauveria bassiana	Scaffold	no	no	Wageningen University	49.5	34768697
+JTCZ01	GCA_001684215.1	Beauveria bassiana	Scaffold	no	no	Wageningen University	51	34448453
+JUDZ01	GCA_000812845.1	Stagonosporopsis tanaceti	Contig	no	no	The University of Melbourne	52.5	40060467
+JWIW01	GCA_000966855.1	Fusarium sp. JS1030	Scaffold	no	no	Seoul National University	51.5	53748257
+JYFM02	GCA_000963775.2	Clonostachys rosea	Scaffold	no	no	Chinese Academy of Agricultural Sciences	50	55416396
+JYJY01	GCA_001696505.1	Calonectria pseudonaviculata	Scaffold	no	no	USDA-ARS	48	51439042
+LDZW01	GCA_001044295.1	Aspergillus sp. Z5	Contig	no	no	Zhejiang University	50.5	33810366
+LFZN01	GCA_001578235.1	Pseudocercospora eumusae	Scaffold	yes	no	University of California Davis	48	47119461
+LKBE01	GCA_001307345.1	Aspergillus westerdijkiae	Scaffold	no	no	Nanyang Technological University	50.5	36072589
+LKBF01	GCA_001741915.1	Aspergillus niger	Contig	no	no	Jiangnan University	49.5	36413165
+LKUP01	GCA_001399475.1	Penicillium citrinum	Contig	no	no	Max Rubner-Institut	47	31529786
+LLBX01	GCA_001741905.1	Aspergillus niger	Contig	no	no	Jiangnan University	49	35881929
+LLWO01	GCA_001466525.1	Nakaseomyces glabratus	Scaffold	yes	no	Oslo University Hospital, Rikshopitalet	38.5	12602388
+LLZY01	GCA_001466575.1	Nakaseomyces glabratus	Scaffold	yes	no	Oslo University Hospital, Rikshopitalet	38.5	12784432
+LLZZ01	GCA_001466635.1	Nakaseomyces glabratus	Scaffold	yes	no	Oslo University Hospital, Rikshopitalet	38.5	14517464
+LMAA01	GCA_001466535.1	Nakaseomyces glabratus	Scaffold	yes	no	Oslo University Hospital, Rikshopitalet	38.5	12563078
+LMAB01	GCA_001466565.1	Nakaseomyces glabratus	Scaffold	yes	no	Oslo University Hospital, Rikshopitalet	38.5	12865870
+LMAY01	GCA_001466685.1	Nakaseomyces glabratus	Scaffold	yes	no	Oslo University Hospital, Rikshopitalet	38.5	12820484
+LMYC01	GCA_001741885.1	Aspergillus niger	Scaffold	no	no	Jiangnan University	50	34635689
+LOEM01	GCA_001548815.1	Pyricularia grisea	Scaffold	no	no	Fujian Agriculture and Forestry University	48.5	42710978
+LOFB01	GCA_001548795.1	Pyricularia grisea	Scaffold	no	no	Fujian Agriculture and Forestry University	49	42458485
+LOFD01	GCA_001548785.1	Pyricularia oryzae	Scaffold	no	no	Fujian Agriculture and Forestry University	50.5	41601338
+LPVI01	GCA_001484525.1	Colletotrichum falcatum	Scaffold	no	no	ICAR-Sugarcane Breeding Institute	51.5	48186431
+LPVP01	GCA_001572055.1	Alternaria alternata	Contig	yes	no	Zhejiang University	51	34355870
+LSHD01	GCA_001563735.1	Leucoagaricus sp. SymC.cos	Scaffold	yes	no	BGI	44.5	119028496
+LUKN01	GCA_001653215.1	Akanthomyces lecanii	Scaffold	yes	no	University of Michigan	52	32603708
+LVVM01	GCA_001882365.1	Rhizopogon vesiculosus	Scaffold	yes	no	University of Florida	48	43780879
+LWRQ01	GCA_001640285.1	Clonostachys rosea	Scaffold	no	no	Kunming Institute of Botany, Chinese Academy of Sciences	49.5	55184262
+LXON01	GCA_001675615.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50.5	42084471
+LXOO01	GCA_001675595.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	51	41344138
+LXOP01	GCA_001675605.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50.5	42962175
+LXOQ01	GCA_001675625.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50	43625833
+LYZI01	GCA_001658105.1	Rhizopogon vinicolor	Scaffold	yes	no	DOE Joint Genome Institute	48	36102320
+MADK01	GCF_003019875.1	Amorphotheca resinae	Scaffold	yes	yes	DOE Joint Genome Institute	47.5	28632918
+MAQY01	GCA_003337105.1	Beauveria bassiana	Contig	no	no	Biotechnology Institute- National University of Colombia- Bogota	50.5	34837590
+MBFL02	GCA_001696595.2	Aspergillus hancockii	Scaffold	yes	no	CSIRO	47.5	39691269
+MCQH01	GCA_001715265.1	Aspergillus niger	Contig	no	no	Universidad Nacional Agraria La Molina,	49.5	36172237
+MDYN01	GCA_002072345.1	Penicillium antarcticum	Scaffold	yes	no	Chalmers University of Technology	49	31454985
+MIKF01	GCA_003957675.1	Fusarium euwallaceae	Contig	yes	no	University of California, Riverside	51	50472048
+MILZ01	GCA_002218425.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50	42437008
+MIPV01	GCA_001983365.1	Amanita bisporigera	Scaffold	no	no	Michigan State University	45.5	75346262
+MKZV01	GCA_002218475.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50	42988316
+MRBI01	GCA_001951205.1	Colletotrichum graminicola	Contig	no	no	University of Kentucky	45.5	59914086
+MRBN01	GCF_001890125.1	Aspergillus versicolor	Scaffold	yes	yes	DOE Joint Genome Institute	50	33126810
+MRCH01	GCF_001890705.1	Aspergillus sydowii	Scaffold	yes	yes	DOE Joint Genome Institute	50	34381026
+MRCK01	GCF_001890905.1	Aspergillus aculeatus	Scaffold	yes	yes	JGI	51	35424414
+MRVG01	GCA_002871155.1	Beauveria bassiana	Contig	yes	no	Chonbuk National University	48	36538394
+MSFL01	GCF_003184545.1	Aspergillus heteromorphus	Contig	yes	yes	DOE Joint Genome Institute	48	35607567
+MSFM01	GCF_002847485.1	Aspergillus campestris	Contig	yes	yes	DOE Joint Genome Institute	51	28257496
+MSFO01	GCF_002849105.1	Aspergillus steynii	Contig	yes	yes	DOE Joint Genome Institute	49	37847960
+MSFR01	GCF_003184595.1	Aspergillus niger	Scaffold	yes	yes	DOE Joint Genome Institute	49.5	35853610
+MSFT01	GCF_003184745.1	Aspergillus uvarum	Scaffold	yes	yes	DOE Joint Genome Institute	51	35850703
+MSJD01	GCA_001931795.1	Aspergillus niger	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	49.5	36079011
+MSJG02	GCA_001931865.2	Beauveria sp. IMV 00265	Scaffold	no	no	Jet Propulsion Laboratory, California Institute of Technology	51.5	35190057
+MSZS01	GCF_002847465.1	Aspergillus novofumigatus	Contig	yes	yes	DOE Joint Genome Institute	49	32440129
+MVOE01	GCA_002219185.1	Nakaseomyces glabratus	Chromosome	yes	no	University of Lausanne	39	12709102
+MVOF01	GCA_002219195.1	Nakaseomyces glabratus	Chromosome	yes	no	University of Lausanne	39	12708078
+MWMN01	GCA_002968875.1	Cordyceps cicadae	Scaffold	no	no	Shanghai Institutes for Biological Sciences, CAS	53	34107548
+MWYT01	GCA_002224115.1	Beauveria bassiana	Contig	no	no	National Center for Genetic Engineering and Biotechnology (BIOTEC)	49.5	34560348
+NAGG01	GCA_003031705.1	Calonectria naviculata	Scaffold	no	no	USDA-ARS	50.5	65680613
+NETP01	GCA_002259835.1	Nakaseomyces glabratus	Scaffold	no	no	University of Maryland School of Medicine	38.5	12248562
+NFZR01	GCA_002165215.1	Fusarium pininemorale	Scaffold	no	no	Forestry and Agricultural Biotechnology Institute	46	47778485
+NHTE02	GCA_002168265.2	Fusarium euwallaceae	Scaffold	no	no	Instituto de Ecologia A.C. (INECOL)	51.5	48274071
+NIFK01	GCA_002194535.1	Fusarium udum	Scaffold	no	no	NBAIM	43	56380608
+NIZV01	GCA_003947045.1	Fusarium ambrosium	Scaffold	yes	no	University of California, Riverside	51	49019568
+NJBV02	GCA_002233985.2	Fusarium oxysporum	Scaffold	no	no	University of Amsterdam	48	59417736
+NJCS01	GCA_002234255.1	Fusarium sp. Na10	Scaffold	no	no	University of Amsterdam	47.5	46623205
+NJET01	GCA_002591415.1	Ophiocordyceps australis	Scaffold	yes	no	Utrecht University	53	23324075
+NJEU01	GCA_002591405.1	Ophiocordyceps australis	Scaffold	yes	no	Utrecht University	53.5	22189873
+NJIJ01	GCA_002214935.1	Monosporozyma servazzii	Contig	no	no	Microbial Institute for Fermentation Industry	35	12836848
+NKCI01	GCA_003946985.1	Fusarium duplospermum	Scaffold	yes	no	University of California, Riverside	51	47510963
+NKCJ01	GCA_003947015.1	Fusarium sp. AF-6	Contig	yes	no	University of California, Riverside	51.5	43054081
+NKCK01	GCA_003946995.1	Fusarium oligoseptatum	Scaffold	yes	no	University of California, Riverside	51.5	48655532
+NKCL01	GCA_003947005.1	Fusarium floridanum	Scaffold	yes	no	University of California, Riverside	51.5	47357966
+NKJJ02	GCA_002211485.2	Aspergillus niger	Contig	yes	no	US Food and Drug Administration	49.5	35806243
+NKUJ01	GCA_003698175.1	Fusarium kuroshium	Scaffold	yes	no	University of California, Riverside	51.5	46557493
+NLAP01	GCA_002374725.1	Metschnikowia hibisci	Scaffold	no	no	University of Guelph	42	11491640
+NLAQ01	GCA_002370455.1	Metschnikowia hibisci	Scaffold	no	no	University of Guelph	42	11570881
+NPUD01	GCA_003274195.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38	11666514
+NPUO01	GCA_003274425.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38	11555113
+NPUW01	GCA_003276205.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38.5	11650143
+NPVJ01	GCA_003276375.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38	11771841
+NPVW01	GCA_003275115.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38	11760353
+NPVX01	GCA_003276485.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38	11723441
+NPVY01	GCA_003275125.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38	11728040
+NPWF01	GCA_003326555.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38.5	11671973
+NPWH01	GCA_003275345.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38	11740703
+NPWI01	GCA_003275365.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38	11769048
+NPWJ01	GCA_003275385.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38	11765141
+NPWL01	GCA_003275465.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38	11782924
+NPWM01	GCA_003275475.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38	11722199
+NPWO01	GCA_003275575.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38	11734416
+NPWP01	GCA_003276515.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38	11779887
+NPWQ01	GCA_003275585.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38	11700591
+NPWR01	GCA_003275605.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38	11753655
+NPWS01	GCA_003275615.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38.5	11808935
+NPWT01	GCA_003275685.1	Saccharomyces cerevisiae	Chromosome	no	no	Institute Of Microbiology Chinese Academy of Sciences	38	11740816
+NREE01	GCA_004125095.1	Wickerhamiella occidentalis	Scaffold	no	no	UW-Madison	48	10056388
+OGUI01	GCA_900248155.1	Aspergillus niger	Scaffold	yes	no	WAGENINGEN UNIVERSITY	49.5	35570168
+OVTS02	GCA_900382705.2	Fusarium tricinctum	Contig	no	no	INRA (Nouvelle-Aquitaine-Bordeaux)	48	42796142
+PCDH01	GCA_002778165.1	Raffaelea arxii	Scaffold	no	no	University of Montana	50.5	36823513
+PCYO01	GCA_003073855.1	Periconia macrospinosa	Scaffold	yes	no	DOE Joint Genome Institute	47	54992973
+PDLM01	GCA_003369665.1	Coleophoma cylindrospora	Scaffold	yes	no	The University of Texas Health Science Center at Houston	48.5	42480816
+PDXB01	GCA_004156015.1	Alternaria tenuissima	Scaffold	yes	no	NIAB-East Malling Research	51	34724580
+PDXF01	GCA_004168565.1	Alternaria tenuissima	Scaffold	yes	no	NIAB-East Malling Research	51	36064554
+PDXG01	GCA_004154765.1	Alternaria tenuissima	Contig	yes	no	NIAB-East Malling Research	51	33508343
+PDXH01	GCA_004154845.1	Alternaria tenuissima	Scaffold	yes	no	NIAB-East Malling Research	51	35921821
+PGSE01	GCA_004380935.1	Calonectria henricotiae	Scaffold	no	no	USDA-ARS	50	47536833
+PGSF01	GCA_004380965.1	Calonectria henricotiae	Scaffold	no	no	USDA-ARS	49	49056814
+PGWR01	GCA_004380885.1	Calonectria henricotiae	Scaffold	no	no	USDA-ARS	49	53519991
+PHMY01	GCA_004382205.1	Calonectria henricotiae	Scaffold	no	no	USDA-ARS	50	43265771
+PHMZ01	GCA_004381035.1	Calonectria pseudonaviculata	Scaffold	no	no	USDA-ARS	49.5	39829639
+PHNA01	GCA_004382245.1	Calonectria pseudonaviculata	Scaffold	no	no	USDA-ARS	49.5	30834555
+PHNB01	GCA_004382225.1	Calonectria pseudonaviculata	Scaffold	no	no	USDA-ARS	50	45226290
+PJXP01	GCA_002924665.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50.5	42478152
+PJXQ01	GCA_002924695.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	51	39236975
+PJXT01	GCA_002924755.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50	43535068
+PJXU01	GCA_002924745.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50.5	42288804
+PJXY01	GCA_002924835.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50.5	42551776
+PJXZ01	GCA_002924865.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50	43288804
+PJYA01	GCA_002924875.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50.5	42076864
+PJYB01	GCA_002924885.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50.5	42620654
+PJYD01	GCA_002924945.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50	43574967
+PJYF01	GCA_002924975.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50.5	42913937
+PJYL01	GCA_002925105.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50	42976410
+PJYO01	GCA_002925155.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50.5	42564503
+PJYS01	GCA_002925225.1	Pyricularia oryzae	Contig	no	no	International Wheat Blast Consortium	50	42932243
+PJYT01	GCA_002925245.1	Pyricularia grisea	Scaffold	no	no	International Wheat Blast Consortium	47.5	46838708
+PJYU01	GCA_002925285.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	51	40381126
+PJYV01	GCA_002925295.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50.5	42141387
+PJYX01	GCA_002925345.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50	42474840
+PJYY01	GCA_002925335.1	Pyricularia oryzae	Scaffold	no	no	International Wheat Blast Consortium	50.5	41732479
+PKSN02	GCA_002939025.2	Tricholoma matsutake	Scaffold	no	no	Korea University	45.5	189030256
+POQW01	GCA_002975555.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	52	41800284
+POQX01	GCA_002975995.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	52	41638834
+POQY01	GCA_002975505.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	52	42497206
+POQZ01	GCA_002975575.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	52	42657670
+PORB01	GCA_002975595.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	52	42613724
+PORC01	GCA_002975535.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	52	42699299
+PORD01	GCA_002975635.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	51.5	43029519
+PORE01	GCA_002975615.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	52	42136658
+PORG01	GCA_002976075.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	52.5	41036033
+PORI01	GCA_002976085.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	51.5	41997187
+PORJ01	GCA_002975655.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	52	41780571
+PORK01	GCA_002975685.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	52.5	41031152
+PORL01	GCA_002975705.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	53	40618885
+PORM01	GCA_002976105.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	52	41640710
+PORN01	GCA_002975725.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	51.5	42149808
+PORO01	GCA_002975755.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	51.5	42810951
+PORP01	GCA_002975775.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	51.5	41709076
+PORQ01	GCA_002975815.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	52	41331489
+PORR01	GCA_002976145.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	52.5	40981027
+PORS01	GCA_002975795.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	51.5	42946527
+PORT01	GCA_002975845.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	51.5	42845677
+PORW01	GCA_002975915.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	51.5	43205138
+PORX01	GCA_002975895.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	51.5	43151585
+POSC01	GCA_002976015.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	52	41351153
+POSD01	GCA_002976025.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	52	42070018
+POSE01	GCA_002976175.1	Corynespora cassiicola	Contig	no	no	Universite Clermont Auvergne (UCA)	52	42944815
+PPKB02	GCA_003707605.2	Tetrapisispora fleetii	Scaffold	no	no	UW-Madison	33	12022321
+PPKH03	GCA_003709205.3	Ogataea zsoltii	Contig	no	no	UW-Madison	48	11626378
+PPKY03	GCA_003706315.3	Ambrosiozyma oregonensis (nom. inval.)	Scaffold	no	no	UW-Madison	31	15100962
+PPTI01	GCA_010099065.1	Beauveria bassiana	Contig	yes	no	Farmhannong and Chonbuk National University	49.5	35449500
+PQME02	GCA_003004525.2	Aspergillus sp. MA 6038	Contig	no	no	University of Natural Resources and Life Sciences, Vienna	50	24489601
+PQMF01	GCA_003004485.1	Aspergillaceae sp. MA 6039	Contig	no	no	University of Natural Resources and Life Sciences, Vienna	50.5	23262544
+PSTA01	GCA_003184705.1	Aspergillus violaceofuscus	Scaffold	yes	no	DOE Joint Genome Institute	51	36012865
+PSTB01	GCA_003184685.1	Aspergillus indologenus	Scaffold	yes	no	DOE Joint Genome Institute	48.5	38592838
+PSTC01	GCF_003184695.1	Aspergillus brunneoviolaceus	Scaffold	yes	yes	DOE Joint Genome Institute	49.5	37477200
+PSTE01	GCF_003184765.1	Aspergillus aculeatinus	Scaffold	yes	yes	DOE Joint Genome Institute	50.5	36471649
+PSTF01	GCF_003184785.1	Aspergillus japonicus	Scaffold	yes	yes	DOE Joint Genome Institute	51	36099954
+PSTG01	GCF_003184825.1	Aspergillus fijiensis	Scaffold	yes	yes	DOE Joint Genome Institute	50	36513906
+PSTJ01	GCF_003184865.1	Aspergillus homomorphus	Scaffold	yes	yes	DOE Joint Genome Institute	50	34054866
+PUWS01	GCA_009761105.1	Aspergillus welwitschiae	Scaffold	no	no	Universidade Federal de Minas Gerais	48.5	38180955
+PVXS01	GCA_002995135.1	Rhizopogon sp. AM-2018a	Scaffold	no	no	Oregon State University	48	40159649
+PVXT01	GCA_002994955.1	Rhizopogon sp. AM-2018a	Scaffold	no	no	Oregon State University	48	39400525
+PVXU01	GCA_002994865.1	Rhizopogon parksii	Scaffold	no	no	Oregon State University	48.5	35801119
+PVXW01	GCA_002995035.1	Rhizopogon hawkerae	Scaffold	no	no	Oregon State University	48.5	36927975
+PVXY01	GCA_002994825.1	Rhizopogon vinicolor	Scaffold	no	no	Oregon State University	48.5	35447705
+PVYA01	GCA_002995155.1	Rhizopogon parksii	Scaffold	no	no	Oregon State University	49	32343143
+PVYB01	GCA_002995175.1	Rhizopogon rudus	Scaffold	no	no	Oregon State University	48.5	33193408
+PVYC01	GCA_002995215.1	Rhizopogon rudus	Scaffold	no	no	Oregon State University	48.5	34899548
+PVYD01	GCA_002995195.1	Rhizopogon rudus	Scaffold	no	no	Oregon State University	48.5	35485772
+PVYE01	GCA_002995055.1	Rhizopogon rudus	Scaffold	no	no	Oregon State University	48.5	37101101
+PVYF01	GCA_002994895.1	Rhizopogon rudus	Scaffold	no	no	Oregon State University	48.5	37105217
+PVYG01	GCA_002995065.1	Rhizopogon vinicolor	Scaffold	no	no	Oregon State University	48.5	35018292
+PVYH01	GCA_002995115.1	Rhizopogon vesiculosus	Scaffold	no	no	Oregon State University	48	39630221
+PVYI01	GCA_002995245.1	Rhizopogon vesiculosus	Scaffold	no	no	Oregon State University	48.5	38557173
+PVYJ01	GCA_002995095.1	Rhizopogon sp. AM-2018a	Scaffold	no	no	Oregon State University	48	36450972
+PVYK01	GCA_002995235.1	Rhizopogon sp. AM-2018a	Scaffold	no	no	Oregon State University	48.5	34494827
+PVYM01	GCA_002995275.1	Rhizopogon vinicolor	Scaffold	no	no	Oregon State University	48.5	34798762
+PVYN01	GCA_002995315.1	Rhizopogon villosulus	Scaffold	no	no	Oregon State University	48.5	33267124
+PVYO01	GCA_002995335.1	Rhizopogon rudus	Scaffold	no	no	Oregon State University	48.5	36394120
+PVYP01	GCA_002995295.1	Rhizopogon vulgaris	Scaffold	no	no	Oregon State University	48.5	29517789
+PVYQ01	GCA_002995375.1	Rhizopogon vinicolor	Scaffold	no	no	Oregon State University	48.5	35154325
+PVYS01	GCA_002995355.1	Rhizopogon rudus	Scaffold	no	no	Oregon State University	48.5	37035827
+PVYT01	GCA_002995395.1	Rhizopogon vinicolor	Scaffold	no	no	Oregon State University	48.5	35203544
+PVYU01	GCA_002995415.1	Rhizopogon vinicolor	Scaffold	no	no	Oregon State University	48.5	36133621
+PXNZ01	GCA_003012085.1	Trichoderma brevicompactum	Scaffold	no	no	USDA, ARS, NCAUR	49.5	37043505
+QFDZ01	GCA_003315955.1	Lactarius hatsudake	Scaffold	no	no	Kunming University of Science and Technology	52	73801924
+QFEJ01	GCA_003316165.1	Boletus edulis	Scaffold	no	no	Kunming University of Science and Technology	50	52575740
+QFER01	GCA_003316485.1	Chiua virens	Scaffold	no	no	Kunming University of Science and Technology	48.5	45918281
+QFZF01	GCA_003149365.1	Fusarium tricinctum	Contig	no	no	Bordeaux University	48	42747636
+QGMG01	GCA_007825325.1	Lachnellula cervina	Contig	yes	no	Canadian Food Inspection Agency (CFIA)	41.5	51373547
+QGML01	GCA_007825375.1	Lachnellula willkommii	Contig	yes	no	Canadian Food Inspection Agency (CFIA)	42	51034129
+QGOG01	GCA_003313185.1	Collybia sp. MG36	Scaffold	no	no	Kunming University of Science and Technology	50.5	46064087
+QGQJ01	GCA_003206725.1	Blastomyces emzantsi	Scaffold	no	no	National Institute for Communicable Diseases	51.5	34048485
+QGQV01	GCA_006505905.1	Calonectria pseudonaviculata	Scaffold	no	no	USDA-ARS	48.5	49884589
+QJNU01	GCA_004154915.1	Monosporascus ibericus	Scaffold	yes	no	University of New Mexico	40.5	87248235
+QLOQ01	GCA_003313685.1	Schizophyllum commune	Scaffold	no	no	Kunming University of Science and Technology	58.5	51157739
+QLOW01	GCA_003314005.1	Hymenopellis radicata	Scaffold	no	no	Kunming University of Science and Technology	50	71434061
+QLPA01	GCA_003313945.1	Lactifluus pinguis	Scaffold	no	no	Kunming University of Science and Technology	50	49262189
+QLPB01	GCA_003313985.1	Lactarius indigo	Scaffold	no	no	Kunming University of Science and Technology	52	76466909
+QLPD01	GCA_003314085.1	Hymenopellis raphanipes	Scaffold	no	no	Kunming University of Science and Technology	50.5	80374122
+QLPF01	GCA_003314045.1	Hygrophorus pudorinus	Scaffold	no	no	Kunming University of Science and Technology	47	77122045
+QLPH01	GCA_003314295.1	Craterellus lutescens	Scaffold	no	no	Kunming University of Science and Technology	51.5	160366888
+QLPJ01	GCA_003314235.1	Cantharellus cinnabarinus	Scaffold	no	no	Kunming University of Science and Technology	48.5	62363499
+QLPK01	GCA_003314335.1	Cantharellus appalachiensis	Scaffold	no	no	Kunming University of Science and Technology	50.5	131127230
+QMFF01	GCA_003314635.1	Tricholoma matsutake	Scaffold	no	no	Kunming University of Science and Technology	45.5	155036874
+QPFP01	GCA_004369175.1	Coprinellus micaceus	Contig	yes	no	DOE Joint Genome Institute	53.5	77386123
+QQUR01	GCA_003344505.1	Aspergillus phoenicis	Scaffold	yes	no	DOE Joint Genome Institute	49.5	35753538
+QQZP01	GCA_003344705.1	Aspergillus niger	Scaffold	yes	no	DOE Joint Genome Institute	49.5	35690699
+QUQM01	GCF_003426965.1	Aspergillus tanneri	Contig	yes	yes	JCVI	47.5	38719388
+RAKI01	GCA_009802435.1	Neurospora discreta	Scaffold	no	no	University of California, Berkeley	44.5	29024959
+RBKR01	GCA_004835665.1	Phoma sp. XZ068	Scaffold	no	no	Institute Of Microbiology Chinese Academy of Sciences	50.5	40199292
+RCFS01	GCA_004296355.1	Lepiota venenata	Contig	no	no	Kunming Institute of Botany	49	49247364
+RJLO01	GCA_023647615.1	Corynespora cassiicola	Contig	no	no	Shanghai Academy of Agricultural Sciences	52	42599561
+RPFY01	GCA_004012055.1	Floccularia luteovirens	Contig	no	no	Northwest Institute of Plateau Biology	43.5	28760771
+RRCK01	GCF_004355905.1	Pyricularia grisea	Chromosome	yes	yes	Academia Sinica	48	44557582
+SELF01	GCA_009805535.1	Laburnicola sp. JP-R-44	Scaffold	no	no	Chinese Academy of Forestry	45	61456043
+SJDR01	GCA_004634315.1	Aspergillus niger	Contig	no	no	USFDA	50.5	33793555
+SJKF01	GCA_012980535.1	Pleurotus pulmonarius	Contig	yes	no	Academia Sinica	51	39866212
+SJVG01	GCA_034774675.1	Scedosporium minutisporum	Scaffold	no	no	INAIL-DIT, Research Area	51.5	42337440
+SKBI01	GCA_004332465.1	Nakaseomyces glabratus	Scaffold	no	no	Institute for Bioengineering and Biosciences, Instituto Superior Tecnico	38.5	12251356
+SKBJ01	GCA_004332445.1	Nakaseomyces glabratus	Scaffold	no	no	Institute for Bioengineering and Biosciences, Instituto Superior Tecnico	38.5	12237800
+SKBK01	GCA_004332455.1	Nakaseomyces glabratus	Scaffold	no	no	Institute for Bioengineering and Biosciences, Instituto Superior Tecnico	38.5	12236919
+SKBQ01	GCF_004353045.1	Thyridium curvatum	Contig	yes	yes	UES / AFRL	55	40366568
+SMUT01	GCA_009193685.1	Aspergillus sydowii	Scaffold	no	no	Hamburg University	50.5	35409723
+SOSA01	GCA_004798825.1	Aspergillus tanneri	Scaffold	yes	no	JCVI	47.5	36538212
+SPUL01	GCA_006981975.1	Cordyceps javanica	Scaffold	yes	no	The Institute of Vegetables and Flowers CAAS	53.5	34972450
+SRRN01	GCA_004796565.1	Aspergillus tanneri	Contig	no	no	JCVI	47.5	36974919
+SSOS01	GCA_004849945.1	Aspergillus ochraceus	Scaffold	no	no	Institute of Agro-Products Processing Science and Technology, Chinese Academy of Agricultural Sciences (CAAS)	49	37017470
+STFQ01	GCA_009193605.1	Aspergillus alliaceus	Scaffold	yes	no	DOE Joint Genome Institute	47	40140031
+SWAS01	GCF_009176365.1	Aspergillus alliaceus	Scaffold	yes	yes	DOE Joint Genome Institute	47	40168528
+SWKJ01	GCA_019425465.1	Colletotrichum falcatum	Contig	no	no	ICAR-IISR	52.5	56082967
+SWKV01	GCA_011058895.1	Didymella heteroderae	Scaffold	yes	no	University of Campinas	52.5	37069316
+VBTP01	GCA_005784425.1	Aspergillus ochraceus	Contig	no	no	Shanghai Institute of Technology	48.5	37094261
+VDMI01	GCA_030015485.1	Arthroderma uncinatum	Contig	no	no	Chinese Academy of Medical Science and Peking Union Medical College	48.5	23598465
+VHKJ01	GCA_006680135.1	Lactarius deliciosus	Contig	no	no	UCSI University	52	54791043
+VICK01	GCA_006523535.1	Corynespora cassiicola	Contig	no	no	University of Georgia	51	45300321
+VICL01	GCA_006523515.1	Corynespora cassiicola	Contig	no	no	University of Georgia	51.5	47452810
+VKGB01	GCA_009733575.1	Gymnopus androsaceus	Scaffold	yes	no	DOE Joint Genome Institute	45	89149538
+VOIT01	GCA_031010545.1	Laburnicola sp. JP_R_19	Contig	no	no	Chinese Academy of Forestry	45.5	120554706
+VRKZ01	GCA_024704655.1	Pyricularia oryzae	Contig	yes	no	University of Bedfordshire	50	41579359
+VTFN01	GCA_009812365.1	Aspergillus niger	Contig	no	no	East China University of Science and technology	49.5	35265186
+VTGB01	GCA_013403855.1	Calonectria honghensis	Scaffold	no	no	FABI	50	61741299
+VTGC01	GCA_013406965.1	Calonectria fujianensis	Scaffold	no	no	FABI	49.5	61451901
+VTGE01	GCA_013406995.1	Calonectria aciculata	Scaffold	no	no	FABI	49.5	61591905
+VTSW01	GCA_009812435.1	Aspergillus amoenus	Scaffold	no	no	Universidad de Antioquia	50	35476417
+VUOF01	GCA_032158505.1	Pleurotus pulmonarius	Contig	no	no	Zhejiang Academy of Agricultural Sciences	51	42323363
+VWSB01	GCA_008802755.1	Monosporozyma servazzii	Scaffold	no	no	University College Dublin	34.5	11767043
+VWSC01	GCA_008802765.1	Monosporozyma servazzii	Scaffold	no	no	University College Dublin	34	12002385
+VXJJ01	GCA_020272525.1	Epicoccum sorghinum	Contig	no	no	Guangxi university	52	33124632
+VYXZ01	GCA_016162265.1	Aspergillus niger	Scaffold	no	no	URCA	49.5	35598484
+WAJQ01	GCA_020882315.1	Fusarium verticillioides	Contig	no	no	Sequentia Biotech SL	48	44598661
+WBSA01	GCA_009828645.1	Calcarisporium arbuscula	Contig	no	no	Zhejiang University	49.5	44986109
+WEUO01	GCA_011034735.1	Fusarium cf. falciforme	Scaffold	no	no	Cook Lab - University of California at Davis	49	59145910
+WFIS01	GCA_023718355.1	Aspergillus welwitschiae	Scaffold	no	no	Universidade Federal de Minas Gerais	49.5	36421613
+WHIX01	GCA_016170065.1	Akanthomyces lecanii	Contig	no	no	Xinjiang University	53	36175285
+WITN01	GCA_015025155.1	Lactarius quietus	Contig	yes	no	DOE Joint Genome Institute	49.5	115901997
+WIUX01	GCA_015039435.1	Imleria badia	Scaffold	yes	no	DOE Joint Genome Institute	51	38390415
+WIUY01	GCA_014904895.1	Tricholoma matsutake	Scaffold	yes	no	DOE Joint Genome Institute	45.5	175758422
+WJIA01	GCA_010211705.1	Cordyceps cicadae	Contig	no	no	Anhui Agricultural University	53	33728018
+WNEH01	GCA_026954905.1	Saccharomyces cerevisiae	Contig	yes	no	University of Warwick	38	11599798
+WNYC01	GCA_021396375.1	Sporothrix mexicana	Scaffold	no	no	Chongqing Traditional Chinese Medicine Hospital	52.5	50766613
+WNYD01	GCA_021396205.1	Sporothrix brunneoviolacea	Scaffold	no	no	Chongqing Traditional Chinese Medicine Hospital	56	39338725
+WOFN01	GCA_011316055.1	Beauveria bassiana	Scaffold	no	no	Junagadh Agriculture University	49	34936873
+WOFP01	GCA_012275225.1	Aspergillus welwitschiae	Scaffold	no	no	Belgian Coordinated Collection of Microorganisms, BCCM	49.5	38127725
+WOFQ01	GCA_012184525.1	Xenoacremonium recifei	Scaffold	no	no	Belgian Coordinated Collection of Microorganisms, BCCM	52	41618332
+WOUI01	GCA_012184565.1	Aspergillus floridensis	Scaffold	no	no	Belgian Coordinated Collection of Microorganisms, BCCM	50	35394120
+WOYA01	GCA_016880755.1	Aspergillus sp. 2663	Scaffold	no	no	Seqomics Ltd.	50.5	34304860
+WTXI01	GCA_022376515.1	Lactifluus volemus	Contig	yes	no	DOE Joint Genome Institute	50.5	62975844
+WUTQ01	GCA_009828905.1	Aspergillus sydowii	Contig	no	no	National Institute of Ocean Technology	52	38795664
+WVTA01	GCA_033220655.1	Pseudopithomyces chartarum	Contig	yes	no	AgResearch	50	39134556
+WWFU01	GCA_012365075.1	Aspergillus welwitschiae	Contig	no	no	US Department of Agriculture, Agriculture Research Service	49.5	37388807
+WXUH01	GCA_014324465.1	Fusarium oxysporum	Scaffold	no	no	Boosting Plant-Endophyte Stability, Compatibility and Performance across scales (BestPass)	47.5	53588382
+WXYE02	GCA_011319275.2	Echinosphaeria canescens	Scaffold	no	no	Iridian Genomes	57	235315025

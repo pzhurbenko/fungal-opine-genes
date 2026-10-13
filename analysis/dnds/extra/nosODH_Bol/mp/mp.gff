@@ -1,0 +1,25 @@
+##gff-version 3
+##PAF	BOL_Butyriboletus_roseoflavus_003315995.1_QFEE01000845.1	274	0	274	+	ODH_QFEE01000845.1	4190	1380	2202	822	822	0	AS:i:1431	ms:i:1431	np:i:274	fs:i:0	st:i:0	da:i:0	do:i:0	cg:Z:274M	cs:Z::274
+ODH_QFEE01000845.1	miniprot	mRNA	1381	2205	1431	+	.	ID=nos000001;Rank=1;Identity=1.0000;Positive=1.0000;Target=BOL_Butyriboletus_roseoflavus_003315995.1_QFEE01000845.1 1 274
+ODH_QFEE01000845.1	miniprot	CDS	1381	2205	1431	+	0	Parent=nos000001;Rank=1;Identity=1.0000;Target=BOL_Butyriboletus_roseoflavus_003315995.1_QFEE01000845.1 1 274
+ODH_QFEE01000845.1	miniprot	stop_codon	2203	2205	0	+	0	Parent=nos000001;Rank=1
+##PAF	BOL_Boletus_speciosus_003316055.1_QFEG01003584.1	274	0	274	-	ODH_QFEG01003584.1	3198	1988	2810	822	822	0	AS:i:1423	ms:i:1423	np:i:274	fs:i:0	st:i:0	da:i:0	do:i:0	cg:Z:274M	cs:Z::274
+ODH_QFEG01003584.1	miniprot	mRNA	1986	2810	1423	-	.	ID=nos000002;Rank=1;Identity=1.0000;Positive=1.0000;Target=BOL_Boletus_speciosus_003316055.1_QFEG01003584.1 1 274
+ODH_QFEG01003584.1	miniprot	CDS	1986	2810	1423	-	0	Parent=nos000002;Rank=1;Identity=1.0000;Target=BOL_Boletus_speciosus_003316055.1_QFEG01003584.1 1 274
+ODH_QFEG01003584.1	miniprot	stop_codon	1986	1988	0	-	0	Parent=nos000002;Rank=1
+##PAF	BOL_Boletus_sp_NGJ_019096195.1_JAGTXK010000179.1	274	0	274	+	ODH_JAGTXK010000179.1	5125	2315	3137	822	822	0	AS:i:1444	ms:i:1444	np:i:274	fs:i:0	st:i:0	da:i:0	do:i:0	cg:Z:274M	cs:Z::274
+ODH_JAGTXK010000179.1	miniprot	mRNA	2316	3140	1444	+	.	ID=nos000003;Rank=1;Identity=1.0000;Positive=1.0000;Target=BOL_Boletus_sp_NGJ_019096195.1_JAGTXK010000179.1 1 274
+ODH_JAGTXK010000179.1	miniprot	CDS	2316	3140	1444	+	0	Parent=nos000003;Rank=1;Identity=1.0000;Target=BOL_Boletus_sp_NGJ_019096195.1_JAGTXK010000179.1 1 274
+ODH_JAGTXK010000179.1	miniprot	stop_codon	3138	3140	0	+	0	Parent=nos000003;Rank=1
+##PAF	BOL_Butyriboletus_roseoflavus_019364595.1_JAHRGV010000067.1	274	0	274	+	ODH_JAHRGV010000067.1	5125	2315	3137	822	822	0	AS:i:1424	ms:i:1424	np:i:274	fs:i:0	st:i:0	da:i:0	do:i:0	cg:Z:274M	cs:Z::274
+ODH_JAHRGV010000067.1	miniprot	mRNA	2316	3140	1424	+	.	ID=nos000004;Rank=1;Identity=1.0000;Positive=1.0000;Target=BOL_Butyriboletus_roseoflavus_019364595.1_JAHRGV010000067.1 1 274
+ODH_JAHRGV010000067.1	miniprot	CDS	2316	3140	1424	+	0	Parent=nos000004;Rank=1;Identity=1.0000;Target=BOL_Butyriboletus_roseoflavus_019364595.1_JAHRGV010000067.1 1 274
+ODH_JAHRGV010000067.1	miniprot	stop_codon	3138	3140	0	+	0	Parent=nos000004;Rank=1
+##PAF	BOL_Boletus_austroedulis_038089435.1_JBBPKX010000014.1	274	0	274	+	ODH_JAGTXK010000179.1	5125	2315	3137	621	822	0	AS:i:1015	ms:i:1015	np:i:236	fs:i:0	st:i:0	da:i:0	do:i:0	cg:Z:274M	cs:Z:*atgV:2*agcR:8*gaaK*tgcR:1*aagR:5*gagK:3*ttcS:1*gcaG:4*gatN:5*gatN:3*atgI:14*ggaR:3*ccgL:11*catS:3*agcI:18*acaM:8*gaaK:1*accP*gtcI*aacD*tccF:2*tccP:1*actA*cgcC:3*tctA:2*cag*:5*gatN*ccgL:5*agcG:1*ggcD:3*cctS:3*gccV:4*ggtD:1*gaaD:6*atgV:3*cag*:1*attV:3*acaS:5*catY:2*agcT:1*gccI:2*tgcH:2*agcN:3*aagE:4*caa*:2*acaV:6*tgcR:2*gcaV:4*ctgP:1*gttI:1*atcM:3*gccT:3*agtN:2*tcgV:1*gtcL:5*cacY:11*acgA*tttT*aacD:3*gacG*agtN:1*caaE:2*cgcC*gagK:5*ggtS*gccT:2*cctS:1
+ODH_JAGTXK010000179.1	miniprot	mRNA	2316	3140	1015	+	.	ID=nos000005;Rank=1;Identity=0.7555;Positive=0.8613;Target=BOL_Boletus_austroedulis_038089435.1_JBBPKX010000014.1 1 274
+ODH_JAGTXK010000179.1	miniprot	CDS	2316	3140	1015	+	0	Parent=nos000005;Rank=1;Identity=0.7555;Target=BOL_Boletus_austroedulis_038089435.1_JBBPKX010000014.1 1 274
+ODH_JAGTXK010000179.1	miniprot	stop_codon	3138	3140	0	+	0	Parent=nos000005;Rank=1
+##PAF	BOL_Boletus_austroedulis_038089435.1_JBBPKX010000046.1	274	0	274	+	ODH_QFEE01000845.1	4190	1380	2202	636	822	0	AS:i:1040	ms:i:1040	np:i:234	fs:i:0	st:i:0	da:i:0	do:i:0	cg:Z:274M	cs:Z:*atgV:2*ggcR:8*gaaK*tgcR:1*aagR:2*tgcH:6*tccF:1*gcaG:5*agcG:4*gatN:13*tcaP:8*ccgL:8*cagW:2*catP*gccT:2*agcI:13*gtcI:5*gtgA:4*gggE*cgcC:3*accP*gtcI:4*tccP:1*actA:4*tctA:4*cgcC:2*gcaV:1*ccaL:5*agcG*aagE:15*gaaD*tgcH:5*gtgA:5*gttI:3*acaL:5*catY*ggcS:1*agcT:1*gccI:2*cgcH*aaaE:6*cccL:6*gtgT*cccL:5*tgcR:9*gttI:1*atcM:7*agtN:2*tcgV:1*gtcL:2*ggcR:2*cacY:2*cag*:3*cgaQ:4*gtgA*tctT:1*caa*:3*agtN:1*caaE:7*cacR:1*ggcS:3*cctS:1
+ODH_QFEE01000845.1	miniprot	mRNA	1381	2205	1040	+	.	ID=nos000006;Rank=1;Identity=0.7737;Positive=0.8540;Target=BOL_Boletus_austroedulis_038089435.1_JBBPKX010000046.1 1 274
+ODH_QFEE01000845.1	miniprot	CDS	1381	2205	1040	+	0	Parent=nos000006;Rank=1;Identity=0.7737;Target=BOL_Boletus_austroedulis_038089435.1_JBBPKX010000046.1 1 274
+ODH_QFEE01000845.1	miniprot	stop_codon	2203	2205	0	+	0	Parent=nos000006;Rank=1

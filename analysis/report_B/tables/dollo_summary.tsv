@@ -1,0 +1,5 @@
+lineage	carrier_species	MRCA_subtree_species	losses_dollo	gains_assumed	MRCA_examples
+ACS acc-locus (gdpd_meso) clade	29	103	30	1	Austroboletus;Boletaceae;Boletellus;Boletus;Butyriboletus;Caloboletus;Chiua;Exsudoporus
+ACS kerr14/acc-like ("six") lineage	8	103	33	1	Austroboletus;Boletaceae;Boletellus;Boletus;Butyriboletus;Caloboletus;Chiua;Exsudoporus
+CUS cus clade	15	103	29	1	Austroboletus;Boletaceae;Boletellus;Boletus;Butyriboletus;Caloboletus;Chiua;Exsudoporus
+SUS T-DNA clade	31	140	32	1	Austroboletus;Boletaceae;Boletellus;Boletus;Butyriboletus;Caloboletus;Chalciporus;Chiua

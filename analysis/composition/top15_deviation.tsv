@@ -1,0 +1,16 @@
+locus_id	lineage	organism	order	background	n_bg	gc3	delta_gc3	gc3_z	gc3_pctile	codon_dist_pctile
+CUS_VWSC01000016_L1	cus	Kazachstania servazzii	Saccharomycetales	own_genome	91	0.677	0.383	6.394	100.000	100.000
+CUS_JAKTTD010000547_L1	cus	Kazachstania servazzii	Saccharomycetales	own_genome	62	0.691	0.398	5.907	100.000	100.000
+CUS_JAKOOT010000021_L1	cus	Kazachstania servazzii	Saccharomycetales	own_genome	89	0.679	0.382	5.905	100.000	100.000
+CUS_CAVMBW010000015_L1	cus	Kazachstania servazzii	Saccharomycetales	own_genome	62	0.691	0.400	5.843	100.000	100.000
+CUS_PTQT01000015_L1	cus	Kazachstania servazzii	Saccharomycetales	own_genome	86	0.679	0.379	5.778	100.000	100.000
+CUS_NJIJ01000084_L1	cus	Kazachstania servazzii	Saccharomycetales	own_genome	98	0.679	0.379	5.732	100.000	100.000
+CUS_VWSB01000009_L1	cus	Kazachstania servazzii	Saccharomycetales	own_genome	60	0.679	0.394	5.643	100.000	100.000
+CUS_OZ188520_A1	cus	Monosporozyma servazzii	Saccharomycetales	own_genome	5208	0.691	0.396	5.000	99.693	99.857
+CUS_JBBPMB010002223_L1	cus	Pulveroboletus ravenelii	Boletales	boletales_pool	1001	0.735	0.175	2.575	99.001	3.226
+CUS_JBBPJK010006205_L1	cus	Boletus variipes	Boletales	boletales_pool	1001	0.735	0.175	2.575	99.001	2.823
+CUS_JBBPJK010006192_L1	cus	Boletus variipes	Boletales	boletales_pool	1001	0.732	0.171	2.523	98.901	4.032
+CUS_JBBPRQ010000133_L1	cus	Boletus insuetus	Boletales	boletales_pool	1001	0.725	0.164	2.419	98.601	1.210
+CUS_JBBPKL010026335_L1	cus	Boletellus ananas	Boletales	boletales_pool	1001	0.723	0.162	2.388	98.402	5.687
+CUS_JBBPWL010005527_L1	cus	Boletaceae sp.	Boletales	boletales_pool	1001	0.705	0.144	2.116	97.502	6.103
+CUS_JBZWEJ010000015_A1	cus	Hebeloma velutipes	Agaricales	own_genome	19291	0.633	0.114	1.830	95.967	42.551

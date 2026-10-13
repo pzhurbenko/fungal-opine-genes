@@ -1,0 +1,74 @@
+family	tree_number	tested_topology_constraint	logL	deltaL	p_AU	verdict
+OCD fold (Sus)	0	unconstrained maximum-likelihood tree (reference)	-42857.21644	0	1	reference
+OCD fold (Sus)	1	fungal sus-like + T-DNA sus forced monophyletic	-42872.04517	14.829	0.264	not rejected
+OCD fold (Sus)	2	fungal sus-like + alternative bacterial OCD-fold proteins forced monophyletic	-43033.33492	176.12	6.99e-50	rejected
+OCD fold (Sus)	0	unconstrained maximum-likelihood tree (reference; separate test set with the native fungal OCD-fold constraints for the sus-like genes; constraints 1-2 above re-tested here gave p = 0.26 and 5.9e-06)	-42857.01329	0	1	reference
+OCD fold (Sus)	3	fungal sus-like (52) + the native fungal OCD-fold homologs of the tree (2 native Sordariomycetes proteins and 4 fungal OCD-fold genes outside the sus-like clade) forced monophyletic	-43609.87948	752.87	9.52e-08	rejected
+OCD fold (Sus)	4	fungal sus-like + the native fungal OCD-fold homologs + the 5 fungal OCD-fold proteins of the outgroup (11 fungal sequences) forced monophyletic	-43566.85581	709.84	9.85e-67	rejected
+cucumopine synthase (Cus)	0	unconstrained maximum-likelihood tree (reference)	-79267.87404	2.5899	0.528	reference
+cucumopine synthase (Cus)	1	fungal cus-like + T-DNA cus forced monophyletic	-79281.48323	16.199	0.315	not rejected
+cucumopine synthase (Cus)	2	fungal cus-like + T-DNA cus + 4 bacterial references from the clade forced monophyletic	-79265.28416	0	1	not rejected
+cucumopine synthase (Cus)	3	fungal cus-like + actinobacterial-type forced monophyletic	-79671.09817	405.81	1.85e-13	rejected
+cucumopine synthase (Cus)	4	fungal cus-like + mis group forced monophyletic	-80185.96693	920.68	3.44e-47	rejected
+cucumopine synthase (Cus)	5	fungal cus-like + other bacterial homologs forced monophyletic	-80372.49542	1107.2	0.000492	rejected
+cucumopine synthase (Cus)	6	all fungal cus-like in one clade (single acquisition)	-79394.71099	129.43	6.43e-05	rejected
+cucumopine synthase (Cus)	7	Boletales cus-like + T-DNA cus forced monophyletic, separate from other fungi	-79784.58099	519.3	0.00132	rejected
+cucumopine synthase (Cus)	8	Boletales cus-like + actinobacterial-type forced monophyletic	-79908.93916	643.65	5e-59	rejected
+cucumopine synthase (Cus)	9	Boletales cus-like + mis group forced monophyletic	-80427.72749	1162.4	3.28e-77	rejected
+cucumopine synthase (Cus)	10	Boletales cus-like + remaining fungal cus-like (references excluded) forced monophyletic	-79400.05219	134.77	1.63e-05	rejected
+cucumopine synthase (Cus)	0	unconstrained maximum-likelihood tree (reference; separate test set for cus-like outside Boletales)	-79267.52068	0	1	reference
+cucumopine synthase (Cus)	1	cus-like outside Boletales + T-DNA cus forced monophyletic, separate from Boletales cus-like	-79725.18343	457.66	1.15e-06	rejected
+cucumopine synthase (Cus)	2	cus-like outside Boletales + T-DNA cus + 4 bacterial references from the clade forced monophyletic, separate from Boletales cus-like	-79640.03805	372.52	2.29e-76	rejected
+cucumopine synthase (Cus)	3	cus-like outside Boletales + actinobacterial-type forced monophyletic	-79976.95131	709.43	3.67e-53	rejected
+cucumopine synthase (Cus)	4	cus-like outside Boletales + mis group forced monophyletic	-80532.48317	1265	3.4e-59	rejected
+cucumopine synthase (Cus)	5	cus-like outside Boletales + other bacterial homologs forced monophyletic	-80681.56928	1414	1.08e-41	rejected
+cucumopine synthase (Cus)	6	all cus-like outside Boletales in one clade (single acquisition)	-79722.40747	454.89	8.99e-67	rejected
+cucumopine synthase (Cus)	0	unconstrained maximum-likelihood tree (reference; separate test set for the monophyly of the Boletales cus-like genes; the four Boletales constraints above re-tested here gave p = 5.1e-07, 1.3e-56, 1.3e-46 and 3.2e-05)	-79268.36346	0	1	reference
+cucumopine synthase (Cus)	5	all 26 Boletales cus-like sequences in one clade (single acquisition by Boletales)	-79609.51194	341.15	4.85e-06	rejected
+GDPD	0	unconstrained maximum-likelihood tree (reference)	-77049.80803	0.34854	0.579	reference
+GDPD	1	pKerr14a-type acs-like + T-DNA acs forced monophyletic	-78773.17936	1723.7	1.41e-60	rejected
+GDPD	2	pKerr14a-type acs-like + pKerr14a acs references + Parasponia PON40589 forced monophyletic	-77066.98784	17.528	0.415	not rejected
+GDPD	3	pKerr14a-type acs-like + acc-type GDPD forced monophyletic	-77112.12736	62.668	0.132	not rejected
+GDPD	4	pKerr14a-type acs-like + native fungal GDPD forced monophyletic	-80316.45631	3267	2.37e-06	rejected
+GDPD	5	acc-type GDPD + acc-locus references forced monophyletic	-77049.45949	0	1	not rejected
+GDPD	6	acc-type GDPD + T-DNA acs forced monophyletic	-79170.50225	2121	5.92e-47	rejected
+GDPD	0	unconstrained maximum-likelihood tree (reference; separate test set with the native fungal GDPD constraint for the acc-type genes; constraints 1-6 above re-tested here gave p = 1.4e-31, 0.44, 0.16, 4.7e-61, 0.56 and 7.4e-11)	-77045.09295	0	1	reference
+GDPD	7	acc-type GDPD + native fungal GDPD forced monophyletic (native origin of the acc-type genes)	-80542.6837	3497.6	1.06e-95	rejected
+chrysopine synthase (Chs; M24 aminopeptidase family)	0	unconstrained maximum-likelihood tree (reference)	-24638.05161	0	1	reference
+chrysopine synthase (Chs; M24 aminopeptidase family)	1	fungal chs-like + T-DNA chs seed forced monophyletic, without the other Ti-plasmid chs genes	-24771.30785	133.26	2.04e-48	rejected
+chrysopine synthase (Chs; M24 aminopeptidase family)	2	fungal chs-like + the four other Ti-plasmid chs genes forced monophyletic, without the seed	-24750.72462	112.67	1.5e-72	rejected
+chrysopine synthase (Chs; M24 aminopeptidase family)	3	fungal chs-like + ags seed forced monophyletic	-24952.47778	314.43	0.000882	rejected
+chrysopine synthase (Chs; M24 aminopeptidase family)	4	fungal chs-like + native fungal ags homologs forced monophyletic	-24687.62207	49.57	0.00173	rejected
+chrysopine synthase (Chs; M24 aminopeptidase family)	5	fungal chs-like + other bacterial M24 aminopeptidases forced monophyletic	-24958.32384	320.27	4.1e-15	rejected
+chrysopine synthase (Chs; M24 aminopeptidase family)	6	all fungal chs-like (Fusarium + Dactylonectria) in one clade (single acquisition)	-24642.60512	4.5535	0.167	not rejected
+chrysopine synthase (Chs; M24 aminopeptidase family)	0	unconstrained maximum-likelihood tree (reference; separate test set: are the fungal chs-like genes nested within the Ti-plasmid chs clade?)	-24638.05161	0	1	reference
+chrysopine synthase (Chs; M24 aminopeptidase family)	1	all 11 fungal chs-like (Fusarium + Dactylonectria) + the chs seed (pTi chrysopine synthase A0A2Z2PGA9) forced monophyletic (fungal genes nested within the Ti-plasmid chs clade next to seed)	-24771.30785	133.26	0.000192	rejected
+chrysopine synthase (Chs; M24 aminopeptidase family)	2	the 10 Fusarium chs-like + the chs seed (pTi chrysopine synthase A0A2Z2PGA9) forced monophyletic (Dactylonectria unconstrained)	-24785.33147	147.28	8.44e-62	rejected
+chrysopine synthase (Chs; M24 aminopeptidase family)	3	all 11 fungal chs-like (Fusarium + Dactylonectria) + Ti-plasmid chs WP_139103025.1 forced monophyletic (fungal genes nested within the Ti-plasmid chs clade next to b139)	-24771.30682	133.26	0.000191	rejected
+chrysopine synthase (Chs; M24 aminopeptidase family)	4	the 10 Fusarium chs-like + Ti-plasmid chs WP_139103025.1 forced monophyletic (Dactylonectria unconstrained)	-24785.33144	147.28	4.28e-60	rejected
+chrysopine synthase (Chs; M24 aminopeptidase family)	5	all 11 fungal chs-like (Fusarium + Dactylonectria) + Ti-plasmid chs WP_272871282.1 (A. tumefaciens) forced monophyletic (fungal genes nested within the Ti-plasmid chs clade next to b272871)	-24742.25342	104.2	0.000119	rejected
+chrysopine synthase (Chs; M24 aminopeptidase family)	6	the 10 Fusarium chs-like + Ti-plasmid chs WP_272871282.1 (A. tumefaciens) forced monophyletic (Dactylonectria unconstrained)	-24758.09291	120.04	5.2e-58	rejected
+chrysopine synthase (Chs; M24 aminopeptidase family)	7	all 11 fungal chs-like (Fusarium + Dactylonectria) + Ti-plasmid chs WP_272951408.1 (A. vitis) forced monophyletic (fungal genes nested within the Ti-plasmid chs clade next to b272951)	-24753.75808	115.71	2.3e-05	rejected
+chrysopine synthase (Chs; M24 aminopeptidase family)	8	the 10 Fusarium chs-like + Ti-plasmid chs WP_272951408.1 (A. vitis) forced monophyletic (Dactylonectria unconstrained)	-24771.83753	133.79	2.62e-40	rejected
+chrysopine synthase (Chs; M24 aminopeptidase family)	9	all 11 fungal chs-like (Fusarium + Dactylonectria) + Ti-plasmid chs WP_084631803.1 (A. larrymoorei) forced monophyletic (fungal genes nested within the Ti-plasmid chs clade next to b084)	-24713.8431	75.791	3.76e-06	rejected
+chrysopine synthase (Chs; M24 aminopeptidase family)	10	the 10 Fusarium chs-like + Ti-plasmid chs WP_084631803.1 (A. larrymoorei) forced monophyletic (Dactylonectria unconstrained)	-24732.97185	94.92	3.66e-05	rejected
+opine dehydrogenase, nos subfamily (Boletales genes; Rhypophila homolog, not assigned to any lineage)	0	unconstrained maximum-likelihood tree (reference)	-21721.11199	0	1	reference
+opine dehydrogenase, nos subfamily (Boletales genes; Rhypophila homolog, not assigned to any lineage)	1	Boletales nos-subfamily genes + T-DNA nos forced monophyletic (excluding non-T-DNA rhizobial paralogs)	-21756.73666	35.625	0.00303	rejected
+opine dehydrogenase, nos subfamily (Boletales genes; Rhypophila homolog, not assigned to any lineage)	2	Rhypophila nos-subfamily genes + T-DNA nos forced monophyletic (excluding non-T-DNA rhizobial paralogs)	-21762.95497	41.843	0.0089	rejected
+opine dehydrogenase, nos subfamily (Boletales genes; Rhypophila homolog, not assigned to any lineage)	3	all fungal nos-subfamily genes (Boletales + Rhypophila) in one clade (single acquisition)	-21726.1069	4.9949	0.345	not rejected
+opine dehydrogenase, nos subfamily (Boletales genes; Rhypophila homolog, not assigned to any lineage)	0	unconstrained maximum-likelihood tree (reference; separate test set with the native fungal opine dehydrogenase constraints; constraints 1-3 of the first set re-tested here gave p = 0.0034, 0.0091 and 0.32)	-21721.11199	0	1	reference
+opine dehydrogenase, nos subfamily (Boletales genes; Rhypophila homolog, not assigned to any lineage)	4	Boletales nos-subfamily genes + native fungal opine dehydrogenases (19 sequences) forced monophyletic (native origin of the Boletales genes)	-21911.33497	190.22	3.36e-05	rejected
+opine dehydrogenase, nos subfamily (Boletales genes; Rhypophila homolog, not assigned to any lineage)	5	Boletales + Rhypophila nos-subfamily genes + native fungal opine dehydrogenases forced monophyletic (single native origin of all fungal genes of the subfamily)	-21939.24	218.13	1e-26	rejected
+opine dehydrogenase, nos subfamily (Boletales genes; Rhypophila homolog, not assigned to any lineage)	0	unconstrained maximum-likelihood tree (reference; separate test set for the Rhypophila genes and the native fungal opine dehydrogenases; constraints 1-5 of the first two sets re-tested here gave p = 0.0030, 0.0123, 0.34, 3.8e-44 and 1.2e-07)	-21721.11199	0	1	reference
+opine dehydrogenase, nos subfamily (Boletales genes; Rhypophila homolog, not assigned to any lineage)	6	Rhypophila genes + the two native opine dehydrogenases of Sordariomycetes adjacent to the subfamily (Cryphonectria parasitica, Gnomoniopsis smithogilvyi) forced monophyletic	-21772.44207	51.33	0.00201	rejected
+opine dehydrogenase, nos subfamily (Boletales genes; Rhypophila homolog, not assigned to any lineage)	7	Rhypophila genes + all native opine dehydrogenases of Sordariomycetes (12 sequences) forced monophyletic	-22102.27472	381.16	1.05e-37	rejected
+opine dehydrogenase, nos subfamily (Boletales genes; Rhypophila homolog, not assigned to any lineage)	8	Rhypophila genes + all native fungal opine dehydrogenases (19 sequences) forced monophyletic	-21875.36477	154.25	2.06e-46	rejected
+opine dehydrogenase, odh island (Fusarium)	0	unconstrained maximum-likelihood tree (reference)	-18472.59297	0.00035445	1	reference
+opine dehydrogenase, odh island (Fusarium)	1	odh-island ODH + all native fungal ODH forced monophyletic	-18777.60561	305.01	3.52e-06	rejected
+opine dehydrogenase, odh island (Fusarium)	2	odh-island ODH + native Sordariomycetes ODH (Apiospora, Astrocystis) forced monophyletic (vertical-inheritance expectation)	-18939.36393	466.77	0.000401	rejected
+opine dehydrogenase, odh island (Fusarium)	3	control: native fungal ODH forced monophyletic (odh-island ODH unconstrained)	-18509.12877	36.536	0.00644	rejected
+opine dehydrogenase, odh island (Fusarium)	4	odh-island ODH inside the ML T-DNA clade (ocs/nos/vis seeds + Rhypophila/Butyriboletus + A. larrymoorei WP_309770762) forced monophyletic	-18597.59921	125.01	2.48e-58	rejected
+opine dehydrogenase, odh island (Fusarium)	5	odh-island ODH + T-DNA ocs/nos/vis seeds only forced monophyletic	-18739.58608	266.99	3.47e-57	rejected
+opine dehydrogenase, odh island (Fusarium)	6	control: odh-island ODH + A. larrymoorei WP_309770759 forced monophyletic (clade of the ML tree)	-18472.59261	0	1	not rejected
+opine dehydrogenase, odh island (Fusarium)	7	odh-island ODH + all other bacterial ODH (both A. larrymoorei ODH excluded) forced monophyletic	-18755.94924	283.36	2.11e-07	rejected
+opine dehydrogenase, odh island (Fusarium)	8	odh-island ODH inside the nos subfamily (nos seed P00386 + Gillisella) forced monophyletic	-18666.64698	194.05	1.41e-51	rejected

@@ -1,0 +1,10 @@
+H2s_isl_seeds 41s
+H1c_native_only 48s
+H2_isl_tdna 45s
+H4_isl_bact 42s
+H3_isl_larry 50s
+H5_isl_nos 46s
+H1_isl_native 44s
+au 1s; AU_DONE Mon Oct 12 00:48:19 IDT 2026
+H1b_isl_sordario 41s
+au 1s; AU_DONE Mon Oct 12 00:50:31 IDT 2026

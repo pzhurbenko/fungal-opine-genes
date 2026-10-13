@@ -1,0 +1,6 @@
+name: mashtree_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - mashtree

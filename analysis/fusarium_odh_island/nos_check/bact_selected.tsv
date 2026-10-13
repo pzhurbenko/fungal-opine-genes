@@ -1,0 +1,37 @@
+q	s	pid	len	qlen	slen	ev	bits	title	org	genus
+KAM7187585.1	NSY46744.1	36.4	393	423	413	2.83e-66	228.0	NSY46744.1 D-nopaline dehydrogenase [Agrobacterium tumefaciens]	Agrobacterium tumefaciens	Agrobacterium
+KAM7187585.1	QTG17106.1	39.5	370	423	394	1.2e-66	228.0	QTG17106.1 NAD(P)-binding domain-containing protein [Agrobacterium tumefaciens]	Agrobacterium tumefaciens	Agrobacterium
+KAM7187585.1	P00386.1	36.0	394	423	413	3.9800000000000003e-66	228.0	P00386.1 RecName: Full=D-nopaline dehydrogenase; AltName: Full=Nopaline synthase [Agrobacterium tumefaciens (strain T37)]	Agrobacterium tumefaciens (strain T37)	Agrobacterium
+KAM7187585.1	WP_111221720.1	34.8	394	423	412	9.100000000000001e-64	221.0	WP_111221720.1 NAD/NADP-dependent octopine/nopaline dehydrogenase family protein [Rhizobium tumorigenes]	Rhizobium tumorigenes	Rhizobium
+KAM7187585.1	WP_111217018.1	40.6	340	423	382	1.46e-60	212.0	WP_111217018.1 MULTISPECIES: NAD/NADP-dependent octopine/nopaline dehydrogenase family protein [Rhizobium]	Rhizobium	Rhizobium
+KAM7187585.1	WP_209207798.1	40.6	340	423	382	1.46e-60	212.0	WP_209207798.1 MULTISPECIES: NAD/NADP-dependent octopine/nopaline dehydrogenase family protein [unclassified Rhizobium]	unclassified Rhizobium	unclassified
+KAM7187585.1	WP_219259410.1	40.3	340	423	382	5.7e-60	211.0	WP_219259410.1 NAD/NADP-dependent octopine/nopaline dehydrogenase family protein [Rhizobium sp. B21/90]	Rhizobium sp. B21/90	Rhizobium
+KAM7187585.1	WP_167693616.1	34.0	385	423	391	1.1e-58	207.0	WP_167693616.1 NAD/NADP-dependent octopine/nopaline dehydrogenase family protein [Sinorhizobium meliloti]	Sinorhizobium meliloti	Sinorhizobium
+KAM7187585.1	ASP89603.1	34.0	385	423	465	6.89e-58	207.0	ASP89603.1 hypothetical protein CDO26_36235 [Sinorhizobium meliloti]	Sinorhizobium meliloti	Sinorhizobium
+KAM7187585.1	WP_272951507.1	34.0	385	423	408	1.71e-58	207.0	WP_272951507.1 NAD/NADP-dependent octopine/nopaline dehydrogenase family protein [Sinorhizobium meliloti]	Sinorhizobium meliloti	Sinorhizobium
+KAG8213183.1	AYD04919.1	39.6	278	274	339	2.1e-51	182.0	AYD04919.1 D-nopaline dehydrogenase [Neorhizobium sp. NCHU2750]	Neorhizobium sp. NCHU2750	Neorhizobium
+KAM7187585.1	WP_065782448.1	33.6	345	423	379	5.9199999999999995e-40	158.0	WP_065782448.1 MULTISPECIES: NAD/NADP-dependent octopine/nopaline dehydrogenase family protein [unclassified Ensifer]	unclassified Ensifer	unclassified
+KAM7187585.1	XP_040775628.1	26.7	390	423	409	1.23e-24	117.0	XP_040775628.1 6-phosphogluconate dehydrogenase C-terminal domain-like protein [Cryphonectria parasitica EP155]	Cryphonectria parasitica EP155	Cryphonectria
+KAM7187585.1	WP_175651312.1	24.7	392	423	358	4.9199999999999993e-23	111.0	WP_175651312.1 NAD/NADP-dependent octopine/nopaline dehydrogenase family protein [Pseudomonas sp. Marseille-P9899]	Pseudomonas sp. Marseille-P9899	Pseudomonas
+KAM7187585.1	XP_044720460.1	27.7	382	423	381	1.16e-21	108.0	XP_044720460.1 NAD/NADP octopine/nopaline dehydrogenase, alpha-helical domain-containing protein [Hirsutella rhossiliensis]	Hirsutella rhossiliensis	Hirsutella
+KAM7187585.1	WP_316172236.1	26.6	320	423	367	9.55e-22	108.0	WP_316172236.1 MULTISPECIES: NAD/NADP octopine/nopaline dehydrogenase family protein [unclassified Bradyrhizobium]	unclassified Bradyrhizobium	unclassified
+KAM7187585.1	WP_315828480.1	26.6	320	423	367	5.1e-22	108.0	WP_315828480.1 NAD/NADP octopine/nopaline dehydrogenase family protein [Bradyrhizobium sp. SZCCHNG3015]	Bradyrhizobium sp. SZCCHNG3015	Bradyrhizobium
+KAM7187585.1	WP_257165938.1	25.9	320	423	368	5.17e-22	108.0	WP_257165938.1 NAD/NADP-dependent octopine/nopaline dehydrogenase family protein [Bradyrhizobium sp. SRS-191]	Bradyrhizobium sp. SRS-191	Bradyrhizobium
+KAM7187585.1	WP_316193967.1	26.6	320	423	367	9.55e-22	108.0	WP_316193967.1 NAD/NADP octopine/nopaline dehydrogenase family protein [Bradyrhizobium sp. SZCCHNRI1029]	Bradyrhizobium sp. SZCCHNRI1029	Bradyrhizobium
+KAM7187585.1	KAK4073360.1	28.8	320	423	384	1.2000000000000002e-21	108.0	KAK4073360.1 hypothetical protein Purlil1_13030 [Purpureocillium lilacinum]	Purpureocillium lilacinum	Purpureocillium
+KAM7187585.1	WP_148827830.1	26.2	325	423	360	1.18e-21	107.0	WP_148827830.1 NAD/NADP-dependent octopine/nopaline dehydrogenase family protein [Xanthomonas sontii]	Xanthomonas sontii	Xanthomonas
+KAM7187585.1	WP_152245646.1	26.2	325	423	360	2.2100000000000003e-21	107.0	WP_152245646.1 NAD/NADP-dependent octopine/nopaline dehydrogenase family protein [Xanthomonas sp. LMG 12462]	Xanthomonas sp. LMG 12462	Xanthomonas
+KAM7187585.1	KAG5946187.1	26.8	370	423	384	3.0600000000000003e-21	107.0	KAG5946187.1 hypothetical protein E4U60_004468 [Claviceps pazoutovae]	Claviceps pazoutovae	Claviceps
+KAM7187585.1	KAG5938241.1	26.5	370	423	384	3.0600000000000003e-21	107.0	KAG5938241.1 hypothetical protein E4U59_003898 [Claviceps monticola]	Claviceps monticola	Claviceps
+KAM7187585.1	WP_309252724.1	26.2	325	423	357	1.13e-21	107.0	WP_309252724.1 NAD/NADP-dependent octopine/nopaline dehydrogenase family protein [Xanthomonas sontii]	Xanthomonas sontii	Xanthomonas
+KAM7187585.1	KAG6111757.1	26.4	368	423	389	4.45e-21	106.0	KAG6111757.1 hypothetical protein E4U13_004640 [Claviceps humidiphila]	Claviceps humidiphila	Claviceps
+KAM7187585.1	KAK4066071.1	28.3	318	423	384	1.45e-20	105.0	KAK4066071.1 hypothetical protein Purlil1_13981 [Purpureocillium lilacinum]	Purpureocillium lilacinum	Purpureocillium
+KAM7187585.1	KAH8767495.1	24.9	382	423	365	2.11e-20	104.0	KAH8767495.1 NAD/NADP octopine/nopaline dehydrogenase [Diaporthaceae sp. PMI_573]	Diaporthaceae sp. PMI_573	Diaporthaceae
+KAM7187585.1	WP_262129160.1	24.1	394	423	358	1.41e-20	104.0	WP_262129160.1 NAD/NADP-dependent octopine/nopaline dehydrogenase family protein [Pseudomonas sp. 5P_5.1_Bac1]	Pseudomonas sp. 5P_5.1_Bac1	Pseudomonas
+KAM7187585.1	ABM31174.1	25.2	325	423	360	5.03e-20	103.0	ABM31174.1 NAD/NADP octopine/nopaline dehydrogenase [Paracidovorax citrulli AAC00-1]	Paracidovorax citrulli AAC00-1	Paracidovorax
+KAM7187585.1	WP_165842994.1	25.2	325	423	357	4.83e-20	103.0	WP_165842994.1 NAD/NADP-dependent octopine/nopaline dehydrogenase family protein [Paracidovorax citrulli]	Paracidovorax citrulli	Paracidovorax
+KAM7187585.1	KAJ4397655.1	23.4	385	423	411	1.69e-19	102.0	KAJ4397655.1 hypothetical protein N0V93_001888 [Gnomoniopsis smithogilvyi]	Gnomoniopsis smithogilvyi	Gnomoniopsis
+KAM7187585.1	AVS92425.1	25.2	325	423	360	9.37e-20	102.0	AVS92425.1 NAD/NADP octopine/nopaline dehydrogenase [Paracidovorax avenae]	Paracidovorax avenae	Paracidovorax
+KAK4208163.1	WP_199378978.1	25.2	325	369	371	6.48e-19	99.4	WP_199378978.1 NAD/NADP-dependent octopine/nopaline dehydrogenase family protein [Brenneria sp. L3-3C-1]	Brenneria sp. L3-3C-1	Brenneria
+KAM7187585.1	WP_095796047.1	25.1	327	423	373	1.78e-18	99.0	WP_095796047.1 MULTISPECIES: NAD/NADP-dependent octopine/nopaline dehydrogenase family protein [Mesorhizobium]	Mesorhizobium	Mesorhizobium
+KAM7187585.1	KAH8897283.1	24.5	376	423	365	1.62e-18	99.0	KAH8897283.1 6-phosphogluconate dehydrogenase C-terminal domain-like protein [Thozetella sp. PMI_491]	Thozetella sp. PMI_491	Thozetella

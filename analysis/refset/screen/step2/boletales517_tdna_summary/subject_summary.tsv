@@ -1,0 +1,389 @@
+subject	category	plasmid	gene_or_product	n_asm_strong	n_loci_strong	n_asm_bg30	n_loci_bg30	n_asm_any_locus	median_best_pident	max_pident
+WP_080864000.1|tra|NZ_CP011249.1|Agrobacterium_tumefaciens|-|conjugal_transfer_protein_TraB	tra	NZ_CP011249.1	conjugal_transfer_protein_TraB	0	0	0	0	1	32.1	32.1
+WP_051489781.1|opine_related|NZ_CP011249.1|Agrobacterium_tumefaciens|-|ABC_transporter_substrate-binding_protei	opine_related	NZ_CP011249.1	ABC_transporter_substrate-binding_protei	0	0	0	0	0		
+WP_040132252.1|opine_related|NZ_CP011249.1|Agrobacterium_tumefaciens|-|ABC_transporter_permease_subunit	opine_related	NZ_CP011249.1	ABC_transporter_permease_subunit	0	0	0	0	3	36.0	38.5
+WP_040132253.1|opine_related|NZ_CP011249.1|Agrobacterium_tumefaciens|-|ABC_transporter_substrate-binding_protei	opine_related	NZ_CP011249.1	ABC_transporter_substrate-binding_protei	0	0	0	0	2	34.4	35.8
+WP_010892424.1|opine_related|NZ_CP011249.1|Agrobacterium_tumefaciens|-|ABC_transporter_substrate-binding_protei	opine_related	NZ_CP011249.1	ABC_transporter_substrate-binding_protei	0	0	1	1	13	31.6	39.1
+WP_010892425.1|opine_related|NZ_CP011249.1|Agrobacterium_tumefaciens|-|ABC_transporter_permease	opine_related	NZ_CP011249.1	ABC_transporter_permease	0	0	0	0	4	37.5	43.9
+WP_010892426.1|opine_related|NZ_CP011249.1|Agrobacterium_tumefaciens|-|ABC_transporter_permease	opine_related	NZ_CP011249.1	ABC_transporter_permease	0	0	1	1	9	39.0	43.8
+WP_010892427.1|opine_related|NZ_CP011249.1|Agrobacterium_tumefaciens|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_CP011249.1	ABC_transporter_ATP-binding_protein	0	0	1	1	374	23.9	63.4
+WP_010892434.1|opine_related|NZ_CP011249.1|Agrobacterium_tumefaciens|-|ABC_transporter_permease	opine_related	NZ_CP011249.1	ABC_transporter_permease	0	0	0	0	5	30.0	48.8
+WP_374189981.1|opine_related|NZ_CP011249.1|Agrobacterium_tumefaciens|-|ABC_transporter_permease	opine_related	NZ_CP011249.1	ABC_transporter_permease	0	0	0	0	2	42.2	47.2
+WP_010892436.1|opine_related|NZ_CP011249.1|Agrobacterium_tumefaciens|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_CP011249.1	ABC_transporter_ATP-binding_protein	0	0	0	0	53	27.7	57.5
+WP_010892437.1|opine_related|NZ_CP011249.1|Agrobacterium_tumefaciens|-|ABC_transporter_substrate-binding_protei	opine_related	NZ_CP011249.1	ABC_transporter_substrate-binding_protei	0	0	0	0	3	30.2	41.5
+WP_032489857.1|vir|NZ_CP011249.1|Agrobacterium_tumefaciens|-|type_IV_secretion_system_protein_VirB8	vir	NZ_CP011249.1	type_IV_secretion_system_protein_VirB8	0	0	0	0	0		
+WP_032488325.1|vir|NZ_CP011249.1|Agrobacterium_tumefaciens|virG|two-component_system_response_regulator_	vir	NZ_CP011249.1	virG	0	0	1	11	25	37.1	52.5
+WP_003150546.1|rep_partition|NZ_CP007228.1|Agrobacterium_tumefaciens|-|putative_toxin-antitoxin_system_toxin_co	rep_partition	NZ_CP007228.1	putative_toxin-antitoxin_system_toxin_co	0	0	1	1	2	37.4	39.0
+WP_003150552.1|opine_related|NZ_CP007228.1|Agrobacterium_tumefaciens|merP|mercury_resistance_system_periplasmic_bi	opine_related	NZ_CP007228.1	merP	1	1	250	321	340	30.2	58.4
+WP_040132234.1|opine_related|NZ_CP011249.1|Agrobacterium_tumefaciens|-|ABC_transporter_permease_subunit	opine_related	NZ_CP011249.1	ABC_transporter_permease_subunit	0	0	0	0	0		
+WP_051489780.1|opine_related|NZ_CP011249.1|Agrobacterium_tumefaciens|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_CP011249.1	ABC_transporter_ATP-binding_protein	0	0	0	0	265	31.5	57.5
+WP_065698656.1|vir|NZ_NXEJ01000013.1|Agrobacterium_rosae|-|T-DNA_border_endonuclease_VirD2	vir	NZ_NXEJ01000013.1	T-DNA_border_endonuclease_VirD2	0	0	0	0	3	31.2	34.9
+WP_065698658.1|vir|NZ_NXEJ01000013.1|Agrobacterium_rosae|virD4|type_IV_secretion_system_ATPase_VirD4	vir	NZ_NXEJ01000013.1	virD4	0	0	0	0	1	29.8	29.8
+WP_233109028.1|vir|NZ_JANPYJ010000005.1|Agrobacterium_fabrum|-|virA_G_regulated_protein	vir	NZ_JANPYJ010000005.1	virA_G_regulated_protein	0	0	0	0	2	29.2	31.3
+WP_010891482.1|vir|NZ_JANPYJ010000005.1|Agrobacterium_fabrum|virE1|type_IV_secretion_system_effector_chaper	vir	NZ_JANPYJ010000005.1	virE1	0	0	0	0	0		
+WP_010891481.1|vir|NZ_JANPYJ010000005.1|Agrobacterium_fabrum|-|type_IV_secretion_system_single-stranded	vir	NZ_JANPYJ010000005.1	type_IV_secretion_system_single-stranded	0	0	0	0	0		
+WP_099086245.1|vir|NZ_NXEJ01000013.1|Agrobacterium_rosae|-|virA_G_regulated_protein	vir	NZ_NXEJ01000013.1	virA_G_regulated_protein	0	0	0	0	5	30.3	43.9
+WP_065698661.1|opine_related|NZ_JANPYJ010000005.1|Agrobacterium_fabrum|-|inositol_monophosphatase_family_protein	opine_related	NZ_JANPYJ010000005.1	inositol_monophosphatase_family_protein	0	0	14	14	202	30.6	52.9
+WP_065698667.1|opine_related|NZ_JANPYJ010000005.1|Agrobacterium_fabrum|-|NAD_NADP_octopine_nopaline_dehydrogenase	opine_related	NZ_JANPYJ010000005.1	NAD_NADP_octopine_nopaline_dehydrogenase	0	0	0	0	2	29.5	30.3
+WP_065698668.1|opine_related|NZ_JANPYJ010000005.1|Agrobacterium_fabrum|-|NAD_NADP_octopine_nopaline_dehydrogenase	opine_related	NZ_JANPYJ010000005.1	NAD_NADP_octopine_nopaline_dehydrogenase	0	0	0	0	1	31.1	31.1
+WP_065698670.1|opine_related|NZ_JANPYJ010000005.1|Agrobacterium_fabrum|-|ABC_transporter_permease	opine_related	NZ_JANPYJ010000005.1	ABC_transporter_permease	0	0	3	7	7	39.2	45.3
+WP_065698671.1|opine_related|NZ_JANPYJ010000005.1|Agrobacterium_fabrum|-|ABC_transporter_permease	opine_related	NZ_JANPYJ010000005.1	ABC_transporter_permease	0	0	2	4	5	41.2	47.3
+WP_065698679.1|opine_related|NZ_JANPYJ010000005.1|Agrobacterium_fabrum|-|ABC_transporter_substrate-binding_protei	opine_related	NZ_JANPYJ010000005.1	ABC_transporter_substrate-binding_protei	0	0	0	0	1	25.6	25.6
+WP_065698680.1|opine_related|NZ_JANPYJ010000005.1|Agrobacterium_fabrum|-|ABC_transporter_permease	opine_related	NZ_JANPYJ010000005.1	ABC_transporter_permease	0	0	0	0	3	36.7	44.3
+WP_065698681.1|opine_related|NZ_NXEJ01000013.1|Agrobacterium_rosae|-|ABC_transporter_permease	opine_related	NZ_NXEJ01000013.1	ABC_transporter_permease	0	0	0	0	2	33.9	41.8
+WP_065698682.1|opine_related|NZ_NXEJ01000013.1|Agrobacterium_rosae|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_NXEJ01000013.1	ABC_transporter_ATP-binding_protein	0	0	5	8	171	28.6	58.6
+WP_065698688.1|tra|NZ_JANPYJ010000005.1|Agrobacterium_fabrum|trbK|entry_exclusion_protein_TrbK	tra	NZ_JANPYJ010000005.1	trbK	0	0	0	0	0		
+WP_065698691.1|tra|NZ_JANPYJ010000005.1|Agrobacterium_fabrum|trbC|conjugal_transfer_pilin_TrbC	tra	NZ_JANPYJ010000005.1	trbC	0	0	0	0	0		
+WP_010974838.1|tra|NZ_JANPYJ010000005.1|Agrobacterium_fabrum|traI|acyl-homoserine-lactone_synthase	tra	NZ_JANPYJ010000005.1	traI	0	0	0	0	0		
+WP_065698695.1|rep_partition|NZ_NXEJ01000013.1|Agrobacterium_rosae|-|type_II_toxin-antitoxin_system_VapC_fami	rep_partition	NZ_NXEJ01000013.1	type_II_toxin-antitoxin_system_VapC_fami	0	0	2	2	3	31.5	34.7
+WP_010891613.1|rep_partition|NZ_NXEJ01000013.1|Agrobacterium_rosae|-|antitoxin_Xre_MbcA_ParS-like_domain-cont	rep_partition	NZ_NXEJ01000013.1	antitoxin_Xre_MbcA_ParS-like_domain-cont	0	0	0	0	0		
+WP_065698669.1|opine_related|NZ_NXEJ01000013.1|Agrobacterium_rosae|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_NXEJ01000013.1	ABC_transporter_ATP-binding_protein	1	2	1	8	57	40.4	72.7
+WP_174168445.1|opine_related|NZ_CP048467.1|Agrobacterium_tumefaciens|-|glycerophosphodiester_phosphodiesterase_	opine_related	NZ_CP048467.1	glycerophosphodiester_phosphodiesterase_	0	0	0	0	3	32.1	38.2
+WP_010974897.1|tra|NZ_CP048572.1|Agrobacterium_tumefaciens|traF|conjugative_transfer_signal_peptidase_Tr	tra	NZ_CP048572.1	traF	0	0	0	0	0		
+WP_010974776.1|vir|NZ_JANPYJ010000005.1|Agrobacterium_fabrum|virE3|type_IV_secretion_system_virulence_effec	vir	NZ_JANPYJ010000005.1	virE3	0	0	0	0	0		
+WP_174168441.1|TDNA|NZ_CP048572.1|Agrobacterium_tumefaciens|-|RolB_family_protein	TDNA	NZ_CP048572.1	RolB_family_protein	0	0	0	0	0		
+WP_172690589.1|TDNA|NZ_CP048572.1|Agrobacterium_tumefaciens|-|RolB_family_protein	TDNA	NZ_CP048572.1	RolB_family_protein	0	0	0	0	0		
+WP_262512305.1|TDNA|NZ_CP048572.1|Agrobacterium_tumefaciens|-|SIS_domain-containing_protein	TDNA	NZ_CP048572.1	SIS_domain-containing_protein	0	0	0	0	0		
+WP_172690600.1|opine_related|NZ_CP048572.1|Agrobacterium_tumefaciens|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_CP048572.1	ABC_transporter_ATP-binding_protein	0	0	73	88	444	29.5	64.1
+WP_172690729.1|tra|NZ_CP048572.1|Agrobacterium_tumefaciens|trbI|IncP-type_conjugal_transfer_protein_TrbI	tra	NZ_CP048572.1	trbI	0	0	0	0	0		
+WP_172690683.1|tra|NZ_CP048572.1|Agrobacterium_tumefaciens|trbK|entry_exclusion_protein_TrbK	tra	NZ_CP048572.1	trbK	0	0	0	0	0		
+AAK91117.1|vir|AE007871.2|Agrobacterium_fabrum_str.|virF|exported_virulence_protein	vir	AE007871.2	virF	0	0	0	0	1	26.9	26.9
+AAL46392.1|vir|AE007871.2|Agrobacterium_fabrum_str.|virK|virA_G_regulated_gene	vir	AE007871.2	virK	0	0	0	0	0		
+AAK90947.1|vir|AE007871.2|Agrobacterium_fabrum_str.|virD5|virA_G_regulated_protein	vir	AE007871.2	virD5	0	0	0	0	0		
+AAK90958.1|opine_related|AE007871.2|Agrobacterium_fabrum_str.|accF|agrocinopine_phosphodiesterase	opine_related	AE007871.2	accF	0	0	0	0	0		
+WP_172690491.1|TDNA|NC_002575.1|Martinezella_rhizogenes|-|hypothetical_protein	TDNA	NC_002575.1	hypothetical_protein	0	0	0	0	1	38.5	38.5
+WP_010900201.1|TDNA|NC_002575.1|Martinezella_rhizogenes|-|hypothetical_protein	TDNA	NC_002575.1	hypothetical_protein	0	0	0	0	1	30.3	30.3
+WP_142845024.1|TDNA|NC_002575.1|Martinezella_rhizogenes|-|hypothetical_protein	TDNA	NC_002575.1	hypothetical_protein	0	0	0	0	0		
+WP_142845023.1|TDNA|NC_002575.1|Martinezella_rhizogenes|-|FAD-dependent_oxidoreductase	TDNA	NC_002575.1	FAD-dependent_oxidoreductase	0	0	0	0	1	29.4	29.4
+WP_172690492.1|TDNA|NC_002575.1|Martinezella_rhizogenes|-|RolB_family_protein	TDNA	NC_002575.1	RolB_family_protein	0	0	0	0	0		
+WP_010900206.1|TDNA|NC_002575.1|Martinezella_rhizogenes|-|cytokinin-beta-glucosidase	TDNA	NC_002575.1	cytokinin-beta-glucosidase	0	0	0	0	0		
+WP_010900207.1|TDNA|NC_002575.1|Martinezella_rhizogenes|-|RolB_family_protein	TDNA	NC_002575.1	RolB_family_protein	0	0	0	0	0		
+WP_161987869.1|TDNA|NC_002575.1|Martinezella_rhizogenes|-|RolB_family_protein	TDNA	NC_002575.1	RolB_family_protein	0	0	0	0	0		
+WP_176453671.1|TDNA|NC_002575.1|Martinezella_rhizogenes|-|cucumopine_synthase-related_protein	TDNA	NC_002575.1	cucumopine_synthase-related_protein	0	0	1	1	4	32.5	38.4
+WP_010900213.1|opine_related|NC_002575.1|Martinezella_rhizogenes|-|cucumopine_synthase-related_protein	opine_related	NC_002575.1	cucumopine_synthase-related_protein	10	13	20	31	30	42.4	61.9
+WP_010900216.1|opine_related|NC_002575.1|Martinezella_rhizogenes|-|ABC_transporter_permease_subunit	opine_related	NC_002575.1	ABC_transporter_permease_subunit	0	0	0	0	0		
+WP_010900217.1|opine_related|NC_002575.1|Martinezella_rhizogenes|-|ABC_transporter_permease_subunit	opine_related	NC_002575.1	ABC_transporter_permease_subunit	0	0	1	1	2	33.1	37.9
+WP_010900224.1|opine_related|NC_002575.1|Martinezella_rhizogenes|-|ABC_transporter_permease	opine_related	NC_002575.1	ABC_transporter_permease	0	0	1	1	2	32.4	32.7
+WP_010900225.1|opine_related|NC_002575.1|Martinezella_rhizogenes|-|ABC_transporter_permease	opine_related	NC_002575.1	ABC_transporter_permease	0	0	1	1	6	33.8	49.5
+WP_010900226.1|opine_related|NC_002575.1|Martinezella_rhizogenes|-|ABC_transporter_ATP-binding_protein	opine_related	NC_002575.1	ABC_transporter_ATP-binding_protein	1	1	20	23	296	34.0	62.1
+WP_161987867.1|opine_related|NC_002575.1|Martinezella_rhizogenes|-|ABC_transporter_substrate-binding_protei	opine_related	NC_002575.1	ABC_transporter_substrate-binding_protei	0	0	0	0	0		
+WP_142845063.1|opine_related|NC_002575.1|Martinezella_rhizogenes|-|ABC_transporter_permease	opine_related	NC_002575.1	ABC_transporter_permease	0	0	0	0	2	39.2	40.0
+WP_010900293.1|rep_partition|NC_002575.1|Martinezella_rhizogenes|-|type_II_toxin-antitoxin_system_prevent-h	rep_partition	NC_002575.1	type_II_toxin-antitoxin_system_prevent-h	0	0	0	0	0		
+WP_010900300.1|tra|NC_002575.1|Martinezella_rhizogenes|traC|conjugal_transfer_protein_TraC	tra	NC_002575.1	traC	0	0	0	0	0		
+WP_010900304.1|tra|NC_002575.1|Martinezella_rhizogenes|-|TraH_family_protein	tra	NC_002575.1	TraH_family_protein	1	1	1	1	1	61.3	61.3
+WP_010900315.1|tra|NC_002575.1|Martinezella_rhizogenes|trbJ|P-type_conjugative_transfer_protein_TrbJ	tra	NC_002575.1	trbJ	0	0	0	0	0		
+WP_010900316.1|tra|NC_002575.1|Martinezella_rhizogenes|-|conjugal_transfer_protein_TrbE	tra	NC_002575.1	conjugal_transfer_protein_TrbE	0	0	0	0	4	43.3	85.7
+WP_010900320.1|tra|NC_002575.1|Martinezella_rhizogenes|traI|acyl-homoserine-lactone_synthase	tra	NC_002575.1	traI	0	0	0	0	1	52.4	52.4
+AAF77120.1|TDNA|AF242881.1|Agrobacterium_tumefaciens|gene	TDNA	AF242881.1	gene	0	0	0	0	0		
+AAF77122.1|TDNA|AF242881.1|Agrobacterium_tumefaciens|iaaH|iaaH	TDNA	AF242881.1	iaaH	0	0	3	3	514	46.4	73.9
+AAF77124.1|TDNA|AF242881.1|Agrobacterium_tumefaciens|ipt|ipt	TDNA	AF242881.1	ipt	0	0	0	0	2	35.2	37.1
+AAF77125.1|TDNA|AF242881.1|Agrobacterium_tumefaciens|ons|ons	TDNA	AF242881.1	ons	0	0	0	0	0		
+AAF77127.1|TDNA|AF242881.1|Agrobacterium_tumefaciens|ocs|ocs	TDNA	AF242881.1	ocs	0	0	0	0	5	27.3	40.0
+AAF77128.1|TDNA|AF242881.1|Agrobacterium_tumefaciens|gene	TDNA	AF242881.1	gene	0	0	0	0	0		
+AAF77129.1|TDNA|AF242881.1|Agrobacterium_tumefaciens|gene	TDNA	AF242881.1	gene	0	0	0	0	0		
+AAF77131.1|TDNA|AF242881.1|Agrobacterium_tumefaciens|mas1_|mas1_	TDNA	AF242881.1	mas1_	0	0	0	0	62	29.6	38.0
+AAC28114.1|tra|AF242881.1|Agrobacterium_tumefaciens|traD|traD	tra	AF242881.1	traD	0	0	0	0	0		
+AAC28115.1|tra|AF242881.1|Agrobacterium_tumefaciens|traC|traC	tra	AF242881.1	traC	0	0	1	1	1	31.1	31.1
+AAC28116.1|tra|AF242881.1|Agrobacterium_tumefaciens|traA|traA	tra	AF242881.1	traA	0	0	0	0	5	27.5	36.4
+AAC28117.1|tra|AF242881.1|Agrobacterium_tumefaciens|traF|traF	tra	AF242881.1	traF	0	0	0	0	0		
+AAC28120.1|tra|AF242881.1|Agrobacterium_tumefaciens|traM|traM	tra	AF242881.1	traM	0	0	1	1	1	37.9	37.9
+AAC28121.1|tra|AF242881.1|Agrobacterium_tumefaciens|traR|traR	tra	AF242881.1	traR	0	0	0	0	2	28.0	28.7
+AAF77141.1|opine_related|AF242881.1|Agrobacterium_tumefaciens|ooxB|ooxB	opine_related	AF242881.1	ooxB	0	0	0	0	5	31.9	40.8
+AAA98382.1|opine_related|AF242881.1|Agrobacterium_tumefaciens|occJ|occJ	opine_related	AF242881.1	occJ	1	1	1	1	12	33.3	46.6
+AAA98381.1|opine_related|AF242881.1|Agrobacterium_tumefaciens|occP|occP	opine_related	AF242881.1	occP	0	0	1	1	372	24.4	65.5
+AAF77142.1|opine_related|AF242881.1|Agrobacterium_tumefaciens|occM|occM	opine_related	AF242881.1	occM	0	0	1	1	9	37.8	46.1
+AAA98379.1|opine_related|AF242881.1|Agrobacterium_tumefaciens|occQ|occQ	opine_related	AF242881.1	occQ	0	0	1	1	1	35.5	35.5
+AAA98378.1|opine_related|AF242881.1|Agrobacterium_tumefaciens|occR|occR	opine_related	AF242881.1	occR	0	0	1	1	11	31.8	52.6
+AAC18648.1|opine_related|AF242881.1|Agrobacterium_tumefaciens|motD|motD	opine_related	AF242881.1	motD	0	0	0	0	1	25.3	25.3
+AAC18650.1|opine_related|AF242881.1|Agrobacterium_tumefaciens|motB|motB	opine_related	AF242881.1	motB	0	0	0	0	198	29.4	57.1
+AAB07782.1|opine_related|AF242881.1|Agrobacterium_tumefaciens|mocR|mocR	opine_related	AF242881.1	mocR	0	0	0	0	13	32.7	38.5
+AAB07786.1|opine_related|AF242881.1|Agrobacterium_tumefaciens|mocS|mocS	opine_related	AF242881.1	mocS	0	0	2	3	15	29.6	36.8
+AAB95103.1|tra|AF242881.1|Agrobacterium_tumefaciens|trbH|trbH	tra	AF242881.1	trbH	0	0	0	0	1	42.2	42.2
+FAM_SUS|T2|WP_174080856.1	FAM_SUS		FAM_SUS|T2	9	11	13	18	16	55.4	71.1
+FAM_ORF358|T1|Agro_WP_045022995.1_hypothetic	FAM_ORF358		FAM_ORF358|T1	0	0	0	0	0		
+FAM_ORF358|T1|Agro_WP_280800168.1_hypothetic	FAM_ORF358		FAM_ORF358|T1	0	0	0	0	0		
+FAM_ORF358|T1|Plant_tra6CaTH-Orf358	FAM_ORF358		FAM_ORF358|T1	0	0	0	0	0		
+FAM_ORF358|T2|WP_269710219.1	FAM_ORF358		FAM_ORF358|T2	0	0	0	0	0		
+FAM_ORF358|T2|WP_117196202.1	FAM_ORF358		FAM_ORF358|T2	1	2	1	2	1	77.4	77.4
+FAM_ORF358|T2|WP_117196203.1	FAM_ORF358		FAM_ORF358|T2	1	1	5	5	5	42.7	75.7
+FAM_ORF358|T2|WP_377264681.1	FAM_ORF358		FAM_ORF358|T2	0	0	0	0	0		
+WP_234704317.1|vir|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|VirB4_family_type_IV_secretion_conjugal_	vir	NZ_JWIT01000024.1	VirB4_family_type_IV_secretion_conjugal_	0	0	0	0	1	36.4	36.4
+WP_045022968.1|tra|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|type_IV_secretion_system_protein	tra	NZ_JWIT01000024.1	type_IV_secretion_system_protein	0	0	0	0	0		
+WP_052675528.1|vir|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|TrbL_VirB6_family_protein	vir	NZ_JWIT01000024.1	TrbL_VirB6_family_protein	0	0	0	0	2	26.9	31.5
+WP_045022969.1|vir|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|VirB8_family_type_IV_secretion_system_pr	vir	NZ_JWIT01000024.1	VirB8_family_type_IV_secretion_system_pr	0	0	0	0	0		
+WP_082066006.1|vir|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|TrbG_VirB9_family_P-type_conjugative_tra	vir	NZ_JWIT01000024.1	TrbG_VirB9_family_P-type_conjugative_tra	0	0	0	0	1	29.8	29.8
+WP_045022970.1|vir|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|TraB_TrbI_VirB10_family_type_IV_secretio	vir	NZ_JWIT01000024.1	TraB_TrbI_VirB10_family_type_IV_secretio	0	0	0	0	2	30.5	35.5
+WP_045022971.1|vir|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|virB11|P-type_DNA_transfer_ATPase_VirB11	vir	NZ_JWIT01000024.1	virB11	0	0	0	0	2	35.2	36.6
+WP_045022973.1|vir|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|VirC2_family_conjugal_transfer_protein	vir	NZ_JWIT01000024.1	VirC2_family_conjugal_transfer_protein	0	0	0	0	0		
+WP_045022976.1|vir|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|virD4|type_IV_secretion_system_ATPase_VirD4	vir	NZ_JWIT01000024.1	virD4	0	0	0	0	2	36.2	40.6
+WP_082066007.1|tra|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|relaxase_mobilization_nuclease_domain-co	tra	NZ_JWIT01000024.1	relaxase_mobilization_nuclease_domain-co	0	0	0	0	18	23.2	35.3
+WP_045022979.1|vir|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|DNA_mobilization_endonuclease_VirD1_MobC	vir	NZ_JWIT01000024.1	DNA_mobilization_endonuclease_VirD1_MobC	0	0	0	0	0		
+WP_045022981.1|vir|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|VirE2_family_protein	vir	NZ_JWIT01000024.1	VirE2_family_protein	0	0	0	0	0		
+WP_045022987.1|opine_related|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_JWIT01000024.1	ABC_transporter_ATP-binding_protein	1	2	2	4	84	32.2	53.3
+WP_045022990.1|opine_related|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|carbohydrate_ABC_transporter_permease	opine_related	NZ_JWIT01000024.1	carbohydrate_ABC_transporter_permease	0	0	1	2	13	34.4	39.1
+WP_045022991.1|opine_related|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|carbohydrate_ABC_transporter_permease	opine_related	NZ_JWIT01000024.1	carbohydrate_ABC_transporter_permease	0	0	1	2	3	32.6	40.4
+WP_045022992.1|opine_related|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|ABC_transporter_substrate-binding_protei	opine_related	NZ_JWIT01000024.1	ABC_transporter_substrate-binding_protei	0	0	0	0	3	29.8	31.6
+WP_045022999.1|opine_related|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|carbohydrate_ABC_transporter_permease	opine_related	NZ_JWIT01000024.1	carbohydrate_ABC_transporter_permease	0	0	0	0	3	30.4	37.5
+WP_045023000.1|opine_related|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|ABC_transporter_permease_subunit	opine_related	NZ_JWIT01000024.1	ABC_transporter_permease_subunit	0	0	1	1	1	37.1	37.1
+WP_045023001.1|opine_related|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_JWIT01000024.1	ABC_transporter_ATP-binding_protein	0	0	2	2	257	34.1	59.3
+WP_045023002.1|opine_related|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|glycerophosphodiester_phosphodiesterase_	opine_related	NZ_JWIT01000024.1	glycerophosphodiester_phosphodiesterase_	0	0	0	0	1	33.6	33.6
+WP_045023003.1|opine_related|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|inositol_monophosphatase_family_protein	opine_related	NZ_JWIT01000024.1	inositol_monophosphatase_family_protein	0	0	1	1	303	31.0	61.5
+WP_045023005.1|rep_partition|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|type_II_toxin-antitoxin_system_HipA_fami	rep_partition	NZ_JWIT01000024.1	type_II_toxin-antitoxin_system_HipA_fami	0	0	0	0	7	33.3	46.6
+WP_045023011.1|opine_related|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_JWIT01000024.1	ABC_transporter_ATP-binding_protein	0	0	21	24	299	27.3	60.6
+WP_045023012.1|opine_related|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|ABC_transporter_permease_subunit	opine_related	NZ_JWIT01000024.1	ABC_transporter_permease_subunit	0	0	0	0	6	33.1	69.0
+WP_045023013.1|opine_related|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|ABC_transporter_substrate-binding_protei	opine_related	NZ_JWIT01000024.1	ABC_transporter_substrate-binding_protei	0	0	0	0	1	24.3	24.3
+WP_082066011.1|tra|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|traA|Ti-type_conjugative_transfer_relaxase_Tr	tra	NZ_JWIT01000024.1	traA	0	0	0	0	12	31.8	47.4
+WP_045023021.1|tra|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|mobilization_protein	tra	NZ_JWIT01000024.1	mobilization_protein	0	0	0	0	0		
+WP_045023022.1|tra|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|type_IV_secretory_system_conjugative_DNA	tra	NZ_JWIT01000024.1	type_IV_secretory_system_conjugative_DNA	0	0	0	0	0		
+WP_233741845.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|cucumopine_synthase-related_protein	opine_related	NZ_LMVL02000009.1	cucumopine_synthase-related_protein	15	23	15	26	18	56.4	83.3
+WP_060718523.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|ABC_transporter_permease	opine_related	NZ_LMVL02000009.1	ABC_transporter_permease	0	0	0	0	3	29.0	36.3
+WP_060718524.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|ABC_transporter_permease	opine_related	NZ_LMVL02000009.1	ABC_transporter_permease	0	0	0	0	1	26.0	26.0
+WP_060716474.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|amino_acid_ABC_transporter_ATP-binding_p	opine_related	NZ_LMVL02000009.1	amino_acid_ABC_transporter_ATP-binding_p	1	4	4	8	236	39.5	60.3
+WP_060716486.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|glycerophosphodiester_phosphodiesterase	opine_related	NZ_LMVL02000009.1	glycerophosphodiester_phosphodiesterase	0	0	0	0	1	51.4	51.4
+WP_041723951.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|ABC_transporter_permease	opine_related	NZ_LMVL02000009.1	ABC_transporter_permease	0	0	0	0	0		
+WP_012654931.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|ABC_transporter_permease	opine_related	NZ_LMVL02000009.1	ABC_transporter_permease	0	0	0	0	2	40.6	48.0
+WP_060716487.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_LMVL02000009.1	ABC_transporter_ATP-binding_protein	0	0	3	3	152	28.3	46.2
+WP_060716488.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_LMVL02000009.1	ABC_transporter_ATP-binding_protein	0	0	0	0	4	31.9	37.0
+WP_060716489.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|ABC_transporter_substrate-binding_protei	opine_related	NZ_LMVL02000009.1	ABC_transporter_substrate-binding_protei	0	0	0	0	4	29.5	30.4
+WP_197433256.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|ABC_transporter_permease_family_protein	opine_related	NZ_LMVL02000009.1	ABC_transporter_permease_family_protein	0	0	0	0	0		
+WP_060716491.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|amino_acid_ABC_transporter_ATP-binding_p	opine_related	NZ_LMVL02000009.1	amino_acid_ABC_transporter_ATP-binding_p	2	2	13	14	88	31.1	52.4
+WP_474368109.1|opine_related|NZ_LMVL02000009.1|Gillisella_vitis|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_LMVL02000009.1	ABC_transporter_ATP-binding_protein	9	11	496	1279	515	41.6	72.7
+WP_060716561.1|rep_partition|NZ_LMVL02000009.1|Gillisella_vitis|-|type_II_toxin-antitoxin_system_RelE_ParE	rep_partition	NZ_LMVL02000009.1	type_II_toxin-antitoxin_system_RelE_ParE	0	0	0	0	1	23.2	23.2
+WP_060716562.1|rep_partition|NZ_LMVL02000009.1|Gillisella_vitis|-|type_II_TA_system_antitoxin__ParD_family	rep_partition	NZ_LMVL02000009.1	type_II_TA_system_antitoxin__ParD_family	0	0	0	0	0		
+WP_060716571.1|vir|NZ_LMVL02000009.1|Gillisella_vitis|-|two-component_system_VirA-like_sensor_ki	vir	NZ_LMVL02000009.1	two-component_system_VirA-like_sensor_ki	0	0	0	0	21	32.5	49.1
+WP_060716572.1|vir|NZ_LMVL02000009.1|Gillisella_vitis|-|type_IV_secretion_system_lytic_transglyc	vir	NZ_LMVL02000009.1	type_IV_secretion_system_lytic_transglyc	0	0	0	0	0		
+WP_081088913.1|vir|NZ_LMVL02000009.1|Gillisella_vitis|-|type_IV_secretion_system_lipoprotein_Vir	vir	NZ_LMVL02000009.1	type_IV_secretion_system_lipoprotein_Vir	0	0	0	0	0		
+WP_060716579.1|vir|NZ_LMVL02000009.1|Gillisella_vitis|virB10|type_IV_secretion_system_protein_VirB10	vir	NZ_LMVL02000009.1	virB10	0	0	0	0	7	30.2	41.0
+WP_032491616.1|opine_related|NZ_CP011249.1|Agrobacterium_tumefaciens|-|ABC_transporter_permease	opine_related	NZ_CP011249.1	ABC_transporter_permease	0	0	1	1	2	40.8	47.1
+WP_032491617.1|opine_related|NZ_CP011249.1|Agrobacterium_tumefaciens|-|ABC_transporter_permease	opine_related	NZ_CP011249.1	ABC_transporter_permease	0	0	1	1	2	40.3	40.6
+WP_046205711.1|opine_related|NZ_CP011249.1|Agrobacterium_tumefaciens|-|ABC_transporter_substrate-binding_protei	opine_related	NZ_CP011249.1	ABC_transporter_substrate-binding_protei	0	0	0	0	3	33.6	37.8
+WP_032491620.1|opine_related|NZ_CP011249.1|Agrobacterium_tumefaciens|ooxA|opine_oxidase_subunit_OoxA	opine_related	NZ_CP011249.1	ooxA	0	0	0	0	37	37.2	57.9
+WP_010892456.1|rep_partition|NZ_CP011249.1|Agrobacterium_tumefaciens|-|type_II_toxin-antitoxin_system_VapC_fami	rep_partition	NZ_CP011249.1	type_II_toxin-antitoxin_system_VapC_fami	1	1	3	3	5	35.4	46.7
+WP_040132270.1|rep_partition|NZ_CP011249.1|Agrobacterium_tumefaciens|-|type_II_toxin-antitoxin_system_Phd_YefM_	rep_partition	NZ_CP011249.1	type_II_toxin-antitoxin_system_Phd_YefM_	0	0	0	0	0		
+WP_010892473.1|rep_partition|NZ_CP011249.1|Agrobacterium_tumefaciens|-|nucleotidyl_transferase_AbiEii_AbiGii_to	rep_partition	NZ_CP011249.1	nucleotidyl_transferase_AbiEii_AbiGii_to	0	0	0	0	0		
+WP_309550703.1|rep_partition|NZ_CP011249.1|Agrobacterium_tumefaciens|-|type_IV_toxin-antitoxin_system_AbiEi_fam	rep_partition	NZ_CP011249.1	type_IV_toxin-antitoxin_system_AbiEi_fam	0	0	0	0	0		
+WP_040132285.1|rep_partition|NZ_CP011249.1|Agrobacterium_tumefaciens|-|zeta_toxin_family_protein	rep_partition	NZ_CP011249.1	zeta_toxin_family_protein	0	0	0	0	2	28.2	30.9
+WP_099086251.1|tra|NZ_NXEJ01000013.1|Agrobacterium_rosae|traA|Ti-type_conjugative_transfer_relaxase_Tr	tra	NZ_NXEJ01000013.1	traA	0	0	0	0	9	40.7	44.3
+WP_010891533.1|tra|NZ_NXEJ01000013.1|Agrobacterium_rosae|traF|conjugative_transfer_signal_peptidase_Tr	tra	NZ_NXEJ01000013.1	traF	0	0	1	1	1	32.7	32.7
+WP_010974902.1|opine_related|NZ_NXEJ01000013.1|Agrobacterium_rosae|-|ABC_transporter_substrate-binding_protei	opine_related	NZ_NXEJ01000013.1	ABC_transporter_substrate-binding_protei	0	0	0	0	3	28.6	31.1
+WP_233109023.1|opine_related|NZ_CP048546.1|Agrobacterium_tumefaciens|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_CP048546.1	ABC_transporter_ATP-binding_protein	0	0	0	0	18	25.3	42.9
+WP_128287343.1|opine_related|NZ_CP029048.1|Agrobacterium_tumefaciens|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_CP029048.1	ABC_transporter_ATP-binding_protein	0	0	0	0	41	38.0	48.6
+WP_128287344.1|opine_related|NZ_CP029048.1|Agrobacterium_tumefaciens|-|ABC_transporter_permease	opine_related	NZ_CP029048.1	ABC_transporter_permease	0	0	0	0	4	39.5	41.7
+WP_010891520.1|opine_related|NZ_NXEJ01000013.1|Agrobacterium_rosae|-|ABC_transporter_permease	opine_related	NZ_NXEJ01000013.1	ABC_transporter_permease	0	0	0	0	3	44.4	44.6
+WP_010891519.1|opine_related|NZ_NXEJ01000013.1|Agrobacterium_rosae|-|glycerophosphodiester_phosphodiesterase_	opine_related	NZ_NXEJ01000013.1	glycerophosphodiester_phosphodiesterase_	0	0	1	1	9	33.9	52.5
+WP_010974824.1|TDNA|NZ_CP048576.1|Agrobacterium_tumefaciens|-|FAD-dependent_oxidoreductase	TDNA	NZ_CP048576.1	FAD-dependent_oxidoreductase	0	0	0	0	226	43.5	59.0
+WP_042474938.1|rep_partition|NZ_CP118250.1|Martinezella_rhizogenes|repA|plasmid_partitioning_protein_RepA	rep_partition	NZ_CP118250.1	repA	0	0	0	0	6	28.2	50.0
+WP_174080922.1|rep_partition|NZ_CP118250.1|Martinezella_rhizogenes|repB|plasmid_partitioning_protein_RepB	rep_partition	NZ_CP118250.1	repB	0	0	0	0	1	30.5	30.5
+WP_174080926.1|rep_partition|NZ_CP118250.1|Martinezella_rhizogenes|-|type_II_toxin-antitoxin_system_VapC_fami	rep_partition	NZ_CP118250.1	type_II_toxin-antitoxin_system_VapC_fami	0	0	1	1	2	49.6	58.8
+WP_042474909.1|rep_partition|NZ_CP118250.1|Martinezella_rhizogenes|-|type_II_toxin-antitoxin_system_VapB_fami	rep_partition	NZ_CP118250.1	type_II_toxin-antitoxin_system_VapB_fami	0	0	0	0	0		
+WP_234908531.1|opine_related|NZ_CP118250.1|Martinezella_rhizogenes|-|glycerophosphodiester_phosphodiesterase_	opine_related	NZ_CP118250.1	glycerophosphodiester_phosphodiesterase_	0	0	1	1	56	27.1	36.2
+WP_234908534.1|opine_related|NZ_CP118250.1|Martinezella_rhizogenes|-|ABC_transporter_permease	opine_related	NZ_CP118250.1	ABC_transporter_permease	1	1	1	1	1	80.8	80.8
+WP_174080859.1|opine_related|NZ_CP118250.1|Martinezella_rhizogenes|-|ABC_transporter_permease	opine_related	NZ_CP118250.1	ABC_transporter_permease	0	0	0	0	2	36.5	44.1
+WP_174080860.1|opine_related|NZ_CP118250.1|Martinezella_rhizogenes|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_CP118250.1	ABC_transporter_ATP-binding_protein	0	0	3	3	391	37.1	73.9
+WP_234908535.1|opine_related|NZ_CP118250.1|Martinezella_rhizogenes|-|arginase_family_protein	opine_related	NZ_CP118250.1	arginase_family_protein	0	0	0	0	0		
+WP_374188768.1|opine_related|NZ_CP118250.1|Martinezella_rhizogenes|-|ABC_transporter_substrate-binding_protei	opine_related	NZ_CP118250.1	ABC_transporter_substrate-binding_protei	0	0	1	1	4	30.7	51.0
+WP_070149663.1|vir|NZ_LMVL02000009.1|Gillisella_vitis|-|conjugal_transfer_protein_VirC2	vir	NZ_LMVL02000009.1	conjugal_transfer_protein_VirC2	0	0	0	0	0		
+WP_081088915.1|tra|NZ_LMVL02000009.1|Gillisella_vitis|-|relaxase_mobilization_nuclease_domain-co	tra	NZ_LMVL02000009.1	relaxase_mobilization_nuclease_domain-co	0	0	0	0	5	26.9	33.3
+WP_070149665.1|vir|NZ_LMVL02000009.1|Gillisella_vitis|-|virA_G_regulated_protein	vir	NZ_LMVL02000009.1	virA_G_regulated_protein	0	0	0	0	0		
+WP_167397980.1|opine_related|NZ_NXEJ01000013.1|Agrobacterium_rosae|-|ABC_transporter_permease	opine_related	NZ_NXEJ01000013.1	ABC_transporter_permease	0	0	0	0	3	28.7	38.7
+WP_103660361.1|opine_related|NZ_NXEJ01000013.1|Agrobacterium_rosae|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_NXEJ01000013.1	ABC_transporter_ATP-binding_protein	0	0	0	0	43	43.6	53.3
+WP_060718542.1|opine_related|NZ_JABFNP010000003.1|Gillisella_vitis|-|NAD_NADP_octopine_nopaline_dehydrogenase	opine_related	NZ_JABFNP010000003.1	NAD_NADP_octopine_nopaline_dehydrogenase	0	0	0	0	0		
+AAZ50596.1|vir|DQ058764.1|Agrobacterium_tumefaciens|virH|VirH	vir	DQ058764.1	virH	0	0	2	2	8	34.3	49.1
+AAZ50599.1|opine_related|DQ058764.1|Agrobacterium_tumefaciens|accR|AccR	opine_related	DQ058764.1	accR	0	0	2	3	17	35.7	45.1
+AAZ50605.1|opine_related|DQ058764.1|Agrobacterium_tumefaciens|accF|AccF	opine_related	DQ058764.1	accF	0	0	0	0	0		
+WP_045022954.1|rep_partition|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|repA|plasmid_partitioning_protein_RepA	rep_partition	NZ_JWIT01000024.1	repA	0	0	0	0	1	29.3	29.3
+WP_045022955.1|rep_partition|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|repB|plasmid_partitioning_protein_RepB	rep_partition	NZ_JWIT01000024.1	repB	0	0	0	0	0		
+WP_045022956.1|rep_partition|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|repC|plasmid_replication_protein_RepC	rep_partition	NZ_JWIT01000024.1	repC	0	0	0	0	0		
+WP_045022958.1|rep_partition|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|RepB_family_protein	rep_partition	NZ_JWIT01000024.1	RepB_family_protein	0	0	0	0	0		
+WP_052675526.1|vir|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|TrbC_VirB2_family_protein	vir	NZ_JWIT01000024.1	TrbC_VirB2_family_protein	0	0	0	0	0		
+WP_045022967.1|vir|NZ_JWIT01000024.1|Agrobacterium_arsenijevic|-|VirB3_family_type_IV_secretion_system_pr	vir	NZ_JWIT01000024.1	VirB3_family_type_IV_secretion_system_pr	0	0	0	0	0		
+WP_010900357.1|vir|NC_002575.1|Martinezella_rhizogenes|-|T-DNA_border_endonuclease_VirD2	vir	NC_002575.1	T-DNA_border_endonuclease_VirD2	0	0	0	0	9	28.3	45.7
+WP_012475919.1|opine_related|NC_010841.1|Martinezella_rhizogenes|-|amino_acid_ABC_transporter_permease	opine_related	NC_010841.1	amino_acid_ABC_transporter_permease	0	0	1	1	2	35.5	37.3
+WP_012475920.1|opine_related|NC_010841.1|Martinezella_rhizogenes|-|amino_acid_ABC_transporter_permease	opine_related	NC_010841.1	amino_acid_ABC_transporter_permease	0	0	1	1	4	38.1	39.7
+WP_012475921.1|opine_related|NC_010841.1|Martinezella_rhizogenes|-|ABC_transporter_substrate-binding_protei	opine_related	NC_010841.1	ABC_transporter_substrate-binding_protei	0	0	0	0	4	25.4	30.9
+WP_077768161.1|opine_related|NC_010841.1|Martinezella_rhizogenes|-|ABC_transporter_substrate-binding_protei	opine_related	NC_010841.1	ABC_transporter_substrate-binding_protei	0	0	0	0	0		
+WP_077768160.1|opine_related|NC_010841.1|Martinezella_rhizogenes|-|ABC_transporter_ATP-binding_protein	opine_related	NC_010841.1	ABC_transporter_ATP-binding_protein	0	0	22	22	399	32.6	48.8
+WP_012475946.1|opine_related|NC_010841.1|Martinezella_rhizogenes|-|ABC_transporter_substrate-binding_protei	opine_related	NC_010841.1	ABC_transporter_substrate-binding_protei	0	0	0	0	3	31.3	33.3
+WP_012475948.1|opine_related|NC_010841.1|Martinezella_rhizogenes|-|ABC_transporter_permease	opine_related	NC_010841.1	ABC_transporter_permease	0	0	0	0	1	46.0	46.0
+WP_077768149.1|opine_related|NC_010841.1|Martinezella_rhizogenes|-|dipeptide_ABC_transporter_ATP-binding_pr	opine_related	NC_010841.1	dipeptide_ABC_transporter_ATP-binding_pr	0	0	0	0	18	35.6	41.8
+WP_077768141.1|opine_related|NC_010841.1|Martinezella_rhizogenes|-|sugar_ABC_transporter_ATP-binding_protei	opine_related	NC_010841.1	sugar_ABC_transporter_ATP-binding_protei	0	0	2	9	58	40.6	60.5
+WP_012475959.1|opine_related|NC_010841.1|Martinezella_rhizogenes|-|ABC_transporter_permease	opine_related	NC_010841.1	ABC_transporter_permease	0	0	1	5	5	33.8	46.2
+WP_012475960.1|opine_related|NC_010841.1|Martinezella_rhizogenes|-|ABC_transporter_permease	opine_related	NC_010841.1	ABC_transporter_permease	0	0	0	0	5	29.7	35.1
+WP_012475976.1|rep_partition|NC_010841.1|Martinezella_rhizogenes|-|ParB_RepB_Spo0J_family_partition_protein	rep_partition	NC_010841.1	ParB_RepB_Spo0J_family_partition_protein	0	0	0	0	0		
+WP_077768133.1|rep_partition|NC_010841.1|Martinezella_rhizogenes|-|type_II_toxin-antitoxin_system_VapB_fami	rep_partition	NC_010841.1	type_II_toxin-antitoxin_system_VapB_fami	0	0	0	0	0		
+WP_077768132.1|rep_partition|NC_010841.1|Martinezella_rhizogenes|-|type_II_toxin-antitoxin_system_VapC_fami	rep_partition	NC_010841.1	type_II_toxin-antitoxin_system_VapC_fami	0	0	0	0	0		
+WP_012475990.1|tra|NC_010841.1|Martinezella_rhizogenes|traA|Ti-type_conjugative_transfer_relaxase_Tr	tra	NC_010841.1	traA	0	0	0	0	9	28.0	45.8
+WP_012475992.1|tra|NC_010841.1|Martinezella_rhizogenes|-|conjugal_transfer_protein_TraB	tra	NC_010841.1	conjugal_transfer_protein_TraB	0	0	0	0	2	43.7	50.0
+WP_012475995.1|tra|NC_010841.1|Martinezella_rhizogenes|-|transcriptional_repressor_TraM	tra	NC_010841.1	transcriptional_repressor_TraM	0	0	0	0	0		
+WP_012475997.1|tra|NC_010841.1|Martinezella_rhizogenes|trbI|IncP-type_conjugal_transfer_protein_TrbI	tra	NC_010841.1	trbI	0	0	0	0	1	29.4	29.4
+WP_012475998.1|tra|NC_010841.1|Martinezella_rhizogenes|trbH|conjugal_transfer_protein_TrbH	tra	NC_010841.1	trbH	0	0	0	0	0		
+WP_012475999.1|tra|NC_010841.1|Martinezella_rhizogenes|trbG|P-type_conjugative_transfer_protein_TrbG	tra	NC_010841.1	trbG	0	0	0	0	0		
+WP_012476002.1|tra|NC_010841.1|Martinezella_rhizogenes|trbK|entry_exclusion_protein_TrbK	tra	NC_010841.1	trbK	0	0	0	0	0		
+WP_012476006.1|vir|NC_010841.1|Martinezella_rhizogenes|-|TrbC_VirB2_family_protein	vir	NC_010841.1	TrbC_VirB2_family_protein	0	0	0	0	0		
+WP_234888145.1|rep_partition|NC_010841.1|Martinezella_rhizogenes|repA|plasmid_partitioning_protein_RepA	rep_partition	NC_010841.1	repA	0	0	0	0	1	39.5	39.5
+WP_012476010.1|rep_partition|NC_010841.1|Martinezella_rhizogenes|repB|plasmid_partitioning_protein_RepB	rep_partition	NC_010841.1	repB	0	0	0	0	1	33.7	33.7
+WP_012476011.1|rep_partition|NC_010841.1|Martinezella_rhizogenes|repC|plasmid_replication_protein_RepC	rep_partition	NC_010841.1	repC	0	0	0	0	0		
+WP_371338341.1|vir|NC_010841.1|Martinezella_rhizogenes|-|type_IV_secretion_system_lipoprotein_Vir	vir	NC_010841.1	type_IV_secretion_system_lipoprotein_Vir	0	0	0	0	0		
+WP_010900354.1|vir|NC_010841.1|Martinezella_rhizogenes|-|conjugal_transfer_protein_VirC2	vir	NC_010841.1	conjugal_transfer_protein_VirC2	0	0	0	0	2	37.5	40.2
+WP_173992072.1|vir|NC_010841.1|Martinezella_rhizogenes|-|virA_G_regulated_protein	vir	NC_010841.1	virA_G_regulated_protein	0	0	0	0	5	24.9	27.3
+WP_235675768.1|vir|NC_010841.1|Martinezella_rhizogenes|-|virA_G_regulated_protein	vir	NC_010841.1	virA_G_regulated_protein	0	0	0	0	2	29.8	33.3
+BAA87799.1|TDNA|AB016260.1|Agrobacterium_tumefaciens|tiorf174|	TDNA	AB016260.1	tiorf174	0	0	0	0	1	34.5	34.5
+BAA87800.1|TDNA|AB016260.1|Agrobacterium_tumefaciens|tiorf175|	TDNA	AB016260.1	tiorf175	0	0	0	0	7	40.0	47.4
+BAA87801.1|TDNA|AB016260.1|Agrobacterium_tumefaciens|tiorf176|	TDNA	AB016260.1	tiorf176	0	0	0	0	4	52.8	75.0
+FAM_ACS|T1|Plant_PON40589_1_hypothetical_	FAM_ACS		FAM_ACS|T1	2	2	2	2	4	52.0	64.7
+FAM_ACS|T1|Agro_WP_217577425_1_glyceropho	FAM_ACS		FAM_ACS|T1	29	57	29	59	39	61.5	74.5
+FAM_ACS|T1|Agro_WP_269347785_1_hypothetic	FAM_ACS		FAM_ACS|T1	0	0	0	0	3	52.5	52.5
+FAM_ACS|T1|Agro_WP_280174108_1_glyceropho	FAM_ACS		FAM_ACS|T1	0	0	5	7	24	30.8	41.0
+FAM_ACS|T1|Agro_WP_192068445_1_MULTISPECI	FAM_ACS		FAM_ACS|T1	0	0	0	0	5	34.9	36.8
+FAM_ACS|T1|Plant_AIK35201_1_Acs_Ipomoea_b	FAM_ACS		FAM_ACS|T1	0	0	0	0	0		
+FAM_ACS|T1|Agro_WP_209160150_1_MULTISPECI	FAM_ACS		FAM_ACS|T1	0	0	0	0	0		
+FAM_ACS|T1|Plant_GMD67474_1_agrocinopine_	FAM_ACS		FAM_ACS|T1	0	0	0	0	5	28.4	32.0
+FAM_ACS|T1|Plant_WML69206_1_agrocinopine_	FAM_ACS		FAM_ACS|T1	0	0	0	0	0		
+UXT45073.1|vir|CP048550.1|Agrobacterium_tumefaciens|virB11|P-type_DNA_transfer_ATPase_VirB11	vir	CP048550.1	virB11	0	0	0	0	2	33.8	37.1
+UXT45017.1|vir|CP048550.1|Agrobacterium_tumefaciens|-|protein_virD3	vir	CP048550.1	protein_virD3	0	0	0	0	2	38.0	44.7
+WP_258115254.1|rep_partition|NZ_JANPYJ010000005.1|Agrobacterium_fabrum|-|nucleotidyl_transferase_AbiEii_AbiGii_to	rep_partition	NZ_JANPYJ010000005.1	nucleotidyl_transferase_AbiEii_AbiGii_to	0	0	0	0	2	47.0	50.0
+AAK90960.1|TDNA|AE007871.2|Agrobacterium_fabrum_str.|-|5_protein	TDNA	AE007871.2	5_protein	0	0	0	0	0		
+AAK90962.1|TDNA|AE007871.2|Agrobacterium_fabrum_str.|rolB|C__protein	TDNA	AE007871.2	rolB	0	0	0	0	2	26.2	30.0
+ABW89728.1|TDNA|AE007871.2|Agrobacterium_fabrum_str.|-|hypothetical_protein	TDNA	AE007871.2	hypothetical_protein	0	0	0	0	0		
+AAK90965.1|opine_related|AE007871.2|Agrobacterium_fabrum_str.|mas1|Mannopine_synthase	opine_related	AE007871.2	mas1	0	0	3	3	97	30.7	54.1
+ABW89729.1|TDNA|AE007871.2|Agrobacterium_fabrum_str.|-|hypothetical_protein	TDNA	AE007871.2	hypothetical_protein	0	0	0	0	0		
+ABW89727.1|TDNA|AE007871.2|Agrobacterium_fabrum_str.|-|hypothetical_protein	TDNA	AE007871.2	hypothetical_protein	0	0	0	0	0		
+AAK90977.1|opine_related|AE007871.2|Agrobacterium_fabrum_str.|noxA|D-nopaline_dehydrogenase	opine_related	AE007871.2	noxA	1	1	1	1	17	43.2	52.6
+AAK90979.1|opine_related|AE007871.2|Agrobacterium_fabrum_str.|noxB|D-nopaline_dehydrogenase	opine_related	AE007871.2	noxB	0	0	0	0	2	27.4	28.9
+AAK90987.2|opine_related|AE007871.2|Agrobacterium_fabrum_str.|nocR|transcriptional_regulator__LysR_family_f	opine_related	AE007871.2	nocR	0	0	0	0	12	32.5	46.8
+AAK91002.1|rep_partition|AE007871.2|Agrobacterium_fabrum_str.|repB|replication_protein	rep_partition	AE007871.2	repB	0	0	0	0	0		
+FAM_ACS|T2|WP_157835807.1	FAM_ACS		FAM_ACS|T2	0	0	0	0	1	30.3	30.3
+FAM_ACS|T2|WP_234887914.1	FAM_ACS		FAM_ACS|T2	0	0	0	0	1	31.8	31.8
+FAM_ACS|T2|WP_247038584.1	FAM_ACS		FAM_ACS|T2	0	0	0	0	0		
+FAM_ACS|T2|WP_309547436.1	FAM_ACS		FAM_ACS|T2	0	0	0	0	3	33.8	34.4
+FAM_ACS|T2|WP_234889283.1	FAM_ACS		FAM_ACS|T2	0	0	1	1	3	31.0	43.6
+FAM_ACS|T2|WP_234644451.1	FAM_ACS		FAM_ACS|T2	0	0	2	2	15	32.7	41.7
+FAM_ACS|T2|UTN42808.1	FAM_ACS		FAM_ACS|T2	0	0	0	0	1	27.2	27.2
+FAM_ACS|T2|WP_234891170.1	FAM_ACS		FAM_ACS|T2	0	0	0	0	1	32.7	32.7
+FAM_ACS|T2|NEK20670.1	FAM_ACS		FAM_ACS|T2	0	0	1	1	2	35.0	35.8
+FAM_ACS|T2|WP_234711736.1	FAM_ACS		FAM_ACS|T2	0	0	1	1	4	32.4	42.9
+FAM_CUS|T1|Plant_VFQ61161.1_unnamed_prote	FAM_CUS		FAM_CUS|T1	0	0	7	7	8	36.4	40.0
+FAM_CUS|T1|Plant_KAL3512627.1_hypothetica	FAM_CUS		FAM_CUS|T1	0	0	0	0	1	29.4	29.4
+FAM_CUS|T1|Plant_KAK9667948.1_hypothetica	FAM_CUS		FAM_CUS|T1	0	0	0	0	3	46.2	66.7
+FAM_CUS|T1|Plant_KAH7432836.1_hypothetica	FAM_CUS		FAM_CUS|T1	0	0	0	0	1	34.6	34.6
+FAM_CUS|T1|Agro_WP_174054202.1_hypothetic	FAM_CUS		FAM_CUS|T1	2	2	7	9	8	44.5	54.0
+FAM_CUS|T2|AIV42064.1	FAM_CUS		FAM_CUS|T2	0	0	0	0	0		
+FAM_CUS|T2|WP_377257826.1	FAM_CUS		FAM_CUS|T2	0	0	0	0	0		
+FAM_CUS|T2|WP_085423872.1	FAM_CUS		FAM_CUS|T2	0	0	0	0	0		
+FAM_CUS|T2|ABW33569.1	FAM_CUS		FAM_CUS|T2	0	0	0	0	0		
+FAM_CUS|T2|WP_174054203.1	FAM_CUS		FAM_CUS|T2	9	16	26	46	31	38.8	65.3
+FAM_CUS|T2|MCF1502142.1	FAM_CUS		FAM_CUS|T2	0	0	0	0	0		
+FAM_CUS|T2|MCF1501979.1	FAM_CUS		FAM_CUS|T2	1	1	1	1	1	56.4	56.4
+FAM_CUS|T2|UVY99729.1	FAM_CUS		FAM_CUS|T2	2	2	2	2	3	56.5	75.4
+FAM_SUS|T1|Agro_WP_173994934_1_MULTISPECI	FAM_SUS		FAM_SUS|T1	0	0	0	0	0		
+FAM_SUS|T1|Agro_WP_034521016_1_MULTISPECI	FAM_SUS		FAM_SUS|T1	7	8	21	29	28	45.8	55.2
+FAM_SUS|T1|Agro_WP_107028680_1_hypothetic	FAM_SUS		FAM_SUS|T1	0	0	0	0	4	55.3	64.1
+FAM_SUS|T1|Plant_Trema_orientale_isolate_	FAM_SUS		FAM_SUS|T1	0	0	0	0	0		
+FAM_SUS|T1|Plant_Quillaja_saponaria_isola	FAM_SUS		FAM_SUS|T1	0	0	0	0	0		
+FAM_SUS|T1|Plant_Euphorbia_esula_cultivar	FAM_SUS		FAM_SUS|T1	3	4	5	6	26	28.4	60.6
+FAM_SUS|T1|Plant_Parasponia_andersonii_is	FAM_SUS		FAM_SUS|T1	0	0	0	0	0		
+FAM_SUS|T1|Plant_Diospyros_kaki_Taishu_DN	FAM_SUS		FAM_SUS|T1	0	0	0	0	6	23.8	36.4
+FAM_SUS|T1|Plant_Nicotiana_tabacum_whole_	FAM_SUS		FAM_SUS|T1	0	0	0	0	2	47.2	50.7
+FAM_SUS|T1|Plant_PON40587_1_Parasponia_an	FAM_SUS		FAM_SUS|T1	0	0	0	0	0		
+FAM_SUS|T1|Plant_PON40591_1_Parasponia_an	FAM_SUS		FAM_SUS|T1	0	0	0	0	0		
+FAM_SUS|T1|Plant_PON40593_1_Parasponia_an	FAM_SUS		FAM_SUS|T1	0	0	0	0	0		
+AAB95101.1|tra|AF242881.1|Agrobacterium_tumefaciens|trbF|trbF	tra	AF242881.1	trbF	0	0	0	0	1	38.0	38.0
+AAB95099.1|tra|AF242881.1|Agrobacterium_tumefaciens|trbK|trbK	tra	AF242881.1	trbK	0	0	0	0	0		
+AAB95096.1|tra|AF242881.1|Agrobacterium_tumefaciens|trbD|trbD	tra	AF242881.1	trbD	1	1	1	1	1	89.6	89.6
+AAB95104.1|tra|AF242881.1|Agrobacterium_tumefaciens|traI|traI	tra	AF242881.1	traI	0	0	0	0	0		
+AAF77149.1|rep_partition|AF242881.1|Agrobacterium_tumefaciens|repA|repA	rep_partition	AF242881.1	repA	0	0	0	0	9	45.5	55.1
+AAF77151.1|rep_partition|AF242881.1|Agrobacterium_tumefaciens|repC|repC	rep_partition	AF242881.1	repC	0	0	0	0	1	54.8	54.8
+AAF77156.1|vir|AF242881.1|Agrobacterium_tumefaciens|virH1|virH1	vir	AF242881.1	virH1	0	0	0	0	60	32.0	50.0
+AAF77157.1|vir|AF242881.1|Agrobacterium_tumefaciens|virH2|virH2	vir	AF242881.1	virH2	0	0	0	0	11	30.9	52.8
+AAF77159.1|vir|AF242881.1|Agrobacterium_tumefaciens|virA|virA	vir	AF242881.1	virA	0	0	0	0	34	34.7	50.0
+AAF77160.1|vir|AF242881.1|Agrobacterium_tumefaciens|virJ|virJ	vir	AF242881.1	virJ	0	0	0	0	0		
+AAF77161.1|vir|AF242881.1|Agrobacterium_tumefaciens|virB1|virB1	vir	AF242881.1	virB1	0	0	0	0	1	48.8	48.8
+AAF77163.1|vir|AF242881.1|Agrobacterium_tumefaciens|virB3|virB3	vir	AF242881.1	virB3	0	0	0	0	1	40.9	40.9
+AAF77164.1|vir|AF242881.1|Agrobacterium_tumefaciens|virB4|virB4	vir	AF242881.1	virB4	0	0	0	0	2	36.9	41.3
+AAF77166.1|vir|AF242881.1|Agrobacterium_tumefaciens|virB6|virB6	vir	AF242881.1	virB6	0	0	0	0	0		
+AAF77167.1|vir|AF242881.1|Agrobacterium_tumefaciens|virB7|virB7	vir	AF242881.1	virB7	0	0	0	0	0		
+AAF77169.1|vir|AF242881.1|Agrobacterium_tumefaciens|virB9|virB9	vir	AF242881.1	virB9	0	0	0	0	0		
+AAF77170.1|vir|AF242881.1|Agrobacterium_tumefaciens|virB10|virB10	vir	AF242881.1	virB10	0	0	0	0	4	32.6	36.0
+AAA27408.1|vir|AF242881.1|Agrobacterium_tumefaciens|virC2|virC2	vir	AF242881.1	virC2	0	0	0	0	0		
+AAA27407.1|vir|AF242881.1|Agrobacterium_tumefaciens|virC1|virC1	vir	AF242881.1	virC1	0	0	0	0	3	26.5	44.9
+AAA98390.1|vir|AF242881.1|Agrobacterium_tumefaciens|virD2|virD2	vir	AF242881.1	virD2	0	0	0	0	24	38.8	46.7
+AAF77173.1|vir|AF242881.1|Agrobacterium_tumefaciens|virD3|virD3	vir	AF242881.1	virD3	0	0	0	0	1	29.2	29.2
+AAF77175.1|vir|AF242881.1|Agrobacterium_tumefaciens|virD5|virD5	vir	AF242881.1	virD5	0	0	0	0	2	34.5	36.5
+AAF77176.1|vir|AF242881.1|Agrobacterium_tumefaciens|virE1|virE1	vir	AF242881.1	virE1	0	0	0	0	0		
+AAC72019.1|vir|AF242881.1|Agrobacterium_tumefaciens|virF|virF	vir	AF242881.1	virF	0	0	0	0	0		
+WP_144409131.1|TDNA|NZ_CP007228.1|Agrobacterium_tumefaciens|-|hypothetical_protein	TDNA	NZ_CP007228.1	hypothetical_protein	0	0	0	0	0		
+WP_080864006.1|TDNA|NZ_CP011249.1|Agrobacterium_tumefaciens|-|M24_family_metallopeptidase	TDNA	NZ_CP011249.1	M24_family_metallopeptidase	0	0	0	0	116	30.5	40.0
+WP_015084509.1|tra|NZ_CP118250.1|Martinezella_rhizogenes|traF|conjugative_transfer_signal_peptidase_Tr	tra	NZ_CP118250.1	traF	0	0	0	0	1	35.6	35.6
+WP_174080915.1|tra|NZ_CP118250.1|Martinezella_rhizogenes|trbL|P-type_conjugative_transfer_protein_TrbL	tra	NZ_CP118250.1	trbL	0	0	0	0	1	31.3	31.3
+WP_174080916.1|tra|NZ_CP118250.1|Martinezella_rhizogenes|trbK|entry_exclusion_protein_TrbK	tra	NZ_CP118250.1	trbK	0	0	0	0	0		
+WP_174080920.1|tra|NZ_CP118250.1|Martinezella_rhizogenes|trbB|P-type_conjugative_transfer_ATPase_TrbB	tra	NZ_CP118250.1	trbB	0	0	0	0	9	37.7	50.5
+WP_070167486.1|tra|NZ_CP118263.1|Gillisella_vitis|traF|conjugative_transfer_signal_peptidase_Tr	tra	NZ_CP118263.1	traF	0	0	0	0	0		
+WP_070167550.1|tra|NZ_CP118263.1|Gillisella_vitis|-|conjugal_transfer_protein_TraB	tra	NZ_CP118263.1	conjugal_transfer_protein_TraB	0	0	0	0	0		
+WP_060716573.1|vir|NZ_LMVL02000009.1|Gillisella_vitis|virB2|pilin_major_subunit_VirB2	vir	NZ_LMVL02000009.1	virB2	0	0	0	0	0		
+WP_060716607.1|vir|NZ_LMVL02000009.1|Gillisella_vitis|virB5|pilin_minor_subunit_VirB5	vir	NZ_LMVL02000009.1	virB5	0	0	0	0	0		
+WP_060716583.1|vir|NZ_LMVL02000009.1|Gillisella_vitis|virD1|T-DNA_border_endonuclease_subunit_VirD1	vir	NZ_LMVL02000009.1	virD1	0	0	0	0	0		
+WP_174089376.1|TDNA|NZ_CP118263.1|Gillisella_vitis|-|RolB_family_protein	TDNA	NZ_CP118263.1	RolB_family_protein	0	0	0	0	0		
+WP_419178744.1|TDNA|NZ_CP118263.1|Gillisella_vitis|-|RolB_family_protein	TDNA	NZ_CP118263.1	RolB_family_protein	0	0	0	0	0		
+AAZ50394.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|-|orf_Bo003	TDNA	DQ058764.1	orf_Bo003	1	2	4	7	168	37.2	59.2
+AAZ50396.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|-|orf_Bo005	TDNA	DQ058764.1	orf_Bo005	0	0	0	0	1	30.6	30.6
+AAZ50399.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|ipt|Ipt	TDNA	DQ058764.1	ipt	0	0	0	0	1	35.1	35.1
+AAZ50400.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|tml|Tml	TDNA	DQ058764.1	tml	0	0	0	0	0		
+WP_010974851.1|opine_related|NZ_CP048572.1|Agrobacterium_tumefaciens|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_CP048572.1	ABC_transporter_ATP-binding_protein	0	0	191	205	324	34.4	52.9
+WP_010974852.1|opine_related|NZ_CP048572.1|Agrobacterium_tumefaciens|-|aliphatic_sulfonate_ABC_transporter_subs	opine_related	NZ_CP048572.1	aliphatic_sulfonate_ABC_transporter_subs	0	0	0	0	4	31.2	44.7
+WP_010974859.1|opine_related|NZ_CP048572.1|Agrobacterium_tumefaciens|-|ABC_transporter_permease	opine_related	NZ_CP048572.1	ABC_transporter_permease	0	0	2	2	11	35.3	41.7
+WP_045023428.1|opine_related|NZ_CP048572.1|Agrobacterium_tumefaciens|-|sugar_ABC_transporter_substrate-binding_	opine_related	NZ_CP048572.1	sugar_ABC_transporter_substrate-binding_	0	0	0	0	0		
+WP_010974864.1|opine_related|NZ_CP048572.1|Agrobacterium_tumefaciens|-|ABC_transporter_substrate-binding_protei	opine_related	NZ_CP048572.1	ABC_transporter_substrate-binding_protei	0	0	1	1	17	37.0	50.8
+WP_172691287.1|opine_related|NZ_CP048572.1|Agrobacterium_tumefaciens|-|dipeptide_ABC_transporter_ATP-binding_pr	opine_related	NZ_CP048572.1	dipeptide_ABC_transporter_ATP-binding_pr	0	0	0	0	207	37.1	57.1
+WP_172691288.1|opine_related|NZ_CP048572.1|Agrobacterium_tumefaciens|-|ABC_transporter_permease	opine_related	NZ_CP048572.1	ABC_transporter_permease	0	0	0	0	3	37.5	40.2
+WP_045023439.1|opine_related|NZ_CP048572.1|Agrobacterium_tumefaciens|-|ABC_transporter_permease	opine_related	NZ_CP048572.1	ABC_transporter_permease	0	0	1	2	4	36.3	46.3
+WP_172691290.1|opine_related|NZ_CP048576.1|Agrobacterium_tumefaciens|-|ABC_transporter_ATP-binding_protein_perm	opine_related	NZ_CP048576.1	ABC_transporter_ATP-binding_protein_perm	0	0	2	2	516	44.7	68.0
+WP_172691106.1|opine_related|NZ_CP048576.1|Agrobacterium_tumefaciens|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_CP048576.1	ABC_transporter_ATP-binding_protein	0	0	0	0	15	32.9	51.6
+WP_172691105.1|opine_related|NZ_CP048576.1|Agrobacterium_tumefaciens|-|ABC_transporter_permease	opine_related	NZ_CP048576.1	ABC_transporter_permease	0	0	0	0	1	36.1	36.1
+WP_172691292.1|opine_related|NZ_CP048572.1|Agrobacterium_tumefaciens|-|ornithine_cyclodeaminase	opine_related	NZ_CP048572.1	ornithine_cyclodeaminase	0	0	0	0	4	26.0	27.0
+WP_172691097.1|rep_partition|NZ_CP048576.1|Agrobacterium_tumefaciens|-|ParB_N-terminal_domain-containing_protei	rep_partition	NZ_CP048576.1	ParB_N-terminal_domain-containing_protei	1	1	3	3	3	41.1	53.3
+WP_244519677.1|opine_related|NZ_CP048554.1|Agrobacterium_tumefaciens|-|ABC_transporter_permease	opine_related	NZ_CP048554.1	ABC_transporter_permease	0	0	1	1	14	31.5	44.8
+WP_172691104.1|opine_related|NZ_CP048576.1|Agrobacterium_tumefaciens|-|ABC_transporter_permease	opine_related	NZ_CP048576.1	ABC_transporter_permease	0	0	0	0	0		
+WP_174082314.1|opine_related|NZ_CP048567.1|Agrobacterium_tumefaciens|-|ABC_transporter_permease	opine_related	NZ_CP048567.1	ABC_transporter_permease	0	0	1	2	9	32.4	42.6
+WP_010974860.1|opine_related|NZ_CP048521.1|Agrobacterium_tumefaciens|-|sugar_ABC_transporter_ATP-binding_protei	opine_related	NZ_CP048521.1	sugar_ABC_transporter_ATP-binding_protei	0	0	0	0	297	48.1	66.7
+WP_010974800.1|opine_related|NZ_CP048521.1|Agrobacterium_tumefaciens|-|aliphatic_sulfonate_ABC_transporter_subs	opine_related	NZ_CP048521.1	aliphatic_sulfonate_ABC_transporter_subs	0	0	1	1	8	36.5	50.9
+WP_010974869.1|opine_related|NZ_CP048521.1|Agrobacterium_tumefaciens|ssuC|aliphatic_sulfonate_ABC_transporter_perm	opine_related	NZ_CP048521.1	ssuC	1	1	3	3	12	36.2	61.0
+WP_010974799.1|opine_related|NZ_CP048521.1|Agrobacterium_tumefaciens|-|ABC_transporter_ATP-binding_protein	opine_related	NZ_CP048521.1	ABC_transporter_ATP-binding_protein	1	1	9	11	151	34.5	73.1
+WP_010974894.1|tra|NZ_CP048521.1|Agrobacterium_tumefaciens|traG|Ti-type_conjugative_transfer_system_prot	tra	NZ_CP048521.1	traG	0	0	0	0	1	30.3	30.3
+WP_010974898.1|tra|NZ_CP048526.1|Agrobacterium_tumefaciens|-|TraH_family_protein	tra	NZ_CP048526.1	TraH_family_protein	0	0	0	0	2	34.0	34.7
+WP_010974816.1|TDNA|NZ_CP048576.1|Agrobacterium_tumefaciens|-|glycerophosphodiester_phosphodiesterase_	TDNA	NZ_CP048576.1	glycerophosphodiester_phosphodiesterase_	0	0	0	0	0		
+WP_010974815.1|TDNA|NZ_CP048521.1|Agrobacterium_tumefaciens|-|hypothetical_protein	TDNA	NZ_CP048521.1	hypothetical_protein	0	0	0	0	0		
+WP_010974822.1|TDNA|NZ_CP048521.1|Agrobacterium_tumefaciens|-|RolB_family_protein	TDNA	NZ_CP048521.1	RolB_family_protein	0	0	0	0	0		
+WP_010974826.1|TDNA|NZ_CP048576.1|Agrobacterium_tumefaciens|nos|D-nopaline_dehydrogenase	TDNA	NZ_CP048576.1	nos	0	0	8	10	9	37.0	41.1
+WP_010891456.1|opine_related|NZ_CP048576.1|Agrobacterium_tumefaciens|-|ornithine_cyclodeaminase	opine_related	NZ_CP048576.1	ornithine_cyclodeaminase	0	0	0	0	58	25.4	35.6
+WP_010891455.1|opine_related|NZ_CP048576.1|Agrobacterium_tumefaciens|-|NAD_NADP_octopine_nopaline_dehydrogenase	opine_related	NZ_CP048576.1	NAD_NADP_octopine_nopaline_dehydrogenase	1	1	1	1	1	64.7	64.7
+WP_010891454.1|opine_related|NZ_CP048576.1|Agrobacterium_tumefaciens|rocF|arginase	opine_related	NZ_CP048576.1	rocF	0	0	171	174	513	30.2	57.1
+WP_003523894.1|opine_related|NZ_CP048521.1|Agrobacterium_tumefaciens|nocM|nopaline_ABC_transporter_permease_NocM	opine_related	NZ_CP048521.1	nocM	0	0	3	5	5	37.6	41.2
+WP_010891638.1|opine_related|NZ_CP048521.1|Agrobacterium_tumefaciens|nocQ|nopaline_ABC_transporter_permease_NocQ	opine_related	NZ_CP048521.1	nocQ	0	0	0	0	1	27.1	27.1
+WP_010891637.1|opine_related|NZ_CP048521.1|Agrobacterium_tumefaciens|nocT|nopaline_ABC_transporter_substrate-bindi	opine_related	NZ_CP048521.1	nocT	0	0	1	3	10	30.5	35.7
+WP_010974830.1|opine_related|NZ_CP048521.1|Agrobacterium_tumefaciens|nocP|nopaline_ABC_transporter_ATP-binding_pro	opine_related	NZ_CP048521.1	nocP	1	1	1	2	84	37.8	62.8
+WP_172691103.1|opine_related|NZ_CP048576.1|Agrobacterium_tumefaciens|-|ABC_transporter_substrate-binding_protei	opine_related	NZ_CP048576.1	ABC_transporter_substrate-binding_protei	0	0	0	0	2	36.1	45.6
+AAZ50402.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|-|orf_Bo011	TDNA	DQ058764.1	orf_Bo011	3	4	3	4	5	55.9	65.0
+AAZ50403.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|-|orf_Bo012	TDNA	DQ058764.1	orf_Bo012	0	0	0	0	0		
+AAZ50404.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|-|orf_Bo013	TDNA	DQ058764.1	orf_Bo013	0	0	1	1	2	40.0	41.5
+AAZ50405.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|-|orf_Bo014	TDNA	DQ058764.1	orf_Bo014	0	0	2	2	3	38.4	39.7
+AAZ50406.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|-|orf_Bo015	TDNA	DQ058764.1	orf_Bo015	0	0	0	0	7	35.6	40.0
+AAZ50407.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|lecH|LecH	TDNA	DQ058764.1	lecH	0	0	0	0	100	62.5	71.9
+AAZ50408.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|lecG|LecG	TDNA	DQ058764.1	lecG	0	0	0	0	86	48.5	68.0
+AAZ50409.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|lecF|LecF	TDNA	DQ058764.1	lecF	0	0	1	1	1	38.1	38.1
+AAZ50410.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|lecE|LecE	TDNA	DQ058764.1	lecE	0	0	1	1	1	30.9	30.9
+AAZ50414.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|lecR|LecR	TDNA	DQ058764.1	lecR	0	0	3	5	29	33.9	46.9
+AAZ50415.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|lecA|LecA	TDNA	DQ058764.1	lecA	0	0	0	0	4	32.8	36.5
+AAZ50417.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|-|orf_Bo026	TDNA	DQ058764.1	orf_Bo026	0	0	0	0	0		
+AAZ50418.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|-|orf_Bo027	TDNA	DQ058764.1	orf_Bo027	0	0	0	0	1	34.7	34.7
+AAZ50419.1|TDNA|DQ058764.1|Agrobacterium_tumefaciens|-|orf_Bo028	TDNA	DQ058764.1	orf_Bo028	0	0	0	0	1	25.2	25.2
+AAZ50424.1|opine_related|DQ058764.1|Agrobacterium_tumefaciens|motC|MotC	opine_related	DQ058764.1	motC	0	0	1	1	8	33.5	44.9
+AAZ50433.1|opine_related|DQ058764.1|Agrobacterium_tumefaciens|mocE|MocE	opine_related	DQ058764.1	mocE	0	0	1	1	16	31.6	44.0
+AAZ50434.1|opine_related|DQ058764.1|Agrobacterium_tumefaciens|mocD|MocD	opine_related	DQ058764.1	mocD	0	0	0	0	14	28.0	30.9
+AAZ50436.1|opine_related|DQ058764.1|Agrobacterium_tumefaciens|mocC|MocC	opine_related	DQ058764.1	mocC	0	0	433	1021	517	39.5	73.9
+AAZ50437.1|opine_related|DQ058764.1|Agrobacterium_tumefaciens|mocB|MocB	opine_related	DQ058764.1	mocB	1	1	1	1	514	27.1	58.7
+AAZ50438.1|opine_related|DQ058764.1|Agrobacterium_tumefaciens|mocA|MocA	opine_related	DQ058764.1	mocA	1	1	370	667	501	42.6	70.8
+AAZ50474.1|rep_partition|DQ058764.1|Agrobacterium_tumefaciens|repA|RepA	rep_partition	DQ058764.1	repA	0	0	0	0	1	26.4	26.4
+AAZ50475.1|rep_partition|DQ058764.1|Agrobacterium_tumefaciens|repB|RepB	rep_partition	DQ058764.1	repB	0	0	0	0	0		
+AAZ50476.1|rep_partition|DQ058764.1|Agrobacterium_tumefaciens|repC|RepC	rep_partition	DQ058764.1	repC	0	0	0	0	1	41.2	41.2
+AAZ50539.1|vir|DQ058764.1|Agrobacterium_tumefaciens|virE3|VirE3	vir	DQ058764.1	virE3	0	0	0	0	1	26.4	26.4
+AAZ50588.1|tra|DQ058764.1|Agrobacterium_tumefaciens|traB|TraB	tra	DQ058764.1	traB	0	0	0	0	0		

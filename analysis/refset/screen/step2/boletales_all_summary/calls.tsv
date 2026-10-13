@@ -1,0 +1,16 @@
+gca	organism	release_date	contig	contig_len	start	end	strand	family	subgroup	score	gap	orf	dmnd_subject	dmnd_cat	dmnd_lineage	dmnd_pident	dmnd_scov	dmnd_strand	known_same_lineage	known_names
+GCA_038091335.1	Phylloporus arenicola	2024-04-12	JBBPOH010003891.1	2860	1999	2400	-	ACS	acs	43	43	orf226779	WP_234908531.1|opine_related|NZ_CP118250.1|Martinezella_rhizogenes|-|glycerophosphodiester_phosphodiesterase_	opine_related		24.1	0.83	-		
+GCA_038092615.1	Boletus sphaerocystis	2024-04-12	JBBPQR010004770.1	2935	709	1236	-	CUS	cusrel181	187	187	orf212674	FAM_CUS|T1|Plant_VFQ61161.1_unnamed_prote	CUS	T1	37.1	0.95	-		
+GCA_038090935.1	Hortiboletus campestris	2024-04-12	JBBPNN010000210.1	37404	34074	34499	-	CUS	cusrel181	153	153	orf100231	FAM_CUS|T1|Plant_VFQ61161.1_unnamed_prote	CUS	T1	38.8	0.93	-		
+GCA_038090255.1	Austroboletus niveus	2024-04-12	JBBPMJ010000569.1	21273	8580	8927	+	CUS	cusrel181	63	63	orf243495	WP_010900213.1|opine_related|NC_002575.1|Martinezella_rhizogenes|-|cucumopine_synthase-related_protein	opine_related		29.5	0.77	+		
+GCA_038090175.1	Austroboletus eburneus	2024-04-12	JBBPMF010000035.1	103808	44361	44708	-	CUS	cusrel181	59	59	orf40887	WP_010900213.1|opine_related|NC_002575.1|Martinezella_rhizogenes|-|cucumopine_synthase-related_protein	opine_related		40.0	0.28	-		
+GCA_041722735.1	Tylopilus sp. UT-M0000375	2024-09-02	JBBPWW010000008.1	72182	49670	49963	+	CUS	cusrel181	47	47	orf4634	WP_010900213.1|opine_related|NC_002575.1|Martinezella_rhizogenes|-|cucumopine_synthase-related_protein	opine_related		36.5	0.47	+		
+GCA_041722875.1	Tylopilus sp. UT-M0000018	2024-09-02	JBBPXG010000175.1	24678	1387	1680	+	CUS	cusrel181	44	44	orf56486	WP_010900213.1|opine_related|NC_002575.1|Martinezella_rhizogenes|-|cucumopine_synthase-related_protein	opine_related		35.3	0.47	+		
+GCA_038094355.1	Afroboletus lepidellus	2024-04-12	JBBPUA010000235.1	24897	8428	8628	+	ACS	gdpd_meso	47	47	orf73592	FAM_ACS|T1|Agro_WP_217577425_1_glyceropho	ACS	T1	62.4	0.22	+	new_species_name	
+GCA_038092615.1	Boletus sphaerocystis	2024-04-12	JBBPQR010004770.1	2935	1146	1766	-	CUS	mis	182	182	orf212673	FAM_CUS|T1|Plant_VFQ61161.1_unnamed_prote	CUS	T1	37.1	0.95	-		
+GCA_038090935.1	Hortiboletus campestris	2024-04-12	JBBPNN010000210.1	37404	34457	35203	-	CUS	mis	166	166	orf100229	FAM_CUS|T1|Plant_VFQ61161.1_unnamed_prote	CUS	T1	38.8	0.93	-		
+GCA_041722735.1	Tylopilus sp. UT-M0000375	2024-09-02	JBBPWW010000300.1	16582	4420	4854	+	CUS	mis	74	74	orf50279	FAM_CUS|T2|WP_174054203.1	CUS	T2	34.8	0.96	+		
+GCA_038094335.1	Tylopilus aff. striatulus	2024-04-12	JBBPTY010000876.1	12918	6432	6866	-	CUS	mis	73	73	orf141831	FAM_CUS|T2|WP_174054203.1	CUS	T2	34.1	0.96	-		
+GCA_041722875.1	Tylopilus sp. UT-M0000018	2024-09-02	JBBPXG010001736.1	8242	6432	6866	+	CUS	mis	72	72	orf203179	FAM_CUS|T2|WP_174054203.1	CUS	T2	34.1	0.96	+		
+GCA_038094335.1	Tylopilus aff. striatulus	2024-04-12	JBBPTY010000698.1	14484	3974	4258	+	CUS	mis	34	34	orf124142	FAM_CUS|T2|WP_174054203.1	CUS	T2	28.7	0.97	+		
+GCA_024613165.1	Pisolithus albus	2022-08-10	JANFAB010000002.1	2142256	1825272	1825508	+	CUS	mis	32	32	orf25139								

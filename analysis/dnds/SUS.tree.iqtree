@@ -1,0 +1,171 @@
+IQ-TREE 3.1.1 built Apr  8 2026
+
+Input file name: SUS.codon.fna
+Type of analysis: tree reconstruction
+Random seed number: 204127
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 31 sequences with 255 nucleotide sites
+Number of constant sites: 32 (= 12.549% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 32 (= 12.549% of all sites)
+Number of parsimony informative sites: 197
+Number of distinct site patterns: 216
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+G4
+
+Rate parameter R:
+
+  A-C: 1.6461
+  A-G: 7.7680
+  A-T: 1.2081
+  C-G: 1.3569
+  C-T: 5.1944
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.2287
+  pi(C) = 0.2735
+  pi(G) = 0.238
+  pi(T) = 0.2598
+
+Rate matrix Q:
+
+  A     -1.17    0.2016    0.8276    0.1405
+  C    0.1686   -0.9174    0.1446    0.6043
+  G    0.7954    0.1661    -1.078    0.1163
+  T    0.1237     0.636    0.1065   -0.8663
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 1.122
+
+ Category  Relative_rate  Proportion
+  1         0.1607         0.25
+  2         0.5106         0.25
+  3         1.018          0.25
+  4         2.311          0.25
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -3654.1418 (s.e. 115.5567)
+Unconstrained log-likelihood (without tree): -1320.8511
+Number of free parameters (#branches + #model parameters): 68
+Akaike information criterion (AIC) score: 7444.2836
+Corrected Akaike information criterion (AICc) score: 7494.7352
+Bayesian information criterion (BIC) score: 7685.0895
+
+Total tree length (sum of branch lengths): 6.7905
+Sum of internal branch lengths: 3.0785 (45.3355% of tree length)
+
+WARNING: 3 near-zero internal branches (<0.0039) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'SUS_JBBPJJ010005399_L1' is drawn at root
+
++**SUS_JBBPJJ010005399_L1
+|
+|  +--SUS_JBBPLV010001121_L1
++**|
+|  +--SUS_JBBPLY010003693_L1
+|
+|  +--SUS_JBBPMG010001931_L1
++--|
+   |     +**SUS_JBBPMG010004664_L1
+   |  +--|
+   |  |  +**SUS_JBBPMG010004664_S2L1
+   +**|
+      |     +--SUS_JBBPJM010005915_L1
+      |  +--|
+      |  |  |  +-------------------------------------------------------SUS_JBBPOG010000890_L1
+      |  |  +--|
+      |  |     |     +--SUS_JBBPKI010000869_L1
+      |  |     |  +--|
+      |  |     |  |  +--SUS_JBBPKI010000567_L1
+      |  |     +**|
+      |  |        |  +--SUS_JBBPLJ010000677_L1
+      |  |        +--|
+      |  |           +--SUS_JBBPLJ010000841_L1
+      +--|
+         |                                     +--SUS_JBBPJZ010007258_L1
+         |                                  +--|
+         |                                  |  +--SUS_JBBPTT010006837_L1
+         |                               +--|
+         |                               |  |     +--SUS_JBBPLU010000323_L1
+         |                               |  |  +--|
+         |                               |  |  |  +--SUS_JBBPMG010000116_L1
+         |                               |  +--|
+         |                               |     +--SUS_JBBPLV010001943_L1
+         |                        +------|
+         |                        |      |  +--SUS_JBBPVF010000849_L1
+         |                        |      +--|
+         |                        |         +**SUS_JBBPWB010005531_L1
+         +------------------------|
+                                  |    +----SUS_JBBPUD010000148_L1
+                                  +----|
+                                       |                   +--SUS_JBBPTQ010005164_L1
+                                       |                +--|
+                                       |                |  |  +--SUS_JBBPVZ010000240_L1
+                                       |                |  +--|
+                                       |                |     +--SUS_JBBPVZ010030891_L1
+                                       |            +---|
+                                       |            |   |     +--SUS_JBBPWO010009350_L1
+                                       |            |   |  +--|
+                                       |            |   |  |  +--SUS_JBBPWO010073651_L1
+                                       |            |   +--|
+                                       |            |      +--SUS_JBBPXK010000119_L1
+                                       |         +--|
+                                       |         |  +--SUS_JBBPWT010000047_L1
+                                       |      +--|
+                                       |      |  |  +--SUS_JBBPXA010000488_L1
+                                       |      |  +--|
+                                       |      |     +--SUS_JBBPXF010000575_L1
+                                       +------|
+                                              |  +--SUS_JBBPXB010001911_L1
+                                              +--|
+                                                 +--SUS_JBBPXB010007365_L1
+
+Tree in newick format:
+
+(SUS_JBBPJJ010005399_L1:0.0000010000,(SUS_JBBPLV010001121_L1:0.0268222958,SUS_JBBPLY010003693_L1:0.0075302552):0.0000010000,(SUS_JBBPMG010001931_L1:0.0076065900,((SUS_JBBPMG010004664_L1:0.0000010000,SUS_JBBPMG010004664_S2L1:0.0000010000):0.0044067794,((SUS_JBBPJM010005915_L1:0.0487795648,(SUS_JBBPOG010000890_L1:2.3462173217,((SUS_JBBPKI010000869_L1:0.0523699050,SUS_JBBPKI010000567_L1:0.0412906623):0.0213685221,(SUS_JBBPLJ010000677_L1:0.0318165207,SUS_JBBPLJ010000841_L1:0.0153186427):0.0331300217):0.0000026118):0.0067120231):0.0499600140,((((SUS_JBBPJZ010007258_L1:0.0368085936,SUS_JBBPTT010006837_L1:0.1627909239):0.0629694997,((SUS_JBBPLU010000323_L1:0.0216822463,SUS_JBBPMG010000116_L1:0.0595220580):0.0134463238,SUS_JBBPLV010001943_L1:0.0528992190):0.0508882070):0.0686541484,(SUS_JBBPVF010000849_L1:0.0073938915,SUS_JBBPWB010005531_L1:0.0000029239):0.0515466926):0.3004316086,(SUS_JBBPUD010000148_L1:0.2425327607,(((((SUS_JBBPTQ010005164_L1:0.0453064437,(SUS_JBBPVZ010000240_L1:0.0250034818,SUS_JBBPVZ010030891_L1:0.0096107566):0.0864282693):0.0392590642,((SUS_JBBPWO010009350_L1:0.0167725608,SUS_JBBPWO010073651_L1:0.0099794689):0.0966857699,SUS_JBBPXK010000119_L1:0.0649302015):0.0424920044):0.1826526336,SUS_JBBPWT010000047_L1:0.0928985652):0.0437546239,(SUS_JBBPXA010000488_L1:0.1022082960,SUS_JBBPXF010000575_L1:0.0828656377):0.0177537464):0.1462718283,(SUS_JBBPXB010001911_L1:0.0285234843,SUS_JBBPXB010007365_L1:0.0680728108):0.0881218732):0.3177895147):0.2327614631):1.0459660958):0.0686763156):0.0031121635):0.0076535260);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t SUS.tree.treefile -m "GTR{1.64608,7.768,1.20811,1.35686,5.19439}+F{0.228716,0.273498,0.237951,0.259836}+G4{1.12217}" --length 255
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s SUS.codon.fna --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s SUS.codon.fna --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Mon Sep  7 03:06:24 2026
+Total CPU time used: 91.0578 seconds (0h:1m:31s)
+Total wall-clock time used: 11.8021 seconds (0h:0m:11s)
+

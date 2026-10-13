@@ -1,0 +1,26 @@
+protein	genus	organism	gene	base_fate	oat_flips	grid_frac_changed	grid_alt_fates
+KAF9232081.1	Melanogaster	Melanogaster broomeanus	sus	B	A_hits=40:marginal; A_hits=45:marginal; B_ident=45:single; B_cov=0.5:single; B_cov=0.6:single	0.775	C,marginal,single
+KAM7213959.1	Rhypophila	Rhypophila decipiens	nos	B	A_margin=70:marginal; A_margin=80:marginal; B_ident=40:single; B_ident=45:single; B_ratio=1.0:single	0.75	marginal,single
+KAK4208163.1	Rhypophila	Rhypophila decipiens	nos	B	A_margin=80:marginal; B_ident=40:single; B_ident=45:single; B_ratio=1.0:single	0.683	marginal,single
+KAM7187585.1	Rhypophila	Rhypophila sp. PSN 637	nos	B	B_ident=40:single; B_ident=45:single; B_ratio=1.0:single	0.617	single
+WWD22210.1	Kwoniella	Kwoniella shandongensis	vis	single	A_hits=45:marginal; A_margin=70:marginal; A_margin=80:marginal; C_ident=40:C	0.616	C,marginal
+KAL4260645.1	Pleurotus	Pleurotus pulmonarius	acs,acs_pKerr14a	C	A_hits=45:marginal; C_ident=55:single; C_ident=60:single	0.52	marginal,single
+KAF4581365.1	Pleurotus	Pleurotus pulmonarius	acs,acs_pKerr14a	C	A_hits=45:marginal; C_ident=55:single; C_ident=60:single	0.52	marginal,single
+KAG8213183.1	Butyriboletus	Butyriboletus roseoflavus	nos	B	A_hits=45:marginal; A_margin=80:marginal; B_ident=45:single	0.52	marginal,single
+KXN89159.1	Leucoagaricus	Leucoagaricus sp. SymC.cos	acs,acs_pKerr14a	single	A_margin=70:marginal; A_margin=80:marginal; B_ident=30:B	0.5	B,marginal
+KAH7120428.1	Dactylonectria	Dactylonectria estremocensis	chs	B	B_ident=45:single; B_ratio=1.0:single	0.5	C,single
+CAG8455553.1	Ambispora	Ambispora gerdemannii	chs	marginal	A_margin=10:single; A_margin=15:single; A_margin=20:single; A_margin=30:single	0.4	single
+KAF8736273.1	Amanita	Amanita brunnescens Koide BX004	cus	B	B_ratio=1.0:C	0.333	C,single
+KAO1061018.1	Hebeloma	Hebeloma velutipes	cus	B	B_ratio=1.0:C	0.333	C,single
+KAJ7458538.1	Mycena	Mycena latifolia	nos	marginal	A_margin=10:single; A_margin=15:single; A_margin=20:single; A_margin=30:single	0.32	single
+KAJ7458538.1	Mycena	Mycena latifolia	vis	marginal	A_margin=10:single; A_margin=15:single; A_margin=20:single; A_margin=30:single	0.32	single
+KAG8213181.1	Butyriboletus	Butyriboletus roseoflavus	acs,acs_pKerr14a	C	C_ident=60:single	0.2	single
+RAL15815.1	Aspergillus	Aspergillus homomorphus CBS 101889	chs	marginal	A_margin=10:C; A_margin=15:C; A_margin=20:C	0.2	C,single
+KAN1538006.1	Trichosporon	Trichosporon ovoides	mas1	marginal	A_margin=10:single; A_margin=15:single; A_margin=20:single	0.2	single
+KAH0962947.1	Hirsutella	Hirsutella rhossiliensis	ocs	marginal	none (only in multi-parameter combinations)	0.04	C,single
+OXV05108.1	Elaphomyces	Elaphomyces granulatus	mas1	single	contam=75:contamination	0.0	
+KPA35696.1	Fusarium	Fusarium langsethiae	ocs	C	contam=75:contamination	0.0	
+GKU08709.1	Fusarium	Fusarium langsethiae	nos	C	contam=75:contamination	0.0	
+EJP68988.1	Beauveria	Beauveria bassiana ARSEF 2860	nos	marginal	A_margin=10:single; A_margin=15:single	0.0	
+EJP68988.1	Beauveria	Beauveria bassiana ARSEF 2860	vis	marginal	A_margin=10:single; A_margin=15:single	0.0	
+KAF9139135.1	Mortierella	Mortierella sp. GBA39	mas2	contamination	contam=95:single	0.0	

@@ -1,0 +1,228 @@
+source	id	gca	organism	pid_to_chs_seed	cov_seed	pid_to_vanettenii_EEU41297	max_cov	cls	status	note
+miniprot_locus	GCA_020744425.1_L1	GCA_020744425.1	Dactylonectria macrodidyma	0.6538	0.256	0.6571	0.259	chs_like	truncated	
+miniprot_locus	GCA_023101225.1_L1	GCA_023101225.1	Fusarium solani-melongenae	0.5911	0.943	0.9383	1.0	chs_like	intact	
+miniprot_locus	GCA_000151355.1_L1	GCA_000151355.1	Fusarium vanettenii 77-13-4	0.5879	0.978	1.0	1.0	chs_like	intact	
+miniprot_locus	GCA_050370095.1_L1	GCA_050370095.1	Fusarium phalaenopsidis	0.5879	0.978	0.9432	1.0	chs_like	intact	
+miniprot_locus	GCA_025433565.1_L1	GCA_025433565.1	Fusarium sp. Ph1	0.5854	0.978	0.9407	1.0	chs_like	intact	
+miniprot_locus	GCA_020744375.1_L1	GCA_020744375.1	Dactylonectria estremocensis	0.5849	0.978	0.5797	1.0	chs_like	pseudogene	
+miniprot_locus	GCA_054098485.1_L1	GCA_054098485.1	Fusarium nematophilum	0.5799	1.0	0.8532	1.0	chs_like	intact	
+miniprot_locus	GCA_054098565.1_L1	GCA_054098565.1	Fusarium nematophilum	0.5799	1.0	0.8532	1.0	chs_like	intact	
+miniprot_locus	GCA_020796175.1_L1	GCA_020796175.1	Fusarium oxysporum f. sp. matthiolae	0.5561	0.713	0.879	1.0	chs_like	pseudogene	
+miniprot_locus	GCA_023509805.1_L1	GCA_023509805.1	Fusarium oxysporum f. sp. albedinis	0.5561	0.713	0.879	1.0	chs_like	pseudogene	
+miniprot_locus	GCA_026229875.1_L1	GCA_026229875.1	Fusarium oxysporum f. sp. albedinis	0.5561	0.713	0.879	1.0	chs_like	pseudogene	
+miniprot_locus	GCA_032206225.1_L1	GCA_032206225.1	Fusarium oxysporum f. sp. albedinis	0.5561	0.713	0.879	1.0	chs_like	pseudogene	
+miniprot_locus	GCA_000260495.2_L1	GCA_000260495.2	Fusarium oxysporum f. sp. melonis 26406	0.5458	0.713	0.8657	1.0	chs_like	pseudogene	
+miniprot_locus	GCA_000271745.2_L1	GCA_000271745.2	Fusarium oxysporum NRRL 32931	0.5458	0.713	0.8624	1.0	chs_like	pseudogene	
+miniprot_locus	GCA_027945495.1_L1	GCA_027945495.1	Fusarium falciforme	0.5391	0.314	0.9433	0.392	chs_like	pseudogene	
+miniprot_locus	GCA_000149955.2_L1	GCA_000149955.2	Fusarium oxysporum f. sp. lycopersici 4287	0.0	0	0.8696	1.0	chs_like	pseudogene	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+miniprot_locus	GCA_000259975.2_L1	GCA_000259975.2	Fusarium oxysporum f. sp. lycopersici MN25	0.0	0	0.766	0.465	chs_like	truncated	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+miniprot_locus	GCA_000260155.3_L1	GCA_000260155.3	Fusarium oxysporum f. sp. radicis-lycopersici 26381	0.0	0	0.766	0.465	chs_like	truncated	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+miniprot_locus	GCA_000271705.2_L1	GCA_000271705.2	Fusarium oxysporum Fo47	0.0	0	0.766	0.465	chs_like	truncated	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+miniprot_locus	GCA_001702695.2_L1	GCA_001702695.2	Fusarium oxysporum f. sp. radicis-cucumerinum	0.0	0	0.766	0.465	chs_like	truncated	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+miniprot_locus	GCA_003615075.1_L1	GCA_003615075.1	Fusarium oxysporum f. sp. cepae	0.0	0	0.7518	0.465	chs_like	truncated	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+miniprot_locus	GCA_003615085.1_L1	GCA_003615085.1	Fusarium oxysporum f. sp. cepae	0.0	0	0.7518	0.465	chs_like	truncated	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+miniprot_locus	GCA_003615095.1_L1	GCA_003615095.1	Fusarium oxysporum f. sp. cepae	0.0	0	0.7518	0.465	chs_like	truncated	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+miniprot_locus	GCA_003615155.1_L1	GCA_003615155.1	Fusarium oxysporum	0.0	0	0.766	0.465	chs_like	truncated	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+miniprot_locus	GCA_003615165.1_L1	GCA_003615165.1	Fusarium oxysporum	0.0	0	0.766	0.465	chs_like	truncated	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+miniprot_locus	GCA_003615185.1_L1	GCA_003615185.1	Fusarium oxysporum	0.0	0	0.7589	0.465	chs_like	truncated	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+miniprot_locus	GCA_004141715.1_L1	GCA_004141715.1	Fusarium oxysporum f. sp. narcissi	0.0	0	0.7518	0.465	chs_like	truncated	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+miniprot_locus	GCA_013085055.1_L1	GCA_013085055.1	Fusarium oxysporum Fo47	0.0	0	0.766	0.465	chs_like	truncated	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+miniprot_locus	GCA_013363075.1_L1	GCA_013363075.1	Fusarium oxysporum	0.0	0	0.766	0.465	chs_like	truncated	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+miniprot_locus	GCA_027945405.1_L1	GCA_027945405.1	Fusarium oxysporum	0.0	0	0.7589	0.465	chs_like	truncated	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+miniprot_locus	GCA_027945555.1_L1	GCA_027945555.1	Fusarium oxysporum	0.0	0	0.7589	0.465	chs_like	truncated	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+miniprot_locus	GCA_030020275.1_L1	GCA_030020275.1	Fusarium oxysporum	0.0	0	0.8696	1.0	chs_like	pseudogene	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+miniprot_locus	GCA_054098455.1_L1	GCA_054098455.1	Fusarium oxysporum	0.0	0	0.7589	0.465	chs_like	truncated	no chs-seed alignment reported by miniprot (id=0); chs_like via id_EEU>=0.70
+diamond_protein	EWZ80709.1	GCA_000259975.2	Fusarium oxysporum f. sp. lycopersici MN25	0.619	0.29			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 118 aa, qlen 128, bits 152
+diamond_protein	EXL52446.1	GCA_000260155.3	Fusarium oxysporum f. sp. radicis-lycopersici 26381	0.619	0.29			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 118 aa, qlen 128, bits 152
+diamond_protein	EWZ31120.1	GCA_000271705.2	Fusarium oxysporum Fo47	0.619	0.29			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 118 aa, qlen 128, bits 152
+diamond_protein	PCD24768.1	GCA_001702695.2	Fusarium oxysporum f. sp. radicis-cucumerinum	0.619	0.29			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 118 aa, qlen 137, bits 152
+diamond_protein	RKL16097.1	GCA_003615155.1	Fusarium oxysporum	0.619	0.29			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 118 aa, qlen 137, bits 152
+diamond_protein	RKL01087.1	GCA_003615165.1	Fusarium oxysporum	0.619	0.29			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 118 aa, qlen 137, bits 152
+diamond_protein	QKD61567.2	GCA_013085055.1	Fusarium oxysporum Fo47	0.619	0.29			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 118 aa, qlen 128, bits 152
+diamond_protein	KAF5258030.1	GCA_013363075.1	Fusarium oxysporum	0.619	0.29			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 118 aa, qlen 137, bits 152
+diamond_protein	XP_031031182.3	GCF_013085055.1	Fusarium oxysporum Fo47	0.619	0.29			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 118 aa, qlen 128, bits 152
+diamond_protein	RKL51690.1	GCA_003615185.1	Fusarium oxysporum	0.61	0.29			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 118 aa, qlen 137, bits 149
+diamond_protein	KAJ4123352.1	GCA_027945405.1	Fusarium oxysporum	0.61	0.29			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 118 aa, qlen 137, bits 149
+diamond_protein	KAJ4275658.1	GCA_027945555.1	Fusarium oxysporum	0.61	0.29			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 118 aa, qlen 137, bits 149
+diamond_protein	KAM5385907.1	GCA_054098455.1	Fusarium oxysporum	0.61	0.29			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 118 aa, qlen 137, bits 149
+diamond_protein	EEU41297.1	GCA_000151355.1	Fusarium vanettenii 77-13-4	0.602	0.943			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 384 aa, qlen 405, bits 481
+diamond_protein	RKK51892.1	GCA_003615075.1	Fusarium oxysporum f. sp. cepae	0.602	0.29			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 118 aa, qlen 137, bits 148
+diamond_protein	RKK08570.1	GCA_003615085.1	Fusarium oxysporum f. sp. cepae	0.602	0.29			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 118 aa, qlen 137, bits 148
+diamond_protein	RKK49538.1	GCA_003615095.1	Fusarium oxysporum f. sp. cepae	0.602	0.29			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 118 aa, qlen 137, bits 148
+diamond_protein	RYC87345.1	GCA_004141715.1	Fusarium oxysporum f. sp. narcissi	0.602	0.29			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 118 aa, qlen 137, bits 148
+diamond_protein	KAL6359175.1	GCA_050370095.1	Fusarium phalaenopsidis	0.602	0.943			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 384 aa, qlen 408, bits 489
+diamond_protein	KAM5345661.1	GCA_054098565.1	Fusarium nematophilum	0.602	0.939			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 382 aa, qlen 408, bits 471
+diamond_protein	KAM5380328.1	GCA_054098485.1	Fusarium nematophilum	0.602	0.939			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 382 aa, qlen 408, bits 471
+diamond_protein	XP_003047010.1	GCF_000151355.1	Fusarium vanettenii 77-13-4	0.602	0.943			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 384 aa, qlen 405, bits 481
+diamond_protein	XP_083100357.1	GCF_050370095.1	Fusarium phalaenopsidis	0.602	0.943			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 384 aa, qlen 408, bits 489
+diamond_protein	KAI8662381.1	GCA_025433565.1	Fusarium sp. Ph1	0.599	0.943			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 384 aa, qlen 408, bits 486
+diamond_protein	UPK93317.1	GCA_023101225.1	Fusarium solani-melongenae	0.591	0.943			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 384 aa, qlen 408, bits 476
+diamond_protein	EXK36479.1	GCA_000260495.2	Fusarium oxysporum f. sp. melonis 26406	0.547	0.157			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 64 aa, qlen 87, bits 85.1
+diamond_protein	KAH7466402.1	GCA_020796175.1	Fusarium oxysporum f. sp. matthiolae	0.547	0.157			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 64 aa, qlen 87, bits 85.1
+diamond_protein	KAH7466404.1	GCA_020796175.1	Fusarium oxysporum f. sp. matthiolae	0.547	0.499			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 203 aa, qlen 204, bits 220
+diamond_protein	KAJ0143367.1	GCA_026229875.1	Fusarium oxysporum f. sp. albedinis	0.547	0.499			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 203 aa, qlen 204, bits 220
+diamond_protein	KAJ0143368.1	GCA_026229875.1	Fusarium oxysporum f. sp. albedinis	0.547	0.157			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 64 aa, qlen 87, bits 85.1
+diamond_protein	EWY82264.1	GCA_000271745.2	Fusarium oxysporum NRRL 32931	0.542	0.499			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 203 aa, qlen 204, bits 214
+diamond_protein	XP_031031182.1	GCF_000271745.1	Fusarium oxysporum NRRL 32931	0.542	0.499			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 203 aa, qlen 204, bits 214
+diamond_protein	EXK36477.1	GCA_000260495.2	Fusarium oxysporum f. sp. melonis 26406	0.537	0.499			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 203 aa, qlen 203, bits 210
+diamond_protein	EWY82265.1	GCA_000271745.2	Fusarium oxysporum NRRL 32931	0.517	0.366			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 149 aa, qlen 152, bits 143
+diamond_protein	XP_031031183.1	GCF_000271745.1	Fusarium oxysporum NRRL 32931	0.517	0.366			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 149 aa, qlen 152, bits 143
+diamond_protein	EWY82263.1	GCA_000271745.2	Fusarium oxysporum NRRL 32931	0.516	0.157			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 64 aa, qlen 87, bits 80.9
+diamond_protein	XP_031031181.1	GCF_000271745.1	Fusarium oxysporum NRRL 32931	0.516	0.157			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 64 aa, qlen 87, bits 80.9
+diamond_protein	EXK36478.1	GCA_000260495.2	Fusarium oxysporum f. sp. melonis 26406	0.503	0.366			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 149 aa, qlen 151, bits 135
+diamond_protein	KAJ9415499.1	GCA_030020275.1	Fusarium oxysporum	0.503	0.713			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 290 aa, qlen 277, bits 286
+diamond_protein	KAI3576115.1	GCA_023509805.1	Fusarium oxysporum f. sp. albedinis	0.49	0.713			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 290 aa, qlen 266, bits 280
+diamond_protein	KAK2472897.1	GCA_032206225.1	Fusarium oxysporum f. sp. albedinis	0.49	0.713			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 290 aa, qlen 266, bits 280
+diamond_protein	KNB14377.1	GCA_000149955.2	Fusarium oxysporum f. sp. lycopersici 4287	0.469	0.713			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 290 aa, qlen 260, bits 263
+diamond_protein	XP_018252422.1	GCF_000149955.1	Fusarium oxysporum f. sp. lycopersici 4287	0.469	0.713			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 290 aa, qlen 260, bits 263
+diamond_protein	KAH7120428.1	GCA_020744375.1	Dactylonectria estremocensis	0.44	0.978			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 398 aa, qlen 287, bits 283
+diamond_protein	CAI2195798.1	GCA_946474995.1	Funneliformis geosporum	0.374	0.219			native_fungal_homolog(ags-like/other)		aln 91 aa, qlen 99, bits 56.2
+diamond_protein	CAI2167570.1	GCA_946475005.1	Funneliformis geosporum	0.371	0.214			native_fungal_homolog(ags-like/other)		aln 89 aa, qlen 479, bits 53.5
+diamond_protein	RDI86408.1	GCA_003351075.1	Venturia inaequalis	0.363	0.246			native_fungal_homolog(ags-like/other)		aln 102 aa, qlen 369, bits 51.2
+diamond_protein	KAE9975330.1	GCA_009769425.1	Venturia inaequalis	0.363	0.246			native_fungal_homolog(ags-like/other)		aln 102 aa, qlen 497, bits 51.2
+diamond_protein	KAE9993540.1	GCA_009769405.1	Venturia inaequalis	0.363	0.246			native_fungal_homolog(ags-like/other)		aln 102 aa, qlen 497, bits 51.2
+diamond_protein	KAE9982665.1	GCA_009769445.1	Venturia inaequalis	0.363	0.246			native_fungal_homolog(ags-like/other)		aln 102 aa, qlen 369, bits 51.2
+diamond_protein	CAI2197588.1	GCA_946474995.1	Funneliformis geosporum	0.353	0.206			native_fungal_homolog(ags-like/other)		aln 85 aa, qlen 231, bits 55.1
+diamond_protein	KAJ8143645.1	GCA_029606385.1	Metschnikowia pulcherrima	0.33299999999999996	0.376			native_fungal_homolog(ags-like/other)		aln 162 aa, qlen 392, bits 58.5
+diamond_protein	ETN36394.1	GCA_000365145.2	Cyphellophora europaea CBS 101466	0.33	0.256			native_fungal_homolog(ags-like/other)		aln 106 aa, qlen 454, bits 52.8
+diamond_protein	KAF9979149.1	GCA_015849275.1	Actinomortierella ambigua	0.33	0.263			native_fungal_homolog(ags-like/other)		aln 109 aa, qlen 452, bits 52.0
+diamond_protein	KAL1925810.1	GCA_041956535.1	Calcarisporiella thermophila	0.33	0.253			native_fungal_homolog(ags-like/other)		aln 109 aa, qlen 465, bits 52.8
+diamond_protein	XP_008721212.1	GCF_000365145.1	Cyphellophora europaea CBS 101466	0.33	0.256			native_fungal_homolog(ags-like/other)		aln 106 aa, qlen 454, bits 52.8
+diamond_protein	XP_069257072.1	GCF_041956535.1	Calcarisporiella thermophila	0.33	0.253			native_fungal_homolog(ags-like/other)		aln 109 aa, qlen 465, bits 52.8
+diamond_protein	KAK5062570.1	GCA_035927105.1	Exophiala bonariae	0.322	0.364			native_fungal_homolog(ags-like/other)		aln 171 aa, qlen 404, bits 55.1
+diamond_protein	XP_064710842.1	GCF_035927105.1	Exophiala bonariae	0.322	0.364			native_fungal_homolog(ags-like/other)		aln 171 aa, qlen 404, bits 55.1
+diamond_protein	KAF9358279.1	GCA_015679515.1	Mortierella sp. NVP85	0.316	0.283			native_fungal_homolog(ags-like/other)		aln 117 aa, qlen 504, bits 52.0
+diamond_protein	KAF9104327.1	GCA_015502445.1	Mortierella sp. GBA35	0.316	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 541, bits 51.2
+diamond_protein	KAJ9616319.1	GCA_030247875.1	Cladophialophora chaetospira	0.316	0.364			native_fungal_homolog(ags-like/other)		aln 171 aa, qlen 404, bits 51.2
+diamond_protein	KAK3805508.1	GCA_033807495.1	Benniella sp.	0.316	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 507, bits 50.8
+diamond_protein	KAG1203422.1	GCA_011764265.1	Rhizopus arrhizus	0.312	0.373			native_fungal_homolog(ags-like/other)		aln 154 aa, qlen 322, bits 56.6
+diamond_protein	KAG8901574.1	GCA_019632305.1	Tulasnella sp. 403	0.31	0.273			native_fungal_homolog(ags-like/other)		aln 113 aa, qlen 761, bits 50.4
+diamond_protein	KAG0374632.1	GCA_016098025.1	Mortierella sp. AD032	0.307	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 529, bits 55.8
+diamond_protein	KAK3831562.1	GCA_033807515.1	Linnemannia gamsii	0.307	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 529, bits 51.2
+diamond_protein	KAG0241053.1	GCA_016098105.1	Actinomortierella wolfii	0.306	0.268			native_fungal_homolog(ags-like/other)		aln 111 aa, qlen 1385, bits 50.1
+diamond_protein	KAG1453357.1	GCA_011764185.1	Rhizopus arrhizus	0.305	0.373			native_fungal_homolog(ags-like/other)		aln 154 aa, qlen 228, bits 53.1
+diamond_protein	KAG0298106.1	GCA_016097855.1	Linnemannia gamsii	0.304	0.275			native_fungal_homolog(ags-like/other)		aln 115 aa, qlen 524, bits 51.2
+diamond_protein	KAF9188191.1	GCA_015529505.1	Haplosporangium sp. Z 11	0.303	0.263			native_fungal_homolog(ags-like/other)		aln 109 aa, qlen 520, bits 50.8
+diamond_protein	KAF9935458.1	GCA_015847195.1	Linnemannia zychae	0.303	0.263			native_fungal_homolog(ags-like/other)		aln 109 aa, qlen 522, bits 54.3
+diamond_protein	CAJ0824637.1	GCA_958431285.1	Entrophospora sp. SA101	0.295	0.354			native_fungal_homolog(ags-like/other)		aln 149 aa, qlen 830, bits 53.5
+diamond_protein	CAH1755682.1	GCA_921293635.1	Entrophospora sp. SA101	0.295	0.354			native_fungal_homolog(ags-like/other)		aln 149 aa, qlen 1336, bits 53.9
+diamond_protein	KAH7107769.1	GCA_020744175.1	Auriculariales sp. MPI-PUGE-AT-0066	0.29100000000000004	0.445			native_fungal_homolog(ags-like/other)		aln 182 aa, qlen 463, bits 53.1
+diamond_protein	OAQ31542.1	GCA_001651415.1	Linnemannia elongata AG-77	0.289	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 532, bits 50.4
+diamond_protein	KAF9336909.1	GCA_015679495.1	Linnemannia elongata	0.289	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 532, bits 50.4
+diamond_protein	KAF9291241.1	GCA_015679425.1	Linnemannia elongata	0.289	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 531, bits 50.4
+diamond_protein	KAF9909862.1	GCA_015847235.1	Linnemannia zychae	0.289	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 521, bits 53.9
+diamond_protein	KAF9140268.1	GCA_015502505.1	Linnemannia schmuckeri	0.289	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 521, bits 53.9
+diamond_protein	KAF9955433.1	GCA_015849285.1	Mortierella alpina	0.289	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 519, bits 50.1
+diamond_protein	KAG0271773.1	GCA_016097895.1	Linnemannia exigua	0.289	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 530, bits 54.3
+diamond_protein	KAF9128080.1	GCA_015502465.1	Mortierella sp. 14UC	0.289	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 545, bits 53.5
+diamond_protein	KAG0067480.1	GCA_015852395.1	Linnemannia elongata	0.289	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 533, bits 50.4
+diamond_protein	KAG0070358.1	GCA_015852415.1	Linnemannia elongata	0.289	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 531, bits 50.4
+diamond_protein	KAF8949526.1	GCA_015499985.1	Haplosporangium gracile	0.289	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 538, bits 52.8
+diamond_protein	CAP1638433.1	GCA_979029665.1	Linnemannia elongata	0.289	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 532, bits 50.4
+diamond_protein	KAG0229291.1	GCA_016098045.1	Mortierella sp. GBA43	0.28800000000000003	0.285			native_fungal_homolog(ags-like/other)		aln 118 aa, qlen 480, bits 52.8
+diamond_protein	KAI8345487.1	GCA_025330735.1	Mortierella sp. GBAus27b	0.28800000000000003	0.285			native_fungal_homolog(ags-like/other)		aln 118 aa, qlen 480, bits 52.8
+diamond_protein	KAF9131797.1	GCA_015502485.1	Mortierella sp. GBA39	0.281	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 531, bits 50.4
+diamond_protein	KAG0056792.1	GCA_015852425.1	Gryganskiella cystojenkinii	0.281	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 526, bits 50.4
+diamond_protein	KAG0301936.1	GCA_016097865.1	Linnemannia gamsii	0.281	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 477, bits 52.8
+diamond_protein	CAG8455553.1	GCA_910591945.1	Ambispora gerdemannii	0.27899999999999997	0.548			native_fungal_homolog(ags-like/other)		aln 226 aa, qlen 558, bits 76.6
+diamond_protein	CAG8749054.1	GCA_910591765.1	Ambispora leptoticha	0.278	0.55			native_fungal_homolog(ags-like/other)		aln 227 aa, qlen 194, bits 59.7
+diamond_protein	KAF9174980.1	GCA_015502575.1	Mortierella sp. AD010	0.272	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 504, bits 51.6
+diamond_protein	KAG0000913.1	GCA_015849335.1	Entomortierella chlamydospora	0.272	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 504, bits 50.1
+diamond_protein	KAF9400442.1	GCA_015679695.1	Mortierella sp. AD011	0.272	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 504, bits 51.6
+diamond_protein	KAF9205385.1	GCA_015529795.1	Haplosporangium sp. Z 27	0.272	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 497, bits 52.8
+diamond_protein	KAG0022366.1	GCA_015852335.1	Entomortierella chlamydospora	0.272	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 504, bits 50.1
+diamond_protein	KAF8981202.1	GCA_015500005.1	Entomortierella lignicola	0.272	0.275			native_fungal_homolog(ags-like/other)		aln 114 aa, qlen 497, bits 52.8
+diamond_protein	KAF5372836.1	GCA_013368315.1	Tetrapyrgos nigripes	0.267	0.403			native_fungal_homolog(ags-like/other)		aln 165 aa, qlen 449, bits 55.8
+diamond_protein	KAI0709412.1	GCA_022605405.1	Earliella scabrosa	0.262	0.4			native_fungal_homolog(ags-like/other)		aln 164 aa, qlen 470, bits 50.8
+diamond_protein	KAI5480318.1	GCA_024364755.1	Pseudohyphozyma bogoriensis	0.262	0.388			native_fungal_homolog(ags-like/other)		aln 172 aa, qlen 474, bits 51.2
+diamond_protein	KAL8283925.1	GCA_051911615.1	Phenoliferia psychrophenolica	0.262	0.388			native_fungal_homolog(ags-like/other)		aln 172 aa, qlen 340, bits 50.4
+diamond_protein	TFL06967.1	GCA_004369125.1	Pterulicium gracile	0.261	0.57			native_fungal_homolog(ags-like/other)		aln 234 aa, qlen 442, bits 54.7
+diamond_protein	THC92788.1	GCA_004798825.1	Aspergillus tanneri	0.259	0.41			native_fungal_homolog(ags-like/other)		aln 170 aa, qlen 374, bits 57.4
+diamond_protein	CAE6530501.1	GCA_905219595.1	Rhizoctonia solani	0.259	0.88			native_fungal_homolog(ags-like/other)		aln 359 aa, qlen 663, bits 90.9
+diamond_protein	KAK0365724.1	GCA_030412055.1	Friedmanniomyces endolithicus	0.256	0.902			native_fungal_homolog(ags-like/other)		aln 375 aa, qlen 601, bits 58.5
+diamond_protein	KAK0366082.1	GCA_030412055.1	Friedmanniomyces endolithicus	0.256	0.894			native_fungal_homolog(ags-like/other)		aln 383 aa, qlen 742, bits 67.0
+diamond_protein	KAI7258808.1	GCA_024761535.1	Hortaea werneckii	0.255	0.885			native_fungal_homolog(ags-like/other)		aln 364 aa, qlen 364, bits 86.3
+diamond_protein	CAI2162215.1	GCA_946474995.1	Funneliformis geosporum	0.254	0.541			native_fungal_homolog(ags-like/other)		aln 224 aa, qlen 700, bits 58.5
+diamond_protein	KAL7411402.1	GCA_051309035.1	Mrakia frigida	0.25	0.735			native_fungal_homolog(ags-like/other)		aln 304 aa, qlen 459, bits 53.1
+diamond_protein	XP_076494567.1	GCF_051309035.1	Mrakia frigida	0.25	0.735			native_fungal_homolog(ags-like/other)		aln 304 aa, qlen 459, bits 53.1
+diamond_protein	PPR08111.1	GCA_002938355.1	Panaeolus cyanescens	0.249	0.393			native_fungal_homolog(ags-like/other)		aln 169 aa, qlen 461, bits 50.1
+diamond_protein	KAH7157628.1	GCA_020744375.1	Dactylonectria estremocensis	0.249	0.843			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 373 aa, qlen 477, bits 52.0
+diamond_protein	KAI7253817.1	GCA_024761535.1	Hortaea werneckii	0.247	0.912			native_fungal_homolog(ags-like/other)		aln 380 aa, qlen 356, bits 104
+diamond_protein	KAO0487833.1	GCA_058127775.1	Simplicillium lamellicola	0.244	0.6			native_fungal_homolog(ags-like/other)		aln 254 aa, qlen 477, bits 56.2
+diamond_protein	KAJ7090277.1	GCA_029282135.1	Mycena belliarum	0.243	0.889			native_fungal_homolog(ags-like/other)		aln 382 aa, qlen 401, bits 66.2
+diamond_protein	RAL15815.1	GCA_003184865.1	Aspergillus homomorphus CBS 101889	0.242	0.926			native_fungal_homolog(ags-like/other)		aln 397 aa, qlen 401, bits 65.5
+diamond_protein	KAH6894218.1	GCA_020736575.1	Thelonectria olida	0.242	0.816			native_fungal_homolog(ags-like/other)		aln 360 aa, qlen 489, bits 53.1
+diamond_protein	XP_025554969.1	GCF_003184865.1	Aspergillus homomorphus CBS 101889	0.242	0.926			native_fungal_homolog(ags-like/other)		aln 397 aa, qlen 401, bits 65.5
+diamond_protein	KAF9125748.1	GCA_015502485.1	Mortierella sp. GBA39	0.24100000000000002	0.686			native_fungal_homolog(ags-like/other)		aln 282 aa, qlen 2302, bits 75.1
+diamond_protein	KAH7175639.1	GCA_020744425.1	Dactylonectria macrodidyma	0.24100000000000002	0.843			chs_lineage(Fusarium/Neocosmospora/Dactylonectria)		aln 373 aa, qlen 481, bits 50.4
+diamond_protein	KIM93723.1	GCA_000827325.1	Oidiodendron maius Zn	0.24	0.921			native_fungal_homolog(ags-like/other)		aln 416 aa, qlen 420, bits 50.1
+diamond_protein	KAL7820657.1	GCA_051819905.1	Trichoderma gracile	0.24	0.843			native_fungal_homolog(ags-like/other)		aln 371 aa, qlen 500, bits 52.4
+diamond_protein	KAH0492898.1	GCA_020002365.1	Trichoderma gracile	0.239	0.843			native_fungal_homolog(ags-like/other)		aln 368 aa, qlen 499, bits 50.8
+diamond_protein	KAL6893076.1	GCA_050947385.1	Trichoderma longibrachiatum	0.239	0.811			native_fungal_homolog(ags-like/other)		aln 364 aa, qlen 500, bits 50.4
+diamond_protein	CAG8606608.1	GCA_910592345.1	Paraglomus brasilianum	0.239	0.548			native_fungal_homolog(ags-like/other)		aln 234 aa, qlen 202, bits 59.3
+diamond_protein	KPM35563.1	GCA_001306435.1	Neonectria ditissima	0.23800000000000002	0.816			native_fungal_homolog(ags-like/other)		aln 357 aa, qlen 487, bits 53.9
+diamond_protein	PTB77566.1	GCA_003025155.1	Trichoderma longibrachiatum ATCC 18648	0.23800000000000002	0.811			native_fungal_homolog(ags-like/other)		aln 361 aa, qlen 500, bits 52.0
+diamond_protein	KAK4695105.1	GCA_035521555.1	Lecanoromycetidae sp. Uapishka_2	0.23800000000000002	0.914			native_fungal_homolog(ags-like/other)		aln 391 aa, qlen 392, bits 58.9
+diamond_protein	KZP23639.1	GCA_001630335.1	Athelia psychrophila	0.237	0.889			native_fungal_homolog(ags-like/other)		aln 375 aa, qlen 421, bits 58.9
+diamond_protein	KAH9901779.1	GCA_022376275.1	Xylariomycetidae sp. FL2044	0.237	0.816			native_fungal_homolog(ags-like/other)		aln 388 aa, qlen 545, bits 52.8
+diamond_protein	KAL7787888.1	GCA_051819845.1	Trichoderma ceciliae	0.23600000000000002	0.843			native_fungal_homolog(ags-like/other)		aln 364 aa, qlen 493, bits 55.1
+diamond_protein	KAK2591163.1	GCA_032433595.1	Conoideocrella luteorostrata	0.235	0.816			native_fungal_homolog(ags-like/other)		aln 353 aa, qlen 536, bits 50.4
+diamond_protein	KAK1248518.1	GCA_030708095.1	Trichoderma sp. CBMAI-0020	0.23399999999999999	0.828			native_fungal_homolog(ags-like/other)		aln 359 aa, qlen 488, bits 52.0
+diamond_protein	TGO89330.1	GCA_004786265.1	Botrytis porri	0.23199999999999998	0.577			native_fungal_homolog(ags-like/other)		aln 246 aa, qlen 465, bits 50.8
+diamond_protein	KAF7911207.1	GCA_014898465.1	Botrytis porri	0.23199999999999998	0.577			native_fungal_homolog(ags-like/other)		aln 246 aa, qlen 465, bits 51.6
+diamond_protein	CAP3675404.1	GCA_980753795.1	Trichoderma atroviride	0.23199999999999998	0.936			native_fungal_homolog(ags-like/other)		aln 409 aa, qlen 492, bits 53.9
+diamond_protein	CAP3710464.1	GCA_980757495.1	Trichoderma atroviride	0.23199999999999998	0.936			native_fungal_homolog(ags-like/other)		aln 409 aa, qlen 492, bits 53.9
+diamond_protein	CAP3686177.1	GCA_980757575.1	Trichoderma atroviride	0.23199999999999998	0.936			native_fungal_homolog(ags-like/other)		aln 409 aa, qlen 492, bits 53.9
+diamond_protein	XP_038773890.1	GCF_014898465.1	Botrytis porri	0.23199999999999998	0.577			native_fungal_homolog(ags-like/other)		aln 246 aa, qlen 465, bits 51.6
+diamond_protein	KAF5358504.1	GCA_013368445.1	Leucocoprinus leucothites	0.231	0.916			native_fungal_homolog(ags-like/other)		aln 394 aa, qlen 489, bits 52.8
+diamond_protein	GIJ90375.1	GCA_018340605.1	Aspergillus pseudoviridinutans	0.231	0.916			native_fungal_homolog(ags-like/other)		aln 386 aa, qlen 399, bits 57.8
+diamond_protein	KAI1633629.1	GCA_022478735.1	Biscogniauxia mediterranea	0.231	0.845			native_fungal_homolog(ags-like/other)		aln 399 aa, qlen 487, bits 51.6
+diamond_protein	KAL7809996.1	GCA_051819885.1	Trichoderma aethiopicum	0.231	0.843			native_fungal_homolog(ags-like/other)		aln 372 aa, qlen 500, bits 53.1
+diamond_protein	KAL7951589.1	GCA_051820595.1	Trichoderma barbatum	0.231	0.843			native_fungal_homolog(ags-like/other)		aln 368 aa, qlen 495, bits 50.1
+diamond_protein	XP_043161121.1	GCF_018340605.1	Aspergillus pseudoviridinutans	0.231	0.916			native_fungal_homolog(ags-like/other)		aln 386 aa, qlen 399, bits 57.8
+diamond_protein	KAF9115935.1	GCA_015502485.1	Mortierella sp. GBA39	0.22899999999999998	0.784			native_fungal_homolog(ags-like/other)		aln 328 aa, qlen 484, bits 75.5
+diamond_protein	RCI02319.1	GCA_003325415.1	Rhizopus stolonifer	0.228	0.921			native_fungal_homolog(ags-like/other)		aln 394 aa, qlen 937, bits 52.4
+diamond_protein	TGO35768.1	GCA_004786245.1	Botrytis hyacinthi	0.228	0.577			native_fungal_homolog(ags-like/other)		aln 246 aa, qlen 465, bits 52.8
+diamond_protein	TGO13007.1	GCA_004786125.1	Botrytis tulipae	0.228	0.577			native_fungal_homolog(ags-like/other)		aln 246 aa, qlen 465, bits 50.8
+diamond_protein	KAF7943674.1	GCA_014898295.1	Botrytis byssoidea	0.228	0.577			native_fungal_homolog(ags-like/other)		aln 246 aa, qlen 465, bits 53.1
+diamond_protein	KAF5871883.1	GCA_013461495.1	Botrytis fragariae	0.228	0.577			native_fungal_homolog(ags-like/other)		aln 246 aa, qlen 912, bits 50.8
+diamond_protein	XP_037190830.1	GCF_013461495.1	Botrytis fragariae	0.228	0.577			native_fungal_homolog(ags-like/other)		aln 246 aa, qlen 912, bits 50.8
+diamond_protein	XP_038732733.1	GCF_014898295.1	Botrytis byssoidea	0.228	0.577			native_fungal_homolog(ags-like/other)		aln 246 aa, qlen 465, bits 53.1
+diamond_protein	KAF7938956.1	GCA_014898535.1	Botrytis deweyae	0.22699999999999998	0.577			native_fungal_homolog(ags-like/other)		aln 247 aa, qlen 464, bits 52.0
+diamond_protein	XP_038815177.1	GCF_014898535.1	Botrytis deweyae	0.22699999999999998	0.577			native_fungal_homolog(ags-like/other)		aln 247 aa, qlen 464, bits 52.0
+diamond_protein	KAI5464813.1	GCA_024336345.1	Mariannaea sp. PMI_226	0.226	0.816			native_fungal_homolog(ags-like/other)		aln 354 aa, qlen 497, bits 50.8
+diamond_protein	KAM0525538.1	GCA_052571625.1	Trichoderma viride	0.226	0.973			native_fungal_homolog(ags-like/other)		aln 429 aa, qlen 492, bits 51.2
+diamond_protein	CAA20739.3	GCA_000002945.3	Schizosaccharomyces pombe	0.225	0.904			native_fungal_homolog(ags-like/other)		aln 386 aa, qlen 451, bits 59.7
+diamond_protein	KAF8636601.1	GCA_001691775.3	Amanita inopinata Kibby_2008	0.225	0.818			native_fungal_homolog(ags-like/other)		aln 351 aa, qlen 374, bits 50.4
+diamond_protein	KAF9049310.1	GCA_015501595.1	Hymenopellis radicata	0.225	0.909			native_fungal_homolog(ags-like/other)		aln 386 aa, qlen 468, bits 56.2
+diamond_protein	KAF8919337.1	GCA_015501055.1	Mucidula mucida	0.225	0.909			native_fungal_homolog(ags-like/other)		aln 391 aa, qlen 467, bits 57.8
+diamond_protein	KAK0352912.1	GCA_030412055.1	Friedmanniomyces endolithicus	0.225	0.548			native_fungal_homolog(ags-like/other)		aln 244 aa, qlen 589, bits 50.4
+diamond_protein	KAL2315914.1	GCA_043157545.1	Schizosaccharomyces pombe	0.225	0.904			native_fungal_homolog(ags-like/other)		aln 386 aa, qlen 451, bits 59.7
+diamond_protein	CAN6648451.1	GCA_965637995.1	Schizosaccharomyces pombe	0.225	0.904			native_fungal_homolog(ags-like/other)		aln 386 aa, qlen 451, bits 59.7
+diamond_protein	NP_596119.2	GCF_000002945.2	Schizosaccharomyces pombe	0.225	0.904			native_fungal_homolog(ags-like/other)		aln 386 aa, qlen 451, bits 59.7
+diamond_protein	KAM0481005.1	GCA_052570025.1	Trichoderma viride	0.223	0.936			native_fungal_homolog(ags-like/other)		aln 408 aa, qlen 491, bits 54.7
+diamond_protein	KAH8117304.1	GCA_021029095.1	Phellopilus nigrolimitatus	0.222	0.934			native_fungal_homolog(ags-like/other)		aln 396 aa, qlen 412, bits 58.2
+diamond_protein	KAJ7445714.1	GCA_029289565.1	Mycena galericulata	0.222	0.909			native_fungal_homolog(ags-like/other)		aln 387 aa, qlen 447, bits 57.8
+diamond_protein	KAG6845226.1	GCA_018855915.1	Tephrocybe sp. NHM501043	0.221	0.799			native_fungal_homolog(ags-like/other)		aln 340 aa, qlen 429, bits 53.5
+diamond_protein	KAF9122689.1	GCA_015502485.1	Mortierella sp. GBA39	0.221	0.919			native_fungal_homolog(ags-like/other)		aln 375 aa, qlen 363, bits 90.5
+diamond_protein	KAN0814190.1	GCA_055762005.1	Rasamsonia columbiensis	0.221	0.961			native_fungal_homolog(ags-like/other)		aln 408 aa, qlen 394, bits 51.6
+diamond_protein	KNZ75360.1	GCA_001263195.1	Termitomyces sp. J132	0.22	0.971			native_fungal_homolog(ags-like/other)		aln 428 aa, qlen 460, bits 53.1
+diamond_protein	KAA8645324.1	GCA_003426965.1	Aspergillus tanneri	0.22	0.916			native_fungal_homolog(ags-like/other)		aln 386 aa, qlen 404, bits 73.6
+diamond_protein	KAE8341690.1	GCA_009193545.1	Aspergillus arachidicola	0.22	0.919			native_fungal_homolog(ags-like/other)		aln 386 aa, qlen 387, bits 55.8
+diamond_protein	KAG5716297.1	GCA_018296085.1	Termitomyces sp. T112	0.22	0.971			native_fungal_homolog(ags-like/other)		aln 428 aa, qlen 460, bits 53.1
+diamond_protein	KAH0584038.1	GCA_020091625.1	Termitomyces sp. 'cryptogamus'	0.22	0.971			native_fungal_homolog(ags-like/other)		aln 428 aa, qlen 470, bits 53.1
+diamond_protein	XP_033424685.1	GCF_003426965.1	Aspergillus tanneri	0.22	0.916			native_fungal_homolog(ags-like/other)		aln 386 aa, qlen 404, bits 73.6
+diamond_protein	KAF7960725.1	GCA_014898285.1	Botrytis aclada	0.21600000000000003	0.926			native_fungal_homolog(ags-like/other)		aln 403 aa, qlen 465, bits 53.9
+diamond_protein	KAF7888153.1	GCA_014898435.1	Botrytis sinoallii	0.21600000000000003	0.926			native_fungal_homolog(ags-like/other)		aln 403 aa, qlen 465, bits 51.2
+diamond_protein	KAI0205310.1	GCA_022453515.1	Astrocystis sublimbata	0.21600000000000003	0.828			native_fungal_homolog(ags-like/other)		aln 370 aa, qlen 496, bits 53.5
+diamond_protein	XP_038761030.1	GCF_014898435.1	Botrytis sinoallii	0.21600000000000003	0.926			native_fungal_homolog(ags-like/other)		aln 403 aa, qlen 465, bits 51.2
+diamond_protein	KAI1315321.1	GCA_022750515.1	Mortierella claussenii	0.215	0.921			native_fungal_homolog(ags-like/other)		aln 410 aa, qlen 509, bits 50.1
+diamond_protein	CAO3675344.1	GCA_977110975.1	Umbelopsis vinacea	0.214	0.926			native_fungal_homolog(ags-like/other)		aln 398 aa, qlen 1401, bits 53.5
+diamond_protein	KZT28494.1	GCA_001632425.1	Neolentinus lepideus HHB14362 ss-1	0.213	0.909			native_fungal_homolog(ags-like/other)		aln 389 aa, qlen 468, bits 57.0
+diamond_protein	TGO58382.1	GCA_004786225.1	Botryotinia narcissicola	0.213	0.926			native_fungal_homolog(ags-like/other)		aln 403 aa, qlen 465, bits 52.4
+diamond_protein	KAH7048930.1	GCA_020744185.1	Linnemannia elongata	0.213	0.924			native_fungal_homolog(ags-like/other)		aln 390 aa, qlen 399, bits 50.8
+diamond_protein	KAK5799121.1	GCA_036320915.1	Linnemannia elongata	0.213	0.924			native_fungal_homolog(ags-like/other)		aln 390 aa, qlen 399, bits 50.8
+diamond_protein	KAE8325426.1	GCA_009193525.1	Aspergillus sergii	0.212	0.914			native_fungal_homolog(ags-like/other)		aln 392 aa, qlen 417, bits 58.5
+diamond_protein	RAL59925.1	GCA_003260565.1	Monilinia fructigena	0.21100000000000002	0.971			native_fungal_homolog(ags-like/other)		aln 418 aa, qlen 419, bits 52.0
+diamond_protein	KAB8214655.1	GCA_009176405.1	Aspergillus novoparasiticus	0.209	0.914			native_fungal_homolog(ags-like/other)		aln 388 aa, qlen 417, bits 57.8
+diamond_protein	KAF7902829.1	GCA_014898425.1	Botryotinia globosa	0.20600000000000002	0.926			native_fungal_homolog(ags-like/other)		aln 403 aa, qlen 464, bits 50.1

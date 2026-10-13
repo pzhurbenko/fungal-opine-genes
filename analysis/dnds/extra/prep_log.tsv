@@ -1,0 +1,43 @@
+set	locus_id	species	catalogue_status	check	cds_bp
+chs	GCA_000151355.1_L1	Fusarium vanettenii	intact	ok	1215
+chs	GCA_023101225.1_L1	Fusarium solani-melongenae	intact	ok	1215
+chs	GCA_025433565.1_L1	Fusarium sp.	intact	ok	1215
+chs	GCA_050370095.1_L1	Fusarium phalaenopsidis	intact	ok	1215
+chs	GCA_054098485.1_L1	Fusarium nematophilum	intact	ok	1206
+chs	GCA_054098565.1_L1	Fusarium nematophilum	intact	ok	1206
+odh	GCA_001292635.1_odh1	Fusarium langsethiae	intact	ok	1059
+odh	GCA_022180325.1_odh1	Fusarium langsethiae	intact	ok_noATG	972
+odh	GCA_022180345.1_odh1	Fusarium langsethiae	intact	ok_noATG	972
+odh	GCA_046056315.1_odh1	Fusarium poae	intact	ok_noATG	1059
+odh	GCA_046056315.1_odh2	Fusarium poae	intact	ok	1059
+pepP	GCA_001292635.1_pepP1	Fusarium langsethiae	intact	ok	1149
+pepP	GCA_046056315.1_pepP2	Fusarium poae	intact	ok	1149
+g3	GCA_001292635.1_g32	Fusarium langsethiae	intact	ok_noATG	774
+g3	GCA_022180325.1_g32	Fusarium langsethiae	intact	ok_noATG	774
+g3	GCA_046056315.1_g32	Fusarium poae	intact	ok	777
+cus_nonBol	CUS_CAVMBW010000015_L1	Monosporozyma servazzii	intact	ok	1011
+cus_nonBol	CUS_JABYQR010000063_L1	Cytidiella melzeri	intact	ok	906
+cus_nonBol	CUS_JACCMO010000008_L1	Epicoccum latusicollum	intact	ok_noATG	897
+cus_nonBol	CUS_JAFJTQ020000041_L1	Septoria petroselini	intact	ok_noATG	894
+cus_nonBol	CUS_JAKOOT010000021_L1	Monosporozyma servazzii	intact	ok	1011
+cus_nonBol	CUS_JAKTTD010000547_L1	Monosporozyma servazzii	intact	ok	1011
+cus_nonBol	CUS_JARJCM010000025_L1	Mycena alexandri	intact	ok	1020
+cus_nonBol	CUS_JARJCX010000004_L1	Mycena rebaudengoi	intact	ok	1023
+cus_nonBol	CUS_JARJCX010000328_L1	Mycena rebaudengoi	intact	ok	1023
+cus_nonBol	CUS_JARKIB010000016_L1	Mycena metata	intact	ok	1020
+cus_nonBol	CUS_JAVLWG010000008_L1	Phoma sp.	intact	ok_noATG	897
+cus_nonBol	CUS_JAXQHM010000038_L1	Monosporozyma servazzii	intact	ok	1011
+cus_nonBol	CUS_JBEEQB010000010_L1	Epicoccum sorghinum	intact	ok_noATG	897
+cus_nonBol	CUS_JNHV02000108_L1	Amanita brunnescens	intact	ok	891
+cus_nonBol	CUS_NJIJ01000084_L1	Monosporozyma servazzii	intact	ok	1011
+cus_nonBol	CUS_PTQT01000015_L1	Monosporozyma servazzii	intact	ok	1011
+cus_nonBol	CUS_VWSB01000009_L1	Monosporozyma servazzii	intact	ok	1011
+cus_nonBol	CUS_VWSC01000016_L1	Monosporozyma servazzii	intact	ok	1011
+cus_nonBol	CUS_JBZWEJ010000015_A1	Hebeloma velutipes	intact	ok [cds_loci.fna]	957
+cus_nonBol	CUS_OZ188520_A1	Monosporozyma servazzii	intact	ok [cds_loci.fna]	1011
+acs_pKerr14a	ACS_JBBPKL010003317_L1	Boletellus ananas (cluster C154)	intact	ok	1971
+acs_pKerr14a	ACS_JBBPKL010018021_L1	Boletellus ananas (cluster C154)	intact	ok_noATG (trimmed 2nt 5prime,0nt 3prime)	747
+acs_pKerr14a	ACS_JBBPNB010000203_L1	Rubroboletus satanas	intact	ok	1452
+acs_pKerr14a	ACS_JBBPNB010000771_L1	Rubroboletus satanas	intact	ok	924
+acs_pKerr14a	ACS_JBBPOG010012756_L1	Austroboletus festivus (cluster C222)	intact	ok (trimmed 0nt 5prime,2nt 3prime)	993
+acs_pKerr14a	ACS_JBBPRY010001778_L1	Boletus edulis (cluster C016)	intact	ok	1254

@@ -1,0 +1,18 @@
+gene	n_queries	queries	assemblies_with_strong_locus_hit	max_identity_pct_locus_hit	assemblies_with_chained_hit	max_identity_pct_chained_hit	note
+rolB/rolC (AAK90962; one query serves both genes)	1	AAK90962.1	0	30.0	0	22.5	
+"5 (AAK90960 ""5_protein"")"	1	AAK90960.1	0	0.0	0	0.0	
+"6a (AAF77125 ""ons""; cluster product 6a_protein)"	1	AAF77125.1	0	0.0	0	0.0	
+6b/tml (WP_174089376 cluster tml/tiorf186; AAZ50400 Tml)	2	WP_174089376.1;AAZ50400.1	0	0.0	0	0.0	
+plast D (WP_174168441)	1	WP_174168441.1	0	0.0	0	0.0	
+plast E (WP_172690589)	1	WP_172690589.1	0	0.0	0	0.0	
+RolB_family_protein (all queries)	8	WP_174168441.1;WP_172690589.1;WP_172690492.1;WP_010900207.1;WP_161987869.1;WP_174089376.1;WP_419178744.1;WP_010974822.1	0	0.0	0	23.2	
+iaaM (WP_010974824 FAD-dependent oxidoreductase, cluster iaaM/tms1)	1	WP_010974824.1	0	59.0	0	0.0	Best single-locus hit above 45% identity but covering less than half of the query: not counted as a strong hit
+iaaH	1	AAF77122.1	0	73.9	0	30.3	Best single-locus hit above 45% identity but covering less than half of the query: not counted as a strong hit
+ipt	2	AAF77124.1;AAZ50399.1	0	37.1	0	0.0	
+mas1	2	AAF77131.1;AAK90965.1	0	54.1	0	31.3	Best single-locus hit above 45% identity but covering less than half of the query: not counted as a strong hit
+mas2 (WP_262512305 SIS domain; cluster mas2)	1	WP_262512305.1	0	0.0	0	0.0	
+ags (WP_080864006 M24 peptidase; cluster ags)	1	WP_080864006.1	0	40.0	0	26.1	
+ocs	1	AAF77127.1	0	40.0	0	27.3	
+nos	1	WP_010974826.1	0	41.1	0	39.2	
+acs agrocinopine synthase (WP_010974816 acsx, cluster)	1	WP_010974816.1	0	0.0	0	32.7	
+GDPD family (acs-family queries)	19	19 GDPD-family seed proteins of Table S2	31	74.5	33	69.5	The hits are the acc-type GDPD and pKerr14a-type acs-like loci of Table 2, not canonical T-DNA acs

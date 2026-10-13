@@ -1,0 +1,66 @@
+{
+ "rows": 1043583,
+ "records": 1045884,
+ "rows_multi_org": 2301,
+ "records_no_bracket": 0,
+ "records_king_NA": 4439,
+ "frac_king_NA": 0.004244256533229306,
+ "frac_NA_incl_nobracket": 0.004244256533229306,
+ "king_counts": {
+  "Fungi": 593776,
+  "Bacteria": 430830,
+  "Archaea": 6938,
+  "Viridiplantae": 5611,
+  "NA": 4439,
+  "Metazoa": 4027,
+  "Eukaryota_other": 263
+ },
+ "fungal_records_no_order": 3987,
+ "n_fungal_records": 593776,
+ "unique_orgs": 17946,
+ "unresolved_orgs": 58,
+ "cache_crosscheck_agree": 5948,
+ "cache_crosscheck_disagree": 309,
+ "cache_disagree_examples": [
+  [
+   "Bosea sp. (in: a-proteobacteria)",
+   "Plants",
+   "Bacteria"
+  ],
+  [
+   "Labrys sp. WJW",
+   "Metazoa",
+   "Bacteria"
+  ],
+  [
+   "Paracoccus sp. MKU1",
+   "Metazoa",
+   "Bacteria"
+  ],
+  [
+   "Cryptococcus neoformans var. neoformans B-3501A",
+   "Metazoa",
+   "Fungi"
+  ],
+  [
+   "Bacillus",
+   "Metazoa",
+   "Bacteria"
+  ],
+  [
+   "Bacillus sp. FJAT-22090",
+   "Metazoa",
+   "Bacteria"
+  ],
+  [
+   "Bacillus sp. MMSF_3328",
+   "Metazoa",
+   "Bacteria"
+  ],
+  [
+   "Bacillus sp. IITD106",
+   "Metazoa",
+   "Bacteria"
+  ]
+ ]
+}

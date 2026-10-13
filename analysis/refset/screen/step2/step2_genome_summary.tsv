@@ -1,0 +1,1517 @@
+gca	organism	n_loci	n_candidates	n_new_candidates	n_contam_contigs	n_hi_id_contigs	n_ACS	n_CUS	n_ORF358	n_SUS	n_TDNA	n_hmm_only	n_opine_related	n_rep_partition	n_tra	n_vir
+GCA_000182115.1	Saccharomyces pastorianus	131			0	0					12	5	113			1
+GCA_000209345.1	Saccharomyces cerevisiae	65			0	0					7	2	56			
+GCA_000230395.2	Aspergillus niger	121	3	2	0	0		2			12	48	56			3
+GCA_000238015.2	Glarea lozoyensis	128	1	1	0	1			1		14	30	78			5
+GCA_000382605.1	Leucocoprinus gongylophorus	49	2		0	0	2				8		39			
+GCA_000497105.2	Nakaseomyces glabratus	42			0	0					2	5	35			
+GCA_000497325.4	Fusarium circinatum	147	2	2	0	1					12	87	44			4
+GCA_000498615.1	Helminthosporium solani	146	3	1	0	0			2		26	8	100			10
+GCA_000530345.1	Aspergillus sclerotiorum	213	4	3	0	0		3			29	19	152			10
+GCA_000603925.1	Corynespora cassiicola	228	2	1	0	0			2		33	23	159			11
+GCA_000604185.2	Neurospora sublineolata	95			0	0					10	7	72	1	1	4
+GCA_000633045.1	Aspergillus niger	161	3	2	0	0		2			20	29	103			7
+GCA_000733625.1	Cordyceps farinosa	192	4	1	0	1		3			20	24	141			4
+GCA_000733645.1	Beauveria rudraprayagi	178	2		0	0		2			23	12	136			5
+GCA_000750665.1	Pseudogymnoascus sp. VKM F-3557	151	1		0	0		1			15	8	122			5
+GCA_000750675.1	Pseudogymnoascus sp. VKM F-3808	165	2	1	0	1		1			14	8	135			7
+GCA_000750795.1	Pseudogymnoascus sp. VKM F-4514 (FW-929)	158	1		0	0		1			14	8	130			5
+GCA_000750815.1	Pseudogymnoascus sp. VKM F-4516 (FW-969)	153	1		0	0		1			14	10	121			7
+GCA_000770705.1	Beauveria bassiana	537	25	23	0	2		2			61	63	374	2	4	31
+GCA_000785585.1	Cladophialophora immunda	258	1	1	0	0					39	28	183			8
+GCA_000812845.1	Stagonosporopsis tanaceti	1022	23	22	0	0			2		58	17	814	4	1	126
+GCA_000827195.1	Laccaria amethystina	63	1	1	0	0					2	12	49			
+GCA_000827265.1	Collybiopsis luxurians	80	1	1	0	0	1				6	13	60			
+GCA_000827355.1	Hebeloma cylindrosporum	43	1	1	0	0					5	8	30			
+GCA_000876485.1	Fusarium circinatum	213	2	1	0	1					29	38	140			6
+GCA_000963775.2	Clonostachys rosea	268	2	1	0	1		1			37	60	169			1
+GCA_000966855.1	Fusarium sp. JS1030	239	2	1	0	1					33	73	129			4
+GCA_001007845.1	Nigrograna mackinnonii	249	1		0	0					44	46	155			4
+GCA_001039675.1	Nakaseomyces delphensis	42			0	0					3	1	38			
+GCA_001044295.1	Aspergillus sp. Z5	216	2		0	0		2			34	32	135			13
+GCA_001077315.1	Nakaseomyces bracarensis	49			0	0					7	2	40			
+GCA_001179745.1	Clavaria fumosa	3834	108	107	21	215					358	103	2631	89	87	566
+GCA_001270345.1	Amorphotheca resinae	202	2	2	0	0			1		22	34	136	1		8
+GCA_001307345.1	Aspergillus westerdijkiae	158	5	2	0	1		2			16	62	74			4
+GCA_001399475.1	Penicillium citrinum	195	4	3	0	0		1			26	20	136			12
+GCA_001444555.1	Naganishia albida	73	1		0	0			1		6	12	54			
+GCA_001445615.2	Aspergillus lentulus	109	3	1	0	1		1			11	58	37			2
+GCA_001466525.1	Nakaseomyces glabratus	43			0	0					2	3	38			
+GCA_001466535.1	Nakaseomyces glabratus	42			0	0					2	4	36			
+GCA_001466565.1	Nakaseomyces glabratus	49			0	0					2	2	45			
+GCA_001466575.1	Nakaseomyces glabratus	43			0	0					2	3	38			
+GCA_001466635.1	Nakaseomyces glabratus	51			0	0					2	1	48			
+GCA_001466685.1	Nakaseomyces glabratus	45			0	0					2	2	41			
+GCA_001484525.1	Colletotrichum falcatum	177	1		0	0					22	13	135			7
+GCA_001548785.1	Pyricularia oryzae	147	2	1	0	0			1		14	19	104		1	8
+GCA_001548795.1	Pyricularia grisea	148	2	1	0	0			1		19	16	102		1	9
+GCA_001548815.1	Pyricularia grisea	146	2	1	0	0			1		19	14	101		1	10
+GCA_001563735.1	Leucoagaricus sp. SymC.cos	83	6	6	0	0					6	15	62			
+GCA_001572055.1	Alternaria alternata	127	1		0	0					22	29	73			3
+GCA_001578235.1	Pseudocercospora eumusae	147			0	0					21	16	104			6
+GCA_001599375.1	Phoma herbarum	121	1		0	0					18	32	66			5
+GCA_001599755.1	Gliomastix tumulicola	145	2	2	0	1					9	90	45			1
+GCA_001599815.1	Furcasterigmium furcatum	162	2	1	0	1					14	112	34			2
+GCA_001599995.1	Ambrosiozyma monospora	98			0	0					7	25	66			
+GCA_001636735.1	Beauveria brongniartii	141	2		0	0		2			13	40	85			1
+GCA_001640285.1	Clonostachys rosea	265	1		0	0		1			29	49	185			1
+GCA_001644785.1	Cordyceps cicadae	169	3		0	1		1			18	13	127	2	4	4
+GCA_001652835.1	Tricholoma matsutake	86			0	0				1	14	1	68		1	1
+GCA_001653215.1	Akanthomyces lecanii	197	2		0	0		2			20	16	155			4
+GCA_001658105.1	Rhizopogon vinicolor	90	1	1	0	0					13	11	66			
+GCA_001675595.1	Pyricularia oryzae	169	2	1	0	0			1		20	14	123		1	10
+GCA_001675605.1	Pyricularia oryzae	157	2	1	0	0			1		18	16	112		1	9
+GCA_001675615.1	Pyricularia oryzae	178	3	2	0	0			1		21	15	126		1	14
+GCA_001675625.1	Pyricularia oryzae	149	3	2	0	0			2		16	16	107		1	7
+GCA_001682635.1	Beauveria bassiana	126	2		0	0		1			9	81	34			1
+GCA_001684195.1	Beauveria bassiana	134	2	2	0	0		1			13	60	59			1
+GCA_001684205.1	Beauveria bassiana	146	2	2	0	0		2			14	56	72			2
+GCA_001684215.1	Beauveria bassiana	171	2	2	0	0		2			22	12	131			4
+GCA_001684225.1	Beauveria bassiana	172	2	2	0	0		2			21	18	127			4
+GCA_001691785.3	Amanita brunnescens	48	1		0	1		1			4	3	39			1
+GCA_001696505.1	Calonectria pseudonaviculata	222			0	0					30	31	158			3
+GCA_001696595.2	Aspergillus hancockii	209	6	5	0	1		3			23	30	144			9
+GCA_001715265.1	Aspergillus niger	155	3	2	0	0		2			20	30	97			6
+GCA_001741885.1	Aspergillus niger	165	3	2	0	0		2			20	26	111			6
+GCA_001741905.1	Aspergillus niger	113	3	2	0	0		1			10	68	32			2
+GCA_001741915.1	Aspergillus niger	114	3	2	0	0		1			11	65	35			2
+GCA_001882365.1	Rhizopogon vesiculosus	108	2		0	0	2				17	12	77			
+GCA_001931795.1	Aspergillus niger	161	3	2	0	0		2			21	31	101			6
+GCA_001931865.2	Beauveria sp. IMV 00265	170	2		0	0		2			17	26	122			3
+GCA_001950535.1	Penicillium citrinum	134	3	2	0	0		1			9	61	58			5
+GCA_001951205.1	Colletotrichum graminicola	188	2	1	0	0			1		31	11	137	1		7
+GCA_001983365.1	Amanita bisporigera	49			0	0		1			3		45			
+GCA_001990825.1	Aspergillus carbonarius	134	2	2	0	0		1			12	43	74			4
+GCA_002072345.1	Penicillium antarcticum	159	3	2	0	0		1			16	37	98			7
+GCA_002165215.1	Fusarium pininemorale	194	1		0	1					29	67	93			5
+GCA_002168265.2	Fusarium euwallaceae	211	3	2	0	1		1			34	64	105			7
+GCA_002194535.1	Fusarium udum	171	2	1	0	1					15	94	57			5
+GCA_002211485.2	Aspergillus niger	116	3	2	0	0		2			11	52	48			3
+GCA_002214935.1	Monosporozyma servazzii	41	1		0	0		1			2	8	30			
+GCA_002218425.1	Pyricularia oryzae	156	3	2	0	0			2		16	18	110		1	9
+GCA_002218475.1	Pyricularia oryzae	149	3	2	0	0			1		15	20	105			8
+GCA_002219185.1	Nakaseomyces glabratus	40			0	0					1	9	30			
+GCA_002219195.1	Nakaseomyces glabratus	40			0	0					1	9	30			
+GCA_002224115.1	Beauveria bassiana	133	2		0	0		1			13	64	54			1
+GCA_002233985.2	Fusarium oxysporum	316	5	4	0	4		1			43	55	207			10
+GCA_002234255.1	Fusarium sp. Na10	239	3	2	0	2					30	38	164			7
+GCA_002259835.1	Nakaseomyces glabratus	38			0	0					2	8	28			
+GCA_002370455.1	Metschnikowia hibisci	39			0	0					4	10	24			1
+GCA_002374725.1	Metschnikowia hibisci	39			0	0					3	14	20			2
+GCA_002591405.1	Ophiocordyceps australis	93	2	1	0	0		2			10	6	69			6
+GCA_002591415.1	Ophiocordyceps australis	91	2	1	0	0		1			10	14	63			3
+GCA_002740505.1	Aspergillus niger	172	3	2	0	0		2			23	23	118			6
+GCA_002778165.1	Raffaelea arxii	140	1		0	0		1			17	67	55			
+GCA_002866905.1	Pyricularia grisea	150	3	2	0	0			1		18	11	105		1	14
+GCA_002871045.1	Pyricularia grisea	106	2	2	0	0			1		14	39	51			1
+GCA_002871155.1	Beauveria bassiana	133	3	1	0	0		1			10	67	54			1
+GCA_002924665.1	Pyricularia oryzae	159	3	2	0	0			2		17	15	117		1	7
+GCA_002924695.1	Pyricularia oryzae	205	3	2	0	1			3		20	9	157		1	15
+GCA_002924745.1	Pyricularia oryzae	158	3	2	0	0			2		17	16	113		1	9
+GCA_002924755.1	Pyricularia oryzae	155	2	1	0	0			1		16	17	114			7
+GCA_002924835.1	Pyricularia oryzae	145	2	1	0	0			1		15	18	104			7
+GCA_002924865.1	Pyricularia oryzae	158	3	2	0	0			1		16	18	112		1	10
+GCA_002924875.1	Pyricularia oryzae	154	3	2	0	0			1		14	19	112		1	7
+GCA_002924885.1	Pyricularia oryzae	150	2	1	0	0			1		16	16	110			7
+GCA_002924945.1	Pyricularia oryzae	150	3	2	0	0			1		15	22	104			8
+GCA_002924975.1	Pyricularia oryzae	137	2	1	0	0			1		15	30	87			4
+GCA_002925105.1	Pyricularia oryzae	150	2	1	0	1			1		15	19	107			8
+GCA_002925155.1	Pyricularia oryzae	145	2	1	0	0			1		15	15	106			8
+GCA_002925225.1	Pyricularia oryzae	159	2	1	0	0			1		16	15	117		1	9
+GCA_002925245.1	Pyricularia grisea	154	2	1	0	0			1		18	15	110		1	9
+GCA_002925285.1	Pyricularia oryzae	150	3	2	0	0			1		14	18	109		1	7
+GCA_002925295.1	Pyricularia oryzae	156	2	1	0	0			1		16	18	113			8
+GCA_002925335.1	Pyricularia oryzae	152	3	2	0	0			2		16	17	109		1	7
+GCA_002925345.1	Pyricularia oryzae	151	3	2	0	0			2		15	18	108			8
+GCA_002939025.2	Tricholoma matsutake	73			0	0					11	5	56			1
+GCA_002968875.1	Cordyceps cicadae	130	3		0	1		1			16	19	91			3
+GCA_002975505.1	Corynespora cassiicola	235	1		0	0			1		33	23	162			16
+GCA_002975535.1	Corynespora cassiicola	233	1		0	0			1		35	23	159			15
+GCA_002975555.1	Corynespora cassiicola	231	2	1	0	0			1		32	24	162			12
+GCA_002975575.1	Corynespora cassiicola	233	1		0	0			1		35	23	159			15
+GCA_002975595.1	Corynespora cassiicola	232	1		0	0			1		34	23	159			15
+GCA_002975615.1	Corynespora cassiicola	244	1		0	0			2		34	21	172			15
+GCA_002975635.1	Corynespora cassiicola	248	1		0	0			1		37	16	179			15
+GCA_002975655.1	Corynespora cassiicola	227	2	1	0	0			1		30	23	157			16
+GCA_002975685.1	Corynespora cassiicola	229	2	1	0	0			1		32	20	163			13
+GCA_002975705.1	Corynespora cassiicola	236	2	1	0	0			1		35	17	168			15
+GCA_002975725.1	Corynespora cassiicola	230	2	1	0	0			1		33	21	161			14
+GCA_002975755.1	Corynespora cassiicola	226	1		0	0			2		34	17	161			12
+GCA_002975775.1	Corynespora cassiicola	231	2	1	0	0			1		32	24	163			11
+GCA_002975795.1	Corynespora cassiicola	235	1		0	0			2		35	17	167			14
+GCA_002975815.1	Corynespora cassiicola	229	2	1	0	0			1		32	26	158			12
+GCA_002975845.1	Corynespora cassiicola	231	1		0	0			2		34	18	163			14
+GCA_002975895.1	Corynespora cassiicola	235	1		0	0			2		36	16	170			11
+GCA_002975915.1	Corynespora cassiicola	237	1		0	0			2		33	17	173			12
+GCA_002975995.1	Corynespora cassiicola	234	2	1	0	0			1		32	23	164			14
+GCA_002976015.1	Corynespora cassiicola	244	1		0	0			2		35	23	168			16
+GCA_002976025.1	Corynespora cassiicola	236	1		0	0			1		33	22	165			15
+GCA_002976075.1	Corynespora cassiicola	238	2	1	0	0			1		37	22	165			13
+GCA_002976085.1	Corynespora cassiicola	228	2	1	0	0			1		31	22	159			15
+GCA_002976105.1	Corynespora cassiicola	229	2	1	0	0			1		32	22	162			12
+GCA_002976145.1	Corynespora cassiicola	225	2	1	0	0			1		31	24	157			12
+GCA_002976175.1	Corynespora cassiicola	228	1		0	0			1		30	23	158			16
+GCA_002994825.1	Rhizopogon vinicolor	105	1		0	0					16	10	78			1
+GCA_002994865.1	Rhizopogon parksii	110	1		0	0					16	5	89			
+GCA_002994895.1	Rhizopogon rudus	97	4		0	0	3				15	9	70			
+GCA_002994955.1	Rhizopogon sp. AM-2018a	120	1		0	1	1				14	8	97			
+GCA_002994995.1	Rhizopogon hawkerae	100	1		0	0	1				14	7	78			
+GCA_002995015.1	Rhizopogon vesiculosus	120	2		0	0	1				18	10	91			
+GCA_002995035.1	Rhizopogon hawkerae	114	3		0	0	3			1	17	7	86			
+GCA_002995055.1	Rhizopogon rudus	102	5		0	0	5				17	8	72			
+GCA_002995065.1	Rhizopogon vinicolor	103	1		0	0					13	9	80			1
+GCA_002995095.1	Rhizopogon sp. AM-2018a	102	2		0	0					16	8	78			
+GCA_002995115.1	Rhizopogon vesiculosus	115	2		0	0	2				16	9	88			
+GCA_002995135.1	Rhizopogon sp. AM-2018a	129	3	2	0	0	1				16	6	106			
+GCA_002995155.1	Rhizopogon parksii	103	1		0	1					18	3	82			
+GCA_002995175.1	Rhizopogon rudus	105	4	1	0	0	3				20	4	78			
+GCA_002995195.1	Rhizopogon rudus	110	6	1	0	0	4				20	6	80			
+GCA_002995215.1	Rhizopogon rudus	100	4	1	0	0	2				15	7	76			
+GCA_002995235.1	Rhizopogon sp. AM-2018a	104	2	1	0	1	1				17	3	83			
+GCA_002995245.1	Rhizopogon vesiculosus	117	2		0	0	2				16	10	89			
+GCA_002995275.1	Rhizopogon vinicolor	107	1		0	0					17	9	80			1
+GCA_002995295.1	Rhizopogon vulgaris	77	2		0	0	1				13	5	58			
+GCA_002995315.1	Rhizopogon villosulus	104	3		0	0	3				11	3	87			
+GCA_002995335.1	Rhizopogon rudus	109	3		0	1	2				13	6	88			
+GCA_002995355.1	Rhizopogon rudus	110	4		0	0	4				16	8	82			
+GCA_002995375.1	Rhizopogon vinicolor	109	1		0	0					16	8	84			1
+GCA_002995395.1	Rhizopogon vinicolor	111	1		0	0					15	9	87			
+GCA_002995415.1	Rhizopogon vinicolor	109	1		0	0					18	10	81			
+GCA_003004485.1	Aspergillaceae sp. MA 6039	116	3	1	0	1		2			11	10	87			6
+GCA_003004525.2	Aspergillus sp. MA 6038	113	4	2	0	1		2			12	8	84			7
+GCA_003012085.1	Trichoderma brevicompactum	202	2		0	0		1			26	14	158			3
+GCA_003031705.1	Calonectria naviculata	1084	47	46	1	15		1			97	58	819	17	21	71
+GCA_003073195.1	Ramalina intermedia	112			0	0					13	22	74			3
+GCA_003073855.1	Periconia macrospinosa	199	4	4	0	0					30	22	142			5
+GCA_003149365.1	Fusarium tricinctum	146	1		0	0		1			16	71	56			2
+GCA_003184685.1	Aspergillus indologenus	164	1	1	0	0					21	20	118			5
+GCA_003184705.1	Aspergillus violaceofuscus	168	1	1	0	0					20	25	117			6
+GCA_003206725.1	Blastomyces emzantsi	506	25	25	1	5					59	60	300	12	8	67
+GCA_003243735.1	Monosporozyma servazzii	44	1		0	0		1			2	8	33			
+GCA_003267905.1	Beauveria pseudobassiana	138	2	1	0	0		1			12	65	59			1
+GCA_003274195.1	Saccharomyces cerevisiae	49			0	0					3	15	31			
+GCA_003274425.1	Saccharomyces cerevisiae	50			0	0					3	15	32			
+GCA_003275115.1	Saccharomyces cerevisiae	56			0	0					4	19	33			
+GCA_003275125.1	Saccharomyces cerevisiae	56			0	0					4	18	34			
+GCA_003275345.1	Saccharomyces cerevisiae	55			0	0					4	16	35			
+GCA_003275365.1	Saccharomyces cerevisiae	57			0	0					5	13	39			
+GCA_003275385.1	Saccharomyces cerevisiae	55			0	0					5	15	35			
+GCA_003275465.1	Saccharomyces cerevisiae	56			0	0					4	14	38			
+GCA_003275475.1	Saccharomyces cerevisiae	58			0	0					4	15	39			
+GCA_003275575.1	Saccharomyces cerevisiae	57			0	0					5	14	38			
+GCA_003275585.1	Saccharomyces cerevisiae	56			0	0					4	15	37			
+GCA_003275605.1	Saccharomyces cerevisiae	55			0	0					5	13	37			
+GCA_003275615.1	Saccharomyces cerevisiae	62			0	0					5	15	38	2	1	1
+GCA_003275685.1	Saccharomyces cerevisiae	55			0	0					6	14	35			
+GCA_003276205.1	Saccharomyces cerevisiae	55			0	0					4	15	36			
+GCA_003276375.1	Saccharomyces cerevisiae	56			0	0					3	18	34			1
+GCA_003276485.1	Saccharomyces cerevisiae	56			0	0					5	14	37			
+GCA_003276515.1	Saccharomyces cerevisiae	57			0	0					6	15	36			
+GCA_003313185.1	Collybia sp. MG36	75	1		0	0			1		11	1	62			
+GCA_003313685.1	Schizophyllum commune	375	7	7	0	2					37	49	214	5	8	62
+GCA_003313945.1	Lactifluus pinguis	63			0	0					4	4	55			
+GCA_003313985.1	Lactarius indigo	182	4	4	0	0	2				33	32	98	2	2	13
+GCA_003314005.1	Hymenopellis radicata	190	2		0	0	1				18	2	165			4
+GCA_003314045.1	Hygrophorus pudorinus	55	3	2	0	1	1				12	4	37			1
+GCA_003314085.1	Hymenopellis raphanipes	176	4		0	0	2				15	4	152		1	2
+GCA_003314235.1	Cantharellus cinnabarinus	48	1		0	0					1	6	40			1
+GCA_003314295.1	Craterellus lutescens	1881	59	58	3	11					158	443	881	45	48	306
+GCA_003314335.1	Cantharellus appalachiensis	1628	71	71	4	10					121	366	812	44	32	253
+GCA_003314635.1	Tricholoma matsutake	84			0	0					14	1	67		1	1
+GCA_003315955.1	Lactarius hatsudake	109	2		0	0	2				23	11	72			1
+GCA_003315995.1	Butyriboletus roseoflavus	70	9	3	0	0	1	2	1	1	8	9	48			
+GCA_003316055.1	Boletus speciosus	72	3		0	2	3	1		1	10	8	49			
+GCA_003316065.1	Retiboletus ornatipes	80	5		0	0			1	1	10	8	60			
+GCA_003316165.1	Boletus edulis	90	1		0	1	2				14	7	66		1	
+GCA_003316485.1	Chiua virens	93	2		0	0					14	8	71			
+GCA_003326555.1	Saccharomyces cerevisiae	54			0	0					4	15	35			
+GCA_003337105.1	Beauveria bassiana	127	3	1	0	0		1			10	78	37			1
+GCA_003344505.1	Aspergillus phoenicis	144	3	3	0	0		2			16	43	80			3
+GCA_003344705.1	Aspergillus niger	155	3	3	0	0		2			20	31	96			6
+GCA_003369635.1	Coleophoma crateriformis	158	2	1	0	1		1			22	60	75			
+GCA_003369665.1	Coleophoma cylindrospora	173	4	3	0	2		1			18	78	76			
+GCA_003698175.1	Fusarium kuroshium	258	3	2	0	1		1			43	21	179		1	13
+GCA_003706315.3	Ambrosiozyma oregonensis (nom. inval.)	77			0	0					12	11	54			
+GCA_003707605.2	Tetrapisispora fleetii	37			0	0					2	8	27			
+GCA_003709205.3	Ogataea zsoltii	72			0	0					9	12	51			
+GCA_003850985.1	Aspergillus awamori	119	4	3	0	0		2			11	69	34			3
+GCA_003946985.1	Fusarium duplospermum	240	3	2	0	1				1	37	27	163			12
+GCA_003946995.1	Fusarium oligoseptatum	257	3	2	0	1		1			42	31	170			13
+GCA_003947005.1	Fusarium floridanum	272	3	2	0	1		1			46	19	194		1	11
+GCA_003947015.1	Fusarium sp. AF-6	244	4	3	0	1		1			39	24	172			8
+GCA_003947045.1	Fusarium ambrosium	258	4	3	0	1		1			43	27	178			9
+GCA_003957675.1	Fusarium euwallaceae	280	4	3	0	1		1			46	24	192		2	15
+GCA_003988875.1	Lachnum nothofagi	313	2	1	0	0			1		53	18	219			22
+GCA_004012055.1	Floccularia luteovirens	39			0	0					6	4	29			
+GCA_004125095.1	Wickerhamiella occidentalis	54			0	0					7	7	38			2
+GCA_004154765.1	Alternaria tenuissima	125	1		0	0					21	33	69			2
+GCA_004154845.1	Alternaria tenuissima	143	1		0	0					24	26	91			2
+GCA_004154915.1	Monosporascus ibericus	143	1		0	0		1			13	17	108			4
+GCA_004156015.1	Alternaria tenuissima	143	1		0	0					26	25	90			2
+GCA_004168565.1	Alternaria tenuissima	162	1		0	0					27	21	108			6
+GCA_004296355.1	Lepiota venenata	50	1		0	0					3	5	42			
+GCA_004332445.1	Nakaseomyces glabratus	40			0	0					1	5	34			
+GCA_004332455.1	Nakaseomyces glabratus	41			0	0					2	3	36			
+GCA_004332465.1	Nakaseomyces glabratus	42			0	0					2	3	37			
+GCA_004369175.1	Coprinellus micaceus	107			0	0					8	18	81			
+GCA_004380885.1	Calonectria henricotiae	286	1		0	0		1			42	18	217		1	7
+GCA_004380935.1	Calonectria henricotiae	256	1		0	0		1			40	20	187			8
+GCA_004380965.1	Calonectria henricotiae	268	1		0	0		1			43	16	199			9
+GCA_004381035.1	Calonectria pseudonaviculata	268			0	0					37	11	198			22
+GCA_004382205.1	Calonectria henricotiae	317	3	2	0	0		2			46	5	242			22
+GCA_004382225.1	Calonectria pseudonaviculata	287			0	0					42	12	216			17
+GCA_004382245.1	Calonectria pseudonaviculata	237			0	1					33	8	178		1	17
+GCA_004634315.1	Aspergillus niger	216	3	2	0	0		2			33	15	154			12
+GCA_004796565.1	Aspergillus tanneri	177	4	2	0	1		2			24	26	120			5
+GCA_004798825.1	Aspergillus tanneri	188	4	2	0	1		2			31	15	135			5
+GCA_004835665.1	Phoma sp. XZ068	140	2		0	0					14	52	72			2
+GCA_004849945.1	Aspergillus ochraceus	141	5	2	0	1		2			10	85	40			4
+GCA_005784425.1	Aspergillus ochraceus	147	2	1	0	0		1			16	66	61			3
+GCA_006505905.1	Calonectria pseudonaviculata	253			0	0					40	16	189			8
+GCA_006523515.1	Corynespora cassiicola	520	5	4	1	10			1		62	22	370	7	3	55
+GCA_006523535.1	Corynespora cassiicola	234	1		0	0			1		32	21	167			13
+GCA_006680135.1	Lactarius deliciosus	75	1		0	0					4	24	47			
+GCA_006981975.1	Cordyceps javanica	156	4	1	0	1		3			12	70	70			1
+GCA_006981985.1	Cordyceps javanica	155	4	1	0	1		3			12	71	68			1
+GCA_007825325.1	Lachnellula cervina	199	2		0	0			2		26	17	144			10
+GCA_007825375.1	Lachnellula willkommii	202	2	1	0	1			1		27	16	147			11
+GCA_008802755.1	Monosporozyma servazzii	41	1		0	0		1			2	4	34			
+GCA_008802765.1	Monosporozyma servazzii	45	1		0	0		1			2	3	38			1
+GCA_009193605.1	Aspergillus alliaceus	187	3	3	0	0		1			21	36	120			9
+GCA_009193685.1	Aspergillus sydowii	203	2		0	0		2			34	37	121			9
+GCA_009733575.1	Gymnopus androsaceus	121	1	1	0	0					10	6	104			1
+GCA_009761105.1	Aspergillus welwitschiae	162	3	2	0	0		2			17	34	103			6
+GCA_009802435.1	Neurospora discreta	83			0	0					5	1	72			5
+GCA_009805535.1	Laburnicola sp. JP-R-44	108	3	1	0	0			1		12	33	61			1
+GCA_009812365.1	Aspergillus niger	117	2	1	0	0		1			10	61	42			3
+GCA_009812435.1	Aspergillus amoenus	218	2	1	0	0		1			34	27	146			10
+GCA_009828645.1	Calcarisporium arbuscula	240	11	11	0	2					26	58	127	5	5	19
+GCA_009828905.1	Aspergillus sydowii	558	23	21	0	2		2			80	91	347	5	2	31
+GCA_010015655.1	Bimuria novae-zelandiae	144	4	4	0	0					19	32	91			2
+GCA_010015725.1	Amniculicola lignicola	150	1	1	0	0					24	19	103			4
+GCA_010015805.1	Rhizodiscina lignyota	123	2	2	0	0		2			15	39	66			1
+GCA_010093485.1	Karstenula rhodostoma	127	4	4	0	0					16	42	68			1
+GCA_010093715.1	Pleomassaria siparia	123	4	4	0	0			1		14	45	63			
+GCA_010099065.1	Beauveria bassiana	121	2		0	0		1			9	77	33			1
+GCA_010211705.1	Cordyceps cicadae	143	3		0	1		1			17	12	109			4
+GCA_010405425.1	Lentithecium fluviatile	142	2	2	0	0					17	36	84			5
+GCA_010723975.1	Aspergillus lentulus	162	3	1	0	1		2			19	21	114			6
+GCA_010724575.1	Aspergillus lentulus	164	3	1	0	1		1			19	21	117			6
+GCA_010724635.1	Aspergillus lentulus	159	3	1	0	1		2			19	23	110			5
+GCA_010724915.1	Aspergillus lentulus	160	2		0	1		1			20	15	117			7
+GCA_011034735.1	Fusarium cf. falciforme	277	1	1	0	0					44	31	197			5
+GCA_011058895.1	Didymella heteroderae	150	1		0	0					21	22	98			9
+GCA_011316055.1	Beauveria bassiana	170	2		0	0		2			18	27	121			2
+GCA_011319215.2	Scortechinia acanthostroma	8294	61	58	26	164	1	1		2	629	54	5930	221	203	1253
+GCA_011319275.2	Echinosphaeria canescens	9448	54	53	24	123		1			782	57	6733	226	136	1513
+GCA_011801745.1	Phyllachora maydis	76	1	1	0	0			1		6	5	61			3
+GCA_012184355.1	Dactylellina cionopaga	78	2		0	0					9	11	57			1
+GCA_012184525.1	Xenoacremonium recifei	236	2	1	0	1					44	43	148			1
+GCA_012184565.1	Aspergillus floridensis	180	1		0	0					22	13	137			8
+GCA_012275225.1	Aspergillus welwitschiae	177	4	3	0	0		2			21	24	124			6
+GCA_012365075.1	Aspergillus welwitschiae	186	4	3	0	0		2			23	20	135			6
+GCA_012490805.1	Pyricularia oryzae	173	3	2	0	0			2		20	14	122		1	14
+GCA_012490815.1	Pyricularia oryzae	169	3	2	0	0			2		21	13	118		1	14
+GCA_012654075.1	Pyricularia oryzae	150	2	1	0	0			1		16	16	110			7
+GCA_012654165.1	Beauveria bassiana	176	2		0	0		2			25	16	126	1		6
+GCA_012656335.1	Aspergillus lentulus	176	2		0	1		1			23	16	130			6
+GCA_012656375.1	Aspergillus lentulus	169	2		0	1		1			20	17	125	1		5
+GCA_012656395.1	Aspergillus lentulus	171	2		0	1		1			19	17	128			6
+GCA_012656435.1	Aspergillus lentulus	172	3	1	0	1		2			19	17	127			7
+GCA_012656445.1	Aspergillus lentulus	178	2		0	1		1			21	18	132			6
+GCA_012656455.1	Aspergillus lentulus	172	3	1	0	1		2			22	19	122			7
+GCA_012931995.1	Fusarium albosuccineum	312	2	1	0	1					49	18	231			14
+GCA_012977725.1	Fusarium tricinctum	223	1		0	0		1			39	17	158		1	7
+GCA_012978415.1	Pyricularia oryzae	161	2	1	0	0			1		17	16	117		1	9
+GCA_012978495.1	Pyricularia oryzae	161	3	2	0	0			2		17	14	118		1	9
+GCA_012978505.1	Pyricularia oryzae	158	3	2	0	0			2		16	15	116		1	8
+GCA_012978515.1	Pyricularia oryzae	161	2	1	0	0			1		19	16	114		1	10
+GCA_012978535.1	Fusarium sp. NRRL 62957	336	2	1	0	1		1			54	4	260		1	16
+GCA_012978555.1	Fusarium drepaniforme	306	4	3	0	1		1			52	21	221			11
+GCA_012979075.1	Pyricularia oryzae	167	2	1	0	0			1		19	14	121		1	11
+GCA_012980535.1	Pleurotus pulmonarius	44			0	0					4	12	28			
+GCA_013168735.1	Fusarium solani	215	2	1	0	0					36	71	104			4
+GCA_013184375.1	Fusarium newnesense	318	1		0	1					54	17	230		3	14
+GCA_013186395.1	Fusarium papillatum	318	3	2	0	1		1			51	18	235		1	12
+GCA_013186415.1	Fusarium sp. NRRL 66088	278	3	2	0	1		1			43	23	200			11
+GCA_013186425.2	Fusarium sp. NRRL 62610	326	5	4	0	1					59	9	245			13
+GCA_013186765.1	Fusarium bulbicola	272	2	1	0	2					41	23	198			10
+GCA_013186775.1	Fusarium dlaminii	222	2	1	0	1					35	37	142			8
+GCA_013186905.1	Fusarium udum	273	2	1	0	1					44	23	194			12
+GCA_013266205.1	Fusarium decemcellulare	360	2	1	0	1					62	28	257			13
+GCA_013363205.1	Fusarium tuaranense	290	4	3	0	1		1			52	19	206			12
+GCA_013368555.1	Collybiopsis confluens	86	1		0	0					4	5	77			
+GCA_013368665.1	Saccharomyces cerevisiae	67			0	0					5	3	58			1
+GCA_013368685.1	Saccharomyces cerevisiae	67			0	0					5	2	59			1
+GCA_013396185.1	Fusarium circinatum	243	2	1	0	1					43	20	172			8
+GCA_013403855.1	Calonectria honghensis	227	4	3	0	0		1			25	74	125			2
+GCA_013406965.1	Calonectria fujianensis	238	2	1	0	0		2			32	57	142			5
+GCA_013406995.1	Calonectria aciculata	246	4	3	0	0		1			24	57	157			7
+GCA_013623555.1	Fusarium nisikadoi	227	2	1	0	1					37	24	159			7
+GCA_013623725.1	Fusarium robinianum	160	2	1	0	0					20	19	117		1	3
+GCA_013759125.1	Fusarium sp. NRRL 53293	257	2	1	0	1					39	29	180			9
+GCA_014281115.1	Laburnicola sp. R22_1	102	4	2	0	0			2		13	32	54			1
+GCA_014324465.1	Fusarium oxysporum	284	3	2	0	1					43	56	176			9
+GCA_014462655.1	Mycena venus	76	1		0	0	1				4	18	53			
+GCA_014770115.1	Fusarium oxysporum	282	4	3	0	1		1			47	40	186			8
+GCA_014872985.1	Diaporthe citri	195	1		0	0					23	25	141			6
+GCA_014873005.1	Diaporthe citri	166	1		0	0					17	35	111			3
+GCA_014898875.1	Fusarium miscanthi	225	2	1	0	1					36	31	151			7
+GCA_014899075.1	Fusarium goolgardi	172	2	1	0	0					22	13	132			5
+GCA_014904895.1	Tricholoma matsutake	70			0	0					12	4	53			1
+GCA_014904935.1	Melanogaster broomeanus	112	1	1	0	0				1	7	40	64			
+GCA_014925725.1	Clonostachys rosea	251	2	1	0	1		1			33	59	157			1
+GCA_014925755.1	Clonostachys rosea	264	2	1	0	1		1			38	59	165			1
+GCA_015025155.1	Lactarius quietus	76	1		0	0					6	21	49			
+GCA_015039435.1	Imleria badia	66	3	3	0	0		2			9	7	48			
+GCA_015266365.1	Beauveria bassiana	136	2		0	0		1			12	63	59			1
+GCA_015266435.1	Epicoccum latusicollum	117	1		0	0					10	39	63			5
+GCA_015501065.1	Infundibulicybe gibba	80	5		0	0	2		3		11	6	58			
+GCA_015501535.1	Cyathus striatus	133			0	0					10	10	113			
+GCA_015501585.1	Rhodocollybia butyracea	120	2		0	0	2				12	9	97			
+GCA_015501595.1	Hymenopellis radicata	152	1		0	0					14	8	129			1
+GCA_015586215.1	Aspergillus niger	153	4	3	0	0		2			20	36	90			5
+GCA_015586235.1	Aspergillus niger	143	4	3	0	0		2			19	32	84			6
+GCA_015586245.1	Aspergillus niger	149	3	2	0	0		2			19	33	90			5
+GCA_015586375.1	Aspergillus unguis	115	2	1	0	0		1			9	61	38			6
+GCA_015832225.1	Clonostachys rosea	201	3	2	0	2		1			22	102	76			
+GCA_015852375.1	Podila clonocystis	149	1		0	0		1			3	16	122		2	5
+GCA_015881745.1	Pseudopestalotiopsis theae	192			0	0				1	25	57	101			8
+GCA_016097275.1	Aspergillus elegans	135	4	2	0	1		2			8	86	36			3
+GCA_016162265.1	Aspergillus niger	156	3	2	0	0		2			22	29	98			5
+GCA_016170065.1	Akanthomyces lecanii	223	1		0	0		1			22	49	148			3
+GCA_016618095.1	Colletotrichum echinochloae	114	2	1	0	0					12	57	43			2
+GCA_016695475.1	Suillus decipiens	71	2	2	0	0					12	14	45			
+GCA_016748025.1	Aspergillus aculeatinus	157	1		0	0					20	35	97			5
+GCA_016808025.1	Aspergillus japonicus	161	1		0	0					20	28	108			5
+GCA_016880755.1	Aspergillus sp. 2663	174	2	1	0	0		1			24	44	97			8
+GCA_016906405.1	Corynespora cassiicola	138	2	1	0	0			1		17	61	58			1
+GCA_016906425.1	Corynespora cassiicola	139	1		0	0			1		15	61	60			2
+GCA_017579625.1	Fusarium sororula	208	2	1	0	1					30	57	113		2	6
+GCA_017589555.1	Pyricularia oryzae	170	2	1	0	0			1		18	16	125		1	9
+GCA_017654865.1	Fusarium sp. FW16.1	161	1	1	0	0					11	110	36			4
+GCA_017657315.1	Termitomyces sp. K1Ag	77	1		0	0			1		9	5	62			
+GCA_017657355.1	Termitomyces sp. K1Ac	107	1		0	0			1		16	1	89			
+GCA_017657375.1	Termitomyces sp. T27	71	1		0	1			1		10	5	55			
+GCA_017870715.1	Saccharomyces cerevisiae	58			0	0					6	5	46			1
+GCA_018167515.1	Amorphotheca resinae	84	2	1	0	0			1		6	34	41			2
+GCA_018282005.1	Asterophora parasitica	59	1		0	0	1				7	7	44			
+GCA_018340795.1	Penicillium steckii	155	4	3	0	0		1			14	56	78			6
+GCA_018397855.1	Boletus reticuloceps	61	4		0	1	3			1	4	10	43			
+GCA_018408605.1	Aspergillus unguis	113	2	1	0	0		1			10	53	43			6
+GCA_018408615.1	Aspergillus unguis	114	2	1	0	0		1			10	57	40			6
+GCA_018417955.1	Laccaria trichodermophora	43	1		0	0					2	8	33			
+GCA_018417965.1	Laccaria trichodermophora	97	3	1	0	0	1				5	16	75			
+GCA_018423875.1	Laccaria trichodermophora	160	1		0	2					11	3	146			
+GCA_018423945.1	Laccaria trichodermophora	118	1		0	1					9	5	103		1	
+GCA_018831755.1	Niveomyces coronatus	162	2		0	0		2			20	15	121			4
+GCA_018850235.1	Tephrocybe rancida	83	1		0	0			1		4	12	66			
+GCA_018850255.1	Arthromyces matolae	95	3		0	2			3		9	4	79			
+GCA_018855395.1	Arthromyces matolae	92	3		0	0	1		3		12	3	73			
+GCA_018858115.1	Tephrocybe rancida	81	1		0	0			1		5	9	66			
+GCA_018873225.1	[Phialemoniopsis] sp. UDSM-2020	167	3	2	0	1		1			14	106	44			2
+GCA_019096195.1	Boletus sp. NGJ	64	9	1	0	0	1	1	1	1	7	15	37	1		
+GCA_019191195.1	Penicillium citrinum	144	4	3	0	0		1			16	42	79			6
+GCA_019202905.1	Corynespora cassiicola	507	9	8	26	37			1		55	44	306	23	39	39
+GCA_019202945.1	Corynespora olivacea	177	3	3	0	0			1		22	13	132		1	8
+GCA_019288275.1	Aspergillus niger	119	3	2	0	0		1			12	62	41			3
+GCA_019327925.1	Leucocoprinus sp. KB1807203	41	1		0	0	1				2	8	30			
+GCA_019364595.1	Butyriboletus roseoflavus	52	9		0	0	1	1	1	1	4	18	26			
+GCA_019425465.1	Colletotrichum falcatum	716	35	34	0	1					75	232	369	6	2	32
+GCA_019721355.1	Aspergillus sp. MEXU 27854	119	2	1	0	0		1			12	67	36			3
+GCA_019775315.1	Aspergillus sp. JS3-R5	130	2	1	0	0		1			15	45	61			8
+GCA_019775935.1	Neoascochyta sp. HWLR27	124	1		0	0			1		17	19	83			4
+GCA_019775995.1	Pyricularia oryzae	161	2	1	0	0			1		17	16	116		1	10
+GCA_019787685.1	Chiua virens	61	2		0	0					5	20	36			
+GCA_019827475.1	Penicillium cf. chrysogenum	295	6	5	0	0		4			39	61	183			8
+GCA_019828545.1	Paracamarosporium sp. OC-R06-R3	207	4	2	0	0		1	1		36	24	138			7
+GCA_019828945.1	Aspergillus croceus	223	2	1	0	1		2			30	7	166			18
+GCA_019843515.1	Aspergillus niger	111	4	3	0	0		1			10	65	32			3
+GCA_019843565.1	Clonostachys rosea	218	2	1	0	1		1			28	91	98			
+GCA_019843645.1	Ophiocordyceps australis	92	2	1	0	0		1			9	14	67			1
+GCA_019843725.1	Clonostachys rosea	225	3	2	0	1		1			26	91	106			1
+GCA_019925105.1	Niebla homalea	86	1		0	0					8	23	52			3
+GCA_019976475.1	Aspergillus westerdijkiae	136	4	1	0	1		3			8	87	35			3
+GCA_020087035.1	Acremonium sp. FKII-L8-BK-P5	157	3	2	0	0		1			15	41	96			4
+GCA_020272525.1	Epicoccum sorghinum	117	2	1	0	0		1			11	44	56			5
+GCA_020284045.1	Aspergillus versicolor	176	2		0	0		2			29	51	85			9
+GCA_020284165.1	Penicillium citrinum	146	3	2	0	0		1			12	56	70			7
+GCA_020615335.1	Fusarium pilosicola	175	1		0	1					19	81	72			3
+GCA_020623665.1	Calonectria multiphialidica	321	2	2	0	1					43	62	207			9
+GCA_020623675.1	Calonectria pseudonaviculata	230			0	0					36	21	169			4
+GCA_020623695.1	Calonectria henricotiae	201	2	1	0	0		2			26	32	139			2
+GCA_020631695.1	Trichoderma cornu-damae	80	2	2	0	0		1			9	43	27			
+GCA_020797185.1	Nakaseomyces glabratus	39			0	0					2	8	29			
+GCA_020797195.1	Nakaseomyces glabratus	39			0	0					2	9	28			
+GCA_020797205.1	Nakaseomyces glabratus	39			0	0					2	7	30			
+GCA_020797215.1	Nakaseomyces glabratus	40			0	0					2	8	30			
+GCA_020797325.1	Nakaseomyces glabratus	39			0	0					1	8	30			
+GCA_020797355.1	Nakaseomyces glabratus	39			0	0					2	7	30			
+GCA_020882315.1	Fusarium verticillioides	165	1		0	1					17	90	53			5
+GCA_021018615.1	Phlebopus sp. FC_14	50	1		0	0	2				7	11	30			
+GCA_021365345.1	Beauveria bassiana	120	2		0	0		1			8	82	28			1
+GCA_021396205.1	Sporothrix brunneoviolacea	220	1		0	1		1			29	18	165	1	2	4
+GCA_021396375.1	Sporothrix mexicana	224	1		0	0					29	23	164		2	6
+GCA_021436905.1	Fusarium circinatum	152	2	2	0	1					13	93	42			4
+GCA_021436935.1	Aspergillus creber	188	2	1	0	0		1			26	39	114			8
+GCA_021442215.1	Albifimbria verrucaria	140	2	1	0	0	1				11	72	54			2
+GCA_021498365.1	Nakaseomyces glabratus	45			0	0					2	4	39			
+GCA_021498375.1	Nakaseomyces glabratus	44			0	0					2	3	39			
+GCA_021498385.1	Nakaseomyces glabratus	42			0	0					2	4	36			
+GCA_021498435.1	Nakaseomyces glabratus	44			0	0					2	4	38			
+GCA_021525005.1	Lactarius hatsudake	91			0	0	1				9	15	66			
+GCA_021525015.1	Lactarius pseudohatsudake	114	1		0	0					8	27	79			
+GCA_021525025.1	Lactarius hengduanensis	87	1		0	0					5	19	63			
+GCA_021525775.1	Lactarius deliciosus	119	1		0	0					9	31	79			
+GCA_021527025.2	Geoglossum cookeanum	7897	13	12	43	185		1			667	49	5773	183	164	1060
+GCA_021527775.1	Lactarius sanguifluus	96	1		0	0	1				6	23	66			
+GCA_021613345.1	Alternaria burnsii	120	1		0	0					20	22	76			2
+GCA_022225985.2	Paraconiothyrium brasiliense	140	1		0	0			1		14	44	79			2
+GCA_022344125.1	Alternaria alternata	145	1		0	0					24	16	100			5
+GCA_022344135.1	Alternaria alternata	150	1		0	0					21	20	102			7
+GCA_022344145.1	Alternaria alternata	145	1		0	0					23	19	99			4
+GCA_022344205.1	Alternaria alternata	146	1		0	0					25	16	100			5
+GCA_022344235.1	Alternaria alternata	143	1		0	0					24	17	96			6
+GCA_022344255.1	Alternaria alternata	141	1		0	0					23	22	91			5
+GCA_022344265.1	Alternaria alternata	150	1		0	0					22	19	103			6
+GCA_022344295.1	Alternaria alternata	144	1		0	0					22	18	98			6
+GCA_022344335.1	Alternaria alternata	139	1		0	0					22	19	92			6
+GCA_022344355.1	Alternaria alternata	149	1		0	0					25	14	104			6
+GCA_022344405.1	Alternaria alternata	140	1		0	0					22	21	91			6
+GCA_022344415.1	Alternaria alternata	133	1		0	0					22	17	90			4
+GCA_022344435.1	Alternaria alternata	148	1		0	0					25	15	102			6
+GCA_022344465.1	Alternaria alternata	147	1		0	0					24	20	98			5
+GCA_022344485.1	Alternaria alternata	153	1		0	0					22	20	105			6
+GCA_022344495.1	Alternaria alternata	160	1		0	0					27	13	112			8
+GCA_022344505.1	Alternaria alternata	171	1		0	0					31	12	121			7
+GCA_022344615.1	Alternaria alternata	163	1		0	0					27	13	116			7
+GCA_022344625.1	Alternaria alternata	151	1		0	0					25	16	105			5
+GCA_022344635.1	Alternaria alternata	163	1		0	0					26	15	113			9
+GCA_022344655.1	Alternaria alternata	144	1		0	0					25	16	99			4
+GCA_022344665.1	Alternaria alternata	165	1		0	0					31	13	115			6
+GCA_022344695.1	Alternaria alternata	142	1		0	0					24	26	89			3
+GCA_022344705.1	Alternaria alternata	139	1		0	0					24	18	92			5
+GCA_022344745.1	Alternaria alternata	154	1		0	0					25	16	106			7
+GCA_022344765.1	Alternaria alternata	149	1		0	0					25	19	100			5
+GCA_022344775.1	Alternaria alternata	153	1		0	0					24	18	105			6
+GCA_022344885.1	Alternaria alternata	161	1		0	0					29	16	110			6
+GCA_022344895.1	Alternaria alternata	153	1		0	0					26	16	104			7
+GCA_022344905.1	Alternaria alternata	169	1		0	0					29	14	120			6
+GCA_022344925.1	Alternaria alternata	163	1		0	0					28	12	117			6
+GCA_022344955.1	Alternaria alternata	172	1		0	0					26	13	125			8
+GCA_022345075.1	Alternaria alternata	147	1		0	0					24	19	100			4
+GCA_022345085.1	Alternaria alternata	150	1		0	0					25	19	101			5
+GCA_022345095.1	Alternaria alternata	144	1		0	0					24	16	98			6
+GCA_022345165.1	Alternaria alternata	140	1		0	0					25	24	87			4
+GCA_022345175.1	Alternaria alternata	135	1		0	0					22	23	87			3
+GCA_022345185.1	Alternaria alternata	153	1		0	0					27	15	107			4
+GCA_022345235.1	Alternaria alternata	143	1		0	0					24	20	95			4
+GCA_022345245.1	Alternaria alternata	152	1		0	0					27	14	107			4
+GCA_022345285.1	Alternaria alternata	135	1		0	0					25	24	83			3
+GCA_022355435.1	Alternaria alternata	141	1		0	0					22	20	95			4
+GCA_022376515.1	Lactifluus volemus	75			0	0					7	4	64			
+GCA_022385585.1	Hypomontagnella monticulosa	136	1	1	0	0		1			16	25	92			2
+GCA_022385765.1	Trametes cingulata	53	1	1	0	0	1				3	13	36			
+GCA_022432385.1	Xylariaceae sp. FL1272	134	1		0	0			1		20	24	86			3
+GCA_022453515.1	Astrocystis sublimbata	111	1		0	0					13	11	84			3
+GCA_022457215.2	Leucocoprinus gongylophorus	61	2		0	0	2				12	2	45			
+GCA_022495235.1	Xylaria curta	142			0	0					12	19	108			3
+GCA_022496115.1	Corynespora cassiicola	157	1		0	0			1		19	54	79			4
+GCA_022559915.2	Septoria petroselini	123	1		0	0					14	22	83			4
+GCA_022560025.1	Stagonosporopsis chrysanthemi	159	2		0	0			2		21	9	120			7
+GCA_022577775.1	Wickerhamiella vanderwaltii	59			0	0					3	7	48			1
+GCA_022578615.1	Hypoxylon rubiginosum	180	1	1	0	0		1			31	34	109			5
+GCA_022578705.1	Xylariaceae sp. FL1019	116	1	1	0	0			1		13	23	75			4
+GCA_022578795.1	Xylariaceae sp. FL0255	134	1	1	0	0			1		15	18	97			3
+GCA_022578845.1	Hypoxylon cercidicola	122	1	1	0	0		1			16	29	75			1
+GCA_022592445.1	Cytidiella melzeri	68	3		0	0					6	5	56			1
+GCA_022609545.1	Didymella pinodella	144	1		0	0			1		19	14	101			9
+GCA_022660915.1	Eutypa lata	186	1		0	0		1			22	23	138			2
+GCA_022660925.1	Eutypa lata	189	1		0	0		1			26	19	142			1
+GCA_022660935.1	Eutypa lata	187	1		0	0		1			26	19	138			3
+GCA_022660945.1	Eutypa lata	184	1		0	0		1			22	20	140			1
+GCA_022661075.1	Eutypa lata	189	1		0	0		1			22	21	143			2
+GCA_022661185.1	Eutypa lata	124	1		0	0		1			11	53	58			1
+GCA_022661205.1	Eutypa lata	182	1		0	0		1			25	18	137			1
+GCA_022661235.1	Eutypa lata	188	1		0	0		1			24	22	140			1
+GCA_022661245.1	Eutypa lata	187	1		0	0		1			27	17	141			1
+GCA_022661255.1	Eutypa lata	189	1		0	0		1			23	19	145			1
+GCA_022661275.1	Eutypa lata	190	1		0	1		1			23	21	143			2
+GCA_022661325.1	Eutypa lata	184	1		0	0		1			21	25	134			3
+GCA_022661335.1	Eutypa lata	186	1		0	0		1			22	20	142			1
+GCA_022661345.1	Eutypa lata	185	1		0	0		1			23	18	142			1
+GCA_022661355.1	Eutypa lata	187	1		0	0		1			24	19	142			1
+GCA_022661375.1	Eutypa lata	181	1		0	0		1			21	22	136			1
+GCA_022661395.1	Eutypa lata	190	1		0	1		1			26	17	145			1
+GCA_022661435.1	Eutypa lata	192	1		0	1		1			25	19	144			3
+GCA_022661445.1	Eutypa lata	188	1		0	0		1			24	20	141			2
+GCA_022661455.1	Eutypa lata	183	1		0	0		1			21	22	138			1
+GCA_022661475.1	Eutypa lata	190	1		0	0		1			24	20	144			1
+GCA_022661515.1	Eutypa lata	189	1		0	0		1			23	23	140			2
+GCA_022661525.1	Eutypa lata	189	1		0	0		1			24	21	142			1
+GCA_022661535.1	Eutypa lata	121	1		0	0		1			9	54	57			
+GCA_022661565.1	Eutypa lata	191	1		0	0		1			23	22	144			1
+GCA_022661575.1	Eutypa lata	181	1		0	0		1			24	17	138			1
+GCA_022661605.1	Eutypa lata	193	1		0	0		1			23	23	144			2
+GCA_022661615.1	Eutypa lata	192	1		0	1		1			25	18	146			2
+GCA_022661635.1	Eutypa lata	183	1		0	0		1			23	21	137			1
+GCA_022661665.1	Eutypa lata	190	1		0	0		1			23	22	143			1
+GCA_022661675.1	Eutypa lata	188	1		0	0		1			24	21	141			1
+GCA_022661705.1	Eutypa lata	190	1		0	0		1			25	19	144			1
+GCA_022661715.1	Eutypa lata	184	1		0	1		1			23	20	138			2
+GCA_022661735.1	Eutypa lata	191	1		0	1		1			24	19	146			1
+GCA_022661755.1	Eutypa lata	187	1		0	0		1			23	25	137			1
+GCA_022661775.1	Eutypa lata	187	1		0	0		1			24	21	140			1
+GCA_022661805.1	Eutypa lata	134	1		0	0		1			16	38	78			1
+GCA_022661825.1	Eutypa lata	187	1		0	0		1			24	24	137			1
+GCA_022661835.1	Eutypa lata	187	1		0	0		1			26	16	142			2
+GCA_022684685.1	Beauveria bassiana	143	2	1	0	0		1			13	55	73			1
+GCA_022684695.1	Beauveria bassiana	138	2		0	0		1			15	63	58			1
+GCA_022684705.1	Beauveria bassiana	141	3	1	0	0		1			13	62	65			
+GCA_022684715.1	Beauveria bassiana	155	2	1	0	1		1			13	53	79	3	2	4
+GCA_022684725.1	Beauveria bassiana	160	2		0	0		2			17	28	110			3
+GCA_022684745.1	Beauveria bassiana	139	2		0	0		1			12	56	69			1
+GCA_022684765.1	Beauveria bassiana	146	2		0	0		1			12	70	62			1
+GCA_022702475.2	Nakaseomyces glabratus	43			0	0					2	2	39			
+GCA_022712995.1	Eutypa lata	120	1		0	0		1			9	52	57			1
+GCA_022758125.1	Beauveria bassiana	130	2		0	0		1			9	78	41			1
+GCA_022814215.1	Lobaria immixta	107			0	0					18	4	77			8
+GCA_022814315.1	Hypocenomyce scalaris	159	1		0	0		1			18	10	121			9
+GCA_022814545.1	Alternaria angustiovoidea	120	1		0	0					15	31	70			4
+GCA_022814615.1	Waltergamsia citrina	167	2	1	0	0		1			17	27	118			4
+GCA_022833035.1	Fusarium marasasianum	198	2	2	0	1					27	72	94			5
+GCA_023014335.1	Galerina marginata	55	1		0	0	1				4	19	31			
+GCA_023014435.1	Amanita fuliginea	70	3	3	0	0	1				6		53	3	4	3
+GCA_023014475.1	Amanita pallidorosea	32	2		0	0					3	4	25			
+GCA_023078535.2	Rhodotorula toruloides	165	2	2	0	0					14	28	105	3	2	13
+GCA_023088245.1	Neofusicoccum parvum	311	1		0	0		1			39	18	220	2	3	28
+GCA_023089535.1	Botryosphaeria dothidea	545	20	19	0	6	1	1			65	19	428	5	3	23
+GCA_023091205.1	Aspergillus niger	173	3	2	0	0		2			21	23	121			6
+GCA_023091265.1	Aspergillus niger	165	3	2	0	0		2			21	26	110			6
+GCA_023134235.1	Aspergillus niger	165	3	2	0	0		2			20	27	110			6
+GCA_023134265.1	Aspergillus niger	168	3	2	0	0		2			21	29	110			6
+GCA_023134295.1	Aspergillus niger	172	3	2	0	0		2			20	28	116			6
+GCA_023134325.1	Aspergillus niger	165	3	2	0	0		2			20	24	113			6
+GCA_023134355.1	Aspergillus niger	174	3	2	0	0		2			21	25	119			7
+GCA_023134385.1	Aspergillus niger	167	3	2	0	0		2			21	27	111			6
+GCA_023134415.1	Aspergillus niger	164	3	2	0	0		2			21	25	110			6
+GCA_023134445.1	Aspergillus niger	171	3	2	0	0		2			22	22	119			6
+GCA_023134475.1	Aspergillus niger	161	4	3	0	0		2			20	26	107			6
+GCA_023134515.1	Aspergillus niger	171	3	2	0	0		2			19	29	114			7
+GCA_023137675.1	Aspergillus niger	170	3	2	0	0		2			20	26	116			6
+GCA_023137705.1	Aspergillus niger	181	3	2	0	0		2			23	23	127			6
+GCA_023137735.1	Aspergillus niger	170	4	3	0	0		2			21	28	113			6
+GCA_023137765.1	Aspergillus niger	164	3	2	0	0		2			20	27	109			6
+GCA_023137795.1	Aspergillus niger	180	3	2	0	0		2			21	25	125			7
+GCA_023137805.1	Aspergillus niger	169	3	2	0	0		2			22	25	113			7
+GCA_023137835.1	Aspergillus niger	166	4	3	0	0		2			19	23	116			6
+GCA_023137865.1	Aspergillus niger	172	3	2	0	0		2			20	24	120			6
+GCA_023137895.1	Aspergillus niger	167	4	3	0	0		2			23	23	113			6
+GCA_023137925.1	Aspergillus niger	160	3	2	0	0		2			17	30	104			7
+GCA_023137955.1	Aspergillus niger	173	3	2	0	0		2			21	28	116			6
+GCA_023137965.1	Aspergillus niger	159	3	2	0	0		2			22	25	104			6
+GCA_023184635.1	Umbilicaria deusta	77	1		0	0					11	22	44			
+GCA_023618355.1	Aspergillus niger	135	3	2	0	0		1			17	41	71			5
+GCA_023618365.1	Aspergillus niger	136	3	2	0	0		2			17	40	72			5
+GCA_023618375.1	Aspergillus niger	132	3	2	0	0		2			15	44	68			3
+GCA_023618385.1	Aspergillus uvarum	148	1		0	0					16	33	94			5
+GCA_023618435.1	Aspergillus niger	141	4	3	0	0		2			17	37	81		1	3
+GCA_023618715.1	Aspergillus niger	135	4	3	0	0		2			18	45	67			3
+GCA_023618865.1	Aspergillus sp. PH3601	162	2		0	0		2			24	59	68			9
+GCA_023618895.1	Aspergillus niger	137	3	2	0	0		2			15	38	78			4
+GCA_023618915.1	Aspergillus niger	156	3	2	0	0		2			17	35	96			6
+GCA_023618935.1	Aspergillus sp. R3602	162	2		0	0		2			23	55	74			8
+GCA_023618955.1	Aspergillus sp. PB4105	161	2		0	0		2			24	57	70			8
+GCA_023618985.1	Aspergillus sp. PA40-03	167	2		0	0		1			26	58	72			10
+GCA_023618995.1	Aspergillus sp. PM3602	152	2		0	0		1			21	59	63			8
+GCA_023619275.1	Aspergillus sp. M3606	195	2		0	0		2			30	43	110			10
+GCA_023619285.1	Aspergillus sp. PH2503	157	2		0	0		1			19	63	66			8
+GCA_023619295.1	Aspergillus sp. S4402	179	2		0	0		2			33	36	97			11
+GCA_023619325.1	Aspergillus sp. PK2410	174	2		0	0		2			28	50	85			9
+GCA_023619345.1	Aspergillus sp. M3605	195	2		0	0		2			30	42	111			10
+GCA_023619365.1	Aspergillus sp. S4401N	181	2		0	0		2			32	37	99			11
+GCA_023619375.1	Aspergillus sp. PYS2105	165	2		0	0		2			21	53	80			9
+GCA_023619405.1	Aspergillus sp. S2103	181	2		0	0		2			27	51	92			9
+GCA_023619415.1	Aspergillus sp. S1702	169	2		0	0		2			25	50	83			9
+GCA_023619445.1	Aspergillus sp. F3605	169	2		0	0		1			23	53	83			9
+GCA_023619455.1	Aspergillus sp. PB4106	153	2		0	0		1			18	68	58			8
+GCA_023619485.1	Aspergillus sp. F3604	163	2		0	0		1			27	39	88			8
+GCA_023619495.1	Aspergillus sp. S3606	159	2		0	0		1			20	70	60			8
+GCA_023619515.1	Aspergillus sp. S1903S	180	2		0	0		2			30	43	97			8
+GCA_023619545.1	Aspergillus sp. PG3606D	153	2		0	0		1			19	71	56			6
+GCA_023619555.1	Aspergillus sp. PG3608	171	2		0	0		1			25	51	85			9
+GCA_023619575.1	Aspergillus sp. PB4102	161	2		0	0		1			22	64	67			7
+GCA_023619605.1	Aspergillus sp. S2105	149	2		0	0		1			17	66	59			6
+GCA_023619615.1	Aspergillus sp. PG3603	158	2		0	0		2			24	59	66			7
+GCA_023619645.1	Aspergillus sp. S2109	157	2		0	0		2			23	55	69			8
+GCA_023619655.1	Aspergillus sp. S1905	175	2		0	0		2			31	43	91			8
+GCA_023619705.1	Aspergillus sp. PA2101	161	2		0	0		2			21	51	79			8
+GCA_023619725.1	Aspergillus sp. R2804	166	2		0	0		1			24	48	85			8
+GCA_023619735.1	Aspergillus sp. F3601	163	2		0	0		1			21	68	65			8
+GCA_023619755.1	Aspergillus sp. PB2407	149	2		0	0		1			19	66	56			7
+GCA_023624595.1	Penicillium citrinum	138	3	2	0	0		1			12	60	58			7
+GCA_023624655.1	Penicillium citrinum	164	4	3	0	0		1			15	45	92			11
+GCA_023624675.1	Penicillium citrinum	154	4	3	0	0		1			19	39	87			8
+GCA_023624915.1	Aspergillus amoenus	186	2		0	0		1			22	59	95			9
+GCA_023624935.1	Aspergillus sp. PA3604	181	2	1	0	0		1			23	45	103			9
+GCA_023624955.1	Aspergillus unguis	121	2	1	0	0		1			13	52	48			7
+GCA_023624975.1	Aspergillus unguis	113	2	1	0	0		1			11	51	45			5
+GCA_023624995.1	Aspergillus unguis	119	2	1	0	0		1			13	51	47			7
+GCA_023625005.1	Aspergillus unguis	118	2	1	0	0		1			12	48	51			6
+GCA_023625335.1	Aspergillus japonicus	170	1		0	0					21	26	116			7
+GCA_023625555.1	Aspergillus lentulus	133	2		0	1		1			18	34	77			3
+GCA_023625595.1	Aspergillus uvarum	154	1		0	0					17	28	105			4
+GCA_023625615.1	Aspergillus niger	198	3	2	0	0		2			27	20	138			11
+GCA_023625655.1	Aspergillus niger	199	3	2	0	0		2			28	17	142			10
+GCA_023627405.1	Penicillium sp. S1316	219	2		0	1		1			34	30	145			9
+GCA_023627535.1	Aspergillus sp. S1802E	165	2		0	1		1			16	46	97			5
+GCA_023627575.1	Aspergillus sp. R2407	165	2		0	1		1			15	45	99			5
+GCA_023627595.1	Aspergillus sp. R2302	166	3	1	0	1		1			16	46	98			5
+GCA_023629135.1	Nakaseomyces glabratus	39			0	0					1	5	33			
+GCA_023629155.1	Nakaseomyces glabratus	39			0	0					1	6	32			
+GCA_023645855.1	Letrouitia transgressa	100			0	0					12	12	74			2
+GCA_023646045.1	Letrouitia transgressa	95			0	0					11	17	66			1
+GCA_023647615.1	Corynespora cassiicola	185	1		0	0			1		26	38	115			5
+GCA_023653575.1	Corynespora cassiicola	233	1		0	0			1		32	20	166			14
+GCA_023653595.1	Corynespora cassiicola	684	9	8	0	12			1		74	29	494	9	3	74
+GCA_023653695.1	Corynespora cassiicola	585	3	2	1	14			1		69	24	430	9	1	51
+GCA_023653765.1	Corynespora cassiicola	727	13	12	0	18			1		79	29	509	12	8	89
+GCA_023718355.1	Aspergillus welwitschiae	154	3	2	0	0		2			20	33	93			6
+GCA_023973435.1	Aspergillus niger	206	1		0	0					26	18	153			9
+GCA_023973445.1	Aspergillus niger	210	4	3	1	2		2			25	27	141	1	3	11
+GCA_024115165.1	Fusarium robinianum	164	2	1	0	0					23	17	119		1	4
+GCA_024195175.2	Nakaseomyces glabratus	41			0	0					1	5	35			
+GCA_024472245.1	Beauveria sp. NWAFU-1	132	2		0	0		1			8	93	29			1
+GCA_024500205.1	Corynespora cassiicola	1057	17	16	1	27			1		121	31	732	18	13	141
+GCA_024500335.1	Corynespora cassiicola	634	8	7	0	8			1		80	29	426	9	2	87
+GCA_024665945.1	Nakaseomyces glabratus	42			0	0					2	3	37			
+GCA_024665985.1	Nakaseomyces glabratus	40			0	0					1	5	34			
+GCA_024666015.1	Nakaseomyces glabratus	42			0	0					2	3	37			
+GCA_024704035.1	Pyricularia oryzae	148	2	1	0	0			1		15	17	107		1	7
+GCA_024704135.1	Pyricularia grisea	142	1		0	0			1		18	14	100		1	8
+GCA_024704145.1	Pyricularia oryzae	156	2	1	0	0			1		17	15	115		1	7
+GCA_024704255.1	Pyricularia oryzae	149	2	1	0	0			1		15	16	108		1	8
+GCA_024704485.1	Pyricularia oryzae	160	2	1	0	0			1		17	14	117		1	10
+GCA_024704655.1	Pyricularia oryzae	159	2	1	0	0			1		17	16	113		1	11
+GCA_024721195.1	Marasmius sp. AFHP31	110	1		0	0			1		11	11	87			
+GCA_024734325.1	Lactarius hatsudake	73	1		0	0	1				5	22	45			
+GCA_024734855.1	Rhodotorula toruloides	165	2	2	0	0					14	28	105	3	2	13
+GCA_024862975.1	Aspergillus niger	114	3	2	0	0		1			10	68	32			3
+GCA_025331885.1	Nakaseomyces glabratus	41			0	0					2	8	31			
+GCA_025331905.1	Nakaseomyces glabratus	40			0	0					2	9	29			
+GCA_025380265.1	Beauveria bassiana	120	2		0	0		1			8	84	26			1
+GCA_025433615.1	Fusarium sp. LHS14.1	179	2	2	0	0		1			18	96	60			4
+GCA_025503555.1	Nakaseomyces glabratus	38			0	0					1	7	30			
+GCA_025531905.1	Penicillium citrinum	160	4	3	0	0		1			16	53	82			8
+GCA_025592935.1	Aspergillus ostianus	211	2	1	0	0					23	24	155			9
+GCA_025594125.1	Aspergillus ochraceus	227	4	1	0	1		1			24	22	169			11
+GCA_025677925.1	Epicoccum latusicollum	110	1		0	0					10	36	59			5
+GCA_025765985.1	Aspergillus sp. Z5	156	2		0	0		1			22	61	64			8
+GCA_025766015.1	Aspergillus sp. Z5	157	2		0	0		2			25	56	67			7
+GCA_025768325.1	Penicillium citrinum	147	4	3	0	0		1			13	55	71			7
+GCA_025768355.1	Penicillium citrinum	145	4	3	0	0		1			13	50	74			7
+GCA_025768385.1	Penicillium citrinum	144	4	3	0	0		1			14	56	66			7
+GCA_025768405.1	Penicillium citrinum	148	4	3	0	0		1			12	55	72			8
+GCA_025768445.1	Penicillium citrinum	153	4	3	0	0		1			19	32	95			6
+GCA_025768525.1	Penicillium citrinum	148	4	3	0	0		1			12	59	69			7
+GCA_025768555.1	Penicillium citrinum	147	4	3	0	0		1			15	48	76			7
+GCA_025768585.1	Penicillium citrinum	144	4	3	0	0		1			10	59	67			7
+GCA_025768615.1	Penicillium citrinum	152	3	2	0	0		1			17	47	81			6
+GCA_025768645.1	Penicillium citrinum	148	4	3	0	0		1			18	45	78			6
+GCA_025768665.1	Penicillium citrinum	149	4	3	0	0		1			16	48	78			6
+GCA_025768705.1	Penicillium citrinum	145	4	3	0	0		1			12	56	69			7
+GCA_025768735.1	Penicillium citrinum	150	4	3	0	0		1			16	46	79			8
+GCA_025768765.1	Penicillium citrinum	176	4	3	0	0		1			17	35	111			12
+GCA_025768795.1	Penicillium citrinum	148	4	3	0	0		1			16	48	75			8
+GCA_025769455.1	Aspergillus niger	149	4	3	0	0		2			18	41	82			6
+GCA_025769485.1	Aspergillus niger	140	4	3	0	0		2			14	38	81			5
+GCA_025769515.1	Aspergillus niger	143	4	3	0	0		2			20	36	78		1	6
+GCA_025769535.1	Aspergillus niger	145	3	2	0	0		2			18	36	83			6
+GCA_025769575.1	Aspergillus niger	130	4	3	0	0		2			16	40	69			3
+GCA_025782865.1	Penicillium citrinum	145	4	3	0	0		1			17	49	72			6
+GCA_025802455.2	Iodosphaeria phyllophila	11393	35	34	24	155	1				880	58	7665	275	222	2292
+GCA_026023875.1	Bathelium mastoideum	99	1		0	0					12	25	61			1
+GCA_026054635.1	Bathelium mastoideum	98	1		0	0					10	23	64			1
+GCA_026108165.1	Aspergillus ochraceus	138	3	2	0	0		2			15	38	80			3
+GCA_026119635.1	Aspergillus niger	168	3	2	0	0		2			21	24	115			6
+GCA_026119665.1	Aspergillus niger	155	3	2	0	0		2			19	29	99			6
+GCA_026119675.1	Aspergillus niger	158	3	2	0	0		2			20	27	103			6
+GCA_026119705.1	Aspergillus niger	158	3	2	0	0		2			20	30	101			5
+GCA_026119715.1	Aspergillus niger	158	3	2	0	0		2			20	28	103			5
+GCA_026119745.1	Aspergillus niger	168	3	2	0	0		2			20	27	112			7
+GCA_026119755.1	Aspergillus niger	160	3	2	0	0		2			19	23	108			8
+GCA_026119785.1	Aspergillus niger	149	3	2	0	0		2			19	30	92			6
+GCA_026213095.1	Tricholoma matsutake	48			0	0					6	11	31			
+GCA_026225675.1	Saccharomyces cerevisiae	44			0	0					2	10	32			
+GCA_026259865.1	Aspergillus westerdijkiae	203	3	2	0	0		2			20	28	145			8
+GCA_026261755.1	Aspergillus niger	128	3	2	0	0		1			13	57	53			4
+GCA_026319385.1	Aspergillus sydowii	213	2		0	0		2			34	27	139			11
+GCA_026319405.1	Aspergillus sydowii	244	2		0	0		2			37	21	161	1	7	15
+GCA_026539265.1	Nakaseomyces glabratus	40			0	0					2	9	29			
+GCA_026539755.1	Nakaseomyces glabratus	38			0	0					3	7	28			
+GCA_026539885.1	Nakaseomyces glabratus	19			0	0						2	17			
+GCA_026539985.1	Nakaseomyces glabratus	21			0	0					2	3	16			
+GCA_026540005.1	Nakaseomyces glabratus	38			0	0					2	8	28			
+GCA_026652225.1	Colletotrichum graminicola	173	2	1	0	0			1		29	17	122			4
+GCA_026652245.1	Colletotrichum graminicola	186	2	1	0	0			1		30	15	134	1		5
+GCA_026652265.1	Colletotrichum graminicola	172	2	1	0	0					28	19	122			3
+GCA_026652275.1	Colletotrichum graminicola	172	2	1	0	0					27	18	123	1		3
+GCA_026652285.1	Colletotrichum graminicola	187	2	1	0	0			1		33	14	133	1		5
+GCA_026652305.1	Colletotrichum graminicola	172	2	1	0	0			1		28	16	123			4
+GCA_026652315.1	Colletotrichum graminicola	170	2	1	0	0			1		28	17	121			3
+GCA_026652355.1	Colletotrichum graminicola	170	2	1	0	0			1		26	19	120			4
+GCA_026652695.1	Colletotrichum graminicola	174	2	1	0	0			1		28	15	126			4
+GCA_026652705.1	Colletotrichum graminicola	162	2	1	0	0					25	25	110			2
+GCA_026652995.1	Colletotrichum graminicola	164	2	1	0	0					22	30	110			2
+GCA_026653275.1	Colletotrichum graminicola	192	2	1	0	0			1		31	15	139	1		5
+GCA_026653375.1	Colletotrichum graminicola	192	2	1	0	0			1		32	15	136	1		7
+GCA_026653475.1	Colletotrichum graminicola	191	2	1	0	0			1		31	15	134	2	1	7
+GCA_026653595.1	Colletotrichum graminicola	186	2	1	0	0			1		31	15	132	1		6
+GCA_026653705.1	Colletotrichum graminicola	176	2	1	0	0			1		29	17	124			5
+GCA_026654635.1	Colletotrichum graminicola	673	36	35	0	5			1		91	83	423	9	6	60
+GCA_026656465.1	Colletotrichum graminicola	185	2	1	0	0			1		31	15	132	1		5
+GCA_026743855.1	Pleurotus sapidus	55			0	0	1				4	5	45			
+GCA_026745395.1	Tympanopsis confertula	6011	53	52	23	120		1			522	55	4131	132	126	1044
+GCA_026769995.1	Clonostachys rosea	443	5	4	0	1		1			58	59	269	6	6	44
+GCA_026873275.1	Pseudopithomyces maydicus	127	3	1	0	0					10	50	64			3
+GCA_026954905.1	Saccharomyces cerevisiae	58			0	0					4	4	50			
+GCA_027405775.1	Ophiocordyceps robertsii	118			0	0					16	7	91			4
+GCA_027405785.1	Ophiocordyceps robertsii	117			0	0					16	9	90			2
+GCA_027480175.1	Nakaseomyces glabratus	41			0	0					2	4	35			
+GCA_027480185.1	Nakaseomyces glabratus	42			0	0					2	2	38			
+GCA_027480195.1	Nakaseomyces glabratus	41			0	0					1	5	35			
+GCA_027569015.1	Ascodesmis sphaerospora	206	2	1	0	0	1				28	68	105			4
+GCA_027569065.1	Aspergillus cavernicola	215	2	1	0	0		2			33	30	143			7
+GCA_027569115.1	Aspergillus fructus	175	2		0	0					19	63	86			7
+GCA_027569665.1	Aspergillus bridgeri	202	4	3	0	0		2			20	42	124	4	3	7
+GCA_027569755.1	Penicillium citrinum	185	4	3	0	0		1			22	34	120			8
+GCA_027569935.1	Clonostachys sp. G952	236	2	1	0	1		1			28	69	138			
+GCA_027569955.1	Clonostachys sp. G600	264	2	1	0	1		1			40	59	163			1
+GCA_027574645.1	Fusarium solani	269	1	1	0	0					42	34	184			9
+GCA_027605045.1	Phallus indusiatus	78	1		0	0					7	12	57			2
+GCA_027627305.1	Fusarium decemcellulare	374	3	2	0	1					65	25	269			15
+GCA_027923725.1	Aspergillus niger	166	4	3	0	0		2			18	26	114			6
+GCA_027923785.1	Aspergillus niger	174	3	2	0	0		2			23	26	117			6
+GCA_027923805.1	Aspergillus niger	167	4	3	0	0		2			22	25	112			6
+GCA_027923865.1	Aspergillus niger	166	3	2	0	0		2			18	28	112			6
+GCA_027923945.1	Aspergillus niger	161	4	3	0	0		2			17	32	104			6
+GCA_027923985.1	Aspergillus niger	160	4	3	0	0		2			19	28	106			5
+GCA_027924005.1	Aspergillus niger	165	4	3	0	0		2			17	29	111			6
+GCA_027946365.1	Kalmusia sp. IMI 367209	143	10	7	0	0			3		13	61	63			3
+GCA_027946415.1	Didymella glomerata	164	1		0	0			1		25	16	111			11
+GCA_027946455.1	Neocucurbitaria cava	118	1		0	0					18	40	58			2
+GCA_028028555.1	Pseudopestalotiopsis chinensis	178			0	0				1	22	63	84			8
+GCA_028408395.1	Monosporozyma servazzii	43	1		0	0		1			2	5	35			
+GCA_028476805.1	Acrocalymma vagum	279	15	8	0	0			7		42	37	184			9
+GCA_028565235.1	Hypoxylon lenormandii	167	1		0	0					25	24	113			5
+GCA_028566015.1	Echinosphaeria canescens	23538	177	175	72	343	1	1		2	1979	125	16577	576	387	3890
+GCA_028566015.2	Echinosphaeria canescens	20481	121	120	65	309	1	1		2	1755	113	14360	519	356	3374
+GCA_028571165.1	Hypoxylon perforatum	284	1		0	1		1			31	50	169	1	2	30
+GCA_028827645.1	Penicillium hetheringtonii	124	3	2	0	0		1			7	73	38			5
+GCA_028828415.1	Cordyceps cateniannulata	137	2	1	0	0		1			8	95	32			1
+GCA_029169295.1	Aspergillus alliaceus	205	4	3	0	0		1			23	28	142			11
+GCA_029233265.1	Mycena alexandri	121	1		0	0					12	18	91			
+GCA_029281405.1	Mycena pura	72	1		0	0			1		7	14	50			
+GCA_029281465.1	Mycena epipterygia	110	1		0	0			1		11	22	76			
+GCA_029282285.1	Mycena rebaudengoi	151	5	1	0	0	1				11	22	117			
+GCA_029289555.1	Mycena latifolia	156	2		0	0					12	25	118			1
+GCA_029295075.1	Sordariomycetes sp.	282	1		0	0		1			59	18	198			6
+GCA_029295265.1	Sordariomycetes sp.	166	1		0	0		1			33	9	120			3
+GCA_029300775.1	Saccharomyces cerevisiae	51			0	0					6	1	43			1
+GCA_029339225.1	Phyllachora maydis	54	1	1	0	0			1		4	19	29			1
+GCA_029378385.1	Mycena metata	120	1		0	0					10	14	96			
+GCA_029449245.1	Mortierella alpina	111	1		0	1				1	2	60	47			1
+GCA_029582035.1	Aspergillus niger	116	3	2	0	0		1			11	65	36			3
+GCA_029590625.1	Lasiodiplodia mahajangana	133	1		0	0	1				21	14	87			10
+GCA_029618705.1	Clonostachys rosea	251	1		0	0		1			30	57	162			1
+GCA_029783905.1	Aspergillus niger	119	3	3	0	0		2			10	71	33			3
+GCA_029783925.1	Aspergillus niger	115	3	3	0	0		1			10	68	33			3
+GCA_029948375.1	Ramalina farinacea	90			0	0					10	33	45			2
+GCA_029962645.1	Aspergillus nomiae	200	3		0	2		1			18	48	125		1	7
+GCA_029989845.1	Saccharomyces cerevisiae	55			0	0					3	17	35			
+GCA_029990125.1	Saccharomyces cerevisiae	55			0	0					3	17	35			
+GCA_029990435.1	Saccharomyces cerevisiae	54			0	0					3	16	35			
+GCA_029990515.1	Saccharomyces cerevisiae	53			0	0					3	16	34			
+GCA_029990535.1	Saccharomyces cerevisiae	53			0	0					4	16	33			
+GCA_029990705.1	Saccharomyces cerevisiae	56			0	0					3	16	37			
+GCA_029990785.1	Saccharomyces cerevisiae	52			0	0					3	17	32			
+GCA_029990805.1	Saccharomyces cerevisiae	55			0	0					4	17	34			
+GCA_029990845.1	Saccharomyces cerevisiae	54			0	0					4	16	34			
+GCA_029990905.1	Saccharomyces cerevisiae	51			0	0					3	13	35			
+GCA_029990965.1	Saccharomyces cerevisiae	51			0	0					4	16	31			
+GCA_029991225.1	Saccharomyces cerevisiae	55			0	0					3	19	33			
+GCA_029991315.1	Saccharomyces cerevisiae	52			0	0					3	17	32			
+GCA_029991515.1	Saccharomyces cerevisiae	53			0	0					3	15	35			
+GCA_029991605.1	Saccharomyces cerevisiae	54			0	0					3	17	34			
+GCA_029991755.1	Saccharomyces cerevisiae	51			0	0					4	15	32			
+GCA_030014135.1	Aspergillus fijiensis	160	1		0	0		1			15	53	86			5
+GCA_030015405.1	Aspergillus welwitschiae	118	4	4	0	0		1			9	69	33	1	1	4
+GCA_030015485.1	Arthroderma uncinatum	76	2		0	1		1			5	51	17			2
+GCA_030036115.2	Saccharomyces cerevisiae	236			0	0					20	18	198			
+GCA_030036135.2	Saccharomyces cerevisiae	151			0	0					11	7	133			
+GCA_030036155.2	Saccharomyces cerevisiae	139			0	0					12	16	111			
+GCA_030036235.2	Saccharomyces cerevisiae	146			0	0					16	16	114			
+GCA_030036315.2	Saccharomyces cerevisiae	119			0	0					8	10	101			
+GCA_030036335.2	Saccharomyces cerevisiae	125			0	0					12	17	96			
+GCA_030036355.2	Saccharomyces cerevisiae	43			0	0					2	11	30			
+GCA_030036455.2	Saccharomyces cerevisiae	152			0	0					14	17	121			
+GCA_030039275.1	Naganishia adeliensis	76	1		0	0			1		5	18	52			
+GCA_030052745.1	Pleurostoma richardsiae	176	1		0	0		1			21	41	108			5
+GCA_030247875.1	Cladophialophora chaetospira	141	1	1	0	0					22	30	83			6
+GCA_030267745.1	Ambrosiozyma monospora	207			0	0					15	8	178			6
+GCA_030278935.1	Trichoderma polysporum	181	2		0	0		2			24	16	137			2
+GCA_030370815.1	Ilyonectria mors-panacis	274	2	1	0	2					43	38	181			12
+GCA_030370895.1	Ilyonectria mors-panacis	252	2	1	0	2					37	38	170			7
+GCA_030370915.1	Ilyonectria mors-panacis	269	2	1	0	2					40	34	183			12
+GCA_030370945.1	Ilyonectria mors-panacis	275	2	1	0	4					43	37	184			11
+GCA_030370985.1	Ilyonectria mors-panacis	256	2	1	0	2					40	38	171			7
+GCA_030371025.1	Ilyonectria mors-panacis	261	2	1	0	2					38	39	175			9
+GCA_030371055.1	Ilyonectria mors-panacis	258	2	1	0	2					38	39	170			11
+GCA_030371075.1	Ilyonectria mors-panacis	256	2	1	0	2					36	38	175			7
+GCA_030371095.1	Ilyonectria mors-panacis	248	2	1	0	2					35	40	164			9
+GCA_030371145.1	Ilyonectria mors-panacis	254	2	1	0	2					38	40	167			9
+GCA_030371195.1	Ilyonectria mors-panacis	250	2	1	0	2					38	37	168			7
+GCA_030371205.1	Ilyonectria mors-panacis	260	2	1	0	2					38	39	175			8
+GCA_030378425.1	Periconia sp. TS-2	170	1		0	0					25	41	102			2
+GCA_030406835.1	Beauveria australis	174	2		0	0		2			26	15	128			3
+GCA_030406945.1	Beauveria pseudobassiana	176	2		0	0		2			17	28	127			2
+GCA_030406955.1	Beauveria bassiana	171	4	2	0	0	1	2			21	17	127			3
+GCA_030406965.1	Beauveria bassiana	157	3	1	0	0		2			18	20	115			2
+GCA_030411435.1	Cordyceps cateniannulata	189	2	1	0	0		2			28	23	134			2
+GCA_030411475.1	Beauveria pseudobassiana	175	2		0	0		2			19	26	124			4
+GCA_030411495.1	Cordyceps cateniannulata	188	3	2	0	0		2			24	22	136			4
+GCA_030411515.1	Akanthomyces dipterigenus	212	2	1	0	0		1			23	13	170		1	4
+GCA_030411535.1	Beauveria australis	171	2		0	0		2			24	16	126			3
+GCA_030411555.1	Beauveria pseudobassiana	166	2		0	0		2			18	25	119			2
+GCA_030411575.1	Akanthomyces lecanii	221	1		0	0		1			22	45	150			3
+GCA_030411595.1	Beauveria pseudobassiana	180	2		0	0		2			18	33	123			4
+GCA_030411615.1	Beauveria pseudobassiana	168	2		0	0		2			18	26	120			2
+GCA_030411655.1	Beauveria pseudobassiana	191	2		0	0		2			19	24	141			5
+GCA_030463195.1	Colletotrichum graminicola	136	2	1	0	0					19	40	75			2
+GCA_030564085.1	Nakaseomyces uthaithaninus	46			0	0					3	3	40			
+GCA_030564425.1	Wickerhamiella cacticola	46			0	0					6	8	32			
+GCA_030564785.1	Metschnikowia hibisci	42			0	0					4	8	28			2
+GCA_030569875.1	Nakaseomyces bracarensis	47			0	0					7	2	38			
+GCA_030570895.1	Nakaseomyces delphensis	44			0	0					3	2	38			1
+GCA_030571095.1	Hansenula sp. yHMH451	89			0	0					8	37	39			5
+GCA_030571395.1	Nakaseomyces sp. UFMG-CM-Y6046	46			0	0					3	1	42			
+GCA_030574155.1	Xiuguozyma insectalens	57			0	0					9	11	37			
+GCA_030579235.1	Nakaseomyces glabratus	41			0	0					1	4	36			
+GCA_030579635.1	Wickerhamiella australiensis	55			0	0					5	5	44			1
+GCA_030579935.1	Ambrosiozyma cicatricosa	93			0	0					8	5	78			2
+GCA_030579955.1	Ambrosiozyma monospora	114			0	0					10	12	90			2
+GCA_030580535.1	Monosporozyma servazzii	42	1		0	0		1			2	4	35			
+GCA_030582035.1	Wickerhamiella occidentalis	52			0	0					7	7	36			2
+GCA_030582055.1	Wickerhamiella lipophila	50			0	0					5	4	40			1
+GCA_030582215.1	Wickerhamiella alocasiicola	60			0	0					5	4	48			3
+GCA_030582415.1	Wickerhamiella vanderwaltii	59			0	0					4	8	47			
+GCA_030583085.1	Hermanozyma aechmeae	62			0	0					7	11	43			1
+GCA_030674015.1	Aspergillus melleus	173	2	1	0	0					17	37	114			5
+GCA_030705005.1	Naumovozyma dairenensis	53			0	0					5	4	43			1
+GCA_030770045.1	Colletotrichum brevisporum	152	3	3	1	1					14	84	43	1	7	3
+GCA_030770415.1	Pleoardoris graminearum	167	8	4	0	0			1		19	24	119		1	3
+GCA_030770595.1	Beauveria pseudobassiana	189	2		0	0		2			21	24	139			3
+GCA_030770625.1	Beauveria bassiana	174	2		0	0		2			20	21	128			3
+GCA_030770635.1	Beauveria pseudobassiana	187	2	1	0	0		2			21	25	135			4
+GCA_030771925.1	Beauveria bassiana	179	2		0	0		2			24	12	136			5
+GCA_030771935.1	Beauveria bassiana	173	2		0	0		2			20	11	136			4
+GCA_030771945.1	Beauveria australis	176	2		0	0		2			25	14	133			2
+GCA_030771955.1	Beauveria pseudobassiana	182	2	1	0	0		2			19	17	142			2
+GCA_030772005.1	Beauveria bassiana	163	2		0	0		2			21	23	115			2
+GCA_030772015.1	Beauveria bassiana	174	2		0	0		2			20	15	135			2
+GCA_030772025.1	Beauveria pseudobassiana	182	2	1	0	0		2			20	22	135			3
+GCA_030772035.1	Beauveria bassiana	172	2		0	0		2			19	16	132			3
+GCA_030772065.1	Beauveria bassiana	176	2		0	0		2			22	13	136			3
+GCA_030772095.1	Beauveria bassiana	180	2		0	0		2			22	15	137			4
+GCA_030772105.1	Beauveria bassiana	177	2		0	0		2			22	13	136			4
+GCA_030772125.1	Beauveria bassiana	169	2		0	0		2			20	22	122			3
+GCA_030772135.1	Beauveria bassiana	168	2		0	0		2			22	16	124			4
+GCA_030772175.1	Beauveria bassiana	179	2		0	0		2			22	14	137			4
+GCA_030772205.1	Beauveria varroae	184	2		0	0		2			20	22	138			2
+GCA_030772235.1	Beauveria bassiana	169	2		0	0		2			21	16	124			6
+GCA_030772255.1	Beauveria bassiana	172	2		0	0		2			23	15	129			3
+GCA_030772265.1	Beauveria bassiana	185	2		0	0		2			24	13	140			6
+GCA_030772295.1	Beauveria bassiana	178	2		0	0		2			24	14	134			4
+GCA_030772305.1	Beauveria bassiana	173	2		0	0		2			22	15	131			3
+GCA_030772365.1	Beauveria pseudobassiana	189	2	1	0	0		2			21	22	140			4
+GCA_030772385.1	Beauveria pseudobassiana	181	2		0	0		2			19	23	135			2
+GCA_030772395.1	Beauveria bassiana	167	2		0	0		2			19	17	125			4
+GCA_030772405.1	Beauveria bassiana	175	2	1	0	0		2			21	14	136			2
+GCA_030772425.1	Beauveria bassiana	199	3		0	0		3			22	8	163			3
+GCA_030772495.1	Beauveria bassiana	173	3	1	0	0		2			21	15	131			4
+GCA_030772515.1	Beauveria bassiana	172	3	1	0	0	1	2			19	20	127			3
+GCA_030772535.1	Beauveria bassiana	176	2		0	0		2			22	14	135			3
+GCA_030772555.1	Beauveria bassiana	169	2		0	0		2			21	12	132			2
+GCA_030772575.1	Beauveria pseudobassiana	189	2	1	0	0		2			20	18	147			2
+GCA_030772595.1	Beauveria bassiana	170	2		0	0		2			19	26	121			2
+GCA_030772615.1	Beauveria bassiana	166	2		0	0		2			19	16	125			4
+GCA_030772635.1	Beauveria bassiana	175	2	1	0	0		2			20	18	133			2
+GCA_030772655.1	Beauveria pseudobassiana	183	2	1	0	0		2			20	20	137			4
+GCA_030772675.1	Beauveria bassiana	170	2		0	0		2			21	17	127			3
+GCA_030772695.1	Beauveria pseudobassiana	182	2	1	0	0		2			19	23	136			2
+GCA_030772715.1	Beauveria bassiana	170	2	1	0	0		1			20	13	132			4
+GCA_030772755.1	Beauveria bassiana	174	2		0	0		2			23	14	132			3
+GCA_030772775.1	Beauveria bassiana	165	3	1	0	0		2			18	16	127			2
+GCA_030772795.1	Beauveria pseudobassiana	176	2		0	0		2			21	21	129			3
+GCA_030772815.1	Akanthomyces lecanii	260	1		0	0		1			30	31	194			4
+GCA_030772835.1	Beauveria bassiana	170	2		0	0		2			21	24	118			5
+GCA_030772855.1	Beauveria bassiana	178	2		0	0		2			19	20	132			5
+GCA_030772875.1	Beauveria bassiana	170	2		0	0		2			21	16	128			3
+GCA_030772895.1	Beauveria bassiana	176	2		0	0		2			21	18	132			3
+GCA_030772915.1	Beauveria bassiana	169	2		0	0		2			22	16	127			2
+GCA_030772955.1	Beauveria bassiana	170	3	1	0	0		2			18	10	136			4
+GCA_030777425.1	Beauveria bassiana	196	2		0	0		2			24	13	154			3
+GCA_030777445.1	Beauveria pseudobassiana	179	2		0	0		2			18	22	134			3
+GCA_030777465.1	Beauveria pseudobassiana	180	2		0	0		2			18	32	126			2
+GCA_030777485.1	Beauveria bassiana	171	3	1	0	0	1	2			23	14	128			3
+GCA_030777505.1	Beauveria bassiana	176	3	1	0	0	1	2			20	13	132			8
+GCA_030777525.1	Beauveria pseudobassiana	180	2		0	0		2			19	31	124		1	3
+GCA_030777565.1	Beauveria bassiana	171	3	1	0	0	1	2			20	20	124			4
+GCA_030777585.1	Beauveria bassiana	170	3	1	0	0	1	2			23	15	126			3
+GCA_030777605.1	Beauveria bassiana	173	2		0	0		2			18	24	126			3
+GCA_030777625.1	Beauveria bassiana	176	3	2	0	0	1	2			22	17	131			3
+GCA_030777645.1	Beauveria bassiana	149	3	1	0	0	1	2			20	18	105			3
+GCA_030777665.1	Beauveria bassiana	158	3	1	0	0	1	2			18	21	113			3
+GCA_030777685.1	Beauveria bassiana	169	3	1	0	0	1	2			23	13	126			4
+GCA_030777705.1	Beauveria bassiana	155	4	2	0	0	1	2			17	22	109			4
+GCA_030777745.1	Beauveria bassiana	166	3	1	0	0		2			21	21	119			3
+GCA_030777765.1	Cordyceps javanica	198	4	1	0	1		3			23	21	146			5
+GCA_030777825.1	Cordyceps javanica	228	4	1	0	1		3			25	11	183			6
+GCA_030777865.1	Beauveria bassiana	175	2		0	0		2			20	17	131			5
+GCA_030777885.1	Beauveria varroae	180	2		0	0		2			21	25	130			2
+GCA_030777905.1	Beauveria bassiana	166	2		0	0		2			23	20	117			4
+GCA_030778025.1	Cordyceps javanica	197	4	1	0	1		3			24	19	147			4
+GCA_030778045.1	Beauveria bassiana	167	2		0	0		2			19	15	129			2
+GCA_030778085.1	Beauveria bassiana	183	2		0	0		2			23	10	140	1		7
+GCA_030778125.1	Cordyceps javanica	203	4	1	0	1		3			26	16	152	1		5
+GCA_030778145.1	Beauveria australis	178	2		0	0		2			25	12	135			4
+GCA_030778185.1	Cordyceps javanica	201	4	1	0	1		3			24	23	147			4
+GCA_030778225.1	Beauveria bassiana	174	3	1	0	0		2			23	13	132			4
+GCA_030778265.1	Beauveria bassiana	177	2		0	0		2			24	6	142			3
+GCA_030778325.1	Beauveria medogensis	185	2		0	0		2			23	12	144			4
+GCA_030778425.1	Beauveria bassiana	179	2		0	0		2			25	13	135			4
+GCA_030778445.1	Cordyceps javanica	227	2		0	2		1			28	9	181		1	7
+GCA_030778565.1	Beauveria bassiana	167	2		0	0		2			21	16	126			2
+GCA_030778585.1	Beauveria pseudobassiana	199	3	1	0	0		3			24	18	150			4
+GCA_030778605.1	Beauveria bassiana	175	2		0	0		2			21	12	137			3
+GCA_030778625.1	Beauveria bassiana	169	2		0	0		2			22	16	126			3
+GCA_030778665.1	Beauveria bassiana	173	2		0	0		2			21	10	137			3
+GCA_030778725.1	Beauveria bassiana	170	2		0	0		2			22	16	127	1		2
+GCA_030778745.1	Beauveria bassiana	170	2		0	0		2			22	12	131			3
+GCA_030778785.1	Beauveria bassiana	171	2		0	0		2			21	11	134			3
+GCA_030778845.1	Beauveria bassiana	210	3	1	0	0	1	2			26	9	164			8
+GCA_030778865.1	Beauveria varroae	174	2		0	0		2			21	26	124			1
+GCA_030778885.1	Beauveria bassiana	211	2		0	0		2			23	13	170			3
+GCA_030778945.1	Beauveria bassiana	164	2		0	0		2			20	21	119			2
+GCA_030779005.1	Beauveria bassiana	168	2		0	0		2			20	16	127			3
+GCA_030779045.1	Beauveria bassiana	171	2		0	0		2			20	22	124			3
+GCA_030779055.1	Beauveria bassiana	188	2		0	0		2			23	11	143	1		8
+GCA_030779085.1	Beauveria bassiana	170	4	2	0	0	2	2			22	16	125			3
+GCA_030779105.1	Beauveria bassiana	172	2		0	0		2			21	10	136			3
+GCA_030779125.1	Beauveria bassiana	168	2		0	0		2			23	14	125			4
+GCA_030779145.1	Beauveria pseudobassiana	181	2		0	0		2			19	22	136			2
+GCA_030779195.1	Beauveria bassiana	170	4	2	0	0	2	2			22	15	125			4
+GCA_030779225.1	Beauveria bassiana	178	2		0	0		2			22	18	133			3
+GCA_030779245.1	Fusarium sp. MBC 438	262	1	1	0	0	1				41	38	175			7
+GCA_030779265.1	Beauveria bassiana	176	4	2	0	0	1	2			22	9	137			5
+GCA_030779305.1	Beauveria varroae	181	2		0	0		2			21	23	133			2
+GCA_030779325.1	Beauveria bassiana	169	2		0	0		2			20	18	126			3
+GCA_030779345.1	Beauveria bassiana	174	2		0	0		2			23	15	129			5
+GCA_030779365.1	Beauveria bassiana	172	3	1	0	0	1	2			22	10	134			3
+GCA_030779465.1	Beauveria pseudobassiana	184	2		0	0		2			20	17	143			2
+GCA_030779485.1	Beauveria bassiana	169	3	1	0	0	1	2			21	15	127			3
+GCA_030779505.1	Beauveria bassiana	173	2		0	0		2			22	16	129			4
+GCA_030779545.1	Beauveria bassiana	181	2		0	0		2			25	13	135			6
+GCA_030779575.1	Beauveria bassiana	174	2		0	0		2			22	13	133			4
+GCA_030779705.1	Beauveria pseudobassiana	186	2		0	0		2			21	23	136			4
+GCA_030779765.1	Beauveria brongniartii	163	2		0	0		2			20	10	129			2
+GCA_030779805.1	Beauveria bassiana	173	3	1	0	0	1	2			22	11	134			3
+GCA_030779865.1	Beauveria pseudobassiana	177	2		0	0		2			18	23	132			2
+GCA_030779905.1	Beauveria pseudobassiana	182	2		0	0		2			20	19	138			3
+GCA_030779925.1	Beauveria pseudobassiana	183	2		0	0		2			20	17	142			2
+GCA_030779935.1	Beauveria bassiana	185	2		0	0		2			24	9	145			5
+GCA_030779985.1	Akanthomyces dipterigenus	205	2		0	0		1			21	10	170			3
+GCA_030780045.1	Cordyceps javanica	216	3		0	1		2			25	16	167			6
+GCA_030780105.1	Cordyceps javanica	199	3		0	1		2			23	21	148			5
+GCA_030780125.1	Cordyceps javanica	201	3		0	1		2			23	20	152			4
+GCA_030780145.1	Cordyceps javanica	198	3		0	1		2			25	18	149			4
+GCA_030780185.1	Cordyceps javanica	202	3		0	1		2			23	20	152			5
+GCA_030780265.1	Akanthomyces lecanii	246	1		0	0		1			28	31	180			6
+GCA_030780285.1	Beauveria bassiana	165	2		0	0		2			20	19	121			3
+GCA_030780325.1	Beauveria bassiana	164	2		0	0		2			19	14	127			2
+GCA_030780345.1	Cordyceps javanica	210	3		0	1		2			24	16	162			6
+GCA_030780385.1	Beauveria pseudobassiana	185	2		0	0		2			20	25	135			3
+GCA_030780405.1	Cordyceps javanica	199	3		0	1		2			24	20	150			3
+GCA_030780425.1	Beauveria varroae	171	2		0	0		2			21	28	119			1
+GCA_030780445.1	Cordyceps javanica	199	3		0	1		2			23	19	151			4
+GCA_030780465.1	Beauveria bassiana	172	2		0	0		2			23	14	130			3
+GCA_030780475.1	Beauveria bassiana	176	4	2	0	0	1	2			22	10	137			4
+GCA_030780505.1	Cordyceps javanica	209	3		0	1		2			26	11	164			6
+GCA_030780525.1	Beauveria pseudobassiana	183	2		0	0		2			21	14	143			3
+GCA_030780535.1	Cordyceps javanica	197	3		0	1		2			25	18	149			3
+GCA_030780565.1	Cordyceps javanica	201	3		0	1		2			24	21	150			4
+GCA_030780585.1	Cordyceps javanica	199	3		0	1		2			23	19	150			5
+GCA_030780605.1	Beauveria pseudobassiana	187	2		0	0		2			21	17	142			5
+GCA_030780625.1	Beauveria bassiana	168	2		0	0		2			20	16	127			3
+GCA_030780665.1	Beauveria bassiana	190	2		0	0		2			23	11	147	1		6
+GCA_030780685.1	Beauveria bassiana	169	2		0	0		2			20	17	127	1		2
+GCA_030780705.1	Beauveria bassiana	170	2		0	0		2			20	18	127			3
+GCA_030780725.1	Beauveria bassiana	176	2		0	0		2			22	11	136	1		4
+GCA_030780745.1	Beauveria bassiana	167	2		0	0		2			19	19	124			3
+GCA_030780765.1	Beauveria bassiana	180	2		0	0		2			22	10	141	1		4
+GCA_030780785.1	Beauveria bassiana	168	2		0	0		2			20	17	125	1		3
+GCA_030780805.1	Beauveria pseudobassiana	189	2		0	0		2			20	22	142			3
+GCA_030780825.1	Beauveria pseudobassiana	180	2		0	0		2			20	22	133			3
+GCA_030780845.1	Beauveria pseudobassiana	183	2		0	0		2			19	21	138			3
+GCA_030780885.1	Beauveria bassiana	176	2		0	0		2			21	14	135			4
+GCA_030781025.1	Cordyceps javanica	221	4	1	0	1		2			28	12	174			5
+GCA_030781065.1	Beauveria bassiana	167	2		0	0		2			21	15	127			2
+GCA_030781085.1	Cordyceps javanica	209	3		0	1		2			28	12	161			6
+GCA_030781105.1	Beauveria bassiana	169	2		0	0		2			21	16	127			3
+GCA_030781125.1	Beauveria bassiana	169	2		0	0		2			21	14	128			4
+GCA_030781145.1	Cordyceps javanica	222	3	1	0	0		2			25	12	176			7
+GCA_030781225.1	Cordyceps javanica	199	3		0	1		2			24	20	148			5
+GCA_030781285.1	Cordyceps javanica	201	3		0	1		2			24	17	153			5
+GCA_030781305.1	Beauveria bassiana	166	2		0	0		2			20	15	125			4
+GCA_030781325.1	Cordyceps javanica	199	3		0	1		2			23	15	153			6
+GCA_030781385.1	Beauveria bassiana	172	2		0	0	1	2			22	12	131			4
+GCA_030781405.1	Beauveria bassiana	189	2		0	0		2			23	10	152			2
+GCA_030781485.1	Cordyceps javanica	195	3		0	1		2			23	17	150			3
+GCA_030781505.1	Cordyceps javanica	212	3		0	1		2			26	16	163			5
+GCA_030781525.1	Cordyceps javanica	244	5	1	0	2		4			25	8	200		1	6
+GCA_030781585.1	Beauveria pseudobassiana	185	2		0	0		2			18	27	135			3
+GCA_030781665.1	Akanthomyces dipterigenus	210	2		0	0		1			22	10	174			3
+GCA_030781685.1	Beauveria pseudobassiana	187	2		0	0		2			19	27	136			3
+GCA_030781805.1	Beauveria pseudobassiana	185	2		0	0		2			20	24	136			3
+GCA_030781825.1	Akanthomyces lecanii	238	1		0	0		1			23	35	175			4
+GCA_030781865.1	Beauveria bassiana	171	2		0	0		2			23	15	128			3
+GCA_030781925.1	Akanthomyces dipterigenus	204	2		0	0		1			21	12	167			3
+GCA_030781965.1	Beauveria pseudobassiana	186	2		0	0		2			19	24	138			3
+GCA_030781985.1	Beauveria asiatica	153	2		0	0		2			22	9	117			3
+GCA_030782005.1	Beauveria brongniartii	176	4	2	0	0	1	2			21	13	133			6
+GCA_030782025.1	Beauveria pseudobassiana	177	2	1	0	0		2			18	27	128			2
+GCA_030782105.1	Beauveria pseudobassiana	183	2		0	0		2			21	24	133			3
+GCA_030782125.1	Beauveria brongniartii	169	2		0	0		2			20	9	135			3
+GCA_030782145.1	Beauveria bassiana	176	2		0	0		2			24	14	133			3
+GCA_030782165.1	Beauveria brongniartii	177	2		0	0		3			20	8	140			6
+GCA_030782185.1	Beauveria bassiana	173	2		0	0		2			22	9	136			4
+GCA_030782205.1	Beauveria asiatica	153	2		0	0		3			20	11	114			5
+GCA_030782225.1	Beauveria brongniartii	174	2		0	0		3			20	8	138			5
+GCA_030782245.1	Beauveria asiatica	152	2		0	0		2			20	13	114			3
+GCA_030782265.1	Beauveria brongniartii	171	4	2	0	0	1	2			19	10	135			4
+GCA_030782325.1	Beauveria bassiana	176	2		0	0		2			22	18	131			3
+GCA_030782345.1	Beauveria brongniartii	170	4	1	0	0	1	2			19	14	129			5
+GCA_030782365.1	Beauveria asiatica	148	2		0	0		2			21	11	111			3
+GCA_030782385.1	Beauveria bassiana	178	2		0	0		2			24	12	136			4
+GCA_030782445.1	Beauveria asiatica	158	2		0	0		2			23	10	119			4
+GCA_030782485.1	Beauveria brongniartii	162	4	2	0	0	1	2			17	21	119			2
+GCA_030782505.1	Cordyceps javanica	209	4	1	0	1		3			26	11	164		1	4
+GCA_030782525.1	Cordyceps javanica	195	3		0	1		2			20	15	153			5
+GCA_030782625.1	Cordyceps javanica	200	4	1	0	1		3			22	15	155			5
+GCA_030782645.1	Akanthomyces dipterigenus	205	2		0	0		2			21	10	169			3
+GCA_030782705.1	Beauveria bassiana	174	2		0	0		2			22	12	134			4
+GCA_030782725.1	Beauveria asiatica	154	2		0	0		2			21	9	118			4
+GCA_030782805.1	Aschersonia sp. MBC 622	172	2		0	0		2			22	16	129			3
+GCA_030782825.1	Beauveria bassiana	177	2		0	0		2			23	12	135			5
+GCA_030782845.1	Beauveria varroae	184	2		0	0		2			22	26	132			2
+GCA_030782865.1	Beauveria bassiana	168	4	2	0	0	1	2			21	13	127			4
+GCA_030782885.1	Beauveria pseudobassiana	181	2		0	0		2			20	15	141			3
+GCA_030782985.1	Beauveria bassiana	172	2		0	0		2			22	13	131			4
+GCA_030783005.1	Beauveria bassiana	172	2		0	0		2			23	13	131			3
+GCA_030783025.1	Beauveria varroae	184	2		0	0		2			24	23	133			2
+GCA_030783045.1	Cordyceps javanica	217	3		0	1		2			24	15	170			6
+GCA_030783085.1	Beauveria bassiana	172	2		0	0		2			22	14	131			3
+GCA_030783165.1	Beauveria pseudobassiana	184	2	1	0	0		2			21	19	139			3
+GCA_030783205.1	Beauveria bassiana	170	2		0	0		2			20	14	130			4
+GCA_030783265.1	Akanthomyces dipterigenus	203	2		0	0		2			23	10	165			3
+GCA_030783325.1	Beauveria asiatica	155	2		0	0		2			22	8	121			2
+GCA_030783345.1	Beauveria bassiana	165	2		0	0		2			20	13	126			4
+GCA_030783385.1	Akanthomyces dipterigenus	201	2		0	0		1			20	15	162			3
+GCA_030783465.1	Beauveria brongniartii	171	4	2	0	0	1	2			21	11	131			5
+GCA_030783505.1	Beauveria brongniartii	170	2		0	0		2			21	10	135			2
+GCA_030783525.2	Akanthomyces uredinophilus	235	2		0	0		2			21	9	193			10
+GCA_030783545.1	Beauveria bassiana	174	2		0	0		2			23	13	132			4
+GCA_030783645.1	Beauveria asiatica	155	2		0	0		2			22	11	115			5
+GCA_030783665.1	Beauveria asiatica	153	2		0	0		2			21	10	117			3
+GCA_030783725.1	Akanthomyces dipterigenus	204	2		0	0		1			20	12	168			3
+GCA_030783745.1	Akanthomyces dipterigenus	207	2		0	0		1			22	15	166			3
+GCA_030783785.1	Beauveria asiatica	151	2		0	0		2			21	8	117			3
+GCA_030783805.1	Akanthomyces dipterigenus	208	2		0	0		1			21	12	171			3
+GCA_030783825.1	Beauveria bassiana	174	2		0	0		2			22	12	134			4
+GCA_030783845.1	Beauveria asiatica	150	2		0	0		2			21	11	113			3
+GCA_030783865.1	Beauveria asiatica	149	2		0	0		2			21	13	110			3
+GCA_030783885.1	Beauveria bassiana	178	2		0	0		2			24	12	136			4
+GCA_030783965.1	Beauveria bassiana	174	2		0	0		2			20	19	129			4
+GCA_030783985.1	Akanthomyces lecanii	233	1		0	0		1			26	25	178			3
+GCA_030783995.1	Beauveria bassiana	165	2		0	0		2			21	15	125			2
+GCA_030784025.1	Akanthomyces dipterigenus	204	2		0	0		1			19	15	166			3
+GCA_030784075.1	Cordyceps javanica	210	3		0	1		2			24	16	163			5
+GCA_030784175.1	Beauveria pseudobassiana	182	2		0	0		2			18	26	133			3
+GCA_030784505.1	Beauveria bassiana	167	2		0	0		2			20	19	122			4
+GCA_030784515.1	Beauveria pseudobassiana	190	2	1	0	0		2			22	24	138			4
+GCA_030784525.1	Beauveria bassiana	176	2		0	0		2			20	18	131			5
+GCA_030784555.1	Beauveria bassiana	171	2		0	0		2			22	16	127			4
+GCA_030784625.1	Beauveria pseudobassiana	176	2		0	0		2			18	32	121			3
+GCA_030784825.1	Beauveria varroae	178	2		0	0		2			22	27	125			2
+GCA_030784865.1	Beauveria pseudobassiana	191	2		0	0		2			22	19	144			4
+GCA_030784885.1	Beauveria bassiana	176	2		0	0		2			20	19	128	1		6
+GCA_030784905.1	Beauveria pseudobassiana	193	2		0	0		2			19	25	144			3
+GCA_030784925.1	Beauveria bassiana	175	2		0	0		2			22	13	133			5
+GCA_030785025.1	Beauveria bassiana	172	2		0	0		2			19	20	124	1		6
+GCA_030785045.1	Cordyceps cateniannulata	197	5	2	0	1		3			25	21	145			3
+GCA_030785085.1	Beauveria pseudobassiana	192	2		0	0		2			22	17	149			2
+GCA_030785165.1	Cordyceps javanica	207	3		0	1		2			24	15	159			7
+GCA_030785205.1	Beauveria pseudobassiana	178	2		0	0		2			18	23	131		1	3
+GCA_030785215.1	Beauveria bassiana	177	2		0	0		2			21	16	134			4
+GCA_030785225.1	Beauveria pseudobassiana	181	2		0	0		2			20	15	140			4
+GCA_030785975.1	Akanthomyces lecanii	254	1		0	0		1			23	31	195			4
+GCA_030786195.1	Beauveria bassiana	172	2		0	0		2			20	20	125			5
+GCA_030786345.1	Beauveria bassiana	173	2		0	0		2			21	14	131			5
+GCA_030786555.1	Beauveria pseudobassiana	180	2		0	0		2			20	20	135			3
+GCA_030786905.1	Beauveria bassiana	171	2		0	0		2			22	13	129	1		4
+GCA_030786925.1	Beauveria bassiana	173	2		0	0		2			21	10	135	1		4
+GCA_030786945.1	Beauveria bassiana	162	2		0	0		2			20	24	114			2
+GCA_030786955.1	Beauveria pseudobassiana	189	2		0	0		2			20	19	145			3
+GCA_030786965.1	Beauveria bassiana	174	2		0	0		2			23	13	131			5
+GCA_030786985.1	Beauveria bassiana	173	2		0	0		2			20	19	126			6
+GCA_030787005.1	Beauveria pseudobassiana	186	2		0	0		2			19	24	138			3
+GCA_030787015.1	Beauveria bassiana	177	2		0	0		2			22	14	135			4
+GCA_030787055.1	Beauveria bassiana	169	2		0	0		2			22	14	128			3
+GCA_030787075.1	Beauveria pseudobassiana	181	2		0	0		2			21	19	136			3
+GCA_030787095.1	Beauveria pseudobassiana	179	2		0	0		2			19	25	130			3
+GCA_030787135.1	Beauveria pseudobassiana	186	2		0	0		2			20	17	144			3
+GCA_030787155.1	Beauveria bassiana	183	3	1	0	0		2			24	9	144			4
+GCA_030787175.1	Beauveria pseudobassiana	182	2		0	0		2			21	18	138			3
+GCA_030787195.1	Beauveria bassiana	176	2		0	0		2			23	11	136			4
+GCA_030787215.1	Beauveria pseudobassiana	185	2		0	0		2			18	24	138			3
+GCA_030787235.1	Beauveria bassiana	179	2		0	0		2			23	12	137			5
+GCA_030787255.1	Beauveria pseudobassiana	182	2		0	0		2			18	25	134			3
+GCA_030787275.1	Beauveria bassiana	172	2		0	0		2			21	11	135			3
+GCA_030787405.1	Beauveria pseudobassiana	185	3	1	0	0		2			19	23	138			3
+GCA_030787415.1	Beauveria pseudobassiana	192	2		0	0		2			22	22	143			3
+GCA_030787525.1	Beauveria bassiana	177	2		0	0		2			21	13	136			5
+GCA_030787535.1	Beauveria bassiana	177	2		0	0		2			21	12	139			3
+GCA_030787685.1	Beauveria bassiana	170	2		0	0		2			20	14	129			5
+GCA_030787705.1	Beauveria pseudobassiana	192	2		0	0		2			24	19	142			5
+GCA_030787845.1	Beauveria pseudobassiana	191	2		0	0		2			23	17	145			4
+GCA_030787925.1	Beauveria bassiana	169	3	1	0	0	1	2			21	13	128			4
+GCA_030788025.1	Beauveria bassiana	182	2		0	0		2			23	12	140			5
+GCA_030788085.1	Beauveria pseudobassiana	185	2		0	0		2			19	27	134			3
+GCA_030788305.1	Beauveria pseudobassiana	185	2		0	0		2			21	23	137			2
+GCA_030788315.1	Beauveria bassiana	176	2		0	0		2			22	10	138			4
+GCA_030788335.1	Beauveria pseudobassiana	181	2		0	0		2			18	21	137			3
+GCA_030788355.1	Beauveria pseudobassiana	190	2		0	0		2			19	25	141			3
+GCA_030788365.1	Beauveria pseudobassiana	183	4	2	0	0	1	2			20	20	138			2
+GCA_030789005.1	Beauveria bassiana	179	2		0	0		2			23	13	137			4
+GCA_030789045.1	Beauveria bassiana	169	2		0	0		2			20	18	124			5
+GCA_030789065.1	Beauveria pseudobassiana	184	2		0	0		2			21	23	135			3
+GCA_030789085.1	Cordyceps cateniannulata	199	5	2	0	2		3			26	18	147			5
+GCA_030789185.1	Beauveria pseudobassiana	188	2		0	0		2			19	22	141			4
+GCA_030789205.1	Beauveria bassiana	175	2		0	0		2			22	18	131			2
+GCA_030789245.1	Beauveria pseudobassiana	179	2		0	0		2			19	21	134			3
+GCA_030789305.1	Beauveria pseudobassiana	184	2		0	0		2			21	19	140			2
+GCA_030789345.1	Beauveria pseudobassiana	185	2		0	0		2			22	22	137			2
+GCA_030789365.1	Beauveria pseudobassiana	176	2	1	0	0		2			18	34	117			5
+GCA_030789385.1	Beauveria pseudobassiana	189	2		0	0		2			22	19	144			2
+GCA_030789405.1	Beauveria bassiana	180	2		0	0		2			23	12	138			5
+GCA_030789425.1	Beauveria bassiana	188	2		0	0		2			24	10	144	1		7
+GCA_030789445.1	Beauveria bassiana	172	2		0	0		2			21	19	124			6
+GCA_030789465.1	Beauveria bassiana	193	2		0	0		2			27	5	152			7
+GCA_030789485.1	Beauveria bassiana	181	3	2	0	0	1	2			22	13	139			4
+GCA_030789505.1	Beauveria pseudobassiana	172	2	1	0	0		2			17	32	118			3
+GCA_030789525.1	Akanthomyces lecanii	258	1		0	0		1			29	18	203		1	6
+GCA_030789545.1	Beauveria bassiana	180	2		0	0		2			24	11	139			4
+GCA_030789565.1	Beauveria pseudobassiana	183	3	1	0	0		2			18	30	130			3
+GCA_030789585.1	Beauveria bassiana	168	3	2	0	0		2			21	12	131			2
+GCA_030789605.1	Cordyceps cateniannulata	196	5	2	0	2		3			23	20	145			5
+GCA_030789625.1	Beauveria pseudobassiana	187	2		0	0		2			19	18	145			3
+GCA_030789645.1	Beauveria pseudobassiana	187	3	1	0	0		2			19	22	140			4
+GCA_030789675.1	Beauveria bassiana	171	2		0	0		2			23	9	135			2
+GCA_030846815.1	Beauveria pseudobassiana	194	2		0	0		2			20	26	143			3
+GCA_030867235.1	Colletotrichum falcatum	182	1	1	0	0			1		27	13	133			8
+GCA_030867255.1	Colletotrichum somersetense	182	1	1	0	0					26	21	132			3
+GCA_030914405.1	Beauveria sp. AdecLV25a	189	2		0	0		2			23	15	144			5
+GCA_031010545.1	Laburnicola sp. JP_R_19	187	8	7	0	0			4		21	40	119		1	2
+GCA_031212055.1	Pyricularia oryzae	163	3	2	0	0			2		17	14	119		1	10
+GCA_031306055.1	Pyricularia oryzae	177	4	3	0	0			2		21	13	127		1	13
+GCA_031472005.1	Tetracladium setigerum	107			0	0					12	47	45			3
+GCA_032158505.1	Pleurotus pulmonarius	49			0	0					4	11	34			
+GCA_032353875.1	Beauveria varroae	180	2		0	0		2			22	19	135			2
+GCA_032353905.1	Beauveria bassiana	187	2		0	0		2			22	17	143			3
+GCA_032353955.1	Beauveria bassiana	178	2		0	0		2			22	17	133			4
+GCA_032353975.1	Beauveria pseudobassiana	183	2		0	0		2			19	23	135			4
+GCA_032353995.1	Beauveria brongniartii	169	2		0	0		2			22	18	125			2
+GCA_032354015.1	Beauveria bassiana	177	2		0	0		2			23	13	134			5
+GCA_032354035.1	Beauveria varroae	177	2		0	0		2			22	21	130			2
+GCA_032354055.1	Beauveria pseudobassiana	185	3	1	0	0		2			21	20	138			4
+GCA_032354075.1	Beauveria bassiana	183	2		0	0		2			24	7	144			6
+GCA_032354095.1	Beauveria pseudobassiana	177	2	1	0	0		2			18	22	133			2
+GCA_032354115.1	Beauveria pseudobassiana	184	2		0	0		2			18	27	133			4
+GCA_032354135.1	Beauveria pseudobassiana	186	2		0	0		2			20	21	140			3
+GCA_032354175.1	Beauveria bassiana	180	1		0	0		1			23	9	142	1		4
+GCA_032354195.1	Beauveria bassiana	171	3	1	0	0		2			21	20	126			2
+GCA_032354215.1	Beauveria bassiana	169	2		0	0		2			20	21	124			2
+GCA_032354235.1	Beauveria bassiana	183	2		0	0		2			23	11	143			4
+GCA_032354255.1	Beauveria bassiana	198	3	1	0	0		2			19	11	161			5
+GCA_032354495.1	Beauveria bassiana	168	2		0	0		2			19	16	128	1		2
+GCA_032354535.1	Beauveria pseudobassiana	186	2		0	0		2			21	21	138			4
+GCA_032354595.1	Beauveria brongniartii	166	2		0	0		2			20	13	129			2
+GCA_032354635.1	Beauveria brongniartii	167	4	2	0	0	1	2			18	12	130			4
+GCA_032357895.1	Beauveria pseudobassiana	186	2		0	0		2			19	25	137			3
+GCA_032357915.1	Beauveria pseudobassiana	174	2		0	0		2			19	26	124			3
+GCA_032358045.1	Beauveria varroae	169	2		0	0		2			22	20	123			2
+GCA_032358065.1	Beauveria brongniartii	164	1		0	0		1			20	11	130			2
+GCA_032358105.1	Beauveria bassiana	171	2		0	0		2			21	16	129			3
+GCA_032988175.1	Myotisia sp. PD_48	85	2	1	0	0		2			13	11	54			5
+GCA_032988195.1	Arachnomyces sp. PD_36	92	2		0	0		2			12	16	61			1
+GCA_033032185.1	Aspergillus niger	113	4	3	0	0		2			12	61	35			3
+GCA_033035085.1	Pyricularia oryzae	157	3	2	0	1			2		15	19	113			8
+GCA_033035115.1	Pyricularia oryzae	154	3	2	0	0			1		16	18	111		1	7
+GCA_033035145.1	Pyricularia oryzae	150	3	2	0	0			1		15	19	107		1	7
+GCA_033220655.1	Pseudopithomyces chartarum	130	3		0	0			1		11	56	60			2
+GCA_033297075.1	Rhypophila decipiens	156	1	1	0	0			1		21	28	100			6
+GCA_033444525.1	Phoma sp. YAFEF320	125	1		0	0					16	26	76			7
+GCA_033576145.1	Cladorrhinum samala	119	1	1	0	0					8	20	85			6
+GCA_033734175.1	Psilocybe cubensis	68			0	0					8	5	54			1
+GCA_033734185.1	Psilocybe cubensis	72			0	0					8	5	58			1
+GCA_033734195.1	Psilocybe cubensis	69			0	0					8	5	55			1
+GCA_033734205.1	Psilocybe cubensis	66			0	0					8	5	53			
+GCA_033734215.1	Psilocybe cubensis	68			0	0					8	6	53			1
+GCA_033734935.1	Psilocybe cubensis	69			0	0					8	5	55			1
+GCA_033734955.1	Psilocybe cubensis	68			0	0					8	4	56			
+GCA_033734975.1	Psilocybe cubensis	72			0	0					8	5	58			1
+GCA_033734995.1	Psilocybe cubensis	70			0	0					8	5	57			
+GCA_033735015.1	Psilocybe cubensis	70			0	0					8	6	55			1
+GCA_033735035.1	Psilocybe cubensis	71			0	0					8	5	58			
+GCA_033735055.1	Psilocybe cubensis	74			0	0					8	5	60			1
+GCA_033735075.1	Psilocybe cubensis	72			0	0					8	6	58			
+GCA_033735095.1	Psilocybe cubensis	71			0	0					9	5	56			1
+GCA_033735115.1	Psilocybe cubensis	73			0	0					8	7	58			
+GCA_033735135.1	Psilocybe cubensis	74			0	0					8	3	62			1
+GCA_033735155.1	Psilocybe cubensis	75			0	0					9	6	59			1
+GCA_033735175.1	Psilocybe cubensis	71			0	0					8	6	57			
+GCA_033735195.1	Psilocybe cubensis	68			0	0					8	5	55			
+GCA_033735215.1	Psilocybe cubensis	71			0	0					9	6	55			1
+GCA_033735235.1	Psilocybe cubensis	72			0	0					8	3	61			
+GCA_033735255.1	Psilocybe cubensis	67			0	0					8	6	52			1
+GCA_033735275.1	Psilocybe cubensis	71			0	0					8	4	58			1
+GCA_033735295.1	Psilocybe cubensis	67			0	0					8	4	54			1
+GCA_033735315.1	Psilocybe cubensis	67			0	0					8	6	52			1
+GCA_033735335.1	Psilocybe cubensis	70			0	0					8	6	55			1
+GCA_033735355.1	Psilocybe cubensis	67			0	0					7	6	54			
+GCA_033735375.1	Psilocybe cubensis	70			0	0					8	5	57			
+GCA_033735395.1	Psilocybe cubensis	68			0	0					7	6	55			
+GCA_033735415.1	Psilocybe cubensis	73			0	0					8	6	59			
+GCA_033735435.1	Psilocybe cubensis	73			0	0					8	5	60			
+GCA_033735455.1	Psilocybe cubensis	73			0	0					8	6	58			1
+GCA_033735475.1	Psilocybe cubensis	72	1	1	0	0					8	3	60			1
+GCA_033735485.1	Psilocybe cubensis	66			0	0					9	4	53			
+GCA_033735545.1	Psilocybe cubensis	68			0	0					8	5	55			
+GCA_034192605.1	Aspergillus sydowii	132	2		0	0					12	78	37			5
+GCA_034401135.1	Volutella citrinella	151	2	1	0	1		1			13	95	40			2
+GCA_034774675.1	Scedosporium minutisporum	178	1		1	1				1	18	17	134		1	7
+GCA_035148045.1	Pleoardoris graminearum	186	7	3	0	0			4		19	17	141		1	4
+GCA_035773195.1	Phallus impudicus	83	1		0	0					7	10	66			
+GCA_036250445.1	Hemileia vastatrix	8311	19	18	29	167	1	1		1	558	30	6402	236	226	856
+GCA_036320705.1	Elasticomyces elasticus	342	1		0	0					64	25	234			19
+GCA_036320845.1	Penicillium citrinum	126	3	2	0	0		1			7	76	37			5
+GCA_036850795.1	Cordyceps javanica	141	4	2	0	1		3			7	103	27			1
+GCA_036872995.1	Hymenopellis raphanipes	77	2		0	0	1				6	17	53			
+GCA_036936985.1	Crucibulum cyathiforme	146	2		0	0			2		14	4	126			
+GCA_036971285.1	Dactylellina cionopaga	70	1		0	0			1		7	20	41			1
+GCA_036971295.1	Dactylellina cionopaga	67	1		0	0					6	19	41			1
+GCA_036971325.1	Dactylellina cionopaga	73	1		0	0					7	17	49			
+GCA_037040905.1	Monosporozyma servazzii	52	1		0	0		1			2		47			2
+GCA_037042525.1	Aspergillus sp. P7301S-1	171	2		0	0		2			22	17	120			10
+GCA_037042605.1	Aspergillus sp. PG119-06	156	2	1	0	0		2			20	18	106			10
+GCA_038088615.1	Boletus rex-veris	214	10	5	0	0	2	1		2	28	6	173		1	1
+GCA_038088635.1	Veloboletus limbatus	81	5	3	0	3	3	1		1	15	5	55		1	
+GCA_038088695.1	Boletus variipes	206	3	1	0	4	2			1	31	3	166			3
+GCA_038088715.1	Boletus variipes	195	8	1	0	5	4				22	2	166			1
+GCA_038088795.1	Boletus rex-veris	91	10	6	0	0	3	1		2	11	8	66			
+GCA_038088875.1	Austroboletus festivus	84	5	2	0	0		4			10	5	65			
+GCA_038088955.1	Neotropicomus parvogracilis	90	7		0	0	2			4	16	8	58			2
+GCA_038089015.1	Chalciporus aff. trinitensis	134	2		0	0				2	24	7	96		2	3
+GCA_038089035.1	Boletellus dicymbophilus	103	5		0	2					14	4	84			1
+GCA_038089155.1	Nevesoporus exiguus	96	7	1	0	0	1	1		5	11	7	71			
+GCA_038089235.1	Boletellus ananas	83	18	7	0	2	2	3			9	1	68			
+GCA_038089435.1	Boletus austroedulis	130	10	4	0	3	1	1	3		18	8	97			2
+GCA_038089475.1	Boletus aff. vermiculosoides	176	1	1	0	5	1	1			26	1	146		1	
+GCA_038089495.1	Xerocomellus dryophilus	89	2	1	0	0	2				11	5	71			
+GCA_038089575.1	Phylloporus pelletieri	80	6	2	0	0	1				6	5	68			
+GCA_038089655.1	Imleria badia	96	2	1	0	2		2			11	7	76			
+GCA_038089715.1	Veloporphyrellus conicus	110	4		0	2	2			2	18	7	81			
+GCA_038089755.1	Leccinellum rugosiceps	81	2		0	0	1				14	12	54			
+GCA_038089875.1	Fistulinella prunicolor	92	1		0	0					8	15	69			
+GCA_038089895.1	Boletellus ananas	58	1		0	1	1				6	8	43			
+GCA_038089935.1	Boletellus emodensis	61	3		0	0				3	8	5	45			
+GCA_038089975.1	Boletellus ananiceps	92	4	1	0	1	1			2	12	7	69			1
+GCA_038089995.1	Tylopilus balloui	83	5		0	0	1	4			7	6	64			1
+GCA_038090015.1	Leccinellum albellum	92	2		0	0					12	12	67			1
+GCA_038090035.1	Xerocomus nothofagi	74	8	4	0	6	2	3		3	10	4	52			
+GCA_038090135.1	Pulveroboletus ravenelii	69	2		0	1	1				9	4	53	1		1
+GCA_038090195.1	Boletellus deceptivus	124	15	9	0	5	3	2		5	15	8	82		1	8
+GCA_038090455.1	Garcileccinum viscosum	148	2		0	2					28	9	111			
+GCA_038090555.1	Boletus subcaerulescens	72	4	3	0	0	3	1			8	6	52			2
+GCA_038090615.1	Phylloporus gajari	253	10	4	0	3	9	1			35	5	194			9
+GCA_038090635.1	Rubroboletus satanas	92	4		0	3	5			1	11	10	65			
+GCA_038090655.1	Gastroboletus turbinatus	135	1		0	1				1	20	6	108			
+GCA_038090915.1	Boletus eberwhitei	79	3	2	0	0	1	1			8	6	63			
+GCA_038090975.1	Boletellus pseudochrysenteroides	73	3	1	0	0	4				7	6	56			
+GCA_038091055.1	Leccinum angustisporum	157	2		0	2	1				22	3	131			
+GCA_038091075.1	Phylloporus rhodoxanthus	219	2		0	1	1				28	5	176	1	1	7
+GCA_038091195.1	Phylloporus rhodoxanthus	81	3		0	1	1				10	4	66			
+GCA_038091295.1	Tylopilus felleus	74	1		0	0					9	9	56			
+GCA_038091375.1	Austroboletus festivus	127	26	13	0	6	13	9		6	7	2	87		1	2
+GCA_038091395.1	Leccinum rimulosum	156	1		0	0					15	4	137			
+GCA_038091435.1	Leccinum variabile	154			0	0					18	3	132			1
+GCA_038091675.1	Leccinum proliferum	161	3	1	0	1	3				19	2	137			
+GCA_038091695.1	Leccinum proximum	170	1		0	1					19	2	149			
+GCA_038091755.1	Leccinum pallidistipes	174	3	1	0	1	4				17	3	150			
+GCA_038091795.1	Leccinum olivaceoglutinosum	149	1		0	1					17	3	129			
+GCA_038091855.1	Leccinellum luteum	100	1		0	0	1				24	9	66			
+GCA_038091995.1	Leccinum holopus	156	2	1	0	0	2				17	5	132			
+GCA_038092035.1	Leccinum disarticulatum	172	1		0	1					18	6	148			
+GCA_038092055.1	Leccinum glutinopallens	161	5	2	0	0	4				21	4	132			
+GCA_038092115.1	Leccinum brunneo-olivaceum	83	4		0	1	1			3	12	3	64			
+GCA_038092355.1	Caloboletus inedulis	98	2		0	1	2				15	3	70	3	1	4
+GCA_038092395.1	Boletus variipes	110	14	6	0	7	6	3			13	4	84			
+GCA_038092415.1	Xerocomus tenax	143	1		0	3	1				21	2	119			
+GCA_038092735.1	Chalciporus rubritubifer	93	1		0	1	1				9	1	80	2		
+GCA_038092775.1	Boletus rubescentipes	102	3	1	0	0		1			11	9	81			
+GCA_038092895.1	Chalciporus pseudorubinellus	110	1		0	0					10	6	94			
+GCA_038093095.1	Boletus insuetus	80	6	2	0	3	3	1			9	5	62			
+GCA_038093175.1	Boletus hoseneyae	87	2	1	0	0		2			10	5	69			1
+GCA_038093215.1	Boletus edulis	116	2	1	0	0	1	1			16	4	94			
+GCA_038093235.1	Boletus harrisonii	94	5	3	1	1	1	2			12	9	67		3	
+GCA_038093245.1	Boletus holoroseus	90			0	1					15	3	72			
+GCA_038093355.1	Boletus calvinii	107	6	4	0	1		4			17	6	80			
+GCA_038093555.1	Butyriboletus appendiculatus	97	1		0	1					13	4	76	1	1	2
+GCA_038093615.1	Austroboletus olivaceoglutinosus	158	12	11	0	3		9		1	16	9	116	3	1	3
+GCA_038093895.1	Boletus aff. mottiae	81	3	1	0	0	2				11	4	64			
+GCA_038093975.1	Chalciporus piperatus	59			0	0					7	12	40			
+GCA_038094175.1	Boletellus aff. lepidospora	62	2		0	0				2	9	6	45			
+GCA_038094235.1	Fistulinella staudtii	112	12	6	0	0	1	5		1	14	9	81		1	
+GCA_038094295.1	Tylopilus aff. beelii	118	2		0	0				2	16	10	87			3
+GCA_038094475.1	Phylloporus aff. rhodophaeus	54	1		0	0				1	9	6	38			
+GCA_038094555.1	Boletus aff. phaeocephalus	138	2		0	3					26	8	104			
+GCA_038094735.1	Exsudoporus floridanus	125	2	1	0	1	1			1	17	5	89	1	3	8
+GCA_038098575.1	Tylopilus aff. beelii	105	1		0	1				1	15	9	79	1		
+GCA_039654905.1	Laburnicola rhizohalophila	188	7	7	0	0			3		19	57	107			2
+GCA_039654995.1	Laburnicola rhizohalophila	188	7	7	0	0			4		23	54	105			2
+GCA_039700815.1	Laburnicola rhizohalophila	100	3	3	0	0			1		11	31	56			1
+GCA_039700835.1	Laburnicola rhizohalophila	101	4	4	0	0			2		14	29	55			1
+GCA_040113005.1	Epicoccum sorghinum	143	1		0	0			1		22	17	94			9
+GCA_040113025.1	Pyricularia grisea	151	2	1	0	0			1		21	14	104		1	10
+GCA_040763265.1	Corynespora cassiicola	144	1		0	0			1		16	63	62			2
+GCA_040893085.1	Epicoccum sorghinum	115	1		0	0					11	41	60			3
+GCA_041380665.1	Clonostachys rosea	338	3	2	0	1		1			45	25	260			7
+GCA_041721835.1	Phylloporus sp. TRTC168454	61	1		0	0				1	6	7	47			
+GCA_041722095.1	Tylopilus sp. KM206722	223	8	6	0	6	6	2			31	3	179			2
+GCA_041722195.1	Boletaceae sp. KM206713	166	8	1	0	0				9	21	2	134			
+GCA_041722215.1	Boletaceae sp. KM206711	155	4		0	5				4	16	3	131		1	
+GCA_041722235.1	Phylloporus sp. TRTC163509	113	1		0	0				1	15	1	96			
+GCA_041722315.1	Porphyrellus sp. KM206675	220	4	1	0	1				3	26	4	180			7
+GCA_041722455.1	Boletaceae sp. DLT08-010	178	1		0	3		1			28	6	143			
+GCA_041722475.1	Boletaceae sp. TRTC157251	169	5		0	8		1		1	27	5	135			
+GCA_041722595.1	Boletaceae sp. UT-M0000358	64	1		0	1				1	13	9	41			
+GCA_041722635.1	Boletaceae sp. TRTC157229	267	6	1	0	1	3			3	43	5	194		1	18
+GCA_041722655.1	Porphyrellus sp. 'aff. excedens' UT-M0000382	80	1		0	0				1	8	10	61			
+GCA_041722675.1	aff. Porphyrellus sp. UT-M0000367	106	1		0	3	1			1	21	3	77	1	1	1
+GCA_041722695.1	Tylopilus sp. UT-M0000335	222	45	23	0	5	18	14		9	32	9	140			
+GCA_041722775.1	Phylloporus sp. UT-M0000405	122	1		0	2					14	15	89			4
+GCA_041722795.1	Tylopilus sp. UT-M0000054	50	1		0	1				1	6	6	37			
+GCA_041722855.1	Boletellus sp. UT-M0000026	109	6	2	0	2				4	26	5	73			1
+GCA_041722915.1	aff. Porphyrellus sp. UT-M0000030	58	2		0	1		1		2	5	7	43			
+GCA_900000165.1	Ceraceosorus bombacis	53	1		0	0			1		2	12	38			
+GCA_900068925.1	Infundibulicybe gibba	77	3		0	2			1		12	1	63			
+GCA_900068975.1	Hygrocybe conica	212	5	2	0	0					21	34	134	1		22
+GCA_900069095.1	Tubaria furfuracea	10135	53	53	58	890	1				801	52	7954	138	120	1069
+GCA_900096545.1	Nakaseomyces glabratus	46			0	0					2	1	43			
+GCA_900166875.1	Nakaseomyces glabratus	46			0	0					2	1	43			
+GCA_900169545.1	Corynespora cassiicola	184	1		0	0			1		27	37	114			5
+GCA_900177955.1	Saccharomyces cerevisiae	102			0	0					11	1	89			1
+GCA_900248155.1	Aspergillus niger	118	3	2	0	0		2			13	53	47			3
+GCA_900382705.2	Fusarium tricinctum	146	1		0	0		1			16	71	56			2
+GCA_902006505.2	Clonostachys byssicola	265	2	1	0	1		1			43	67	153			1
+GCA_902074915.1	Clonostachys chloroleuca	292	6	5	0	5		1			38	60	191			2
+GCA_902085965.1	Clonostachys rosea	296	3	2	0	1		1			42	50	199			4
+GCA_902141235.2	Clonostachys solani	216	2	1	0	1		1			27	90	97			1
+GCA_902806465.1	Hypomontagnella monticulosa	112	1		0	0		1			13	44	53			1
+GCA_902806505.1	Hypoxylon lienhwacheense	90	1		0	0					11	26	50			3
+GCA_902825475.1	Hypomontagnella monticulosa	104	1		0	0		1			9	55	38			1
+GCA_902827195.2	Clonostachys rosea	254	2	1	0	1		1			40	76	137			
+GCA_905109915.1	Pyricularia oryzae	154	2	1	0	0			1		16	17	111		1	8
+GCA_905186785.1	Pyricularia oryzae	157	2	1	0	0			1		17	16	113		1	9
+GCA_918250775.1	Saccharomyces mikatae	51			0	0					4	11	36			
+GCA_918272125.1	Saccharomyces mikatae	54			0	0					5	11	38			
+GCA_930272055.1	Rhizopogon roseolus	86	2		0	1					11	18	57			
+GCA_937870575.1	Nakaseomyces glabratus	46			0	0					2	2	42			
+GCA_937873335.1	Brettanomyces bruxellensis	57			0	0					9	6	42			
+GCA_944952825.1	Pyricularia grisea	99	2	1	0	0			1		10	47	40			1
+GCA_944989265.1	Pyricularia grisea	96	2	1	0	0			1		11	50	34			
+GCA_947343065.1	Saccharomyces cerevisiae	54			0	0					3	17	34			
+GCA_947343125.1	Saccharomyces cerevisiae	55			0	0					4	18	33			
+GCA_947343155.1	Saccharomyces cerevisiae	52			0	0					4	16	32			
+GCA_947343175.1	Saccharomyces cerevisiae	50			0	0					4	14	32			
+GCA_947343185.1	Saccharomyces cerevisiae	53			0	0					3	17	33			
+GCA_947343225.1	Saccharomyces cerevisiae	56			0	0					4	18	34			
+GCA_947343295.1	Saccharomyces cerevisiae	51			0	0					3	16	32			
+GCA_947343535.1	Saccharomyces cerevisiae	50			0	0					3	18	29			
+GCA_947343555.1	Saccharomyces cerevisiae	50			0	0					3	15	32			
+GCA_947343565.1	Saccharomyces cerevisiae	51			0	0					3	16	32			
+GCA_947343585.1	Saccharomyces cerevisiae	50			0	0					3	16	31			
+GCA_947343635.1	Saccharomyces cerevisiae	46			0	0					3	15	28			
+GCA_947343725.1	Saccharomyces cerevisiae	50			0	0					3	16	31			
+GCA_947343755.1	Saccharomyces cerevisiae	56			0	0					3	18	35			
+GCA_947343775.1	Saccharomyces cerevisiae	51			0	0					3	18	30			
+GCA_947343795.1	Saccharomyces cerevisiae	52			0	0					4	14	34			
+GCA_947343805.1	Saccharomyces cerevisiae	52			0	0					3	14	35			
+GCA_947343815.1	Saccharomyces cerevisiae	49			0	0					3	14	32			
+GCA_947343895.1	Saccharomyces cerevisiae	52			0	0					3	18	31			
+GCA_947344065.1	Saccharomyces cerevisiae	48			0	0					3	15	30			
+GCA_947344105.1	Saccharomyces cerevisiae	46			0	0					3	15	28			
+GCA_947344135.1	Saccharomyces cerevisiae	48			0	0					3	14	31			
+GCA_947344195.1	Saccharomyces cerevisiae	49			0	0					3	15	31			
+GCA_947344205.1	Saccharomyces cerevisiae	47			0	0					3	13	31			
+GCA_947344235.1	Saccharomyces cerevisiae	48			0	0					3	16	29			
+GCA_947344245.1	Saccharomyces cerevisiae	50			0	0					4	14	32			
+GCA_947344305.1	Saccharomyces cerevisiae	54			0	0					4	19	31			
+GCA_947344395.1	Saccharomyces cerevisiae	56			0	0					3	18	35			
+GCA_947344455.1	Saccharomyces cerevisiae	52			0	0					3	18	31			
+GCA_947344505.1	Saccharomyces cerevisiae	54			0	0					4	16	34			
+GCA_947344515.1	Saccharomyces cerevisiae	53			0	0					3	17	33			
+GCA_947344535.1	Saccharomyces cerevisiae	49			0	0					3	18	28			
+GCA_947344565.1	Saccharomyces cerevisiae	53			0	0					3	16	34			
+GCA_947344625.1	Saccharomyces cerevisiae	49			0	0					3	14	32			
+GCA_947344645.1	Saccharomyces cerevisiae	48			0	0					3	15	30			
+GCA_947344665.1	Saccharomyces cerevisiae	47			0	0					3	15	29			
+GCA_947344725.1	Saccharomyces cerevisiae	50			0	0					3	15	32			
+GCA_947344745.1	Saccharomyces cerevisiae	52			0	0					4	16	32			
+GCA_947344755.1	Saccharomyces cerevisiae	50			0	0					3	17	30			
+GCA_947344805.1	Saccharomyces cerevisiae	52			0	0					5	16	31			
+GCA_947344825.1	Saccharomyces cerevisiae	51			0	0					3	15	33			
+GCA_947344835.1	Saccharomyces cerevisiae	48			0	0					4	16	28			
+GCA_947344855.1	Saccharomyces cerevisiae	49			0	0					3	15	31			
+GCA_947344895.1	Saccharomyces cerevisiae	47			0	0					3	14	30			
+GCA_947344925.1	Saccharomyces cerevisiae	48			0	0					3	16	29			
+GCA_947344945.1	Saccharomyces cerevisiae	43			0	0					3	15	25			
+GCA_947344975.1	Saccharomyces cerevisiae	51			0	0					3	17	31			
+GCA_947345085.1	Saccharomyces cerevisiae	47			0	0					3	14	30			
+GCA_947345155.1	Saccharomyces cerevisiae	52			0	0					3	16	33			
+GCA_947345205.1	Saccharomyces cerevisiae	46			0	0					3	12	31			
+GCA_947345275.1	Saccharomyces cerevisiae	51			0	0					3	15	33			
+GCA_947345285.1	Saccharomyces cerevisiae	47			0	0					3	15	29			
+GCA_947345325.1	Saccharomyces cerevisiae	49			0	0					3	15	31			
+GCA_947369795.1	Saccharomyces cerevisiae	55			0	0					3	19	33			
+GCA_947369855.1	Saccharomyces cerevisiae	57			0	0					3	19	35			
+GCA_947370025.1	Saccharomyces cerevisiae	55			0	0					3	17	35			
+GCA_947370195.1	Saccharomyces cerevisiae	56			0	0					3	20	33			
+GCA_947370275.1	Saccharomyces cerevisiae	52			0	0					3	16	33			
+GCA_947370435.1	Saccharomyces cerevisiae	53			0	0					4	17	32			
+GCA_947370535.1	Saccharomyces cerevisiae	54			0	0					3	18	33			
+GCA_947370715.1	Saccharomyces cerevisiae	54			0	0					4	15	35			
+GCA_948474695.1	Periconia digitata	115	5	4	0	0					9	58	47			1
+GCA_963379335.1	Aspergillus sp.	98	3	1	0	1		2			12	3	72			9
+GCA_963678725.1	Monosporozyma servazzii	44	1		0	0		1			2	5	36			
+GCA_964255335.1	Pyrenula pseudobufonia	150	1		0	0			1		21	10	106		1	11

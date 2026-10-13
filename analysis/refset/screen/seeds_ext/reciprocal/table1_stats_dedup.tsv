@@ -1,0 +1,13 @@
+gene	n_genomes_with_hit	median_pident	max_pident	n_tested	n_nonfungal	n_contam	n_candidates	candidate_genera
+cus	259	30.4	62.4	259	6	0	6	Mycena (3); Amanita (1); Hebeloma (1); Monosporozyma (1)
+mis	130	35.4	44.3	130	0	0	0	
+sus	11	26.6	41.5	11	8	1	7	Schizosaccharomyces (4); Melanogaster (1); Moelleriella (1); Pestalotiopsis (1)
+acs	40	28.2	35.1	40	7	0	7	Pleurotus (2); Astrocystis (1); Boletus (1); Butyriboletus (1); Leucoagaricus (1); Mycena (1)
+acs_pKerr14a	44	27.4	35.4	44	6	0	6	Pleurotus (2); Boletus (1); Butyriboletus (1); Leucoagaricus (1); Mycena (1)
+chs	159	27.2	61.9	159	43	6	37	Fusarium (30); Aspergillus (4); Ambispora (1); Dactylonectria (1); Entrophospora (1)
+mas1	6045	29.5	40.7	148	8	2	6	Talaromyces (2); Aphanocladium (1); Cutaneotrichosporon (1); Elaphomyces (1); Trichosporon (1)
+mas2	1	22.2	22.2	1	1	1	0	
+ags	2920	33.1	45.7	149	0	0	0	
+nos	751	25.4	40.0	150	24	0	24	Beauveria (14); Rhypophila (3); Butyriboletus (1); Cordyceps (1); Fusarium (1); Lecanicillium (1); Mycena (1); Myriangium (1); Ophiocordyceps (1)
+ocs	733	27.2	32.8	148	5	0	5	Beauveria (2); Cordyceps (1); Fusarium (1); Gnomoniopsis (1)
+vis	775	27.1	32.8	149	10	1	9	Beauveria (2); Cordyceps (2); Claviceps (1); Kwoniella (1); Mycena (1); Rhizopus (1); Suillus (1)

@@ -1,0 +1,518 @@
+gca	organism	n_loci	n_strong_nonfamily	n_contam_contigs_agg	n_contam_contigs_cov05	is_carrier
+GCA_001658105.1	Rhizopogon vinicolor	79	0	0	0	0
+GCA_001882365.1	Rhizopogon vesiculosus	96	0	0	0	0
+GCA_002994825.1	Rhizopogon vinicolor	95	0	0	0	0
+GCA_002994865.1	Rhizopogon parksii	105	0	0	0	0
+GCA_002994895.1	Rhizopogon rudus	88	0	0	0	0
+GCA_002994955.1	Rhizopogon sp. AM-2018a	112	0	0	0	0
+GCA_002994995.1	Rhizopogon hawkerae	93	0	0	0	0
+GCA_002995015.1	Rhizopogon vesiculosus	110	0	0	0	0
+GCA_002995035.1	Rhizopogon hawkerae	107	0	0	0	0
+GCA_002995055.1	Rhizopogon rudus	94	0	0	0	0
+GCA_002995065.1	Rhizopogon vinicolor	94	0	0	0	0
+GCA_002995095.1	Rhizopogon sp. AM-2018a	94	0	0	0	0
+GCA_002995115.1	Rhizopogon vesiculosus	106	0	0	0	0
+GCA_002995135.1	Rhizopogon sp. AM-2018a	123	2	0	0	0
+GCA_002995155.1	Rhizopogon parksii	100	0	0	0	0
+GCA_002995175.1	Rhizopogon rudus	101	1	0	0	0
+GCA_002995195.1	Rhizopogon rudus	104	1	0	0	0
+GCA_002995215.1	Rhizopogon rudus	93	1	0	0	0
+GCA_002995235.1	Rhizopogon sp. AM-2018a	101	1	0	0	0
+GCA_002995245.1	Rhizopogon vesiculosus	107	0	0	0	0
+GCA_002995275.1	Rhizopogon vinicolor	98	0	0	0	0
+GCA_002995295.1	Rhizopogon vulgaris	72	0	0	0	0
+GCA_002995315.1	Rhizopogon villosulus	101	0	0	0	0
+GCA_002995335.1	Rhizopogon rudus	103	0	0	0	0
+GCA_002995355.1	Rhizopogon rudus	102	0	0	0	0
+GCA_002995375.1	Rhizopogon vinicolor	101	0	0	0	0
+GCA_002995395.1	Rhizopogon vinicolor	102	0	0	0	0
+GCA_002995415.1	Rhizopogon vinicolor	99	0	0	0	0
+GCA_003315995.1	Butyriboletus roseoflavus	61	1	0	0	1
+GCA_003316055.1	Boletus speciosus	64	0	0	0	1
+GCA_003316065.1	Retiboletus ornatipes	72	2	0	0	1
+GCA_003316165.1	Boletus edulis	83	0	0	0	0
+GCA_003316485.1	Chiua virens	85	0	0	0	0
+GCA_014904935.1	Melanogaster broomeanus	72	0	0	0	1
+GCA_015039435.1	Imleria badia	59	0	0	0	0
+GCA_016695475.1	Suillus decipiens	57	0	0	0	0
+GCA_018397855.1	Boletus reticuloceps	51	0	0	0	1
+GCA_019096195.1	Boletus sp. NGJ	49	2	0	0	1
+GCA_019364595.1	Butyriboletus roseoflavus	34	2	0	0	1
+GCA_019787685.1	Chiua virens	41	0	0	0	0
+GCA_021018615.1	Phlebopus sp. FC_14	39	0	0	0	0
+GCA_038088615.1	Boletus rex-veris	208	0	0	0	1
+GCA_038088635.1	Veloboletus limbatus	76	0	0	0	1
+GCA_038088695.1	Boletus variipes	203	0	0	0	1
+GCA_038088715.1	Boletus variipes	193	4	0	0	1
+GCA_038088795.1	Boletus rex-veris	83	0	0	0	1
+GCA_038088875.1	Austroboletus festivus	79	1	0	0	0
+GCA_038088955.1	Neotropicomus parvogracilis	82	0	0	0	1
+GCA_038089015.1	Chalciporus aff. trinitensis	127	0	0	0	1
+GCA_038089035.1	Boletellus dicymbophilus	99	2	0	0	1
+GCA_038089155.1	Nevesoporus exiguus	89	0	0	0	1
+GCA_038089235.1	Boletellus ananas	82	4	0	0	1
+GCA_038089435.1	Boletus austroedulis	122	1	0	0	1
+GCA_038089475.1	Boletus aff. vermiculosoides	175	0	0	0	0
+GCA_038089495.1	Xerocomellus dryophilus	84	0	0	0	0
+GCA_038089575.1	Phylloporus pelletieri	75	0	0	0	1
+GCA_038089655.1	Imleria badia	89	0	0	0	0
+GCA_038089715.1	Veloporphyrellus conicus	103	0	0	0	1
+GCA_038089755.1	Leccinellum rugosiceps	69	0	0	0	0
+GCA_038089875.1	Fistulinella prunicolor	77	1	0	0	1
+GCA_038089895.1	Boletellus ananas	50	0	0	0	1
+GCA_038089935.1	Boletellus emodensis	56	0	0	0	1
+GCA_038089975.1	Boletellus ananiceps	85	0	0	0	1
+GCA_038089995.1	Tylopilus balloui	77	0	0	0	0
+GCA_038090015.1	Leccinellum albellum	80	0	0	0	0
+GCA_038090035.1	Xerocomus nothofagi	70	0	0	0	1
+GCA_038090135.1	Pulveroboletus ravenelii	65	1	0	0	1
+GCA_038090195.1	Boletellus deceptivus	116	3	0	0	1
+GCA_038090555.1	Boletus subcaerulescens	66	0	0	0	0
+GCA_038090615.1	Phylloporus gajari	248	1	0	0	1
+GCA_038090635.1	Rubroboletus satanas	82	0	0	0	1
+GCA_038090655.1	Gastroboletus turbinatus	129	0	0	0	1
+GCA_038090915.1	Boletus eberwhitei	73	0	0	0	1
+GCA_038090975.1	Boletellus pseudochrysenteroides	67	0	0	0	1
+GCA_038091055.1	Leccinum angustisporum	154	0	0	0	0
+GCA_038091075.1	Phylloporus rhodoxanthus	214	0	0	0	0
+GCA_038091195.1	Phylloporus rhodoxanthus	77	0	0	0	0
+GCA_038091295.1	Tylopilus felleus	65	0	0	0	0
+GCA_038091375.1	Austroboletus festivus	125	2	0	0	1
+GCA_038091395.1	Leccinum rimulosum	152	0	0	0	0
+GCA_038091435.1	Leccinum variabile	151	0	0	0	0
+GCA_038091675.1	Leccinum proliferum	159	0	0	0	0
+GCA_038091695.1	Leccinum proximum	168	0	0	0	0
+GCA_038091755.1	Leccinum pallidistipes	171	0	0	0	0
+GCA_038091795.1	Leccinum olivaceoglutinosum	146	0	0	0	0
+GCA_038091855.1	Leccinellum luteum	91	0	0	0	0
+GCA_038091995.1	Leccinum holopus	151	0	0	0	0
+GCA_038092035.1	Leccinum disarticulatum	166	0	0	0	0
+GCA_038092055.1	Leccinum glutinopallens	157	0	0	0	0
+GCA_038092115.1	Leccinum brunneo-olivaceum	80	0	0	0	0
+GCA_038092355.1	Caloboletus inedulis	95	0	0	0	1
+GCA_038092395.1	Boletus variipes	106	3	0	0	1
+GCA_038092415.1	Xerocomus tenax	141	0	0	0	0
+GCA_038092735.1	Chalciporus rubritubifer	92	0	0	0	0
+GCA_038092775.1	Boletus rubescentipes	93	1	0	0	0
+GCA_038092895.1	Chalciporus pseudorubinellus	104	0	0	0	0
+GCA_038093095.1	Boletus insuetus	75	2	0	0	1
+GCA_038093175.1	Boletus hoseneyae	82	0	0	0	0
+GCA_038093215.1	Boletus edulis	112	0	0	0	1
+GCA_038093235.1	Boletus harrisonii	85	2	1	1	1
+GCA_038093245.1	Boletus holoroseus	87	0	0	0	0
+GCA_038093355.1	Boletus calvinii	101	1	0	0	0
+GCA_038093555.1	Butyriboletus appendiculatus	93	0	0	0	0
+GCA_038093615.1	Austroboletus olivaceoglutinosus	149	1	0	0	0
+GCA_038093895.1	Boletus aff. mottiae	77	0	0	0	1
+GCA_038093975.1	Chalciporus piperatus	47	0	0	0	0
+GCA_038094175.1	Boletellus aff. lepidospora	56	0	0	0	1
+GCA_038094235.1	Fistulinella staudtii	103	0	0	0	1
+GCA_038094295.1	Tylopilus aff. beelii	108	0	0	0	1
+GCA_038094475.1	Phylloporus aff. rhodophaeus	48	0	0	0	1
+GCA_038094555.1	Boletus aff. phaeocephalus	130	1	0	0	1
+GCA_038094735.1	Exsudoporus floridanus	120	1	0	0	1
+GCA_038098575.1	Tylopilus aff. beelii	96	0	0	0	1
+GCA_041721835.1	Phylloporus sp. TRTC168454	54	0	0	0	1
+GCA_041722095.1	Tylopilus sp. KM206722	220	0	0	0	1
+GCA_041722195.1	Boletaceae sp. KM206713	164	0	0	0	0
+GCA_041722215.1	Boletaceae sp. KM206711	152	0	0	0	0
+GCA_041722235.1	Phylloporus sp. TRTC163509	112	0	0	0	1
+GCA_041722315.1	Porphyrellus sp. KM206675	216	0	0	0	1
+GCA_041722455.1	Boletaceae sp. DLT08-010	172	0	0	0	0
+GCA_041722475.1	Boletaceae sp. TRTC157251	164	1	0	0	1
+GCA_041722595.1	Boletaceae sp. UT-M0000358	55	0	0	0	1
+GCA_041722635.1	Boletaceae sp. TRTC157229	262	0	0	0	1
+GCA_041722655.1	Porphyrellus sp. 'aff. excedens' UT-M0000382	70	0	0	0	1
+GCA_041722675.1	aff. Porphyrellus sp. UT-M0000367	103	0	0	0	1
+GCA_041722695.1	Tylopilus sp. UT-M0000335	213	4	0	0	1
+GCA_041722775.1	Phylloporus sp. UT-M0000405	107	1	0	0	1
+GCA_041722795.1	Tylopilus sp. UT-M0000054	44	0	0	0	1
+GCA_041722855.1	Boletellus sp. UT-M0000026	104	0	0	0	1
+GCA_041722915.1	aff. Porphyrellus sp. UT-M0000030	51	0	0	0	1
+GCA_930272055.1	Rhizopogon roseolus	68	0	0	0	0
+GCA_038091215.1	extra	97	0	0	0	0
+GCA_054741165.1	extra	28	0	0	0	0
+GCA_022837065.1	extra	49	0	0	0	0
+GCA_038093655.1	extra	199	0	0	0	0
+GCA_015179015.1	extra	71	0	0	0	0
+GCA_054948845.1	extra	30	0	0	0	0
+GCA_038093275.1	extra	137	0	0	0	0
+GCA_014925795.1	extra	65	0	0	0	0
+GCA_038089135.1	extra	67	0	0	0	0
+GCA_000218685.1	Serpula lacrymans var. lacrymans S7.9	33	0	0	0	0
+GCA_000218725.1	Serpula lacrymans var. lacrymans S7.3	35	0	0	0	0
+GCA_000271625.1	Coniophora puteana RWD-64-598 SS2	50	0	0	0	0
+GCA_000766925.2	Phlebopus portentosus	42	0	0	0	0
+GCA_000827185.1	Hydnomerulius pinastri MD-312	51	0	0	0	0
+GCA_000827255.1	Suillus luteus UH-Slu-Lm8-n1	59	0	0	0	0
+GCA_000827275.1	Pisolithus microcarpus 441	35	0	0	0	0
+GCA_000827335.1	Pisolithus tinctorius Marx 270	38	0	0	0	0
+GCA_000827395.1	Paxillus rubicundulus Ve08.2h10	45	0	0	0	0
+GCA_000827425.1	Scleroderma citrinum Foug A	34	0	0	0	0
+GCA_000827475.1	Paxillus involutus ATCC 200175	47	0	0	0	0
+GCA_002891375.1	Serpula lacrymans var. lacrymans	52	0	0	0	0
+GCA_002891385.1	Serpula lacrymans var. shastensis	54	0	0	0	0
+GCA_002994855.1	Rhizopogon sp. AM-2018a	97	2	0	0	0
+GCA_002995455.1	Rhizopogon fuscorubens	100	1	0	0	0
+GCA_002995475.1	Rhizopogon salebrosus	91	0	0	0	0
+GCA_003313085.1	Suillus spraguei	90	0	0	0	0
+GCA_003313155.1	Boletus sp. MG95	71	0	0	0	0
+GCA_003313645.1	Suillus placidus	91	0	0	0	0
+GCA_003313855.1	Suillus sp. MG131	76	0	0	0	0
+GCA_003313885.1	Boletus sp. MG55	111	0	0	0	0
+GCA_003314275.1	Chroogomphus rutilus	89	0	0	0	0
+GCA_003316035.1	Neoboletus subvelutipes	78	0	0	0	0
+GCA_003316085.1	Caloboletus calopus	47	0	0	0	0
+GCA_003316145.1	Neoboletus magnificus	53	0	0	0	0
+GCA_003316195.1	Neoboletus brunneissimus	77	0	0	0	0
+GCA_003316205.1	Boletus bicolor	68	0	0	0	0
+GCA_003316335.1	Hemileccinum impolitum	40	0	0	0	0
+GCA_003316375.1	Tylopilus plumbeoviolaceoides	101	0	0	0	0
+GCA_003316505.1	Suillus alpinus	75	1	0	0	0
+GCA_003316545.1	Pulveroboletus ravenelii	88	0	0	0	0
+GCA_011800875.2	Suillus brevipes Sb2	56	0	0	0	0
+GCA_014904835.1	Paxillus ammoniavirescens	44	0	0	0	0
+GCA_014904945.1	Gyrodon lividus	39	0	0	0	0
+GCA_015708795.1	Serpula lacrymans var. lacrymans	50	0	0	0	0
+GCA_016584345.1	Suillus ampliporus	101	1	0	0	0
+GCA_016618355.2	Astraeus odoratus	356	15	0	0	0
+GCA_016628065.1	Suillus lakei	91	0	0	0	0
+GCA_016628075.1	Suillus paluster	76	0	0	0	0
+GCA_016628085.1	Suillus occidentalis	71	0	0	0	0
+GCA_016628565.1	Suillus placidus	62	0	0	0	0
+GCA_016647625.1	Suillus subalutaceus	70	0	0	0	0
+GCA_016647635.1	Suillus subaureus	58	0	0	0	0
+GCA_016647645.1	Suillus variegatus	84	0	0	0	0
+GCA_016647685.1	Suillus tomentosus	49	0	0	0	0
+GCA_016647745.1	Suillus plorans	47	0	0	0	0
+GCA_016647755.1	Suillus subluteus	90	0	0	0	0
+GCA_016647785.1	Suillus fuscotomentosus	68	0	0	0	0
+GCA_016695465.1	Suillus americanus	50	0	0	0	0
+GCA_016695485.1	Suillus hirtellus	57	0	0	0	0
+GCA_016758755.1	Suillus discolor	71	0	0	0	0
+GCA_016758765.1	Suillus cothurnatus	92	0	0	0	0
+GCA_016758775.1	Suillus clintonianus	54	0	0	0	0
+GCA_016758785.1	Suillus bovinus	57	0	0	0	0
+GCA_016767475.1	Suillus weaverae	43	0	0	0	0
+GCA_016800925.1	Suillus spraguei	98	0	0	0	0
+GCA_020232755.1	Phlebopus portentosus	44	0	0	0	0
+GCA_020310465.1	Lanmaoa asiatica	32	0	0	0	0
+GCA_021014935.1	Hygrophoropsis aurantiaca	60	0	0	0	0
+GCA_021014945.1	Leucogyrophana mollusca	64	0	0	0	0
+GCA_024509395.1	Pisolithus albus	62	0	0	0	0
+GCA_024613125.1	Pisolithus orientalis	36	0	0	0	0
+GCA_024613145.1	Pisolithus marmoratus	92	0	0	0	0
+GCA_024613165.1	Pisolithus albus	46	0	0	0	0
+GCA_024613185.1	Pisolithus microcarpus	41	0	0	0	0
+GCA_024663395.1	Pisolithus tinctorius	43	0	0	0	0
+GCA_024663415.1	Pisolithus croceorrhizus	65	0	0	0	0
+GCA_024663435.1	Pisolithus sp. B1	32	0	0	0	0
+GCA_024663475.1	Pisolithus thermaeus	62	0	0	0	0
+GCA_024663515.1	Pisolithus croceorrhizus	66	0	0	0	0
+GCA_025371055.2	Neoboletus subvelutipes	115	0	0	0	0
+GCA_025782845.1	Boletus coccyginus	50	0	0	0	0
+GCA_029372045.1	Scleroderma citrinum	28	0	0	0	0
+GCA_029603245.1	Rhizopogon salebrosus TDB-379	67	0	0	0	0
+GCA_037178675.1	Scleroderma bovista	49	0	0	0	0
+GCA_037892935.1	Phlebopus portentosus	37	0	0	0	0
+GCA_038088655.1	Tylopilus aff. balloui	176	0	0	0	0
+GCA_038088675.1	Xanthoconium separans	110	0	0	0	0
+GCA_038088755.1	Boletus aff. separans	89	0	0	0	0
+GCA_038088775.1	Boletus barrowsii	64	0	0	0	0
+GCA_038088815.1	Boletus nobilissimus	214	0	0	0	0
+GCA_038088835.1	Singerocomus rubriflavus	94	0	0	0	0
+GCA_038088855.1	Tylopilus aff. balloui	62	0	0	0	0
+GCA_038088895.1	Xerocomus potaroensis	46	0	0	0	0
+GCA_038088915.1	Sutorius aff. eximius	158	1	0	0	0
+GCA_038088935.1	Pulveroboletus aff. viridisquamosus	55	0	0	0	0
+GCA_038088975.1	Xerocomus cyaneibrunnescens	107	0	0	0	0
+GCA_038088995.1	Guyanaporus albipodus	47	0	0	0	0
+GCA_038089055.1	Tylopilus aff. balloui	70	0	0	0	0
+GCA_038089075.1	Singerocomus inundabilis	91	0	0	0	0
+GCA_038089095.1	Tylopilus orsonianus	72	0	0	0	0
+GCA_038089115.1	Fistulinella cinereoalba	91	0	0	0	0
+GCA_038089175.1	Binderoboletus segoi	90	0	0	0	0
+GCA_038089195.1	Brasilioporus rufonigricans	81	0	0	0	0
+GCA_038089215.1	Tylopilus vinaceipallidus	81	0	0	0	0
+GCA_038089255.1	Austroboletus rostrupii	88	0	0	0	0
+GCA_038089275.1	Pulveroboletus cf. rosaemariae	62	0	0	0	0
+GCA_038089295.1	Xerocomus amazonicus	48	0	0	0	0
+GCA_038089315.1	Crocinoboletus aff. laetissimus	68	0	0	0	0
+GCA_038089335.1	Boletellus aff. obscurococcineus	117	0	0	0	0
+GCA_038089355.1	Pulveroboletus ridleyi	164	0	0	0	0
+GCA_038089375.1	Pseudoaustroboletus valens	113	0	0	0	0
+GCA_038089395.1	Pulveroboletus frians	93	0	0	0	0
+GCA_038089415.1	Caloboletus firmus	75	0	0	0	0
+GCA_038089455.1	Tylopilus cf. leucomycelinus	77	0	0	0	0
+GCA_038089515.1	Leccinellum crocipodium	88	0	0	0	0
+GCA_038089535.1	Hemileccinum rubropunctum	49	0	0	0	0
+GCA_038089555.1	Chalciporus chontae	44	0	0	0	0
+GCA_038089595.1	Bothia castanella	184	0	0	0	0
+GCA_038089615.1	Aureoboletus auriporus	53	0	0	0	0
+GCA_038089635.1	Leccinum variicolor	105	0	0	0	0
+GCA_038089675.1	Boletales sp. KT-2023b	73	0	0	0	0
+GCA_038089695.1	Xanthoconium separans	81	0	0	0	0
+GCA_038089735.1	Exsudoporus frostii	50	0	0	0	0
+GCA_038089795.1	Pulchroboletus neoregius	80	0	0	0	0
+GCA_038089815.1	Sutorius eximius	166	0	0	0	0
+GCA_038089835.1	Retiboletus flavoniger	105	0	0	0	0
+GCA_038089855.1	Royoungia palumana	64	0	0	0	0
+GCA_038089915.1	Sutorius australiensis	68	0	0	0	0
+GCA_038089955.1	Strobilomyces dryophilus	61	0	0	0	0
+GCA_038090055.1	Hemileccinum hortonii	117	0	0	0	0
+GCA_038090075.1	Xanthoconium purpureum	104	0	0	0	0
+GCA_038090095.1	Zangia roseola	65	0	0	0	0
+GCA_038090115.1	Strobilomyces echinocephalus	109	0	0	0	0
+GCA_038090155.1	Leccinum pachyderme	151	0	0	0	0
+GCA_038090175.1	Austroboletus eburneus	71	0	0	0	0
+GCA_038090215.1	Harrya chromipes	70	0	0	0	0
+GCA_038090235.1	Pulveroboletus ravenelii	67	0	0	0	0
+GCA_038090255.1	Austroboletus niveus	66	0	0	0	0
+GCA_038090275.1	Austroboletus novae-zelandiae	60	0	0	0	0
+GCA_038090295.1	Boletus semigastroideus	70	0	0	0	0
+GCA_038090315.1	Xanthoconium stramineum	75	0	0	0	0
+GCA_038090335.1	Solioccasus polychromus	57	0	0	0	0
+GCA_038090355.1	Chiua virens	144	0	0	0	0
+GCA_038090375.1	Boletus rubroflammeus	55	0	0	0	0
+GCA_038090395.1	Boletales sp. KT-2023a	70	0	0	0	0
+GCA_038090415.1	Rossbeevera mucosa	66	0	0	0	0
+GCA_038090435.1	Phylloporus scabripes	41	0	0	0	0
+GCA_038090495.1	Heimioporus retisporus	167	0	0	0	0
+GCA_038090515.1	Pulveroboletus cf. viridisquamosus	161	0	0	0	0
+GCA_038090535.1	Tylopilus alboater	120	0	0	0	0
+GCA_038090575.1	Tylopilus cf. pernanus	190	0	0	0	0
+GCA_038090595.1	Leccinum subfulvum	110	0	0	0	0
+GCA_038090735.1	Xerocomellus amylosporus	81	0	0	0	0
+GCA_038090755.1	Leccinum truebloodii	187	0	0	0	0
+GCA_038090775.1	Leccinum idahoense	154	0	0	0	0
+GCA_038090835.1	Leccinum discolor	160	0	0	0	0
+GCA_038090855.1	Leccinum clavatum	97	0	0	0	0
+GCA_038090875.1	Leccinum fallax	119	0	0	0	0
+GCA_038090895.1	Boletus bicoloroides	78	0	0	0	0
+GCA_038090935.1	Hortiboletus campestris	73	0	0	0	0
+GCA_038090955.1	Xerocomellus intermedius	68	0	0	0	0
+GCA_038090995.1	Boletus vermiculosus	100	0	0	0	0
+GCA_038091015.1	Boletus vermiculosoides	95	0	0	0	0
+GCA_038091035.1	Hemileccinum hortonii	163	0	0	0	0
+GCA_038091095.1	Leccinum incarnatum	108	0	0	0	0
+GCA_038091115.1	Rubroboletus rhodosanguineus	94	0	0	0	0
+GCA_038091135.1	Leccinum fibrillosum	104	0	0	0	0
+GCA_038091155.1	Harrya chromipes	76	0	0	0	0
+GCA_038091165.1	Rubroboletus pulcherrimus	77	0	0	0	0
+GCA_038091235.1	Tylopilus rubrobrunneus	140	0	0	0	0
+GCA_038091255.1	Tylopilus intermedius	123	0	0	0	0
+GCA_038091275.1	Tylopilus subfusipes	67	0	0	0	0
+GCA_038091315.1	Porphyrellus cyaneotinctus	74	0	0	0	0
+GCA_038091335.1	Phylloporus arenicola	62	0	0	0	0
+GCA_038091355.1	Phylloboletellus chloephorus	52	0	0	0	0
+GCA_038091415.1	Leccinum variicolor	75	0	0	0	0
+GCA_038091455.1	Leccinum uliginosum	90	0	0	0	0
+GCA_038091475.1	Leccinum subtestaceum	147	0	0	0	0
+GCA_038091495.1	Leccinum subtestaceum	139	0	0	0	0
+GCA_038091515.1	Leccinum subrobustum	141	0	0	0	0
+GCA_038091535.1	Leccinum subspadiceum	143	0	0	0	0
+GCA_038091555.1	Leccinum sublutescens	127	0	0	0	0
+GCA_038091575.1	Leccinum subgranulosum	60	0	0	0	0
+GCA_038091595.1	Leccinum subatratum	102	0	0	0	0
+GCA_038091615.1	Leccinum solheimii	96	0	0	0	0
+GCA_038091635.1	Leccinum snellii	55	0	0	0	0
+GCA_038091655.1	Leccinum pseudoinsigne	136	0	0	0	0
+GCA_038091715.1	Leccinum ponderosum	133	0	0	0	0
+GCA_038091735.1	Leccinum pellstonianum	149	0	0	0	0
+GCA_038091775.1	Leccinum olivaceopallidum	126	0	0	0	0
+GCA_038091815.1	Leccinum obscurum	164	0	0	0	0
+GCA_038091835.1	Leccinum ochraceum	173	0	0	0	0
+GCA_038091875.1	Leccinum insolens	172	0	0	0	0
+GCA_038091885.1	Leccinum laetum	183	0	0	0	0
+GCA_038091915.1	Leccinum griseonigrum	104	0	0	0	0
+GCA_038091935.1	Leccinum insigne	152	0	0	0	0
+GCA_038091955.1	Leccinum imitatum	144	0	0	0	0
+GCA_038092015.1	Leccinum huronense	116	0	0	0	0
+GCA_038092075.1	Leccinum fuscescens	119	0	0	0	0
+GCA_038092095.1	Leccinum colubrinum	142	0	0	0	0
+GCA_038092135.1	Leccinum cinnamomeum	126	0	0	0	0
+GCA_038092155.1	Leccinum cinnamomeum	134	0	0	0	0
+GCA_038092175.1	Boletus coffeatus	137	0	0	0	0
+GCA_038092195.1	Leccinum barrowsii	140	0	0	0	0
+GCA_038092215.1	Leccinum broughii	166	0	0	0	0
+GCA_038092235.1	Leccinum boreale	55	0	0	0	0
+GCA_038092255.1	Leccinum aurantiacum	136	0	0	0	0
+GCA_038092275.1	Leccinum aurantiacum	127	0	0	0	0
+GCA_038092295.1	Leccinum arenicola	119	0	0	0	0
+GCA_038092315.1	Leccinum ambiguum	131	0	0	0	0
+GCA_038092335.1	Boletus vinaceobasis	55	0	0	0	0
+GCA_038092375.1	Boletus vermiculosoides	125	0	0	0	0
+GCA_038092435.1	Xerocomus subtomentosus	65	0	0	0	0
+GCA_038092445.1	Gyrodon tennesseensis	95	0	0	0	0
+GCA_038092475.1	Boletus tomentosulus	71	0	0	0	0
+GCA_038092495.1	Xerocomus subpalustris	65	0	0	0	0
+GCA_038092515.1	Boletus subparvulus	134	0	0	0	0
+GCA_038092535.1	Xerocomus subilludens	71	0	0	0	0
+GCA_038092555.1	Boletus subgraveolens	88	0	0	0	0
+GCA_038092575.1	Boletus subluridellus	160	0	0	0	0
+GCA_038092595.1	Boletus subdepauperatus	128	0	0	0	0
+GCA_038092615.1	Boletus sphaerocystis	92	0	0	0	0
+GCA_038092635.1	Xerocomus ferrugineus	85	0	0	0	0
+GCA_038092655.1	Boletus sensibilis	71	0	0	0	0
+GCA_038092675.1	Boletus rufocinnamomeus	117	0	0	0	0
+GCA_038092695.1	Boletus rubropictus	52	0	0	0	0
+GCA_038092715.1	Boletus smithii	78	0	0	0	0
+GCA_038092755.1	Boletus rubroflammeus	119	0	0	0	0
+GCA_038092795.1	Lanmaoa rubissima	98	0	0	0	0
+GCA_038092815.1	Hortiboletus rubellus	121	0	0	0	0
+GCA_038092835.1	Boletus pseudoseparans	111	0	0	0	0
+GCA_038092855.1	Boletus piedmontensis	80	0	0	0	0
+GCA_038092875.1	Lanmaoa pseudosensibilis	78	0	0	0	0
+GCA_038092915.1	Boletus pseudopeckii	58	0	0	0	0
+GCA_038092935.1	Boletus roseobadius	134	0	0	0	0
+GCA_038092955.1	Boletus pseudo-olivaceus	52	0	0	0	0
+GCA_038092975.1	Chalciporus piperatoides	98	0	0	0	0
+GCA_038092995.1	Xerocomus minutiporus	78	0	0	0	0
+GCA_038093015.1	Lanmaoa miniatopallescens	85	0	0	0	0
+GCA_038093035.1	Boletus nancyae	73	0	0	0	0
+GCA_038093055.1	Boletus mariae	73	0	0	0	0
+GCA_038093075.1	Boletus patriciae	128	0	0	0	0
+GCA_038093115.1	Hortiboletus flavorubellus	101	0	0	0	0
+GCA_038093135.1	Leccinum longicurvipes	81	0	0	0	0
+GCA_038093155.1	Boletus huronensis	52	0	0	0	0
+GCA_038093195.1	Boletus fagicola	85	0	0	0	0
+GCA_038093335.1	Boletus chippewaensis	108	0	0	0	0
+GCA_038093375.1	Xerocomus brunneocitrinus	57	0	0	0	0
+GCA_038093395.1	Baorangia bicolor	103	0	0	0	0
+GCA_038093415.1	Xerocomellus chrysenteron	92	0	0	0	0
+GCA_038093435.1	Tylopilus aff. balloui	61	0	0	0	0
+GCA_038093455.1	Lanmaoa carminipes	79	0	0	0	0
+GCA_038093465.1	Boletus bicolor var. subreticulatus	111	0	0	0	0
+GCA_038093495.1	Tylopilus aff. balloui	103	0	0	0	0
+GCA_038093515.1	Butyriboletus loyo	41	0	0	0	0
+GCA_038093535.1	Boletus reticulatus	47	0	0	0	0
+GCA_038093575.1	Rubinoboletus rubinus	66	0	0	0	0
+GCA_038093595.1	Butyriboletus regius	127	0	0	0	0
+GCA_038093635.1	Butyriboletus loyo	49	0	0	0	0
+GCA_038093675.1	Chalciporus piperatus	57	0	0	0	0
+GCA_038093695.1	Pulveroboletus frians	120	0	0	0	0
+GCA_038093715.1	Austroboletus cf. mucosus	194	0	0	0	0
+GCA_038093735.1	Boletus aff. violaceofuscus	168	0	0	0	0
+GCA_038093755.1	Tylopilus microsporus	152	0	0	0	0
+GCA_038093775.1	Butyriboletus pseudospeciosus	119	0	0	0	0
+GCA_038093795.1	Retiboletus fuscus	226	0	0	0	0
+GCA_038093815.1	Neoboletus cf. brunneissimus	141	0	0	0	0
+GCA_038093835.1	Strobilomyces confusus	75	0	0	0	0
+GCA_038093855.1	Rugiboletus extremiorientalis	150	0	0	0	0
+GCA_038093875.1	Boletus tylopilopsis	80	0	0	0	0
+GCA_038093915.1	Boletellus aff. emodensis	101	0	0	0	0
+GCA_038093935.1	Tylopilus cf. pallidocervicolor	100	0	0	0	0
+GCA_038093955.1	Boletus albobrunnescens	58	0	0	0	0
+GCA_038093995.1	Tylopilus aff. callainus	136	0	0	0	0
+GCA_038094015.1	Phylloporus cf. gajari	164	0	0	0	0
+GCA_038094035.1	Pulveroboletus aff. ridleyi	161	0	0	0	0
+GCA_038094055.1	Chalciporus sphaerocephalus	53	0	0	0	0
+GCA_038094075.1	Xerocomus spinulosus	51	0	0	0	0
+GCA_038094095.1	Boletus putidus	202	0	0	0	0
+GCA_038094115.1	Boletus loyita	82	0	0	0	0
+GCA_038094135.1	Spongiforma cf. squarepantsii	233	0	0	0	0
+GCA_038094155.1	Pulveroboletus cf. aberrans	65	0	0	0	0
+GCA_038094195.1	Pulveroboletus aff. carminiporus	120	0	0	0	0
+GCA_038094255.1	Porphyrellus aff. niger	93	0	0	0	0
+GCA_038094275.1	Tubosaeta brunneosetosa	106	0	0	0	0
+GCA_038094315.1	Phylloporus cf. tubipes	112	0	0	0	0
+GCA_038094335.1	Tylopilus aff. striatulus	95	0	0	0	0
+GCA_038094355.1	Afroboletus lepidellus	118	0	0	0	0
+GCA_038094375.1	Tubosaeta aff. heterosetosa	65	0	0	0	0
+GCA_038094415.1	Xerocomus alliaceus	153	0	0	0	0
+GCA_038094495.1	Tylopilus aff. balloui	105	0	0	0	0
+GCA_038094515.1	Xerocomus spinulosus	53	0	0	0	0
+GCA_038094535.1	Tubosaeta aff. alveolata	76	0	0	0	0
+GCA_038094575.1	Phylloporus cf. nigrescens	190	1	0	0	0
+GCA_038094595.1	Pulveroboletus aff. annulatus	65	0	0	0	0
+GCA_038094615.1	Heimioporus aff. retisporus	114	0	0	0	0
+GCA_038094635.1	Tylopilus cervinicoccineus	57	0	0	0	0
+GCA_038094655.1	Tylopilus cervinicoccineus	241	1	0	0	0
+GCA_038094675.1	Spongispora temasekensis	106	0	0	0	0
+GCA_038094695.1	Chiua aff. virens	168	0	0	0	0
+GCA_038094715.1	Heimioporus punctisporus	172	1	0	0	0
+GCA_038094755.1	Caloboletus firmus	67	0	0	0	0
+GCA_040085005.1	Phlebopus roseus	58	0	0	0	0
+GCA_041721635.1	Chalciporus sp. G4409	56	0	0	0	0
+GCA_041721665.1	Tubosaeta sp. UT-M0002040	115	0	0	0	0
+GCA_041721695.1	Boletaceae sp. TRTC168574	166	0	0	0	0
+GCA_041721715.1	Boletaceae sp. TRTC168571	107	0	0	0	0
+GCA_041721735.1	Crocinoboletus sp. TRTC168568	110	0	0	0	0
+GCA_041721755.1	Phylloporus sp. TRTC168546	106	0	0	0	0
+GCA_041721775.1	Phylloporus sp. TRTC168483	135	0	0	0	0
+GCA_041721795.1	Boletaceae sp. TRTC168532	70	0	0	0	0
+GCA_041721815.1	Pseudoaustroboletus sp. TRTC168467	135	0	0	0	0
+GCA_041721855.1	Boletellus sp. TRTC168476	130	0	0	0	0
+GCA_041721875.1	Phylloporus sp. TRTC168436	127	0	0	0	0
+GCA_041721895.1	Leccinum sp. TRTC168399	74	0	0	0	0
+GCA_041721915.1	Boletaceae sp. TRTC168347	184	0	0	0	0
+GCA_041721935.1	Hemileccinum sp. TRTC168327	71	0	0	0	0
+GCA_041721955.1	Baorangia sp. TRTC168334	221	1	0	0	0
+GCA_041721975.1	Sutorius sp. TRTC168204	106	0	0	0	0
+GCA_041721995.1	Xanthoconium sp. NY2686029	72	0	0	0	0
+GCA_041722015.1	Pulveroboletus sp. KM173101	118	0	0	0	0
+GCA_041722035.1	Boletus sp. MULU70	109	0	0	0	0
+GCA_041722055.1	Boletaceae sp. KM206733	58	0	0	0	0
+GCA_041722075.1	Pulveroboletus sp. KM172995	221	0	0	0	0
+GCA_041722115.1	Boletaceae sp. TRTC163558	125	0	0	0	0
+GCA_041722135.1	Boletaceae sp. KM206735	58	0	0	0	0
+GCA_041722155.1	Boletaceae sp. KM206743	115	0	0	0	0
+GCA_041722175.1	Boletaceae sp. KM206737	121	0	0	0	0
+GCA_041722255.1	Boletaceae sp. KM206700	148	0	0	0	0
+GCA_041722275.1	Boletus sp. UT-M0002076	74	0	0	0	0
+GCA_041722295.1	Boletaceae sp. KM206666	109	0	0	0	0
+GCA_041722335.1	Butyriboletus sp. TRTC157199	187	0	0	0	0
+GCA_041722355.1	Rubroboletus sp. TRTC157201	144	0	0	0	0
+GCA_041722375.1	Strobilomyces sp. TRTC157183	139	0	0	0	0
+GCA_041722395.1	Lanmaoa sp. TRTC157169	24	0	0	0	0
+GCA_041722415.1	Butyriboletus sp. TRTC157195	192	0	0	0	0
+GCA_041722435.1	Porphyrellus sp. TRTC161176	160	0	0	0	0
+GCA_041722495.1	Boletaceae sp. TRTC157249	169	1	0	0	0
+GCA_041722515.1	Heimioporus sp. TRTC157243	139	0	0	0	0
+GCA_041722535.1	Tylopilus sp. TRTC175187	127	0	0	0	0
+GCA_041722555.1	Pulveroboletus sp. TRTC175156	117	0	0	0	0
+GCA_041722575.1	Boletaceae sp. TRTC157208	170	0	0	0	0
+GCA_041722615.1	cf. Tylopilus sp. TRTC175157	72	0	0	0	0
+GCA_041722715.1	Xerocomus sp. UT-M0000400	74	0	0	0	0
+GCA_041722735.1	Tylopilus sp. UT-M0000375	170	0	0	0	0
+GCA_041722755.1	Phylloporus sp. UT-M0000442	125	0	0	0	0
+GCA_041722815.1	Aureoboletus sp. UT-M0000056	31	0	0	0	0
+GCA_041722835.1	Xerocomus sp. UT-M0000078	78	0	0	0	0
+GCA_041722875.1	Tylopilus sp. UT-M0000018	98	0	0	0	0
+GCA_041722895.1	Xerocomus sp. UT-M0000266	44	0	0	0	0
+GCA_041722935.1	Tylopilus sp. UT-M0002033	142	0	0	0	0
+GCA_041722955.1	Caloboletus sp. UT-M0002021	136	0	0	0	0
+GCA_041722975.1	Phylloporus sp. KM206838	146	0	0	0	0
+GCA_046055875.1	Suillus bovinus	29	0	0	0	0
+GCA_046718465.1	Scleroderma yunnanense	34	0	0	0	0
+GCA_046718565.1	Scleroderma citrinum	57	0	0	0	0
+GCA_047655925.1	Neoboletus brunneissimus	34	0	0	0	0
+GCA_051942495.1	Pisolithus albus	75	1	1	1	0
+GCA_054960005.1	Buchwaldoboletus xylophilus	25	0	0	0	0
+GCA_057380975.1	Serpula himantioides	58	0	0	0	0
+GCA_058127325.1	Buchwaldoboletus xylophilus	54	0	0	0	0
+GCA_058127345.1	Buchwaldoboletus xylophilus	59	0	0	0	0
+GCA_058127365.1	Buchwaldoboletus xylophilus	57	0	0	0	0
+GCA_058127385.1	Buchwaldoboletus xylophilus	71	0	0	0	0
+GCA_058127405.1	Buchwaldoboletus xylophilus	54	0	0	0	0
+GCA_058127425.1	Buchwaldoboletus xylophilus	29	0	0	0	0
+GCA_058127445.1	Buchwaldoboletus xylophilus	186	0	0	0	0
+GCA_058127465.1	Buchwaldoboletus xylophilus	194	0	0	0	0
+GCA_058127485.1	Buchwaldoboletus xylophilus	187	0	0	0	0
+GCA_058127505.1	Buchwaldoboletus xylophilus	187	0	0	0	0
+GCA_058127525.1	Buchwaldoboletus xylophilus	181	0	0	0	0
+GCA_058127545.1	Buchwaldoboletus xylophilus	193	0	0	0	0
+GCA_058127565.1	Buchwaldoboletus xylophilus	191	0	0	0	0
+GCA_058127585.1	Buchwaldoboletus xylophilus	189	0	0	0	0
+GCA_058127605.1	Buchwaldoboletus xylophilus	194	0	0	0	0
+GCA_058127655.1	Buchwaldoboletus xylophilus	195	0	0	0	0
+GCA_058129735.1	Buchwaldoboletus xylophilus	30	0	0	0	0
+GCA_964213175.1	Butyriboletus subappendiculatus	51	0	0	0	0
+GCA_964213195.1	Butyriboletus subappendiculatus	26	0	0	0	0
+GCA_965113095.1	Aureoboletus gentilis	24	0	0	0	0
+GCA_965113155.1	Aureoboletus gentilis	3	0	0	0	0
+GCA_965784085.1	Gyroporus aff. castaneus	18	0	0	0	0
+GCA_965788925.1	Gyroporus aff. castaneus	18	0	0	0	0
+GCA_986172025.1	Rhizopogon luteolus	31	0	0	0	0
+GCA_986172045.1	Rhizopogon luteolus	32	0	0	0	0
+GCA_038090455.1	Garcileccinum viscosum	139	0	0	0	0

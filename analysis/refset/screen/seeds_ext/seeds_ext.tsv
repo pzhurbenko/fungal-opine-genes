@@ -1,0 +1,57 @@
+gene	seed_id	source	origin	length
+cus	Q9FAF7	bacterial	seeds11 seed: Rhizobium rhizogenes (cucumopine synthase)	320
+cus	MED6115461.1	plant_cTDNA	T1 CUS/cus: T1|Plant_MED6115461.1_hypothetical_protein_PIB30_090885_Stylosanthes_scabra	317
+cus	KAL3512627.1	plant_cTDNA	T1 CUS/cus: T1|Plant_KAL3512627.1_hypothetical_protein_ACH5RR_025344_Cinchona_calisaya	319
+cus	WBO26547.1	plant_cTDNA	T1 CUS/cus: T1|Plant_WBO26547.1_cuslike_protein_Arachis_hypogaea	265
+cus	KAK9667948.1	plant_cTDNA	T1 CUS/cus: T1|Plant_KAK9667948.1_hypothetical_protein_RND81_13G023000_Saponaria_officinalis	323
+cus	KAH7432836.1	plant_cTDNA	T1 CUS/cus: T1|Plant_KAH7432836.1_hypothetical_protein_KP509_07G042600_Ceratopteris_richardii	336
+cus	tra3CaTG-Cus	plant_cTDNA	T1 CUS/cus: T1|Plant_tra3CaTG-Cus	363
+cus	WP_174037302.1	bacterial	T1 CUS/cus: T1|Agro_WP_174037302.1_hypothetical_protein_Agrobacterium_tumefaciens	311
+cus	WP_233741845.1	bacterial	T1 CUS/cus: T1|Agro_WP_233741845.1_MULTISPECIES_hypothetical_protein_Rhizobium_Agrobacterium_group	344
+mis	BAB16139.1	bacterial	seeds11 seed: Martinezella/Rhizobium rhizogenes pRi1724 (riorf20, full length)	328
+mis	VFQ61161.1	plant_cTDNA	T1 CUS/mis: T1|Plant_VFQ61161.1_unnamed_protein_product_Cuscuta_campestris	331
+mis	AIV42059.1	plant_cTDNA	T1 CUS/mis: T1|Plant_AIV42059.1_putative_mikimopine_synthase_partial_Nicotiana_glauca_x_Nicotiana_langsdorffii	299
+mis	WP_174054202.1	bacterial	T1 CUS/mis: T1|Agro_WP_174054202.1_hypothetical_protein_Rhizobium_rhizogenes	320
+sus	A0A2Z2PFC8	bacterial	seeds11 seed: Agrobacterium tumefaciens/fabrum (sus; = old A5WXT3, deleted/merged)	333
+sus	WP_173994934	bacterial	T1 SUS/sus: T1|Agro_WP_173994934_1_MULTISPECIES_hypothetical_protein_Rhizobium_Agrobacterium_group	331
+sus	WP_034521016	bacterial	T1 SUS/sus: T1|Agro_WP_034521016_1_MULTISPECIES_hypothetical_protein_Rhizobium_Agrobacterium_group	344
+sus	WP_269710210	bacterial	T1 SUS/sus: T1|Agro_WP_269710210_1_hypothetical_protein_Rhizobium_rhizogenes	341
+sus	WP_107028680	bacterial	T1 SUS/sus: T1|Agro_WP_107028680_1_hypothetical_protein_Ensifer_sp_NM-2	361
+sus	WP_174158420	bacterial	T1 SUS/sus: T1|Agro_WP_174158420_1_hypothetical_protein_Rhizobium_rhizogenes	361
+sus	Ipomoea_NXFB01000007_669149	plant_cTDNA	T1 SUS/sus: T1|Plant_Ipomoea_batatas_cultivar_Taizhong6_chromosome_7_chr7_whole_genome_shotgun_sequence_NXFB01000007_669149_670145_332	332
+sus	Diospyros_JACNMG010000008_25289896	plant_cTDNA	T1 SUS/sus: T1|Plant_Diospyros_lotus_cultivar_W01_chromosome_8_whole_genome_shotgun_sequence_JACNMG010000008_25289896_25290907_337	337
+sus	Trema_JXTC01000104_859299	plant_cTDNA	T1 SUS/sus: T1|Plant_Trema_orientale_isolate_RG33-2_TorRG33x02_asm01_scf00104_whole_genome_shotgun_sequence_JXTC01000104_859299_859521_864867_865644_333	256
+sus	Quillaja_JARAOO010000002_12791051	plant_cTDNA	T1 SUS/sus: T1|Plant_Quillaja_saponaria_isolate_S10_chromosome_2_whole_genome_shotgun_sequence_JARAOO010000002_12791051_12791669_206	202
+sus	Nicotiana_ASAG02000007_48191676	plant_cTDNA	T1 SUS/sus: T1|Plant_Nicotiana_tomentosiformis_chromosome_7_whole_genome_shotgun_sequence_ASAG02000007_48191676_48192687_337	337
+sus	Euphorbia_PJAE01404665_538	plant_cTDNA	T1 SUS/sus: T1|Plant_Euphorbia_esula_cultivar_1984-ND001_c294543_g1_i1_whole_genome_shotgun_sequence_PJAE01404665_538_1396_286	286
+sus	Parasponia_JXTB01000069_544818	plant_cTDNA	T1 SUS/sus: T1|Plant_Parasponia_andersonii_isolate_WU1-14_PanWU01x14_asm01_scf00069_whole_genome_shotgun_sequence_JXTB01000069_544818_545118_545125_545359_545373_545793_318	316
+sus	Cyclocarya_JARVXO010000040_36077290	plant_cTDNA	T1 SUS/sus: T1|Plant_Cyclocarya_paliurus_isolate_4PA2023_chromosome_3D_whole_genome_shotgun_sequence_JARVXO010000040_36077290_36078301_337	337
+sus	Parasponia_JXTB01000642_144202	plant_cTDNA	T1 SUS/sus: T1|Plant_Parasponia_andersonii_isolate_WU1-14_PanWU01x14_asm01_scf00642_whole_genome_shotgun_sequence_JXTB01000642_144202_145165_321	317
+sus	Diospyros_BSEG01000004_21240615	plant_cTDNA	T1 SUS/sus: T1|Plant_Diospyros_kaki_Taishu_DNA_chromosome_4_draft_genome_sequence_whole_genome_shotgun_sequence_BSEG01000004_21240615_21241608_331	330
+sus	PON40587	plant_cTDNA	T1 SUS/sus: T1|Plant_PON40587_1_Parasponia_andersonii_extra	122
+sus	PON40591	plant_cTDNA	T1 SUS/sus: T1|Plant_PON40591_1_Parasponia_andersonii_extra	191
+sus	PON40593	plant_cTDNA	T1 SUS/sus: T1|Plant_PON40593_1_Parasponia_andersonii_extra	176
+acs	AAK90959.2	bacterial	seeds11 seed: Agrobacterium tumefaciens C58 pTiC58 (agrocinopine synthase)	371
+acs	che1CaTE-Acs	plant_cTDNA	T1 ACS/acs: T1|Plant_che1CaTE-Acs	443
+acs	PON40589	plant_cTDNA	T1 ACS/acs: T1|Plant_PON40589_1_hypothetical_protein_PanWU01x14_296110_Parasponia_andersonii	159
+acs	WP_192068445	bacterial	T1 ACS/acs: T1|Agro_WP_192068445_1_MULTISPECIES_glycerophosphodiester_phosphodiesterase_family_protein_unclassified_Rhizobium	456
+acs	AIK35201	plant_cTDNA	T1 ACS/acs: T1|Plant_AIK35201_1_Acs_Ipomoea_batatas	305
+acs	QTG17267	bacterial	T1 ACS/acs: T1|Agro_QTG17267_1_agrocinopine_synthase_Agrobacterium_tumefaciens	430
+acs	WP_209160150	bacterial	T1 ACS/acs: T1|Agro_WP_209160150_1_MULTISPECIES_glycerophosphodiester_phosphodiesterase_family_protein_unclassified_Agrobacterium	370
+acs	GMD67474	plant_cTDNA	T1 ACS/acs: T1|Plant_GMD67474_1_agrocinopine_synthase_Ipomoea_batatas	424
+acs	WML69206	plant_cTDNA	T1 ACS/acs: T1|Plant_WML69206_1_agrocinopine_synthase_Agrobacterium_sp_Nicotiana_noctiflora	341
+acs_pKerr14a	WP_280174108	bacterial	T1 ACS/kerr14: T1|Agro_WP_280174108_1_glycerophosphodiester_phosphodiesterase_family_protein_Agrobacterium_tumefaciens	370
+mas1	P50201	bacterial	seeds11 seed: Rhizobium rhizogenes (agropine synthesis reductase)	430
+mas1	AAF77131.1	bacterial	tdna cluster AAF77131.1: AAF77131.1|AF242881.1|Agrobacterium_tumefaciens|mas1'|mas1'|430	430
+mas1	AAZ50421.1	bacterial	tdna cluster AAF77131.1: AAZ50421.1|DQ058764.1|Agrobacterium_tumefaciens|mas1|Mas1|430	430
+mas2	Q9KI41	bacterial	seeds11 seed: Agrobacterium tumefaciens (Mas2')	360
+mas2	AAZ50420.1	bacterial	tdna cluster WP_262512305.1: AAZ50420.1|DQ058764.1|Agrobacterium_tumefaciens|mas2|Mas2|360	360
+mas2	WP_262512305.1	bacterial	tdna cluster WP_262512305.1: WP_262512305.1|NZ_CP048572.1|Agrobacterium_tumefaciens|-|SIS_domain-containing_protein|397	397
+ags	P27875	bacterial	seeds11 seed: Rhizobium rhizogenes (agropine synthesis cyclase)	396
+ags	AAF77132.1	bacterial	tdna cluster WP_080864006.1: AAF77132.1|AF242881.1|Agrobacterium_tumefaciens|ags|ags|395	395
+ags	AAZ50422.1	bacterial	tdna cluster WP_080864006.1: AAZ50422.1|DQ058764.1|Agrobacterium_tumefaciens|ags|Ags|395	395
+nos	P00386	bacterial	seeds11 seed: Agrobacterium tumefaciens T37 (D-nopaline dehydrogenase)	413
+nos	WP_070167540.1	bacterial	tdna cluster WP_010974826.1: WP_070167540.1|NZ_CP118263.1|Gillisella_vitis|nos|D-nopaline_dehydrogenase|412	412
+ocs	P0A395	bacterial	seeds11 seed: Agrobacterium tumefaciens 15955 (pTi, ocs)	358
+vis	A0A1S7UAT7	bacterial	seeds11 seed: Agrobacterium deltaense NCPPB 1641 (vitopine synthase)	360
+chs	A0A2Z2PGA9	bacterial	seeds11 seed: Agrobacterium tumefaciens/fabrum (chs; = old A0A2P0QJL8, deleted/merged)	407

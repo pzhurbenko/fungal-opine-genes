@@ -1,0 +1,117 @@
+protein	organism	gene	o_bact_org	o_bact_pid	rhizobial_best_bact	base_fate
+KAG1254624.1	Rhizopus microsporus	mas1	Achromobacter marplatensis	100.0	False	contamination
+KAF9122689.1	Mortierella sp. GBA39	chs	Paenibacillus sp. SSG-1	99.7	False	contamination
+KAG1203422.1	Rhizopus arrhizus	chs	Achromobacter sp. Bel	99.7	False	contamination
+KAK0366082.1	Friedmanniomyces endolithicus	chs	Sphingobium yanoikuyae	99.7	False	contamination
+KAG1453357.1	Rhizopus arrhizus	chs	Achromobacter sp. Bel	99.6	False	contamination
+KAH0437978.1	Aureobasidium melanogenum	sus	Paraburkholderia fungorum	99.5	False	contamination
+KAG1254267.1	Rhizopus arrhizus	vis	Achromobacter marplatensis	99.4	False	contamination
+KAG1438974.1	Rhizopus arrhizus	mas1	Achromobacter marplatensis	99.3	False	contamination
+KAI7253817.1	Hortaea werneckii	chs	Paenibacillus sp. IHB B 3415	97.8	False	contamination
+KAJ8143645.1	Metschnikowia pulcherrima	chs	Cellulosimicrobium cellulans	96.4	False	contamination
+KAF9139135.1	Mortierella sp. GBA39	mas2	Paenibacillus favisporus	90.5	False	contamination
+KPA35696.1	Fusarium langsethiae	ocs	Agrobacterium larrymoorei	79.1	True	C
+GKU08709.1	Fusarium langsethiae	nos	Agrobacterium larrymoorei	78.0	True	C
+OXV05108.1	Elaphomyces granulatus	mas1	Ignavibacteria bacterium	75.3	False	single
+EED24058.1	Talaromyces stipitatus ATCC 10500	mas1	Acinetobacter pittii	73.2	False	marginal
+OKL59002.1	Talaromyces atroroseus	mas1	Acinetobacter pittii	72.1	False	marginal
+CAH1755682.1	Entrophospora sp. SA101	chs	Candidatus Moeniiplasma glomeromycotorum	71.6	False	marginal
+CAG8455553.1	Ambispora gerdemannii	chs	endosymbiont GvMRE of Glomus versiforme	67.8	False	marginal
+KAG6371153.1	Boletus reticuloceps	acs,acs_pKerr14a	Mesorhizobium sp. GbtcB19	64.8	True	C
+BEJ12881.1	Cutaneotrichosporon sp. HIS471	mas1	Xanthomonadaceae bacterium	63.7	False	single
+KAM5345661.1	Fusarium nematophilum	chs	Agrobacterium larrymoorei	62.9	True	B
+KAM5380328.1	Fusarium nematophilum	chs	Agrobacterium larrymoorei	62.9	True	B
+KAJ6784079.1	Aphanocladium album	mas1	Streptomyces sp. NBC_01356	62.8	False	marginal
+RKL16097.1	Fusarium oxysporum	chs	Agrobacterium larrymoorei	62.7	True	B
+KAF5258030.1	Fusarium oxysporum	chs	Agrobacterium larrymoorei	62.7	True	B
+RKL01087.1	Fusarium oxysporum	chs	Agrobacterium larrymoorei	62.7	True	B
+QKD61567.2	Fusarium oxysporum Fo47	chs	Agrobacterium larrymoorei	62.7	True	B
+KAJ7770518.1	Mycena metata	cus	Allorhizobium ampelinum	62.7	True	B
+PCD24768.1	Fusarium oxysporum f. sp. radicis-cucumerinum	chs	Agrobacterium larrymoorei	62.7	True	B
+EWZ31120.1	Fusarium oxysporum Fo47	chs	Agrobacterium larrymoorei	62.7	True	B
+EXL52446.1	Fusarium oxysporum f. sp. radicis-lycopersici 26381	chs	Agrobacterium larrymoorei	62.7	True	B
+EWZ80709.1	Fusarium oxysporum f. sp. lycopersici MN25	chs	Agrobacterium larrymoorei	62.7	True	B
+KAN1538006.1	Trichosporon ovoides	mas1	Pararhodospirillum oryzae	62.0	False	marginal
+EEU41297.1	Fusarium vanettenii 77-13-4	chs	Agrobacterium larrymoorei	61.9	True	B
+KAJ4275658.1	Fusarium oxysporum	chs	Agrobacterium larrymoorei	61.9	True	B
+KAM5385907.1	Fusarium oxysporum	chs	Agrobacterium larrymoorei	61.9	True	B
+KAJ4123352.1	Fusarium oxysporum	chs	Agrobacterium larrymoorei	61.9	True	B
+RKL51690.1	Fusarium oxysporum	chs	Agrobacterium larrymoorei	61.9	True	B
+KAL6359175.1	Fusarium phalaenopsidis	chs	Agrobacterium larrymoorei	61.6	True	B
+KAI8662381.1	Fusarium sp. Ph1	chs	Agrobacterium larrymoorei	61.3	True	B
+RKK51892.1	Fusarium oxysporum f. sp. cepae	chs	Agrobacterium larrymoorei	61.0	True	B
+RKK49538.1	Fusarium oxysporum f. sp. cepae	chs	Agrobacterium larrymoorei	61.0	True	B
+RYC87345.1	Fusarium oxysporum f. sp. narcissi	chs	Agrobacterium larrymoorei	61.0	True	B
+RKK08570.1	Fusarium oxysporum f. sp. cepae	chs	Agrobacterium larrymoorei	61.0	True	B
+KAJ7289093.1	Mycena rebaudengoi	cus	Allorhizobium ampelinum	60.9	True	B
+KAG1458480.1	Rhizopus arrhizus	vis	Luminiphilus sp.	60.8	False	single
+UPK93317.1	Fusarium solani-melongenae	chs	Agrobacterium larrymoorei	60.3	True	B
+KAJ7039838.1	Mycena alexandri	cus	Allorhizobium ampelinum	60.2	True	B
+KAF8736273.1	Amanita brunnescens Koide BX004	cus	Labrys wisconsinensis	58.6	True	B
+KAG8213181.1	Butyriboletus roseoflavus	acs,acs_pKerr14a	Mesorhizobium sp. GbtcB19	57.5	True	C
+EEB09509.1	Schizosaccharomyces japonicus yFS275	sus	Halomonas sp. LBP4	56.9	False	single
+KAO1061018.1	Hebeloma velutipes	cus	Allorhizobium ampelinum	56.4	True	B
+KAA8645324.1	Aspergillus tanneri	chs	Neorhizobium galegae	55.2	True	marginal
+CAL9735043.1	Monosporozyma servazzii	cus	Devosia sp. YIM 151766	54.9	True	B
+KAJ0143367.1	Fusarium oxysporum f. sp. albedinis	chs	Agrobacterium vitis	54.7	True	B
+KAH7466404.1	Fusarium oxysporum f. sp. matthiolae	chs	Agrobacterium vitis	54.7	True	B
+EWY82264.1	Fusarium oxysporum NRRL 32931	chs	Agrobacterium vitis	54.2	True	B
+NP_593514.1	Schizosaccharomyces pombe	sus	Halomonas anticariensis	54.2	False	single
+CAN6596920.1	Schizosaccharomyces pombe	sus	Halomonas anticariensis	54.2	False	single
+KAL2315332.1	Schizosaccharomyces pombe	sus	Halomonas anticariensis	54.2	False	single
+XP_031031182.1	Fusarium oxysporum NRRL 32931	chs	Agrobacterium vitis	54.2	True	B
+CAC19749.1	Schizosaccharomyces pombe	sus	Halomonas anticariensis	54.2	False	single
+EXK36477.1	Fusarium oxysporum f. sp. melonis 26406	chs	Agrobacterium vitis	53.7	True	B
+RAL15815.1	Aspergillus homomorphus CBS 101889	chs	Neorhizobium galegae	53.1	True	marginal
+KAF4581365.1	Pleurotus pulmonarius	acs,acs_pKerr14a	Ensifer sp. Root31	51.0	True	C
+KAL4260645.1	Pleurotus pulmonarius	acs,acs_pKerr14a	Ensifer sp. Root31	51.0	True	C
+KAJ9415499.1	Fusarium oxysporum	chs	Agrobacterium vitis	50.3	True	B
+KAJ7458538.1	Mycena latifolia	vis	unclassified Bradyrhizobium	49.9	False	marginal
+KAJ7458538.1	Mycena latifolia	nos	unclassified Bradyrhizobium	49.9	False	marginal
+THC92788.1	Aspergillus tanneri	chs	Xaviernesmea oryzae	49.7	False	marginal
+KAK2472897.1	Fusarium oxysporum f. sp. albedinis	chs	Agrobacterium vitis	49.0	True	B
+KAI3576115.1	Fusarium oxysporum f. sp. albedinis	chs	Agrobacterium vitis	49.0	True	B
+KNB14377.1	Fusarium oxysporum f. sp. lycopersici 4287	chs	Agrobacterium vitis	47.2	True	B
+XP_018252422.1	Fusarium oxysporum f. sp. lycopersici 4287	chs	Agrobacterium vitis	47.2	True	B
+KAK3175812.1	Lecanicillium sp. MT-2017a	nos	unclassified Bradyrhizobium	46.3	False	marginal
+KAE8341690.1	Aspergillus arachidicola	chs	Neorhizobium galegae	45.4	True	marginal
+KAH7120428.1	Dactylonectria estremocensis	chs	Agrobacterium vitis	45.0	True	B
+KAN4143432.1	Cordyceps cateniannulata	ocs	Bradyrhizobium oligotrophicum	42.7	True	marginal
+KAN4143432.1	Cordyceps cateniannulata	nos	Bradyrhizobium oligotrophicum	42.7	True	marginal
+WWD22210.1	Kwoniella shandongensis	vis	Bosea sp. (in: a-proteobacteria)	42.5	True	single
+KAH0962947.1	Hirsutella rhossiliensis	ocs	Bradyrhizobium oligotrophicum	42.5	True	marginal
+EJP68988.1	Beauveria bassiana ARSEF 2860	vis	Bradyrhizobium sp. SZCCHNRI1009	42.3	True	marginal
+EJP68988.1	Beauveria bassiana ARSEF 2860	nos	Bradyrhizobium sp. SZCCHNRI1009	42.3	True	marginal
+KAM3477698.1	Beauveria neobassiana	nos	Bradyrhizobium sp. SZCCHNS3002	41.9	True	marginal
+KAN5924949.1	Beauveria neobassiana	nos	Bradyrhizobium sp. SZCCHNS3002	41.9	True	marginal
+KAM3467039.1	Beauveria neobassiana	nos	Bradyrhizobium sp. SZCCHNS3002	41.9	True	marginal
+KAM3494973.1	Beauveria namnaoensis	nos	Bradyrhizobium sp. SZCCHNS3002	41.6	True	marginal
+KAM3535648.1	Beauveria bassiana	nos	Bradyrhizobium sp. SZCCHNS3002	41.6	True	marginal
+KAM3546940.1	Beauveria bassiana	nos	Bradyrhizobium sp. SZCCHNS3002	41.6	True	marginal
+KAM3484578.1	Beauveria namnaoensis	nos	Bradyrhizobium sp. SZCCHNS3002	41.6	True	marginal
+PQK08802.1	Beauveria bassiana	nos	Bradyrhizobium sp. SZCCHNS3002	41.6	True	marginal
+KGQ08844.1	Beauveria bassiana D1-5	nos	Bradyrhizobium sp. SZCCHNS3002	41.6	True	marginal
+PMB73139.1	Beauveria bassiana	nos	Bradyrhizobium sp. SZCCHNS3002	41.3	True	marginal
+KAM3532117.1	Beauveria bassiana	nos	Bradyrhizobium sp. SZCCHNS3002	41.0	True	marginal
+KAM0666636.1	Beauveria bassiana	ocs	Bradyrhizobium sp. SZCCHNS3002	41.0	True	marginal
+KAM3532117.1	Beauveria bassiana	ocs	Bradyrhizobium sp. SZCCHNS3002	41.0	True	marginal
+KAM0666636.1	Beauveria bassiana	nos	Bradyrhizobium sp. SZCCHNS3002	41.0	True	marginal
+KAF9232081.1	Melanogaster broomeanus	sus	Rhizobium rhizogenes	40.8	True	B
+KAM3507744.1	Beauveria gryllotalpidicola	vis	Bradyrhizobium sp. SZCCHNS3002	40.5	True	marginal
+KAM3507744.1	Beauveria gryllotalpidicola	nos	Bradyrhizobium sp. SZCCHNS3002	40.5	True	marginal
+EGX90707.1	Cordyceps militaris CM01	vis	Bradyrhizobium sp. SRS-191	40.3	True	marginal
+ATY61894.1	Cordyceps militaris	vis	Bradyrhizobium sp. SZCCHNRI20481	40.1	True	marginal
+KAM7187585.1	Rhypophila sp. PSN 637	nos	Agrobacterium tumefaciens	39.5	True	B
+KAG5951299.1	Claviceps sorghi	vis	unclassified Bradyrhizobium	39.3	False	marginal
+KAG8213183.1	Butyriboletus roseoflavus	nos	Agrobacterium tumefaciens	39.1	True	B
+RDA94655.1	Ophiocordyceps camponoti-saundersi (nom. inval.)	nos	unclassified Bradyrhizobium	38.3	False	marginal
+ETS73999.1	Pestalotiopsis fici W106-1	sus	Roseibium aggregatum	35.8	True	single
+KAJ4397655.1	Gnomoniopsis smithogilvyi	ocs	unclassified Bradyrhizobium	35.4	False	marginal
+KAM7213959.1	Rhypophila decipiens	nos	Agrobacterium vitis	34.3	True	B
+KAK4208163.1	Rhypophila decipiens	nos	Sinorhizobium meliloti	33.9	True	B
+KAI0199099.1	Astrocystis sublimbata	acs	Agrobacterium larrymoorei	31.7	True	marginal
+KAG2362636.1	Suillus spraguei	vis	Agrobacterium	31.3	True	marginal
+KAJ7464060.1	Mycena latifolia	acs,acs_pKerr14a	Rhizobium	30.4	True	marginal
+KXN89159.1	Leucoagaricus sp. SymC.cos	acs,acs_pKerr14a	Rhizobium	30.3	True	single
+KAF2158142.1	Myriangium duriaei CBS 260.36	nos	Rhizobium sp.	30.2	True	marginal
+KZZ90191.1	Moelleriella libera RCEF 2490	sus	Paraburkholderia aspalathi	25.3	False	single

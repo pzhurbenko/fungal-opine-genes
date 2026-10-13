@@ -1,0 +1,21 @@
+gca	genus	organism	class	protein	pident	cov_seed
+GCA_020744375.1	Dactylonectria	Dactylonectria estremocensis		KAH7120428.1	29.9	0.972
+GCA_015502485.1	Mortierella	Mortierella sp. GBA39	Mortierellomycetes	KAF9122689.1	25.8	0.949
+GCA_027600665.1	Irineochytrium	Irineochytrium annulatum		KAJ3198587.1	26.2	0.955
+GCA_024761535.1	Hortaea	Hortaea werneckii		KAI7258808.1	27.4	0.919
+GCA_014898675.1	Athelia	Athelia sp. TMB		KAF7972090.1	26.7	0.833
+GCA_029233265.1	Mycena	Mycena alexandri	Agaricomycetes	KAJ7043199.1	27.8	0.833
+GCA_029378375.1	Mycena	Mycena olivaceomarginata	Agaricomycetes	KAJ7871417.1	28.5	0.947
+GCA_030039215.1	Naganishia	Naganishia onofrii	Tremellomycetes	KAJ9125883.1	25.9	0.823
+GCA_022578815.1	Xylariaceae	Xylariaceae sp. FL0016	Sordariomycetes	KAI1338055.1	25.9	0.934
+GCA_051820515.1	Trichoderma	Trichoderma austrokoningii	Sordariomycetes	KAL7918480.1	25.9	0.851
+GCA_003426965.1	Aspergillus	Aspergillus tanneri	Eurotiomycetes	KAA8645324.1	22.1	0.967
+GCA_013201755.1	Colletotrichum	Colletotrichum siamense	Sordariomycetes	KAF4806334.1	26.1	0.962
+GCA_013390195.1	Colletotrichum	Colletotrichum siamense	Sordariomycetes	KAF5511669.1	25.9	0.962
+GCA_013423385.1	Naganishia	Naganishia liquefaciens	Tremellomycetes	GHJ87722.1	27.1	0.808
+GCA_001882365.1	Rhizopogon	Rhizopogon vesiculosus	Agaricomycetes	OJA17421.1	24.5	0.833
+GCA_010015805.1	Rhizodiscina	Rhizodiscina lignyota	Dothideomycetes	KAF2093222.1	25.2	0.949
+GCA_028827675.1	Penicillium	Penicillium lagena	Eurotiomycetes	KAJ5609970.1	25.4	0.982
+GCA_006352295.1	Rhodotorula	Rhodotorula diobovata	Microbotryomycetes	TNY24483.1	28.2	0.821
+GCA_003369665.1	Coleophoma	Coleophoma cylindrospora	Leotiomycetes	RDW89246.1	22.7	0.838
+GCA_003369635.1	Coleophoma	Coleophoma crateriformis	Leotiomycetes	RDW70388.1	23.4	0.838

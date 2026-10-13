@@ -1,0 +1,39 @@
+block	lineage_final	family	n_loci	intact	pseudogene_like	fragment_remnant	ambiguous	other_status	n_genomes	n_species	n_divisions	n_classes	n_orders	n_families	top3_orders	loci_Boletales	species_Boletales
+all_loci	acc-type GDPD	ACS	60	3	57	0	0	0	30	24	1	1	2	2	Boletales (59); Agaricales (1)	59	23
+all_loci	acc-type GDPD (not placed)	ACS	38	0	2	35	1	0	21	17	2	2	3	3	Boletales (34); Agaricales (3); Pezizales (1)	34	15
+all_loci	acs-HMM group (not placed)	ACS	93	0	6	54	33	0	56	39	2	2	6	13	Boletales (67); Agaricales (13); Russulales (9)	67	23
+all_loci	native fungal GDPD (main clade)	ACS	102	48	54	0	0	0	75	43	1	1	3	11	Boletales (68); Agaricales (24); Russulales (9)	68	24
+all_loci	no HMM subgroup (not placed)	ACS	20	0	0	20	0	0	16	13	1	1	3	6	Agaricales (9); Russulales (6); Boletales (5)	5	5
+all_loci	not a homolog	ACS	855	0	0	0	0	855	778	137	2	9	28	52	Hypocreales (464); Saccharomycetales (204); Agaricales (56)	12	9
+all_loci	other fungal GDPD (position unresolved)	ACS	31	30	1	0	0	0	21	18	2	3	6	10	Agaricales (15); Boletales (10); Phallales (2)	10	7
+all_loci	outgroup-HMM (not placed)	ACS	37	0	0	0	37	0	37	12	2	4	7	8	Eurotiales (28); Agaricales (2); Cantharellales (2)	0	0
+all_loci	pKerr14a-type acs-like	ACS	19	6	0	13	0	0	8	8	1	1	1	1	Boletales (19)	19	8
+all_loci	pKerr14a-type acs-like (not placed)	ACS	30	0	0	3	27	0	30	9	2	2	5	7	Hypocreales (21); Boletales (4); Agaricales (3)	4	3
+all_loci	actinobacterial-type	CUS	591	359	232	0	0	0	478	65	1	4	4	9	Hypocreales (408); Eurotiales (174); NA (4)	0	0
+all_loci	actinobacterial-type (not placed)	CUS	286	0	0	30	256	0	158	26	2	4	3	5	Eurotiales (212); Hypocreales (71); NA (2)	0	0
+all_loci	cus-like (T-DNA type)	CUS	50	34	16	0	0	0	36	22	2	3	6	9	Boletales (26); Saccharomycetales (9); Agaricales (7)	26	10
+all_loci	cus-like (T-DNA type) (not placed)	CUS	36	0	0	34	2	0	15	12	2	4	5	5	Boletales (30); Sordariales (3); Agaricales (1)	30	8
+all_loci	cus-related small ORF (cusrel181) (not placed)	CUS	34	0	1	31	2	0	23	17	2	3	6	6	Boletales (22); Hypocreales (7); Sordariales (2)	22	11
+all_loci	mis lineage	CUS	293	254	39	0	0	0	263	108	3	7	13	21	Hypocreales (118); Eurotiales (53); Boletales (51)	51	24
+all_loci	mis lineage (not placed)	CUS	58	0	0	50	8	0	29	27	2	4	7	6	Boletales (46); Eurotiales (3); NA (3)	46	18
+all_loci	not a homolog	CUS	20	1	0	0	0	19	18	17	2	5	8	10	Boletales (9); Agaricales (3); Hypocreales (3)	9	7
+all_loci	other bacterial-type CUS (beta-proteobacteria) (not placed)	CUS	6	0	0	5	1	0	6	5	2	3	5	5	Sordariales (2); Cantharellales (1); Coronophorales (1)	0	0
+all_loci	other bacterial-type CUS (not placed)	CUS	3	0	0	2	1	0	2	2	1	1	1	1	Boletales (3)	3	2
+all_loci	outgroup-HMM (not placed)	CUS	12	0	0	0	12	0	11	3	1	2	2	2	Eurotiales (11); Hypocreales (1)	0	0
+all_loci	rcorf12 (not placed)	CUS	1	0	0	1	0	0	1	1	1	1	1	1	Hypocreales (1)	0	0
+all_loci	OCD-like bacterial (not placed)	SUS	2	0	0	2	0	0	2	1	1	1	1	1	Sporidiobolales (2)	0	0
+all_loci	OCD-like, outside T-DNA sus clade	SUS	5	5	0	0	0	0	5	3	2	2	2	2	Boletales (3); Sordariales (2)	3	2
+all_loci	not a homolog	SUS	4	0	0	0	0	4	4	3	2	2	2	2	Boletales (2); Xylariales (2)	2	1
+all_loci	sus-like (T-DNA type)	SUS	58	36	22	0	0	0	33	31	2	2	2	3	Boletales (57); Mortierellales (1)	57	30
+all_loci	sus-like (T-DNA type) (not placed)	SUS	47	0	0	42	5	0	20	19	1	1	1	2	Boletales (47)	47	19
+all_loci	TOTAL	ACS+CUS+SUS	2791	776	430	322	385	878	1379	407	3	12	35	90	Hypocreales (1098); Boletales (574); Eurotiales (484)	574	90
+tree_placed_only	acc-type GDPD	ACS	60	3	57	0	0	0	30	24	1	1	2	2	Boletales (59); Agaricales (1)	59	23
+tree_placed_only	native fungal GDPD (main clade)	ACS	102	48	54	0	0	0	75	43	1	1	3	11	Boletales (68); Agaricales (24); Russulales (9)	68	24
+tree_placed_only	other fungal GDPD (position unresolved)	ACS	31	30	1	0	0	0	21	18	2	3	6	10	Agaricales (15); Boletales (10); Phallales (2)	10	7
+tree_placed_only	pKerr14a-type acs-like	ACS	6	6	0	0	0	0	4	4	1	1	1	1	Boletales (6)	6	4
+tree_placed_only	actinobacterial-type	CUS	591	359	232	0	0	0	478	65	1	4	4	9	Hypocreales (408); Eurotiales (174); NA (4)	0	0
+tree_placed_only	cus-like (T-DNA type)	CUS	48	32	16	0	0	0	34	21	2	3	6	8	Boletales (26); Saccharomycetales (8); Agaricales (6)	26	10
+tree_placed_only	mis lineage	CUS	293	254	39	0	0	0	263	108	3	7	13	21	Hypocreales (118); Eurotiales (53); Boletales (51)	51	24
+tree_placed_only	OCD-like, outside T-DNA sus clade	SUS	5	5	0	0	0	0	5	3	2	2	2	2	Boletales (3); Sordariales (2)	3	2
+tree_placed_only	sus-like (T-DNA type)	SUS	58	36	22	0	0	0	33	31	2	2	2	3	Boletales (57); Mortierellales (1)	57	30
+tree_placed_only	TOTAL	ACS+CUS+SUS	1194	773	421	0	0	0	862	264	3	8	22	50	Hypocreales (527); Boletales (280); Eurotiales (227)	280	83

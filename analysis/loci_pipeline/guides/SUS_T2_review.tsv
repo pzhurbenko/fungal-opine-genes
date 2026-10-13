@@ -1,0 +1,7 @@
+fam	acc	organism	ncbi_title	n_reps_best_hit	max_identity_to_T1	closest_T1	length	kept_T2
+SUS	WP_174080856.1	Rhizobiaceae	MULTISPECIES: hypothetical protein [Rhizobiaceae]	1	0.98	T1|Agro_WP_269710210_1_hypothetical_protein_Rhizobium_rhizog	341	yes
+SUS	WP_174075806.1	Martinezella rhizogenes	hypothetical protein [Martinezella rhizogenes]	2	0.94	T1|Agro_WP_269710210_1_hypothetical_protein_Rhizobium_rhizog	315	yes
+SUS	WP_114836055.1	Agrobacterium tumefaciens	ornithine cyclodeaminase [Agrobacterium tumefaciens]	1	0.36	T1|Plant_Juglans_mandshurica_isolate_NFU_2021_chromosome_7_w	365	no
+SUS	WP_111794418.1	Agrobacterium	MULTISPECIES: hypothetical protein [Agrobacterium]	3	0.30	T1|Plant_Ipomoea_batatas_cultivar_Taizhong6_chromosome_7_chr	337	no
+SUS	WP_168279484.1	Rhizobium leguminosarum	WD40 domain-containing protein [Rhizobium leguminosarum]	1	0.29	T1|Plant_PON40591_1_Parasponia_andersonii_extra	1323	no
+SUS	WP_151986804.1	Rhizobium sp. EC-SD404	bifunctional Delta(1)-pyrroline-2-carboxylate/Delta(1)-piperideine-2-carboxylate reductase [Rhizobium sp. EC-SD404]	1	0.26	T1|Plant_Ipomoea_batatas_cultivar_Taizhong6_chromosome_7_chr	323	no

@@ -1,0 +1,17 @@
+name: minimap2_env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - _openmp_mutex=4.5
+  - k8=1.2
+  - kernel-headers_linux-64=5.14.0
+  - libgcc=15.1.0
+  - libgomp=15.1.0
+  - libstdcxx=15.1.0
+  - libzlib=1.3.1
+  - minimap2=2.30
+  - sysroot_linux-64=2.34
+  - tzdata=2025b

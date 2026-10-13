@@ -1,0 +1,8 @@
+threshold_chs	mp_loci_chs_like(rule as implemented, te=0.70)	mp_genomes_chs_like	mp_loci_lost_vs_0.45	mp_loci_with_id_chs>=T(alone)	dmnd_proteins>=T(all)	dmnd_chs_lineage>=T	dmnd_native>=T	dmnd_genomes>=T	dmnd_native_names>=T
+30	33	33	-	15	72	44	28	63	Actinomortierella ambigua,Actinomortierella wolfii,Benniella sp.,Calcarisporiella thermophila,Cladophialophora chaetospira,Cyphellophora europaea CBS 101466,Exophiala bonariae,Funneliformis geosporum,Haplosporangium sp. Z 11,Linnemannia gamsii,Linnemannia zychae,Metschnikowia pulcherrima,Mortierella sp. AD032,Mortierella sp. GBA35,Mortierella sp. NVP85,Rhizopus arrhizus,Tulasnella sp. 403,Venturia inaequalis
+35	33	33	-	15	51	44	7	42	Funneliformis geosporum,Venturia inaequalis
+40	33	33	-	15	44	44	0	36	-
+45	33	33	-	15	43	43	0	35	-
+50	33	33	-	15	39	39	0	31	-
+55	33	33	-	12	25	25	0	25	-
+60	32	32	GCA_020744375.1_L1	1	23	23	0	23	-

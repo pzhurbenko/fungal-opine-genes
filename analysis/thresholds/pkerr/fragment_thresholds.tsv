@@ -1,0 +1,10 @@
+threshold	n_assigned(non-six, any basis)	n_assigned_not_tree_placed	of_original13_kept	original13_lost	new_not_in_original13(locus:lineage_final:pid)	nearest_intact_same_as_at_60	ALT_maxpid_def:n_assigned	ALT_maxpid_def:original13_lost	ALT_maxpid_def:new
+40	16	16	13	-	ACS_JBBPNQ010000397_L1:acs-HMM group (not placed):49.4;ACS_JBBPWX010062892_L1:acs-HMM group (not placed):45.6;ACS_CEMI01314509_L1:acs-HMM group (not placed):40.0	yes(nearest fixed per fragment)	17	-	ACS_JBBPNQ010000397_L1:49.4;ACS_JBBPWX010062892_L1:47.6;ACS_CEMI01314509_L1:40.0;ACS_JBBPWX010001359_L1:47.6
+45	15	15	13	-	ACS_JBBPNQ010000397_L1:acs-HMM group (not placed):49.4;ACS_JBBPWX010062892_L1:acs-HMM group (not placed):45.6	yes(nearest fixed per fragment)	16	-	ACS_JBBPNQ010000397_L1:49.4;ACS_JBBPWX010062892_L1:47.6;ACS_JBBPWX010001359_L1:47.6
+50	13	13	13	-	-	yes(nearest fixed per fragment)	13	-	-
+55	13	13	13	-	-	yes(nearest fixed per fragment)	13	-	-
+60	13	13	13	-	-	yes(nearest fixed per fragment)	13	-	-
+65	12	12	12	ACS_JBBPNQ010000794_L1	-	yes(nearest fixed per fragment)	13	-	-
+70	10	10	10	ACS_JBBPNO010000485_L1,ACS_JBBPNQ010000794_L1,ACS_JBBPRV010002497_L1	-	yes(nearest fixed per fragment)	12	ACS_JBBPRV010002497_L1	-
+75	10	10	10	ACS_JBBPNO010000485_L1,ACS_JBBPNQ010000794_L1,ACS_JBBPRV010002497_L1	-	yes(nearest fixed per fragment)	11	ACS_JBBPNO010000485_L1,ACS_JBBPRV010002497_L1	-
+80	7	7	7	ACS_JBBPNB010002022_L1,ACS_JBBPNB010009505_L1,ACS_JBBPNO010000485_L1,ACS_JBBPNQ010000794_L1,ACS_JBBPRV010002497_L1,ACS_JBBPTD010000005_L1	-	yes(nearest fixed per fragment)	8	ACS_JBBPNB010002022_L1,ACS_JBBPNO010000485_L1,ACS_JBBPNQ010000794_L1,ACS_JBBPRV010002497_L1,ACS_JBBPTD010000005_L1	-

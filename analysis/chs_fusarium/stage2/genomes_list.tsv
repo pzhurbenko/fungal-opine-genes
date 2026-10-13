@@ -1,0 +1,325 @@
+gca	organism	taxid	level	refseq	nprot
+GCA_043643485.1	[Neocosmospora] mangrovei	2954835	Contig	reference genome	15000
+GCA_057673785.1	[Neocosmospora] sp. B6999-5	3469078	Scaffold	reference genome	15908
+GCA_057673805.1	[Neocosmospora] sp. B6999-4	3469077	Scaffold		16075
+GCA_057673865.1	[Neocosmospora] sp. B6999-4	3469077	Scaffold		16415
+GCA_057673905.1	[Neocosmospora] sp. B6999-4	3469077	Scaffold		16287
+GCA_057673925.1	[Neocosmospora] sp. B6999-4	3469077	Scaffold		15753
+GCA_057673945.1	[Neocosmospora] sp. B6999-4	3469077	Scaffold		16273
+GCA_057673975.1	[Neocosmospora] sp. B6999-4	3469077	Scaffold	reference genome	15984
+GCA_057674065.1	[Neocosmospora] sp. B6999-4	3469077	Scaffold		16364
+GCA_057674085.1	[Neocosmospora] sp. B6999-2	3469075	Scaffold	reference genome	12489
+GCA_057674105.1	[Neocosmospora] sp. B6999-3	3469076	Scaffold	reference genome	14279
+GCA_057674165.1	[Neocosmospora] sp. B6999-2	3469075	Scaffold		11986
+GCA_057674185.1	[Neocosmospora] sp. B6999-1	3469074	Scaffold		15038
+GCA_057674245.1	[Neocosmospora] sp. B6999-1	3469074	Scaffold		15500
+GCA_057674285.1	[Neocosmospora] sp. B6999-1	3469074	Scaffold		14934
+GCA_057674295.1	[Neocosmospora] sp. B6999-1	3469074	Scaffold	reference genome	15024
+GCA_057674335.1	[Neocosmospora] sp. B6999-1	3469074	Scaffold		15610
+GCA_057674405.1	[Neocosmospora] sp. B6999-1	3469074	Scaffold		14977
+GCA_057674425.1	[Neocosmospora] sp. B6999-1	3469074	Scaffold		14937
+GCA_020744375.1	Dactylonectria estremocensis	1079267	Contig	reference genome	19198
+GCA_020744425.1	Dactylonectria macrodidyma	307937	Contig	reference genome	21303
+GCA_000149555.1	Fusarium verticillioides 7600	334819	Chromosome	reference genome	15869
+GCA_000149955.2	Fusarium oxysporum f. sp. lycopersici 4287	426428	Chromosome		20925
+GCA_000151355.1	Fusarium vanettenii 77-13-4	660122	Scaffold	reference genome	15708
+GCA_000222805.1	Fusarium oxysporum f. sp. conglutinans Fo5176	660025	Contig		17817
+GCA_000240135.3	Fusarium graminearum PH-1	229533	Chromosome	reference genome	13313
+GCA_000259975.2	Fusarium oxysporum f. sp. lycopersici MN25	1080343	Scaffold		17931
+GCA_000260075.2	Fusarium oxysporum f. sp. pisi HDV247	1080344	Scaffold		19623
+GCA_000260155.3	Fusarium oxysporum f. sp. radicis-lycopersici 26381	1089448	Scaffold		18238
+GCA_000260175.2	Fusarium oxysporum f. sp. vasinfectum 25433	1089449	Scaffold		18905
+GCA_000260195.2	Fusarium odoratissimum NRRL 54006	1089451	Scaffold	reference genome	16634
+GCA_000260215.2	Fusarium oxysporum f. sp. conglutinans race 2 54008	1089457	Scaffold		19854
+GCA_000260235.2	Fusarium oxysporum f. sp. raphani 54005	1089458	Scaffold		19306
+GCA_000260495.2	Fusarium oxysporum f. sp. melonis 26406	1089452	Scaffold		19661
+GCA_000271705.2	Fusarium oxysporum Fo47	660027	Scaffold		18191
+GCA_000271745.2	Fusarium oxysporum NRRL 32931	660029	Scaffold		17280
+GCA_000303195.2	Fusarium pseudograminearum CS3096	1028729	Chromosome	reference genome	12447
+GCA_000350345.1	Fusarium oxysporum f. sp. cubense race 1	1229664	Scaffold		15438
+GCA_000350365.1	Fusarium odoratissimum	2502994	Scaffold		14459
+GCA_000599445.1	Fusarium graminearum	5518	Chromosome		13355
+GCA_000769215.1	Fusarium avenaceum	40199	Scaffold		13092
+GCA_001023035.1	Fusarium fujikuroi	5127	Scaffold		14799
+GCA_001023045.1	Fusarium fujikuroi	5127	Scaffold		14830
+GCA_001023065.1	Fusarium fujikuroi	5127	Scaffold		15182
+GCA_001292635.1	Fusarium langsethiae	179993	Scaffold		11940
+GCA_001654555.2	Fusarium agapanthi	1803897	Scaffold		13310
+GCA_001675295.1	Fusarium poae	36050	Scaffold		14740
+GCA_001702695.2	Fusarium oxysporum f. sp. radicis-cucumerinum	327505	Chromosome		16795
+GCA_001703955.2	Fusarium pseudograminearum	101028	Chromosome		11483
+GCA_002352725.1	Fusarium graminearum	5518	Scaffold		11827
+GCA_002894225.1	Fusarium nygamai	42673	Scaffold		16019
+GCA_002980475.2	Fusarium beomiforme	44412	Scaffold	reference genome	14521
+GCA_003012285.1	Fusarium longipes	694270	Scaffold		11421
+GCA_003012295.1	Fusarium flagelliforme	2675880	Scaffold		13046
+GCA_003012315.1	Fusarium sporotrichioides	5514	Scaffold		11961
+GCA_003033665.1	Fusarium culmorum	5516	Contig		12378
+GCA_003290285.1	Fusarium proliferatum	948311	Scaffold		14379
+GCA_003316975.2	Fusarium verticillioides	117187	Chromosome		13769
+GCA_003316985.1	Fusarium coffeatum	231269	Contig	reference genome	11779
+GCA_003316995.2	Fusarium verticillioides	117187	Chromosome		13508
+GCA_003317015.2	Fusarium verticillioides	117187	Chromosome		458
+GCA_003615075.1	Fusarium oxysporum f. sp. cepae	396571	Scaffold		18296
+GCA_003615085.1	Fusarium oxysporum f. sp. cepae	396571	Chromosome		18827
+GCA_003615095.1	Fusarium oxysporum f. sp. cepae	396571	Scaffold		18482
+GCA_003615115.1	Fusarium oxysporum	5507	Scaffold		18763
+GCA_003615155.1	Fusarium oxysporum	5507	Scaffold		18575
+GCA_003615165.1	Fusarium oxysporum	5507	Scaffold		17916
+GCA_003615185.1	Fusarium oxysporum	5507	Scaffold		17798
+GCA_003615215.1	Fusarium proliferatum	948311	Scaffold		15409
+GCA_003698175.1	Fusarium kuroshium	2010991	Scaffold		16485
+GCA_003946985.1	Fusarium duplospermum	1325734	Scaffold		16263
+GCA_003946995.1	Fusarium oligoseptatum	2604345	Scaffold		17740
+GCA_003947005.1	Fusarium floridanum	1325733	Scaffold		16762
+GCA_003947015.1	Fusarium sp. AF-6	1325737	Contig		15274
+GCA_003947045.1	Fusarium ambrosium	131363	Scaffold		17262
+GCA_003957675.1	Fusarium euwallaceae	1147111	Contig		17630
+GCA_004141715.1	Fusarium oxysporum f. sp. narcissi	451672	Scaffold		20460
+GCA_005930515.1	Fusarium oxysporum f. sp. cubense	61366	Contig		16536
+GCA_007994515.1	Fusarium oxysporum f. sp. cubense	61366	Contig		17022
+GCA_009663055.1	Fusarium fujikuroi	5127	Chromosome		13578
+GCA_009663095.1	Fusarium fujikuroi	5127	Chromosome		13563
+GCA_009663115.1	Fusarium fujikuroi	5127	Chromosome		13690
+GCA_012931995.1	Fusarium albosuccineum	1237068	Scaffold	reference genome	17169
+GCA_012932015.1	Fusarium acutatum	78861	Scaffold	reference genome	14081
+GCA_012932025.1	Fusarium austroafricanum	2364996	Scaffold	reference genome	14502
+GCA_012959155.1	Fusarium avenaceum	40199	Scaffold		15886
+GCA_012959185.1	Fusarium graminearum	5518	Scaffold		14132
+GCA_013085055.1	Fusarium oxysporum Fo47	660027	Complete Genome	reference genome	16202
+GCA_013266165.1	Fusarium graminum	86546	Scaffold	reference genome	11163
+GCA_013266175.1	Fusarium gaditjirri	282569	Scaffold	reference genome	13454
+GCA_013266185.1	Fusarium sarcochroum	1208366	Scaffold	reference genome	14827
+GCA_013266195.1	Fusarium zealandicum	1053134	Scaffold	reference genome	10733
+GCA_013266205.1	Fusarium decemcellulare	57161	Scaffold		18126
+GCA_013266265.1	Fusarium sp. NRRL 66182	2692428	Scaffold		16534
+GCA_013363075.1	Fusarium oxysporum	5507	Scaffold		15434
+GCA_013364935.1	Fusarium anthophilum	48485	Scaffold	reference genome	14797
+GCA_013364965.1	Fusarium austroamericanum	282268	Scaffold		11984
+GCA_013395995.1	Fusarium pseudoanthophilum	48495	Scaffold	reference genome	14088
+GCA_013396005.1	Fusarium napiforme	42672	Scaffold	reference genome	13896
+GCA_013396015.1	Fusarium mexicanum	751941	Scaffold	reference genome	14387
+GCA_013396025.1	Fusarium phyllophilum	47803	Scaffold	reference genome	14160
+GCA_013396035.1	Fusarium pseudocircinatum	56676	Scaffold	reference genome	14263
+GCA_013396075.1	Fusarium subglutinans	42677	Contig	reference genome	14040
+GCA_013396095.1	Fusarium sp. NRRL 52700	1101274	Contig		13548
+GCA_013396165.1	Fusarium globosum	78864	Scaffold	reference genome	14590
+GCA_013396175.1	Fusarium denticulatum	48507	Scaffold	reference genome	14097
+GCA_013396185.1	Fusarium circinatum	48490	Scaffold		13905
+GCA_013396195.1	Fusarium tjaetaba	1567544	Scaffold	reference genome	14181
+GCA_013396205.1	Fusarium mundagurra	1567541	Scaffold	reference genome	15666
+GCA_013396255.1	Fusarium sp. NRRL 25303	122381	Scaffold		14388
+GCA_013396295.1	Fusarium heterosporum	42747	Scaffold	reference genome	11332
+GCA_013758895.1	Fusarium bulbicola	79018	Scaffold	reference genome	14231
+GCA_013781345.1	Fusarium coicis	1567539	Scaffold	reference genome	13908
+GCA_014154955.1	Fusarium oxysporum f. sp. conglutinans	100902	Chromosome		17912
+GCA_014764975.2	Fusarium sp. DS 682	2773459	Contig		15049
+GCA_016952305.1	Fusarium pseudograminearum	101028	Complete Genome		11217
+GCA_016952355.1	Fusarium culmorum	5516	Complete Genome	reference genome	11444
+GCA_017309865.1	Fusarium proliferatum	948311	Scaffold		14819
+GCA_017309875.1	Fusarium proliferatum	948311	Scaffold		14303
+GCA_017309895.1	Fusarium proliferatum	948311	Scaffold		13876
+GCA_018282135.1	Fusarium avenaceum	40199	Scaffold		11233
+GCA_018296245.1	Fusarium xylarioides	221167	Contig		14456
+GCA_018296265.1	Fusarium xylarioides	221167	Contig		14702
+GCA_018296285.1	Fusarium xylarioides	221167	Contig		14593
+GCA_018296305.1	Fusarium xylarioides	221167	Contig		14467
+GCA_018296325.1	Fusarium xylarioides	221167	Contig		14392
+GCA_018296345.1	Fusarium xylarioides	221167	Contig		14506
+GCA_018894095.1	Fusarium oxysporum f. sp. conglutinans	100902	Scaffold		21781
+GCA_019157275.1	Fusarium oxysporum f. sp. raphani	96318	Contig		18973
+GCA_019157295.1	Fusarium oxysporum f. sp. rapae	485398	Contig		17241
+GCA_019425555.1	Fusarium venenatum	56646	Contig		13197
+GCA_019609905.1	Fusarium poae	36050	Chromosome	reference genome	13857
+GCA_019915245.1	Fusarium musae	1042133	Chromosome	reference genome	13673
+GCA_020744115.1	Fusarium avenaceum	40199	Contig		14042
+GCA_020744135.1	Fusarium venenatum	56646	Contig	reference genome	12845
+GCA_020744335.1	Fusarium sp. MPI-SDFR-AT-0072	2826082	Contig		15730
+GCA_020744355.1	Fusarium oxysporum	5507	Contig		17726
+GCA_020744385.1	Fusarium flagelliforme	2675880	Contig	reference genome	13580
+GCA_020744455.1	Fusarium oxysporum	5507	Contig		17444
+GCA_020744475.1	Fusarium redolens	48865	Contig	reference genome	17050
+GCA_020744495.1	Fusarium solani	169388	Contig		17655
+GCA_020744515.1	Fusarium tricinctum	61284	Contig		14106
+GCA_020796175.1	Fusarium oxysporum f. sp. matthiolae	96317	Contig		20319
+GCA_022180325.1	Fusarium langsethiae	179993	Scaffold		12513
+GCA_022180345.1	Fusarium langsethiae	179993	Scaffold		12456
+GCA_022627095.1	Fusarium sp. FIESC RH6	2874508	Scaffold		11533
+GCA_022627105.1	Fusarium chuoi	2885761	Scaffold		14313
+GCA_022627115.1	Fusarium annulatum	48484	Scaffold		12880
+GCA_022627125.1	Fusarium chuoi	2885761	Scaffold	reference genome	13380
+GCA_022627135.1	Fusarium proliferatum	948311	Scaffold		13009
+GCA_023101225.1	Fusarium solani-melongenae	2747967	Complete Genome	reference genome	15320
+GCA_023509805.1	Fusarium oxysporum f. sp. albedinis	72712	Contig		19410
+GCA_023522795.1	Fusarium solani	169388	Contig	reference genome	18900
+GCA_024752415.1	Fusarium pseudograminearum	101028	Chromosome		14475
+GCA_024865645.1	Fusarium oxysporum	5507	Scaffold		14417
+GCA_025331925.1	Fusarium oxysporum	5507	Chromosome		21391
+GCA_025433545.1	Fusarium keratoplasticum	1328300	Chromosome	reference genome	14424
+GCA_025433555.1	Fusarium keratoplasticum	1328300	Chromosome		14406
+GCA_025433565.1	Fusarium sp. Ph1	2898544	Chromosome		15084
+GCA_025433615.1	Fusarium sp. LHS14.1	2898545	Chromosome		15522
+GCA_026229875.1	Fusarium oxysporum f. sp. albedinis	72712	Scaffold		31923
+GCA_026873545.1	Fusarium falciforme	195108	Complete Genome	reference genome	14574
+GCA_027627305.1	Fusarium decemcellulare	57161	Scaffold		17201
+GCA_027945235.1	Fusarium irregulare	2494466	Scaffold		12175
+GCA_027945245.1	Fusarium irregulare	2494466	Scaffold	reference genome	12532
+GCA_027945255.1	Fusarium oxysporum	5507	Scaffold		14320
+GCA_027945265.1	Fusarium oxysporum	5507	Scaffold		15041
+GCA_027945275.1	Fusarium oxysporum	5507	Scaffold		14598
+GCA_027945305.1	Fusarium oxysporum	5507	Scaffold		14988
+GCA_027945315.1	Fusarium oxysporum	5507	Scaffold		14256
+GCA_027945335.1	Fusarium oxysporum	5507	Scaffold		15183
+GCA_027945365.1	Fusarium equiseti	61235	Scaffold		11882
+GCA_027945395.1	Fusarium falciforme	195108	Contig		16303
+GCA_027945405.1	Fusarium oxysporum	5507	Contig		17453
+GCA_027945495.1	Fusarium falciforme	195108	Scaffold		15535
+GCA_027945505.1	Fusarium falciforme	195108	Scaffold		14679
+GCA_027945515.1	Fusarium falciforme	195108	Scaffold		14614
+GCA_027945525.1	Fusarium solani	169388	Scaffold		17490
+GCA_027945535.1	Fusarium oxysporum	5507	Scaffold		15208
+GCA_027945555.1	Fusarium oxysporum	5507	Scaffold		16386
+GCA_027945595.1	Fusarium torreyae	1237075	Scaffold	reference genome	14533
+GCA_027946385.1	Fusarium piperis	1435070	Contig		12530
+GCA_030020275.1	Fusarium oxysporum	5507	Scaffold		17629
+GCA_030719095.1	Fusarium oxysporum f. sp. vasinfectum	61374	Complete Genome		16305
+GCA_031834405.1	Fusarium oxysporum II5	660034	Chromosome		16011
+GCA_032206225.1	Fusarium oxysporum f. sp. albedinis	72712	Chromosome		20416
+GCA_032878545.1	Fusarium oxysporum f. sp. vasinfectum	61374	Contig		18074
+GCA_032884055.1	Fusarium oxysporum	5507	Scaffold		17033
+GCA_032991405.1	Fusarium oxysporum f. sp. vasinfectum	61374	Contig		17481
+GCA_037074405.1	Fusarium graminearum	5518	Chromosome		13361
+GCA_037074415.1	Fusarium graminearum	5518	Chromosome		14217
+GCA_037213105.1	Fusarium graminearum	5518	Complete Genome		13339
+GCA_037255895.1	Fusarium graminearum	5518	Complete Genome		13246
+GCA_038050555.1	Fusarium oxysporum f. sp. vasinfectum	61374	Scaffold		19616
+GCA_038181435.1	Fusarium acuminatum	5515	Complete Genome	reference genome	11342
+GCA_041870755.1	Fusarium sambucinum	5128	Complete Genome		12893
+GCA_046056315.1	Fusarium poae	36050	Complete Genome		14418
+GCA_047716405.1	Fusarium chlamydosporum	86545	Contig	reference genome	11055
+GCA_049000195.1	Fusarium oxysporum f. sp. vasinfectum	61374	Contig		15560
+GCA_049000225.1	Fusarium oxysporum	5507	Contig		16754
+GCA_050370095.1	Fusarium phalaenopsidis	3417454	Contig	reference genome	14637
+GCA_050947815.1	Fusarium sambucinum	5128	Complete Genome	reference genome	13017
+GCA_051622415.1	Fusarium oxysporum f. sp. mori	1940294	Scaffold		15020
+GCA_051622495.1	Fusarium oxysporum f. sp. mori	1940294	Scaffold		15016
+GCA_051622515.1	Fusarium oxysporum f. sp. mori	1940294	Scaffold		15030
+GCA_051622595.1	Fusarium oxysporum f. sp. mori	1940294	Scaffold		15059
+GCA_051624415.1	Fusarium oxysporum f. sp. zingiberi	654400	Contig		15540
+GCA_052058685.1	Fusarium commune	249398	Contig		15244
+GCA_052550365.1	Fusarium odoratissimum	2502994	Scaffold		14663
+GCA_052570155.1	Fusarium lateritium	5523	Scaffold		13405
+GCA_052570225.1	Fusarium lateritium	5523	Scaffold		12069
+GCA_052570285.1	Fusarium lateritium	5523	Scaffold		12322
+GCA_052570295.1	Fusarium lateritium	5523	Scaffold		11983
+GCA_052570305.1	Fusarium lateritium	5523	Scaffold		11855
+GCA_052570355.1	Fusarium lateritium	5523	Scaffold		12078
+GCA_052570365.1	Fusarium lateritium	5523	Scaffold		12065
+GCA_052570435.1	Fusarium lateritium	5523	Scaffold		12256
+GCA_052570455.1	Fusarium lateritium	5523	Scaffold		12244
+GCA_052570465.1	Fusarium lateritium	5523	Scaffold		12022
+GCA_052570515.1	Fusarium lateritium	5523	Scaffold	reference genome	11977
+GCA_052570605.1	Fusarium lateritium	5523	Scaffold		12335
+GCA_052570615.1	Fusarium lateritium	5523	Scaffold		11229
+GCA_052570645.1	Fusarium lateritium	5523	Scaffold		12027
+GCA_052570695.1	Fusarium culmorum	5516	Scaffold		11569
+GCA_052570705.1	Fusarium culmorum	5516	Scaffold		11447
+GCA_052570715.1	Fusarium culmorum	5516	Scaffold		11324
+GCA_052570805.1	Fusarium culmorum	5516	Scaffold		11673
+GCA_052570815.1	Fusarium culmorum	5516	Scaffold		11447
+GCA_052570865.1	Fusarium culmorum	5516	Scaffold		11455
+GCA_052571635.1	Fusarium lateritium	5523	Scaffold		13328
+GCA_052571695.1	Fusarium culmorum	5516	Scaffold		12076
+GCA_053754955.1	Fusarium oxysporum f. sp. cubense	61366	Chromosome		16063
+GCA_053754965.1	Fusarium oxysporum f. sp. cubense	61366	Chromosome		15200
+GCA_054098455.1	Fusarium oxysporum	5507	Scaffold		15296
+GCA_054098485.1	Fusarium nematophilum	1053271	Scaffold		17093
+GCA_054098565.1	Fusarium nematophilum	1053271	Contig	reference genome	15390
+GCA_054130785.1	Fusarium oxysporum f. sp. phaseoli	251360	Chromosome		21151
+GCA_054370115.1	Fusarium falciforme	195108	Contig		18757
+GCA_054370135.1	Fusarium solani	169388	Contig		15196
+GCA_055853645.1	Fusarium oxysporum	5507	Chromosome		16068
+GCA_056098845.1	Fusarium sp. IMII-1	3387622	Scaffold		12719
+GCA_057674445.1	Fusarium pseudensiforme	986114	Scaffold	reference genome	9073
+GCA_057674525.1	Fusarium pseudensiforme	986114	Scaffold		7840
+GCA_057674545.1	Fusarium cf. solani	1715230	Scaffold		13587
+GCA_057674555.1	Fusarium cf. solani	1715230	Scaffold		13371
+GCA_057674645.1	Fusarium duplospermum	1325734	Scaffold	reference genome	15936
+GCA_057674665.1	Fusarium duplospermum	1325734	Scaffold		16083
+GCA_057674705.1	Fusarium obliquiseptatum	1325738	Scaffold	reference genome	14297
+GCA_057674765.1	Fusarium cf. solani	1715230	Scaffold		13680
+GCA_057674785.1	Fusarium mekan	2951228	Scaffold	reference genome	14581
+GCA_057674825.1	Fusarium awan	2698983	Scaffold		10048
+GCA_057674865.1	Fusarium awan	2698983	Scaffold	reference genome	9904
+GCA_057674905.1	Fusarium akasia	2698982	Scaffold	reference genome	15245
+GCA_057674945.1	Fusarium akasia	2698982	Scaffold		14747
+GCA_057674965.1	Fusarium euwallaceae	1147111	Scaffold		16269
+GCA_057675025.1	Fusarium euwallaceae	1147111	Scaffold		16297
+GCA_057675065.1	Fusarium cf. solani	1715230	Scaffold		13142
+GCA_057675085.1	Fusarium obliquiseptatum	1325738	Scaffold		13886
+GCA_057675105.1	Fusarium tuaranense	1325736	Scaffold	reference genome	14768
+GCA_057675185.1	Fusarium oligoseptatum	2604345	Scaffold	reference genome	16341
+GCA_057675205.1	Fusarium floridanum	1325733	Scaffold		15615
+GCA_057675225.1	Fusarium tuaranense	1325736	Scaffold		14620
+GCA_057675305.1	Fusarium floridanum	1325733	Scaffold		14955
+GCA_057675325.1	Fusarium floridanum	1325733	Scaffold		15530
+GCA_057675345.1	Fusarium floridanum	1325733	Scaffold	reference genome	14976
+GCA_057675365.1	Fusarium warna	2698987	Scaffold	reference genome	15235
+GCA_057675385.1	Fusarium variasi	2698986	Scaffold		13623
+GCA_057675405.1	Fusarium variasi	2698986	Scaffold	reference genome	13553
+GCA_057675485.1	Fusarium mekan	2951228	Scaffold		15388
+GCA_057675505.1	Fusarium euwallaceae	1147111	Scaffold		17238
+GCA_057675525.1	Fusarium euwallaceae	1147111	Scaffold		16413
+GCA_057675605.1	Fusarium rekanum	2698985	Scaffold	reference genome	15148
+GCA_057675625.1	Fusarium rekanum	2698985	Scaffold		14917
+GCA_057675645.1	Fusarium cf. solani	1715230	Scaffold		15026
+GCA_057675685.1	Fusarium cf. solani	1715230	Scaffold		14370
+GCA_057675705.1	Fusarium cf. solani	1715230	Scaffold		14428
+GCA_057675765.1	Fusarium cf. solani	1715230	Scaffold		14716
+GCA_057675785.1	Fusarium cf. solani	1715230	Scaffold		14260
+GCA_057675825.1	Fusarium cf. solani	1715230	Scaffold		11393
+GCA_057675845.1	Fusarium cf. solani	1715230	Scaffold		14982
+GCA_057675865.1	Fusarium cf. solani	1715230	Scaffold		15264
+GCA_057675945.1	Fusarium cf. solani	1715230	Scaffold		14656
+GCA_057675965.1	Fusarium cf. solani	1715230	Scaffold		13270
+GCA_057675985.1	Fusarium kuroshium	2010991	Scaffold	reference genome	15521
+GCA_057676005.1	Fusarium papillatum	2951362	Scaffold	reference genome	14774
+GCA_057676085.1	Fusarium drepaniforme	2951361	Scaffold	reference genome	15095
+GCA_057676105.1	Fusarium papillatum	2951362	Scaffold		14861
+GCA_057676125.1	Fusarium ambrosium	131363	Scaffold		15264
+GCA_057676205.1	Fusarium ambrosium	131363	Scaffold		14896
+GCA_057676225.1	Fusarium ambrosium	131363	Scaffold	reference genome	15363
+GCA_057676245.1	Fusarium ambrosium	131363	Scaffold		15424
+GCA_057814765.1	Fusarium oxysporum f. sp. rapae	485398	Scaffold		19046
+GCA_900007375.1	Fusarium venenatum	56646	Chromosome		13946
+GCA_900029915.1	Fusarium proliferatum	948311	Scaffold		15254
+GCA_900044065.1	Fusarium mangiferae	192010	Scaffold	reference genome	15804
+GCA_900044135.1	Fusarium graminearum	5518	Chromosome		14143
+GCA_900067095.1	Fusarium proliferatum ET1	1227346	Scaffold	reference genome	16143
+GCA_900073075.1	Fusarium graminearum	5518	Complete Genome		14187
+GCA_900079805.1	Fusarium fujikuroi IMI 58289	1279085	Chromosome	reference genome	14813
+GCA_900096505.1	Fusarium fujikuroi	5127	Scaffold		15852
+GCA_900096605.1	Fusarium fujikuroi	5127	Contig		15940
+GCA_900096615.1	Fusarium fujikuroi	5127	Scaffold		15371
+GCA_900096625.1	Fusarium fujikuroi	5127	Scaffold		15725
+GCA_900096635.1	Fusarium fujikuroi	5127	Scaffold		15904
+GCA_900096645.1	Fusarium fujikuroi	5127	Scaffold		15920
+GCA_900096685.1	Fusarium fujikuroi	5127	Scaffold		16054
+GCA_900096695.1	Fusarium oxysporum	5507	Scaffold		16976
+GCA_900096705.1	Fusarium fujikuroi	5127	Scaffold		16088
+GCA_900312805.1	Fusarium torulosum	33205	Scaffold		13980
+GCA_900492705.2	Fusarium graminearum	5518	Contig		13140
+GCA_901446245.1	Fusarium graminearum	5518	Scaffold		13280
+GCA_901677955.1	Fusarium fujikuroi	5127	Scaffold		14557
+GCA_901677965.1	Fusarium fujikuroi	5127	Scaffold		14822
+GCA_902702945.1	Fusarium fujikuroi	5127	Scaffold		13527
+GCA_905332025.1	Fusarium graminearum	5518	Scaffold		12617
+GCA_905332055.1	Fusarium graminearum	5518	Contig		12791
+GCA_905359455.1	Fusarium graminearum	5518	Scaffold		12716
+GCA_905359465.1	Fusarium graminearum	5518	Contig		12800
+GCA_905359475.1	Fusarium graminearum	5518	Scaffold		13299
+GCA_905359485.1	Fusarium graminearum	5518	Scaffold		12983
+GCA_910393935.1	Fusarium equiseti	61235	Scaffold		12311
+GCA_954870535.1	Fusarium sp. VM40	3049762	Contig		13545
+GCA_964030585.1	Fusarium verticillioides	117187	Contig		14365
+GCA_964035615.1	Fusarium verticillioides	117187	Contig		14349

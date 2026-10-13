@@ -1,0 +1,20 @@
+gene	n_queries	queries	n_asm_strong_locus_best_subject	max_pident_best_locus	n_asm_chain_pid45_cov05	max_chain_pident_cov05
+rolB (AAK90962, gene=rolB)	1	AAK90962.1	0	30.0	0	22.5
+rolC? (AAK90962 product "C_protein"; same query as rolB)	1	AAK90962.1	0	30.0	0	22.5
+5 (AAK90960 "5_protein")	1	AAK90960.1	0	0.0	0	0.0
+6a (AAF77125 "ons"; cluster product 6a_protein)	1	AAF77125.1	0	0.0	0	0.0
+6b/tml (WP_174089376 cluster tml/tiorf186; AAZ50400 Tml)	2	WP_174089376.1;AAZ50400.1	0	0.0	0	0.0
+plast D (WP_174168441)	1	WP_174168441.1	0	0.0	0	0.0
+plast E (WP_172690589)	1	WP_172690589.1	0	0.0	0	0.0
+RolB_family_protein (all queries)	8	WP_174168441.1;WP_172690589.1;WP_172690492.1;WP_010900207.1;WP_161987869.1;WP_174089376.1;WP_419178744.1;WP_010974822.1	0	0.0	0	23.2
+orf13/orf14	0		0	n/a	0	n/a
+iaaM (WP_010974824 FAD-dependent oxidoreductase, cluster iaaM/tms1)	1	WP_010974824.1	0	59.0	0	0.0
+iaaH	1	AAF77122.1	0	73.9	0	30.3
+ipt	2	AAF77124.1;AAZ50399.1	0	37.1	0	0.0
+mas1	2	AAF77131.1;AAK90965.1	0	54.1	0	31.3
+mas2 (WP_262512305 SIS domain; cluster mas2)	1	WP_262512305.1	0	0.0	0	0.0
+ags (WP_080864006 M24 peptidase; cluster ags)	1	WP_080864006.1	0	40.0	0	26.1
+ocs	1	AAF77127.1	0	40.0	0	27.3
+nos	1	WP_010974826.1	0	41.1	0	39.2
+acs agrocinopine synthase (WP_010974816 acsx, cluster)	1	WP_010974816.1	0	0.0	0	32.7
+acs family queries FAM_ACS T1/T2	19	FAM_ACS:Plant_PON40589_1_hypothetical_;FAM_ACS:Agro_WP_217577425_1_glyceropho;FAM_ACS:Agro_WP_269347785_1_hypothetic;FAM_ACS:Agro_WP_280174108_1_glyceropho;FAM_ACS:Agro_WP_192068445_1_MULTISPECI;FAM_A	31	74.5	33	69.5

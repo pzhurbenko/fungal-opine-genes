@@ -1,0 +1,10 @@
+gene	start	end	strand	exons	role	top_org	top_pident	top_title
+g18	1139298	1139690	-	1		KAG2758128.1	62.6	KAG2758128.1 hypothetical protein P692DRAFT_20671440, partial [Suillus brevipes Sb2]
+g19	1142182	1143018	-	2	anchor	KIJ09426.1	69.4	KIJ09426.1 hypothetical protein PAXINDRAFT_48645, partial [Paxillus involutus ATCC 200175]
+g20	1145493	1146509	-	2	anchor	KAF7770950.1	53.7	KAF7770950.1 hypothetical protein Agabi119p4_6924 [Agaricus bisporus var. burnettii]
+g21	1152514	1153098	+	1	no_hit			
+g23	1159899	1160516	+	2	bacterial_like	Magnetospirillum sp. SS-4	58.5	IS481 family transposase [Magnetospirillum sp. SS-4]
+g24	1163746	1164733	+	2	bacterial_like	Mycena rebaudengoi	52.7	hypothetical protein C8J57DRAFT_1627481 [Mycena rebaudengoi]
+g25	1177477	1178100	-	1	Fungi	Melanogaster broomeanus	55.2	hypothetical protein BU15DRAFT_42310 [Melanogaster broomeanus]
+g26	1189200	1190216	+	2	anchor	KAF7770950.1	54.0	KAF7770950.1 hypothetical protein Agabi119p4_6924 [Agaricus bisporus var. burnettii]
+g27	1203315	1204331	-	2	anchor	KAF7770950.1	54.0	KAF7770950.1 hypothetical protein Agabi119p4_6924 [Agaricus bisporus var. burnettii]

@@ -1,0 +1,607 @@
+IQ-TREE 3.1.1 built Apr  8 2026
+
+Input file name: ACS.mafft.trim.aln
+Type of analysis: tree reconstruction
+Random seed number: 35816
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 259 sequences with 989 amino-acid sites
+Number of constant sites: 116 (= 11.729% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 116 (= 11.729% of all sites)
+Number of parsimony informative sites: 684
+Number of distinct site patterns: 913
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: JTT+R5
+
+State frequencies: (model)
+
+Model of rate heterogeneity: FreeRate with 5 categories
+Site proportion and rates:  (0.0440,0.1898) (0.2030,0.4583) (0.3530,0.8067) (0.2988,1.2928) (0.1012,2.2478)
+
+ Category  Relative_rate  Proportion
+  1         0.1898         0.0440
+  2         0.4583         0.2030
+  3         0.8067         0.3530
+  4         1.2928         0.2988
+  5         2.2478         0.1012
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -77043.4066 (s.e. 2520.2397)
+Unconstrained log-likelihood (without tree): -6658.9817
+Number of free parameters (#branches + #model parameters): 523
+Akaike information criterion (AIC) score: 155132.8131
+Corrected Akaike information criterion (AICc) score: 156311.5314
+Bayesian information criterion (BIC) score: 157693.7843
+
+Total tree length (sum of branch lengths): 83.4063
+Sum of internal branch lengths: 37.1155 (44.4997% of tree length)
+
+WARNING: 19 near-zero internal branches (<0.0010) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'FUNGI_acs_pseudogene_like__ACS_CAKNEV010000109_L1__Rhizopogon_roseolus' is drawn at root
+
++--FUNGI_acs_pseudogene_like__ACS_CAKNEV010000109_L1__Rhizopogon_roseolus
+|
+|                       +--FUNGI_acs_pseudogene_like__ACS_JABBWR010001061_L1__Suillus_decipiens
+|                    +--|
+|                    |  +--FUNGI_acs_pseudogene_like__ACS_JBBPLW010000511_L1__Tylopilus_balloui
+|                 +--|
+|                 |  |  +--FUNGI_acs_intact__ACS_PVYP01001300_L1__Rhizopogon_vulgaris
+|                 |  +--|
+|                 |     +--FUNGI_acs_intact__ACS_PVYP01004693_L1__Rhizopogon_vulgaris
+|              +--|
+|              |  +--FUNGI_acs_pseudogene_like__ACS_JBBPTG010000282_L1__Chalciporus_piperatus
+|           +--|
+|           |  |                             +---------------FUNGI_acs_intact__ACS_JABCKV010000003_L2__Asterophora_parasitica
+|           |  |                          +--|
+|           |  |                          |  |           +------------FUNGI_acs_intact__ACS_JAEVFL010000045_L1__Phlebopus_sp.
+|           |  |                          |  |        +**|
+|           |  |                          |  |        |  |  +------------FUNGI_acs_intact__ACS_JBBPJX010005976_L1__Neotropicomus_parvogracilis
+|           |  |                          |  |        |  +--|
+|           |  |                          |  |        |     |                         +**FUNGI_acs_intact__ACS_PORJ01000969_S2L1__Corynespora_cassiicola
+|           |  |                          |  |        |     |                +--------|
+|           |  |                          |  |        |     |                |        +**FUNGI_acs_intact__ACS_PORI01000001_S2L1__Corynespora_cassiicola
+|           |  |                          |  |        |     |             +--|
+|           |  |                          |  |        |     |             |  +----NATIVE_Leotiomycetes__ACS_PZJY01000004_L1__Tetracladium_setigerum
+|           |  |                          |  |        |     +-------------|
+|           |  |                          |  |        |                   |     +-----OG__KAF2677707.1_Lentithecium_fluviatile_CBS_122367
+|           |  |                          |  |        |                   |  +--|
+|           |  |                          |  |        |                   |  |  +-------NATIVE_Lecanoromycetes__ACS_JALILR010000044_L1__Umbilicaria_deusta
+|           |  |                          |  |        |                   +--|
+|           |  |                          |  |        |                      |  +----NATIVE_Lecanoromycetes__ACS_JALDZH010000199_L1__Lobaria_immixta
+|           |  |                          |  |        |                      +--|
+|           |  |                          |  |        |                         |            +**NATIVE_Eurotiomycetes__ACS_JSEJ01000159_L1__Cladophialophora_immunda
+|           |  |                          |  |        |                         +------------|
+|           |  |                          |  |        |                                      +**NATIVE_Eurotiomycetes__ACS_JYBZ01000001_L1__Cladophialophora_immunda
+|           |  |                          |  |     +--|
+|           |  |                          |  |     |  |     +---------------OG__Agro_WP_111794344_1_MULTISPECIES_hypothetical_protein_Agrobacterium
+|           |  |                          |  |     |  |  +--|
+|           |  |                          |  |     |  |  |  |              +**OG__KIK69313.1_Collybiopsis_luxurians_FD-317_M1
+|           |  |                          |  |     |  |  |  +--------------|
+|           |  |                          |  |     |  |  |                 +--NATIVE_Agaricomycetes__ACS_JJNP01000045_L1__Collybiopsis_luxurians
+|           |  |                          |  |     |  +--|
+|           |  |                          |  |     |     |                               +**OG__NP_015215.1_Saccharomyces_cerevisiae_S288C
+|           |  |                          |  |     |     |                            +**|
+|           |  |                          |  |     |     |                            |  +**NATIVE_Saccharomycetes__ACS_CAMZRX010000016_L1__Saccharomyces_cerevisiae
+|           |  |                          |  |     |     |                         +**|
+|           |  |                          |  |     |     |                         |  +**NATIVE_Saccharomycetes__ACS_DAGXGM010001031_L1__Saccharomyces_cerevisiae
+|           |  |                          |  |     |     |                 +-------|
+|           |  |                          |  |     |     |                 |       +--NATIVE_Saccharomycetes__ACS_CAMZOP010000016_L1__Saccharomyces_cerevisiae
+|           |  |                          |  |     |     |   +-------------|
+|           |  |                          |  |     |     |   |             +-----------NATIVE_Lecanoromycetes__ACS_PEKF01000117_L1__Ramalina_intermedia
+|           |  |                          |  |     |     +---|
+|           |  |                          |  |     |         |                                 +--------OG__CAF9909976.1_Gomphillus_americanus
+|           |  |                          |  |     |         |                              +--|
+|           |  |                          |  |     |         |                              |  +----OG__MCJ1455451.1_Mycoblastus_sanguinarius
+|           |  |                          |  |     |         |                           +--|
+|           |  |                          |  |     |         |                           |  +----OG__XP_008715454.1_Cyphellophora_europaea_CBS_101466
+|           |  |                          |  |     |         |                        +--|
+|           |  |                          |  |     |         |                        |  |     +---OG__KAF1343677.1_Delphinella_strobiligena
+|           |  |                          |  |     |         |                        |  |  +--|
+|           |  |                          |  |     |         |                        |  |  |  +------NATIVE_Dothideomycetes__ACS_LFZN01000207_L1__Pseudocercospora_eumusae
+|           |  |                          |  |     |         |                        |  +--|
+|           |  |                          |  |     |         |                        |     +----OG__TVY82334.1_Lachnellula_suecica
+|           |  |                          |  |     |         |                     +--|
+|           |  |                          |  |     |         |                     |  |  +--------OG__XP_040635025.1_Aspergillus_ruber_CBS_135680
+|           |  |                          |  |     |         |                     |  +--|
+|           |  |                          |  |     |         |                     |     |      +--OG__KAB5525742.1_Coniochaeta_sp._2T2.1
+|           |  |                          |  |     |         |                     |     +------|
+|           |  |                          |  |     |         |                     |            +--OG__KAB5554542.1_Coniochaeta_sp._2T2.1
+|           |  |                          |  |     |         |                  +--|
+|           |  |                          |  |     |         |                  |  |           +**NATIVE_Sordariomycetes__ACS_JAPERL010000105_S2L1__Akanthomyces_lecanii
+|           |  |                          |  |     |         |                  |  |        +--|
+|           |  |                          |  |     |         |                  |  |        |  +--NATIVE_Sordariomycetes__ACS_WHIX01000048_S2L1__Akanthomyces_lecanii
+|           |  |                          |  |     |         |                  |  +--------|
+|           |  |                          |  |     |         |                  |           +--NATIVE_Sordariomycetes__ACS_JARJRB010001289_S2L1__Akanthomyces_uredinophilus
+|           |  |                          |  |     |         |     +------------|
+|           |  |                          |  |     |         |     |            |   +**NATIVE_Dothideomycetes__ACS_JAPETJ010000003_S2L1__Bathelium_mastoideum
+|           |  |                          |  |     |         |     |            +---|
+|           |  |                          |  |     |         |     |                +**NATIVE_Dothideomycetes__ACS_JAPETK010000012_S2L1__Bathelium_mastoideum
+|           |  |                          |  |     |         |  +--|
+|           |  |                          |  |     |         |  |  +---------------NATIVE_Geoglossomycetes__ACS_JAJDFF020002307_S2L1__Geoglossum_cookeanum
+|           |  |                          |  |     |         +--|
+|           |  |                          |  |     |            |  +---------NATIVE_Eurotiomycetes__ACS_WUTQ01000007_S2L1__Aspergillus_sydowii
+|           |  |                          |  |     |            +--|
+|           |  |                          |  |     |               +----------------BACT_acc__pTiC58_accF_AAK91108.2_Agrobacterium_fabrum_str.
+|           |  |                          |  |  +--|
+|           |  |                          |  |  |  |    +------------FUNGI_acs_intact__ACS_JAIJZX010000023_L1__Albifimbria_verrucaria
+|           |  |                          |  |  |  +----|
+|           |  |                          |  |  |       +------------FUNGI_acs_intact__ACS_JBBPKY010000159_L1__Xerocomellus_dryophilus
+|           |  |                          |  +--|
+|           |  |                          |     |                                               +--FUNGI_gdpd_meso_intact__ACS_JAGFBS010000039_L1__Boletus_reticuloceps
+|           |  |                          |     |                                            +--|
+|           |  |                          |     |                                            |  |     +--FUNGI_gdpd_meso_pseudogene_like__ACS_JAGTXK010000179_L1__Boletus_sp.
+|           |  |                          |     |                                            |  |  +--|
+|           |  |                          |     |                                            |  |  |  |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JAHRGV010000067_L1__Butyriboletus_roseoflavus
+|           |  |                          |     |                                            |  |  |  +--|
+|           |  |                          |     |                                            |  |  |     +--FUNGI_gdpd_meso_pseudogene_like__ACS_QFEG01000039_L1__Boletus_speciosus
+|           |  |                          |     |                                            |  +--|
+|           |  |                          |     |                                            |     +--FUNGI_gdpd_meso_pseudogene_like__ACS_QFEE01000814_L1__Butyriboletus_roseoflavus
+|           |  |                          |     |                                         +--|
+|           |  |                          |     |                                         |  |     +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJI010000362_L1__Boletus_rex-veris
+|           |  |                          |     |                                         |  |  +--|
+|           |  |                          |     |                                         |  |  |  |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJQ010001228_L1__Boletus_rex-veris
+|           |  |                          |     |                                         |  |  |  +**|
+|           |  |                          |     |                                         |  |  |     +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJQ010004352_L1__Boletus_rex-veris
+|           |  |                          |     |                                         |  +--|
+|           |  |                          |     |                                         |     |     +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPMY010000159_L1__Phylloporus_gajari
+|           |  |                          |     |                                         |     |  +--|
+|           |  |                          |     |                                         |     |  |  |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWO010001296_L1__Boletaceae_sp.
+|           |  |                          |     |                                         |     |  |  +--|
+|           |  |                          |     |                                         |     |  |     +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWO010001920_L1__Boletaceae_sp.
+|           |  |                          |     |                                         |     +--|
+|           |  |                          |     |                                         |        |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPMY010001662_L1__Phylloporus_gajari
+|           |  |                          |     |                                         |        +--|
+|           |  |                          |     |                                         |           |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPMY010001721_L1__Phylloporus_gajari
+|           |  |                          |     |                                         |           +--|
+|           |  |                          |     |                                         |              +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPMY010003005_L1__Phylloporus_gajari
+|           |  |                          |     |                                      +--|
+|           |  |                          |     |                                      |  |     +**FUNGI_gdpd_meso_intact__ACS_JBBPJJ010011893_L1__Veloboletus_limbatus
+|           |  |                          |     |                                      |  |  +--|
+|           |  |                          |     |                                      |  |  |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPLY010001749_L1__Xerocomus_nothofagi
+|           |  |                          |     |                                      |  +--|
+|           |  |                          |     |                                      |     +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPLV010001121_L1__Boletellus_ananiceps
+|           |  |                          |     |                                   +--|
+|           |  |                          |     |                                   |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPMG010000767_L1__Boletellus_deceptivus
+|           |  |                          |     |                                +--|
+|           |  |                          |     |                                |  |     +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJK010000045_L1__Boletus_variipes
+|           |  |                          |     |                                |  |  +--|
+|           |  |                          |     |                                |  |  |  |        +**FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJK010000239_L1__Boletus_variipes
+|           |  |                          |     |                                |  |  |  |     +--|
+|           |  |                          |     |                                |  |  |  |     |  +**FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPRQ010000079_L1__Boletus_insuetus
+|           |  |                          |     |                                |  |  |  |  +--|
+|           |  |                          |     |                                |  |  |  |  |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPQG010006152_L1__Boletus_variipes
+|           |  |                          |     |                                |  |  |  +--|
+|           |  |                          |     |                                |  |  |     |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPQG010006035_L1__Boletus_variipes
+|           |  |                          |     |                                |  |  |     +--|
+|           |  |                          |     |                                |  |  |        +**FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPQG010001754_S2L1__Boletus_variipes
+|           |  |                          |     |                                |  +--|
+|           |  |                          |     |                                |     |                 +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPKI010001770_L1__Nevesoporus_exiguus
+|           |  |                          |     |                                |     |              +--|
+|           |  |                          |     |                                |     |              |  |           +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000056_L1__Tylopilus_sp.
+|           |  |                          |     |                                |     |              |  |        +--|
+|           |  |                          |     |                                |     |              |  |        |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000076_S2L1__Tylopilus_sp._UT-M0000335
+|           |  |                          |     |                                |     |              |  |     +--|
+|           |  |                          |     |                                |     |              |  |     |  |     +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000210_L1__Tylopilus_sp.
+|           |  |                          |     |                                |     |              |  |     |  |  +--|
+|           |  |                          |     |                                |     |              |  |     |  |  |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000321_L1__Tylopilus_sp.
+|           |  |                          |     |                                |     |              |  |     |  +--|
+|           |  |                          |     |                                |     |              |  |     |     |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010001194_L1__Tylopilus_sp.
+|           |  |                          |     |                                |     |              |  |     |     +--|
+|           |  |                          |     |                                |     |              |  |     |        +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010003662_L1__Tylopilus_sp.
+|           |  |                          |     |                                |     |              |  |  +--|
+|           |  |                          |     |                                |     |              |  |  |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000400_S2L1__Tylopilus_sp._UT-M0000335
+|           |  |                          |     |                                |     |              |  +--|
+|           |  |                          |     |                                |     |              |     +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000915_S2L1__Tylopilus_sp._UT-M0000335
+|           |  |                          |     |                                |     |           +--|
+|           |  |                          |     |                                |     |           |  |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000022_L1__Tylopilus_sp.
+|           |  |                          |     |                                |     |           |  +--|
+|           |  |                          |     |                                |     |           |     +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000128_L1__Tylopilus_sp.
+|           |  |                          |     |                                |     |        +--|
+|           |  |                          |     |                                |     |        |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPTS010002188_L1__Fistulinella_staudtii
+|           |  |                          |     |                                |     |     +--|
+|           |  |                          |     |                                |     |     |  |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000393_L1__Tylopilus_sp.
+|           |  |                          |     |                                |     |     |  +--|
+|           |  |                          |     |                                |     |     |     +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000844_L1__Tylopilus_sp.
+|           |  |                          |     |                                |     |  +--|
+|           |  |                          |     |                                |     |  |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000121_L1__Tylopilus_sp.
+|           |  |                          |     |                                |     +--|
+|           |  |                          |     |                                |        +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPVR010004442_L1__Tylopilus_sp.
+|           |  |                          |     |                             +--|
+|           |  |                          |     |                             |  |                 +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJK010000591_L1__Boletus_variipes
+|           |  |                          |     |                             |  |              +--|
+|           |  |                          |     |                             |  |              |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPRQ010000133_L1__Boletus_insuetus
+|           |  |                          |     |                             |  |           +**|
+|           |  |                          |     |                             |  |           |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJK010000640_L1__Boletus_variipes
+|           |  |                          |     |                             |  |        +--|
+|           |  |                          |     |                             |  |        |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPQG010005583_S2L1__Boletus_variipes
+|           |  |                          |     |                             |  |     +--|
+|           |  |                          |     |                             |  |     |  |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPLS010001065_L1__Boletellus_ananas
+|           |  |                          |     |                             |  |     |  +--|
+|           |  |                          |     |                             |  |     |     +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPQG010002236_L1__Boletus_variipes
+|           |  |                          |     |                             |  |  +--|
+|           |  |                          |     |                             |  |  |  |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJM010001346_L1__Boletus_variipes
+|           |  |                          |     |                             |  |  |  +--|
+|           |  |                          |     |                             |  |  |     |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPQD010001794_L1__Caloboletus_inedulis
+|           |  |                          |     |                             |  |  |     +--|
+|           |  |                          |     |                             |  |  |        +**FUNGI_gdpd_meso_intact__ACS_JBBPQD010009048_L1__Caloboletus_inedulis
+|           |  |                          |     |                             |  +--|
+|           |  |                          |     |                             |     |        +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJX010000568_L1__Neotropicomus_parvogracilis
+|           |  |                          |     |                             |     |     +--|
+|           |  |                          |     |                             |     |     |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJX010000732_L1__Neotropicomus_parvogracilis
+|           |  |                          |     |                             |     |  +--|
+|           |  |                          |     |                             |     |  |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPUP010001145_L1__Exsudoporus_floridanus
+|           |  |                          |     |                             |     +--|
+|           |  |                          |     |                             |        |        +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPLJ010000677_L1__Veloporphyrellus_conicus
+|           |  |                          |     |                             |        |     +--|
+|           |  |                          |     |                             |        |     |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPLJ010000841_L1__Veloporphyrellus_conicus
+|           |  |                          |     |                             |        |  +--|
+|           |  |                          |     |                             |        |  |  |     +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPNQ010000179_L1__Boletellus_pseudochrysenteroides
+|           |  |                          |     |                             |        |  |  |  +--|
+|           |  |                          |     |                             |        |  |  |  |  +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPKZ010000232_S2L1__Phylloporus_pelletieri
+|           |  |                          |     |                             |        |  |  +--|
+|           |  |                          |     |                             |        |  |     +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJM010000052_S2L1__Boletus_variipes
+|           |  |                          |     |                             |        +--|
+|           |  |                          |     |                             |           +--FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPMB010001777_L1__Pulveroboletus_ravenelii
+|           |  |                          |     |                          +--|
+|           |  |                          |     |                          |  +-----FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJQ010000087_S2L1__Boletus_rex-veris
+|           |  |                          |     |                       +--|
+|           |  |                          |     |                       |  |  +-------FUNGI_gdpd_meso_pseudogene_like__ACS_JAHTMQ010000251_L1__Leucocoprinus_sp.
+|           |  |                          |     |                       |  +--|
+|           |  |                          |     |                       |     +--REF_T1_gdpd_meso__Agro_WP_217577425_1_glycerophosphodiester_phosphodiesterase_family_protein_Mesorhizobium_sp_GbtcB19
+|           |  |                          |     |           +-----------|
+|           |  |                          |     |           |           |          +--REF_T1_gdpd_meso__Agro_WP_269347785_1_hypothetical_protein_Agrobacterium_sp_SOY23
+|           |  |                          |     |           |           |  +-------|
+|           |  |                          |     |           |           |  |       +--BACT_acc__ACC_nrhit_WP_183902790.1_Rhizobium_metallidurans
+|           |  |                          |     |           |           +--|
+|           |  |                          |     |           |              |  +---REF_T2_gdpd_meso__WP_247038584.1_unclassified_Neorhizobium
+|           |  |                          |     |           |              +--|
+|           |  |                          |     |           |                 +--BACT_acc__ACC_nrhit_WP_292444656.1_Mesorhizobium_sp.
+|           |  |                          |     |        +--|
+|           |  |                          |     |        |  |                     +--FUNGI_acs_intact__ACS_JBBPKL010003317_L1__Boletellus_ananas
+|           |  |                          |     |        |  |                  +--|
+|           |  |                          |     |        |  |                  |  +--FUNGI_acs_intact__ACS_JBBPNB010000771_L1__Rubroboletus_satanas
+|           |  |                          |     |        |  |               +--|
+|           |  |                          |     |        |  |               |  +--FUNGI_acs_intact__ACS_JBBPKL010018021_L1__Boletellus_ananas
+|           |  |                          |     |        |  |            +--|
+|           |  |                          |     |        |  |            |  +--FUNGI_acs_intact__ACS_JBBPOG010012756_L1__Austroboletus_festivus
+|           |  |                          |     |        |  |  +---------|
+|           |  |                          |     |        |  |  |         |     +--FUNGI_acs_intact__ACS_JBBPNB010000203_L1__Rubroboletus_satanas
+|           |  |                          |     |        |  |  |         |  +--|
+|           |  |                          |     |        |  |  |         |  |  +--------REF_T1_acs__Plant_PON40589_1_hypothetical_protein_PanWU01x14_296110_Parasponia_andersonii
+|           |  |                          |     |        |  |  |         +--|
+|           |  |                          |     |        |  |  |            +--FUNGI_acs_intact__ACS_JBBPRY010001778_L1__Boletus_edulis
+|           |  |                          |     |        |  +--|
+|           |  |                          |     |        |     |                        +--REF_T1_acs__Plant_che1CaTE-Acs
+|           |  |                          |     |        |     |                     +--|
+|           |  |                          |     |        |     |                     |  |     +--REF_T2_acs__WP_234887914.1_Rhizobiaceae
+|           |  |                          |     |        |     |                     |  |  +--|
+|           |  |                          |     |        |     |                     |  |  |  |  +**REF_T2_acs__WP_045231703.1_Agrobacterium
+|           |  |                          |     |        |     |                     |  |  |  +**|
+|           |  |                          |     |        |     |                     |  |  |     +**BACT_acc__pTiC58_torf6_acs_AAK90959.2_Agrobacterium_fabrum_str.
+|           |  |                          |     |        |     |                     |  +--|
+|           |  |                          |     |        |     |                     |     +**REF_T2_acs__WP_247645393.1_Agrobacterium_tumefaciens
+|           |  |                          |     |        |     |                  +--|
+|           |  |                          |     |        |     |                  |  |     +--REF_T2_acs__WP_234909974.1_Martinezella_rhizogenes
+|           |  |                          |     |        |     |                  |  |  +**|
+|           |  |                          |     |        |     |                  |  |  |  +**REF_T2_acs__WP_234908531.1_Rhizobiaceae
+|           |  |                          |     |        |     |                  |  +--|
+|           |  |                          |     |        |     |                  |     +**REF_T2_acs__MBO9126496.1_Rhizobium_sp._16-488-2b
+|           |  |                          |     |        |     |               +--|
+|           |  |                          |     |        |     |               |  |     +--REF_T1_acs__Plant_AIK35201_1_Acs_Ipomoea_batatas
+|           |  |                          |     |        |     |               |  |  +--|
+|           |  |                          |     |        |     |               |  |  |  +--REF_T1_acs__Plant_GMD67474_1_agrocinopine_synthase_Ipomoea_batatas
+|           |  |                          |     |        |     |               |  +--|
+|           |  |                          |     |        |     |               |     |  +--REF_T1_acs__Agro_QTG17267_1_agrocinopine_synthase_Agrobacterium_tumefaciens
+|           |  |                          |     |        |     |               |     +--|
+|           |  |                          |     |        |     |               |        |           +**REF_T2_acs__WP_234889283.1_Gillisella_vitis
+|           |  |                          |     |        |     |               |        |        +--|
+|           |  |                          |     |        |     |               |        |        |  +--REF_T2_acs__AAB41866.1_Gillisella_vitis
+|           |  |                          |     |        |     |               |        |     +--|
+|           |  |                          |     |        |     |               |        |     |  +--BACT_acc__pTiC58_acsx_AAK90966.1_Agrobacterium_fabrum_str.
+|           |  |                          |     |        |     |               |        |  +--|
+|           |  |                          |     |        |     |               |        |  |  |        +**REF_T2_acs__WP_234644451.1_Gillisella_ampelina
+|           |  |                          |     |        |     |               |        |  |  |     +--|
+|           |  |                          |     |        |     |               |        |  |  |     |  +--REF_T2_acs__WP_234891170.1_Gillisella_vitis
+|           |  |                          |     |        |     |               |        |  |  |  +--|
+|           |  |                          |     |        |     |               |        |  |  |  |  +--REF_T2_acs__WP_081088917.1_Gillisella_vitis
+|           |  |                          |     |        |     |               |        |  |  +--|
+|           |  |                          |     |        |     |               |        |  |     +--REF_T2_acs__WP_111221730.1_Rhizobiaceae
+|           |  |                          |     |        |     |               |        +--|
+|           |  |                          |     |        |     |               |           +--REF_T2_acs__ASK40602.1_Agrobacterium_genomosp._6
+|           |  |                          |     |        |     |            +--|
+|           |  |                          |     |        |     |            |  |  +--REF_T2_acs__WP_309547436.1_Martinezella_rhizogenes
+|           |  |                          |     |        |     |            |  +--|
+|           |  |                          |     |        |     |            |     |      +--REF_T2_acs__UTN42808.1_Agrobacterium_fabrum
+|           |  |                          |     |        |     |            |     |   +**|
+|           |  |                          |     |        |     |            |     |   |  +--BACT_acc__ANN_agrocinopine_synthase_WP_250995648.1_Gillisella_vitis
+|           |  |                          |     |        |     |            |     +---|
+|           |  |                          |     |        |     |            |         +**BACT_acc__ANN_agrocinopine_synthase_WP_233741840.1_Rhizobiaceae
+|           |  |                          |     |        |     |         +--|
+|           |  |                          |     |        |     |         |  |     +--REF_T1_acs__Plant_WML69206_1_agrocinopine_synthase_Agrobacterium_sp_Nicotiana_noctiflora
+|           |  |                          |     |        |     |         |  |  +--|
+|           |  |                          |     |        |     |         |  |  |  +--REF_T2_acs__WP_234711736.1_Martinezella_rhizogenes
+|           |  |                          |     |        |     |         |  +--|
+|           |  |                          |     |        |     |         |     |     +--REF_T2_acs__WP_222308706.1_Rhizobium_leguminosarum
+|           |  |                          |     |        |     |         |     |  +--|
+|           |  |                          |     |        |     |         |     |  |  +--REF_T2_acs__NEK20670.1_Rhizobium_leguminosarum
+|           |  |                          |     |        |     |         |     +--|
+|           |  |                          |     |        |     |         |        +--BACT_acc__ANN_agrocinopine_synthase_WP_088199097.1_Sinorhizobium_meliloti
+|           |  |                          |     |        |     |      +--|
+|           |  |                          |     |        |     |      |  |       +--REF_T1_acs__Agro_WP_209160150_1_MULTISPECIES_glycerophosphodiester_phosphodiesterase_family_protein_unclassified_Agrobac
+|           |  |                          |     |        |     |      |  |  +----|
+|           |  |                          |     |        |     |      |  |  |    |  +**BACT_acc__ANN_agrocinopine_synthase_WP_155276043.1_Agrobacterium_fabrum
+|           |  |                          |     |        |     |      |  |  |    +--|
+|           |  |                          |     |        |     |      |  |  |       +--BACT_acc__ANN_agrocinopine_synthase_WP_172690992.1_Agrobacterium_larrymoo
+|           |  |                          |     |        |     |      |  +--|
+|           |  |                          |     |        |     |      |     +--------REF_T2_acs__WP_157835807.1_Agrobacterium_larrymoorei
+|           |  |                          |     |        |     |  +---|
+|           |  |                          |     |        |     |  |   +--------REF_T1_acs__Agro_WP_192068445_1_MULTISPECIES_glycerophosphodiester_phosphodiesterase_family_protein_unclassified_Rhizobi
+|           |  |                          |     |        |     +--|
+|           |  |                          |     |        |        |       +--REF_T1_kerr14__Agro_WP_280174108_1_glycerophosphodiester_phosphodiesterase_family_protein_Agrobacterium_tumefaciens
+|           |  |                          |     |        |        +-------|
+|           |  |                          |     |        |                +**REF_T2_kerr14__CUX65485.1_Agrobacterium_tumefaciens_str._Kerr_14
+|           |  |                          |     |     +--|
+|           |  |                          |     |     |  |                +--FUNGI_acs_intact__ACS_LSHD01003693_L1__Leucoagaricus_sp.
+|           |  |                          |     |     |  |             +--|
+|           |  |                          |     |     |  |             |  +--FUNGI_acs_intact__ACS_LSHD01003694_L1__Leucoagaricus_sp.
+|           |  |                          |     |     |  |          +--|
+|           |  |                          |     |     |  |          |  +--FUNGI_acs_intact__ACS_LSHD01013347_L1__Leucoagaricus_sp.
+|           |  |                          |     |     |  +----------|
+|           |  |                          |     |     |             +**FUNGI_acs_intact__ACS_LSHD01013345_L1__Leucoagaricus_sp.
+|           |  |                          |     |  +--|
+|           |  |                          |     |  |  |               +--FUNGI_acs_intact__ACS_JARJCX010000125_L1__Mycena_rebaudengoi
+|           |  |                          |     |  |  |     +---------|
+|           |  |                          |     |  |  |     |         +--FUNGI_acs_intact__ACS_JARJCX010000136_L1__Mycena_rebaudengoi
+|           |  |                          |     |  |  |  +--|
+|           |  |                          |     |  |  |  |  +-------------------FUNGI_acs_intact__ACS_JBBPSL010000153_L1__Butyriboletus_appendiculatus
+|           |  |                          |     |  |  +--|
+|           |  |                          |     |  |     +-------FUNGI_acs_intact__ACS_JBBPWX010001359_L1__Tylopilus_sp.
+|           |  |                          |     +--|
+|           |  |                          |        |            +--FUNGI_acs_pseudogene_like__ACS_JAGTXK010000090_L1__Boletus_sp.
+|           |  |                          |        |   +--------|
+|           |  |                          |        |   |        |     +--FUNGI_acs_intact__ACS_JAHRGV010000066_L1__Butyriboletus_roseoflavus
+|           |  |                          |        |   |        |  +**|
+|           |  |                          |        |   |        |  |  +--FUNGI_acs_intact__ACS_QFEH01001931_L1__Retiboletus_ornatipes
+|           |  |                          |        |   |        +--|
+|           |  |                          |        |   |           +--FUNGI_acs_intact__ACS_QFEE01000702_L1__Butyriboletus_roseoflavus
+|           |  |                          |        +---|
+|           |  |                          |            |         +--FUNGI_acs_intact__ACS_JARJLE010000040_L1__Mycena_latifolia
+|           |  |                          |            |  +------|
+|           |  |                          |            |  |      +--FUNGI_acs_intact__ACS_JARJLE010000323_L1__Mycena_latifolia
+|           |  |                          |            +--|
+|           |  |                          |               |        +------FUNGI_acs_intact__ACS_JBBPPV010002288_L1__Leccinum_brunneo-olivaceum
+|           |  |                          |               +--------|
+|           |  |                          |                        +-------FUNGI_acs_intact__ACS_QLPJ01008442_L1__Cantharellus_cinnabarinus
+|           |  |                       +--|
+|           |  |                       |  |         +---FUNGI_acs_intact__ACS_JAECYW010000013_L1__Galerina_marginata
+|           |  |                       |  |      +--|
+|           |  |                       |  |      |  +---------FUNGI_acs_intact__ACS_JAJIYX010000048_L1__Phallus_impudicus
+|           |  |                       |  |   +--|
+|           |  |                       |  |   |  +-----FUNGI_acs_intact__ACS_VKGB01000606_L1__Gymnopus_androsaceus
+|           |  |                       |  +---|
+|           |  |                       |      |          +**OG__KAF5374590.1_Collybiopsis_confluens
+|           |  |                       |      +----------|
+|           |  |                       |                 +**NATIVE_Agaricomycetes__ACS_JAACJN010000100_L1__Collybiopsis_confluens
+|           |  |                    +--|
+|           |  |                    |  +----------FUNGI_acs_intact__ACS_JACAZI010000003_L1__Mycena_venus
+|           |  |                 +--|
+|           |  |                 |  +-------FUNGI_acs_pseudogene_like__ACS_JADNYI010000166_L1__Infundibulicybe_gibba
+|           |  |              +--|
+|           |  |              |  |        +--FUNGI_acs_pseudogene_like__ACS_JACTVB010005122_L1__Laccaria_trichodermophora
+|           |  |              |  |     +--|
+|           |  |              |  |     |  |  +**FUNGI_acs_pseudogene_like__ACS_JACTVD010000017_L1__Laccaria_trichodermophora
+|           |  |              |  |     |  +--|
+|           |  |              |  |     |     +**FUNGI_acs_intact__ACS_JACTVD010000040_L1__Laccaria_trichodermophora
+|           |  |              |  |  +--|
+|           |  |              |  |  |  |  +--FUNGI_acs_intact__ACS_JACTVC010000013_L1__Laccaria_trichodermophora
+|           |  |              |  |  |  +--|
+|           |  |              |  |  |     +--FUNGI_acs_intact__ACS_JACTVE010011854_L1__Laccaria_trichodermophora
+|           |  |              |  +--|
+|           |  |              |     +--FUNGI_acs_intact__ACS_JMSL01003057_L1__Laccaria_amethystina
+|           |  |           +--|
+|           |  |           |  |         +--FUNGI_acs_intact__ACS_JAHNUO010000012_L1__Chiua_virens
+|           |  |           |  |     +---|
+|           |  |           |  |     |   +--FUNGI_acs_intact__ACS_QFER01000927_L1__Chiua_virens
+|           |  |           |  |  +--|
+|           |  |           |  |  |  |         +--FUNGI_acs_pseudogene_like__ACS_JBBPLL010000219_L1__Leccinellum_rugosiceps
+|           |  |           |  |  |  |      +--|
+|           |  |           |  |  |  |      |  +--FUNGI_acs_intact__ACS_JBBPMT010002902_L1__Garcileccinum_viscosum
+|           |  |           |  |  |  |   +--|
+|           |  |           |  |  |  |   |  +--FUNGI_acs_pseudogene_like__ACS_JBBPPG010001528_L1__Leccinellum_luteum
+|           |  |           |  |  |  +---|
+|           |  |           |  |  |      +--FUNGI_acs_intact__ACS_JBBPLX010000384_L1__Leccinellum_albellum
+|           |  |           |  +--|
+|           |  |           |     |     +--FUNGI_acs_intact__ACS_JBBPKZ010000451_L1__Phylloporus_pelletieri
+|           |  |           |     |  +--|
+|           |  |           |     |  |  |  +--FUNGI_acs_intact__ACS_JBBPKZ010003507_L1__Phylloporus_pelletieri
+|           |  |           |     |  |  +--|
+|           |  |           |     |  |     |  +--FUNGI_acs_intact__ACS_JBBPNV010000002_L1__Phylloporus_rhodoxanthus
+|           |  |           |     |  |     +--|
+|           |  |           |     |  |        +**FUNGI_acs_intact__ACS_JBBPNZ010001178_L1__Phylloporus_rhodoxanthus
+|           |  |           |     +--|
+|           |  |           |        |    +--FUNGI_acs_pseudogene_like__ACS_JBBPNV010000002_L2__Phylloporus_rhodoxanthus
+|           |  |           |        +----|
+|           |  |           |             +--FUNGI_acs_pseudogene_like__ACS_JBBPNZ010002431_L1__Phylloporus_rhodoxanthus
+|           |  |        +--|
+|           |  |        |  |           +--FUNGI_acs_pseudogene_like__ACS_LVVM01002110_L1__Rhizopogon_vesiculosus
+|           |  |        |  |        +--|
+|           |  |        |  |        |  |  +--FUNGI_acs_pseudogene_like__ACS_PVXX01007568_L1__Rhizopogon_vesiculosus
+|           |  |        |  |        |  +--|
+|           |  |        |  |        |     |  +**FUNGI_acs_intact__ACS_PVYH01004653_L1__Rhizopogon_vesiculosus
+|           |  |        |  |        |     +--|
+|           |  |        |  |        |        +**FUNGI_acs_pseudogene_like__ACS_PVYI01008242_L1__Rhizopogon_vesiculosus
+|           |  |        |  |     +--|
+|           |  |        |  |     |  |        +--FUNGI_acs_intact__ACS_PVXW01008981_L1__Rhizopogon_hawkerae
+|           |  |        |  |     |  |     +**|
+|           |  |        |  |     |  |     |  +--FUNGI_acs_pseudogene_like__ACS_PVYS01001977_L1__Rhizopogon_rudus
+|           |  |        |  |     |  |  +--|
+|           |  |        |  |     |  |  |  |        +--FUNGI_acs_intact__ACS_PVYC01010445_L1__Rhizopogon_rudus
+|           |  |        |  |     |  |  |  |     +--|
+|           |  |        |  |     |  |  |  |     |  |     +**FUNGI_acs_intact__ACS_PVYD01012455_L1__Rhizopogon_rudus
+|           |  |        |  |     |  |  |  |     |  |  +**|
+|           |  |        |  |     |  |  |  |     |  |  |  +**FUNGI_acs_intact__ACS_PVYF01000057_L1__Rhizopogon_rudus
+|           |  |        |  |     |  |  |  |     |  +**|
+|           |  |        |  |     |  |  |  |     |     +**FUNGI_acs_pseudogene_like__ACS_PVYE01007352_L1__Rhizopogon_rudus
+|           |  |        |  |     |  |  |  |  +--|
+|           |  |        |  |     |  |  |  |  |  +**FUNGI_acs_intact__ACS_PVYO01001675_L1__Rhizopogon_rudus
+|           |  |        |  |     |  |  |  +--|
+|           |  |        |  |     |  |  |     +--FUNGI_acs_pseudogene_like__ACS_PVYK01004283_L1__Rhizopogon_sp.
+|           |  |        |  |     |  +--|
+|           |  |        |  |     |     +--FUNGI_acs_intact__ACS_PVYN01016422_L1__Rhizopogon_villosulus
+|           |  |        |  |  +--|
+|           |  |        |  |  |  |              +--FUNGI_acs_intact__ACS_LYZI01001928_L1__Rhizopogon_vinicolor
+|           |  |        |  |  |  |           +--|
+|           |  |        |  |  |  |           |  |  +--FUNGI_acs_pseudogene_like__ACS_PVYM01008144_L1__Rhizopogon_vinicolor
+|           |  |        |  |  |  |           |  +--|
+|           |  |        |  |  |  |           |     |     +**FUNGI_acs_pseudogene_like__ACS_PVYQ01005844_L1__Rhizopogon_vinicolor
+|           |  |        |  |  |  |           |     |  +**|
+|           |  |        |  |  |  |           |     |  |  +**FUNGI_acs_pseudogene_like__ACS_PVYU01003182_L1__Rhizopogon_vinicolor
+|           |  |        |  |  |  |           |     +**|
+|           |  |        |  |  |  |           |        +**FUNGI_acs_pseudogene_like__ACS_PVYT01002411_L1__Rhizopogon_vinicolor
+|           |  |        |  |  |  |        +**|
+|           |  |        |  |  |  |        |  +--FUNGI_acs_pseudogene_like__ACS_PVXY01002949_L1__Rhizopogon_vinicolor
+|           |  |        |  |  |  |     +--|
+|           |  |        |  |  |  |     |  +--FUNGI_acs_pseudogene_like__ACS_PVYG01002874_L1__Rhizopogon_vinicolor
+|           |  |        |  |  |  |  +--|
+|           |  |        |  |  |  |  |  |     +--FUNGI_acs_intact__ACS_PVXU01013762_L1__Rhizopogon_parksii
+|           |  |        |  |  |  |  |  |  +--|
+|           |  |        |  |  |  |  |  |  |  +**FUNGI_acs_intact__ACS_PVYA01011370_L1__Rhizopogon_parksii
+|           |  |        |  |  |  |  |  +--|
+|           |  |        |  |  |  |  |     |        +--FUNGI_acs_intact__ACS_PVXV01000134_L1__Rhizopogon_hawkerae
+|           |  |        |  |  |  |  |     |     +--|
+|           |  |        |  |  |  |  |     |     |  +--FUNGI_acs_intact__ACS_PVXW01016116_L1__Rhizopogon_hawkerae
+|           |  |        |  |  |  |  |     |  +--|
+|           |  |        |  |  |  |  |     |  |  +--FUNGI_acs_intact__ACS_PVYJ01003593_L1__Rhizopogon_sp.
+|           |  |        |  |  |  |  |     +--|
+|           |  |        |  |  |  |  |        |           +--FUNGI_acs_pseudogene_like__ACS_PVYD01009048_L1__Rhizopogon_rudus
+|           |  |        |  |  |  |  |        |        +--|
+|           |  |        |  |  |  |  |        |        |  +**FUNGI_acs_pseudogene_like__ACS_PVYE01004910_L1__Rhizopogon_rudus
+|           |  |        |  |  |  |  |        |     +--|
+|           |  |        |  |  |  |  |        |     |  +**FUNGI_acs_pseudogene_like__ACS_PVYF01004977_L1__Rhizopogon_rudus
+|           |  |        |  |  |  |  |        |  +--|
+|           |  |        |  |  |  |  |        |  |  +--FUNGI_acs_intact__ACS_PVYO01004152_L1__Rhizopogon_rudus
+|           |  |        |  |  |  |  |        +--|
+|           |  |        |  |  |  |  |           +--FUNGI_acs_pseudogene_like__ACS_PVYS01007405_L1__Rhizopogon_rudus
+|           |  |        |  |  |  +--|
+|           |  |        |  |  |     |  +--FUNGI_acs_pseudogene_like__ACS_PVXW01011121_L1__Rhizopogon_hawkerae
+|           |  |        |  |  |     +--|
+|           |  |        |  |  |        |  +--FUNGI_acs_pseudogene_like__ACS_PVYF01007224_L1__Rhizopogon_rudus
+|           |  |        |  |  |        +**|
+|           |  |        |  |  |           +--FUNGI_acs_pseudogene_like__ACS_PVYO01002071_L1__Rhizopogon_rudus
+|           |  |        |  +--|
+|           |  |        |     |  +--FUNGI_acs_pseudogene_like__ACS_PVXS01008719_L1__Rhizopogon_sp.
+|           |  |        |     +--|
+|           |  |        |        +--FUNGI_acs_pseudogene_like__ACS_PVXT01004532_L1__Rhizopogon_sp.
+|           |  |     +--|
+|           |  |     |  |        +--FUNGI_acs_pseudogene_like__ACS_JAYMDG010000002_L1__Hymenopellis_raphanipes
+|           |  |     |  |     +--|
+|           |  |     |  |     |  +--FUNGI_acs_pseudogene_like__ACS_QLPD01007935_L1__Hymenopellis_chiangmaiae
+|           |  |     |  |  +--|
+|           |  |     |  |  |  |  +--FUNGI_acs_pseudogene_like__ACS_QLOW01000991_L2__Hymenopellis_radicata
+|           |  |     |  |  |  +--|
+|           |  |     |  |  |     +--FUNGI_acs_intact__ACS_QLPD01001826_L1__Hymenopellis_chiangmaiae
+|           |  |     |  +--|
+|           |  |     |     |     +--FUNGI_acs_pseudogene_like__ACS_JAYMDG010000002_L2__Hymenopellis_raphanipes
+|           |  |     |     |  +--|
+|           |  |     |     |  |  +--FUNGI_acs_pseudogene_like__ACS_QLOW01000991_L1__Hymenopellis_radicata
+|           |  |     |     +--|
+|           |  |     |        +--FUNGI_acs_intact__ACS_QLPD01007935_L2__Hymenopellis_chiangmaiae
+|           |  |  +--|
+|           |  |  |  +---FUNGI_acs_intact__ACS_JMDQ01000109_L1__Hebeloma_cylindrosporum
+|           |  +--|
+|           |     |  +--FUNGI_acs_intact__ACS_JAEBUQ010000010_L1__Amanita_fuliginea
+|           |     +--|
+|           |        |        +--FUNGI_acs_intact__ACS_JAKELH010000137_L1__Lactarius_pseudohatsudake
+|           |        |     +--|
+|           |        |     |  +--FUNGI_acs_intact__ACS_JAKELI010000028_L1__Lactarius_hengduanensis
+|           |        |  +--|
+|           |        |  |  |  +--FUNGI_acs_pseudogene_like__ACS_JAKELK010000286_L1__Lactarius_deliciosus
+|           |        |  |  +--|
+|           |        |  |     +--FUNGI_acs_pseudogene_like__ACS_VHKJ01000013_L1__Lactarius_deliciosus
+|           |        +--|
+|           |           |     +--FUNGI_acs_pseudogene_like__ACS_JAKEYE010000168_L1__Lactarius_hatsudake
+|           |           |  +--|
+|           |           |  |  +--FUNGI_acs_pseudogene_like__ACS_QFDZ01000837_L1__Lactarius_hatsudake
+|           |           +--|
+|           |              +--FUNGI_acs_pseudogene_like__ACS_QFDZ01027072_L1__Lactarius_hatsudake
+|        +--|
+|        |  |  +--FUNGI_acs_pseudogene_like__ACS_JADNRX010000151_L1__Hymenopellis_radicata
+|        |  +--|
+|        |     +--FUNGI_acs_pseudogene_like__ACS_JBBPRG010004129_L1__Chalciporus_pseudorubinellus
+|     +--|
+|     |  +--FUNGI_acs_intact__ACS_QLPF01004231_L1__Hygrophorus_pudorinus
+|  +--|
+|  |  |        +--FUNGI_acs_pseudogene_like__ACS_JAEBUS010000024_L1__Amanita_pallidorosea
+|  |  |     +--|
+|  |  |     |  +--FUNGI_acs_pseudogene_like__ACS_JAEBUS010000095_L1__Amanita_pallidorosea
+|  |  |  +**|
+|  |  |  |  |  +--FUNGI_acs_pseudogene_like__ACS_JBBPNA010001111_L1__Boletus_subcaerulescens
+|  |  |  |  +--|
+|  |  |  |     +--FUNGI_acs_intact__ACS_JBBPTD010001404_L1__Boletus_aff.
+|  |  +--|
+|  |     |     +--FUNGI_acs_intact__ACS_JBBPNU010007818_L1__Leccinum_angustisporum
+|  |     |  +--|
+|  |     |  |  +--FUNGI_acs_intact__ACS_JBBPOY010010307_L1__Leccinum_proliferum
+|  |     +--|
+|  |        |           +--FUNGI_acs_intact__ACS_JBBPOJ010000463_L1__Leccinum_rimulosum
+|  |        |        +**|
+|  |        |        |  +**FUNGI_acs_intact__ACS_JBBPPD010004602_L1__Leccinum_olivaceoglutinosum
+|  |        |     +**|
+|  |        |     |  +--FUNGI_acs_intact__ACS_JBBPPQ010004103_L1__Leccinum_disarticulatum
+|  |        |  +--|
+|  |        |  |  +--FUNGI_acs_intact__ACS_JBBPOX010010343_L1__Leccinum_proximum
+|  |        +--|
+|  |           +--FUNGI_acs_pseudogene_like__ACS_JBBPPO010002972_L1__Leccinum_glutinopallens
++--|
+|  +--FUNGI_acs_pseudogene_like__ACS_WITN01000069_L1__Lactarius_quietus
+|
++--FUNGI_acs_intact__ACS_JBBPOE010000133_L1__Tylopilus_felleus
+
+Tree in newick format:
+
+(FUNGI_acs_pseudogene_like__ACS_CAKNEV010000109_L1__Rhizopogon_roseolus:0.0737333004,((((((((FUNGI_acs_pseudogene_like__ACS_JABBWR010001061_L1__Suillus_decipiens:0.3022798647,FUNGI_acs_pseudogene_like__ACS_JBBPLW010000511_L1__Tylopilus_balloui:0.2018321060):0.0533057298,(FUNGI_acs_intact__ACS_PVYP01001300_L1__Rhizopogon_vulgaris:0.0126201009,FUNGI_acs_intact__ACS_PVYP01004693_L1__Rhizopogon_vulgaris:0.0243394885):0.1057491455):0.0197783905,FUNGI_acs_pseudogene_like__ACS_JBBPTG010000282_L1__Chalciporus_piperatus:0.1015133680):0.0161959606,((((((((((FUNGI_acs_intact__ACS_JABCKV010000003_L2__Asterophora_parasitica:1.4639783084,((((FUNGI_acs_intact__ACS_JAEVFL010000045_L1__Phlebopus_sp.:1.1670593350,(FUNGI_acs_intact__ACS_JBBPJX010005976_L1__Neotropicomus_parvogracilis:1.1912072256,(((FUNGI_acs_intact__ACS_PORJ01000969_S2L1__Corynespora_cassiicola:0.0000009996,FUNGI_acs_intact__ACS_PORI01000001_S2L1__Corynespora_cassiicola:0.0000009996):0.8484236602,NATIVE_Leotiomycetes__ACS_PZJY01000004_L1__Tetracladium_setigerum:0.5219479787):0.3167274382,((OG__KAF2677707.1_Lentithecium_fluviatile_CBS_122367:0.5886443726,NATIVE_Lecanoromycetes__ACS_JALILR010000044_L1__Umbilicaria_deusta:0.7498680567):0.0710398031,(NATIVE_Lecanoromycetes__ACS_JALDZH010000199_L1__Lobaria_immixta:0.4766304906,(NATIVE_Eurotiomycetes__ACS_JSEJ01000159_L1__Cladophialophora_immunda:0.0000009996,NATIVE_Eurotiomycetes__ACS_JYBZ01000001_L1__Cladophialophora_immunda:0.0000009996):1.2068329200):0.2159328499):0.3085786978):1.3037782893):0.1841703038):0.0000021539,((OG__Agro_WP_111794344_1_MULTISPECIES_hypothetical_protein_Agrobacterium:1.4709054761,(OG__KIK69313.1_Collybiopsis_luxurians_FD-317_M1:0.0000029007,NATIVE_Agaricomycetes__ACS_JJNP01000045_L1__Collybiopsis_luxurians:0.0192695333):1.3866203381):0.2921149470,(((((OG__NP_015215.1_Saccharomyces_cerevisiae_S288C:0.0000009996,NATIVE_Saccharomycetes__ACS_CAMZRX010000016_L1__Saccharomyces_cerevisiae:0.0000009996):0.0000009996,NATIVE_Saccharomycetes__ACS_DAGXGM010001031_L1__Saccharomyces_cerevisiae:0.0000009996):0.0000023372,NATIVE_Saccharomycetes__ACS_CAMZOP010000016_L1__Saccharomyces_cerevisiae:0.0036094046):0.7310216469,NATIVE_Lecanoromycetes__ACS_PEKF01000117_L1__Ramalina_intermedia:1.0981901335):1.2646020075,((((((((OG__CAF9909976.1_Gomphillus_americanus:0.8219989499,OG__MCJ1455451.1_Mycoblastus_sanguinarius:0.4462073115):0.1044784417,OG__XP_008715454.1_Cyphellophora_europaea_CBS_101466:0.5020154468):0.0802981678,((OG__KAF1343677.1_Delphinella_strobiligena:0.4314644598,NATIVE_Dothideomycetes__ACS_LFZN01000207_L1__Pseudocercospora_eumusae:0.6289371818):0.0936660012,OG__TVY82334.1_Lachnellula_suecica:0.5121602027):0.0848601905):0.1092571012,(OG__XP_040635025.1_Aspergillus_ruber_CBS_135680:0.8213208331,(OG__KAB5525742.1_Coniochaeta_sp._2T2.1:0.0452559222,OG__KAB5554542.1_Coniochaeta_sp._2T2.1:0.0509006389):0.6832841615):0.1851144911):0.0920831864,((NATIVE_Sordariomycetes__ACS_JAPERL010000105_S2L1__Akanthomyces_lecanii:0.0000009996,NATIVE_Sordariomycetes__ACS_WHIX01000048_S2L1__Akanthomyces_lecanii:0.0031440611):0.0311663862,NATIVE_Sordariomycetes__ACS_JARJRB010001289_S2L1__Akanthomyces_uredinophilus:0.0645075366):0.8837285981):0.3037047235,(NATIVE_Dothideomycetes__ACS_JAPETJ010000003_S2L1__Bathelium_mastoideum:0.0000009996,NATIVE_Dothideomycetes__ACS_JAPETK010000012_S2L1__Bathelium_mastoideum:0.0000009996):0.3767913254):1.1700221550,NATIVE_Geoglossomycetes__ACS_JAJDFF020002307_S2L1__Geoglossum_cookeanum:1.4715146712):0.1527498231,(NATIVE_Eurotiomycetes__ACS_WUTQ01000007_S2L1__Aspergillus_sydowii:0.9070971659,BACT_acc__pTiC58_accF_AAK91108.2_Agrobacterium_fabrum_str.:1.5256108914):0.3181091321):0.1538785222):0.3803112550):0.1830741955):0.0932551703,(FUNGI_acs_intact__ACS_JAIJZX010000023_L1__Albifimbria_verrucaria:1.1669916112,FUNGI_acs_intact__ACS_JBBPKY010000159_L1__Xerocomellus_dryophilus:1.1694488751):0.4704647860):0.0486069040,(((((((((((((FUNGI_gdpd_meso_intact__ACS_JAGFBS010000039_L1__Boletus_reticuloceps:0.0241156904,((FUNGI_gdpd_meso_pseudogene_like__ACS_JAGTXK010000179_L1__Boletus_sp.:0.0776065787,(FUNGI_gdpd_meso_pseudogene_like__ACS_JAHRGV010000067_L1__Butyriboletus_roseoflavus:0.0072297928,FUNGI_gdpd_meso_pseudogene_like__ACS_QFEG01000039_L1__Boletus_speciosus:0.0032682355):0.1077370442):0.0300898299,FUNGI_gdpd_meso_pseudogene_like__ACS_QFEE01000814_L1__Butyriboletus_roseoflavus:0.0437251905):0.0772249505):0.0252997075,((FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJI010000362_L1__Boletus_rex-veris:0.0274214940,(FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJQ010001228_L1__Boletus_rex-veris:0.0428348376,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJQ010004352_L1__Boletus_rex-veris:0.0445633317):0.0000020666):0.1634881971,((FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPMY010000159_L1__Phylloporus_gajari:0.1230184032,(FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWO010001296_L1__Boletaceae_sp.:0.0545084576,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWO010001920_L1__Boletaceae_sp.:0.0236588132):0.2387829089):0.0517640381,(FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPMY010001662_L1__Phylloporus_gajari:0.1222380780,(FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPMY010001721_L1__Phylloporus_gajari:0.1317041485,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPMY010003005_L1__Phylloporus_gajari:0.1496237118):0.0440927736):0.0325661286):0.0511111572):0.0589361993):0.0179228215,((FUNGI_gdpd_meso_intact__ACS_JBBPJJ010011893_L1__Veloboletus_limbatus:0.0000024170,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPLY010001749_L1__Xerocomus_nothofagi:0.0514238562):0.0423340367,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPLV010001121_L1__Boletellus_ananiceps:0.0501081270):0.0361532083):0.0202123567,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPMG010000767_L1__Boletellus_deceptivus:0.0493829882):0.0165338307,((FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJK010000045_L1__Boletus_variipes:0.0274856444,(((FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJK010000239_L1__Boletus_variipes:0.0000009996,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPRQ010000079_L1__Boletus_insuetus:0.0000009996):0.0172556200,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPQG010006152_L1__Boletus_variipes:0.0328500324):0.0128922735,(FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPQG010006035_L1__Boletus_variipes:0.0082429860,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPQG010001754_S2L1__Boletus_variipes:0.0000028193):0.0175966654):0.0152263605):0.0687295882,((((((FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPKI010001770_L1__Nevesoporus_exiguus:0.0967850172,((((FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000056_L1__Tylopilus_sp.:0.0858753463,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000076_S2L1__Tylopilus_sp._UT-M0000335:0.1136035106):0.1702268627,((FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000210_L1__Tylopilus_sp.:0.0203448499,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000321_L1__Tylopilus_sp.:0.0412998271):0.1146162759,(FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010001194_L1__Tylopilus_sp.:0.0286002524,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010003662_L1__Tylopilus_sp.:0.0135266098):0.2678409312):0.0832426255):0.0289531707,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000400_S2L1__Tylopilus_sp._UT-M0000335:0.3441725068):0.0441008194,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000915_S2L1__Tylopilus_sp._UT-M0000335:0.1795534489):0.0443509226):0.0343325816,(FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000022_L1__Tylopilus_sp.:0.0745669341,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000128_L1__Tylopilus_sp.:0.0756731543):0.1245520368):0.0711257015,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPTS010002188_L1__Fistulinella_staudtii:0.0952066848):0.0384154329,(FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000393_L1__Tylopilus_sp.:0.0777569591,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000844_L1__Tylopilus_sp.:0.0688202114):0.0436197450):0.0589749798,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPWX010000121_L1__Tylopilus_sp.:0.0502510215):0.0297531359,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPVR010004442_L1__Tylopilus_sp.:0.0469688554):0.0543553983):0.0405544762):0.0175355811,((((((FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJK010000591_L1__Boletus_variipes:0.0057283652,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPRQ010000133_L1__Boletus_insuetus:0.0173952899):0.0226009854,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJK010000640_L1__Boletus_variipes:0.0313680742):0.0000028885,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPQG010005583_S2L1__Boletus_variipes:0.0230465661):0.0171460804,(FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPLS010001065_L1__Boletellus_ananas:0.0910405549,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPQG010002236_L1__Boletus_variipes:0.0215115520):0.0200608542):0.0190447049,(FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJM010001346_L1__Boletus_variipes:0.1228004022,(FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPQD010001794_L1__Caloboletus_inedulis:0.0236151539,FUNGI_gdpd_meso_intact__ACS_JBBPQD010009048_L1__Caloboletus_inedulis:0.0000029443):0.0624104402):0.0209391998):0.0617949446,(((FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJX010000568_L1__Neotropicomus_parvogracilis:0.1032464689,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJX010000732_L1__Neotropicomus_parvogracilis:0.0662089635):0.0532492576,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPUP010001145_L1__Exsudoporus_floridanus:0.1198094589):0.0496835780,(((FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPLJ010000677_L1__Veloporphyrellus_conicus:0.0329695347,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPLJ010000841_L1__Veloporphyrellus_conicus:0.0308468344):0.0624805638,((FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPNQ010000179_L1__Boletellus_pseudochrysenteroides:0.0666999425,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPKZ010000232_S2L1__Phylloporus_pelletieri:0.2398876079):0.0310759142,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJM010000052_S2L1__Boletus_variipes:0.1725675728):0.0469769121):0.0378427501,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPMB010001777_L1__Pulveroboletus_ravenelii:0.0297638265):0.0167608686):0.0250014157):0.0128788361):0.1333670341,FUNGI_gdpd_meso_pseudogene_like__ACS_JBBPJQ010000087_S2L1__Boletus_rex-veris:0.5612299119):0.1701376760,(FUNGI_gdpd_meso_pseudogene_like__ACS_JAHTMQ010000251_L1__Leucocoprinus_sp.:0.7262432384,REF_T1_gdpd_meso__Agro_WP_217577425_1_glycerophosphodiester_phosphodiesterase_family_protein_Mesorhizobium_sp_GbtcB19:0.3442290748):0.0610690526):0.2131109938,((REF_T1_gdpd_meso__Agro_WP_269347785_1_hypothetical_protein_Agrobacterium_sp_SOY23:0.1835503542,BACT_acc__ACC_nrhit_WP_183902790.1_Rhizobium_metallidurans:0.1897933432):0.7391144684,(REF_T2_gdpd_meso__WP_247038584.1_unclassified_Neorhizobium:0.3611739622,BACT_acc__ACC_nrhit_WP_292444656.1_Mesorhizobium_sp.:0.3434873017):0.1388341315):0.1749221925):1.1145770297,(((((FUNGI_acs_intact__ACS_JBBPKL010003317_L1__Boletellus_ananas:0.0093076727,FUNGI_acs_intact__ACS_JBBPNB010000771_L1__Rubroboletus_satanas:0.2814930250):0.0947452205,FUNGI_acs_intact__ACS_JBBPKL010018021_L1__Boletellus_ananas:0.0623396020):0.0577983774,FUNGI_acs_intact__ACS_JBBPOG010012756_L1__Austroboletus_festivus:0.0159684213):0.0483314998,((FUNGI_acs_intact__ACS_JBBPNB010000203_L1__Rubroboletus_satanas:0.1152020765,REF_T1_acs__Plant_PON40589_1_hypothetical_protein_PanWU01x14_296110_Parasponia_andersonii:0.8361532008):0.0520529379,FUNGI_acs_intact__ACS_JBBPRY010001778_L1__Boletus_edulis:0.1446742061):0.0246230430):0.9242246058,((((((((REF_T1_acs__Plant_che1CaTE-Acs:0.2125542732,((REF_T2_acs__WP_234887914.1_Rhizobiaceae:0.0048702091,(REF_T2_acs__WP_045231703.1_Agrobacterium:0.0000025400,BACT_acc__pTiC58_torf6_acs_AAK90959.2_Agrobacterium_fabrum_str.:0.0000009996):0.0000022546):0.0083282268,REF_T2_acs__WP_247645393.1_Agrobacterium_tumefaciens:0.0000020976):0.1975520272):0.0507460600,((REF_T2_acs__WP_234909974.1_Martinezella_rhizogenes:0.0026011119,REF_T2_acs__WP_234908531.1_Rhizobiaceae:0.0000009996):0.0000021657,REF_T2_acs__MBO9126496.1_Rhizobium_sp._16-488-2b:0.0000009996):0.3006025464):0.0362872785,((REF_T1_acs__Plant_AIK35201_1_Acs_Ipomoea_batatas:0.0320887661,REF_T1_acs__Plant_GMD67474_1_agrocinopine_synthase_Ipomoea_batatas:0.0076626347):0.3214946548,(REF_T1_acs__Agro_QTG17267_1_agrocinopine_synthase_Agrobacterium_tumefaciens:0.1634018970,((((REF_T2_acs__WP_234889283.1_Gillisella_vitis:0.0000009996,REF_T2_acs__AAB41866.1_Gillisella_vitis:0.0025527115):0.0367865490,BACT_acc__pTiC58_acsx_AAK90966.1_Agrobacterium_fabrum_str.:0.0294923793):0.0289394731,(((REF_T2_acs__WP_234644451.1_Gillisella_ampelina:0.0000025851,REF_T2_acs__WP_234891170.1_Gillisella_vitis:0.0047037012):0.0359850233,REF_T2_acs__WP_081088917.1_Gillisella_vitis:0.0040910595):0.0660130599,REF_T2_acs__WP_111221730.1_Rhizobiaceae:0.0275873526):0.0257335284):0.0300226887,REF_T2_acs__ASK40602.1_Agrobacterium_genomosp._6:0.0609152199):0.1597486424):0.0437007054):0.3314912576):0.0533750119,(REF_T2_acs__WP_309547436.1_Martinezella_rhizogenes:0.2455208334,((REF_T2_acs__UTN42808.1_Agrobacterium_fabrum:0.0686007817,BACT_acc__ANN_agrocinopine_synthase_WP_250995648.1_Gillisella_vitis:0.0033299640):0.0000023428,BACT_acc__ANN_agrocinopine_synthase_WP_233741840.1_Rhizobiaceae:0.0000009996):0.4344771203):0.1899274149):0.1146187470,((REF_T1_acs__Plant_WML69206_1_agrocinopine_synthase_Agrobacterium_sp_Nicotiana_noctiflora:0.1299517921,REF_T2_acs__WP_234711736.1_Martinezella_rhizogenes:0.1242812314):0.1588352459,((REF_T2_acs__WP_222308706.1_Rhizobium_leguminosarum:0.0402911917,REF_T2_acs__NEK20670.1_Rhizobium_leguminosarum:0.0458795528):0.0798460065,BACT_acc__ANN_agrocinopine_synthase_WP_088199097.1_Sinorhizobium_meliloti:0.0682382141):0.2529840168):0.1279463832):0.1368721409,((REF_T1_acs__Agro_WP_209160150_1_MULTISPECIES_glycerophosphodiester_phosphodiesterase_family_protein_unclassified_Agrobac:0.0789962393,(BACT_acc__ANN_agrocinopine_synthase_WP_155276043.1_Agrobacterium_fabrum:0.0003183727,BACT_acc__ANN_agrocinopine_synthase_WP_172690992.1_Agrobacterium_larrymoo:0.0490980443):0.1815607666):0.4603709852,REF_T2_acs__WP_157835807.1_Agrobacterium_larrymoorei:0.8857252590):0.1668970466):0.1824667811,REF_T1_acs__Agro_WP_192068445_1_MULTISPECIES_glycerophosphodiester_phosphodiesterase_family_protein_unclassified_Rhizobi:0.8105789725):0.3964989234,(REF_T1_kerr14__Agro_WP_280174108_1_glycerophosphodiester_phosphodiesterase_family_protein_Agrobacterium_tumefaciens:0.0031840392,REF_T2_kerr14__CUX65485.1_Agrobacterium_tumefaciens_str._Kerr_14:0.0000027093):0.7488165398):0.1080970827):0.1189476002):0.2213962955,(((FUNGI_acs_intact__ACS_LSHD01003693_L1__Leucoagaricus_sp.:0.1001657022,FUNGI_acs_intact__ACS_LSHD01003694_L1__Leucoagaricus_sp.:0.0527518568):0.0517598222,FUNGI_acs_intact__ACS_LSHD01013347_L1__Leucoagaricus_sp.:0.1060270936):0.0294336655,FUNGI_acs_intact__ACS_LSHD01013345_L1__Leucoagaricus_sp.:0.0000021885):0.9755538460):0.0598576259,(((FUNGI_acs_intact__ACS_JARJCX010000125_L1__Mycena_rebaudengoi:0.0134507299,FUNGI_acs_intact__ACS_JARJCX010000136_L1__Mycena_rebaudengoi:0.0689413735):0.9519752454,FUNGI_acs_intact__ACS_JBBPSL010000153_L1__Butyriboletus_appendiculatus:1.8316739440):0.2519086240,FUNGI_acs_intact__ACS_JBBPWX010001359_L1__Tylopilus_sp.:0.7848340980):0.3077618790):0.1100727472,((FUNGI_acs_pseudogene_like__ACS_JAGTXK010000090_L1__Boletus_sp.:0.0128090237,((FUNGI_acs_intact__ACS_JAHRGV010000066_L1__Butyriboletus_roseoflavus:0.0146769567,FUNGI_acs_intact__ACS_QFEH01001931_L1__Retiboletus_ornatipes:0.0196116968):0.0000009996,FUNGI_acs_intact__ACS_QFEE01000702_L1__Butyriboletus_roseoflavus:0.0048730939):0.0992969990):0.8605112259,((FUNGI_acs_intact__ACS_JARJLE010000040_L1__Mycena_latifolia:0.0082646515,FUNGI_acs_intact__ACS_JARJLE010000323_L1__Mycena_latifolia:0.0023935208):0.6641471508,(FUNGI_acs_intact__ACS_JBBPPV010002288_L1__Leccinum_brunneo-olivaceum:0.6214136785,FUNGI_acs_intact__ACS_QLPJ01008442_L1__Cantharellus_cinnabarinus:0.7109238998):0.8116641273):0.1297656663):0.4342834775):0.1254771607):0.3412300079):0.2290121503,(((FUNGI_acs_intact__ACS_JAECYW010000013_L1__Galerina_marginata:0.4070419791,FUNGI_acs_intact__ACS_JAJIYX010000048_L1__Phallus_impudicus:0.9499097190):0.2680611079,FUNGI_acs_intact__ACS_VKGB01000606_L1__Gymnopus_androsaceus:0.5513440850):0.1385388050,(OG__KAF5374590.1_Collybiopsis_confluens:0.0000024985,NATIVE_Agaricomycetes__ACS_JAACJN010000100_L1__Collybiopsis_confluens:0.0000009996):0.9940631485):0.4142643641):0.1659519025,FUNGI_acs_intact__ACS_JACAZI010000003_L1__Mycena_venus:1.0593494635):0.1605277053,FUNGI_acs_pseudogene_like__ACS_JADNYI010000166_L1__Infundibulicybe_gibba:0.7730302543):0.1712651510,(((FUNGI_acs_pseudogene_like__ACS_JACTVB010005122_L1__Laccaria_trichodermophora:0.0058325142,(FUNGI_acs_pseudogene_like__ACS_JACTVD010000017_L1__Laccaria_trichodermophora:0.0000009996,FUNGI_acs_intact__ACS_JACTVD010000040_L1__Laccaria_trichodermophora:0.0000009996):0.0060892016):0.0186137090,(FUNGI_acs_intact__ACS_JACTVC010000013_L1__Laccaria_trichodermophora:0.0355498484,FUNGI_acs_intact__ACS_JACTVE010011854_L1__Laccaria_trichodermophora:0.0117723697):0.0184623914):0.1241220375,FUNGI_acs_intact__ACS_JMSL01003057_L1__Laccaria_amethystina:0.1485902800):0.3366764508):0.2543371542,(((FUNGI_acs_intact__ACS_JAHNUO010000012_L1__Chiua_virens:0.0162500702,FUNGI_acs_intact__ACS_QFER01000927_L1__Chiua_virens:0.0155723742):0.3864398421,(((FUNGI_acs_pseudogene_like__ACS_JBBPLL010000219_L1__Leccinellum_rugosiceps:0.1385843187,FUNGI_acs_intact__ACS_JBBPMT010002902_L1__Garcileccinum_viscosum:0.1799380611):0.0173582037,FUNGI_acs_pseudogene_like__ACS_JBBPPG010001528_L1__Leccinellum_luteum:0.2752131735):0.0559327127,FUNGI_acs_intact__ACS_JBBPLX010000384_L1__Leccinellum_albellum:0.2394609922):0.3649102484):0.0858342393,((FUNGI_acs_intact__ACS_JBBPKZ010000451_L1__Phylloporus_pelletieri:0.0609931853,(FUNGI_acs_intact__ACS_JBBPKZ010003507_L1__Phylloporus_pelletieri:0.0336268845,(FUNGI_acs_intact__ACS_JBBPNV010000002_L1__Phylloporus_rhodoxanthus:0.0038800952,FUNGI_acs_intact__ACS_JBBPNZ010001178_L1__Phylloporus_rhodoxanthus:0.0000026148):0.0252315755):0.0461976307):0.2074024533,(FUNGI_acs_pseudogene_like__ACS_JBBPNV010000002_L2__Phylloporus_rhodoxanthus:0.0079820950,FUNGI_acs_pseudogene_like__ACS_JBBPNZ010002431_L1__Phylloporus_rhodoxanthus:0.0119725660):0.4438075458):0.0699662512):0.0754541255):0.0650150285,((((FUNGI_acs_pseudogene_like__ACS_LVVM01002110_L1__Rhizopogon_vesiculosus:0.0274295139,(FUNGI_acs_pseudogene_like__ACS_PVXX01007568_L1__Rhizopogon_vesiculosus:0.0112083597,(FUNGI_acs_intact__ACS_PVYH01004653_L1__Rhizopogon_vesiculosus:0.0000009996,FUNGI_acs_pseudogene_like__ACS_PVYI01008242_L1__Rhizopogon_vesiculosus:0.0000029355):0.0043601982):0.0150192695):0.0476756609,(((FUNGI_acs_intact__ACS_PVXW01008981_L1__Rhizopogon_hawkerae:0.0840233838,FUNGI_acs_pseudogene_like__ACS_PVYS01001977_L1__Rhizopogon_rudus:0.0275237015):0.0000022411,(((FUNGI_acs_intact__ACS_PVYC01010445_L1__Rhizopogon_rudus:0.0083150172,((FUNGI_acs_intact__ACS_PVYD01012455_L1__Rhizopogon_rudus:0.0000009996,FUNGI_acs_intact__ACS_PVYF01000057_L1__Rhizopogon_rudus:0.0000009996):0.0000009996,FUNGI_acs_pseudogene_like__ACS_PVYE01007352_L1__Rhizopogon_rudus:0.0000009996):0.0000026280):0.0143444793,FUNGI_acs_intact__ACS_PVYO01001675_L1__Rhizopogon_rudus:0.0000020053):0.0229531450,FUNGI_acs_pseudogene_like__ACS_PVYK01004283_L1__Rhizopogon_sp.:0.0538674649):0.0083187314):0.0182596890,FUNGI_acs_intact__ACS_PVYN01016422_L1__Rhizopogon_villosulus:0.1147965333):0.0156489751):0.0077495521,(((((FUNGI_acs_intact__ACS_LYZI01001928_L1__Rhizopogon_vinicolor:0.0096539867,(FUNGI_acs_pseudogene_like__ACS_PVYM01008144_L1__Rhizopogon_vinicolor:0.0032346576,((FUNGI_acs_pseudogene_like__ACS_PVYQ01005844_L1__Rhizopogon_vinicolor:0.0000009996,FUNGI_acs_pseudogene_like__ACS_PVYU01003182_L1__Rhizopogon_vinicolor:0.0000009996):0.0000009996,FUNGI_acs_pseudogene_like__ACS_PVYT01002411_L1__Rhizopogon_vinicolor:0.0000009996):0.0000026985):0.0308250783):0.0100125236,FUNGI_acs_pseudogene_like__ACS_PVXY01002949_L1__Rhizopogon_vinicolor:0.0344434856):0.0000025213,FUNGI_acs_pseudogene_like__ACS_PVYG01002874_L1__Rhizopogon_vinicolor:0.0067371638):0.0676526649,((FUNGI_acs_intact__ACS_PVXU01013762_L1__Rhizopogon_parksii:0.0026493558,FUNGI_acs_intact__ACS_PVYA01011370_L1__Rhizopogon_parksii:0.0000009996):0.0317076652,(((FUNGI_acs_intact__ACS_PVXV01000134_L1__Rhizopogon_hawkerae:0.0079721034,FUNGI_acs_intact__ACS_PVXW01016116_L1__Rhizopogon_hawkerae:0.0053893567):0.0134829287,FUNGI_acs_intact__ACS_PVYJ01003593_L1__Rhizopogon_sp.:0.0107707109):0.0114640890,((((FUNGI_acs_pseudogene_like__ACS_PVYD01009048_L1__Rhizopogon_rudus:0.0895007522,FUNGI_acs_pseudogene_like__ACS_PVYE01004910_L1__Rhizopogon_rudus:0.0000026989):0.0043074696,FUNGI_acs_pseudogene_like__ACS_PVYF01004977_L1__Rhizopogon_rudus:0.0000009996):0.0136296437,FUNGI_acs_intact__ACS_PVYO01004152_L1__Rhizopogon_rudus:0.0079879153):0.0090264051,FUNGI_acs_pseudogene_like__ACS_PVYS01007405_L1__Rhizopogon_rudus:0.0343277145):0.0226683017):0.0128970635):0.0321581810):0.0097768467,(FUNGI_acs_pseudogene_like__ACS_PVXW01011121_L1__Rhizopogon_hawkerae:0.0234080129,(FUNGI_acs_pseudogene_like__ACS_PVYF01007224_L1__Rhizopogon_rudus:0.0667161491,FUNGI_acs_pseudogene_like__ACS_PVYO01002071_L1__Rhizopogon_rudus:0.1010665778):0.0000029752):0.1840522887):0.0108443044):0.0169104274,(FUNGI_acs_pseudogene_like__ACS_PVXS01008719_L1__Rhizopogon_sp.:0.0074645194,FUNGI_acs_pseudogene_like__ACS_PVXT01004532_L1__Rhizopogon_sp.:0.0032680494):0.1485427531):0.1181228358):0.0807260362,(((FUNGI_acs_pseudogene_like__ACS_JAYMDG010000002_L1__Hymenopellis_raphanipes:0.0070576692,FUNGI_acs_pseudogene_like__ACS_QLPD01007935_L1__Hymenopellis_chiangmaiae:0.0347180107):0.0071406952,(FUNGI_acs_pseudogene_like__ACS_QLOW01000991_L2__Hymenopellis_radicata:0.0045164073,FUNGI_acs_intact__ACS_QLPD01001826_L1__Hymenopellis_chiangmaiae:0.0182054020):0.0253861710):0.0695981075,((FUNGI_acs_pseudogene_like__ACS_JAYMDG010000002_L2__Hymenopellis_raphanipes:0.0234421589,FUNGI_acs_pseudogene_like__ACS_QLOW01000991_L1__Hymenopellis_radicata:0.0270165114):0.0237979070,FUNGI_acs_intact__ACS_QLPD01007935_L2__Hymenopellis_chiangmaiae:0.0448155982):0.0969081977):0.2876620231):0.0201834059,FUNGI_acs_intact__ACS_JMDQ01000109_L1__Hebeloma_cylindrosporum:0.3899424813):0.0676566081,(FUNGI_acs_intact__ACS_JAEBUQ010000010_L1__Amanita_fuliginea:0.1568418815,(((FUNGI_acs_intact__ACS_JAKELH010000137_L1__Lactarius_pseudohatsudake:0.0147829830,FUNGI_acs_intact__ACS_JAKELI010000028_L1__Lactarius_hengduanensis:0.0117511319):0.0719933366,(FUNGI_acs_pseudogene_like__ACS_JAKELK010000286_L1__Lactarius_deliciosus:0.0063604677,FUNGI_acs_pseudogene_like__ACS_VHKJ01000013_L1__Lactarius_deliciosus:0.0179131402):0.0884019624):0.0095149625,((FUNGI_acs_pseudogene_like__ACS_JAKEYE010000168_L1__Lactarius_hatsudake:0.1989049792,FUNGI_acs_pseudogene_like__ACS_QFDZ01000837_L1__Lactarius_hatsudake:0.0556782943):0.0149599410,FUNGI_acs_pseudogene_like__ACS_QFDZ01027072_L1__Lactarius_hatsudake:0.0258922795):0.0875752357):0.0430221141):0.0086806583):0.0050756578):0.0184942591,(FUNGI_acs_pseudogene_like__ACS_JADNRX010000151_L1__Hymenopellis_radicata:0.2087338299,FUNGI_acs_pseudogene_like__ACS_JBBPRG010004129_L1__Chalciporus_pseudorubinellus:0.0936058999):0.0144714052):0.0075704881,FUNGI_acs_intact__ACS_QLPF01004231_L1__Hygrophorus_pudorinus:0.0819020577):0.0150028379,(((FUNGI_acs_pseudogene_like__ACS_JAEBUS010000024_L1__Amanita_pallidorosea:0.0236499699,FUNGI_acs_pseudogene_like__ACS_JAEBUS010000095_L1__Amanita_pallidorosea:0.0062318124):0.0826931125,(FUNGI_acs_pseudogene_like__ACS_JBBPNA010001111_L1__Boletus_subcaerulescens:0.0688306940,FUNGI_acs_intact__ACS_JBBPTD010001404_L1__Boletus_aff.:0.0121934596):0.0123455121):0.0000027575,((FUNGI_acs_intact__ACS_JBBPNU010007818_L1__Leccinum_angustisporum:0.0085962207,FUNGI_acs_intact__ACS_JBBPOY010010307_L1__Leccinum_proliferum:0.0042732210):0.0603980179,((((FUNGI_acs_intact__ACS_JBBPOJ010000463_L1__Leccinum_rimulosum:0.0058030444,FUNGI_acs_intact__ACS_JBBPPD010004602_L1__Leccinum_olivaceoglutinosum:0.0000009996):0.0000022892,FUNGI_acs_intact__ACS_JBBPPQ010004103_L1__Leccinum_disarticulatum:0.0057909882):0.0000021076,FUNGI_acs_intact__ACS_JBBPOX010010343_L1__Leccinum_proximum:0.0100627339):0.0029981991,FUNGI_acs_pseudogene_like__ACS_JBBPPO010002972_L1__Leccinum_glutinopallens:0.1138571791):0.0029920204):0.0098030418):0.0123666282):0.0033309602,FUNGI_acs_pseudogene_like__ACS_WITN01000069_L1__Lactarius_quietus:0.0586246511):0.0173989547,FUNGI_acs_intact__ACS_JBBPOE010000133_L1__Tylopilus_felleus:0.0523380242);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t ACS.meso_acc.treefile -m "JTT+R5{0.043999,0.189832,0.202966,0.458271,0.352963,0.80666,0.298825,1.29282,0.101246,2.24784}" --length 989
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s ACS.mafft.trim.aln --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s ACS.mafft.trim.aln --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Sun Sep  6 19:52:03 2026
+Total CPU time used: 20993 seconds (5h:49m:52s)
+Total wall-clock time used: 660.222 seconds (0h:11m:0s)
+

@@ -1,0 +1,6 @@
+name: minimap2_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - minimap2

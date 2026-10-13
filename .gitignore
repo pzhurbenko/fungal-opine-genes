@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.bak_*
+bak_*/
+tmp/
+*.out
+*.err
+# large or regenerated artefacts (not shipped; see README)
+data/genomes/
+data/fungal_genomes/*/ncbi_dataset/
+data/fungal_proteomes/*/
+*.bam
+*.bai
+*.dmnd
+*.fastq.gz
+*.sra
+paper/figures/tiff/
+paper/manuscript_v2/*.docx
+paper/manuscript_v2/*.html

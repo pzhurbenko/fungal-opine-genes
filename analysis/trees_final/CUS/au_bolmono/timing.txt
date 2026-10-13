@@ -1,0 +1,1 @@
+run1 (711484, -T 32, seed 1) killed 04:28 — stuck after iteration 10 for >70 min; using run2/ (712190, -T 16, seed 2)
