@@ -78,8 +78,9 @@ for g in GENES:
     nf = int(sub.nonfungal_nearest.sum()); nB = int(sub.ruleB.sum()); nC = int(sub.ruleC.sum())
     # 2026-10-12ab (user): forward/reverse search made explicit in the headers, no colons; 'not pursued' dropped (composition in the caption)
     # 2026-10-13o (audit A4): median and maximum identity of the best hit to the seed (one best hit per proteome, GenBank/RefSeq duplicates removed; replaces Table S3a)
+    # 2026-10-13 night (user): the two identity columns are one column "median / maximum" (8 -> 7 columns); implemented here so that a rerun does not undo it
     rows.append({"gene": g, "proteomes with a forward-search hit": len(b),
-                 "median identity of best hits to the seed, %": round(float(b.pident.median()), 1), "maximum identity of best hits to the seed, %": round(float(b.pident.max()), 1),
+                 "median / maximum identity of best hits to the seed, %": "%.1f / %.1f" % (float(b.pident.median()), float(b.pident.max())),
                  "proteins checked by reverse search": len(sub),
                  "proteins with non-fungal closest relatives": nf, "T-DNA candidates": hosts(sub[sub.ruleB]), "non-T-DNA candidates": hosts(sub[sub.ruleC])})
 pd.DataFrame(rows).to_csv(OUT + "Table1_funnel.tsv", sep="\t", index=False)
