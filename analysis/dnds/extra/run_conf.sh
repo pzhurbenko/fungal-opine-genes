@@ -2,7 +2,7 @@
 : "${GMO_ROOT:=$(cd "$(dirname "$0")/../../.." && pwd)}"; export GMO_ROOT
 # [*_conf sets 2026-10-13; identical to run_extra.sh, except N=3: star tree (IQ-TREE needs >=4 taxa), M0 only] Extra dN/dS sets: same procedure as ../run_dnds.sh (strict, no-gap codon columns) and ../loose/run.sh (<=20% gaps).
 # n>=4: IQ-TREE GTR+G on strict codon alignment, codeml M0, M7/M8, M8a (strict) and M0 (loose, same tree); yn00 on both. n<4: yn00 only.
-source /home/labs/alevy/petrzhu/miniforge3/etc/profile.d/conda.sh
+source $(conda info --base)/etc/profile.d/conda.sh
 X=${GMO_ROOT}/analysis/dnds/extra; D=${GMO_ROOT}/analysis/dnds
 yn() { printf "seqfile = $1.codon.phy\noutfile = $1.yn00.out\nverbose = 0\nicode = 0\nweighting = 0\ncommonf3x4 = 0\n" > $1.yn00.ctl; yn00 $1.yn00.ctl > $1.yn00.log 2>&1; }
 one() {
