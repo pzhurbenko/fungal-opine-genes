@@ -1,0 +1,53 @@
+# Assembly name:  ASM2543356v1
+# Organism name:  Fusarium sp. Ph1 (ascomycete fungi)
+# Isolate:  Ph1
+# Taxid:          2898544
+# BioSample:      SAMN26804631
+# BioProject:     PRJNA782245
+# Submitter:      Academia Sinica
+# Date:           2022-10-03
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# WGS project:    JANGYC01
+# Assembly method: Flye v. 2.5
+# Expected final version: yes
+# Genome coverage: 192.88x
+# Sequencing technology: Oxford Nanopore GridION
+# GenBank assembly accession: GCA_025433565.1
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_025433595.1		Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+Ph1.chr04	assembled-molecule	4	Chromosome	CM046519.1	<>	na	Primary Assembly	5525115	na
+Ph1.chr05	assembled-molecule	5	Chromosome	CM046520.1	<>	na	Primary Assembly	4148469	na
+Ph1.chr07	assembled-molecule	7	Chromosome	CM046521.1	<>	na	Primary Assembly	3225437	na
+Ph1.chr08	assembled-molecule	8	Chromosome	CM046522.1	<>	na	Primary Assembly	3510005	na
+Ph1.chr09	assembled-molecule	9	Chromosome	CM046523.1	<>	na	Primary Assembly	3298798	na
+Ph1.chr10	assembled-molecule	10	Chromosome	CM046524.1	<>	na	Primary Assembly	2837136	na
+Ph1.chr11	assembled-molecule	11	Chromosome	CM046525.1	<>	na	Primary Assembly	2581989	na
+Ph1.chr13	assembled-molecule	13	Chromosome	CM046526.1	<>	na	Primary Assembly	879462	na
+Ph1.chr14	assembled-molecule	14	Chromosome	CM046527.1	<>	na	Primary Assembly	1139675	na
+Ph1.chr15	assembled-molecule	15	Chromosome	CM046528.1	<>	na	Primary Assembly	753480	na
+Ph1.chr01.1	unlocalized-scaffold	1	Chromosome	JANGYC010000001.1	<>	na	Primary Assembly	1135709	na
+Ph1.chr01.2	unlocalized-scaffold	1	Chromosome	JANGYC010000002.1	<>	na	Primary Assembly	5428158	na
+Ph1.chr02.1	unlocalized-scaffold	2	Chromosome	JANGYC010000003.1	<>	na	Primary Assembly	1995018	na
+Ph1.chr02.2	unlocalized-scaffold	2	Chromosome	JANGYC010000004.1	<>	na	Primary Assembly	1971232	na
+Ph1.chr02.3	unlocalized-scaffold	2	Chromosome	JANGYC010000005.1	<>	na	Primary Assembly	914740	na
+Ph1.chr03.1	unlocalized-scaffold	3	Chromosome	JANGYC010000006.1	<>	na	Primary Assembly	3834265	na
+Ph1.chr03.2	unlocalized-scaffold	3	Chromosome	JANGYC010000007.1	<>	na	Primary Assembly	1141531	na
+Ph1.chr06.1	unlocalized-scaffold	6	Chromosome	JANGYC010000010.1	<>	na	Primary Assembly	1320058	na
+Ph1.chr06.2	unlocalized-scaffold	6	Chromosome	JANGYC010000011.1	<>	na	Primary Assembly	2556119	na
+Ph1.chr12.1	unlocalized-scaffold	12	Chromosome	JANGYC010000017.1	<>	na	Primary Assembly	1173426	na
+Ph1.chr12.2	unlocalized-scaffold	12	Chromosome	JANGYC010000018.1	<>	na	Primary Assembly	1269191	na
+Ph1.chr12.3	unlocalized-scaffold	12	Chromosome	JANGYC010000019.1	<>	na	Primary Assembly	654239	na
+Ph1.scaf16	unplaced-scaffold	na	na	JANGYC010000023.1	<>	na	Primary Assembly	91089	na
+Ph1.scaf17	unplaced-scaffold	na	na	JANGYC010000024.1	<>	na	Primary Assembly	76470	na

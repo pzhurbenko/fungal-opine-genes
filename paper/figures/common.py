@@ -2,13 +2,13 @@ import sys as _sys, os as _os; _sys.path.insert(0, _os.path.abspath(_os.path.joi
 from gmo_paths import GMO_ROOT  # noqa: E402
 import csv,collections
 from Bio import Phylo
-TR=f'{GMO_ROOT}/analysis/report_A/trees'
+TR=f'{GMO_ROOT}/analysis/trees_final'
 SIX=['JBBPKL010003317','JBBPKL010018021','JBBPNB010000203','JBBPNB010000771','JBBPOG010012756','JBBPRY010001778']
 def load(fam):
-    rows=list(csv.DictReader(open(f'{TR}/{fam}_leaf_labels.tsv'),delimiter='\t'))
+    rows=list(csv.DictReader(open(f'{TR}/{fam}/{fam}_labels.tsv'),delimiter='\t'))
     L={}
     for x in rows:L.setdefault(x['label'],x)
-    t=Phylo.read(f'{TR}/{fam}_final_MAFFT_IQTREE.nwk','newick')
+    t=Phylo.read(f'{TR}/{fam}/{fam}.mafft.iqtree.treefile','newick')
     og=[l.name for l in t.get_terminals() if l.name.startswith('OG__')]
     t.root_with_outgroup(og)
     return t,L

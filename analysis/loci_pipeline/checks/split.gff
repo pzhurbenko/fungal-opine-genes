@@ -1,0 +1,11 @@
+##gff-version 3
+##PAF	FUNGI_acs_intact__ACS_JBBPKL010003317_L1__Boletellus_ananas	251	0	251	+	ACS_JBBPKL010003317_L1_ctx	7549	2971	3880	753	753	0	AS:i:1251	ms:i:1329	np:i:251	fs:i:0	st:i:0	da:i:15	do:i:6	cg:Z:15M51N209M108U26M	cs:Z::15~gt51ag:209*tS~gt105ag-cc:26
+ACS_JBBPKL010003317_L1_ctx	miniprot	mRNA	2972	3880	1329	+	.	ID=MP000001;Rank=1;Identity=1.0000;Positive=1.0000;Target=FUNGI_acs_intact__ACS_JBBPKL010003317_L1__Boletellus_ananas 1 251
+ACS_JBBPKL010003317_L1_ctx	miniprot	CDS	2972	3016	80	+	0	Parent=MP000001;Rank=1;Identity=1.0000;Target=FUNGI_acs_intact__ACS_JBBPKL010003317_L1__Boletellus_ananas 1 15
+ACS_JBBPKL010003317_L1_ctx	miniprot	CDS	3068	3695	1119	+	0	Parent=MP000001;Rank=1;Identity=1.0000;Target=FUNGI_acs_intact__ACS_JBBPKL010003317_L1__Boletellus_ananas 16 224
+ACS_JBBPKL010003317_L1_ctx	miniprot	CDS	3801	3880	130	+	2	Parent=MP000001;Rank=1;Identity=1.0000;Target=FUNGI_acs_intact__ACS_JBBPKL010003317_L1__Boletellus_ananas 225 251
+##PAF	FUNGI_mis_intact__CUS_JBBPKL010003317_S2L1__Boletellus_ananas	203	0	203	+	ACS_JBBPKL010003317_L1_ctx	7549	4171	5543	609	609	0	AS:i:966	ms:i:1030	np:i:203	fs:i:0	st:i:0	da:i:0	do:i:237	cg:Z:14M706N174M60U14M	cs:Z::14~gt706ag:174*gG~gt57ag-gc:14
+ACS_JBBPKL010003317_L1_ctx	miniprot	mRNA	4172	5543	1030	+	.	ID=MP000002;Rank=1;Identity=1.0000;Positive=1.0000;Target=FUNGI_mis_intact__CUS_JBBPKL010003317_S2L1__Boletellus_ananas 1 203
+ACS_JBBPKL010003317_L1_ctx	miniprot	CDS	4172	4213	71	+	0	Parent=MP000002;Rank=1;Identity=1.0000;Target=FUNGI_mis_intact__CUS_JBBPKL010003317_S2L1__Boletellus_ananas 1 14
+ACS_JBBPKL010003317_L1_ctx	miniprot	CDS	4920	5442	892	+	0	Parent=MP000002;Rank=1;Identity=1.0000;Target=FUNGI_mis_intact__CUS_JBBPKL010003317_S2L1__Boletellus_ananas 15 188
+ACS_JBBPKL010003317_L1_ctx	miniprot	CDS	5500	5543	67	+	2	Parent=MP000002;Rank=1;Identity=1.0000;Target=FUNGI_mis_intact__CUS_JBBPKL010003317_S2L1__Boletellus_ananas 189 203

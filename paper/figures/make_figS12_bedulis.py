@@ -1,7 +1,7 @@
 """Supplementary Figure S12: strain-specific insertion on the Boletus edulis contig JBBPRY010001778
 (read depth, 5.9-kb segment absent from the other assemblies, gene model, repeat|insertion junction).
 Formerly panel (b) of Figure 4. Run: MPLBACKEND=Agg python make_figS12_bedulis.py
-Data: analysis/report_A/data/bedulis_contig_depth.tsv, analysis/loci_pipeline/round2/loci/ACS_JBBPRY010001778_L1/augustus.gff3"""
+Data: analysis/read_coverage/bedulis_contig_depth.tsv, analysis/loci_pipeline/round2/loci/ACS_JBBPRY010001778_L1/augustus.gff3"""
 import sys as _sys, os as _os; _sys.path.insert(0, _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..', '..')))
 from gmo_paths import GMO_ROOT  # noqa: E402
 import csv, re
@@ -27,7 +27,7 @@ LM = 3.0
 def axcm(x, ytop, w, h, **kw):
     return fig.add_axes([x / FW, 1 - (ytop + h) / FH, w / FW, h / FH], **kw)
 y_b = 0.6
-dep = [int(l.split('\t')[2]) for l in open(f'{A}/report_A/data/bedulis_contig_depth.tsv')]
+dep = [int(l.split('\t')[2]) for l in open(f'{A}/read_coverage/bedulis_contig_depth.tsv')]
 n = len(dep); xk = np.arange(1, n + 1) / 1000
 w = 200; sm = np.convolve(dep, np.ones(w) / w, mode='same')
 wb = n / 1000

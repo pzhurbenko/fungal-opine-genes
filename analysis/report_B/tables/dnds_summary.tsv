@@ -1,3 +1,0 @@
-family	n_seqs	codon_sites	M0_omega	M7_lnL	M8_lnL	LRT_M7vsM8	p_M7vsM8	M8a_lnL	LRT_M8avsM8	p_M8avsM8	M8_positive_sites_BEB>0.95	yn00_median_dNdS	yn00_q90_dNdS	yn00_pairs
-SUS	31	85	0.24883	-3595.173028	-3595.173878	-0.00	1	-3592.39087	-5.57	1	0	0.290	0.566	464
-CUS	27	97	0.16294	-4105.179239	-4105.018548	0.32	0.852	-4104.172749	-1.69	1	0	0.283	0.511	347

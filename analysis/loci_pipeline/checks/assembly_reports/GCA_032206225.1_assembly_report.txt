@@ -1,0 +1,80 @@
+# Assembly name:  FOAM13_A1
+# Organism name:  Fusarium oxysporum f. sp. albedinis (ascomycete fungi)
+# Infraspecific name:  strain=Foa 44
+# Taxid:          72712
+# BioSample:      SAMN15893572
+# BioProject:     PRJNA658960
+# Submitter:      INRA, Unite de Recherche en Biotechnologie
+# Date:           2024-08-12
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# WGS project:    JACSDM01
+# Assembly method: MaSuRCA v. 3.4.0
+# Expected final version: No
+# Reference guided assembly: GCF_000149955.1
+# Genome coverage: 400.0x
+# Sequencing technology: Illumina NovaSeq; Oxford Nanopore MinION
+# GenBank assembly accession: GCA_032206225.1
+#
+## Assembly-Unit names:
+## Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+Chr_1	assembled-molecule	I	Chromosome	CM083089.1	<>	na	Primary Assembly	6425555	na
+Chr_2	assembled-molecule	II	Chromosome	CM083090.1	<>	na	Primary Assembly	4959882	na
+Chr_4	assembled-molecule	IV	Chromosome	CM083091.1	<>	na	Primary Assembly	5533475	na
+Chr_5	assembled-molecule	V	Chromosome	CM083092.1	<>	na	Primary Assembly	5216386	na
+Chr_7	assembled-molecule	VII	Chromosome	CM083093.1	<>	na	Primary Assembly	4524080	na
+Chr_8	assembled-molecule	VIII	Chromosome	CM083094.1	<>	na	Primary Assembly	4061178	na
+Chr_9	assembled-molecule	IX	Chromosome	CM083095.1	<>	na	Primary Assembly	3585837	na
+Chr_10	assembled-molecule	X	Chromosome	CM083096.1	<>	na	Primary Assembly	2988737	na
+Chr_11	assembled-molecule	XI	Chromosome	CM083097.1	<>	na	Primary Assembly	3366405	na
+Chr_12	assembled-molecule	XII	Chromosome	CM083098.1	<>	na	Primary Assembly	2470664	na
+Chr_13	assembled-molecule	XIII	Chromosome	CM083099.1	<>	na	Primary Assembly	1939190	na
+Contig9	unplaced-scaffold	na	na	JACSDM010000005.1	<>	na	Primary Assembly	719069	na
+Contig4	unplaced-scaffold	na	na	JACSDM010000013.1	<>	na	Primary Assembly	219773	na
+Contig19	unplaced-scaffold	na	na	JACSDM010000014.1	<>	na	Primary Assembly	98062	na
+Contig32	unplaced-scaffold	na	na	JACSDM010000015.1	<>	na	Primary Assembly	739887	na
+Contig52	unplaced-scaffold	na	na	JACSDM010000016.1	<>	na	Primary Assembly	253508	na
+Contig1	unplaced-scaffold	na	na	JACSDM010000017.1	<>	na	Primary Assembly	4552110	na
+Contig3	unplaced-scaffold	na	na	JACSDM010000018.1	<>	na	Primary Assembly	106397	na
+Contig7	unplaced-scaffold	na	na	JACSDM010000019.1	<>	na	Primary Assembly	348103	na
+Contig8	unplaced-scaffold	na	na	JACSDM010000020.1	<>	na	Primary Assembly	292509	na
+Contig11	unplaced-scaffold	na	na	JACSDM010000021.1	<>	na	Primary Assembly	16957	na
+Contig12	unplaced-scaffold	na	na	JACSDM010000022.1	<>	na	Primary Assembly	1460290	na
+Contig15	unplaced-scaffold	na	na	JACSDM010000023.1	<>	na	Primary Assembly	111937	na
+Contig17	unplaced-scaffold	na	na	JACSDM010000024.1	<>	na	Primary Assembly	52541	na
+Contig18	unplaced-scaffold	na	na	JACSDM010000025.1	<>	na	Primary Assembly	17615	na
+Contig20	unplaced-scaffold	na	na	JACSDM010000026.1	<>	na	Primary Assembly	11931	na
+Contig21	unplaced-scaffold	na	na	JACSDM010000027.1	<>	na	Primary Assembly	1075255	na
+Contig22	unplaced-scaffold	na	na	JACSDM010000028.1	<>	na	Primary Assembly	172767	na
+Contig23	unplaced-scaffold	na	na	JACSDM010000029.1	<>	na	Primary Assembly	416687	na
+Contig24	unplaced-scaffold	na	na	JACSDM010000030.1	<>	na	Primary Assembly	1447900	na
+Contig25	unplaced-scaffold	na	na	JACSDM010000031.1	<>	na	Primary Assembly	619460	na
+Contig26	unplaced-scaffold	na	na	JACSDM010000032.1	<>	na	Primary Assembly	176448	na
+Contig29	unplaced-scaffold	na	na	JACSDM010000033.1	<>	na	Primary Assembly	31891	na
+Contig31	unplaced-scaffold	na	na	JACSDM010000034.1	<>	na	Primary Assembly	31723	na
+Contig33	unplaced-scaffold	na	na	JACSDM010000035.1	<>	na	Primary Assembly	825899	na
+Contig34	unplaced-scaffold	na	na	JACSDM010000036.1	<>	na	Primary Assembly	392264	na
+Contig36	unplaced-scaffold	na	na	JACSDM010000037.1	<>	na	Primary Assembly	335227	na
+Contig38	unplaced-scaffold	na	na	JACSDM010000038.1	<>	na	Primary Assembly	49972	na
+Contig42	unplaced-scaffold	na	na	JACSDM010000039.1	<>	na	Primary Assembly	402445	na
+Contig46	unplaced-scaffold	na	na	JACSDM010000040.1	<>	na	Primary Assembly	209928	na
+Contig49	unplaced-scaffold	na	na	JACSDM010000041.1	<>	na	Primary Assembly	105261	na
+Contig50	unplaced-scaffold	na	na	JACSDM010000042.1	<>	na	Primary Assembly	31418	na
+Contig51	unplaced-scaffold	na	na	JACSDM010000043.1	<>	na	Primary Assembly	18547	na
+Contig54	unplaced-scaffold	na	na	JACSDM010000044.1	<>	na	Primary Assembly	55591	na
+Contig56	unplaced-scaffold	na	na	JACSDM010000045.1	<>	na	Primary Assembly	574674	na
+Contig59	unplaced-scaffold	na	na	JACSDM010000046.1	<>	na	Primary Assembly	249782	na
+Contig62	unplaced-scaffold	na	na	JACSDM010000047.1	<>	na	Primary Assembly	559280	na
+Contig65	unplaced-scaffold	na	na	JACSDM010000048.1	<>	na	Primary Assembly	762702	na
+Contig67	unplaced-scaffold	na	na	JACSDM010000049.1	<>	na	Primary Assembly	28777	na
+Contig68	unplaced-scaffold	na	na	JACSDM010000050.1	<>	na	Primary Assembly	2224524	na
+Contig69	unplaced-scaffold	na	na	JACSDM010000051.1	<>	na	Primary Assembly	1101325	na

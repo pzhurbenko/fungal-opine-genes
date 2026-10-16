@@ -1,10 +1,6 @@
-# Extended methods — Opine metabolism genes of rhizobial origin in fungal genomes
+# Opine metabolism genes horizontally transferred into fungal genomes
 
-This file is the full, parameter-level description of the methods (version of 2026-10-13, synchronised with
-manuscript v16). It accompanies the code in the project repository and the Supplementary Materials and is meant
-for anyone who wants to reproduce the analysis: every threshold, its sensitivity analysis, the borderline cases
-and the exact program settings are given here. Section numbers follow Section 2 of the manuscript; references
-[M1]–[M26] are listed at the end of this file.
+This document is the full, parameter-level description of the methods behind the article; section numbers follow Section 2 of the article; it accompanies the code in this repository.
 
 ### 2.1. Seed proteins and protein-level screen
 

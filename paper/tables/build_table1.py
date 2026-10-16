@@ -2,14 +2,14 @@
 """Build TableS1_loci_catalog.tsv, Table1_lineages.tsv, numbers_for_text.txt (+ lineage_check.tsv).
 Run: python3 build_table1.py   (needs Biopython; no heavy compute)
 
-Lineage rules (trees: analysis/report_A/trees/<FAM>_final_MAFFT_IQTREE.nwk, rooted on the OG__ leaves):
+Lineage rules (trees: analysis/trees_final/<FAM>/<FAM>.mafft.iqtree.treefile, rooted on the OG__ leaves):
  SUS: 'sus-like (T-DNA type)' = MRCA of all REF_sus leaves.  Other fungal leaves -> 'OCD-like, outside T-DNA sus clade'.
  CUS: 'cus-like (T-DNA type)' = MRCA(REF_cus); 'actinobacterial-type' = MRCA(FUNGI_cus_actinobacteria leaves)
       (pure fungal clade); 'mis lineage' = MRCA(FUNGI_mis leaves) (also contains the HMM-cusrel181 fungal leaves);
       remaining fungal leaves -> 'other bacterial-type CUS'.
  ACS: 'T-DNA acs clade' = MRCA(REF_acs without Parasponia PON40589) (expected: no fungi);
       'acc-type GDPD' = MRCA(REF_gdpd_meso); 'pKerr14a-type acs-like' = the six Boletales leaves
-      (contig list from analysis/trees_final/au_lineage_acs.py) + 13 non-tree loci listed in report_A carriers_tree_based.tsv;
+      (contig list from analysis/trees_final/au_lineage_acs.py) + 13 non-tree loci listed in analysis/funnel/carriers_tree_based.tsv;
       'native fungal GDPD' = all remaining FUNGI_acs leaves (94-leaf pure clade + 25 elsewhere).
  Duplicate loci (leaf_labels row whose label is the tree leaf of a representative) inherit the representative's clade.
 """
@@ -20,12 +20,12 @@ from Bio import Phylo
 
 G = f'{GMO_ROOT}'
 OUT = f'{G}/paper/tables'
-TR = f'{G}/analysis/report_A/trees'
+TR = f'{G}/analysis/trees_final'
 LT = f'{G}/analysis/loci_pipeline/round2/loci_table.tsv'
 ADD = f'{G}/analysis/loci_pipeline/addenda/loci_added_20261006.tsv'
 CLU = f'{G}/analysis/boletales_mash_517/clusters.tsv'
-CAR = f'{G}/analysis/report_A/tables/carriers_tree_based.tsv'
-CSUM = f'{G}/analysis/report_A/tables/carriers_summary.tsv'
+CAR = f'{G}/analysis/funnel/carriers_tree_based.tsv'
+CSUM = f'{G}/analysis/funnel/carriers_summary.tsv'
 REG = [f'{G}/analysis/loci_pipeline/registry/loci.tsv', f'{G}/analysis/loci_pipeline/registry/loci_step2_added.tsv']
 BLAST = f'{G}/data/tsv/merged/all_blast_stats.tsv'
 
@@ -37,7 +37,7 @@ NOTPLACED = {  # HMM subgroup -> name used when locus is not on the tree
  'rcorf12': 'rcorf12', 'cus_betaproteobacteria': 'other bacterial-type CUS (beta-proteobacteria)', 'cus_other_bacteria': 'other bacterial-type CUS',
  'ocd_other_bacteria': 'OCD-like bacterial', 'OUTGROUP': 'outgroup-HMM', '': 'no HMM subgroup'}
 NOTHOM = 'not a homolog'
-QUAR = {'CUS_JBBPKX010002805_L1': 'quarantined: native fungal gene'}  # report_A/tables/quarantine.tsv (2026-09-07)
+QUAR = {'CUS_JBBPKX010002805_L1': 'quarantined: native fungal gene'}  # analysis/curated/quarantine.tsv (2026-09-07)
 ORDER_LIN = ['sus-like (T-DNA type)', 'cus-like (T-DNA type)', 'acc-type GDPD', 'pKerr14a-type acs-like']
 MAIN = [('SUS','sus-like (T-DNA type)','T-DNA'),('CUS','cus-like (T-DNA type)','T-DNA'),('CUS','mis lineage','T-DNA, direction unresolved'),
  ('CUS','actinobacterial-type','bacterial, non-rhizobial'),('ACS','acc-type GDPD','acc-like catabolic locus'),('ACS','pKerr14a-type acs-like','Ti-type plasmid pKerr14a'),
@@ -45,8 +45,8 @@ MAIN = [('SUS','sus-like (T-DNA type)','T-DNA'),('CUS','cus-like (T-DNA type)','
 
 # ---------------- tree-based clade assignment ----------------
 def load_tree(fam):
-    rows = rd(f'{TR}/{fam}_leaf_labels.tsv')
-    t = Phylo.read(f'{TR}/{fam}_final_MAFFT_IQTREE.nwk', 'newick')
+    rows = rd(f'{TR}/{fam}/{fam}_labels.tsv')
+    t = Phylo.read(f'{TR}/{fam}/{fam}.mafft.iqtree.treefile', 'newick')
     L = {}
     for x in rows: L.setdefault(x['label'], x)
     og = [l.name for l in t.get_terminals() if l.name.startswith('OG__')]
@@ -116,7 +116,7 @@ def main():
     lt = rd(LT); add = rd(ADD)
     lt = [r for r in lt if r['fam'] != 'ORF358']
     for r in add: r['_added'] = 1
-    # report_A carriers
+    # carriers table
     car = {r['locus_id']: r['lineage'] for r in rd(CAR)}
     # clusters
     gca2sp, gca2cl = {}, {}
@@ -218,7 +218,7 @@ def summarize(out):
     N.append(f"Homologs placed on tree (basis=tree): {sum(1 for r in out if r['basis']=='tree')}; hmm_only homologs: {sum(1 for r in hom if r['basis']=='hmm_only')}; similarity: {sum(1 for r in out if r['basis']=='similarity')}")
     N.append('\nPer lineage (all loci): loci / intact / genomes / species')
     for l in allrows: N.append(f"  {l['family']} | {l['lineage_final']}: {l['n_loci']} / {l['intact']} / {l['n_genomes']} / {l['n_species']}")
-    N.append('\nFour paper lineages, tree-placed + listed non-tree (as in report_A): outside Boletales')
+    N.append('\nFour paper lineages, tree-placed + listed non-tree (as in funnel/carriers_tree_based.tsv): outside Boletales')
     for lin in ORDER_LIN:
         rs = [r for r in out if r['lineage_final'] == lin]
         nb = [r for r in rs if r['order'] != 'Boletales']

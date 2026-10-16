@@ -8,13 +8,13 @@ copied, never moved or edited; this directory (`GMO/repo/`) holds copies only. N
 | In repo | Source | Rule |
 |---|---|---|
 | `pipeline/` | `pipeline/` | all files except `__pycache__`; `scripts/common.py` and `run_pipeline.sh` got a small edit (below); `README.md` translated to English |
-| `analysis/<dir>` | `analysis/<dir>` | in-paper folders of inventory section 2: refset/{plasmids,hmm_v0,neighbourhood,screen/{seeds_ext,step2,step3,tdna_hmm}} + refset/step2/queries*.faa + outgroup json, loci_pipeline/{addenda,guides,registry,round2 (tables only, plus `loci/ACS_JBBPRY010001778_L1/augustus.gff3`)}, trees_final, chs_fusarium, fusarium_odh_island, pleurotus_gdpd, fold, dnds, composition, conservation, islands, island_order, synteny/islands_hq, indep_assemblies, read_coverage, expression, boletales_mash_517, thresholds, funnel, ctdna_plants_identity, report_A, report_B, clustering/scripts, curated/*.fasta |
+| `analysis/<dir>` | `analysis/<dir>` | in-paper folders of inventory section 2: refset/{plasmids,hmm_v0,neighbourhood,screen/{seeds_ext,step2,step3,tdna_hmm}} + refset/step2/queries*.faa + outgroup json, loci_pipeline/{addenda,guides,registry,round2 (tables only, plus `loci/ACS_JBBPRY010001778_L1/augustus.gff3`)}, trees_final, chs_fusarium, fusarium_odh_island, pleurotus_gdpd, fold, dnds, composition, conservation, islands, island_order, synteny/islands_hq, indep_assemblies, read_coverage, expression, boletales_mash_517, thresholds, funnel, ctdna_plants_identity, curated/*.fasta (report_A, report_B, clustering and conservation were removed on 2026-10-16, see the last section) |
 | file filter | | code (`.py .sh .R .yaml .md`) and small data (`.tsv .txt .faa .fasta .aln .json .jsonl .nwk .treefile .iqtree .fna .gff .gff3 .csv .ctl .phy .nex`) up to 400 KB; explicit larger inclusions: `all_screen.hmm` (8.9 MB), `funnel_grid.tsv`, `all_blast_stats.tsv`, `seeds_ext_best.tsv`, `reciprocal.tsv`, `round2/loci_table.tsv`, `step2_family_calls.tsv`, `registry/loci.tsv`, `step3/proteomes.txt`, `step3/genome_meta.tsv`, `plasmids/cds_table.tsv`, `islands_genes.tsv`, `donor/NZ_JAVIZC010000002.1.gb`, `boletales517_ncbi_summary.jsonl`, `TableS1b`, `TableS1_*` catalogue inputs, `Data_S1` |
 | `data/` | `data/tsv/merged/all_blast_stats.tsv`, `data/tsv/rep_seqs/*.tsv`, `data/fungal_genomes/{gca_list.txt,fusarium/gca_list.txt,boletales_all/accessions_20261006.tsv}`, `data/fungal_proteomes/download.sh` | accession lists and pipeline inputs only |
 | `paper/figures`, `paper/tables`, `paper/supplementary` | `paper/...` | build scripts, `common.py`, `export_tiff.py`, small inputs, supplementary tables S1-S17, Data S1/S3, `supplementary/data/trees`; no PNG/PDF/SVG/TIFF, no docx/xlsx |
-| `paper/manuscript_v2/` | `paper/manuscript_v2/` | `build_manuscript_v2.py`, `build_docx.py`, `build_references.py` only; `paper/build_paper_html.py` |
-| `paper/rebuild_all.sh` | `paper/rebuild_all.sh` | manuscript steps wrapped in `if [ -f $P/draft_v2_methods.md ]` because the manuscript text is not shipped |
-| `docs/methods_extended.md` | `paper/manuscript_v2/methods_extended.md` | |
+| `paper/manuscript_v2/` | `paper/manuscript_v2/` | (removed 2026-10-16: manuscript-text tooling is not part of the repository) |
+| `paper/rebuild_all.sh` | `paper/rebuild_all.sh` | figures and supplementary only (manuscript steps removed 2026-10-16) |
+| `docs/methods_extended.md` | `paper/manuscript_v2/methods_extended.md` (working project) | |
 | `env/` | `conda env export` of annot, phylo_env, mashtree_env, minimap2_env, colabfold, PlantCad2, orthofinder, hmmer_pfam | `<env>.yml` = `--from-history`, `<env>.pinned.yml` = `--no-builds` |
 | `LICENSE`, `LICENSE-DATA`, `.gitignore`, `README.md`, `gmo_paths.py` | written new | |
 
@@ -51,7 +51,7 @@ boletales_mash_517, seeds11, `analysis/trees`, `analysis/loci`, `my_code`, all `
 * Outputs with no generating script (inventory section 6): `reciprocal/table1_stats_dedup.tsv`, chs/odh `reverse_search_summary.tsv`,
   odh `expression/runs_meta.tsv`, chs `expression/summary.tsv`, CUS `lineage_nb` AU constraints, MMseqs2 clustering and `tdna_hmm` building,
   `boletales517_ncbi_summary.jsonl` (an `datasets summary genome accession` dump), the data-trees tarball. They are shipped as data; scripts still to be written or documented.
-* `analysis/quarantine/quarantine.tsv` (512 bytes, read by the pipeline config) was copied as the single exception to the "no quarantine/" rule; remove it and the
+* (moved to `analysis/curated/quarantine.tsv` on 2026-10-16) `analysis/quarantine/quarantine.tsv` (512 bytes, read by the pipeline config) was copied as the single exception to the "no quarantine/" rule; remove it and the
   `quarantine_tsv` key if undesired.
 * `analysis/pfam/Pfam-A.hmm` and an nr DIAMOND database are referenced by scripts but not shipped; `README.md` says where they must be.
 * `refset/step2/queries.faa` count (389 vs 388 in Methods) still to be checked, as in the inventory.
@@ -99,3 +99,18 @@ Same filters and path replacement (script kept outside the repo). Changed or add
 * `analysis/dnds/extra/`: the four `*_conf` sets (loci with confirmed or supported integration only), `prep_conf.py`, `run_conf.sh`, `run_yn00pw_conf.sh`, updated `summary.tsv`.
 * `docs/methods_extended.md`: synchronised with manuscript v16 (section numbers 2.1-2.11, integration-status rules, filtered dN/dS sets, references [M1]-[M26]).
 * `paper/manuscript_v2/build_manuscript_v2.py`: current builder. Manuscript text and PNG figures are still not shipped.
+
+## Cleanup 2026-10-16 (repository limited to what is needed to reproduce the published analyses)
+
+Removed: `analysis/report_A`, `analysis/report_B`, `analysis/quarantine`, `analysis/data_checks_20261013`, `analysis/synteny`, `analysis/clustering`,
+`analysis/conservation`, `paper/manuscript_v2`, `paper/build_paper_html.py`. Files that remaining scripts read were relocated first:
+* tables of the carriers (`carriers_tree_based.tsv`, `carriers_summary.tsv`, `accessions.tsv`) -> `analysis/funnel/`;
+  `island_JAHRGV010000066_genes.tsv` -> `analysis/islands/`; `bedulis_contig_depth.tsv` -> `analysis/read_coverage/`;
+  `CUS_AU_test_per_lineage.iqtree.txt` -> `analysis/trees_final/CUS/`; `quarantine.tsv` -> `analysis/curated/` (the `quarantine_tsv` key of the pipeline configs follows);
+  `split.gff` and `assembly_reports/` (copied from the working project) -> `analysis/loci_pipeline/checks/`.
+* byte-identical copies already present elsewhere are used instead of duplicates: trees and leaf labels -> `analysis/trees_final/<FAM>/<FAM>.mafft.iqtree.treefile`, `<FAM>_labels.tsv`;
+  SUS/ACS AU reports -> `trees_final/SUS/SUS.AU.iqtree`, `trees_final/ACS/ACS.lineage.AU.iqtree`; `island_gene_order.tsv` -> `analysis/island_order/`;
+  `dnds_summary.tsv` -> `analysis/dnds/`; `expression_summary.tsv` -> `analysis/expression/`; `locus_coverage.tsv` -> `analysis/read_coverage/`;
+  `contig_reproducibility.tsv` -> `analysis/indep_assemblies/`.
+* `build_supplementary.py` takes `Extended_Methods.md` from `docs/methods_extended.md`.
+Added: `analysis/susD_screen/`, `paper/figures/make_graphical_abstract_v2.py`, `docs/thresholds.md`.

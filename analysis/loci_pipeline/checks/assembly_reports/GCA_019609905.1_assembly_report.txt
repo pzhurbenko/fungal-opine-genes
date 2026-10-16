@@ -1,0 +1,46 @@
+# Assembly name:  ASM1960990v1
+# Organism name:  Fusarium poae (ascomycete fungi)
+# Infraspecific name:  strain=DAOMC 252244
+# Taxid:          36050
+# BioSample:      SAMN13054494
+# BioProject:     PRJNA578270
+# Submitter:      Agriculture and Agri-Food Canada
+# Date:           2021-08-19
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# WGS project:    WOUF01
+# Assembly method: Canu v. 1.8
+# Expected final version: No
+# Genome coverage: 161.0x
+# Sequencing technology: Oxford Nanopore; Illumina NextSeq
+# RefSeq category: Reference Genome
+# GenBank assembly accession: GCA_019609905.1
+# RefSeq assembly accession: GCF_019609905.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_019609915.1	GCF_019609915.1	Primary Assembly
+## GCA_019609925.1	GCF_019609925.1	non-nuclear
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+Chr1	assembled-molecule	1	Chromosome	CM033785.1	=	NC_058399.1	Primary Assembly	12123814	na
+Chr2	assembled-molecule	2	Chromosome	CM033786.1	=	NC_058400.1	Primary Assembly	9989830	na
+Chr3	assembled-molecule	3	Chromosome	CM033787.1	=	NC_058401.1	Primary Assembly	8051089	na
+Chr4	assembled-molecule	4	Chromosome	CM033788.1	=	NC_058402.1	Primary Assembly	8366728	na
+contig_1	unplaced-scaffold	na	na	WOUF01000005.1	=	NW_025408659.1	Primary Assembly	1877593	na
+contig_2	unplaced-scaffold	na	na	WOUF01000006.1	=	NW_025408660.1	Primary Assembly	1457426	na
+contig_3	unplaced-scaffold	na	na	WOUF01000007.1	=	NW_025408661.1	Primary Assembly	865838	na
+contig_4	unplaced-scaffold	na	na	WOUF01000008.1	=	NW_025408662.1	Primary Assembly	578794	na
+contig_6	unplaced-scaffold	na	na	WOUF01000010.1	=	NW_025408663.1	Primary Assembly	169837	na
+contig_7	unplaced-scaffold	na	na	WOUF01000011.1	=	NW_025408664.1	Primary Assembly	155888	na
+contig_8	unplaced-scaffold	na	na	WOUF01000012.1	=	NW_025408665.1	Primary Assembly	122757	na
+contig_9	unplaced-scaffold	na	na	WOUF01000013.1	=	NW_025408666.1	Primary Assembly	100057	na
+contig_5	assembled-molecule	MT	Mitochondrion	CM033789.1	=	NW_025408658.1	non-nuclear	140862	na

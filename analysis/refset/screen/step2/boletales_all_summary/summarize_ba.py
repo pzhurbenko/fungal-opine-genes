@@ -5,7 +5,7 @@ import re,os,csv
 from collections import defaultdict,Counter
 D=f'{GMO_ROOT}/analysis/refset/screen/step2'; OUT=f'{D}/boletales_all_summary'
 ACC=f'{GMO_ROOT}/data/fungal_genomes/boletales_all/accessions_20261006.tsv'
-CAR=f'{GMO_ROOT}/analysis/report_A/tables/carriers_tree_based.tsv'
+CAR=f'{GMO_ROOT}/analysis/funnel/carriers_tree_based.tsv'
 GAP=5000; FAMS=['ACS','CUS','SUS']; SUBS=['sus','cus','gdpd_meso','kerr14','acs','mis','cusrel181','rcorf12']
 CONTAM_PID=60.0; BACK=('vir','tra','rep_partition','mobile')
 def ps(s):

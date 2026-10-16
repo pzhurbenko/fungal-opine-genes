@@ -15,7 +15,7 @@ Rules (a locus gets the first matching class). 2026-10-13ak, review v14 point 1:
    R   reproduced with flanks in an independent assembly (S9: locus covered >=0.5 and both flanks covered >=0.5)
    D2  read depth ratio (S8 locus_depth_ratio) 0.5-2 AND junction reads (S8) > 0 on both flanks
    CHR (any assembly level, incl. 'Complete Genome'; the criterion is the sequence role) locus on an assembled-molecule sequence with Assigned-Molecule-Location/Type == Chromosome in the NCBI assembly report
-       (analysis/data_checks_20261013/assembly_reports/; S13a/S13b sequences), >= 1 kb from both contig ends, not SHORT/EDGE.
+       (analysis/loci_pipeline/checks/assembly_reports/; S13a/S13b sequences), >= 1 kb from both contig ends, not SHORT/EDGE.
        Unlocalized / unplaced scaffolds and sequences without a downloaded report are not verified and get no CHR (they may get LONG).
  uncertain (first override; applies if not confirmed) =
    SHORT  contig shorter than locus length + 2 kb (1 kb on either side)
@@ -97,7 +97,7 @@ def sides(o):
 
 # CHR: assembled-molecule Chromosome sequences from the NCBI assembly reports (six chromosome-level Fusarium assemblies)
 chrom = set()
-for fn in glob.glob(G + 'data_checks_20261013/assembly_reports/*_assembly_report.txt'):
+for fn in glob.glob(G + 'loci_pipeline/checks/assembly_reports/*_assembly_report.txt'):
     for l in open(fn):
         f = l.rstrip('\n').split('\t')
         if not l.startswith('#') and len(f) > 4 and f[1] == 'assembled-molecule' and f[3] == 'Chromosome': chrom.add(nrm(f[4]))

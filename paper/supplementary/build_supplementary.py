@@ -296,7 +296,7 @@ for c in cl:
     for g in c["genomes"].split(";"):
         g2c[g] = c
 acc1 = {r["accession"]: r for r in rd(G + "/data/fungal_genomes/boletales_all/accessions_20261006.tsv")}
-accA = {r["GCA"]: r for r in rd(A + "/report_A/tables/accessions.tsv")}
+accA = {r["GCA"]: r for r in rd(A + "/funnel/accessions.tsv")}
 NOSL = "nos-subfamily opine dehydrogenase (Boletales)"
 LINS = ["sus-like", "cus-like", "acc-type GDPD", "pKerr14a-type acs-like", NOSL]
 PRI = {"intact": 3, "pseudogene": 2, "fragment": 1}
@@ -460,8 +460,8 @@ REFHYP = {"CUS_bm": "unconstrained maximum-likelihood tree (reference; separate 
           "SUS_nat": "unconstrained maximum-likelihood tree (reference; separate test set with the native fungal OCD-fold constraints for the sus-like genes; constraints 1-2 above re-tested here gave p = 0.26 and 5.9e-06)",
           "NOS_nat": "unconstrained maximum-likelihood tree (reference; separate test set with the native fungal opine dehydrogenase constraints; constraints 1-3 of the first set re-tested here gave p = 0.0034, 0.0091 and 0.32)",
           "NOS_rh": "unconstrained maximum-likelihood tree (reference; separate test set for the Rhypophila genes and the native fungal opine dehydrogenases; constraints 1-5 of the first two sets re-tested here gave p = 0.0030, 0.0123, 0.34, 3.8e-44 and 1.2e-07)"}
-FILES = {"SUS": A + "/report_A/trees/SUS_AU_test.iqtree.txt", "SUS_nat": A + "/trees_final/SUS/au_sus_native/au_sus_native.iqtree", "ACS": A + "/report_A/trees/ACS_AU_test_per_lineage.iqtree.txt",
-         "CUS": A + "/report_A/trees/CUS_AU_test_per_lineage.iqtree.txt",
+FILES = {"SUS": A + "/trees_final/SUS/SUS.AU.iqtree", "SUS_nat": A + "/trees_final/SUS/au_sus_native/au_sus_native.iqtree", "ACS": A + "/trees_final/ACS/ACS.lineage.AU.iqtree",
+         "CUS": A + "/trees_final/CUS/CUS_AU_test_per_lineage.iqtree.txt",
          "CUS_nb": A + "/trees_final/CUS/CUS.lineage_nb.AU.iqtree",
          "CHS": A + "/chs_fusarium/au/au_test.iqtree",
          "CHS_nest": A + "/chs_fusarium/au_nested/au_nested.iqtree",
@@ -520,7 +520,7 @@ _MAPDESC = {"constraint_id": "Identifier of the constraint (run code and tree nu
 add("S5b", "Mapping of the AU constraints to the biological alternatives they test", _leg, _map, [(c, c, _MAPDESC.get(c, c.replace("_", " "))) for c in _map[0].keys()])
 
 # ---------------------------------------------------------------- S6
-cov = [r for r in rd(A + "/report_A/tables/locus_coverage.tsv") if r["fam"] in FAM]
+cov = [r for r in rd(A + "/read_coverage/locus_coverage.tsv") if r["fam"] in FAM]
 ln_of = {r["locus_id"]: r["lineage"] for r in S1}
 for r in cov:
     r["lineage"] = ln_of.get(r["locus"], "")
@@ -546,7 +546,7 @@ add("S6", "Read depth at the loci",
         ("mapq_contig", "mean_mapq_contig", "Mean mapping quality on the contig")])
 
 # ---------------------------------------------------------------- S7
-rep = [r for r in rd(A + "/report_A/tables/contig_reproducibility.tsv") if "ORF358" not in r["loci"]]
+rep = [r for r in rd(A + "/indep_assemblies/contig_reproducibility.tsv") if "ORF358" not in r["loci"]]
 add("S7", "Reproducibility of loci in independent assemblies",
     "The loci are reproduced in independent assemblies of the same species: for loci-bearing contigs of one assembly, the best matching sequence in an independent assembly of the same species and "
     "how much of the contig, the locus and its flanks is covered.",
@@ -561,7 +561,7 @@ add("S7", "Reproducibility of loci in independent assemblies",
         ("right_flank_covered", "right_flank_covered_fraction", "Fraction of the right flank covered")])
 
 # ---------------------------------------------------------------- S8
-isl = rd(A + "/report_B/tables/island_gene_order.tsv")
+isl = rd(A + "/island_order/island_gene_order.tsv")
 for r in isl:
     k = r["kind"]
     if k == "neighbor":
@@ -589,7 +589,7 @@ add("S8", "Gene content of the islands",
         ("evalue", "evalue", "E-value of the match"), ("note", "note", "Comment on the row")])
 
 # ---------------------------------------------------------------- S9
-dn = rd(A + "/report_B/tables/dnds_summary.tsv")
+dn = rd(A + "/dnds/dnds_summary.tsv")
 add("S9a", "Selection analysis (dN/dS)",
     "Codon-model (PAML codeml/yn00) tests of selection on sequence sets of each family.",
     dn, [
@@ -751,7 +751,7 @@ add("S12c", "RNA-seq of Fusarium: expression of the chs-like locus",
         ("target_breadth", "locus_breadth", "Fraction of the locus covered by reads")])
 
 # ---------------------------------------------------------------- S13
-ex = [r for r in rd(A + "/report_B/tables/expression_summary.tsv") if r["fam"] in FAM and "ORF358" not in r["locus"]]
+ex = [r for r in rd(A + "/expression/expression_summary.tsv") if r["fam"] in FAM and "ORF358" not in r["locus"]]
 for r in ex:
     r["lineage"] = ln_of.get(r["locus"], "")
 add("S13", "RNA-seq of Boletaceae: expression of the loci",
@@ -903,7 +903,7 @@ s16b_spec = [
 for tid, title, desc, rows, spec in [
         ("S15a", "Classification thresholds and their sensitivity",
          "Every threshold used to classify proteins, loci and contigs, with the reason for its value and the range of values over which the result is unchanged "
-         "(the classification was recomputed over a grid of values; the distributions are shown in Figure S1). One row per threshold.", s16a, s16a_spec),
+         "(the classification was repeated over a grid of values; the distributions are shown in Figure S1). One row per threshold.", s16a, s16a_spec),
         ("S15b", "Contaminant and control contigs",
          "Contigs carrying the 11 probable contaminants of the protein-level screen (>=90% identity to a non-rhizobial bacterial protein) and 43 control contigs carrying loci of the catalogue: "
          "composition, gene density and plasmid maintenance and transfer genes (vir, tra, rep). None of the contaminant contigs carries Ti/Ri plasmid vir, tra or rep genes (best identity <=31.6%). "
@@ -1091,7 +1091,7 @@ for _k, (_h, _sq) in read_fa(A + "/dnds/extra/cus_nonBol/cus_nonBol.pep.faa").it
     if _k in ("CUS_JBZWEJ010000015_A1", "CUS_OZ188520_A1"): prof_prot[_k] = (_sq, "ncbi_annotation")
 assert sum(1 for v in prof_prot.values() if v[1] == "ncbi_annotation") == 2
 # 2026-10-13w: JBBPKL010003317 - the merged AUGUSTUS model (657 aa) is replaced by the two proteins split by the HMM envelope (251 aa GDPD, 203 aa mis);
-# coordinates re-derived with miniprot (analysis/data_checks_20261013/work/split.gff)
+# coordinates re-derived with miniprot (analysis/loci_pipeline/checks/split.gff)
 SPLIT_SEQ = {}
 for _l in open(A + "/curated/split_models/JBBPKL010003317_ACS_CUS_split_by_HMM_envelope.faa"):
     _l = _l.rstrip()
@@ -1204,7 +1204,7 @@ add("S1a", "Loci of bacterial origin",
     "with coordinates, structural status, the route of detection and the supplementary tables in which the locus appears. "
     "The %d additional fragments and remnants of the same lineages assigned by HMM profile only (not placed on a tree) are listed in Table S1b "
     "(lineage_of_bacterial_origin = True, lineage with the suffix '(profile only)'). Protein sequences in Data S1 (%d of the %d loci)." % (len(s1a), n_frag, n_prot, len(s1a)) +
-    " Integration status (column integration_status), assigned by fixed rules (Methods 2.5; script paper/tables/integration_status.py of the code repository, per-locus rule tags in integration_status.tsv) "
+    " Integration status (column integration_status), assigned by fixed rules (Methods 2.5) "
     "from the per-neighbour classification of the flanking genes (nr hits; hits to the carrier genus alone do not count), Table S8 (read depth), Table S9 (independent assemblies), Tables S13a, S13b and the NCBI assembly reports: "
     "confirmed = at least one of (i) a gene classified as fungal on both sides of the locus, "
     "(ii) the locus and both flanks covered (>= 0.5) by an independent assembly of the species (Table S9), "
@@ -1213,8 +1213,7 @@ add("S1a", "Loci of bacterial origin",
     "uncertain (not assessable; applied next) = a contig shorter than the locus plus 2 kb, or a locus touching a contig end; "
     "supported = none of the above and at least one of a fungal gene on one side only, a contig >= 100 kb with the locus away from its ends and a depth ratio not outside 0.5-2, "
     "a depth ratio 0.5-2 without junction reads on both flanks, or a gene of the same lineage present in two or more assemblies of the species without verification of the flanks (Tables S13a, S13b); "
-    "the remaining loci (a depth ratio outside 0.5-2 without other support, or no classified neighbours and no other support) are uncertain. "
-    "The 2026-10-13 revision of these rules (review of v14) is recorded in the code repository.",
+    "the remaining loci (a depth ratio outside 0.5-2 without other support, or no classified neighbours and no other support) are uncertain.",
     s1a, [
         ("locus_id", "locus_id", "Locus identifier (as in Table S1b and in the headers of Data S1)"),
         ("lineage_clean", "lineage", "Lineage of bacterial origin (seven lineages; the odh island has three genes)"),
@@ -1446,7 +1445,7 @@ FIGS = [("S1", "Distributions of the statistics underlying the thresholds", "fig
         ("S3", "Full tree of the cucumopine synthase family (Cus)", "figures/FigureS3_tree_cus.png",
          "The fungal cus-like genes lie within the T-DNA cus clade, interleaved with the references. Full maximum-likelihood tree of the cucumopine synthase family (436 sequences, 810 sites, JTT+R7), from which panel (b) of Figure 3 was collapsed: "
          "T-DNA cus clade (fungal cus-like genes of Boletales and of other orders with the Ti/Ri plasmid, plant cT-DNA and four other bacterial references), actinobacterial-type clade, mis group, other bacterial homologs, outgroup. "
-         "In panel (b) of Figure 3 one native fungal gene detected by the cus profile (Boletus austroedulis; excluded from the analysis) is omitted from the schematic; it is labelled here as \"native fungal gene, excluded\". Supports, rooting and scale as in Figure S2; because of the size of the tree the labels are small and the vector files (.svg, .pdf) should be used for reading. Data S2: cus.*."),
+         "In panel (b) of Figure 3 one native fungal gene detected by the cus profile (Boletus austroedulis; excluded from the analysis) is omitted from the schematic; it is labelled here as \"native fungal gene, excluded\". Supports, rooting and scale as in Figure S2; because of the size of the tree the labels are small and the vector files (PDF, in figures_pdf/) should be used for reading. Data S2: cus.*."),
         ("S4", "Full tree of the M24 aminopeptidase family (Chs, Ags)", "figures/FigureS4_tree_chs.png",
          "The Fusarium chs-like genes are sister to the Ti-plasmid chs clade and are not nested within it. Full maximum-likelihood tree of the M24 aminopeptidase family (58 sequences, 687 sites, Q.PFAM+I+G4), from which panel (c) of Figure 3 was collapsed: "
          "Fusarium and Dactylonectria chs-like genes, Ti-plasmid chs clade (the chs of pTi14-818c and other agrobacterial chs), native fungal Ags homologs, other bacterial M24 aminopeptidases; rooted on the ags seed. Supports and scale as in Figure S2. Data S2: chs.*."),
@@ -1524,8 +1523,102 @@ with tarfile.open(os.path.join(OUT, "data", DATA_S4), "w:gz") as tf:
 shutil.rmtree(S4_TMP)
 _s4mb = os.path.getsize(os.path.join(OUT, "data", DATA_S4)) / 1e6
 print("Data S4: %d files, %.2f MB" % (len(s4_man) + 1, _s4mb)); assert _s4mb < 20
-# Extended Methods copied from the manuscript folder so that it stays in sync
-shutil.copy(G + "/paper/manuscript_v2/methods_extended.md", os.path.join(OUT, "Extended_Methods.md"))
+# ---------------------------------------------------------------- Extended Methods: concise submission version (markdown) -> Extended_Methods.docx
+EXT_METHODS_SRC = OUT + "/src_extended_methods/Extended_Methods_submission.md"
+
+def new_docx_document():
+    """A4 document with 2.5 cm margins and Palatino 10 pt (shared by Supplementary_Materials.docx and Extended_Methods.docx)"""
+    from docx import Document
+    from docx.shared import Cm, Pt
+    doc = Document()
+    sec = doc.sections[0]; sec.page_width = Cm(21); sec.page_height = Cm(29.7)
+    for m in ("left_margin", "right_margin", "top_margin", "bottom_margin"): setattr(sec, m, Cm(2.5))
+    st = doc.styles["Normal"]; st.font.name = "Palatino Linotype"; st.font.size = Pt(10)
+    return doc
+
+_INLINE_RX = re.compile(r"(\*\*(?:[^*]|\*[^*]+\*)+\*\*|\*[^*\s][^*]*?\*|`[^`]+`)")
+def add_inline_runs(p, text):
+    """add text to paragraph p, rendering **bold**, *italic* and `code` (backticks removed)"""
+    from docx.shared import Pt
+    for part in _INLINE_RX.split(text):
+        if not part: continue
+        if part.startswith("**") and part.endswith("**") and len(part) > 4:
+            for sub in _INLINE_RX.split(part[2:-2]):
+                if not sub: continue
+                if sub.startswith("*") and sub.endswith("*") and len(sub) > 2 and not sub.startswith("**"):
+                    r = p.add_run(sub[1:-1]); r.italic = True
+                else:
+                    r = p.add_run(sub)
+                r.bold = True
+        elif part.startswith("*") and part.endswith("*") and len(part) > 2:
+            p.add_run(part[1:-1]).italic = True
+        elif part.startswith("`") and part.endswith("`"):
+            r = p.add_run(part[1:-1]); r.font.name = "Courier New"; r.font.size = Pt(9)
+        else:
+            p.add_run(part)
+
+def md_to_docx(md_path, docx_path):
+    """Convert a simple markdown file to DOCX: # headings, paragraphs, '-'/'*' bullet lists, numbered lists ('1. ', kept as written),
+    pipe tables (as Word tables, bold header row), **bold**, *italic*, `code`. Blank lines separate paragraphs."""
+    from docx.shared import Cm
+    with open(md_path, encoding="utf-8") as fh:
+        lines = fh.read().splitlines()
+    doc = new_docx_document()
+    para = []
+    def flush():
+        if para:
+            add_inline_runs(doc.add_paragraph(), " ".join(x.strip() for x in para))
+            para.clear()
+    i = 0
+    while i < len(lines):
+        ln = lines[i]; st = ln.strip()
+        m_head = re.match(r"^(#{1,6})\s+(.*)$", st)
+        m_bul = re.match(r"^[-*+]\s+(.*)$", st)
+        m_num = re.match(r"^(\d+)[.)]\s+(.*)$", st)
+        if not st:
+            flush()
+        elif m_head:
+            flush()
+            h = doc.add_heading(level=min(len(m_head.group(1)), 4))
+            add_inline_runs(h, m_head.group(2).strip())
+        elif st.startswith("|"):
+            flush()
+            rows = []
+            while i < len(lines) and lines[i].strip().startswith("|"):
+                cells = [c.strip() for c in lines[i].strip().strip("|").split("|")]
+                if not all(re.fullmatch(r":?-{2,}:?", c) for c in cells if c) or not any(cells):
+                    rows.append(cells)
+                i += 1
+            i -= 1
+            ncol = max(len(r) for r in rows)
+            tb = doc.add_table(rows=len(rows), cols=ncol); tb.style = "Table Grid"
+            for ri, r in enumerate(rows):
+                for ci in range(ncol):
+                    cell = tb.cell(ri, ci); cp = cell.paragraphs[0]
+                    txt = r[ci] if ci < len(r) else ""
+                    if ri == 0: txt = "**" + txt.replace("**", "") + "**" if txt else txt
+                    add_inline_runs(cp, txt)
+            doc.add_paragraph()
+        elif m_bul and not st.startswith("**"):
+            flush()
+            add_inline_runs(doc.add_paragraph(style="List Bullet"), m_bul.group(1))
+        elif m_num:
+            flush()
+            p = doc.add_paragraph()
+            p.paragraph_format.left_indent = Cm(0.9); p.paragraph_format.first_line_indent = Cm(-0.9)
+            add_inline_runs(p, m_num.group(1) + ".\t" + m_num.group(2))
+        elif re.fullmatch(r"[-*_]{3,}", st):
+            flush()
+        else:
+            para.append(ln)
+        i += 1
+    flush()
+    doc.save(docx_path)
+
+if not os.path.exists(EXT_METHODS_SRC):
+    raise FileNotFoundError("Extended Methods source not found: " + EXT_METHODS_SRC + " (the concise submission version of the Extended Methods must be placed there)")
+md_to_docx(EXT_METHODS_SRC, os.path.join(OUT, "Extended_Methods.docx"))
+print("Extended_Methods.docx written")
 DATA = [("S1", "Proteins of the loci of bacterial origin", DATA_S1),
         ("S2", "Protein-family trees, alignments and IQ-TREE reports", "Data_S2_trees_alignments.tar.gz"),
         ("S2b", "Constraint trees and IQ-TREE outputs of the AU tests", "Data_S2b_AU_constraints.tar.gz"),
@@ -1546,26 +1639,26 @@ DATA_DESC = {
  "S4": "For each of the 16 gene sets of Table S15: the codon alignment (`.codon.phy`, `.codon.fna`), the tree given to codeml (`.tree.nwk`), the codeml control files and outputs (M0; site models M7/M8 and M8a where run) and the yn00 control file and output (pairwise dN/dS), in two sub-folders per set: `strict` (alignment used for the main results) and `le20pct_gaps` (alignment keeping columns with up to 20% gaps; M0 and yn00 only). "
        "The sets odh island: pepP and orf3 have only yn00 files (2 and 3 sequences, no tree). The set nos-subfamily ODH, Boletales, confirmed or supported only has M0 on a star tree and no site models. MANIFEST.tsv lists set, file and description. Compressed archive (tar.gz).",
  "S3": "The 2,215 distinct genome assemblies screened, 2,227 rows because 12 assemblies of Fusarium relatives belong to both the 1,386 and the 324 set: the 517 assemblies of Boletales (Table S6), 1,386 assemblies of other fungal orders (accession, organism, order, class; a note where the order was inferred) and the 324 assemblies of Fusarium, Neocosmospora and Dactylonectria (Table S7), "
-       "in one table with the column set identifying the group (12 assemblies of Fusarium-related genera were included in both the preliminary screen of other orders and the Fusarium set and appear twice; 2,215 distinct assemblies). Tab-separated file."}
+       "in one table with the column set identifying the group (12 assemblies of Fusarium-related genera were included in both the screen of other orders and the Fusarium set and appear twice; 2,215 distinct assemblies). Tab-separated file."}
 
 def table_head(tid):
     return "Table %s" % tid
 
 with open(os.path.join(OUT, "README_supplementary.md"), "w") as fh:
-    fh.write("# Supplementary Materials: Tables, Figures and Data\n\nTables S1-S17 are in `Supplementary_Tables.xlsx` (one sheet per table; each sheet starts with the table title and legend) and as tab-separated files (UTF-8, header row, blank = not available). "
-             "Figures S1-S11 are in `figures/`, Data S1-S4 are described at the end; the data files are named as in the submission archive, which also contains `Extended_Methods.md` (the full text of the Methods). The legends of all items are collected in `Supplementary_Materials.docx`. "
+    fh.write("# Supplementary Materials: Tables, Figures and Data\n\nTables S1a-S18 are in `Supplementary_Tables.xlsx` (one sheet per table; each sheet starts with the table title and legend, then the column header and the data; blank = not available). "
+             "This archive contains: `Supplementary_Tables.xlsx` (Tables S1a-S18); `Supplementary_Materials.docx` (the legends of all figures, tables and data files); `Extended_Methods.docx` (Extended Methods, the full text of the Methods); `figures/` (Figures S1-S13 as PNG) and `figures_pdf/` (the same figures as PDF); the data files Data S1, S2, S2b, S3 and S4, described at the end of this file; and this file. "
              "Nomenclature: families OCD fold (Sus), cucumopine synthase (Cus), GDPD, M24 aminopeptidase (Chs/Ags), opine dehydrogenase; "
              "lineages of bacterial origin (Table 2): sus-like, cus-like, chs-like, acc-type GDPD, pKerr14a-type acs-like, nos-subfamily opine dehydrogenase (Boletales), odh island; "
              "other groups of the catalogue (Table S1c): mis group, actinobacterial-type, native fungal GDPD, GDPD of unresolved position, OCD-like outside the sus-like clade.\n\n## Supplementary Tables\n\n")
     for tid, title, desc, cols, rows in TABLES:
-        fh.write("### Table %s. %s\n\nFile: `%s` (%d rows, %d columns); sheet `%s` of Supplementary_Tables.xlsx\n\n%s\n\n| Column | Description |\n|---|---|\n" %
-                 (tid, title, NAMES[tid], len(rows), len(cols), tid, disp(desc)))
+        fh.write("### Table %s. %s\n\nSheet `%s` of Supplementary_Tables.xlsx (%d rows, %d columns)\n\n%s\n\n| Column | Description |\n|---|---|\n" %
+                 (tid, title, tid, len(rows), len(cols), disp(desc)))
         for c, d in cols:
             fh.write("| %s | %s |\n" % (c, disp(d)))
         fh.write("\n")
     fh.write("## Supplementary Figures\n\n")
     for fid, ftitle, ffile, fcap in FIGS:
-        fh.write("### Figure %s. %s\n\nFile: `%s` (and `.svg`, `.pdf`)\n\n%s\n\n" % (fid, ftitle, ffile, fcap))
+        fh.write("### Figure %s. %s\n\nFiles: `%s` (PDF: `%s`)\n\n%s\n\n" % (fid, ftitle, ffile, ffile.replace("figures/", "figures_pdf/").replace(".png", ".pdf"), fcap))
     fh.write("## Supplementary Data\n\n")
     for did, dtitle, dfile in DATA:
         fh.write("### Data %s. %s\n\nFile: `%s`\n\n%s\n\n" % (did, dtitle, dfile, DATA_DESC[did]))
@@ -1575,10 +1668,10 @@ try:
     import openpyxl
     from openpyxl.styles import Font
     wb = openpyxl.Workbook(); ws = wb.active; ws.title = "README"
-    ws.append(["Supplementary Tables S1-S17. Each sheet starts with the table title (row 1) and legend (row 2), then the column header and the data. Figures S1-S11 and Data S1-S4: see Supplementary_Materials.docx."])
-    ws.append([]); ws.append(["Table", "Title", "Legend", "Rows", "Tab-separated file"])
+    ws.append(["Supplementary Tables S1a-S18. Each sheet starts with the table title (row 1) and legend (row 2), then the column header and the data. Figures S1-S13 and Data S1-S4: see Supplementary_Materials.docx."])
+    ws.append([]); ws.append(["Table", "Title", "Legend", "Rows"])
     for tid, title, desc, cols, rows in TABLES:
-        ws.append([tid, title, disp(desc), len(rows), NAMES[tid]])
+        ws.append([tid, title, disp(desc), len(rows)])
     ws.append([]); ws.append(["Table", "Column", "Description"])
     for tid, title, desc, cols, rows in TABLES:
         for c, d in cols:
@@ -1599,9 +1692,9 @@ except ImportError:
     print("openpyxl not available: xlsx skipped")
 
 # ---------------------------------------------------------------- Supplementary_Materials.md / .docx
-TITLE = "Opine metabolism genes of rhizobial origin in fungal genomes"
+TITLE = "Opine metabolism genes horizontally transferred into fungal genomes"
 md = ["# Supplementary Materials for: %s" % TITLE, "",
-      "This document contains the legends of Figures S1-S13, Tables S1a-S17b (including S1d and S11b) and Data S1-S4 and S2b. The tables are in Supplementary_Tables.xlsx (one sheet per table), the figures in the folder figures/, the data files as named below.", "", "## Figures", ""]
+      "This document contains the legends of Figures S1-S13, Tables S1a-S18 and Data S1-S4 and S2b. The tables are in Supplementary_Tables.xlsx (one sheet per table), the figures in the folders figures/ (PNG) and figures_pdf/ (PDF), the data files as named below. The full text of the Methods is given in Extended Methods (Extended_Methods.docx).", "", "## Figures", ""]
 for fid, ftitle, ffile, fcap in FIGS:
     md += ["![Figure S%s](%s)" % (fid[1:], ffile), "", "**Figure %s. %s.** %s" % (fid, ftitle, fcap), ""]
 md += ["## Tables", ""]
@@ -1612,12 +1705,8 @@ for did, dtitle, dfile in DATA:
     md += ["**Data %s. %s.** File: %s. %s" % (did, dtitle, dfile, DATA_DESC[did]), ""]
 open(os.path.join(OUT, "Supplementary_Materials.md"), "w").write("\n".join(md) + "\n")
 try:
-    from docx import Document
-    from docx.shared import Cm, Pt
-    doc = Document()
-    sec = doc.sections[0]; sec.page_width = Cm(21); sec.page_height = Cm(29.7)
-    for m in ("left_margin", "right_margin", "top_margin", "bottom_margin"): setattr(sec, m, Cm(2.5))
-    st = doc.styles["Normal"]; st.font.name = "Palatino Linotype"; st.font.size = Pt(10)
+    from docx.shared import Cm
+    doc = new_docx_document()
     def par(text, bold_lead=None):
         p = doc.add_paragraph()
         if bold_lead:

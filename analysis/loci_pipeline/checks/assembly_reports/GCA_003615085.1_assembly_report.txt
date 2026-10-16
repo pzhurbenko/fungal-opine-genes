@@ -1,0 +1,61 @@
+# Assembly name:  FoC_Fus2_v1
+# Organism name:  Fusarium oxysporum f. sp. cepae (ascomycete fungi)
+# Infraspecific name:  strain=FoC_Fus2
+# Taxid:          396571
+# BioSample:      SAMN05529097
+# BioProject:     PRJNA338256
+# Submitter:      NIAB-EMR
+# Date:           2018-10-05
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# WGS project:    MRCU01
+# Assembly method: Canu v. 2
+# Genome coverage: 214.0x
+# Sequencing technology: PacBio; Illumina MiSeq
+# GenBank assembly accession: GCA_003615085.1
+#
+## Assembly-Unit names:
+## Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+contig_1	assembled-molecule	1	Chromosome	CM010800.1	<>	na	Primary Assembly	6433760	na
+contig_2	assembled-molecule	4	Chromosome	CM010801.1	<>	na	Primary Assembly	5388197	na
+contig_3	assembled-molecule	5	Chromosome	CM010802.1	<>	na	Primary Assembly	5171523	na
+contig_4	assembled-molecule	7	Chromosome	CM010803.1	<>	na	Primary Assembly	4882972	na
+contig_6	assembled-molecule	8	Chromosome	CM010804.1	<>	na	Primary Assembly	4140032	na
+contig_7	assembled-molecule	9	Chromosome	CM010805.1	<>	na	Primary Assembly	3815037	na
+contig_8	assembled-molecule	10	Chromosome	CM010806.1	<>	na	Primary Assembly	3356772	na
+contig_9	assembled-molecule	11	Chromosome	CM010807.1	<>	na	Primary Assembly	3130441	na
+contig_5	unlocalized-scaffold	2	Chromosome	MRCU01000005.1	<>	na	Primary Assembly	4380222	na
+contig_17	unlocalized-scaffold	2	Chromosome	MRCU01000017.1	<>	na	Primary Assembly	590749	na
+contig_13	unlocalized-scaffold	12	Chromosome	MRCU01000013.1	<>	na	Primary Assembly	1386944	na
+contig_15	unlocalized-scaffold	12	Chromosome	MRCU01000015.1	<>	na	Primary Assembly	984571	na
+contig_18	unlocalized-scaffold	12	Chromosome	MRCU01000018.1	<>	na	Primary Assembly	558056	na
+contig_11	unlocalized-scaffold	13	Chromosome	MRCU01000011.1	<>	na	Primary Assembly	1544769	na
+contig_12	unlocalized-scaffold	13	Chromosome	MRCU01000012.1	<>	na	Primary Assembly	1522686	na
+contig_10	unplaced-scaffold	na	na	MRCU01000010.1	<>	na	Primary Assembly	2313841	na
+contig_14	unplaced-scaffold	na	na	MRCU01000014.1	<>	na	Primary Assembly	1115003	na
+contig_16	unplaced-scaffold	na	na	MRCU01000016.1	<>	na	Primary Assembly	818454	na
+contig_19	unplaced-scaffold	na	na	MRCU01000019.1	<>	na	Primary Assembly	480286	na
+contig_20	unplaced-scaffold	na	na	MRCU01000020.1	<>	na	Primary Assembly	452227	na
+contig_21	unplaced-scaffold	na	na	MRCU01000021.1	<>	na	Primary Assembly	331997	na
+contig_22	unplaced-scaffold	na	na	MRCU01000022.1	<>	na	Primary Assembly	181933	na
+contig_23	unplaced-scaffold	na	na	MRCU01000023.1	<>	na	Primary Assembly	67773	na
+contig_24	unplaced-scaffold	na	na	MRCU01000024.1	<>	na	Primary Assembly	65230	na
+contig_25	unplaced-scaffold	na	na	MRCU01000025.1	<>	na	Primary Assembly	55883	na
+contig_26	unplaced-scaffold	na	na	MRCU01000026.1	<>	na	Primary Assembly	40495	na
+contig_27	unplaced-scaffold	na	na	MRCU01000027.1	<>	na	Primary Assembly	34793	na
+contig_28	unplaced-scaffold	na	na	MRCU01000028.1	<>	na	Primary Assembly	29595	na
+contig_29	unplaced-scaffold	na	na	MRCU01000029.1	<>	na	Primary Assembly	26951	na
+contig_30	unplaced-scaffold	na	na	MRCU01000030.1	<>	na	Primary Assembly	26849	na
+contig_31	unplaced-scaffold	na	na	MRCU01000031.1	<>	na	Primary Assembly	26629	na
+contig_32	unplaced-scaffold	na	na	MRCU01000032.1	<>	na	Primary Assembly	25005	na
+contig_33	unplaced-scaffold	na	na	MRCU01000033.1	<>	na	Primary Assembly	23551	na
+contig_34	unplaced-scaffold	na	na	MRCU01000034.1	<>	na	Primary Assembly	22562	na

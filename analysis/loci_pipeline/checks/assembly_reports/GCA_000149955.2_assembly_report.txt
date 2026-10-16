@@ -1,0 +1,116 @@
+# Assembly name:  ASM14995v2
+# Organism name:  Fusarium oxysporum f. sp. lycopersici 4287 (ascomycete fungi)
+# Infraspecific name:  strain=4287
+# Taxid:          426428
+# BioSample:      SAMN02953675
+# BioProject:     PRJNA18813
+# Submitter:      Broad Institute
+# Date:           2015-08-20
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# WGS project:    AAXH01
+# GenBank assembly accession: GCA_000149955.2
+# RefSeq assembly accession: GCF_000149955.1
+# RefSeq assembly and GenBank assemblies identical: no
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000149965.2	GCF_000149965.1	Primary Assembly
+## GCA_000149975.1		non-nuclear
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+1	assembled-molecule	1	Chromosome	CM000589.1	=	NC_030986.1	Primary Assembly	6854980	na
+2	assembled-molecule	2	Chromosome	CM000590.1	=	NC_030987.1	Primary Assembly	5577357	na
+3	assembled-molecule	3	Chromosome	CM000591.1	=	NC_030988.1	Primary Assembly	5634991	na
+4	assembled-molecule	4	Chromosome	CM000592.1	=	NC_030989.1	Primary Assembly	5212762	na
+5	assembled-molecule	5	Chromosome	CM000593.1	=	NC_030990.1	Primary Assembly	4914260	na
+6	assembled-molecule	6	Chromosome	CM000594.1	=	NC_030991.1	Primary Assembly	4589937	na
+7	assembled-molecule	7	Chromosome	CM000595.1	=	NC_030992.1	Primary Assembly	4347182	na
+8	assembled-molecule	8	Chromosome	CM000596.1	=	NC_030993.1	Primary Assembly	3984410	na
+9	assembled-molecule	9	Chromosome	CM000597.1	=	NC_030994.1	Primary Assembly	3304701	na
+10	assembled-molecule	10	Chromosome	CM000598.1	=	NC_030995.1	Primary Assembly	2896840	na
+11	assembled-molecule	11	Chromosome	CM000599.1	=	NC_030996.1	Primary Assembly	2337134	na
+12	assembled-molecule	12	Chromosome	CM000600.1	=	NC_030997.1	Primary Assembly	2233407	na
+13	assembled-molecule	13	Chromosome	CM000601.1	=	NC_030998.1	Primary Assembly	1751499	na
+14	assembled-molecule	14	Chromosome	CM000602.2	=	NC_030999.1	Primary Assembly	1838362	na
+15	assembled-molecule	15	Chromosome	CM000603.1	=	NC_031000.1	Primary Assembly	2434640	na
+supercont2.30	unplaced-scaffold	na	na	DS231725.1	=	NW_017264845.1	Primary Assembly	648876	na
+supercont2.34	unplaced-scaffold	na	na	DS231729.1	=	NW_017264846.1	Primary Assembly	500264	na
+supercont2.40	unplaced-scaffold	na	na	DS231735.1	=	NW_017264847.1	Primary Assembly	266096	na
+supercont2.44	unplaced-scaffold	na	na	DS231739.1	=	NW_017264848.1	Primary Assembly	186228	na
+supercont2.46	unplaced-scaffold	na	na	DS231741.1	=	NW_017264849.1	Primary Assembly	197769	na
+supercont2.48	unplaced-scaffold	na	na	DS231743.1	=	NW_017264850.1	Primary Assembly	162807	na
+supercont2.49	unplaced-scaffold	na	na	DS231744.1	=	NW_017264851.1	Primary Assembly	154101	na
+supercont2.50	unplaced-scaffold	na	na	DS231745.1	=	NW_017264852.1	Primary Assembly	130108	na
+supercont2.52	unplaced-scaffold	na	na	DS231747.1	=	NW_017264853.1	Primary Assembly	106513	na
+supercont2.54	unplaced-scaffold	na	na	DS231749.1	=	NW_017264854.1	Primary Assembly	130382	na
+supercont2.55	unplaced-scaffold	na	na	DS231750.1	=	NW_017264855.1	Primary Assembly	70881	na
+supercont2.56	unplaced-scaffold	na	na	DS231751.1	=	NW_017264856.1	Primary Assembly	68476	na
+supercont2.57	unplaced-scaffold	na	na	DS231752.1	=	NW_017264857.1	Primary Assembly	50139	na
+supercont2.58	unplaced-scaffold	na	na	DS231753.1	=	NW_017264858.1	Primary Assembly	48502	na
+supercont2.59	unplaced-scaffold	na	na	DS231754.1	=	NW_017264859.1	Primary Assembly	41300	na
+supercont2.60	unplaced-scaffold	na	na	DS231755.1	=	NW_017264860.1	Primary Assembly	37281	na
+supercont2.61	unplaced-scaffold	na	na	DS231756.1	=	NW_017264861.1	Primary Assembly	38310	na
+supercont2.62	unplaced-scaffold	na	na	DS231757.1	=	NW_017264862.1	Primary Assembly	88572	na
+supercont2.63	unplaced-scaffold	na	na	DS231758.1	=	NW_017264863.1	Primary Assembly	35908	na
+supercont2.64	unplaced-scaffold	na	na	DS231759.1	=	NW_017264864.1	Primary Assembly	27665	na
+supercont2.65	unplaced-scaffold	na	na	DS231760.1	=	NW_017264865.1	Primary Assembly	24054	na
+supercont2.66	unplaced-scaffold	na	na	DS231761.1	=	NW_017264866.1	Primary Assembly	23611	na
+supercont2.67	unplaced-scaffold	na	na	DS231762.1	=	NW_017264867.1	Primary Assembly	19665	na
+supercont2.68	unplaced-scaffold	na	na	DS231763.1	=	NW_017264868.1	Primary Assembly	18211	na
+supercont2.69	unplaced-scaffold	na	na	DS231764.1	=	NW_017264869.1	Primary Assembly	15960	na
+supercont2.70	unplaced-scaffold	na	na	DS231765.1	=	NW_017264870.1	Primary Assembly	15558	na
+supercont2.71	unplaced-scaffold	na	na	DS231766.1	=	NW_017264871.1	Primary Assembly	17210	na
+supercont2.72	unplaced-scaffold	na	na	DS231767.1	=	NW_017264872.1	Primary Assembly	14354	na
+supercont2.73	unplaced-scaffold	na	na	DS231768.1	=	NW_017264873.1	Primary Assembly	13996	na
+supercont2.74	unplaced-scaffold	na	na	DS231769.1	=	NW_017264874.1	Primary Assembly	13870	na
+supercont2.75	unplaced-scaffold	na	na	DS231770.1	=	NW_017264875.1	Primary Assembly	12225	na
+supercont2.76	unplaced-scaffold	na	na	DS231771.1	=	NW_017264876.1	Primary Assembly	12223	na
+supercont2.77	unplaced-scaffold	na	na	DS231772.1	=	NW_017264877.1	Primary Assembly	12033	na
+supercont2.78	unplaced-scaffold	na	na	DS231773.1	=	NW_017264878.1	Primary Assembly	11770	na
+supercont2.79	unplaced-scaffold	na	na	DS231774.1	=	NW_017264879.1	Primary Assembly	11704	na
+supercont2.80	unplaced-scaffold	na	na	DS231775.1	=	NW_017264880.1	Primary Assembly	10823	na
+supercont2.81	unplaced-scaffold	na	na	DS231776.1	=	NW_017264881.1	Primary Assembly	10274	na
+supercont2.82	unplaced-scaffold	na	na	DS231777.1	=	NW_017264882.1	Primary Assembly	9646	na
+supercont2.83	unplaced-scaffold	na	na	DS231778.1	=	NW_017264883.1	Primary Assembly	9254	na
+supercont2.84	unplaced-scaffold	na	na	DS231779.1	=	NW_017264884.1	Primary Assembly	8745	na
+supercont2.85	unplaced-scaffold	na	na	DS231780.1	=	NW_017264885.1	Primary Assembly	10499	na
+supercont2.86	unplaced-scaffold	na	na	DS231781.1	=	NW_017264886.1	Primary Assembly	8569	na
+supercont2.87	unplaced-scaffold	na	na	DS231782.1	=	NW_017264887.1	Primary Assembly	8539	na
+supercont2.88	unplaced-scaffold	na	na	DS231783.1	=	NW_017264888.1	Primary Assembly	8435	na
+supercont2.89	unplaced-scaffold	na	na	DS231784.1	=	NW_017264889.1	Primary Assembly	8418	na
+supercont2.90	unplaced-scaffold	na	na	DS231785.1	=	NW_017264890.1	Primary Assembly	8418	na
+supercont2.91	unplaced-scaffold	na	na	DS231786.1	=	NW_017264891.1	Primary Assembly	8301	na
+supercont2.92	unplaced-scaffold	na	na	DS231787.1	=	NW_017264892.1	Primary Assembly	8129	na
+supercont2.93	unplaced-scaffold	na	na	DS231788.1	=	NW_017264893.1	Primary Assembly	8068	na
+supercont2.94	unplaced-scaffold	na	na	DS231789.1	=	NW_017264894.1	Primary Assembly	7930	na
+supercont2.95	unplaced-scaffold	na	na	DS231790.1	=	NW_017264895.1	Primary Assembly	7880	na
+supercont2.96	unplaced-scaffold	na	na	DS231791.1	=	NW_017264896.1	Primary Assembly	7753	na
+supercont2.97	unplaced-scaffold	na	na	DS231792.1	=	NW_017264897.1	Primary Assembly	7577	na
+supercont2.98	unplaced-scaffold	na	na	DS231793.1	=	NW_017264898.1	Primary Assembly	6931	na
+supercont2.99	unplaced-scaffold	na	na	DS231794.1	=	NW_017264899.1	Primary Assembly	6596	na
+supercont2.100	unplaced-scaffold	na	na	DS231795.1	=	NW_017264900.1	Primary Assembly	6555	na
+supercont2.101	unplaced-scaffold	na	na	DS231796.1	=	NW_017264901.1	Primary Assembly	7973	na
+supercont2.102	unplaced-scaffold	na	na	DS231797.1	=	NW_017264902.1	Primary Assembly	7724	na
+supercont2.103	unplaced-scaffold	na	na	DS231798.1	=	NW_017264903.1	Primary Assembly	5692	na
+supercont2.104	unplaced-scaffold	na	na	DS231799.1	=	NW_017264904.1	Primary Assembly	5688	na
+supercont2.105	unplaced-scaffold	na	na	DS231800.1	=	NW_017264905.1	Primary Assembly	5631	na
+supercont2.106	unplaced-scaffold	na	na	DS231801.1	=	NW_017264906.1	Primary Assembly	5570	na
+supercont2.107	unplaced-scaffold	na	na	DS231802.1	=	NW_017264907.1	Primary Assembly	5556	na
+supercont2.108	unplaced-scaffold	na	na	DS231803.1	=	NW_017264908.1	Primary Assembly	5419	na
+supercont2.109	unplaced-scaffold	na	na	DS231804.1	=	NW_017264909.1	Primary Assembly	5366	na
+supercont2.110	unplaced-scaffold	na	na	DS231805.1	=	NW_017264910.1	Primary Assembly	5078	na
+supercont2.111	unplaced-scaffold	na	na	DS231806.1	=	NW_017264911.1	Primary Assembly	4579	na
+supercont2.112	unplaced-scaffold	na	na	DS231807.1	=	NW_017264912.1	Primary Assembly	4100	na
+supercont2.113	unplaced-scaffold	na	na	DS231808.1	=	NW_017264913.1	Primary Assembly	1234	na
+supercont2.114	unplaced-scaffold	na	na	DS231809.1	=	NW_017264914.1	Primary Assembly	900	na
+supercont2.115	unlocalized-scaffold	MT	Mitochondrion	DS231810.1	<>	na	non-nuclear	44088	na
+supercont2.116	unlocalized-scaffold	MT	Mitochondrion	DS231811.1	<>	na	non-nuclear	24609	na
+supercont2.117	unlocalized-scaffold	MT	Mitochondrion	DS231812.1	<>	na	non-nuclear	16066	na

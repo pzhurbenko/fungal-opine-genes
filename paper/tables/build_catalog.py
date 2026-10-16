@@ -21,7 +21,7 @@ FAM = {"ACS": "GDPD", "CUS": "cucumopine synthase (Cus)", "SUS": "OCD fold (Sus)
 STATUS = {"pseudogene_like": "pseudogene", "fragment": "fragment", "remnant": "remnant", "intact": "intact", "ambiguous": "ambiguous", "not_homolog": "not a homolog", "not_run": "not modelled"}
 # 2026-10-13w: TableS1_loci_catalog.tsv was edited by hand (backup .bak_20261013w) for ACS_JBBPKL010003317_L1 and CUS_JBBPKL010003317_S2L1 (Boletellus ananas, contig JBBPKL010003317):
 # the merged AUGUSTUS model 2957-6067 (7 exons, 657 aa) was recorded twice; replaced by the two genes split by HMM envelope, coordinates re-derived with miniprot
-# (analysis/data_checks_20261013/work/split.gff): ACS 2972-3880 (+, 3 exons, 251 aa), mis 4172-5543 (+, 3 exons, 203 aa). Re-running any generator of that TSV would undo this.
+# (analysis/loci_pipeline/checks/split.gff): ACS 2972-3880 (+, 3 exons, 251 aa), mis 4172-5543 (+, 3 exons, 203 aa). Re-running any generator of that TSV would undo this.
 out = []
 # ---- 1. profile screen
 for r in rd(T + "TableS1_loci_catalog.tsv"):

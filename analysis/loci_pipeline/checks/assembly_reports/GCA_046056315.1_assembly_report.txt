@@ -1,0 +1,37 @@
+# Assembly name:  ASM4605631v1
+# Organism name:  Fusarium poae (ascomycete fungi)
+# Infraspecific name:  strain=Fp133
+# Taxid:          36050
+# BioSample:      SAMN32603196
+# BioProject:     PRJNA924782
+# Submitter:      Agriculture and Agri-Foods Canada
+# Date:           2024-12-13
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# WGS project:    JBJHSE01
+# Assembly method: Canu v. 1.8
+# Expected final version: yes
+# Genome coverage: 206.0x
+# Sequencing technology: Oxford Nanopore MinION; Illumina NextSeq
+# GenBank assembly accession: GCA_046056315.1
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_046056325.1		Primary Assembly
+## GCA_046056335.1		non-nuclear
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+Chr1	assembled-molecule	1	Chromosome	CM100254.1	<>	na	Primary Assembly	12048428	na
+Chr2	assembled-molecule	2	Chromosome	CM100255.1	<>	na	Primary Assembly	9813818	na
+Chr3	assembled-molecule	3	Chromosome	CM100256.1	<>	na	Primary Assembly	8641347	na
+Chr4	assembled-molecule	4	Chromosome	CM100257.1	<>	na	Primary Assembly	8526273	na
+Chr5	assembled-molecule	5	Chromosome	CM100258.1	<>	na	Primary Assembly	3800058	na
+Chr6	assembled-molecule	6	Chromosome	CM100259.1	<>	na	Primary Assembly	2080721	na
+Fp133_Mito	assembled-molecule	MT	Mitochondrion	CM100284.1	<>	na	non-nuclear	139322	na

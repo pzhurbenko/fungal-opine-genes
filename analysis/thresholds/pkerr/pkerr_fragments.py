@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Sensitivity of the '>=60% identity to the six tree-placed pKerr14a-type members' rule
-(paper/tables/build_table1.py:145 reads the 'ACS kerr14' label from analysis/report_A/tables/carriers_tree_based.tsv).
+(paper/tables/build_table1.py:145 reads the 'ACS kerr14' label from analysis/funnel/carriers_tree_based.tsv).
 Recomputed: DIAMOND 2.2.6 blastp --very-sensitive -e 1e-3 --max-target-seqs 6 --max-hsps 1, all 332 ACS proteins
 (loci_pipeline/round2/proteins/ACS_models.faa + ACS_remnants_fragments.faa) vs the six -> acs_vs_six.diamond.tsv."""
 import sys as _sys, os as _os; _sys.path.insert(0, _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..', '..', '..')))

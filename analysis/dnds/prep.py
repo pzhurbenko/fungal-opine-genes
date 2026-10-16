@@ -6,7 +6,7 @@ import csv, subprocess
 from Bio import SeqIO
 from Bio.Seq import Seq
 A = f'{GMO_ROOT}/analysis'
-car = list(csv.DictReader(open(f'{A}/report_A/data/carriers_tree_based.tsv'), delimiter='\t'))
+car = list(csv.DictReader(open(f'{A}/funnel/carriers_tree_based.tsv'), delimiter='\t'))
 sets = {'SUS': [r['locus_id'] for r in car if r['lineage'].startswith('SUS') and r['status'] == 'intact'],
         'CUS': [r['locus_id'] for r in car if r['lineage'].startswith('CUS') and r['status'] == 'intact']}
 for fam, ids in sets.items():

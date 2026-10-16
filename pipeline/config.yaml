@@ -8,7 +8,7 @@ inputs:
   blast_stats: data/tsv/merged/all_blast_stats.tsv      # все tblastn/blastp хиты (3760 строк), источник реестра локусов
   rep_seqs_dir: data/tsv/rep_seqs                        # <FAM>_rep_seqs.tsv: колонки Subj_Accession_agro / Subj_Name_agro → ярус 2
   curated_dir: analysis/curated                          # <FAM>.fasta после карантина: Agro_/Plant_ заголовки → ярус 1
-  quarantine_tsv: analysis/quarantine/quarantine.tsv     # исключённые последовательности (не используются как направляющие)
+  quarantine_tsv: analysis/curated/quarantine.tsv     # исключённые последовательности (не используются как направляющие)
 
 out_dir: analysis/loci_pipeline                          # всё создаётся здесь: registry/ contigs/ guides/ round<N>/
 

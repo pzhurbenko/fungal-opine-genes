@@ -1,14 +1,14 @@
 # Supplementary Materials: Tables, Figures and Data
 
-Tables S1-S17 are in `Supplementary_Tables.xlsx` (one sheet per table; each sheet starts with the table title and legend) and as tab-separated files (UTF-8, header row, blank = not available). Figures S1-S11 are in `figures/`, Data S1-S4 are described at the end; the data files are named as in the submission archive, which also contains `Extended_Methods.md` (the full text of the Methods). The legends of all items are collected in `Supplementary_Materials.docx`. Nomenclature: families OCD fold (Sus), cucumopine synthase (Cus), GDPD, M24 aminopeptidase (Chs/Ags), opine dehydrogenase; lineages of bacterial origin (Table 2): sus-like, cus-like, chs-like, acc-type GDPD, pKerr14a-type acs-like, nos-subfamily opine dehydrogenase (Boletales), odh island; other groups of the catalogue (Table S1c): mis group, actinobacterial-type, native fungal GDPD, GDPD of unresolved position, OCD-like outside the sus-like clade.
+Tables S1a-S18 are in `Supplementary_Tables.xlsx` (one sheet per table; each sheet starts with the table title and legend, then the column header and the data; blank = not available). This archive contains: `Supplementary_Tables.xlsx` (Tables S1a-S18); `Supplementary_Materials.docx` (the legends of all figures, tables and data files); `Extended_Methods.docx` (Extended Methods, the full text of the Methods); `figures/` (Figures S1-S13 as PNG) and `figures_pdf/` (the same figures as PDF); the data files Data S1, S2, S2b, S3 and S4, described at the end of this file; and this file. Nomenclature: families OCD fold (Sus), cucumopine synthase (Cus), GDPD, M24 aminopeptidase (Chs/Ags), opine dehydrogenase; lineages of bacterial origin (Table 2): sus-like, cus-like, chs-like, acc-type GDPD, pKerr14a-type acs-like, nos-subfamily opine dehydrogenase (Boletales), odh island; other groups of the catalogue (Table S1c): mis group, actinobacterial-type, native fungal GDPD, GDPD of unresolved position, OCD-like outside the sus-like clade.
 
 ## Supplementary Tables
 
 ### Table S1a. Loci of bacterial origin
 
-File: `TableS1a_Loci_of_bacterial_origin.tsv` (254 rows, 22 columns); sheet `S1a` of Supplementary_Tables.xlsx
+Sheet `S1a` of Supplementary_Tables.xlsx (254 rows, 22 columns)
 
-The 254 loci of the seven lineages of bacterial origin (239 placed on the phylogenetic trees directly or through a representative, 13 fragments assigned by identity, 2 added from NCBI annotations after the trees were built; named after their closest bacterial relatives) - one row per locus, with coordinates, structural status, the route of detection and the supplementary tables in which the locus appears. The 152 additional fragments and remnants of the same lineages assigned by HMM profile only (not placed on a tree) are listed in Table S1b (lineage_of_bacterial_origin = True, lineage with the suffix '(profile only)'). Protein sequences in Data S1 (254 of the 254 loci). Integration status (column integration_status), assigned by fixed rules (Methods 2.5; script paper/tables/integration_status.py of the code repository, per-locus rule tags in integration_status.tsv) from the per-neighbour classification of the flanking genes (nr hits; hits to the carrier genus alone do not count), Table S8 (read depth), Table S9 (independent assemblies), Tables S13a, S13b and the NCBI assembly reports: confirmed = at least one of (i) a gene classified as fungal on both sides of the locus, (ii) the locus and both flanks covered (>= 0.5) by an independent assembly of the species (Table S9), (iii) the locus on a sequence listed as an assembled-molecule chromosome in the NCBI assembly report, >= 1 kb from both ends, or (iv) read-depth ratio 0.5-2 with junction reads on both flanks (Table S8); uncertain (not assessable; applied next) = a contig shorter than the locus plus 2 kb, or a locus touching a contig end; supported = none of the above and at least one of a fungal gene on one side only, a contig >= 100 kb with the locus away from its ends and a depth ratio not outside 0.5-2, a depth ratio 0.5-2 without junction reads on both flanks, or a gene of the same lineage present in two or more assemblies of the species without verification of the flanks (Tables S13a, S13b); the remaining loci (a depth ratio outside 0.5-2 without other support, or no classified neighbours and no other support) are uncertain. The 2026-10-13 revision of these rules (review of v14) is recorded in the code repository.
+The 254 loci of the seven lineages of bacterial origin (239 placed on the phylogenetic trees directly or through a representative, 13 fragments assigned by identity, 2 added from NCBI annotations after the trees were built; named after their closest bacterial relatives) - one row per locus, with coordinates, structural status, the route of detection and the supplementary tables in which the locus appears. The 152 additional fragments and remnants of the same lineages assigned by HMM profile only (not placed on a tree) are listed in Table S1b (lineage_of_bacterial_origin = True, lineage with the suffix '(profile only)'). Protein sequences in Data S1 (254 of the 254 loci). Integration status (column integration_status), assigned by fixed rules (Methods 2.5) from the per-neighbour classification of the flanking genes (nr hits; hits to the carrier genus alone do not count), Table S8 (read depth), Table S9 (independent assemblies), Tables S13a, S13b and the NCBI assembly reports: confirmed = at least one of (i) a gene classified as fungal on both sides of the locus, (ii) the locus and both flanks covered (>= 0.5) by an independent assembly of the species (Table S9), (iii) the locus on a sequence listed as an assembled-molecule chromosome in the NCBI assembly report, >= 1 kb from both ends, or (iv) read-depth ratio 0.5-2 with junction reads on both flanks (Table S8); uncertain (not assessable; applied next) = a contig shorter than the locus plus 2 kb, or a locus touching a contig end; supported = none of the above and at least one of a fungal gene on one side only, a contig >= 100 kb with the locus away from its ends and a depth ratio not outside 0.5-2, a depth ratio 0.5-2 without junction reads on both flanks, or a gene of the same lineage present in two or more assemblies of the species without verification of the flanks (Tables S13a, S13b); the remaining loci (a depth ratio outside 0.5-2 without other support, or no classified neighbours and no other support) are uncertain.
 
 | Column | Description |
 |---|---|
@@ -37,7 +37,7 @@ The 254 loci of the seven lineages of bacterial origin (239 placed on the phylog
 
 ### Table S1b. Complete catalogue of loci
 
-File: `TableS1b_Complete_catalogue_of_loci.tsv` (2864 rows, 28 columns); sheet `S1b` of Supplementary_Tables.xlsx
+Sheet `S1b` of Supplementary_Tables.xlsx (2864 rows, 28 columns)
 
 All loci of all lineages found in fungal genomes by the two routes of the screen: the profile screen (HMM/tblastn) of the GDPD, Cus and Sus families, and the targeted scans (chs-like loci, odh island, nos-subfamily opine dehydrogenases; details in Tables S10b, S13a and S13b). For each locus: family, assigned lineage and its origin, route of detection, evidence for the assignment, structural status and genomic coordinates. Loci marked 'not a homolog' are retained as a separate category (hits that failed the homology checks). The 254 loci of the seven lineages of bacterial origin (239 placed on the trees directly or through a representative, 13 fragments assigned by identity, 2 added from NCBI annotations after the trees were built) are listed separately, with additional columns, in Table S1a; the 152 fragments of the same lineages assigned by profile only are flagged here (column lineage_of_bacterial_origin = True, lineage with the suffix '(profile only)'). One row per locus.
 
@@ -74,7 +74,7 @@ All loci of all lineages found in fungal genomes by the two routes of the screen
 
 ### Table S1c. Summary of the catalogue by group
 
-File: `TableS1c_Summary_of_the_catalogue_by_group.tsv` (16 rows, 20 columns); sheet `S1c` of Supplementary_Tables.xlsx
+Sheet `S1c` of Supplementary_Tables.xlsx (16 rows, 20 columns)
 
 Per-group summary of the catalogue of loci (Table S1b): the seven lineages of bacterial origin (Table 2 of the main text) and the groups of the catalogue that belong to native fungal families or were not analysed further. One row per group.
 
@@ -103,7 +103,7 @@ Per-group summary of the catalogue of loci (Table S1b): the seven lineages of ba
 
 ### Table S1d. Sensitivity of the lineage counts to the integration status of the loci
 
-File: `TableS1d_Sensitivity_of_the_lineage_counts_to_the_integrati.tsv` (64 rows, 4 columns); sheet `S1d` of Supplementary_Tables.xlsx
+Sheet `S1d` of Supplementary_Tables.xlsx (64 rows, 4 columns)
 
 The counts of Table 2 (loci, intact loci, carrier species and assemblies per lineage) and the inputs of Figure 5 (genus rows and species-level clusters of Boletales with the lineage, and with an intact copy) computed from all 254 loci of the seven lineages (239 placed on the trees directly or through a representative, 13 fragments assigned by identity, 2 added from NCBI annotations after the trees were built; column all_loci) and from the loci whose integration in the fungal genome is confirmed or supported only (column confirmed_supported_only; Table S1a, column integration_status).
 
@@ -116,7 +116,7 @@ The counts of Table 2 (loci, intact loci, carrier species and assemblies per lin
 
 ### Table S2. Seed proteins
 
-File: `TableS2_Seed_proteins.tsv` (56 rows, 7 columns); sheet `S2` of Supplementary_Tables.xlsx
+Sheet `S2` of Supplementary_Tables.xlsx (56 rows, 7 columns)
 
 Query (seed) proteins used for the protein-level screen of fungal proteomes: bacterial Ti/Ri-plasmid proteins and plant cellular T-DNA (cT-DNA) proteins.
 
@@ -132,7 +132,7 @@ Query (seed) proteins used for the protein-level screen of fungal proteomes: bac
 
 ### Table S3. Reverse search of the 1,277 query proteins against NCBI nr and the fate of each
 
-File: `TableS3_Reverse_search_of_the_1_277_query_proteins_against.tsv` (1277 rows, 21 columns); sheet `S3` of Supplementary_Tables.xlsx
+Sheet `S3` of Supplementary_Tables.xlsx (1277 rows, 21 columns)
 
 All queries of the reverse search of the protein-level screen: 1,277 queries (protein x seed-gene pairs) for 1,190 distinct proteins, because 83 proteins were detected by two or three seed genes. Each query was searched against NCBI nr and the best hits outside the protein's own order were compared (columns best_bacterial, best_plant and best_fungal_hit_outside_own_order). Index h = best bacterial or plant bit score minus best outside-order fungal bit score, as computed in the screen; the 116 queries with non-fungal closest relatives (h > 0; Results 3.1; column nonfungal_nearest = yes) are listed first, followed by the 1,161 queries whose closest relatives are fungal (h <= 0; nonfungal_nearest = no); each group is sorted by gene. The fate of each query in the funnel (column fate) is one of the five categories of Table 1 (probable contamination; member of a fungal family with a single better bacterial hit; bacterial-type protein unrelated to rhizobia, not analysed further; T-DNA candidate; non-T-DNA (rhizobial) candidate) or, for h <= 0, 'fungal nearest relatives (no further analysis)'. Queries from the GenBank/RefSeq duplicate of an assembly are kept and flagged (column duplicate_assembly).
 
@@ -162,9 +162,9 @@ All queries of the reverse search of the protein-level screen: 1,277 queries (pr
 
 ### Table S4. Classification thresholds and their sensitivity
 
-File: `TableS4_Classification_thresholds_and_their_sensitivity.tsv` (11 rows, 6 columns); sheet `S4` of Supplementary_Tables.xlsx
+Sheet `S4` of Supplementary_Tables.xlsx (11 rows, 6 columns)
 
-Every threshold used to classify proteins, loci and contigs, with the reason for its value and the range of values over which the result is unchanged (the classification was recomputed over a grid of values; the distributions are shown in Figure S1). One row per threshold.
+Every threshold used to classify proteins, loci and contigs, with the reason for its value and the range of values over which the result is unchanged (the classification was repeated over a grid of values; the distributions are shown in Figure S1). One row per threshold.
 
 | Column | Description |
 |---|---|
@@ -177,7 +177,7 @@ Every threshold used to classify proteins, loci and contigs, with the reason for
 
 ### Table S5a. Contaminant and control contigs
 
-File: `TableS5a_Contaminant_and_control_contigs.tsv` (54 rows, 16 columns); sheet `S5a` of Supplementary_Tables.xlsx
+Sheet `S5a` of Supplementary_Tables.xlsx (54 rows, 16 columns)
 
 Contigs carrying the 11 probable contaminants of the protein-level screen (>=90% identity to a non-rhizobial bacterial protein) and 43 control contigs carrying loci of the catalogue: composition, gene density and plasmid maintenance and transfer genes (vir, tra, rep). None of the contaminant contigs carries Ti/Ri plasmid vir, tra or rep genes (best identity <=31.6%). The vir/tra/rep search of the Boletales assemblies is in Table S5b. One row per contig.
 
@@ -202,7 +202,7 @@ Contigs carrying the 11 probable contaminants of the protein-level screen (>=90%
 
 ### Table S5b. vir, tra and rep genes in the Boletales assemblies
 
-File: `TableS5b_vir_tra_and_rep_genes_in_the_Boletales_assemblies.tsv` (3 rows, 13 columns); sheet `S5b` of Supplementary_Tables.xlsx
+Sheet `S5b` of Supplementary_Tables.xlsx (3 rows, 13 columns)
 
 Contigs of the 517 Boletales assemblies carrying a locus that matches a Ti/Ri plasmid maintenance or transfer protein (vir, tra, rep) at >=60% identity (blastx of the assemblies against the plasmid protein catalogue; hits within 5 kb on one strand merged into a locus). Two assemblies have such contigs: Boletus harrisonii (a carrier assembly; 368-bp contig) and Pisolithus albus (not a carrier; 488-bp contig); neither contig carries a locus of the catalogue. One row per locus.
 
@@ -224,7 +224,7 @@ Contigs of the 517 Boletales assemblies carrying a locus that matches a Ti/Ri pl
 
 ### Table S6. The 517 Boletales assemblies
 
-File: `TableS6_The_517_Boletales_assemblies.tsv` (517 rows, 22 columns); sheet `S6` of Supplementary_Tables.xlsx
+Sheet `S6` of Supplementary_Tables.xlsx (517 rows, 22 columns)
 
 The 517 Boletales genome assemblies analysed, with genome cluster (mash), assembly metadata and presence of the five lineages found in Boletales (best state among the loci of the lineage in this assembly: intact > pseudogene > fragment; '-' = absent; all five lineages: loci placed on a tree). Assembly metadata (release date, level, length, contigs, N50, BioSample, BioProject, submitter, sequencing technology, WGS project) were retrieved from NCBI Datasets for all accessions (blank = not recorded by NCBI); SRA run only for assemblies used in read mapping.
 
@@ -255,7 +255,7 @@ The 517 Boletales genome assemblies analysed, with genome cluster (mash), assemb
 
 ### Table S7. The 324 assemblies of Fusarium, Neocosmospora and Dactylonectria
 
-File: `TableS7_The_324_assemblies_of_Fusarium_Neocosmospora_and_D.tsv` (324 rows, 14 columns); sheet `S7` of Supplementary_Tables.xlsx
+Sheet `S7` of Supplementary_Tables.xlsx (324 rows, 14 columns)
 
 The 324 genome assemblies of Fusarium, Neocosmospora and Dactylonectria screened for the chs-like gene and for the three genes of the odh island (odh, pepP, orf3): one row per assembly with the state of each gene and the number of loci (33 assemblies carry a chs-like locus, 5 carry genes of the odh island; loci in Tables S13a and S13b).
 
@@ -278,7 +278,7 @@ The 324 genome assemblies of Fusarium, Neocosmospora and Dactylonectria screened
 
 ### Table S8. Read depth at the loci
 
-File: `TableS8_Read_depth_at_the_loci.tsv` (113 rows, 21 columns); sheet `S8` of Supplementary_Tables.xlsx
+Sheet `S8` of Supplementary_Tables.xlsx (113 rows, 21 columns)
 
 Reads mapped back to the assemblies show whether each locus lies in the assembled genome: read depth at each GDPD/Cus/Sus locus relative to the genome and to its contig, and properties of the contig. Lineage from Table S1b.
 
@@ -308,7 +308,7 @@ Reads mapped back to the assemblies show whether each locus lies in the assemble
 
 ### Table S9. Reproducibility of loci in independent assemblies
 
-File: `TableS9_Reproducibility_of_loci_in_independent_assemblies.tsv` (139 rows, 13 columns); sheet `S9` of Supplementary_Tables.xlsx
+Sheet `S9` of Supplementary_Tables.xlsx (139 rows, 13 columns)
 
 The loci are reproduced in independent assemblies of the same species: for loci-bearing contigs of one assembly, the best matching sequence in an independent assembly of the same species and how much of the contig, the locus and its flanks is covered.
 
@@ -330,7 +330,7 @@ The loci are reproduced in independent assemblies of the same species: for loci-
 
 ### Table S10a. Oncogenes, hormone and opine synthesis genes of the T-DNA in Boletales assemblies
 
-File: `TableS10a_Oncogenes_hormone_and_opine_synthesis_genes_of_the.tsv` (17 rows, 8 columns); sheet `S10a` of Supplementary_Tables.xlsx
+Sheet `S10a` of Supplementary_Tables.xlsx (17 rows, 8 columns)
 
 Search of the 517 Boletales assemblies for the oncogenes, hormone synthesis genes and opine synthesis genes of the T-DNA (protein queries vs assemblies, blastx). A strong single-locus hit has an identity of at least 45% over at least half of the query. Plasmid maintenance and transfer genes (vir, tra, rep) are in Table S5b. The genes orf13/orf14 were not searched (no protein query).
 
@@ -347,7 +347,7 @@ Search of the 517 Boletales assemblies for the oncogenes, hormone synthesis gene
 
 ### Table S10b. Opine dehydrogenase-like loci in Boletales assemblies
 
-File: `TableS10b_Opine_dehydrogenase_like_loci_in_Boletales_assembl.tsv` (9 rows, 16 columns); sheet `S10b` of Supplementary_Tables.xlsx
+Sheet `S10b` of Supplementary_Tables.xlsx (9 rows, 16 columns)
 
 Loci in Boletales assemblies matching bacterial opine (nopaline) dehydrogenase queries.
 
@@ -372,7 +372,7 @@ Loci in Boletales assemblies matching bacterial opine (nopaline) dehydrogenase q
 
 ### Table S11. Approximately unbiased (AU) topology tests
 
-File: `TableS11_Approximately_unbiased_AU_topology_tests.tsv` (73 rows, 8 columns); sheet `S11` of Supplementary_Tables.xlsx
+Sheet `S11` of Supplementary_Tables.xlsx (73 rows, 8 columns)
 
 AU tests of constrained topologies against the unconstrained ML tree, per family (IQ-TREE, 10,000 RELL resamplings). Verdict: rejected if p-AU < 0.05. The first row of each family is the unconstrained ML tree used as the reference (its deltaL is not necessarily 0 when a constrained tree has a higher likelihood). Within each family, Holm adjustment of the p-values over the listed constraints changes no verdict. Where a family has several reference rows, the rows form separate runs (separate user-tree sets), and p-values are comparable only within a run.
 
@@ -389,7 +389,7 @@ AU tests of constrained topologies against the unconstrained ML tree, per family
 
 ### Table S11b. Mapping of the AU constraints to the biological alternatives they test
 
-File: `TableS11b_Mapping_of_the_AU_constraints_to_the_biological_al.tsv` (60 rows, 18 columns); sheet `S11b` of Supplementary_Tables.xlsx
+Sheet `S11b` of Supplementary_Tables.xlsx (60 rows, 18 columns)
 
 One row per constraint (constraint_id = run code and tree number, e.g. ODH-1; the same identifier is the folder key in Data S2b). Columns: tested_topology_constraint, p_AU, deltaL and verdict repeat Table S11; biological_alternative, the hypothesis the constraint stands for; constraint_definition, the leaf sets forced into one clade, read from the constraint tree actually used (all other leaves free; the forced clade must contain exactly the listed leaves); constraint_leaves, candidate_leaves (fungal genes under test) and partner_leaves, the numbers of leaves; partner_set_monophyletic_in_ML_tree, whether the partner (non-candidate) leaves of the constraint form a clade in the unconstrained ML tree after the fungal genes under test are pruned from it; native_fungal_set_in_constraint and native_set_monophyletic_in_ML_tree, the same for constraints that force a native fungal set into the clade (yes/no/n.a.); interpretation, what rejection or non-rejection means; caveat, limits on that reading. Where the native fungal set is not itself monophyletic in the ML tree (SUS_nat-3 and -4, ACS-4, ACS_nat-7, NOS_nat-4 and -5, NOS_rh-7 and -8, ODH-1 and -2), rejection of the constraint shows that the fungal genes do not fall inside one clade with all of those native genes, not by itself that they are of non-fungal origin; the control ODH-3 (native fungal ODH forced together, island free) is itself rejected (p = 0.0064). Non-rejection is compatibility only. The constraint trees and the IQ-TREE outputs of the constrained searches are in Data S2b.
 
@@ -416,7 +416,7 @@ One row per constraint (constraint_id = run code and tree number, e.g. ODH-1; th
 
 ### Table S12. Gene content of the islands
 
-File: `TableS12_Gene_content_of_the_islands.tsv` (160 rows, 22 columns); sheet `S12` of Supplementary_Tables.xlsx
+Sheet `S12` of Supplementary_Tables.xlsx (160 rows, 22 columns)
 
 Genes on the contigs carrying the loci (focal loci and their annotated neighbours), with the best match to plasmid (T-DNA/Ti/Ri) proteins where found. Neighbouring genes are named <contig>:g<n> (the number is unique only within a contig).
 
@@ -447,7 +447,7 @@ Genes on the contigs carrying the loci (focal loci and their annotated neighbour
 
 ### Table S13a. chs-like loci in Fusarium and relatives
 
-File: `TableS13a_chs_like_loci_in_Fusarium_and_relatives.tsv` (33 rows, 33 columns); sheet `S13a` of Supplementary_Tables.xlsx
+Sheet `S13a` of Supplementary_Tables.xlsx (33 rows, 33 columns)
 
 The 33 loci similar to the bacterial chs gene found in the 324 genomes of Fusarium and related genera (all are chs-like loci), with alignment to the reference proteins and gene-model state; one row per locus (per assembly in Table S7).
 
@@ -489,7 +489,7 @@ The 33 loci similar to the bacterial chs gene found in the 324 genomes of Fusari
 
 ### Table S13b. Loci of the odh-like island in Fusarium and relatives
 
-File: `TableS13b_Loci_of_the_odh_like_island_in_Fusarium_and_relati.tsv` (28 rows, 28 columns); sheet `S13b` of Supplementary_Tables.xlsx
+Sheet `S13b` of Supplementary_Tables.xlsx (28 rows, 28 columns)
 
 Loci similar to the three genes of the bacterial-type island (odh, pepP, orf3) found in the 324 genomes of Fusarium and related genera (per assembly in Table S7), with alignment to the reference proteins of F. poae Fp133 and gene-model state.
 
@@ -526,7 +526,7 @@ Loci similar to the three genes of the bacterial-type island (odh, pepP, orf3) f
 
 ### Table S13c. Reverse search of the island genes against NCBI nr
 
-File: `TableS13c_Reverse_search_of_the_island_genes_against_NCBI_nr.tsv` (9 rows, 15 columns); sheet `S13c` of Supplementary_Tables.xlsx
+Sheet `S13c` of Supplementary_Tables.xlsx (9 rows, 15 columns)
 
 Best hits in NCBI nr (DIAMOND blastp, sensitive mode, up to 1,000 targets) for the three genes of the island in F. poae and F. langsethiae and for the two flanking fungal genes of F. poae Fp133. Hits from Fusarium and Neocosmospora are excluded from the 'best hit' columns. The three island genes have their best hits in three adjacent genes of one plasmid locus of Agrobacterium larrymoorei SORGH_AS_0974 (NZ_JAVIZC010000002.1: WP_309770756.1, WP_309770757.1/WP_309770758.1, WP_309770759.1).
 
@@ -550,7 +550,7 @@ Best hits in NCBI nr (DIAMOND blastp, sensitive mode, up to 1,000 targets) for t
 
 ### Table S14. Nucleotide composition of the loci and of bacterial reference genes
 
-File: `TableS14_Nucleotide_composition_of_the_loci_and_of_bacteria.tsv` (107 rows, 24 columns); sheet `S14` of Supplementary_Tables.xlsx
+Sheet `S14` of Supplementary_Tables.xlsx (107 rows, 24 columns)
 
 GC and GC3 of the intact fungal locus CDSs (sus-like, cus-like, acc-type GDPD, pKerr14a-type and nos-subfamily loci of Boletales, two nos-subfamily pseudogenes included) compared with background genes of the same genome and with a pooled Boletales gene set; for the intact chs-like and odh-island genes of Fusarium only the GC of the gene and of the assembly is given. The last rows (entry_type = bacterial reference) give GC and GC3 of the CDS of the Ti/Ri plasmid reference genes. One row per locus or reference gene.
 
@@ -583,7 +583,7 @@ GC and GC3 of the intact fungal locus CDSs (sus-like, cus-like, acc-type GDPD, p
 
 ### Table S15. dN/dS of the intact genes of all lineages
 
-File: `TableS15_dN_dS_of_the_intact_genes_of_all_lineages.tsv` (16 rows, 14 columns); sheet `S15` of Supplementary_Tables.xlsx
+Sheet `S15` of Supplementary_Tables.xlsx (16 rows, 14 columns)
 
 Codon-model tests of selection (PAML codeml M0, M7/M8, M8a; pairwise yn00) on the intact copies of each lineage with at least two copies of a gene, on codon alignments (MAFFT, IQ-TREE tree). For the sus-like and cus-like rows (all intact copies) the <=20%-gap alignment was analysed with codeml M0 only (same sequences and tree as the strict run); the remaining rows were analysed on both alignments with all tests. cus-like is given for all intact copies, and separately for Boletales and for outside Boletales, each for all intact copies and for one copy per species (longest CDS of each species for the Boletales set). The four sets marked 'confirmed or supported only' exclude the loci whose integration status is uncertain (Table S1a); for the nos-subfamily set of three genes M0 was run on a star tree and no site models were fitted. One row per gene set.
 
@@ -606,7 +606,7 @@ Codon-model tests of selection (PAML codeml M0, M7/M8, M8a; pairwise yn00) on th
 
 ### Table S16. RNA-seq at the loci: Boletaceae, Fusarium chs-like locus and Fusarium poae odh island
 
-File: `TableS16_RNA_seq_at_the_loci_Boletaceae_Fusarium_chs_like_l.tsv` (95 rows, 36 columns); sheet `S16` of Supplementary_Tables.xlsx
+Sheet `S16` of Supplementary_Tables.xlsx (95 rows, 36 columns)
 
 Expression of the loci in public RNA-seq runs, in three datasets (column dataset): Boletaceae (reads mapped to the loci of the corresponding assemblies), the chs-like locus in the Fusarium reference strains and the genes of the odh island in F. poae Fp133 (first 10 million reads of each run mapped to the Fp133 assembly). Columns that apply to only some datasets are marked; blank = not applicable. One row per run and locus.
 
@@ -651,7 +651,7 @@ Expression of the loci in public RNA-seq runs, in three datasets (column dataset
 
 ### Table S17a. Identity of plant cT-DNA and fungal T-DNA-candidate proteins to bacterial T-DNA proteins: summary
 
-File: `TableS17a_Identity_of_plant_cT_DNA_and_fungal_T_DNA_candidat.tsv` (11 rows, 16 columns); sheet `S17a` of Supplementary_Tables.xlsx
+Sheet `S17a` of Supplementary_Tables.xlsx (11 rows, 16 columns)
 
 Summary by gene and protein group of the amino-acid identity to the nearest bacterial T-DNA seed of the same gene (30 bacterial seeds; DIAMOND blastp, very-sensitive). Plant cT-DNA proteins: seed-set members of plant origin, GenBank/Entrez entries and miniprot models in the Nicotiana tomentosiformis genome; fungal T-DNA candidates: proteins classified as T-DNA candidates (Table S3). Proteins excluded in Table S17b are not counted. One row per gene and group.
 
@@ -676,7 +676,7 @@ Summary by gene and protein group of the amino-acid identity to the nearest bact
 
 ### Table S17b. Identity of plant cT-DNA and fungal T-DNA-candidate proteins to bacterial T-DNA proteins: by protein
 
-File: `TableS17b_Identity_of_plant_cT_DNA_and_fungal_T_DNA_candidat.tsv` (95 rows, 23 columns); sheet `S17b` of Supplementary_Tables.xlsx
+Sheet `S17b` of Supplementary_Tables.xlsx (95 rows, 23 columns)
 
 Pairwise comparison of every plant cT-DNA and fungal T-DNA-candidate protein with the bacterial T-DNA seeds of the same gene, with the reference seed, with the Ti/Ri plasmid protein catalogue and, for fungal proteins, with the plant cT-DNA proteins. One row per protein.
 
@@ -708,7 +708,7 @@ Pairwise comparison of every plant cT-DNA and fungal T-DNA-candidate protein wit
 
 ### Table S18. Evidence for each lineage by the three criteria of horizontal transfer and the tests against contamination
 
-File: `TableS18_Evidence_for_each_lineage_by_the_three_criteria_of.tsv` (9 rows, 9 columns); sheet `S18` of Supplementary_Tables.xlsx
+Sheet `S18` of Supplementary_Tables.xlsx (9 rows, 9 columns)
 
 The seven lineages of bacterial origin (cus-like split into Boletales and other orders): evidence by the three criteria of the Introduction (rows 1-5), the prerequisite that contamination is excluded (rows 6-7), the fate of the genes (row 8) and the closest sampled relatives (row 9); Table 3 of the main text gives the same lineages in words. Clusters with: the bacterial genes with which the fungal genes group in the tree of the family, with the support of the node that joins them (SH-aLRT/UFBoot, %; the support of the fungal clade itself is in Figure 3 of the main text); the alternative placements rejected by the AU test, and which constraints are informative, are in Tables S11 and S11b. For the pKerr14a-type lineage the grouping node is weakly supported and placement with the acc-type GDPD is not rejected (p = 0.415 and 0.132), so criterion 1 is met with low confidence. Patchy distribution: species with the gene among the species screened (358 species-level clusters of Boletales; 90 species of Fusarium and relatives; Tables S6, S7). Genomic context: a single gene among fungal genes or an island with genes of other acquired lineages (Table S12). Intact genes with introns: genes with at least one intron over all intact genes of the lineage (Table S1a). GC: median difference of the genes' GC from the carrier genome in percentage points (Boletales, from the median of the neighbouring genes; Fusarium, from the assembly) and the number of genes above the 95th percentile of the genome's genes (Table S14); met, at least half of the genes above that percentile or a difference above 5 points; partly, fewer than half; not met otherwise. Contamination excluded by: the tests passed by at least one locus of the lineage: F, fungal genes on both flanks; A, the locus at the same place with the same flanks in an independent assembly of the species (Table S9); S, a gene of the lineage present in several assemblies of the species, flanks not compared; C, the locus on an assembled chromosome; R, read depth equal to the genome and reads spanning the junctions (Table S8); P, no plasmid vir, tra or rep genes on the contig (Table S5b); a letter is omitted when the test was not done. Loci with integration confirmed / supported / not assessable: per-locus status (Table S1a, column integration_status; rules in Methods 2.5 of the main text). omega, dN/dS of the M0 model (Table S15; in parentheses, pairs with dS <= 2); transcription from RNA-seq (Table S16); n.d., not determined. Closest sampled relatives and locus context: affinities, not established sources of transfer. Numbers of loci, assemblies and species are in Table 2 of the main text.
 
@@ -728,79 +728,79 @@ The seven lineages of bacterial origin (cus-like split into Boletales and other 
 
 ### Figure S1. Distributions of the statistics underlying the thresholds
 
-File: `figures/FigureS1_thresholds_distributions.png` (and `.svg`, `.pdf`)
+Files: `figures/FigureS1_thresholds_distributions.png` (PDF: `figures_pdf/FigureS1_thresholds_distributions.pdf`)
 
 The 11 thresholds of the classification of proteins, loci and contigs are shown in 12 panels (the vir/tra/rep threshold has two panels, k and l). Each panel gives the distribution of the underlying statistic (grey, the comparison group; colour, the group passing the threshold), the threshold (dashed line) and the range of threshold values over which the result is unchanged (grey band). (a) probable contamination; (b, c) bacterial-type protein; (d-f) T-DNA candidate; (g) non-T-DNA (rhizobial) candidate; (h, i) chs-like loci; (j) fragments assigned to the pKerr14a-type lineage; (k, l) vir/tra/rep genes on contigs. The numerical results of the sensitivity analysis are in Table S4.
 
 ### Figure S2. Full tree of the OCD-fold family (Sus)
 
-File: `figures/FigureS2_tree_sus.png` (and `.svg`, `.pdf`)
+Files: `figures/FigureS2_tree_sus.png` (PDF: `figures_pdf/FigureS2_tree_sus.pdf`)
 
 The fungal sus-like genes lie within the clade of T-DNA sus genes. Full maximum-likelihood tree of the OCD-fold family (125 sequences, 434 sites, Q.PFAM+R5), from which panel (a) of Figure 3 was collapsed. Leaf colours: T-DNA sus clade (fungal sus-like genes with the Ti/Ri plasmid and plant cT-DNA references), Rhizobiales chromosomal OCD, other bacterial OCD, native fungal homologs, outgroup; key lineages in bold. Node labels, SH-aLRT/UFBoot (%), shown when UFBoot is at least 50; rooted as in Figure 3; scale bar, substitutions per site. Tree, alignment and IQ-TREE report in Data S2 (sus.*).
 
 ### Figure S3. Full tree of the cucumopine synthase family (Cus)
 
-File: `figures/FigureS3_tree_cus.png` (and `.svg`, `.pdf`)
+Files: `figures/FigureS3_tree_cus.png` (PDF: `figures_pdf/FigureS3_tree_cus.pdf`)
 
-The fungal cus-like genes lie within the T-DNA cus clade, interleaved with the references. Full maximum-likelihood tree of the cucumopine synthase family (436 sequences, 810 sites, JTT+R7), from which panel (b) of Figure 3 was collapsed: T-DNA cus clade (fungal cus-like genes of Boletales and of other orders with the Ti/Ri plasmid, plant cT-DNA and four other bacterial references), actinobacterial-type clade, mis group, other bacterial homologs, outgroup. In panel (b) of Figure 3 one native fungal gene detected by the cus profile (Boletus austroedulis; excluded from the analysis) is omitted from the schematic; it is labelled here as "native fungal gene, excluded". Supports, rooting and scale as in Figure S2; because of the size of the tree the labels are small and the vector files (.svg, .pdf) should be used for reading. Data S2: cus.*.
+The fungal cus-like genes lie within the T-DNA cus clade, interleaved with the references. Full maximum-likelihood tree of the cucumopine synthase family (436 sequences, 810 sites, JTT+R7), from which panel (b) of Figure 3 was collapsed: T-DNA cus clade (fungal cus-like genes of Boletales and of other orders with the Ti/Ri plasmid, plant cT-DNA and four other bacterial references), actinobacterial-type clade, mis group, other bacterial homologs, outgroup. In panel (b) of Figure 3 one native fungal gene detected by the cus profile (Boletus austroedulis; excluded from the analysis) is omitted from the schematic; it is labelled here as "native fungal gene, excluded". Supports, rooting and scale as in Figure S2; because of the size of the tree the labels are small and the vector files (PDF, in figures_pdf/) should be used for reading. Data S2: cus.*.
 
 ### Figure S4. Full tree of the M24 aminopeptidase family (Chs, Ags)
 
-File: `figures/FigureS4_tree_chs.png` (and `.svg`, `.pdf`)
+Files: `figures/FigureS4_tree_chs.png` (PDF: `figures_pdf/FigureS4_tree_chs.pdf`)
 
 The Fusarium chs-like genes are sister to the Ti-plasmid chs clade and are not nested within it. Full maximum-likelihood tree of the M24 aminopeptidase family (58 sequences, 687 sites, Q.PFAM+I+G4), from which panel (c) of Figure 3 was collapsed: Fusarium and Dactylonectria chs-like genes, Ti-plasmid chs clade (the chs of pTi14-818c and other agrobacterial chs), native fungal Ags homologs, other bacterial M24 aminopeptidases; rooted on the ags seed. Supports and scale as in Figure S2. Data S2: chs.*.
 
 ### Figure S5. Full tree of the GDPD family
 
-File: `figures/FigureS5_tree_gdpd.png` (and `.svg`, `.pdf`)
+Files: `figures/FigureS5_tree_gdpd.png` (PDF: `figures_pdf/FigureS5_tree_gdpd.pdf`)
 
 The acc-type and pKerr14a-type GDPD genes group with the GDPD of rhizobial acc-like loci and with the acs of pKerr14a, respectively, and not with the T-DNA acs clade. Full maximum-likelihood tree of the GDPD family (259 sequences, 989 sites, JTT+R5), from which panel (d) of Figure 3 was collapsed: T-DNA acs clade, acc-type GDPD with the bacterial acc-locus references, pKerr14a-type acs-like with the acs of pKerr14a and the Parasponia cT-DNA fragment, native fungal GDPD, fungal GDPD of unresolved position, outgroup. Supports, rooting and scale as in Figure S2. Data S2: gdpd.*.
 
 ### Figure S6. Full tree of the opine dehydrogenase family, nos subfamily
 
-File: `figures/FigureS6_tree_nos.png` (and `.svg`, `.pdf`)
+Files: `figures/FigureS6_tree_nos.png` (PDF: `figures_pdf/FigureS6_tree_nos.pdf`)
 
 The nos-subfamily genes of Boletales form a clade sister to the bacterial genes of the subfamily; the Rhypophila homolog is shown but not assigned to any lineage. Full maximum-likelihood tree of the opine dehydrogenase family around the nos subfamily (64 sequences, 390 sites, Q.PFAM+R4), from which panel (e) of Figure 3 was collapsed: nos-subfamily genes of Boletales, the Rhypophila nos homolog, T-DNA nos clade, rhizobial nos-like genes, odh-island genes, native fungal and other bacterial opine dehydrogenases; rooted on the ocs/vis seeds. Supports and scale as in Figure S2. Data S2: nos.*.
 
 ### Figure S7. Full tree of the opine dehydrogenase family, odh island
 
-File: `figures/FigureS7_tree_odh.png` (and `.svg`, `.pdf`)
+Files: `figures/FigureS7_tree_odh.png` (PDF: `figures_pdf/FigureS7_tree_odh.pdf`)
 
 The odh-island genes of Fusarium are sister to the plasmid opine dehydrogenase of Agrobacterium larrymoorei. Full maximum-likelihood tree of the opine dehydrogenase family around the odh island (44 sequences, 423 sites, Q.PFAM+G4), from which panel (f) of Figure 3 was collapsed: odh-island genes of F. poae and F. langsethiae, the plasmid opine dehydrogenase of A. larrymoorei (donor locus), nos subfamily, native fungal and other bacterial opine dehydrogenases; rooted on the ocs/vis seeds. Supports and scale as in Figure S2. Data S2: odh.*.
 
 ### Figure S8. Approximately unbiased (AU) tests of the lineage hypotheses
 
-File: `figures/FigureS8_AU_tests.png` (and `.svg`, `.pdf`)
+Files: `figures/FigureS8_AU_tests.png` (PDF: `figures_pdf/FigureS8_AU_tests.pdf`)
 
 AU tests of the topological constraints for all lineages, drawn from Table S11. Each row is one constrained tree; the dot shows p-AU on a logarithmic scale (dashed line, p = 0.05); squares mark the unconstrained maximum-likelihood tree of each run; dlnL, log-likelihood difference from the best tree. Yellow, constraint not rejected; black, rejected. Hypotheses are worded as in Table S11 (Methods 2.6).
 
 ### Figure S9. Structural phylogeny of the GDPD family
 
-File: `figures/FigureS9_structural_gdpd.png` (and `.svg`, `.pdf`)
+Files: `figures/FigureS9_structural_gdpd.png` (PDF: `figures_pdf/FigureS9_structural_gdpd.pdf`)
 
 A tree built from predicted protein structures reproduces the sequence-based GDPD lineages. Maximum-likelihood tree built from the structural alignment (FoldMason, 3Di and amino-acid alphabets) of ColabFold models of the GDPD family (Methods 2.6). Shaded: the T-DNA acs references, the acc-type lineage (48 fungal genes with the acc-locus references) and the pKerr14a-type lineage (fungal genes with the acs of pKerr14a and the Parasponia cT-DNA fragment). Leaf colours: fungal loci (intact, pseudogene-like), T-DNA and plant cT-DNA references, bacterial references, native fungal homologs, outgroup.
 
 ### Figure S10. All opine islands of Boletaceae
 
-File: `figures/FigureS10_islands.png` (and `.svg`, `.pdf`)
+Files: `figures/FigureS10_islands.png` (PDF: `figures_pdf/FigureS10_islands.pdf`)
 
 All opine islands of Boletaceae: the 13 contigs (7 assemblies of 6 species or species-level taxa) carrying two or more loci of bacterial type at distinct positions (Table S12), drawn to a common scale as in Figure 4a; each window spans the loci with 12 kb on each side (within the gene set of Table S12). Genes of the lineages of bacterial origin (sus-like, cus-like, acc-type GDPD, nos-subfamily opine dehydrogenase) are coloured as in Figure 4; loci of the nos-subfamily opine dehydrogenase lineage, found by blastx and therefore absent from Table S12, are included (Table S1b; contigs with such a locus and no other locus of bacterial type are not shown); other genes of bacterial type (mis group; other bacterial-type ORF) and the GDPD gene of unresolved position are shown in separate colours (legend); fungal neighbour genes grey; transposases and integrases black; dashed outline, pseudogene, fragment or remnant. Lineages and gene states are those of Table S1b. Arrows show the strand. Repeats are not drawn, because repeat annotation exists only for the contigs of Figure 4a. Contigs with a single locus are not shown. On JBBPKX010000014 the nos-subfamily gene (pseudogene) lies on the same strand as the intact mis-group gene, 3.9 kb downstream of it.
 
 ### Figure S11. Pairwise dN/dS of the intact genes of each lineage
 
-File: `figures/FigureS11_dnds.png` (and `.svg`, `.pdf`)
+Files: `figures/FigureS11_dnds.png` (PDF: `figures_pdf/FigureS11_dnds.pdf`)
 
 Pairwise dN/dS (yn00) between intact genes of each lineage: (a) sus-like genes of Boletales (31 genes, 464 pairs); (b) all cus-like genes (27 genes, 347 pairs); (c) cus-like genes outside Boletales (20 genes; 59 pairs with dS <= 2 shown, 120 of 179 pairs excluded as saturated); (d) chs-like genes of Fusarium (6 genes, 13 pairs); (e) pKerr14a-type acs-like genes (6 genes, 15 pairs; M0 omega for the strict 99-codon and the 219-codon alignment); (f) nos-subfamily opine dehydrogenase genes of Boletales (4 genes, 5 pairs); (g) odh-island genes of Fusarium (5 loci, 7 pairs; unreliable, dS about 0.02). Histograms (a-d) or individual pairs (e-g); solid coloured line, median pairwise dN/dS; dotted line, omega of the M0 model (codeml); dashed black line, dN/dS = 1. The acc-type GDPD lineage (3 intact of 60 loci) was not tested. Values in Table S15.
 
 ### Figure S12. The strain-specific insertion on contig JBBPRY010001778 of Boletus edulis
 
-File: `figures/FigureS12_bedulis_insertion.png` (and `.svg`, `.pdf`)
+Files: `figures/FigureS12_bedulis_insertion.png` (PDF: `figures_pdf/FigureS12_bedulis_insertion.pdf`)
 
 The strain-specific insertion on contig JBBPRY010001778 of Boletus edulis (7.4 kb; Figure 4b). Top, read depth along the contig (smoothed over 200 bp; dashed line, genome median 91x); the repeat-insertion junction at 1,313 bp (dotted line) is spanned by 19 reads (9 read pairs), which supports the continuity of the contig across this junction. Bottom, the gene model of the pKerr14a-type acs-like gene (five exons, purple), flanking repeats (hatched), and the 5.9-kb segment (1,313-7,202 bp; red) absent from five other assemblies of the species, with the flanks present in other assemblies (green). Read depth of all loci in Table S8; reproducibility in independent assemblies in Table S9.
 
 ### Figure S13. Both chromosomal copies of the odh island of Fusarium poae Fp133
 
-File: `figures/FigureS13_fp133_island_two_copies.png` (and `.svg`, `.pdf`)
+Files: `figures/FigureS13_fp133_island_two_copies.png` (PDF: `figures_pdf/FigureS13_fp133_island_two_copies.pdf`)
 
 Both chromosomal copies of the odh island of F. poae Fp133 compared with the homologous locus of the A. larrymoorei plasmid NZ_JAVIZC010000002.1 (Figure 4c shows the chromosome 2 copy only). Top, plasmid locus (110.9-137.3 kb), where the cassette is bounded by IS3-, IS110- and IS66-family transposases; middle, chromosome 2 (CM100255.1, 9,450.2-9,476.6 kb; 346.9 kb to the chromosome end); bottom, chromosome 3 (CM100256.1, 8,410.4-8,436.8 kb, shown as the reverse complement; 217.6 kb to the chromosome end). Ribbons connect the homologous genes orf3, pepP and odh; dashed outline, pseudogene or fragment; arrows indicate strand. Scale bar, 5 kb.
 
@@ -828,7 +828,7 @@ Constraint trees (Newick) and IQ-TREE outputs (.treefile, .iqtree, .log) of the 
 
 File: `Data_S3_screened_assemblies.tsv`
 
-The 2,215 distinct genome assemblies screened, 2,227 rows because 12 assemblies of Fusarium relatives belong to both the 1,386 and the 324 set: the 517 assemblies of Boletales (Table S6), 1,386 assemblies of other fungal orders (accession, organism, order, class; a note where the order was inferred) and the 324 assemblies of Fusarium, Neocosmospora and Dactylonectria (Table S7), in one table with the column set identifying the group (12 assemblies of Fusarium-related genera were included in both the preliminary screen of other orders and the Fusarium set and appear twice; 2,215 distinct assemblies). Tab-separated file.
+The 2,215 distinct genome assemblies screened, 2,227 rows because 12 assemblies of Fusarium relatives belong to both the 1,386 and the 324 set: the 517 assemblies of Boletales (Table S6), 1,386 assemblies of other fungal orders (accession, organism, order, class; a note where the order was inferred) and the 324 assemblies of Fusarium, Neocosmospora and Dactylonectria (Table S7), in one table with the column set identifying the group (12 assemblies of Fusarium-related genera were included in both the screen of other orders and the Fusarium set and appear twice; 2,215 distinct assemblies). Tab-separated file.
 
 ### Data S4. Codon alignments, trees and codeml/yn00 files of the dN/dS analyses
 

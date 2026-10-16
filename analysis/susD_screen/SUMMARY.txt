@@ -1,0 +1,2 @@
+susD (ARU12249.1, pTiEU6) vs 6,847 annotated fungal proteomes, DIAMOND --very-sensitive, bits>=50 (same as seeds_ext screen), 2026-10-15, LSF 840322.
+Within the 6,123-proteome universe: 784 proteomes with a hit, identity median 30.8%, max 37.1%. Top hits (Xylariales nos/ocs homologs) were already reverse-searched in Table S3 and classified 'fungal nearest relatives'. No candidate of bacterial origin.

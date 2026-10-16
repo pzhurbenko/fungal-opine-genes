@@ -2,8 +2,8 @@
 strain-specific insertion on the B. edulis contig JBBPRY010001778 (panel b, same scale) and the
 odh-pepP-orf3 island of Fusarium poae Fp133 vs. its donor locus in Agrobacterium larrymoorei (panel c, own scale).
 Run: MPLBACKEND=Agg python make_fig4.py
-Data: analysis/report_B/tables/island_gene_order.tsv, analysis/islands/islands_genes.tsv (gene roles),
-analysis/report_A/data/* (JAHRGV010000066 genes, region fasta for GC, B. edulis depth),
+Data: analysis/island_order/island_gene_order.tsv, analysis/islands/islands_genes.tsv (gene roles),
+analysis/islands/island_JAHRGV010000066_genes.tsv (JAHRGV010000066 genes),
 analysis/fusarium_odh_island/{scan/loci.tsv, fig4/fp133_window_genes.tsv, donor/NZ_JAVIZC010000002.1.gb} (panel c),\npaper/tables/TableS1_loci_catalog.tsv (final lineage), loci_pipeline/round2/loci/ACS_JBBPRY010001778_L1/augustus.gff3 (exons)."""
 import sys as _sys, os as _os; _sys.path.insert(0, _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..', '..')))
 from gmo_paths import GMO_ROOT  # noqa: E402
@@ -36,13 +36,13 @@ lin = {r['locus_id']: r['lineage_final'] for r in tsv(f'{G}/paper/tables/TableS1
 role = {}
 for r in tsv(f'{A}/islands/islands_genes.tsv'):
     role[(r['contig'], r['gene'])] = (r['role'], r['top_title'])
-for r in tsv(f'{A}/report_A/data/island_JAHRGV010000066_genes.tsv'):
+for r in tsv(f'{A}/islands/island_JAHRGV010000066_genes.tsv'):
     role.setdefault(('JAHRGV010000066', r['gene']), (r['role'], r['top_title']))
 gene_rows = {}
-for r in tsv(f'{A}/report_B/tables/island_gene_order.tsv'):
+for r in tsv(f'{A}/island_order/island_gene_order.tsv'):
     gene_rows.setdefault(r['island_contig'], []).append(r)
-# 066: neighbours g18/g19/g27 are in the report_A table only (outside the island table)
-for r in tsv(f'{A}/report_A/data/island_JAHRGV010000066_genes.tsv'):
+# 066: neighbours g18/g19/g27 are in the islands/island_JAHRGV010000066_genes.tsv only (outside the island table)
+for r in tsv(f'{A}/islands/island_JAHRGV010000066_genes.tsv'):
     if r['gene'] in ('g27',):
         gene_rows['JAHRGV010000066'].append({'island_contig': 'JAHRGV010000066', 'gene': r['gene'], 'start': r['start'],
             'end': r['end'], 'strand': r['strand'], 'exons': r['exons'], 'kind': 'neighbor', 'product': '', 'plasmid_gene': ''})

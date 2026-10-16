@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Supplementary Figures: full maximum-likelihood trees of the six families drawn in Fig. 3 (all leaves, SH-aLRT/UFBoot
 supports >= 50 at the nodes, leaf colours = lineage categories of Fig. 3, same rooting as Fig. 3).
-Sources (same treefiles as make_fig3.py): report_A/trees/{SUS,CUS,ACS}_final_MAFFT_IQTREE.nwk (identical to
-trees_final/<F>/<F>.mafft.iqtree.treefile), chs_fusarium/chs_tree.iqtree.treefile, fusarium_odh_island/nos_check/nos_tree.iqtree.treefile,
+Sources (same treefiles as make_fig3.py): trees_final/<F>/<F>.mafft.iqtree.treefile (F = SUS, CUS, ACS),
+chs_fusarium/chs_tree.iqtree.treefile, fusarium_odh_island/nos_check/nos_tree.iqtree.treefile,
 fusarium_odh_island/tree/odh_tree.iqtree.treefile.
 Output: supplementary/figures/FigureS{2..7}_tree_{sus,cus,chs,gdpd,nos,odh}.{png,svg,pdf} (Supplementary Figures S2-S7)
 Run: python make_figS_trees.py [family ...]"""

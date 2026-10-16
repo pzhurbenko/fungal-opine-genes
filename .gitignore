@@ -15,5 +15,11 @@ data/fungal_proteomes/*/
 *.fastq.gz
 *.sra
 paper/figures/tiff/
-paper/manuscript_v2/*.docx
-paper/manuscript_v2/*.html
+paper/figures/Fig[0-9]*_*.png
+paper/figures/Fig[0-9]*_*.svg
+paper/figures/Fig[0-9]*_*.pdf
+paper/figures/graphical_abstract/
+paper/submission/
+paper/supplementary/build_supplementary.log
+paper/supplementary/*.docx
+paper/supplementary/*.xlsx
