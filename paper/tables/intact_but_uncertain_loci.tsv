@@ -2,36 +2,33 @@ locus_id	lineage	species	assembly	contig_length_bp	rules_matched	in_dnds_sets
 SUS_JBBPWO010009350_L1	sus-like	Boletaceae sp. TRTC157229	GCA_041722635.1	2017	SHORT;NONB	SUS
 SUS_JBBPWO010073651_L1	sus-like	Boletaceae sp. TRTC157229	GCA_041722635.1	605	SHORT;NONB	SUS
 SUS_JBBPTT010006837_L1	sus-like	Boletellus aff. lepidospora	GCA_038094175.1	1691	SHORT;NONB	SUS
-SUS_JBBPLV010001943_S2L1	sus-like	Boletellus ananiceps	GCA_038089975.1	7698	EDGE;NONB	no
-SUS_JBBPLV010001943_L1	sus-like	Boletellus ananiceps	GCA_038089975.1	7698	NONB	SUS
-SUS_JBBPMG010001931_L1	sus-like	Boletellus deceptivus	GCA_038090195.1	5783	EDGE;NONB	SUS
+SUS_JBBPLV010001943_S2L1	sus-like	Boletellus ananiceps	GCA_038089975.1	7698	EDGE;F1	no
+SUS_JBBPMG010001931_L1	sus-like	Boletellus deceptivus	GCA_038090195.1	5783	EDGE	SUS
 SUS_JBBPMG010004664_L1	sus-like	Boletellus deceptivus	GCA_038090195.1	2175	SHORT;EDGE;NONB	SUS
 SUS_JBBPMG010004664_S2L1	sus-like	Boletellus deceptivus	GCA_038090195.1	2175	SHORT;NONB	SUS
-SUS_JBBPXB010001911_L1	sus-like	Boletellus sp. UT-M0000026	GCA_041722855.1	4961	NONB	SUS
-SUS_JBBPXB010001911_S2L1	sus-like	Boletellus sp. UT-M0000026	GCA_041722855.1	4961	NONB	no
 SUS_JBBPXB010007365_L1	sus-like	Boletellus sp. UT-M0000026	GCA_041722855.1	945	SHORT;EDGE;NONB	SUS
 SUS_JBBPJM010005915_L1	sus-like	Boletus variipes (cluster C130)	GCA_038088695.1	2908	SHORT;NONB	SUS
 SUS_JBBPJZ010007258_L1	sus-like	Chalciporus aff. trinitensis	GCA_038089015.1	969	SHORT;NONB	SUS
 SUS_JBBPWB010005531_L1	sus-like	Phylloporus sp. TRTC163509	GCA_041722235.1	2545	SHORT;NONB	SUS
 SUS_JBBPVZ010030891_L1	sus-like	Porphyrellus sp. KM206675	GCA_041722315.1	621	SHORT;NONB	SUS
-SUS_JBBPTQ010005164_L1	sus-like	Tylopilus aff. beelii	GCA_038098575.1	2944	SHORT;NONB	SUS
+SUS_JBBPTQ010005164_L1	sus-like	Tylopilus aff. beelii	GCA_038098575.1	2944	SHORT	SUS
 SUS_JBBPJJ010005399_L1	sus-like	Veloboletus limbatus	GCA_038088635.1	3111	NONB	SUS
-SUS_JBBPLJ010000841_L1	sus-like	Veloporphyrellus conicus	GCA_038089715.1	9813	NONB	SUS
+SUS_JBBPLJ010000677_L1	sus-like	Veloporphyrellus conicus	GCA_038089715.1	13037	NO_SUPPORT	SUS
+SUS_JBBPLJ010000841_L1	sus-like	Veloporphyrellus conicus	GCA_038089715.1	9813	NO_SUPPORT	SUS
 SUS_JBBPLY010003693_L1	sus-like	Xerocomus nothofagi	GCA_038090035.1	1607	SHORT;NONB	SUS
-CUS_JBBPWL010005527_L1	cus-like	Boletaceae sp. TRTC157251	GCA_041722475.1	2339	SHORT;EDGE;NONB	CUS;cus_Bol;cus_Bol_sp
+CUS_JNHV02000108_L1	cus-like	Amanita brunnescens	GCA_001691785.3	38487	NO_SUPPORT	CUS;cus_nonBol;cus_nonBol_sp
+CUS_JBBPWL010005527_L1	cus-like	Boletaceae sp. TRTC157251	GCA_041722475.1	2339	SHORT;EDGE;F1	CUS;cus_Bol;cus_Bol_sp
 CUS_JBBPKL010026335_L1	cus-like	Boletellus ananas (cluster C154)	GCA_038089235.1	924	SHORT;EDGE;D1	CUS;cus_Bol
 CUS_JBBPKB010004347_L1	cus-like	Boletellus dicymbophilus	GCA_038089035.1	4292	NONB	CUS;cus_Bol;cus_Bol_sp
 CUS_JBBPKB010004400_L1	cus-like	Boletellus dicymbophilus	GCA_038089035.1	4258	NONB	CUS;cus_Bol
 CUS_JBBPUH010005932_L1	cus-like	Boletus aff. phaeocephalus	GCA_038094555.1	1895	SHORT;NONB	CUS;cus_Bol;cus_Bol_sp
 CUS_QFEH01003570_L1	cus-like	Butyriboletus roseoflavus	GCA_003316065.1	4121	NONB	CUS;cus_Bol
-CUS_JBBPMB010002223_L1	cus-like	Pulveroboletus ravenelii (cluster C192)	GCA_038090135.1	4799	NONB	CUS;cus_Bol;cus_Bol_sp
+CUS_JBBPMB010002223_L1	cus-like	Pulveroboletus ravenelii (cluster C192)	GCA_038090135.1	4799	NO_SUPPORT	CUS;cus_Bol;cus_Bol_sp
 ACS_JBBPQD010009048_L1	acc-type GDPD	Caloboletus inedulis	GCA_038092355.1	824	SHORT;NONB	no
 ACS_JBBPJJ010011893_L1	acc-type GDPD	Veloboletus limbatus	GCA_038088635.1	1243	SHORT;NONB	no
 ACS_JBBPOG010012756_L1	pKerr14a-type acs-like	Austroboletus festivus (cluster C222)	GCA_038091375.1	1076	SHORT;EDGE;DEPTH	acs_pKerr14a
 ACS_JBBPKL010018021_L1	pKerr14a-type acs-like	Boletellus ananas (cluster C154)	GCA_038089235.1	1645	SHORT;EDGE;DEPTH	acs_pKerr14a
-ODH_JAGTXK010000179.1	nos-subfamily opine dehydrogenase (Boletales)	Boletus sp.	GCA_019096195.1	37830	NONB	nosODH_Bol
 ODH_QFEG01003584.1	nos-subfamily opine dehydrogenase (Boletales)	Boletus speciosus	GCA_003316055.1	13154	NONB	nosODH_Bol
-ODH_QFEE01000845.1	nos-subfamily opine dehydrogenase (Boletales)	Butyriboletus roseoflavus	GCA_003315995.1	30935	NONB	nosODH_Bol
 GCA_022180325.1_odh1	odh island: odh	Fusarium langsethiae	GCA_022180325.1	1177	SHORT;EDGE;NONB	odh
 GCA_022180345.1_odh1	odh island: odh	Fusarium langsethiae	GCA_022180345.1	1177	SHORT;EDGE;NONB	odh
 GCA_022180325.1_g32	odh island: orf3	Fusarium langsethiae	GCA_022180325.1	1048	SHORT;NONB	g3

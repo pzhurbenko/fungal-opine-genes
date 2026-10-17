@@ -30,7 +30,7 @@ Per lineage (all loci): loci / intact / genomes / species
   SUS | sus-like (T-DNA type): 58 / 36 / 33 / 31
   SUS | sus-like (T-DNA type) (not placed): 47 / 0 / 20 / 19
 
-Four paper lineages, tree-placed + listed non-tree (as in funnel/carriers_tree_based.tsv): outside Boletales
+Four paper lineages, tree-placed + listed non-tree (as in analysis/funnel/carriers_tree_based.tsv): outside Boletales
   sus-like (T-DNA type): 58 loci, 36 intact, 33 genomes, 31 species; outside Boletales: 1 loci, 1 species
       Mortierella alpina [Mortierellales] pseudogene_like x1
   cus-like (T-DNA type): 50 loci, 34 intact, 36 genomes, 22 species; outside Boletales: 24 loci, 12 species
