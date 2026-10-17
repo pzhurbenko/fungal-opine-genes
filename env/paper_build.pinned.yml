@@ -1,4 +1,4 @@
-name: PlantCad2
+name: paper_build
 channels:
   - bioconda
   - nvidia/label/cuda-11.8.0

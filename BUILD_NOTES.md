@@ -15,7 +15,7 @@ copied, never moved or edited; this directory (`GMO/repo/`) holds copies only. N
 | `paper/manuscript_v2/` | `paper/manuscript_v2/` | (removed 2026-10-16: manuscript-text tooling is not part of the repository) |
 | `paper/rebuild_all.sh` | `paper/rebuild_all.sh` | figures and supplementary only (manuscript steps removed 2026-10-16) |
 | `docs/methods_extended.md` | `paper/manuscript_v2/methods_extended.md` (working project) | |
-| `env/` | `conda env export` of annot, phylo_env, mashtree_env, minimap2_env, colabfold, PlantCad2, orthofinder, hmmer_pfam | `<env>.yml` = `--from-history`, `<env>.pinned.yml` = `--no-builds` |
+| `env/` | `conda env export` of annot, phylo_env, mashtree_env, minimap2_env, colabfold, paper_build, orthofinder, hmmer_pfam | `<env>.yml` = `--from-history`, `<env>.pinned.yml` = `--no-builds` |
 | `LICENSE`, `LICENSE-DATA`, `.gitignore`, `README.md`, `gmo_paths.py` | written new | |
 
 Excluded: inventory section 5, donor_meta, donor_search, generax, alien_scan, distribution, orf358_origin, accF, acc_test,
@@ -26,7 +26,7 @@ boletales_mash_517, seeds11, `analysis/trees`, `analysis/loci`, `my_code`, all `
 
 ## Path replacements (copies only)
 
-* the absolute path of the working project (GMO) and of the Claude project directory (GMO_matweeva) on the cluster -> `GMO_ROOT`.
+* the absolute path of the working project on the cluster -> `GMO_ROOT`.
   * Python (`from gmo_paths import GMO_ROOT`, inserted after the docstring together with a `sys.path` line that points to the
     repo root): the string literals were turned into f-strings (`{GMO_ROOT}`); literals in comments/docstring-like statements became `$GMO_ROOT`.
     30 scripts. `analysis/report_A/build_report.py` (uses py3.12+ f-string syntax) was edited by hand in the same way.
@@ -34,8 +34,8 @@ boletales_mash_517, seeds11, `analysis/trees`, `analysis/loci`, `my_code`, all `
     The default uses `$0`; when a script is submitted through `bsub` from another location, export `GMO_ROOT` first.
   * YAML / md / txt / tsv: literal -> `${GMO_ROOT}` (`$GMO_ROOT` in comments). Path columns in a few tables (assembly locations) therefore
     contain the text `${GMO_ROOT}` and must be expanded before use.
-* the user-specific miniforge `etc/profile.d/conda.sh` -> `$(conda info --base)/etc/profile.d/conda.sh` (shell), `$CONDA_BASE/...` (docs).
-  the user-specific `miniforge3/envs/<env>/bin/<tool>` -> `$(conda info --base)/envs/<env>/bin/<tool>` (shell) or the bare command name (Python:
+* the user-specific conda installation path -> `$(conda info --base)/etc/profile.d/conda.sh` (shell), `$CONDA_BASE/...` (docs).
+  the user-specific `<conda base>/envs/<env>/bin/<tool>` -> `$(conda info --base)/envs/<env>/bin/<tool>` (shell) or the bare command name (Python:
   `diamond` in `ctdna_plants_identity/run_identity.py`; `python` in docstring "Run:" lines; the matching env must be active).
 * Two non-mechanical edits for the pipeline: `pipeline/scripts/common.py` expands `${GMO_ROOT}` in `project_dir` (and sets a default
   `GMO_ROOT`), `pipeline/run_pipeline.sh` expands variables in values read from the config.

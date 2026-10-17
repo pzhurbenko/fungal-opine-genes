@@ -6,7 +6,7 @@ Baseline: contamination o_bact_pid>=90; A: o_top50_bact>=35 & o_h>=50; B: pident
 Outputs (analysis/thresholds/): funnel_grid.tsv (full factorial grid, contamination fixed at 90), funnel_oat.tsv (one-at-a-time sweeps incl. contamination 80-95),
 funnel_flips.tsv (proteins whose fate changes vs baseline), margins_116.tsv (distance of each of the 116 proteins from every threshold),
 contamination_gap.tsv (item 2: sorted best bacterial identity, Rhizobiales flag).
-Env: PlantCad2 (pandas). Run: python sensitivity_funnel.py
+Env: paper_build (pandas). Run: python sensitivity_funnel.py
 """
 import sys as _sys, os as _os; _sys.path.insert(0, _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..', '..')))
 from gmo_paths import GMO_ROOT  # noqa: E402

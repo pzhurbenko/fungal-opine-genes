@@ -2,7 +2,7 @@
 """Per-locus integration status (confirmed / supported / uncertain) for the 254 placed loci of Table S1a.
 Inputs (final-numbered supplementary TSVs, paper/supplementary/): TableS1a, TableS8 (read depth), TableS9 (independent assemblies),
 TableS12 (genes on the island contigs). Output: integration_status.tsv, integration_status_summary.tsv (this directory).
-Run (env PlantCad2): python integration_status.py
+Run (env paper_build): python integration_status.py
 Rules (a locus gets the first matching class). 2026-10-13ak, review v14 point 1: F2/R2/CHR redefined (see below).
  confirmed  = any of
    F2  fungal-classified gene on BOTH sides of the locus, computed per side from per-neighbour classifications

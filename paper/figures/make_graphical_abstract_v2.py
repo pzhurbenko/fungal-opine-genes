@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Graphical abstract v2, minimal (2026-10-15): cropped loci, no scale bars/legend, numbers, patchy distribution cladogram: plasmid ring (T-DNA vs other opine loci) -> fungal genomes (two real loci coloured by source) -> fate.
 Detailed variant kept as make_graphical_abstract_detailed.py.
-Run: python make_graphical_abstract_v2.py   (conda env PlantCad2)
+Run: python make_graphical_abstract_v2.py   (conda env paper_build)
 Data: paper/tables/TableS1_loci_catalog.tsv, analysis/islands/islands_genes.tsv, analysis/islands/island_JAHRGV010000066_genes.tsv,
 analysis/island_order/island_gene_order.tsv, paper/figures/{Fig2_genus_counts,Fig5_subfamilies_Tremble2024}.tsv, analysis/fusarium_odh_island/{scan/loci.tsv, fig4/fp133_window_genes.tsv},
 Hard-coded: gene schematics of the plasmid track, 'fungal sus-like (56 loci ...)' label, table values, footer."""

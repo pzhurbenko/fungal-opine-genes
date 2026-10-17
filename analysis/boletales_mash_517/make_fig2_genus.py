@@ -3,7 +3,7 @@
 Left: Mash similarity tree of 358 species-level clusters (517 assemblies) collapsed to genera of
 Boletaceae and to families of the other Boletales (cladogram). Right: per-row presence of the five lineages
 (circle area ~ number of clusters with the gene; filled fraction ~ share of those with an intact gene).
-Run (env PlantCad2): cd analysis/boletales_mash_517 && MPLBACKEND=Agg python make_fig2_genus.py
+Run (env paper_build): cd analysis/boletales_mash_517 && MPLBACKEND=Agg python make_fig2_genus.py
 Inputs: Boletales_517_mashtree_rooted.nwk, clusters.tsv, genomes.tsv, paper/tables/TableS1_all_lineages.tsv.
 Outputs: paper/figures/Fig6_boletales_genera.{png,svg,pdf}, paper/figures/Fig2_genus_counts.tsv.
 Row genus = genus of the accepted cluster name (not the NCBI name of the individual assembly)."""

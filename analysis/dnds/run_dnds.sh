@@ -14,7 +14,7 @@ t=Phylo.read('$FAM.tree.treefile','newick')
 for c in t.find_clades(): c.confidence=None
 Phylo.write(t,'$FAM.tree.nwk','newick')
 PY
-  conda activate PlantCad2
+  conda activate paper_build
   for M in M0 M7M8 M8a; do python3 ctl.py $FAM $M; codeml $FAM.$M.ctl > $FAM.$M.log 2>&1; done
   echo "seqfile = $FAM.codon.phy
 outfile = $FAM.yn00.out

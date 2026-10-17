@@ -1,21 +1,21 @@
-Сборок обработано: 1516; локусов (регионов с хитом): 342487
+Assemblies processed: 1516; loci (hit regions): 342487
 
-== Наши семейства: уверенные вызовы (подгруппа > OUTGROUP, gap>=20, score>=30) ==
-семейство  локусов  геномов новых лок.  новых геномов  из них контам.
+== Our families: confident calls (subgroup > OUTGROUP, gap>=20, score>=30) ==
+family       loci  genomes  new loci    new genomes  of them contam.
 ACS           439      277        129             82              19
-         подгруппы: acs 196 (новых 22), kerr14 140 (новых 74), gdpd_meso 103 (новых 33)
-         новые по классам: Agaricomycetes 50, Sordariomycetes 47, Eurotiomycetes 28, Dothideomycetes 3, Pucciniomycetes 1
+         subgroups: acs 196 (new 22), kerr14 140 (new 74), gdpd_meso 103 (new 33)
+         new by class: Agaricomycetes 50, Sordariomycetes 47, Eurotiomycetes 28, Dothideomycetes 3, Pucciniomycetes 1
 CUS          1815      840        480             37               8
-         подгруппы: cus 947 (новых 338), rcorf12 440 (новых 20), mis 368 (новых 78), cusrel181 60 (новых 44)
-         новые по классам: Eurotiomycetes 295, Agaricomycetes 104, Sordariomycetes 73, Dothideomycetes 5, ? 2, Leotiomycetes 1
+         subgroups: cus 947 (new 338), rcorf12 440 (new 20), mis 368 (new 78), cusrel181 60 (new 44)
+         new by class: Eurotiomycetes 295, Agaricomycetes 104, Sordariomycetes 73, Dothideomycetes 5, ? 2, Leotiomycetes 1
 SUS            97       37         10              1               0
-         подгруппы: sus 97 (новых 10)
-         новые по классам: Agaricomycetes 10
+         subgroups: sus 97 (new 10)
+         new by class: Agaricomycetes 10
 ORF358        383      193        178             21               0
-         подгруппы: orf358 383 (новых 178)
-         новые по классам: Dothideomycetes 91, Sordariomycetes 85, Leotiomycetes 2
+         subgroups: orf358 383 (new 178)
+         new by class: Dothideomycetes 91, Sordariomycetes 85, Leotiomycetes 2
 
-== Новые локусы SUS (top 40 по score) ==
+== New loci SUS (top 40 by score) ==
   Boletellus sp. UT-M0000026     Agaricomycetes   JBBPXB010001911.1        313-1431      sus        score  484 gap  304 dmnd TDNA           23.3% contam=no
   Boletellus ananiceps           Agaricomycetes   JBBPLV010001943.1       4622-4921      sus        score  374 gap  213 dmnd TDNA           32.4% contam=no
   Boletellus deceptivus          Agaricomycetes   JBBPMG010000116.1      41130-42248     sus        score  355 gap  213 dmnd TDNA           21.6% contam=no
@@ -27,7 +27,7 @@ ORF358        383      193        178             21               0
   Tylopilus sp. UT-M0000335      Agaricomycetes   JBBPWX010000117.1      13552-14091     sus        score   42 gap   42 dmnd                    % contam=no
   Boletaceae sp. KM206713        Agaricomycetes   JBBPVW010011756.1        992-1135      sus        score   32 gap   32 dmnd SUS            44.4% contam=no
 
-== Новые локусы ACS (top 40 по score) ==
+== New loci ACS (top 40 by score) ==
   Boletus variipes               Agaricomycetes   JBBPQG010001754.1          9-607       gdpd_meso  score  304 gap  304 dmnd ACS            65.0% contam=short_contig
   Boletus variipes               Agaricomycetes   JBBPQG010005583.1       1370-1969      gdpd_meso  score  245 gap  245 dmnd ACS            69.5% contam=short_contig
   Veloboletus limbatus           Agaricomycetes   JBBPJJ010018817.1        419-748       gdpd_meso  score  201 gap  201 dmnd ACS            74.5% contam=short_contig
@@ -69,91 +69,91 @@ ORF358        383      193        178             21               0
   Boletus aff. vermiculosoides   Agaricomycetes   JBBPKW010011425.1         97-228       gdpd_meso  score   62 gap   62 dmnd ACS            63.6% contam=short_contig
   Boletus subcaerulescens        Agaricomycetes   JBBPNA010000555.1        120-287       gdpd_meso  score   61 gap   61 dmnd ACS            50.0% contam=no
 
-== Геномы с >=2 семействами (уверенные вызовы): 117 ==
-  Butyriboletus roseoflavus          GCA_003315995.1  ACS,CUS,ORF358         (есть новые локусы)
+== Genomes with >=2 families (confident calls): 117 ==
+  Butyriboletus roseoflavus          GCA_003315995.1  ACS,CUS,ORF358         (has new loci)
   Retiboletus ornatipes              GCA_003316065.1  ACS,CUS,ORF358         
-  Boletus sp. NGJ                    GCA_019096195.1  ACS,CUS,ORF358         (есть новые локусы)
+  Boletus sp. NGJ                    GCA_019096195.1  ACS,CUS,ORF358         (has new loci)
   Butyriboletus roseoflavus          GCA_019364595.1  ACS,CUS,ORF358         
-  Boletus rex-veris                  GCA_038088615.1  ACS,CUS,SUS            (есть новые локусы)
-  Veloboletus limbatus               GCA_038088635.1  ACS,CUS,SUS            (есть новые локусы)
-  Boletus rex-veris                  GCA_038088795.1  ACS,CUS,SUS            (есть новые локусы)
-  Nevesoporus exiguus                GCA_038089155.1  ACS,CUS,SUS            (есть новые локусы)
-  Xerocomus nothofagi                GCA_038090035.1  ACS,CUS,SUS            (есть новые локусы)
-  Boletellus deceptivus              GCA_038090195.1  ACS,CUS,SUS            (есть новые локусы)
-  Austroboletus festivus             GCA_038091375.1  ACS,CUS,SUS            (есть новые локусы)
-  Fistulinella staudtii              GCA_038094235.1  ACS,CUS,SUS            (есть новые локусы)
-  Tylopilus sp. UT-M0000335          GCA_041722695.1  ACS,CUS,SUS            (есть новые локусы)
-  Penicillium citrinum               GCA_001399475.1  ACS,CUS                (есть новые локусы)
-  Penicillium citrinum               GCA_001950535.1  ACS,CUS                (есть новые локусы)
-  Beauveria bassiana                 GCA_002871155.1  ACS,CUS                (есть новые локусы)
-  Corynespora cassiicola             GCA_002975655.1  ACS,ORF358             (есть новые локусы)
-  Corynespora cassiicola             GCA_002976085.1  ACS,ORF358             (есть новые локусы)
-  Craterellus lutescens              GCA_003314295.1  ACS,CUS                (есть новые локусы)
+  Boletus rex-veris                  GCA_038088615.1  ACS,CUS,SUS            (has new loci)
+  Veloboletus limbatus               GCA_038088635.1  ACS,CUS,SUS            (has new loci)
+  Boletus rex-veris                  GCA_038088795.1  ACS,CUS,SUS            (has new loci)
+  Nevesoporus exiguus                GCA_038089155.1  ACS,CUS,SUS            (has new loci)
+  Xerocomus nothofagi                GCA_038090035.1  ACS,CUS,SUS            (has new loci)
+  Boletellus deceptivus              GCA_038090195.1  ACS,CUS,SUS            (has new loci)
+  Austroboletus festivus             GCA_038091375.1  ACS,CUS,SUS            (has new loci)
+  Fistulinella staudtii              GCA_038094235.1  ACS,CUS,SUS            (has new loci)
+  Tylopilus sp. UT-M0000335          GCA_041722695.1  ACS,CUS,SUS            (has new loci)
+  Penicillium citrinum               GCA_001399475.1  ACS,CUS                (has new loci)
+  Penicillium citrinum               GCA_001950535.1  ACS,CUS                (has new loci)
+  Beauveria bassiana                 GCA_002871155.1  ACS,CUS                (has new loci)
+  Corynespora cassiicola             GCA_002975655.1  ACS,ORF358             (has new loci)
+  Corynespora cassiicola             GCA_002976085.1  ACS,ORF358             (has new loci)
+  Craterellus lutescens              GCA_003314295.1  ACS,CUS                (has new loci)
   Boletus speciosus                  GCA_003316055.1  ACS,CUS                
-  Beauveria bassiana                 GCA_003337105.1  ACS,CUS                (есть новые локусы)
-  Lentithecium fluviatile            GCA_010405425.1  ACS,ORF358             (есть новые локусы)
+  Beauveria bassiana                 GCA_003337105.1  ACS,CUS                (has new loci)
+  Lentithecium fluviatile            GCA_010405425.1  ACS,ORF358             (has new loci)
   Scortechinia acanthostroma         GCA_011319215.2  ACS,CUS                
   Infundibulicybe gibba              GCA_015501065.1  ACS,ORF358             
-  Penicillium steckii                GCA_018340795.1  ACS,CUS                (есть новые локусы)
+  Penicillium steckii                GCA_018340795.1  ACS,CUS                (has new loci)
   Boletus reticuloceps               GCA_018397855.1  ACS,SUS                
-  Penicillium citrinum               GCA_019191195.1  ACS,CUS                (есть новые локусы)
-  Paracamarosporium sp. OC-R06-R3    GCA_019828545.1  CUS,ORF358             (есть новые локусы)
-  Epicoccum sorghinum                GCA_020272525.1  CUS,ORF358             (есть новые локусы)
-  Penicillium citrinum               GCA_020284165.1  ACS,CUS                (есть новые локусы)
-  Penicillium citrinum               GCA_023624595.1  ACS,CUS                (есть новые локусы)
-  Penicillium citrinum               GCA_023624655.1  ACS,CUS                (есть новые локусы)
-  Penicillium citrinum               GCA_023624675.1  ACS,CUS                (есть новые локусы)
-  Penicillium citrinum               GCA_025531905.1  ACS,CUS                (есть новые локусы)
-  Penicillium citrinum               GCA_025768325.1  ACS,CUS                (есть новые локусы)
-  Penicillium citrinum               GCA_025768355.1  ACS,CUS                (есть новые локусы)
-  Penicillium citrinum               GCA_025768385.1  ACS,CUS                (есть новые локусы)
-  Penicillium citrinum               GCA_025768405.1  ACS,CUS                (есть новые локусы)
-  Penicillium citrinum               GCA_025768445.1  ACS,CUS                (есть новые локусы)
-  Penicillium citrinum               GCA_025768525.1  ACS,CUS                (есть новые локусы)
+  Penicillium citrinum               GCA_019191195.1  ACS,CUS                (has new loci)
+  Paracamarosporium sp. OC-R06-R3    GCA_019828545.1  CUS,ORF358             (has new loci)
+  Epicoccum sorghinum                GCA_020272525.1  CUS,ORF358             (has new loci)
+  Penicillium citrinum               GCA_020284165.1  ACS,CUS                (has new loci)
+  Penicillium citrinum               GCA_023624595.1  ACS,CUS                (has new loci)
+  Penicillium citrinum               GCA_023624655.1  ACS,CUS                (has new loci)
+  Penicillium citrinum               GCA_023624675.1  ACS,CUS                (has new loci)
+  Penicillium citrinum               GCA_025531905.1  ACS,CUS                (has new loci)
+  Penicillium citrinum               GCA_025768325.1  ACS,CUS                (has new loci)
+  Penicillium citrinum               GCA_025768355.1  ACS,CUS                (has new loci)
+  Penicillium citrinum               GCA_025768385.1  ACS,CUS                (has new loci)
+  Penicillium citrinum               GCA_025768405.1  ACS,CUS                (has new loci)
+  Penicillium citrinum               GCA_025768445.1  ACS,CUS                (has new loci)
+  Penicillium citrinum               GCA_025768525.1  ACS,CUS                (has new loci)
 
-== Линии T-DNA вне 4 семейств: хиты >=45% id, cov>=0.5, без контаминации ==
-  orf_Bo003                         3  геномов   2  напр. Tylopilus sp. UT-M0000 59.2% 15252bp; Tylopilus sp. UT-M0000 58.7% 3204bp; Calcarisporium arbuscu 46.2% 33260bp
-  tiorf175                          2  геномов   2  напр. Botryosphaeria dothide 54.1% 2314bp; Calcarisporium arbuscu 52.1% 23537bp
-  orf_Bo011                         1  геномов   1  напр. Calcarisporium arbuscu 77.1% 23537bp
-  lecH                              1  геномов   1  напр. Colletotrichum falcatu 46.7% 167478bp
+== T-DNA lineages outside the 4 families: hits >=45% id, cov>=0.5, no contamination ==
+  orf_Bo003                         3  genomes   2  e.g. Tylopilus sp. UT-M0000 59.2% 15252bp; Tylopilus sp. UT-M0000 58.7% 3204bp; Calcarisporium arbuscu 46.2% 33260bp
+  tiorf175                          2  genomes   2  e.g. Botryosphaeria dothide 54.1% 2314bp; Calcarisporium arbuscu 52.1% 23537bp
+  orf_Bo011                         1  genomes   1  e.g. Calcarisporium arbuscu 77.1% 23537bp
+  lecH                              1  genomes   1  e.g. Colletotrichum falcatu 46.7% 167478bp
 
-== Опиновый катаболизм/транспорт (opine_related) >=45%, cov>=0.5, без контаминации ==
-  ABC_transporter_ATP-binding_pr  272  геномов 152  max 66%  напр. Blastomyces emzantsi 66.5%; Aspergillus sydowii 62.4%; Calonectria naviculata 59.4%
-  cucumopine_synthase-related_pr   92  геномов  73  max 70%  напр. Aspergillus lentulus 69.5%; Aspergillus lentulus 69.5%; Aspergillus lentulus 69.5%
-  amino_acid_ABC_transporter_ATP   55  геномов  15  max 78%  напр. Blastomyces emzantsi 77.5%; Colletotrichum gramini 60.2%; Colletotrichum gramini 60.1%
-  glycerophosphodiester_phosphod   44  геномов  44  max 78%  напр. Fusarium verticillioid 77.5%; Fusarium newnesense 76.1%; Fusarium oxysporum 75.6%
-  accF                             37  геномов  33  max 73%  напр. Furcasterigmium furcat 73.3%; Fusarium euwallaceae 72.9%; Fusarium kuroshium 72.9%
-  ABC_transporter_permease         26  геномов  12  max 58%  напр. Colletotrichum falcatu 57.8%; Colletotrichum gramini 52.8%; Beauveria bassiana 51.9%
-  nocP                             19  геномов  11  max 62%  напр. Beauveria bassiana 61.5%; Colletotrichum gramini 61.2%; Corynespora cassiicola 59.6%
-  mocA                             12  геномов   9  max 77%  напр. Schizophyllum commune 76.6%; Corynespora cassiicola 57.8%; Aspergillus sydowii 52.6%
-  mocB                              7  геномов   7  max 62%  напр. Aspergillus sydowii 62.5%; Colletotrichum gramini 61.4%; Schizophyllum commune 61.0%
-  occM                              7  геномов   6  max 50%  напр. Colletotrichum gramini 49.5%; Corynespora cassiicola 49.0%; Corynespora cassiicola 48.4%
-  ssuC                              5  геномов   5  max 64%  напр. Beauveria bassiana 63.7%; Aspergillus sydowii 61.3%; Colletotrichum gramini 61.2%
-  occP                              5  геномов   5  max 59%  напр. Aspergillus sydowii 58.8%; Colletotrichum gramini 53.6%; Botryosphaeria dothide 52.2%
-  ornithine_cyclodeaminase          3  геномов   3  max 56%  напр. Colletotrichum gramini 55.7%; Corynespora cassiicola 54.5%; Colletotrichum falcatu 54.1%
-  occQ                              2  геномов   2  max 54%  напр. Calonectria naviculata 53.6%; Corynespora cassiicola 48.6%
-  ooxA                              2  геномов   2  max 50%  напр. Calonectria naviculata 49.5%; Colletotrichum falcatu 48.4%
+== Opine catabolism/transport (opine_related) >=45%, cov>=0.5, no contamination ==
+  ABC_transporter_ATP-binding_pr  272  genomes 152  max 66%  e.g. Blastomyces emzantsi 66.5%; Aspergillus sydowii 62.4%; Calonectria naviculata 59.4%
+  cucumopine_synthase-related_pr   92  genomes  73  max 70%  e.g. Aspergillus lentulus 69.5%; Aspergillus lentulus 69.5%; Aspergillus lentulus 69.5%
+  amino_acid_ABC_transporter_ATP   55  genomes  15  max 78%  e.g. Blastomyces emzantsi 77.5%; Colletotrichum gramini 60.2%; Colletotrichum gramini 60.1%
+  glycerophosphodiester_phosphod   44  genomes  44  max 78%  e.g. Fusarium verticillioid 77.5%; Fusarium newnesense 76.1%; Fusarium oxysporum 75.6%
+  accF                             37  genomes  33  max 73%  e.g. Furcasterigmium furcat 73.3%; Fusarium euwallaceae 72.9%; Fusarium kuroshium 72.9%
+  ABC_transporter_permease         26  genomes  12  max 58%  e.g. Colletotrichum falcatu 57.8%; Colletotrichum gramini 52.8%; Beauveria bassiana 51.9%
+  nocP                             19  genomes  11  max 62%  e.g. Beauveria bassiana 61.5%; Colletotrichum gramini 61.2%; Corynespora cassiicola 59.6%
+  mocA                             12  genomes   9  max 77%  e.g. Schizophyllum commune 76.6%; Corynespora cassiicola 57.8%; Aspergillus sydowii 52.6%
+  mocB                              7  genomes   7  max 62%  e.g. Aspergillus sydowii 62.5%; Colletotrichum gramini 61.4%; Schizophyllum commune 61.0%
+  occM                              7  genomes   6  max 50%  e.g. Colletotrichum gramini 49.5%; Corynespora cassiicola 49.0%; Corynespora cassiicola 48.4%
+  ssuC                              5  genomes   5  max 64%  e.g. Beauveria bassiana 63.7%; Aspergillus sydowii 61.3%; Colletotrichum gramini 61.2%
+  occP                              5  genomes   5  max 59%  e.g. Aspergillus sydowii 58.8%; Colletotrichum gramini 53.6%; Botryosphaeria dothide 52.2%
+  ornithine_cyclodeaminase          3  genomes   3  max 56%  e.g. Colletotrichum gramini 55.7%; Corynespora cassiicola 54.5%; Colletotrichum falcatu 54.1%
+  occQ                              2  genomes   2  max 54%  e.g. Calonectria naviculata 53.6%; Corynespora cassiicola 48.6%
+  ooxA                              2  genomes   2  max 50%  e.g. Calonectria naviculata 49.5%; Colletotrichum falcatu 48.4%
 
-== Контаминация: сборки с контигами, несущими гены плазмидного остова (vir/tra/rep/mobile) >=60% ==
-  Cantharellus appalachiensis      GCA_003314335.1  контигов   4  сумм.    2466 кб  макс   1335 кб  хитов остова   4  всех хитов>=60%   9
-  Craterellus lutescens            GCA_003314295.1  контигов   3  сумм.    1394 кб  макс    933 кб  хитов остова   3  всех хитов>=60%   3
-  Colletotrichum brevisporum       GCA_030770045.1  контигов   1  сумм.     520 кб  макс    520 кб  хитов остова   3  всех хитов>=60%   4
-  Clavaria fumosa                  GCA_001179745.1  контигов  21  сумм.     158 кб  макс     28 кб  хитов остова  32  всех хитов>=60%  32
-  Blastomyces emzantsi             GCA_003206725.1  контигов   1  сумм.      79 кб  макс     79 кб  хитов остова   2  всех хитов>=60%   2
-  Echinosphaeria canescens         GCA_028566015.1  контигов  72  сумм.      71 кб  макс      5 кб  хитов остова  73  всех хитов>=60%  73
-  Echinosphaeria canescens         GCA_028566015.2  контигов  65  сумм.      62 кб  макс      4 кб  хитов остова  66  всех хитов>=60%  66
-  Geoglossum cookeanum             GCA_021527025.2  контигов  43  сумм.      29 кб  макс      9 кб  хитов остова  46  всех хитов>=60%  46
-  Echinosphaeria canescens         GCA_011319275.2  контигов  24  сумм.      28 кб  макс      5 кб  хитов остова  24  всех хитов>=60%  24
-  Scedosporium minutisporum        GCA_034774675.1  контигов   1  сумм.      25 кб  макс     25 кб  хитов остова   1  всех хитов>=60%   1
-  Iodosphaeria phyllophila         GCA_025802455.2  контигов  24  сумм.      23 кб  макс      2 кб  хитов остова  24  всех хитов>=60%  24
-  Tympanopsis confertula           GCA_026745395.1  контигов  23  сумм.      21 кб  макс      3 кб  хитов остова  23  всех хитов>=60%  23
-  Scortechinia acanthostroma       GCA_011319215.2  контигов  26  сумм.      18 кб  макс      1 кб  хитов остова  26  всех хитов>=60%  26
-  Hemileia vastatrix               GCA_036250445.1  контигов  29  сумм.      14 кб  макс      2 кб  хитов остова  29  всех хитов>=60%  29
-  Corynespora cassiicola           GCA_019202905.1  контигов  26  сумм.      12 кб  макс      1 кб  хитов остова  27  всех хитов>=60%  27
-  Tubaria furfuracea               GCA_900069095.1  контигов  58  сумм.      10 кб  макс      1 кб  хитов остова  59  всех хитов>=60%  59
-  Calonectria naviculata           GCA_003031705.1  контигов   1  сумм.       1 кб  макс      1 кб  хитов остова   1  всех хитов>=60%   1
-  Aspergillus niger                GCA_023973445.1  контигов   1  сумм.       0 кб  макс      0 кб  хитов остова   1  всех хитов>=60%   1
-  Boletus harrisonii               GCA_038093235.1  контигов   1  сумм.       0 кб  макс      0 кб  хитов остова   2  всех хитов>=60%   2
-  Corynespora cassiicola           GCA_023653695.1  контигов   1  сумм.       0 кб  макс      0 кб  хитов остова   1  всех хитов>=60%   1
-  Corynespora cassiicola           GCA_024500205.1  контигов   1  сумм.       0 кб  макс      0 кб  хитов остова   1  всех хитов>=60%   1
-  Corynespora cassiicola           GCA_006523515.1  контигов   1  сумм.       0 кб  макс      0 кб  хитов остова   1  всех хитов>=60%   1
+== Contamination: assemblies with contigs carrying plasmid-backbone genes (vir/tra/rep/mobile) >=60% ==
+  Cantharellus appalachiensis      GCA_003314335.1  contigs   4  sum    2466 kb  max   1335 kb  backbone hits   4  all hits>=60%   9
+  Craterellus lutescens            GCA_003314295.1  contigs   3  sum    1394 kb  max    933 kb  backbone hits   3  all hits>=60%   3
+  Colletotrichum brevisporum       GCA_030770045.1  contigs   1  sum     520 kb  max    520 kb  backbone hits   3  all hits>=60%   4
+  Clavaria fumosa                  GCA_001179745.1  contigs  21  sum     158 kb  max     28 kb  backbone hits  32  all hits>=60%  32
+  Blastomyces emzantsi             GCA_003206725.1  contigs   1  sum      79 kb  max     79 kb  backbone hits   2  all hits>=60%   2
+  Echinosphaeria canescens         GCA_028566015.1  contigs  72  sum      71 kb  max      5 kb  backbone hits  73  all hits>=60%  73
+  Echinosphaeria canescens         GCA_028566015.2  contigs  65  sum      62 kb  max      4 kb  backbone hits  66  all hits>=60%  66
+  Geoglossum cookeanum             GCA_021527025.2  contigs  43  sum      29 kb  max      9 kb  backbone hits  46  all hits>=60%  46
+  Echinosphaeria canescens         GCA_011319275.2  contigs  24  sum      28 kb  max      5 kb  backbone hits  24  all hits>=60%  24
+  Scedosporium minutisporum        GCA_034774675.1  contigs   1  sum      25 kb  max     25 kb  backbone hits   1  all hits>=60%   1
+  Iodosphaeria phyllophila         GCA_025802455.2  contigs  24  sum      23 kb  max      2 kb  backbone hits  24  all hits>=60%  24
+  Tympanopsis confertula           GCA_026745395.1  contigs  23  sum      21 kb  max      3 kb  backbone hits  23  all hits>=60%  23
+  Scortechinia acanthostroma       GCA_011319215.2  contigs  26  sum      18 kb  max      1 kb  backbone hits  26  all hits>=60%  26
+  Hemileia vastatrix               GCA_036250445.1  contigs  29  sum      14 kb  max      2 kb  backbone hits  29  all hits>=60%  29
+  Corynespora cassiicola           GCA_019202905.1  contigs  26  sum      12 kb  max      1 kb  backbone hits  27  all hits>=60%  27
+  Tubaria furfuracea               GCA_900069095.1  contigs  58  sum      10 kb  max      1 kb  backbone hits  59  all hits>=60%  59
+  Calonectria naviculata           GCA_003031705.1  contigs   1  sum       1 kb  max      1 kb  backbone hits   1  all hits>=60%   1
+  Aspergillus niger                GCA_023973445.1  contigs   1  sum       0 kb  max      0 kb  backbone hits   1  all hits>=60%   1
+  Boletus harrisonii               GCA_038093235.1  contigs   1  sum       0 kb  max      0 kb  backbone hits   2  all hits>=60%   2
+  Corynespora cassiicola           GCA_023653695.1  contigs   1  sum       0 kb  max      0 kb  backbone hits   1  all hits>=60%   1
+  Corynespora cassiicola           GCA_024500205.1  contigs   1  sum       0 kb  max      0 kb  backbone hits   1  all hits>=60%   1
+  Corynespora cassiicola           GCA_006523515.1  contigs   1  sum       0 kb  max      0 kb  backbone hits   1  all hits>=60%   1

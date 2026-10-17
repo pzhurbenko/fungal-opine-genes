@@ -1,29 +1,29 @@
 # ============================================================================
 # GMO loci pipeline — configuration
-# Все пути относительно project_dir, если не абсолютные.
+# All paths are relative to project_dir unless absolute.
 # ============================================================================
 project_dir: ${GMO_ROOT}
 
 inputs:
-  blast_stats: data/tsv/merged/all_blast_stats.tsv      # все tblastn/blastp хиты (3760 строк), источник реестра локусов
-  rep_seqs_dir: data/tsv/rep_seqs                        # <FAM>_rep_seqs.tsv: колонки Subj_Accession_agro / Subj_Name_agro → ярус 2
-  curated_dir: analysis/curated                          # <FAM>.fasta после карантина: Agro_/Plant_ заголовки → ярус 1
-  quarantine_tsv: analysis/curated/quarantine.tsv     # исключённые последовательности (не используются как направляющие)
+  blast_stats: data/tsv/merged/all_blast_stats.tsv      # all tblastn/blastp hits (3760 rows), source of the locus registry
+  rep_seqs_dir: data/tsv/rep_seqs                        # <FAM>_rep_seqs.tsv: columns Subj_Accession_agro / Subj_Name_agro → tier 2
+  curated_dir: analysis/curated                          # <FAM>.fasta after quarantine: Agro_/Plant_ headers → tier 1
+  quarantine_tsv: analysis/curated/quarantine.tsv     # excluded sequences (not used as guides)
 
-out_dir: analysis/loci_pipeline                          # всё создаётся здесь: registry/ contigs/ guides/ round<N>/
+out_dir: analysis/loci_pipeline                          # everything is created here: registry/ contigs/ guides/ round<N>/
 
 families: [ACS, CUS, SUS, ORF358]
 
 conda_env: annot                                         # miniprot, augustus, diamond, hmmer, mafft, biopython, entrez-direct, ncbi-datasets-cli
-ncbi_api_key_env: NCBI_API_KEY                           # если переменная задана — 10 req/s, иначе 3 req/s
+ncbi_api_key_env: NCBI_API_KEY                           # if the variable is set — 10 req/s, otherwise 3 req/s
 
 registry:
-  merge_gap: 5000            # HSP одного семейства на одном контиге ближе этого расстояния = один локус (интроны грибов ≤ 3 кб)
+  merge_gap: 5000            # HSPs of one family on one contig closer than this distance = one locus (fungal introns ≤ 3 kb)
 
 fetch:
-  contig_full_max: 1000000   # контиг ≤ 1 Мб качаем целиком (контекст, GC-профиль, границы островков)
-  flank_context: 100000      # для контигов > 1 Мб: окно ±100 кб вокруг локуса
-  window_is_context: true    # AUGUSTUS и соседи считаются на скачанной последовательности (см. annotate.context_max)
+  contig_full_max: 1000000   # contigs ≤ 1 Mb are downloaded whole (context, GC profile, island boundaries)
+  flank_context: 100000      # for contigs > 1 Mb: window of ±100 kb around the locus
+  window_is_context: true    # AUGUSTUS and neighbours are computed on the downloaded sequence (see annotate.context_max)
 
 guides:
   # T1 references to EXCLUDE from guides and from the family HMM (kept in guides/<FAM>_T1_excluded.faa as tree outgroups).
@@ -35,8 +35,8 @@ guides:
     # only self-hit), Agro_WP_111794344 (PI-PLC/GDPD present in many A. tumefaciens strains = chromosomal; <=0.29 to every T-DNA
     # lineage; nr hits = chromosomal GDPD 66%, acs only 24%) -> outgroup pool. Rule: a reference is excluded when it is equally far
     # from ALL T-DNA lineages, its nr hits carry no annotated T-DNA genes and its context is chromosomal — NOT because it is a singleton.
-    # Plant_PON40589 (Parasponia) REINSTATED 2026-09-05: acs-HMM 39.8 бит (E 1e-13), OUTGROUP 0; лежит в cT-DNA-кластере scf00435
-    # рядом с тремя SUS-фрагментами (PON40587/91/93, E 1e-48…1e-65) — настоящий фрагмент cT-DNA acs, не мусор.
+    # Plant_PON40589 (Parasponia) REINSTATED 2026-09-05: acs-HMM 39.8 bits (E 1e-13), OUTGROUP 0; lies in the cT-DNA cluster scf00435
+    # next to three SUS fragments (PON40587/91/93, E 1e-48…1e-65) — a genuine cT-DNA acs fragment, not junk.
     ACS: [Plant_CAM6009234, Agro_WP_111794344]
     # CUS 2026-09-05: Agro_WP_128406407 (138 aa, no Pfam, chromosomal Rhizobium hypothetical, singleton)
     CUS: [Agro_WP_128406407]
@@ -104,19 +104,19 @@ guides:
     ocd_rhizobiales_chromosomal: bacterial_chromosomal
     ocd_other_bacteria: bacterial_other
     orf358: T-DNA
-  tier2_min_identity: 0.40   # агро-хит из rep_seqs идёт в ярус 2, если ≥40% идентичен хотя бы одному белку яруса 1
-                             # (отсекает хромосомные паралоги того же фолда: OCD, редуктазы, TIR и т.п.)
-  tier3_min_identity: 0.30   # грибная модель идёт в ярус 3 только со статусом intact/pseudogene_like, HMM-pass и ≥30% к ярусу 1/2
+  tier2_min_identity: 0.40   # an agro hit from rep_seqs goes to tier 2 if ≥40% identical to at least one tier-1 protein
+                             # (removes chromosomal paralogs of the same fold: OCD, reductases, TIR, etc.)
+  tier3_min_identity: 0.30   # a fungal model goes to tier 3 only with status intact/pseudogene_like, HMM pass and ≥30% to tier 1/2
 
 annotate:
-  flank_model: 15000         # окно для miniprot: HSP ± 15 кб (сам ген ≤ 3 кб)
-  context_max: 250000        # AUGUSTUS гоняем на всей скачанной последовательности, если она ≤ 250 кб, иначе ±100 кб
+  flank_model: 15000         # window for miniprot: HSP ± 15 kb (the gene itself ≤ 3 kb)
+  context_max: 250000        # run AUGUSTUS on the whole downloaded sequence if it is ≤ 250 kb, otherwise ±100 kb
   miniprot:
     max_intron: 3000         # -G
     threads: 2
   augustus:
     default_species: laccaria_bicolor
-    # Class (из таксономии blast_stats) → набор параметров AUGUSTUS
+    # Class (from the blast_stats taxonomy) → AUGUSTUS parameter set
     by_class:
       Agaricomycetes: laccaria_bicolor
       Dacrymycetes: laccaria_bicolor
@@ -135,7 +135,7 @@ annotate:
       Mortierellomycetes: rhizopus_oryzae
       Mucoromycetes: rhizopus_oryzae
       Glomeromycetes: rhizopus_oryzae
-    by_division:             # если класс не в списке
+    by_division:             # if the class is not listed
       Basidiomycota: laccaria_bicolor
       Ascomycota: fusarium_graminearum
       Mucoromycota: rhizopus_oryzae
@@ -143,31 +143,32 @@ annotate:
       Chytridiomycota: rhizopus_oryzae
       Microsporidia: encephalitozoon_cuniculi_GB
   neighbors:
-    min_multiexon_each_side: 3   # адаптивное окно: расширяем, пока с каждой стороны не набрано столько генов с ≥2 экзонами
-    steps_kb: [15, 50, 100]      # ступени расширения (последняя = до края скачанной последовательности)
+    min_multiexon_each_side: 3   # adaptive window: extend until this many genes with ≥2 exons are collected on each side
+    steps_kb: [15, 50, 100]      # extension steps (the last = up to the edge of the downloaded sequence)
     gc_bin: 10000
 
 validate:
-  hmm_evalue: 1.0e-5         # hmmsearch порог для статуса «гомолог»
-  # Конкурентная схема: gap = score(лучшая подгруппа) - score(OUTGROUP). Эмпирика тест-100 + 474 NCBI-белка (2026-09-05):
-  # распределение gap бимодальное — <-50 бит (187 дрожжевых Gde1p и т.п.) и >+20 бит (настоящие кандидаты); между -12 и +20
-  # лежат только слабые с обеих сторон (оба скора 10-27 бит). 20 бит ≈ 10^6 отношения правдоподобий.
-  ambiguous_gap_bits: 20     # |gap| < 20 -> ambiguous (ни одна сторона не выигрывает уверенно)
-  min_score_bits: 30         # лучший скор подгруппы < 30 бит -> ambiguous даже при большом gap (OUTGROUP просто не сработал)
-  fragment_frac: 0.60        # белок короче 60% медианы направляющих яруса 1 → fragment
+  hmm_evalue: 1.0e-5         # hmmsearch threshold for the "homolog" status
+  # Competitive scheme: gap = score(best subgroup) - score(OUTGROUP). Empirics from test-100 + 474 NCBI proteins (2026-09-05):
+  # the gap distribution is bimodal — <-50 bits (187 yeast Gde1p etc.) and >+20 bits (genuine candidates); between -12 and +20
+  # lie only weak ones on both sides (both scores 10-27 bits). 20 bits ≈ 10^6 likelihood ratio.
+  ambiguous_gap_bits: 20     # |gap| < 20 -> ambiguous (neither side wins confidently)
+  min_score_bits: 30         # best subgroup score < 30 bits -> ambiguous even with a large gap (OUTGROUP simply did not fire)
+  fragment_frac: 0.60        # protein shorter than 60% of the tier-1 guide median → fragment
   te_keywords: "transposase|integrase|retrotransposon|reverse transcriptase|gag-pol|polyprotein|helitron|MULE|hAT |Tc1|mariner|Gypsy|Copia|Ty3|LINE-1|transposon"
 
 diamond:
-  db: /shareDB/blastdb/nr/diamond/nr_10_2025.dmnd        # общая база кластера (Oct 2025), БЕЗ таксономии → организм из stitle
+  # DIAMOND database of NCBI nr (release of October 2025 was used); build it with `diamond makedb --in nr.gz -d nr` and set the path here
+  db: ${GMO_ROOT}/data/nr/nr.dmnd        # no taxonomy map → organism is parsed from stitle
   threads: 64
-  block_size: 24             # -b: чем больше, тем меньше проходов по 371 ГБ базы; ~250-300 ГБ RAM
+  block_size: 24             # -b: the larger, the fewer passes over the 371 GB database; ~250-300 GB RAM
   index_chunks: 1            # -c
   max_target_seqs: 10
   evalue: 1.0e-5
-  sensitivity: ""            # "" = default; "--sensitive" только для целевых генов при необходимости
+  sensitivity: ""            # "" = default; "--sensitive" only for target genes if needed
 
 lsf:
   queue: short
   mem_per_slot_mb: 4000
-  annotate_concurrency: 150  # %N в job array
+  annotate_concurrency: 150  # %N in the job array
   diamond_mem_per_slot_mb: 5000

@@ -21,7 +21,7 @@ for c in t.find_clades(): c.confidence=None
 Phylo.write(t,'$FAM.tree.nwk','newick')"
     cp $FAM.tree.nwk loose/
   fi
-  conda activate PlantCad2
+  conda activate paper_build
   yn $FAM; (cd loose; yn $FAM)
   if [ $N -ge 4 ]; then
     (cd loose; python3 $D/ctl.py $FAM M0; codeml $FAM.M0.ctl > $FAM.M0.log 2>&1)

@@ -2,7 +2,7 @@
 """Build Supplementary Tables (Biology/MDPI) from the finished analysis tables.
 
 Re-runnable; reads only existing files, writes only into this directory.
-Run with the PlantCad2 python to also get Supplementary_Tables.xlsx (openpyxl).
+Run with the paper_build python to also get Supplementary_Tables.xlsx (openpyxl).
 """
 import sys as _sys, os as _os; _sys.path.insert(0, _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..', '..')))
 from gmo_paths import GMO_ROOT  # noqa: E402
@@ -329,14 +329,14 @@ with open(OUT + "/data/boletales517_ncbi_summary.jsonl") as fh:   # NCBI Dataset
 rows4 = []
 for g in gen:
     a = g["gca"]; nb = NCBI.get(a, {}); c = g2c.get(a, {}); r1 = acc1.get(a, {}); rA = accA.get(a, {})
-    sra = ";".join(re.findall(r"[SED]RR\d+", rA.get("где использована", "")))
+    sra = ";".join(re.findall(r"[SED]RR\d+", rA.get("used_in", "")))
     r = {"gca": a, "org": g["organism"], "genus": g["genus"], "cid": c.get("cluster_id", ""),
          "cname": c.get("cluster_name", ""), "conf": c.get("name_conflict", ""),
-         "date": nb.get("date") or r1.get("release_date") or rA.get("дата", ""),
-         "level": nb.get("level") or r1.get("level") or rA.get("уровень сборки", ""),
-         "len": nb.get("len") or r1.get("total_len") or rA.get("длина, п.н.", ""),
+         "date": nb.get("date") or r1.get("release_date") or rA.get("release_date", ""),
+         "level": nb.get("level") or r1.get("level") or rA.get("assembly_level", ""),
+         "len": nb.get("len") or r1.get("total_len") or rA.get("length_bp", ""),
          "nc": nb.get("nc") or r1.get("n_contigs", ""),
-         "n50": nb.get("n50") or r1.get("contig_n50") or rA.get("N50 контигов, п.н.", ""),
+         "n50": nb.get("n50") or r1.get("contig_n50") or rA.get("contig_N50_bp", ""),
          "bs": nb.get("bs") or rA.get("BioSample", ""), "bp": nb.get("bp") or rA.get("BioProject", ""),
          "sub": nb.get("sub", ""), "tech": nb.get("tech", ""), "wgs": nb.get("wgs", ""), "sra": sra}
     for ln in LINS:
@@ -1742,8 +1742,8 @@ os.makedirs(G + "/paper/submission", exist_ok=True)
 open(G + "/paper/submission/supplementary_materials_paragraph.md", "w").write(para + "\n")
 
 # ---------------------------------------------------------------- checks
-BAD = [("cyrillic", re.compile("[Ѐ-ӿ]")), ("gdpd_meso", re.compile("gdpd_meso")), ("kerr14", re.compile("kerr14")),
-       ("six", re.compile(r"\bsix\b")), ("shesterka", re.compile("шестёрк|шестерк")), ("Tree_clade", re.compile("Tree_clade")),
+BAD = [("cyrillic", re.compile("[\u0400-\u04ff]")), ("gdpd_meso", re.compile("gdpd_meso")), ("kerr14", re.compile("kerr14")),
+       ("six", re.compile(r"\bsix\b")), ("Tree_clade", re.compile("Tree_clade")),
        ("Acs1", re.compile(r"\bAcs\d")), ("Cus1", re.compile(r"\bCus\d")), ("ORF358", re.compile("ORF358|orf358")),
        ("T1|/T2|", re.compile(r"T[123]\|")), ("tier T1/T2/T3", re.compile(r"\bT[123]\b")),
        ("pseudogene_like", re.compile("pseudogene_like")), ("cus_actinobacteria", re.compile("cus_actinobacteria")),

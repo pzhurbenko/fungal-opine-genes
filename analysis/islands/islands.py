@@ -92,15 +92,15 @@ def w(p, rs):
         wr = csv.DictWriter(f, fieldnames=list(rs[0].keys()), delimiter='\t'); wr.writeheader(); wr.writerows(rs)
 w(f'{HERE}/islands.tsv', rows); w(f'{HERE}/islands_genes.tsv', grows)
 print('loci:', len(rows))
-print('\n== островки, ограниченные грибными якорями с обеих сторон: длина и число не-грибных генов внутри ==')
+print('\n== islands bounded by fungal anchors on both sides: length and number of non-fungal genes inside ==')
 import statistics as st
 for fam in ['ACS', 'CUS', 'SUS', 'ORF358']:
     rs = [r for r in rows if r['fam'] == fam and r['bounded_left'] == 'yes' and r['bounded_right'] == 'yes']
     if not rs: continue
     L = [r['island_len'] for r in rs]; nb = [r['n_bacterial_like'] for r in rs]
-    print(f"{fam:7s} n={len(rs):4d}  длина медиана {st.median(L)/1e3:.1f} кб (q90 {sorted(L)[int(len(L)*.9)]/1e3:.0f} кб); только целевой ген внутри: {sum(1 for r in rs if r['n_genes_inside']==1)}; "
-          f">=1 доп. бактериальноподобный: {sum(1 for x in nb if x>=1)}; >=3: {sum(1 for x in nb if x>=3)}; др. семейство внутри: {sum(1 for r in rs if r['other_fams_inside'])}")
-print('\n== крупнейшие островки с >=2 бактериальноподобными генами (не считая цели), по классам ==')
+    print(f"{fam:7s} n={len(rs):4d}  length median {st.median(L)/1e3:.1f} kb (q90 {sorted(L)[int(len(L)*.9)]/1e3:.0f} kb); target gene only inside: {sum(1 for r in rs if r['n_genes_inside']==1)}; "
+          f">=1 extra bacterial-like: {sum(1 for x in nb if x>=1)}; >=3: {sum(1 for x in nb if x>=3)}; other family inside: {sum(1 for r in rs if r['other_fams_inside'])}")
+print('\n== largest islands with >=2 bacterial-like genes (excluding the target), by class ==')
 big = sorted([r for r in rows if r['n_bacterial_like'] >= 2], key=lambda r: -r['n_bacterial_like'])
 for r in big[:40]:
-    print(f"  {r['organism'][:28]:28s} {r['class'][:15]:15s} {r['locus_id']:32s} {r['island_len']/1e3:6.1f} кб  генов {r['n_genes_inside']:3d} бакт {r['n_bacterial_like']:2d} nohit {r['n_no_hit']:2d} fungi1ex {r['n_fungal_singleexon']:2d}  GC {r['gc_island']}/{r['gc_context']}/{r['gc_assembly']}  fams {r['other_fams_inside']} bounded {r['bounded_left']}/{r['bounded_right']}")
+    print(f"  {r['organism'][:28]:28s} {r['class'][:15]:15s} {r['locus_id']:32s} {r['island_len']/1e3:6.1f} kb  genes {r['n_genes_inside']:3d} bact {r['n_bacterial_like']:2d} nohit {r['n_no_hit']:2d} fungi1ex {r['n_fungal_singleexon']:2d}  GC {r['gc_island']}/{r['gc_context']}/{r['gc_assembly']}  fams {r['other_fams_inside']} bounded {r['bounded_left']}/{r['bounded_right']}")

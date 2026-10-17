@@ -1,7 +1,7 @@
 # Opine metabolism genes horizontally transferred into fungal genomes
 
-Code, small input data and derived tables for the article of this title: opine metabolism genes of rhizobial (Agrobacterium/Rhizobium T-DNA) origin in fungal genomes. This repository holds the code,
-small input data and derived tables behind a screen of 6,123 fungal proteomes and 2,215 fungal assemblies, which yielded
+Code, small input data and derived tables behind the article "Opine metabolism genes horizontally transferred into fungal genomes" (Biology, MDPI, submitted 2026).
+This repository holds the code, small input data and derived tables behind a screen of 6,123 fungal proteomes and 2,215 fungal assemblies, which yielded
 candidate loci that fall into seven independent lineages of bacterial origin (gene families named ACS, CUS and SUS after the
 T-DNA opine synthase genes they resemble, plus the chs-like and odh-like loci of Fusarium and relatives). The pipeline builds gene models on the real contigs, classifies the genomic context, and the paper scripts rebuild
 all figures, tables and supplementary files.
@@ -60,9 +60,11 @@ Create the environments with `conda env create -f env/<env>.yml` (unpinned) or `
 | MMseqs2 | 18.8cc5c | `orthofinder` |
 | Mash / mashtree | 2.3 / 1.2.0 | `mashtree_env` |
 | PAML | 4.10.7 | `mashtree_env` |
-| Python plotting/build stack (pandas 2.2.3, matplotlib 3.9.2, Biopython 1.84, ete3 3.1.3, openpyxl 3.1.5, python-docx 1.2.0) | see file | `PlantCad2` |
+| Python stack (Python 3.10, matplotlib, pandas, Biopython, python-docx, openpyxl; used only for figures, tables and the supplementary files) | see file | `paper_build` |
 
 ## Running the locus pipeline
+
+The pipeline and several analysis scripts submit jobs to an LSF cluster (`bsub`); on another system, run the commands that each script wraps directly, with the same environments.
 
 ```bash
 cd $GMO_ROOT/pipeline
@@ -78,7 +80,7 @@ from the paths given at the top of its scripts.
 ## Regenerating figures, tables and supplementary files
 
 ```bash
-conda activate PlantCad2
+conda activate paper_build
 bash $GMO_ROOT/paper/rebuild_all.sh
 ```
 This runs the figure scripts (Figures 1-5, 600 dpi TIFF export) and `paper/supplementary/build_supplementary.py` (Tables S1-S18,

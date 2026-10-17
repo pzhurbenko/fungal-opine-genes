@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Supplementary figure: distributions behind every threshold of the paper, with the threshold as a vertical line.
 Style as paper/figures/make_fig1.py. Inputs: analysis/thresholds/{margins_116.tsv, backbone/, chs/, pkerr/}.
-Output: analysis/thresholds/thresholds_distributions.{png,svg}. Env: PlantCad2.
+Output: analysis/thresholds/thresholds_distributions.{png,svg}. Env: paper_build.
 """
 import sys as _sys, os as _os; _sys.path.insert(0, _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..', '..')))
 from gmo_paths import GMO_ROOT  # noqa: E402

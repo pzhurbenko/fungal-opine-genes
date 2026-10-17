@@ -1,6 +1,6 @@
 #!/bin/bash
 : "${GMO_ROOT:=$(cd "$(dirname "$0")/.." && pwd)}"; export GMO_ROOT
-# Rebuild figures (300 dpi PNG + 600 dpi TIFF) and supplementary tables (env PlantCad2).
+# Rebuild figures (300 dpi PNG + 600 dpi TIFF) and supplementary tables (env paper_build).
 set -e
 P=${GMO_ROOT}/paper
 cd $P/figures

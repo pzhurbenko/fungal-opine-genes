@@ -2,7 +2,7 @@
 """Figure 5: distribution of the five lineages across genera of Boletaceae (grouped by subfamily) and other Boletales.
 Input: Fig2_genus_counts.tsv (written by analysis/boletales_mash_517/make_fig2_genus.py).
 Subfamily layout: Fig5_subfamilies_Tremble2024.tsv (Tremble et al. 2024, Mycologia 116:392-408; subfamily names as in Wu et al. 2014).
-Run (PlantCad2): cd paper/figures && MPLBACKEND=Agg python make_fig5_genera.py
+Run (paper_build): cd paper/figures && MPLBACKEND=Agg python make_fig5_genera.py
 Outputs: Fig5_boletales_genera.{png,svg,pdf}"""
 import sys as _sys, os as _os; _sys.path.insert(0, _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..', '..')))
 from gmo_paths import GMO_ROOT  # noqa: E402

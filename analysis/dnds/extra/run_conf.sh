@@ -26,7 +26,7 @@ ids=[l[1:].strip() for l in open('$FAM.cds.fna') if l[0]=='>']
 open('$FAM.tree.nwk','w').write('('+','.join(i+':0.1' for i in ids)+');\n')"
     cp $FAM.tree.nwk loose/
   fi
-  conda activate PlantCad2
+  conda activate paper_build
   yn $FAM; (cd loose; yn $FAM)
   if [ $N -ge 3 ]; then
     (cd loose; python3 $D/ctl.py $FAM M0; codeml $FAM.M0.ctl > $FAM.M0.log 2>&1)

@@ -2,7 +2,7 @@
 """Sensitivity of the Table 2 counts and the Figure 5 inputs to excluding 'uncertain' loci (integration_status.tsv).
 Does NOT change production files. Figure 5 inputs are recomputed by running a copy of analysis/boletales_mash_517/make_fig2_genus.py
 with the uncertain loci removed from TableS1_all_lineages.tsv and all outputs redirected to a temporary directory.
-Run (env PlantCad2): python integration_status.py && python sensitivity_uncertain_loci.py
+Run (env paper_build): python integration_status.py && python sensitivity_uncertain_loci.py
 Outputs: sensitivity_uncertain_loci.tsv, intact_but_uncertain_loci.tsv (this directory).
 Columns: all_loci | confirmed_supported_only."""
 import csv, os, re, subprocess, sys, tempfile, glob

@@ -11,7 +11,7 @@ conda activate annot
 samtools index bam/$RUN.bam; samtools flagstat bam/$RUN.bam > bam/$RUN.flagstat
 # island copy on CM100256 (odh FPOAC2_10362, pepP 10363, g3 10364) and annotated fragments of the CM100255 copy (pepP 07383, g3 07382)
 for TG in FPOAC2_10362 FPOAC2_10363 FPOAC2_10364 FPOAC2_07383 FPOAC2_07382; do
-  $(conda info --base)/envs/PlantCad2/bin/python -I count_expr.py $RUN fp133 bam/$RUN.bam $D/genomic.gff $TG ctrl_fp133.tsv
+  $(conda info --base)/envs/paper_build/bin/python -I count_expr.py $RUN fp133 bam/$RUN.bam $D/genomic.gff $TG ctrl_fp133.tsv
 done
 # unannotated odh copy on CM100255 (9465822-9466883) and the whole CM100255 island: raw read counts, MAPQ>=1 and all primary
 for R in CM100255.1:9465822-9466883 CM100255.1:9463190-9466883 CM100256.1:8420071-8423766; do

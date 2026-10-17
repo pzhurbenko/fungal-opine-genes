@@ -10,5 +10,5 @@ conda activate minimap2_env
 minimap2 -ax splice:sr -G 3000 -t $T $FNA reads/${RUN}_1.fastq.gz reads/${RUN}_2.fastq.gz 2> bam/$RUN.minimap2.log | $(conda info --base)/envs/annot/bin/samtools sort -@ 8 -m 1G -o bam/$RUN.bam - 2>/dev/null
 conda activate annot
 samtools index bam/$RUN.bam; samtools flagstat bam/$RUN.bam > bam/$RUN.flagstat
-$(conda info --base)/envs/PlantCad2/bin/python -I count_expr.py $RUN $SP bam/$RUN.bam $D/genomic.gff $TG genome/ctrl_$SP.tsv
+$(conda info --base)/envs/paper_build/bin/python -I count_expr.py $RUN $SP bam/$RUN.bam $D/genomic.gff $TG genome/ctrl_$SP.tsv
 echo "DONE $RUN $(date)"

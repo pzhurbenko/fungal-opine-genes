@@ -43,7 +43,7 @@ LIN = [  # (regex, rank on the lineage scale)
     (r"other fungal GDPD", 14), (r"other opine dehydrogenase", 15)]
 GEN = [(rf"(?<![\w-]){I}acs{I} \(pKerr14a\)", 4), (rf"(?<![\w-]){I}acs{I}_pKerr14a", 4), (rf"pKerr14a {I}acs{I}(?![\w-])", 4)] + \
       [(rf"(?<![\w-]){I}{g}{I}(?![\w-]| \(pKerr14a\)| lineage|-like|-subfamily|-type| island|_)", i) for i, g in enumerate(GENE_ORDER) if g != "acs_pKerr14a"]
-SEP = re.compile(r"^(?:\s*\([^()]{0,60}\))?[\s*_]*(?:,|;|/|\+|,? and|,? or|,? и)?[\s*_]*$")  # an item may carry a short parenthetical: "*sus* (succinamopine synthase), *cus* (...)"
+SEP = re.compile(r"^(?:\s*\([^()]{0,60}\))?[\s*_]*(?:,|;|/|\+|,? and|,? or|,? \u0438)?[\s*_]*$")  # an item may carry a short parenthetical: "*sus* (succinamopine synthase), *cus* (...)"
 def items(line):
     found, taken = [], []
     for kind, pats in (("L", LIN), ("G", GEN)):

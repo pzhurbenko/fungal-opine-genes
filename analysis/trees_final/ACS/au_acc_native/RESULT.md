@@ -1,11 +1,11 @@
-# AU-тест: acc-type GDPD + нативные грибные GDPD (2026-10-12)
+# AU test: acc-type GDPD + native fungal GDPD (2026-10-12)
 
-Выравнивание `../ACS.mafft.trim.aln` (259 листьев), модель JTT+R5 (BIC, как `../ACS.lineage.AU`), поиск с ограничением `-g` (2 574 с, 32 потока),
-затем `iqtree -z au_trees.nwk -n 0 -zb 10000 -au` (ML + 6 прежних ограничений GDPD + новое). LSF 712220, `run_au_acc_native.sh`, порядок — `hyp_order.txt`, состав групп — `groups.txt`.
+Alignment `../ACS.mafft.trim.aln` (259 leaves), model JTT+R5 (BIC, as in `../ACS.lineage.AU`), constrained search with `-g` (2 574 s, 32 threads),
+then `iqtree -z au_trees.nwk -n 0 -zb 10000 -au` (ML + 6 earlier GDPD constraints + the new one). LSF 712220, `run_au_acc_native.sh`, order in `hyp_order.txt`, group composition in `groups.txt`.
 
-Группы (по меткам листьев, как в `../../au_lineage_acs.py`): MESO = 60 FUNGI_gdpd_meso (acc-type GDPD); NATV = 138 (NATIVE_* + FUNGI_acs_* кроме шести pKerr14a-type).
+Groups (by leaf labels, as in `../../au_lineage_acs.py`): MESO = 60 FUNGI_gdpd_meso (acc-type GDPD); NATV = 138 (NATIVE_* + FUNGI_acs_* except the six pKerr14a-type).
 
-| # | гипотеза | logL | ΔL | p-AU |
+| # | hypothesis | logL | ΔL | p-AU |
 |---|---|---|---|---|
 | 1 | ML | −77045.09 | 0 | 1.00 |
 | 2 | six_tdna (pKerr14a-type + T-DNA acs) | −78767.86 | 1722.8 | 1.4e-31 |
@@ -14,6 +14,6 @@
 | 5 | six_natv (pKerr14a-type + native GDPD) | −80303.87 | 3258.8 | 4.7e-61 |
 | 6 | meso_acc (acc-type + acc-locus refs) | −77045.91 | 0.8 | 0.56 |
 | 7 | meso_tdna (acc-type + T-DNA acs) | −79161.32 | 2116.2 | 7.4e-11 |
-| 8 | **meso_natv (acc-type + native fungal GDPD, 138)** | −80542.68 | **3497.6** | **1.1e-95 (отвергнуто)** |
+| 8 | **meso_natv (acc-type + native fungal GDPD, 138)** | −80542.68 | **3497.6** | **1.1e-95 (rejected)** |
 
-Вывод: нативное происхождение acc-type GDPD отвергнуто; прежние вердикты (п. 2–7) воспроизведены (p в прежнем прогоне: 1.4e-60, 0.42, 0.13, 2.4e-06, 1.0, 5.9e-47).
+Conclusion: a native origin of the acc-type GDPD is rejected; the earlier verdicts (items 2–7) are reproduced (p in the earlier run: 1.4e-60, 0.42, 0.13, 2.4e-06, 1.0, 5.9e-47).

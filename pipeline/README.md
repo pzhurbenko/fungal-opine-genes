@@ -1,6 +1,6 @@
 # GMO loci pipeline — gene models and genomic context for candidate T-DNA genes in fungi
 
-Version 1, 2026-09-05. Author: P. Zhurbenko + Claude Code. (English translation of the original Russian README; in-code comments remain partly in Russian.)
+Version 1, 2026-09-05.
 
 ## Why
 
