@@ -1,6 +1,6 @@
 # Opine metabolism genes horizontally transferred into fungal genomes
 
-Code, small input data and derived tables behind the article "Opine metabolism genes horizontally transferred into fungal genomes" (Biology, MDPI, submitted 2026).
+Code, small input data and derived tables behind the article "Opine metabolism genes horizontally transferred into fungal genomes" (fungal genomes screened for T-DNA and other rhizobial opine metabolism genes) (Biology, MDPI, submitted 2026).
 This repository holds the code, small input data and derived tables behind a screen of 6,123 fungal proteomes and 2,215 fungal assemblies, which yielded
 candidate loci that fall into seven independent lineages of bacterial origin (gene families named ACS, CUS and SUS after the
 T-DNA opine synthase genes they resemble, plus the chs-like and odh-like loci of Fusarium and relatives). The pipeline builds gene models on the real contigs, classifies the genomic context, and the paper scripts rebuild
