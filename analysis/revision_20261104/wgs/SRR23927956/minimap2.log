@@ -1,0 +1,19 @@
+[M::mm_idx_gen::1.132*1.00] collected minimizers
+[M::mm_idx_gen::1.211*1.70] sorted minimizers
+[M::main::1.211*1.70] loaded/built the index for 7 target sequence(s)
+[M::mm_mapopt_update::1.348*1.63] mid_occ = 46
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 7
+[M::mm_idx_stat::1.456*1.58] distinct minimizers: 6870835 (91.90% are singletons); average occurrences: 1.226; average spacing: 5.349; total length: 45049967
+[M::worker_pipeline::38.665*9.51] mapped 25494 sequences
+[M::worker_pipeline::65.300*10.59] mapped 27146 sequences
+[M::worker_pipeline::92.293*11.08] mapped 27945 sequences
+[M::worker_pipeline::130.841*11.41] mapped 26620 sequences
+[M::worker_pipeline::144.978*11.50] mapped 24269 sequences
+[M::worker_pipeline::173.196*11.61] mapped 13087 sequences
+[M::worker_pipeline::200.889*11.70] mapped 12934 sequences
+[M::worker_pipeline::241.676*11.75] mapped 10583 sequences
+[M::worker_pipeline::256.882*11.79] mapped 15512 sequences
+[M::worker_pipeline::281.972*11.75] mapped 27091 sequences
+[M::main] Version: 2.30-r1287
+[M::main] CMD: /home/labs/alevy/petrzhu/miniforge3/envs/minimap2_env/bin/minimap2 -ax map-ont -t 12 /home/labs/alevy/petrzhu/GMO/data/fungal_genomes/fusarium/fus/ncbi_dataset/data/GCA_046056315.1/GCA_046056315.1_ASM4605631v1_genomic.fna /home/labs/alevy/petrzhu/GMO/analysis/revision_20261104/wgs/reads/SRR23927956_1.fastq.gz
+[M::main] Real time: 282.079 sec; CPU: 3313.779 sec; Peak RSS: 6.838 GB

@@ -4,7 +4,7 @@ Patchy distribution	met: 30 of 358 Boletales species; one Mortierella	met: 10 of
 Genomic context	met: islands with other acquired genes	met: islands	met: single genes	met: single gene	met: islands	met: single genes and islands; 5.9-kb insertion absent from other isolates of B. edulis	met: islands	met: three-gene block, 2-3 copies
 Intact genes with introns	2 of 36	6 of 14	2 of 20	0 of 6	2 of 3	4 of 6	0 of 4	0 of 16
 GC, points vs genome (genes above 95th percentile)	not met: -0.1 (0 of 17)	met: +6.4 (4 of 7)	partly: +4.0 (9 of 20)	met: +7.6	not met: +0.2 (0 of 1)	not met: -2.1 (0 of 2)	not met: -0.3 (0 of 5)	partly: +0.5 odh, +6.6 pepP, +1.9 orf3
-Contamination excluded by	F, A, R, P	F, A, R, P	F, S, P	C, S, P	F, A, R, P	F, R, P	F, P	F, C, S, P
-Loci with integration confirmed / supported / not assessable	18 / 19 / 21	15 / 2 / 9	15 / 8 / 1	4 / 29 / 0	24 / 14 / 22	6 / 2 / 11	2 / 3 / 1	10 / 11 / 7
+Contamination excluded by	F, A, R, P	F, A, R, P	F, S, P; R (additional WGS, Table S20)	C, S, P; R (additional WGS, Table S20)	F, A, R, P	F, R, P	F, P	F, C, S, P; R (additional WGS, Table S20)
+Loci with integration confirmed / supported / not assessable	18 / 19 / 21	15 / 2 / 9	16 / 7 / 1	4 / 29 / 0	24 / 14 / 22	6 / 2 / 11	2 / 3 / 1	10 / 11 / 7
 omega (dN/dS); transcription	0.25; n.d.	0.21; n.d.	0.10 (0.24); n.d.	0.21; not detected	n.d. (3 intact genes); n.d.	0.6; n.d.	0.8 (unreliable); n.d.	n.d. (too similar); transcribed
 Closest sampled relatives and locus context	canonical T-DNA	canonical T-DNA	canonical T-DNA	Ti-plasmid chs genes (sister group); plasmid not sampled	rhizobial acc-like catabolic locus	pKerr14a acs; T-region not delimited	rhizobial nos subfamily; donor locus not sampled	homologous locus on the A. larrymoorei plasmid, which carries no vir genes or oncogenes

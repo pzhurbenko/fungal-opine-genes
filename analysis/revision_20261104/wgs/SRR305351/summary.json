@@ -1,0 +1,80 @@
+{
+  "regions": [
+    {
+      "run": "SRR305351",
+      "assembly": "GCA_000149955.2",
+      "strain": "Fol4287",
+      "platform": "ILLUMINA",
+      "region_id": "GCA_000149955.2_L1",
+      "region_kind": "gene",
+      "contig": "CM000600.1",
+      "start": 483558,
+      "end": 484454,
+      "min_MAPQ": 0,
+      "genome_median_depth": 15.0,
+      "locus_mean_depth": 14.091415830546266,
+      "locus_median_depth": 14.0,
+      "depth_ratio": 0.9394277220364178,
+      "covered_fraction": 1.0,
+      "left_flank_median": 17.0,
+      "right_flank_median": 13.0,
+      "left_edge_spanning_reads": 1,
+      "right_edge_spanning_reads": 4,
+      "min_aligned_bp_each_40bp_side": 40,
+      "overlapping_reads": 145,
+      "median_MAPQ": 60.0,
+      "properly_paired_fraction": 0.9517241379310345,
+      "fungal_anchor_spanning_reads": null,
+      "left_fungal_anchor": "",
+      "right_fungal_anchor": ""
+    },
+    {
+      "run": "SRR305351",
+      "assembly": "GCA_000149955.2",
+      "strain": "Fol4287",
+      "platform": "ILLUMINA",
+      "region_id": "GCA_000149955.2_L1",
+      "region_kind": "gene",
+      "contig": "CM000600.1",
+      "start": 483558,
+      "end": 484454,
+      "min_MAPQ": 20,
+      "genome_median_depth": 13.0,
+      "locus_mean_depth": 13.888517279821627,
+      "locus_median_depth": 14.0,
+      "depth_ratio": 1.068347483063202,
+      "covered_fraction": 1.0,
+      "left_flank_median": 17.0,
+      "right_flank_median": 13.0,
+      "left_edge_spanning_reads": 1,
+      "right_edge_spanning_reads": 4,
+      "min_aligned_bp_each_40bp_side": 40,
+      "overlapping_reads": 143,
+      "median_MAPQ": 60.0,
+      "properly_paired_fraction": 0.965034965034965,
+      "fungal_anchor_spanning_reads": null,
+      "left_fungal_anchor": "",
+      "right_fungal_anchor": ""
+    }
+  ],
+  "genome": [
+    {
+      "run": "SRR305351",
+      "min_MAPQ": 0,
+      "assembly": "GCA_000149955.2",
+      "genome_bp": 61471697,
+      "median_depth": 15.0,
+      "mean_depth": 15.706294573257022,
+      "covered_fraction": 0.9732835259127465
+    },
+    {
+      "run": "SRR305351",
+      "min_MAPQ": 20,
+      "assembly": "GCA_000149955.2",
+      "genome_bp": 61471697,
+      "median_depth": 13.0,
+      "mean_depth": 11.897417749830463,
+      "covered_fraction": 0.7841792947411229
+    }
+  ]
+}

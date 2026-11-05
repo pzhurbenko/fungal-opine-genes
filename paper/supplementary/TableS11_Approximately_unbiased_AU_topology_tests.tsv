@@ -35,15 +35,15 @@ GDPD	6	acc-type GDPD + T-DNA acs forced monophyletic	-79170.50225	2121	5.92e-47	
 GDPD	0	unconstrained maximum-likelihood tree (reference; separate test set with the native fungal GDPD constraint for the acc-type genes; constraints 1-6 above re-tested here gave p = 1.4e-31, 0.44, 0.16, 4.7e-61, 0.56 and 7.4e-11)	-77045.09295	0	1	reference	ACS_nat-0
 GDPD	7	acc-type GDPD + native fungal GDPD forced monophyletic (native origin of the acc-type genes)	-80542.6837	3497.6	1.06e-95	rejected	ACS_nat-7
 chrysopine synthase (Chs; M24 aminopeptidase family)	0	unconstrained maximum-likelihood tree (reference)	-24638.05161	0	1	reference	CHS-0
-chrysopine synthase (Chs; M24 aminopeptidase family)	1	fungal chs-like + T-DNA chs seed forced monophyletic, without the other Ti-plasmid chs genes	-24771.30785	133.26	2.04e-48	rejected	CHS-1
-chrysopine synthase (Chs; M24 aminopeptidase family)	2	fungal chs-like + the four other Ti-plasmid chs genes forced monophyletic, without the seed	-24750.72462	112.67	1.5e-72	rejected	CHS-2
-chrysopine synthase (Chs; M24 aminopeptidase family)	3	fungal chs-like + ags seed forced monophyletic	-24952.47778	314.43	0.000882	rejected	CHS-3
+chrysopine synthase (Chs; M24 aminopeptidase family)	1	fungal chs-like + T-DNA chs reference query forced monophyletic, without the other Ti-plasmid chs genes	-24771.30785	133.26	2.04e-48	rejected	CHS-1
+chrysopine synthase (Chs; M24 aminopeptidase family)	2	fungal chs-like + the four other Ti-plasmid chs genes forced monophyletic, without the reference query	-24750.72462	112.67	1.5e-72	rejected	CHS-2
+chrysopine synthase (Chs; M24 aminopeptidase family)	3	fungal chs-like + ags reference query forced monophyletic	-24952.47778	314.43	0.000882	rejected	CHS-3
 chrysopine synthase (Chs; M24 aminopeptidase family)	4	fungal chs-like + native fungal ags homologs forced monophyletic	-24687.62207	49.57	0.00173	rejected	CHS-4
 chrysopine synthase (Chs; M24 aminopeptidase family)	5	fungal chs-like + other bacterial M24 aminopeptidases forced monophyletic	-24958.32384	320.27	4.1e-15	rejected	CHS-5
 chrysopine synthase (Chs; M24 aminopeptidase family)	6	all fungal chs-like (Fusarium + Dactylonectria) in one clade (single acquisition)	-24642.60512	4.5535	0.167	not rejected	CHS-6
 chrysopine synthase (Chs; M24 aminopeptidase family)	0	unconstrained maximum-likelihood tree (reference; separate test set: are the fungal chs-like genes nested within the Ti-plasmid chs clade?)	-24638.05161	0	1	reference	CHS_nest-0
-chrysopine synthase (Chs; M24 aminopeptidase family)	1	all 11 fungal chs-like (Fusarium + Dactylonectria) + the chs seed (pTi chrysopine synthase A0A2Z2PGA9) forced monophyletic (fungal genes nested within the Ti-plasmid chs clade next to seed)	-24771.30785	133.26	0.000192	rejected	CHS_nest-1
-chrysopine synthase (Chs; M24 aminopeptidase family)	2	the 10 Fusarium chs-like + the chs seed (pTi chrysopine synthase A0A2Z2PGA9) forced monophyletic (Dactylonectria unconstrained)	-24785.33147	147.28	8.44e-62	rejected	CHS_nest-2
+chrysopine synthase (Chs; M24 aminopeptidase family)	1	all 11 fungal chs-like (Fusarium + Dactylonectria) + the chs reference query (pTi chrysopine synthase A0A2Z2PGA9) forced monophyletic (fungal genes nested within the Ti-plasmid chs clade next to reference query)	-24771.30785	133.26	0.000192	rejected	CHS_nest-1
+chrysopine synthase (Chs; M24 aminopeptidase family)	2	the 10 Fusarium chs-like + the chs reference query (pTi chrysopine synthase A0A2Z2PGA9) forced monophyletic (Dactylonectria unconstrained)	-24785.33147	147.28	8.44e-62	rejected	CHS_nest-2
 chrysopine synthase (Chs; M24 aminopeptidase family)	3	all 11 fungal chs-like (Fusarium + Dactylonectria) + Ti-plasmid chs WP_139103025.1 forced monophyletic (fungal genes nested within the Ti-plasmid chs clade next to b139)	-24771.30682	133.26	0.000191	rejected	CHS_nest-3
 chrysopine synthase (Chs; M24 aminopeptidase family)	4	the 10 Fusarium chs-like + Ti-plasmid chs WP_139103025.1 forced monophyletic (Dactylonectria unconstrained)	-24785.33144	147.28	4.28e-60	rejected	CHS_nest-4
 chrysopine synthase (Chs; M24 aminopeptidase family)	5	all 11 fungal chs-like (Fusarium + Dactylonectria) + Ti-plasmid chs WP_272871282.1 (A. tumefaciens) forced monophyletic (fungal genes nested within the Ti-plasmid chs clade next to b272871)	-24742.25342	104.2	0.000119	rejected	CHS_nest-5
@@ -67,8 +67,8 @@ opine dehydrogenase, odh island (Fusarium)	0	unconstrained maximum-likelihood tr
 opine dehydrogenase, odh island (Fusarium)	1	odh-island ODH + all native fungal ODH forced monophyletic	-18777.60561	305.01	3.52e-06	rejected	ODH-1
 opine dehydrogenase, odh island (Fusarium)	2	odh-island ODH + native Sordariomycetes ODH (Apiospora, Astrocystis) forced monophyletic (vertical-inheritance expectation)	-18939.36393	466.77	0.000401	rejected	ODH-2
 opine dehydrogenase, odh island (Fusarium)	3	control: native fungal ODH forced monophyletic (odh-island ODH unconstrained)	-18509.12877	36.536	0.00644	rejected	ODH-3
-opine dehydrogenase, odh island (Fusarium)	4	odh-island ODH inside the ML T-DNA clade (ocs/nos/vis seeds + Rhypophila/Butyriboletus + A. larrymoorei WP_309770762) forced monophyletic	-18597.59921	125.01	2.48e-58	rejected	ODH-4
-opine dehydrogenase, odh island (Fusarium)	5	odh-island ODH + T-DNA ocs/nos/vis seeds only forced monophyletic	-18739.58608	266.99	3.47e-57	rejected	ODH-5
+opine dehydrogenase, odh island (Fusarium)	4	odh-island ODH inside the ML T-DNA clade (ocs/nos/vis reference queries + Rhypophila/Butyriboletus + A. larrymoorei WP_309770762) forced monophyletic	-18597.59921	125.01	2.48e-58	rejected	ODH-4
+opine dehydrogenase, odh island (Fusarium)	5	odh-island ODH + T-DNA ocs/nos/vis reference queries only forced monophyletic	-18739.58608	266.99	3.47e-57	rejected	ODH-5
 opine dehydrogenase, odh island (Fusarium)	6	control: odh-island ODH + A. larrymoorei WP_309770759 forced monophyletic (clade of the ML tree)	-18472.59261	0	1	not rejected	ODH-6
 opine dehydrogenase, odh island (Fusarium)	7	odh-island ODH + all other bacterial ODH (both A. larrymoorei ODH excluded) forced monophyletic	-18755.94924	283.36	2.11e-07	rejected	ODH-7
-opine dehydrogenase, odh island (Fusarium)	8	odh-island ODH inside the nos subfamily (nos seed P00386 + Gillisella) forced monophyletic	-18666.64698	194.05	1.41e-51	rejected	ODH-8
+opine dehydrogenase, odh island (Fusarium)	8	odh-island ODH inside the nos subfamily (nos reference query P00386 + Gillisella) forced monophyletic	-18666.64698	194.05	1.41e-51	rejected	ODH-8

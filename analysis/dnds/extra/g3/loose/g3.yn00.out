@@ -1,0 +1,140 @@
+YN00    g3.codon.phy
+
+ns =   3	ls = 258
+
+Codon position x base (3x4) table for each sequence.
+
+GCA_001292635.1_g32 
+position  1:    T:0.21705    C:0.21705    A:0.27132    G:0.29457
+position  2:    T:0.37209    C:0.24031    A:0.22868    G:0.15891
+position  3:    T:0.24419    C:0.32171    A:0.18605    G:0.24806
+
+GCA_022180325.1_g32 
+position  1:    T:0.21705    C:0.21705    A:0.27132    G:0.29457
+position  2:    T:0.37209    C:0.24031    A:0.22868    G:0.15891
+position  3:    T:0.24419    C:0.32171    A:0.18605    G:0.24806
+
+GCA_046056315.1_g32 
+position  1:    T:0.21318    C:0.21705    A:0.29070    G:0.27907
+position  2:    T:0.35659    C:0.24806    A:0.23256    G:0.16279
+position  3:    T:0.23643    C:0.32558    A:0.18605    G:0.25194
+
+Average
+position  1:    T:0.21576    C:0.21705    A:0.27778    G:0.28941
+position  2:    T:0.36693    C:0.24289    A:0.22997    G:0.16021
+position  3:    T:0.24160    C:0.32300    A:0.18605    G:0.24935
+
+Codon usage for each species
+--------------------------------------------------------------------------------------
+Phe TTT   8   8   9 | Ser TCT   3   3   3 | Tyr TAT   3   3   3 | Cys TGT   2   2   2
+    TTC   9   9   6 |     TCC   4   4   4 |     TAC   2   2   2 |     TGC   3   3   3
+Leu TTA   4   4   3 |     TCA   5   5   6 | *** TAA   0   0   0 | *** TGA   0   0   0
+    TTG   5   5   6 |     TCG   2   2   2 |     TAG   0   0   0 | Trp TGG   6   6   6
+--------------------------------------------------------------------------------------
+Leu CTT   5   5   5 | Pro CCT   0   0   1 | His CAT   4   4   4 | Arg CGT   1   1   2
+    CTC  11  11   9 |     CCC   3   3   2 |     CAC   6   6   6 |     CGC   3   3   3
+    CTA   2   2   2 |     CCA   4   4   4 | Gln CAA   5   5   6 |     CGA   2   2   2
+    CTG   3   3   3 |     CCG   3   3   3 |     CAG   4   4   3 |     CGG   0   0   1
+--------------------------------------------------------------------------------------
+Ile ATT   6   6   5 | Thr ACT   3   3   3 | Asn AAT   4   4   5 | Ser AGT   4   4   2
+    ATC   6   6   9 |     ACC   4   4   5 |     AAC   5   5   5 |     AGC   2   2   3
+    ATA   3   3   1 |     ACA   2   2   3 | Lys AAA   5   5   6 | Arg AGA   4   4   3
+Met ATG  10  10  11 |     ACG   7   7   8 |     AAG   3   3   4 |     AGG   2   2   2
+--------------------------------------------------------------------------------------
+Val GTT   7   7   7 | Ala GCT   4   4   3 | Asp GAT   5   5   3 | Gly GGT   4   4   4
+    GTC   8   8   9 |     GCC   8   8   8 |     GAC   6   6   6 |     GGC   3   3   4
+    GTA   4   4   3 |     GCA   4   4   5 | Glu GAA   1   1   1 |     GGA   3   3   3
+    GTG   5   5   4 |     GCG   6   6   4 |     GAG   6   6   6 |     GGG   2   2   2
+--------------------------------------------------------------------------------------
+
+
+Sums
+------------------------------------------------------
+Phe TTT  25 | Ser TCT   9 | Tyr TAT   9 | Cys TGT   6
+    TTC  24 |     TCC  12 |     TAC   6 |     TGC   9
+Leu TTA  11 |     TCA  16 | *** TAA   0 | *** TGA   0
+    TTG  16 |     TCG   6 |     TAG   0 | Trp TGG  18
+------------------------------------------------------
+Leu CTT  15 | Pro CCT   1 | His CAT  12 | Arg CGT   4
+    CTC  31 |     CCC   8 |     CAC  18 |     CGC   9
+    CTA   6 |     CCA  12 | Gln CAA  16 |     CGA   6
+    CTG   9 |     CCG   9 |     CAG  11 |     CGG   1
+------------------------------------------------------
+Ile ATT  17 | Thr ACT   9 | Asn AAT  13 | Ser AGT  10
+    ATC  21 |     ACC  13 |     AAC  15 |     AGC   7
+    ATA   7 |     ACA   7 | Lys AAA  16 | Arg AGA  11
+Met ATG  31 |     ACG  22 |     AAG  10 |     AGG   6
+------------------------------------------------------
+Val GTT  21 | Ala GCT  11 | Asp GAT  13 | Gly GGT  12
+    GTC  25 |     GCC  24 |     GAC  18 |     GGC  10
+    GTA  11 |     GCA  13 | Glu GAA   3 |     GGA   9
+    GTG  14 |     GCG  16 |     GAG  18 |     GGG   6
+------------------------------------------------------
+
+
+
+(A) Nei-Gojobori (1986) method
+
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+GCA_001292635.1_g32 
+GCA_022180325.1_g32 -1.0000 (0.0000 0.0000)
+GCA_046056315.1_g32  0.5048 (0.0413 0.0819) 0.5048 (0.0413 0.0819)
+
+(B) Yang & Nielsen (2000) method
+
+Yang Z, Nielsen R (2000) Estimating synonymous and nonsynonymous substitution rates under realistic evolutionary models. Mol. Biol. Evol. 17:32-43
+
+(equal weighting of pathways)
+
+seq. seq.     S       N        t   kappa   omega     dN +- SE    dS +- SE
+
+   2    1   224.3   549.7  -0.0000  4.2058 99.0000 -0.0000 +- 0.0000 -0.0000 +- 0.0000
+   3    1   222.7   551.3   0.1532  4.2058  0.6596 0.0445 +- 0.0092  0.0674 +- 0.0182
+   3    2   222.7   551.3   0.1532  4.2058  0.6596 0.0445 +- 0.0092  0.0674 +- 0.0182
+
+
+(C) LWL85, LPB93 & LWLm methods
+
+Li W.-H., C.-I. Wu, Luo (1985) A new method for estimating synonymous and nonsynonymous rates of nucleotide substitutions considering the relative likelihood of nucleotide and codon changes. Mol. Biol. Evol. 2: 150-174.
+Li W-H (1993) Unbiased estimation of the rates of synonymous and nonsynonymous substitution. J. Mol. Evol. 36:96-99
+Pamilo P, Bianchi NO (1993) Evolution of the Zfx and Zfy genes - rates and interdependence between the genes. Mol. Biol. Evol. 10:271-281
+Yang Z (2006) Computational Molecular Evolution. Oxford University Press, Oxford. Eqs. 2.12 & 2.13
+
+2 (GCA_022180325.1_g32) vs. 1 (GCA_001292635.1_g32)
+
+L(i):      510.0     139.0     125.0  sum=    774.0
+Ns(i):    0.0000    0.0000    0.0000  sum=   0.0000
+Nv(i):    0.0000    0.0000    0.0000  sum=   0.0000
+A(i):     0.0000    0.0000    0.0000
+B(i):    -0.0000   -0.0000   -0.0000
+LWL85:  dS =  0.0000 dN =  0.0000 w =   -nan S =  171.3 N =  602.7
+LWL85m: dS =    -nan dN =    -nan w =   -nan S =   -nan N =   -nan (rho = -nan)
+LPB93:  dS =  0.0000 dN =  0.0000 w =   -nan
+
+3 (GCA_046056315.1_g32) vs. 1 (GCA_001292635.1_g32)
+
+L(i):      510.5     137.5     126.0  sum=    774.0
+Ns(i):   13.5000    7.0000    3.5000  sum=  24.0000
+Nv(i):    6.5000    3.5000    4.0000  sum=  14.0000
+A(i):     0.0275    0.0550    0.0293
+B(i):     0.0129    0.0261    0.0328
+LWL85:  dS =  0.0895 dN =  0.0402 w = 0.4490 S =  171.8 N =  602.2
+LWL85m: dS =  0.0806 dN =  0.0415 w = 0.5150 S =  190.8 N =  583.2 (rho = 0.472)
+LPB93:  dS =  0.0755 dN =  0.0432 w = 0.5721
+
+3 (GCA_046056315.1_g32) vs. 2 (GCA_022180325.1_g32)
+
+L(i):      510.5     137.5     126.0  sum=    774.0
+Ns(i):   13.5000    7.0000    3.5000  sum=  24.0000
+Nv(i):    6.5000    3.5000    4.0000  sum=  14.0000
+A(i):     0.0275    0.0550    0.0293
+B(i):     0.0129    0.0261    0.0328
+LWL85:  dS =  0.0895 dN =  0.0402 w = 0.4490 S =  171.8 N =  602.2
+LWL85m: dS =  0.0806 dN =  0.0415 w = 0.5150 S =  190.8 N =  583.2 (rho = 0.472)
+LPB93:  dS =  0.0755 dN =  0.0432 w = 0.5721
+

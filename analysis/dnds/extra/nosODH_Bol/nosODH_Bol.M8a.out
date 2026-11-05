@@ -1,0 +1,135 @@
+CODONML (in paml version 4.10.7, June 2023)  nosODH_Bol.codon.phy
+Model: One dN/dS ratio,  omega = 1.000 fixed
+
+Codon frequency model: F3x4
+Site-class models:  beta&w>1 (5 categories)
+ns =   4  ls = 274
+
+Codon usage in sequences
+------------------------------------------------------------------------------------------------------
+Phe TTT   2   2   4   2 | Ser TCT   3   3   2   3 | Tyr TAT   5   6   5   6 | Cys TGT   2   1   1   1
+    TTC  12  13  12  14 |     TCC   6   6   5   5 |     TAC   2   3   2   3 |     TGC   9  10  13  10
+Leu TTA   2   2   2   2 |     TCA   2   1   1   1 | *** TAA   0   0   0   0 | *** TGA   0   0   0   0
+    TTG   5   5   5   4 |     TCG   1   0   1   1 |     TAG   0   0   0   0 | Trp TGG   0   0   0   0
+------------------------------------------------------------------------------------------------------
+Leu CTT   7   7   8   7 | Pro CCT   3   2   2   2 | His CAT   4   1   4   1 | Arg CGT   0   1   0   0
+    CTC  15  15  14  15 |     CCC   4   5   5   5 |     CAC   6   6   5   6 |     CGC   4   4   2   5
+    CTA   1   1   0   1 |     CCA   5   4   5   4 | Gln CAA   4   5   5   5 |     CGA   1   0   0   0
+    CTG   2   5   4   5 |     CCG   2   1   2   1 |     CAG   6   6   6   6 |     CGG   1   1   1   1
+------------------------------------------------------------------------------------------------------
+Ile ATT   4   5   7   5 | Thr ACT   6   6   5   6 | Asn AAT   3   3   6   3 | Ser AGT   2   3   2   3
+    ATC  11  10   9  10 |     ACC   7   6   6   6 |     AAC   8  10   7   9 |     AGC   7   6   7   7
+    ATA   0   0   0   0 |     ACA   4   4   5   5 | Lys AAA   5   5   4   5 | Arg AGA   0   0   0   0
+Met ATG   6   6   8   6 |     ACG   1   2   1   2 |     AAG  11  13  11  13 |     AGG   0   0   1   0
+------------------------------------------------------------------------------------------------------
+Val GTT  10   9   8   9 | Ala GCT   6   7   6   7 | Asp GAT   9   9   9   9 | Gly GGT   2   1   4   1
+    GTC   4   5   5   5 |     GCC   9   9  11   9 |     GAC   7   5   5   6 |     GGC   7   8   5   7
+    GTA   0   0   0   0 |     GCA   4   4   5   3 | Glu GAA   4   4   5   4 |     GGA   3   3   3   3
+    GTG   5   1   2   1 |     GCG   4   6   3   6 |     GAG   7   6   7   6 |     GGG   2   2   1   2
+------------------------------------------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: ODH_QFEE01000845.1
+position  1:    T:0.18613    C:0.23723    A:0.27372    G:0.30292
+position  2:    T:0.31387    C:0.24453    A:0.29562    G:0.14599
+position  3:    T:0.24818    C:0.43066    A:0.12774    G:0.19343
+Average         T:0.24939    C:0.30414    A:0.23236    G:0.21411
+
+#2: ODH_QFEG01003584.1
+position  1:    T:0.18978    C:0.23358    A:0.28832    G:0.28832
+position  2:    T:0.31387    C:0.24088    A:0.29927    G:0.14599
+position  3:    T:0.24088    C:0.44161    A:0.12044    G:0.19708
+Average         T:0.24818    C:0.30535    A:0.23601    G:0.21046
+
+#3: ODH_JAGTXK010000179.1
+position  1:    T:0.19343    C:0.22993    A:0.28832    G:0.28832
+position  2:    T:0.32117    C:0.23723    A:0.29562    G:0.14599
+position  3:    T:0.26642    C:0.41241    A:0.12774    G:0.19343
+Average         T:0.26034    C:0.29319    A:0.23723    G:0.20925
+
+#4: ODH_JAHRGV010000067.1
+position  1:    T:0.18978    C:0.23358    A:0.29197    G:0.28467
+position  2:    T:0.31387    C:0.24088    A:0.29927    G:0.14599
+position  3:    T:0.23723    C:0.44526    A:0.12044    G:0.19708
+Average         T:0.24696    C:0.30657    A:0.23723    G:0.20925
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      10 | Ser S TCT      11 | Tyr Y TAT      22 | Cys C TGT       5
+      TTC      51 |       TCC      22 |       TAC      10 |       TGC      42
+Leu L TTA       8 |       TCA       5 | *** * TAA       0 | *** * TGA       0
+      TTG      19 |       TCG       3 |       TAG       0 | Trp W TGG       0
+------------------------------------------------------------------------------
+Leu L CTT      29 | Pro P CCT       9 | His H CAT      10 | Arg R CGT       1
+      CTC      59 |       CCC      19 |       CAC      23 |       CGC      15
+      CTA       3 |       CCA      18 | Gln Q CAA      19 |       CGA       1
+      CTG      16 |       CCG       6 |       CAG      24 |       CGG       4
+------------------------------------------------------------------------------
+Ile I ATT      21 | Thr T ACT      23 | Asn N AAT      15 | Ser S AGT      10
+      ATC      40 |       ACC      25 |       AAC      34 |       AGC      27
+      ATA       0 |       ACA      18 | Lys K AAA      19 | Arg R AGA       0
+Met M ATG      26 |       ACG       6 |       AAG      48 |       AGG       1
+------------------------------------------------------------------------------
+Val V GTT      36 | Ala A GCT      26 | Asp D GAT      36 | Gly G GGT       8
+      GTC      19 |       GCC      38 |       GAC      23 |       GGC      27
+      GTA       0 |       GCA      16 | Glu E GAA      17 |       GGA      12
+      GTG       9 |       GCG      19 |       GAG      26 |       GGG       7
+------------------------------------------------------------------------------
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.18978    C:0.23358    A:0.28558    G:0.29106
+position  2:    T:0.31569    C:0.24088    A:0.29745    G:0.14599
+position  3:    T:0.24818    C:0.43248    A:0.12409    G:0.19526
+Average         T:0.25122    C:0.30231    A:0.23571    G:0.21077
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+ODH_QFEE01000845.1  
+ODH_QFEG01003584.1   0.5840 (0.0534 0.0915)
+ODH_JAGTXK010000179.1 0.4125 (0.0492 0.1193) 0.4568 (0.0608 0.1331)
+ODH_JAHRGV010000067.1 0.6416 (0.0551 0.0858) 1.5146 (0.0080 0.0053) 0.4643 (0.0591 0.1272)
+TREE #  1:  (1, (2, 4), 3);   MP score: 80
+lnL(ntime:  5  np:  9):  -1493.669507      +0.000000
+   5..1     5..6     6..2     6..4     5..3  
+ 0.084072 0.110741 0.013289 0.009608 0.127088 76.166267 0.339841 0.005000 10.464705
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per nucleotide site).
+
+tree length =  0.344798
+
+(1: 0.084072, (2: 0.013289, 4: 0.009608): 0.110741, 3: 0.127088);
+
+(ODH_QFEE01000845.1: 0.084072, (ODH_QFEG01003584.1: 0.013289, ODH_JAHRGV010000067.1: 0.009608): 0.110741, ODH_JAGTXK010000179.1: 0.127088);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) = 76.16627
+
+Parameters in M8 (beta&w>1):
+  p0 =   0.33984  p =   0.00500 q =  10.46470
+ (p1 =   0.66016) w =   1.00000
+
+
+MLEs of dN/dS (w) for site classes (K=5)
+
+p:   0.08496  0.08496  0.08496  0.08496  0.66016
+w:   0.00000  0.00000  0.00000  0.00000  1.00000
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   5..1      0.084   563.6   258.4  0.6602  0.0241  0.0365  13.6   9.4
+   5..6      0.111   563.6   258.4  0.6602  0.0318  0.0481  17.9  12.4
+   6..2      0.013   563.6   258.4  0.6602  0.0038  0.0058   2.1   1.5
+   6..4      0.010   563.6   258.4  0.6602  0.0028  0.0042   1.6   1.1
+   5..3      0.127   563.6   258.4  0.6602  0.0365  0.0552  20.5  14.3
+
+
+Naive Empirical Bayes (NEB) analysis

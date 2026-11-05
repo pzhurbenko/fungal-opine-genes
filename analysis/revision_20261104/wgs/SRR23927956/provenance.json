@@ -1,0 +1,23 @@
+{
+  "run": "SRR23927956",
+  "assembly": "GCA_046056315.1",
+  "strain": "FP133",
+  "reference": "/home/labs/alevy/petrzhu/GMO/data/fungal_genomes/fusarium/fus/ncbi_dataset/data/GCA_046056315.1/GCA_046056315.1_ASM4605631v1_genomic.fna",
+  "reference_sha256": "ad88f62204a35b3355475f717da1986a484bade994451bb7364832f3ee3e3cb3",
+  "metadata": {
+    "run_accession": "SRR23927956",
+    "sample_accession": "SAMN32603196",
+    "secondary_sample_accession": "SRS17104513",
+    "sample_alias": "Fusarium poae Fp133 (DAOMC 252341) DNA",
+    "scientific_name": "Fusarium poae",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "instrument_platform": "OXFORD_NANOPORE",
+    "read_count": "210681",
+    "base_count": "4973776451",
+    "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR239/056/SRR23927956/SRR23927956_1.fastq.gz",
+    "fastq_bytes": "4529176618",
+    "fastq_md5": "b54981422d4f177e6c0f8bfb080178d1"
+  },
+  "mapping_preset": "map-ont"
+}

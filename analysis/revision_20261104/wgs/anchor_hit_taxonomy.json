@@ -1,0 +1,72 @@
+{
+  "Tothia fuscella": {
+    "kingdom": "Fungi",
+    "cls": "Dothideomycetes",
+    "order": "Venturiales",
+    "genus": "Tothia",
+    "level": "exact"
+  },
+  "Hyaloscypha variabilis F": {
+    "kingdom": "Fungi",
+    "cls": "Leotiomycetes",
+    "order": "Helotiales",
+    "genus": "Hyaloscypha",
+    "level": "exact"
+  },
+  "Trichoderma asperelloides": {
+    "kingdom": "Fungi",
+    "cls": "Sordariomycetes",
+    "order": "Hypocreales",
+    "genus": "Trichoderma",
+    "level": "exact"
+  },
+  "Beauveria bassiana": {
+    "kingdom": "Fungi",
+    "cls": "Sordariomycetes",
+    "order": "Hypocreales",
+    "genus": "Beauveria",
+    "level": "exact"
+  },
+  "Trichothecium roseum": {
+    "kingdom": "Fungi",
+    "cls": "Sordariomycetes",
+    "order": "Hypocreales",
+    "genus": "Trichothecium",
+    "level": "exact"
+  },
+  "Emericellopsis atlantica": {
+    "kingdom": "Fungi",
+    "cls": "Sordariomycetes",
+    "order": "Hypocreales",
+    "genus": "Emericellopsis",
+    "level": "exact"
+  },
+  "Ilyonectria destructans": {
+    "kingdom": "Fungi",
+    "cls": "Sordariomycetes",
+    "order": "Hypocreales",
+    "genus": "Ilyonectria",
+    "level": "exact"
+  },
+  "Dactylonectria estremocensis": {
+    "kingdom": "Fungi",
+    "cls": "Sordariomycetes",
+    "order": "Hypocreales",
+    "genus": "Dactylonectria",
+    "level": "exact"
+  },
+  "Thelonectria olida": {
+    "kingdom": "Fungi",
+    "cls": "Sordariomycetes",
+    "order": "Hypocreales",
+    "genus": "Thelonectria",
+    "level": "exact"
+  },
+  "Mariannaea sp. PMI_226": {
+    "kingdom": "Fungi",
+    "cls": "Sordariomycetes",
+    "order": "Hypocreales",
+    "genus": "Mariannaea",
+    "level": "exact"
+  }
+}

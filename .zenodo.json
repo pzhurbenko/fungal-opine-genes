@@ -1,0 +1,13 @@
+{
+  "title": "Code and data for: Horizontal Acquisition and Evolution of Opine Metabolism Genes in Fungal Genomes",
+  "upload_type": "software",
+  "description": "Code, small input datasets and derived tables supporting the article \"Horizontal Acquisition and Evolution of Opine Metabolism Genes in Fungal Genomes\" (Biology, MDPI). The study screened 6,123 fungal proteomes and 2,215 genome assemblies for homologs of T-DNA opine synthesis genes and identified 254 loci assigned to seven lineages related to rhizobial opine metabolism genes. Code is released under the MIT licence; data under CC BY 4.0 (see LICENSE and LICENSE-DATA).",
+  "creators": [
+    {"name": "Zhurbenko, Peter", "orcid": "0000-0002-2102-4568", "affiliation": "Komarov Botanical Institute of the Russian Academy of Sciences; Weizmann Institute of Science"},
+    {"name": "Duskaeva, Adelya", "affiliation": "Pirogov Russian National Research Medical University"},
+    {"name": "Safonova, Elizaveta", "affiliation": "Pirogov Russian National Research Medical University"},
+    {"name": "Matveeva, Tatiana", "affiliation": "Saint Petersburg State University"}
+  ],
+  "license": "MIT",
+  "keywords": ["horizontal gene transfer", "Agrobacterium", "T-DNA", "opines", "Boletaceae", "Fusarium", "fungal genomes"]
+}

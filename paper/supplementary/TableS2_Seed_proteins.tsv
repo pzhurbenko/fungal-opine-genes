@@ -1,5 +1,5 @@
 gene	seed_id	source	seed_group	seed_set	description	length_aa
-cus	Q9FAF7	bacterial		reference seed	Rhizobium rhizogenes (cucumopine synthase)	320
+cus	Q9FAF7	bacterial		reference query	Rhizobium rhizogenes (cucumopine synthase)	320
 cus	MED6115461.1	plant cT-DNA	Cus (cus-like)	curated panel	MED6115461.1 hypothetical protein PIB30 090885 Stylosanthes scabra	317
 cus	KAL3512627.1	plant cT-DNA	Cus (cus-like)	curated panel	KAL3512627.1 hypothetical protein ACH5RR 025344 Cinchona calisaya	319
 cus	WBO26547.1	plant cT-DNA	Cus (cus-like)	curated panel	WBO26547.1 cuslike protein Arachis hypogaea	265
@@ -8,11 +8,11 @@ cus	KAH7432836.1	plant cT-DNA	Cus (cus-like)	curated panel	KAH7432836.1 hypothet
 cus	tra3CaTG-Cus	plant cT-DNA	Cus (cus-like)	curated panel	tra3CaTG-Cus	363
 cus	WP_174037302.1	bacterial	Cus (cus-like)	curated panel	WP 174037302.1 hypothetical protein Agrobacterium tumefaciens	311
 cus	WP_233741845.1	bacterial	Cus (cus-like)	curated panel	WP 233741845.1 MULTISPECIES hypothetical protein Rhizobium Agrobacterium group	344
-mis	BAB16139.1	bacterial		reference seed	Martinezella/Rhizobium rhizogenes pRi1724 (riorf20, full length)	328
+mis	BAB16139.1	bacterial		reference query	Martinezella/Rhizobium rhizogenes pRi1724 (riorf20, full length)	328
 mis	VFQ61161.1	plant cT-DNA	Cus (mis group)	curated panel	VFQ61161.1 unnamed protein product Cuscuta campestris	331
 mis	AIV42059.1	plant cT-DNA	Cus (mis group)	curated panel	AIV42059.1 putative mikimopine synthase partial Nicotiana glauca x Nicotiana langsdorffii	299
 mis	WP_174054202.1	bacterial	Cus (mis group)	curated panel	WP 174054202.1 hypothetical protein Rhizobium rhizogenes	320
-sus	A0A2Z2PFC8	bacterial		reference seed	Agrobacterium tumefaciens/fabrum (sus; = old A5WXT3, deleted/merged)	333
+sus	A0A2Z2PFC8	bacterial		reference query	Agrobacterium tumefaciens/fabrum (sus; = old A5WXT3, deleted/merged)	333
 sus	WP_173994934	bacterial	Sus (sus-like)	curated panel	WP 173994934 1 MULTISPECIES hypothetical protein Rhizobium Agrobacterium group	331
 sus	WP_034521016	bacterial	Sus (sus-like)	curated panel	WP 034521016 1 MULTISPECIES hypothetical protein Rhizobium Agrobacterium group	344
 sus	WP_269710210	bacterial	Sus (sus-like)	curated panel	WP 269710210 1 hypothetical protein Rhizobium rhizogenes	341
@@ -31,7 +31,7 @@ sus	Diospyros_BSEG01000004_21240615	plant cT-DNA	Sus (sus-like)	curated panel	Di
 sus	PON40587	plant cT-DNA	Sus (sus-like)	curated panel	PON40587 1 Parasponia andersonii extra	122
 sus	PON40591	plant cT-DNA	Sus (sus-like)	curated panel	PON40591 1 Parasponia andersonii extra	191
 sus	PON40593	plant cT-DNA	Sus (sus-like)	curated panel	PON40593 1 Parasponia andersonii extra	176
-acs	AAK90959.2	bacterial		reference seed	Agrobacterium tumefaciens C58 pTiC58 (agrocinopine synthase)	371
+acs	AAK90959.2	bacterial		reference query	Agrobacterium tumefaciens C58 pTiC58 (agrocinopine synthase)	371
 acs	che1CaTE-Acs	plant cT-DNA	GDPD (T-DNA-type acs)	curated panel	che1CaTE-Acs	443
 acs	PON40589	plant cT-DNA	GDPD (T-DNA-type acs)	curated panel	PON40589 1 hypothetical protein PanWU01x14 296110 Parasponia andersonii	159
 acs	WP_192068445	bacterial	GDPD (T-DNA-type acs)	curated panel	WP 192068445 1 MULTISPECIES glycerophosphodiester phosphodiesterase family protein unclassified Rhizobium	456
@@ -41,17 +41,17 @@ acs	WP_209160150	bacterial	GDPD (T-DNA-type acs)	curated panel	WP 209160150 1 MU
 acs	GMD67474	plant cT-DNA	GDPD (T-DNA-type acs)	curated panel	GMD67474 1 agrocinopine synthase Ipomoea batatas	424
 acs	WML69206	plant cT-DNA	GDPD (T-DNA-type acs)	curated panel	WML69206 1 agrocinopine synthase Agrobacterium sp Nicotiana noctiflora	341
 acs_pKerr14a	WP_280174108	bacterial	GDPD (pKerr14a-type acs-like)	curated panel	WP 280174108 1 glycerophosphodiester phosphodiesterase family protein Agrobacterium tumefaciens	370
-mas1	P50201	bacterial		reference seed	Rhizobium rhizogenes (agropine synthesis reductase)	430
+mas1	P50201	bacterial		reference query	Rhizobium rhizogenes (agropine synthesis reductase)	430
 mas1	AAF77131.1	bacterial		T-DNA cluster member	AAF77131.1|AF242881.1|Agrobacterium_tumefaciens|mas1'|mas1'|430	430
 mas1	AAZ50421.1	bacterial		T-DNA cluster member	AAZ50421.1|DQ058764.1|Agrobacterium_tumefaciens|mas1|Mas1|430	430
-mas2	Q9KI41	bacterial		reference seed	Agrobacterium tumefaciens (Mas2')	360
+mas2	Q9KI41	bacterial		reference query	Agrobacterium tumefaciens (Mas2')	360
 mas2	AAZ50420.1	bacterial		T-DNA cluster member	AAZ50420.1|DQ058764.1|Agrobacterium_tumefaciens|mas2|Mas2|360	360
 mas2	WP_262512305.1	bacterial		T-DNA cluster member	WP_262512305.1|NZ_CP048572.1|Agrobacterium_tumefaciens|-|SIS_domain-containing_protein|397	397
-ags	P27875	bacterial		reference seed	Rhizobium rhizogenes (agropine synthesis cyclase)	396
+ags	P27875	bacterial		reference query	Rhizobium rhizogenes (agropine synthesis cyclase)	396
 ags	AAF77132.1	bacterial		T-DNA cluster member	AAF77132.1|AF242881.1|Agrobacterium_tumefaciens|ags|ags|395	395
 ags	AAZ50422.1	bacterial		T-DNA cluster member	AAZ50422.1|DQ058764.1|Agrobacterium_tumefaciens|ags|Ags|395	395
-nos	P00386	bacterial		reference seed	Agrobacterium tumefaciens T37 (D-nopaline dehydrogenase)	413
+nos	P00386	bacterial		reference query	Agrobacterium tumefaciens T37 (D-nopaline dehydrogenase)	413
 nos	WP_070167540.1	bacterial		T-DNA cluster member	WP_070167540.1|NZ_CP118263.1|Gillisella_vitis|nos|D-nopaline_dehydrogenase|412	412
-ocs	P0A395	bacterial		reference seed	Agrobacterium tumefaciens 15955 (pTi, ocs)	358
-vis	A0A1S7UAT7	bacterial		reference seed	Agrobacterium deltaense NCPPB 1641 (vitopine synthase)	360
-chs	A0A2Z2PGA9	bacterial		reference seed	Agrobacterium tumefaciens/fabrum (chs; = old A0A2P0QJL8, deleted/merged)	407
+ocs	P0A395	bacterial		reference query	Agrobacterium tumefaciens 15955 (pTi, ocs)	358
+vis	A0A1S7UAT7	bacterial		reference query	Agrobacterium deltaense NCPPB 1641 (vitopine synthase)	360
+chs	A0A2Z2PGA9	bacterial		reference query	Agrobacterium tumefaciens/fabrum (chs; = old A0A2P0QJL8, deleted/merged)	407

@@ -1,0 +1,15 @@
+{
+  "queries": 4,
+  "reported_targets_per_query": 200,
+  "diamond_version": "2.2.6",
+  "algorithm": "ctg",
+  "sensitivity": "default (fast)",
+  "evalue": 1e-05,
+  "command": "diamond blastp -q anchors.faa -d nr_10_2025.dmnd -o anchors_vs_nr.tsv --algo ctg --threads 16 -b 2 -c 1 --max-target-seqs 200 --evalue 1e-5 --outfmt 6 qseqid sseqid pident length qlen slen evalue bitscore stitle",
+  "database_name": "nr_10_2025.dmnd",
+  "database_bytes": 371476293189,
+  "query_sha256": "ca56f61a328de566b75048ab849e4321d23fb3dd38a68e07dc8291b33c1e6129",
+  "taxonomy_source": "Original reverse-search taxonomy cache, NCBI taxdump 2026-10-06; exact-name entries retained for the representative matches",
+  "taxonomy_cache_sha256": "63de1072c5bc1b36ee01c3d1d2f07e54b4e09e923080d3963ed2bb883df1aa48",
+  "purpose": "Verify positive fungal homology of annotated multi-exonic anchors; no absence inference from this fast search"
+}

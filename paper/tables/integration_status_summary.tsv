@@ -1,11 +1,11 @@
 lineage	n_loci	confirmed	supported	uncertain	intact_loci	intact_confirmed	intact_supported	intact_uncertain
 acc-type GDPD	60	24	14	22	3	1	0	2
 chs-like	33	4	29	0	6	1	5	0
-cus-like	50	30	10	10	34	20	6	8
+cus-like	50	31	9	10	34	21	5	8
 nos-subfamily opine dehydrogenase (Boletales)	6	2	3	1	4	2	1	1
 odh island: odh	8	3	3	2	7	3	2	2
 odh island: orf3	12	4	5	3	4	1	2	1
 odh island: pepP	8	3	3	2	5	2	3	0
 pKerr14a-type acs-like	19	6	2	11	6	2	2	2
 sus-like	58	18	19	21	36	9	10	17
-TOTAL	254	94	88	72	105	41	31	33
+TOTAL	254	95	87	72	105	42	30	33

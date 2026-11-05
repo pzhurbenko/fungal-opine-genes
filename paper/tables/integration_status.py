@@ -33,7 +33,7 @@ Rules (a locus gets the first matching class). 2026-10-13ak, review v14 point 1:
 """
 import sys as _sys, os as _os; _sys.path.insert(0, _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..', '..')))
 from gmo_paths import GMO_ROOT  # noqa: E402
-import csv, os, re, glob
+import csv, os, re, glob, gzip
 from collections import Counter, defaultdict
 P = os.path.dirname(os.path.abspath(__file__)); S = P + '/../supplementary/'
 rd = lambda f: list(csv.DictReader(open(S + f), delimiter='\t'))
@@ -48,6 +48,16 @@ asm_by = defaultdict(set)   # (gene key, species) -> assemblies
 gk = lambda lid, g: 'chs' if g == 'chs' else g.split()[0].replace('orf3', 'g3')
 for lid, (al, sp, asm, g) in lvl.items(): asm_by[(gk(lid, g), sp)].add(asm)
 fl = lambda x: float(x) if x not in ('', 'nan', 'NA', None) else None
+
+# Additional matched-strain genomic reads (revision, 4 November 2026).
+# Apply the existing D2 rule to primary MAPQ >=20 Illumina alignments.
+# The two gene-edge windows each require 40 aligned bases on either side.
+revision_reads = {}
+for fn in glob.glob(P + '/../../analysis/revision_20261104/wgs/*/locus_read_support.tsv'):
+    for r in csv.DictReader(open(fn), delimiter='\t'):
+        if r['min_MAPQ'] == '20' and r['platform'] == 'ILLUMINA' and r['region_kind'] == 'gene':
+            assert r['region_id'] not in revision_reads, r['region_id']
+            revision_reads[r['region_id']] = r
 
 repro = set()
 for r in s9:
@@ -65,7 +75,9 @@ for r in s12:
 genes = defaultdict(dict)                      # normalised contig -> {(start, end): set of classes 'F'/'N'/'B'}
 def addg(contig, s, e, cls): genes[nrm(contig)].setdefault((s, e), set()).add(cls)
 carrier = {nrm(o['contig']): re.sub(r' \(cluster [^)]*\)', '', o['species']).split()[0].lower() for o in s1a if o['species'].split()}
-for r in csv.DictReader(open(G + 'loci_pipeline/round2/neighbors_class.tsv'), delimiter='\t'):
+neighbor_file = G + 'loci_pipeline/round2/neighbors_class.tsv'
+neighbor_handle = open(neighbor_file) if os.path.exists(neighbor_file) else gzip.open(neighbor_file + '.gz', 'rt')
+for r in csv.DictReader(neighbor_handle, delimiter='\t'):
     if r['kind'] != 'neighbor': continue
     q = r['query'].split('|'); m = re.match(r'^(\d+)-(\d+)[+-]$', q[2]) if len(q) > 2 else None
     if not m: continue
@@ -110,6 +122,10 @@ for o in s1a:
     if d:
         jl = d['reads_spanning_left_flank']; jr = d['reads_spanning_right_flank']
         jl = None if jl == 'edge' else fl(jl); jr = None if jr == 'edge' else fl(jr)
+    if lid in revision_reads:
+        r = revision_reads[lid]
+        ratio = float(r['depth_ratio'])
+        jl, jr = int(r['left_edge_spanning_reads']), int(r['right_edge_spanning_reads'])
     ctx = o['genomic_context']
     sd = sides(o)
     if sd is not None: left, right = sd

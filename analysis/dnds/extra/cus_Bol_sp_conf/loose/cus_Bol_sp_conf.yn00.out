@@ -1,0 +1,182 @@
+YN00 cus_Bol_sp_conf.codon.phy
+
+ns =   4	ls = 269
+
+Codon position x base (3x4) table for each sequence.
+
+CUS_JAGTXK010000090_L1
+position  1:    T:0.18959    C:0.21561    A:0.28253    G:0.31227
+position  2:    T:0.30855    C:0.25279    A:0.29740    G:0.14126
+position  3:    T:0.26766    C:0.43494    A:0.09665    G:0.20074
+
+CUS_JBBPJK010006192_L1
+position  1:    T:0.17100    C:0.20446    A:0.28625    G:0.33829
+position  2:    T:0.30112    C:0.23792    A:0.29740    G:0.16357
+position  3:    T:0.18959    C:0.50558    A:0.08550    G:0.21933
+
+CUS_JBBPKL010012429_L1
+position  1:    T:0.18216    C:0.19331    A:0.31599    G:0.30855
+position  2:    T:0.30855    C:0.23048    A:0.29740    G:0.16357
+position  3:    T:0.23420    C:0.46097    A:0.09665    G:0.20818
+
+CUS_JBBPKX010002099_L1
+position  1:    T:0.17844    C:0.24535    A:0.26022    G:0.31599
+position  2:    T:0.30483    C:0.22305    A:0.28625    G:0.18587
+position  3:    T:0.20446    C:0.43494    A:0.13011    G:0.23048
+
+Average
+position  1:    T:0.18030    C:0.21468    A:0.28625    G:0.31877
+position  2:    T:0.30576    C:0.23606    A:0.29461    G:0.16357
+position  3:    T:0.22398    C:0.45911    A:0.10223    G:0.21468
+
+Codon usage for each species
+------------------------------------------------------------------------------------------------------
+Phe TTT   4   1   3   5 | Ser TCT   5   1   1   4 | Tyr TAT   4   2   1   4 | Cys TGT   1   1   1   2
+    TTC   8  11   9   9 |     TCC   6   6   7   2 |     TAC   7   9   9   7 |     TGC   5   6   9   2
+Leu TTA   0   0   0   0 |     TCA   0   0   0   3 | *** TAA   0   0   0   0 | *** TGA   0   0   0   0
+    TTG   3   2   2   2 |     TCG   2   1   1   2 |     TAG   0   0   0   0 | Trp TGG   6   6   6   6
+------------------------------------------------------------------------------------------------------
+Leu CTT   8   4   3   2 | Pro CCT   5   3   5   4 | His CAT   3   2   4   3 | Arg CGT   3   3   3   4
+    CTC  12  16  17  13 |     CCC   7   6   3   4 |     CAC   5   4   1   4 |     CGC   4   3   2   9
+    CTA   0   0   0   1 |     CCA   1   1   2   5 | Gln CAA   6   5   5   1 |     CGA   0   0   0   0
+    CTG   0   0   1   5 |     CCG   0   2   0   3 |     CAG   4   5   6   7 |     CGG   0   1   0   1
+------------------------------------------------------------------------------------------------------
+Ile ATT   4   3   9   7 | Thr ACT  10   7   6   6 | Asn AAT   4   3   3   2 | Ser AGT   1   2   3   1
+    ATC   7  11   8  12 |     ACC  10  10  11   7 |     AAC   7   8   9   7 |     AGC   2   4   4   7
+    ATA   1   0   0   2 |     ACA   3   3   3   0 | Lys AAA   7   1   1   2 | Arg AGA   0   0   0   3
+Met ATG  11   9   9   4 |     ACG   2   4   3   1 |     AAG   6  11  15   8 |     AGG   1   1   1   1
+------------------------------------------------------------------------------------------------------
+Val GTT  10   5   3   4 | Ala GCT   7   6   7   3 | Asp GAT   0   5   7   2 | Gly GGT   3   3   4   2
+    GTC  11  13  12   9 |     GCC   6   7   6  10 |     GAC  12   9   7  10 |     GGC   8  13  10   5
+    GTA   0   4   4   3 |     GCA   1   2   4   4 | Glu GAA   5   6   6   8 |     GGA   2   1   1   3
+    GTG   4   2   3   4 |     GCG   3   5   3   2 |     GAG  10  10   6  12 |     GGG   2   0   0   4
+------------------------------------------------------------------------------------------------------
+
+
+Sums
+------------------------------------------------------
+Phe TTT  13 | Ser TCT  11 | Tyr TAT  11 | Cys TGT   5
+    TTC  37 |     TCC  21 |     TAC  32 |     TGC  22
+Leu TTA   0 |     TCA   3 | *** TAA   0 | *** TGA   0
+    TTG   9 |     TCG   6 |     TAG   0 | Trp TGG  24
+------------------------------------------------------
+Leu CTT  17 | Pro CCT  17 | His CAT  12 | Arg CGT  13
+    CTC  58 |     CCC  20 |     CAC  14 |     CGC  18
+    CTA   1 |     CCA   9 | Gln CAA  17 |     CGA   0
+    CTG   6 |     CCG   5 |     CAG  22 |     CGG   2
+------------------------------------------------------
+Ile ATT  23 | Thr ACT  29 | Asn AAT  12 | Ser AGT   7
+    ATC  38 |     ACC  38 |     AAC  31 |     AGC  17
+    ATA   3 |     ACA   9 | Lys AAA  11 | Arg AGA   3
+Met ATG  33 |     ACG  10 |     AAG  40 |     AGG   4
+------------------------------------------------------
+Val GTT  22 | Ala GCT  23 | Asp GAT  14 | Gly GGT  12
+    GTC  45 |     GCC  29 |     GAC  38 |     GGC  36
+    GTA  11 |     GCA  11 | Glu GAA  25 |     GGA   7
+    GTG  13 |     GCG  13 |     GAG  38 |     GGG   6
+------------------------------------------------------
+
+
+
+(A) Nei-Gojobori (1986) method
+
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+CUS_JAGTXK010000090_L1
+CUS_JBBPJK010006192_L1 0.0945 (0.1151 1.2181)
+CUS_JBBPKL010012429_L1 0.1251 (0.1505 1.2025) 0.4671 (0.0627 0.1341)
+CUS_JBBPKX010002099_L1 0.1993 (0.4110 2.0619) 0.1991 (0.4019 2.0187) 0.2003 (0.4158 2.0756)
+
+(B) Yang & Nielsen (2000) method
+
+Yang Z, Nielsen R (2000) Estimating synonymous and nonsynonymous substitution rates under realistic evolutionary models. Mol. Biol. Evol. 17:32-43
+
+(equal weighting of pathways)
+
+seq. seq.     S       N        t   kappa   omega     dN +- SE    dS +- SE
+
+   2    1   181.7   625.3   1.1360  3.1479  0.0900 0.1156 +- 0.0147  1.2844 +- 0.2001
+   3    1   189.6   617.4   3.1414  3.1479  0.0393 0.1552 +- 0.0178  3.9517 +- 74.1465
+   3    2   175.1   631.9   0.2370  3.1479  0.4386 0.0618 +- 0.0102  0.1409 +- 0.0305
+   4    1   193.3   613.7   2.2599  3.1479  0.2276 0.4155 +- 0.0328  1.8258 +- 0.3815
+   4    2   177.6   629.4   3.0603  3.1479  0.1214 0.3935 +- 0.0311  3.2410 +- 2.4781
+   4    3   186.9   620.1   2.3720  3.1479  0.2055 0.4172 +- 0.0328  2.0296 +- 0.5019
+
+
+(C) LWL85, LPB93 & LWLm methods
+
+Li W.-H., C.-I. Wu, Luo (1985) A new method for estimating synonymous and nonsynonymous rates of nucleotide substitutions considering the relative likelihood of nucleotide and codon changes. Mol. Biol. Evol. 2: 150-174.
+Li W-H (1993) Unbiased estimation of the rates of synonymous and nonsynonymous substitution. J. Mol. Evol. 36:96-99
+Pamilo P, Bianchi NO (1993) Evolution of the Zfx and Zfy genes - rates and interdependence between the genes. Mol. Biol. Evol. 10:271-281
+Yang Z (2006) Computational Molecular Evolution. Oxford University Press, Oxford. Eqs. 2.12 & 2.13
+
+2 (CUS_JBBPJK010006192_L1) vs. 1 (CUS_JAGTXK010000090_L1)
+
+L(i):      550.0     123.5     133.5  sum=    807.0
+Ns(i):   43.5000   39.5000   41.0000  sum= 124.0000
+Nv(i):   21.0000    2.5000   30.5000  sum=  54.0000
+A(i):     0.0894    0.5290    0.7722
+B(i):     0.0397    0.0207    0.3053
+LWL85:  dS =  1.1975 dN =  0.1164 w = 0.0972 S =  174.7 N =  632.3
+LWL85m: dS =  0.9421 dN =  0.1258 w = 0.1335 S =  222.0 N =  585.0 (rho = 0.717)
+LPB93:  dS =  0.9605 dN =  0.1257 w = 0.1308
+
+3 (CUS_JBBPKL010012429_L1) vs. 1 (CUS_JAGTXK010000090_L1)
+
+L(i):      550.0     127.0     130.0  sum=    807.0
+Ns(i):   61.5000   43.5000   36.0000  sum= 141.0000
+Nv(i):   21.5000    3.0000   29.5000  sum=  54.0000
+A(i):     0.1320    0.6045    0.6076
+B(i):     0.0407    0.0242    0.3024
+LWL85:  dS =  1.1320 dN =  0.1545 w = 0.1365 S =  172.3 N =  634.7
+LWL85m: dS =  0.9082 dN =  0.1656 w = 0.1824 S =  214.8 N =  592.2 (rho = 0.668)
+LPB93:  dS =  0.9085 dN =  0.1697 w = 0.1867
+
+3 (CUS_JBBPKL010012429_L1) vs. 2 (CUS_JBBPJK010006192_L1)
+
+L(i):      549.0     129.5     128.5  sum=    807.0
+Ns(i):   37.5000   11.5000   11.0000  sum=  60.0000
+Nv(i):    0.0000    0.0000    0.0000  sum=   0.0000
+A(i):     0.0734    0.0978    0.0939
+B(i):    -0.0000   -0.0000   -0.0000
+LWL85:  dS =  0.1440 dN =  0.0635 w = 0.4406 S =  171.7 N =  635.3
+LWL85m: dS =  0.0958 dN =  0.0734 w = 0.7664 S =  258.0 N =  549.0 (rho = 1.000)
+LPB93:  dS =  0.0958 dN =  0.0734 w = 0.7664
+
+4 (CUS_JBBPKX010002099_L1) vs. 1 (CUS_JAGTXK010000090_L1)
+
+L(i):      543.0     132.0     132.0  sum=    807.0
+Ns(i):   66.0000   41.5000   33.5000  sum= 141.0000
+Nv(i):  107.5000   24.5000   55.0000  sum= 187.0000
+A(i):     0.1648    0.7261    0.8422
+B(i):     0.2520    0.2320    0.8959
+LWL85:  dS =  1.8481 dN =  0.4073 w = 0.2204 S =  176.0 N =  631.0
+LWL85m: dS =  1.6598 dN =  0.4206 w = 0.2534 S =  196.0 N =  611.0 (rho = 0.485)
+LPB93:  dS =  1.6800 dN =  0.4130 w = 0.2458
+
+4 (CUS_JBBPKX010002099_L1) vs. 2 (CUS_JBBPJK010006192_L1)
+
+L(i):      542.0     134.5     130.5  sum=    807.0
+Ns(i):   69.0000   48.5000   33.5000  sum= 151.0000
+Nv(i):   98.0000   27.0000   48.0000  sum= 173.0000
+A(i):     0.1736    1.1468    0.7327
+B(i):     0.2244    0.2567    0.6652
+LWL85:  dS =  1.9201 dN =  0.3962 w = 0.2063 S =  175.3 N =  631.7
+LWL85m: dS =  1.6750 dN =  0.4130 w = 0.2466 S =  201.0 N =  606.0 (rho = 0.524)
+LPB93:  dS =  1.6080 dN =  0.4045 w = 0.2515
+
+4 (CUS_JBBPKX010002099_L1) vs. 3 (CUS_JBBPKL010012429_L1)
+
+L(i):      542.0     138.0     127.0  sum=    807.0
+Ns(i):   74.0000   51.5000   30.5000  sum= 156.0000
+Nv(i):   98.5000   28.0000   46.5000  sum= 173.0000
+A(i):     0.1904    1.3605    0.6074
+B(i):     0.2259    0.2603    0.6589
+LWL85:  dS =  2.0149 dN =  0.4125 w = 0.2047 S =  173.0 N =  634.0
+LWL85m: dS =  1.8043 dN =  0.4261 w = 0.2361 S =  193.2 N =  613.8 (rho = 0.480)
+LPB93:  dS =  1.6585 dN =  0.4232 w = 0.2552
+

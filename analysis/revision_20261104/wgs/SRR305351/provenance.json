@@ -1,0 +1,21 @@
+{
+  "run": "SRR305351",
+  "assembly": "GCA_000149955.2",
+  "strain": "Fol4287",
+  "reference": "/home/labs/alevy/petrzhu/GMO/data/fungal_genomes/fusarium/fus/ncbi_dataset/data/GCA_000149955.2/GCA_000149955.2_ASM14995v2_genomic.fna",
+  "reference_sha256": "05bd6604148062eed6148b38bc8cdc363306b49d1317dd80f3debfb83fd64943",
+  "metadata": {
+    "run_accession": "SRR305351",
+    "sample_accession": "SAMN00631858",
+    "sample_alias": "PRJNA38293.34936",
+    "sample_title": "Generic sample from Fusarium oxysporum FOL 4287",
+    "study_accession": "PRJNA38293",
+    "library_strategy": "WGS",
+    "instrument_platform": "ILLUMINA",
+    "base_count": "1042264046",
+    "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR305/SRR305351/SRR305351_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR305/SRR305351/SRR305351_2.fastq.gz",
+    "fastq_bytes": "453767785;449372328",
+    "fastq_md5": "1ecb2033fb0586ec460ebdab100721d8;6c96f8e3ea382fda88cbd2d2ad339695"
+  },
+  "mapping_preset": "sr"
+}

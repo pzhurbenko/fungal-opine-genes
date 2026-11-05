@@ -1,10 +1,10 @@
-# Opine metabolism genes horizontally transferred into fungal genomes
+# Horizontal Acquisition and Evolution of Opine Metabolism Genes in Fungal Genomes
 
-Code, small input data and derived tables behind the article "Opine metabolism genes horizontally transferred into fungal genomes" (fungal genomes screened for T-DNA and other rhizobial opine metabolism genes) (Biology, MDPI, submitted 2026).
-This repository holds the code, small input data and derived tables behind a screen of 6,123 fungal proteomes and 2,215 fungal assemblies, which yielded
-candidate loci that fall into seven independent lineages of bacterial origin (gene families named ACS, CUS and SUS after the
-T-DNA opine synthase genes they resemble, plus the chs-like and odh-like loci of Fusarium and relatives). The pipeline builds gene models on the real contigs, classifies the genomic context, and the paper scripts rebuild
-all figures, tables and supplementary files.
+Code, small input datasets and derived tables supporting the article "Horizontal Acquisition and Evolution of Opine Metabolism Genes in Fungal Genomes" (Biology, MDPI, submitted 2026).
+
+The study screened 6,123 fungal proteomes and 2,215 genome assemblies and identified 254 loci assigned to seven lineages related to rhizobial opine metabolism genes. These lineages are phylogenetic groupings and may encompass different acquisition histories. The analyses examine genomic integration, phylogenetic affinities, genomic organisation and the subsequent preservation or decay of the genes. The cus-like phylogeny is consistent with multiple acquisitions.
+
+The pipeline builds gene models on assembly contigs and evaluates genomic context; the paper scripts generate the figures, tables and supplementary files.
 
 **Citation:** to be added on publication.
 
@@ -16,7 +16,7 @@ all figures, tables and supplementary files.
 | `analysis/` | One folder per analysis step used in the paper (same relative structure as in the working project): `refset/` (seeds, plasmid catalogue, protein screen, step 2/3 screens of other orders), `funnel/`, `loci_pipeline/` (registry, guides, round-2 table, `checks/` = miniprot re-derivation `split.gff` and NCBI assembly reports used by the integration-status rules), `trees_final/` (alignments, ML trees, AU tests), `chs_fusarium/`, `fusarium_odh_island/`, `pleurotus_gdpd/`, `fold/` (ColabFold, FoldMason), `dnds/`, `composition/`, `islands/`, `island_order/`, `indep_assemblies/`, `read_coverage/`, `expression/`, `boletales_mash_517/`, `thresholds/`, `ctdna_plants_identity/`, `susD_screen/` (susD/susL check), `au_mapping/`, `pkerr14a_borders/`, `ensifer_sus_check/`, `curated/` (curated query sets and `quarantine.tsv`) |
 | `paper/figures/` | Figure scripts (`make_fig*.py`, `make_figS*.py`, `common.py`), `export_tiff.py`, small plot inputs; `make_graphical_abstract_v2.py` (graphical abstract; uses the Nimbus Sans fonts of `/usr/share/fonts/urw-base35` if present, otherwise DejaVu Sans) |
 | `paper/tables/` | `build_table1.py`, `build_catalog.py`, `check_order.py` and the main tables / catalogue inputs |
-| `paper/supplementary/` | `build_supplementary.py`, supplementary tables S1-S17, Data S1 (proteins of the loci), Data S2b (AU constraints, tar.gz), Data S3 (screened assemblies), tree files |
+| `paper/supplementary/` | `build_supplementary.py`, supplementary tables S1-S20, Data S1 (proteins of the loci), Data S2b (AU constraints, tar.gz), Data S3 (screened assemblies), tree files |
 | `paper/rebuild_all.sh` | Rebuilds figures (300 dpi PNG and 600 dpi TIFF) and the supplementary tables |
 | `docs/methods_extended.md` | Extended Methods: full, parameter-level description of the methods (section numbers follow Section 2 of the article) |
 | `docs/thresholds.md` | Table of every numerical threshold of the classification, with the range over which the result is unchanged (copy of Table S4) |
@@ -25,6 +25,10 @@ all figures, tables and supplementary files.
 | `env/` | Conda environments: `<env>.yml` (`--from-history`) and `<env>.pinned.yml` (full versions, no builds) |
 | `gmo_paths.py` | Defines `GMO_ROOT` |
 | `BUILD_NOTES.md` | How this repository was assembled, path replacements, open points |
+
+## Revision of 4 November 2026
+
+`analysis/revision_20261104/` contains two additional integration-filtered M0 analyses, four matched-strain WGS analyses, the Fp133 anchor checks and the reference-plasmid provenance audit. Tables S19–S20 document the new evidence; Data S4 includes the new M0 outputs and Data S5 contains the compact WGS/provenance evidence. See that directory's README for rerunning the analyses and verifying the results. The integration totals are 95 confirmed, 87 supported and 72 unassessable loci (254 total).
 
 ## Project root (`GMO_ROOT`)
 
@@ -83,7 +87,7 @@ from the paths given at the top of its scripts.
 conda activate paper_build
 bash $GMO_ROOT/paper/rebuild_all.sh
 ```
-This runs the figure scripts (Figures 1-5, 600 dpi TIFF export) and `paper/supplementary/build_supplementary.py` (Tables S1-S18,
+This runs the figure scripts (Figures 1-5, 600 dpi TIFF export) and `paper/supplementary/build_supplementary.py` (Tables S1-S20,
 Supplementary Materials). Table 1 and the loci catalogue
 are produced by `paper/tables/build_table1.py` and `build_catalog.py`; the funnel (Table 1 numbers) by `analysis/funnel/build_funnel.py`.
 

@@ -1,0 +1,23 @@
+{
+  "run": "ERR12742700",
+  "assembly": "GCA_964275055.1",
+  "strain": "CLIB189",
+  "reference": "/home/labs/alevy/petrzhu/GMO/data/fungal_genomes/extra2/x/ncbi_dataset/data/GCA_964275055.1/GCA_964275055.1_MOSE0_genomic.fna",
+  "reference_sha256": "dfaa521577e107daf6756b2dbdc3edef5dc0329ae4f331f5a3db4fb76b67ad08",
+  "metadata": {
+    "run_accession": "ERR12742700",
+    "sample_accession": "SAMEA115405858",
+    "secondary_sample_accession": "ERS18426439",
+    "sample_alias": "sample_CWW_27293_CLIB189",
+    "scientific_name": "Monosporozyma servazzii",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "instrument_platform": "ILLUMINA",
+    "read_count": "11935050",
+    "base_count": "1799653604",
+    "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/ERR127/000/ERR12742700/ERR12742700_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR127/000/ERR12742700/ERR12742700_2.fastq.gz",
+    "fastq_bytes": "452144739;439292026",
+    "fastq_md5": "929c0c4f5244161daeeee8f66c3df3ee;35b6c5ed8a95d6ee3253178bbf37812c"
+  },
+  "mapping_preset": "sr"
+}

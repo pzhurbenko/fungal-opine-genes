@@ -1,0 +1,10 @@
+{
+  "records": 42,
+  "all_cds": 7105,
+  "records_with_intervals": 23,
+  "records_contributing_proteins": 22,
+  "selected_proteins": 302,
+  "legacy_distinct_accessions": 15,
+  "mislabelled_headers": 170,
+  "all_amino_acid_sequences_verified": true
+}

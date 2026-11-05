@@ -95,7 +95,7 @@ CUS_JAKOOT010000021_L1	cus-like	Monosporozyma servazzii	GCA_028408395.1	confirme
 CUS_JAKTTD010000547_L1	cus-like	Monosporozyma servazzii	GCA_030580535.1	confirmed	F2
 CUS_JAXQHM010000038_L1	cus-like	Monosporozyma servazzii	GCA_037040905.1	confirmed	F2
 CUS_NJIJ01000084_L1	cus-like	Monosporozyma servazzii	GCA_002214935.1	confirmed	F2
-CUS_OZ188520_A1	cus-like	Monosporozyma servazzii	GCA_964275055.1	supported	LONG
+CUS_OZ188520_A1	cus-like	Monosporozyma servazzii	GCA_964275055.1	confirmed	D2
 CUS_PTQT01000015_L1	cus-like	Monosporozyma servazzii	GCA_003243735.1	confirmed	F2
 CUS_VWSB01000009_L1	cus-like	Monosporozyma servazzii	GCA_008802755.1	confirmed	F2
 CUS_VWSC01000016_L1	cus-like	Monosporozyma servazzii	GCA_008802765.1	confirmed	F2
@@ -112,7 +112,7 @@ GCA_020744425.1_L1	chs-like	Dactylonectria macrodidyma	GCA_020744425.1	supported
 GCA_027945495.1_L1	chs-like	Fusarium falciforme	GCA_027945495.1	supported	LONG
 GCA_054098485.1_L1	chs-like	Fusarium nematophilum	GCA_054098485.1	supported	R2;LONG
 GCA_054098565.1_L1	chs-like	Fusarium nematophilum	GCA_054098565.1	supported	R2;LONG
-GCA_000149955.2_L1	chs-like	Fusarium oxysporum	GCA_000149955.2	confirmed	CHR
+GCA_000149955.2_L1	chs-like	Fusarium oxysporum	GCA_000149955.2	confirmed	D2;CHR
 GCA_001702695.2_L1	chs-like	Fusarium oxysporum	GCA_001702695.2	confirmed	CHR
 GCA_032206225.1_L1	chs-like	Fusarium oxysporum	GCA_032206225.1	confirmed	CHR
 GCA_013085055.1_L1	chs-like	Fusarium oxysporum	GCA_013085055.1	supported	R2;LONG
@@ -229,16 +229,16 @@ GCA_022180325.1_odh1	odh island: odh	Fusarium langsethiae	GCA_022180325.1	uncert
 GCA_022180345.1_odh1	odh island: odh	Fusarium langsethiae	GCA_022180345.1	uncertain	SHORT;EDGE;NONB
 GCA_001292635.1_odh1	odh island: odh	Fusarium langsethiae	GCA_001292635.1	supported	R2
 GCA_019609905.1_odh1	odh island: odh	Fusarium poae	GCA_019609905.1	confirmed	CHR
-GCA_046056315.1_odh1	odh island: odh	Fusarium poae	GCA_046056315.1	confirmed	CHR
-GCA_046056315.1_odh2	odh island: odh	Fusarium poae	GCA_046056315.1	confirmed	F2;CHR
+GCA_046056315.1_odh1	odh island: odh	Fusarium poae	GCA_046056315.1	confirmed	D2;CHR
+GCA_046056315.1_odh2	odh island: odh	Fusarium poae	GCA_046056315.1	confirmed	F2;D2;CHR
 GCA_019609905.1_odh2	odh island: odh	Fusarium poae	GCA_019609905.1	supported	R2;LONG
 GCA_019609905.1_odh3	odh island: odh	Fusarium poae	GCA_019609905.1	supported	R2;LONG
 GCA_022180325.1_pepP1	odh island: pepP	Fusarium langsethiae	GCA_022180325.1	uncertain	SHORT;NONB
 GCA_022180345.1_pepP1	odh island: pepP	Fusarium langsethiae	GCA_022180345.1	uncertain	SHORT;NONB
 GCA_001292635.1_pepP1	odh island: pepP	Fusarium langsethiae	GCA_001292635.1	supported	R2
 GCA_019609905.1_pepP1	odh island: pepP	Fusarium poae	GCA_019609905.1	confirmed	CHR
-GCA_046056315.1_pepP1	odh island: pepP	Fusarium poae	GCA_046056315.1	confirmed	CHR
-GCA_046056315.1_pepP2	odh island: pepP	Fusarium poae	GCA_046056315.1	confirmed	F2;CHR
+GCA_046056315.1_pepP1	odh island: pepP	Fusarium poae	GCA_046056315.1	confirmed	D2;CHR
+GCA_046056315.1_pepP2	odh island: pepP	Fusarium poae	GCA_046056315.1	confirmed	F2;D2;CHR
 GCA_019609905.1_pepP2	odh island: pepP	Fusarium poae	GCA_019609905.1	supported	R2;LONG
 GCA_019609905.1_pepP3	odh island: pepP	Fusarium poae	GCA_019609905.1	supported	R2;LONG
 GCA_022180325.1_g31	odh island: orf3	Fusarium langsethiae	GCA_022180325.1	supported	R2
@@ -248,8 +248,8 @@ GCA_022180345.1_g32	odh island: orf3	Fusarium langsethiae	GCA_022180345.1	uncert
 GCA_001292635.1_g31	odh island: orf3	Fusarium langsethiae	GCA_001292635.1	supported	R2
 GCA_001292635.1_g32	odh island: orf3	Fusarium langsethiae	GCA_001292635.1	supported	R2
 GCA_019609905.1_g31	odh island: orf3	Fusarium poae	GCA_019609905.1	confirmed	CHR
-GCA_046056315.1_g31	odh island: orf3	Fusarium poae	GCA_046056315.1	confirmed	CHR
-GCA_046056315.1_g32	odh island: orf3	Fusarium poae	GCA_046056315.1	confirmed	F2;CHR
-GCA_046056315.1_g33	odh island: orf3	Fusarium poae	GCA_046056315.1	confirmed	CHR
+GCA_046056315.1_g31	odh island: orf3	Fusarium poae	GCA_046056315.1	confirmed	D2;CHR
+GCA_046056315.1_g32	odh island: orf3	Fusarium poae	GCA_046056315.1	confirmed	F2;D2;CHR
+GCA_046056315.1_g33	odh island: orf3	Fusarium poae	GCA_046056315.1	confirmed	D2;CHR
 GCA_019609905.1_g32	odh island: orf3	Fusarium poae	GCA_019609905.1	supported	R2;LONG
 GCA_019609905.1_g33	odh island: orf3	Fusarium poae	GCA_019609905.1	supported	R2;LONG

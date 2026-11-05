@@ -192,18 +192,18 @@ for r in seeds:
         r["grp"] = ""
         m2 = re.match(r"seeds11 seed: (.*)$", o)
         m3 = re.match(r"tdna cluster \S+: (.*)$", o)
-        r["kind"] = "reference seed" if m2 else "T-DNA cluster member"
+        r["kind"] = "reference query" if m2 else "T-DNA cluster member"
         r["desc"] = (m2 or m3).group(1) if (m2 or m3) else o
         r["desc"] = clean(r["desc"])
 add("S2", "Seed proteins",
-    "Query (seed) proteins used for the protein-level screen of fungal proteomes: bacterial Ti/Ri-plasmid proteins "
+    "Reference query proteins used for the protein-level screen of fungal proteomes: bacterial Ti/Ri-plasmid proteins "
     "and plant cellular T-DNA (cT-DNA) proteins.",
     seeds, [
-        ("gene", "gene", "Gene/protein class the seed represents"),
-        ("seed_id", "seed_id", "Accession or identifier of the seed protein"),
-        ("source", "source", "Seed source: bacterial or plant cT-DNA", lambda v: v.replace("plant_cTDNA", "plant cT-DNA")),
-        ("grp", "seed_group", "Family/lineage group of the seed (blank for reference seeds of other genes)"),
-        ("kind", "seed_set", "Seed set: curated panel, reference seed, or member of a T-DNA gene cluster"),
+        ("gene", "gene", "Gene/protein class the reference query represents"),
+        ("seed_id", "seed_id", "Accession or identifier of the reference query protein"),
+        ("source", "source", "Reference query source: bacterial or plant cT-DNA", lambda v: v.replace("plant_cTDNA", "plant cT-DNA")),
+        ("grp", "seed_group", "Family/lineage group of the reference query (blank for reference queries of other genes)"),
+        ("kind", "seed_set", "Reference query set: curated panel, reference query, or member of a T-DNA gene cluster"),
         ("desc", "description", "Organism / product / original record description"),
         ("length", "length_aa", "Seed length, aa"),
     ])
@@ -213,13 +213,13 @@ RC = A + "/refset/screen/seeds_ext/reciprocal"
 t1 = [r for r in rd(RC + "/table1_stats_dedup.tsv") if r["gene"].lower() != "orf358"]
 # REMOVED 2026-10-13 (audit): Table S3a replaced by median/maximum identity columns in Table 1 (analysis/funnel/build_funnel.py)
 # add("S3a", "Protein-level screen of fungal proteomes, by gene",
-#     "Summary of the protein-level screen (seed proteins vs annotated fungal proteomes, GenBank/RefSeq duplicates of the same assembly removed): "
+#     "Summary of the protein-level screen (reference query proteins vs annotated fungal proteomes, GenBank/RefSeq duplicates of the same assembly removed): "
 #     "number of proteomes with a hit and number of hits whose nearest relatives are non-fungal.",
 #     t1, [
 #         ("gene", "gene", "Seed gene/protein class"),
 #         ("n_genomes_with_hit", "proteomes_with_hit", "Proteomes with at least one hit"),
-#         ("median_pident", "median_identity_pct", "Median identity of the best hit to the seed, %"),
-#         ("max_pident", "max_identity_pct", "Maximum identity of the best hit to the seed, %"),
+#         ("median_pident", "median_identity_pct", "Median identity of the best hit to the reference query, %"),
+#         ("max_pident", "max_identity_pct", "Maximum identity of the best hit to the reference query, %"),
 #         ("n_tested", "proteins_tested", "Hits tested by reciprocal search"),
 #         ("n_nonfungal", "with_nonfungal_nearest_relative", "Hits whose nearest relatives are non-fungal (index h > 0)"),
 #         ("n_contam", "probable_contamination", "Of these, probable contamination (best bacterial hit identity >= 90%)"),
@@ -261,7 +261,7 @@ assert len(sel) == 1277 and all(r["fate"] for r in sel), (len(sel), [r["protein"
 assert sum(r["nfn"] == "yes" for r in sel) == 116 and len({r["protein"] for r in sel}) == 1190
 sel.sort(key=lambda r: (r["nfn"] != "yes", r["gene"], -(num(r["o_h"]) or 0), r["organism"]))
 add("S3b", "Reverse search of the 1,277 query proteins against NCBI nr and the fate of each",
-    "All queries of the reverse search of the protein-level screen: 1,277 queries (protein x seed-gene pairs) for 1,190 distinct proteins, because 83 proteins were detected by two or three seed genes. Each query was searched against NCBI nr and the best hits outside the protein's own order were compared (columns best_bacterial, best_plant and best_fungal_hit_outside_own_order). "
+    "All queries of the reverse search of the protein-level screen: 1,277 queries (protein x query-gene pairs) for 1,190 distinct proteins, because 83 proteins were detected by two or three reference query genes. Each query was searched against NCBI nr and the best hits outside the protein's own order were compared (columns best_bacterial, best_plant and best_fungal_hit_outside_own_order). "
     "Index h = best bacterial or plant bit score minus best outside-order fungal bit score, as computed in the screen; the 116 queries with non-fungal closest relatives (h > 0; Results 3.1; column nonfungal_nearest = yes) are listed first, "
     "followed by the 1,161 queries whose closest relatives are fungal (h <= 0; nonfungal_nearest = no); each group is sorted by gene. The fate of each query in the funnel (column fate) is one of the five categories of Table 1 "
     "(probable contamination; member of a fungal family with a single better bacterial hit; bacterial-type protein unrelated to rhizobia, not analysed further; T-DNA candidate; non-T-DNA (rhizobial) candidate) "
@@ -269,9 +269,9 @@ add("S3b", "Reverse search of the 1,277 query proteins against NCBI nr and the f
     sel, [
         ("gene", "gene", "Seed gene/protein class"), ("organism", "organism", "Organism"),
         ("gca", "assembly", "Genome assembly accession"), ("protein", "protein", "Protein accession"),
-        ("pident_seed", "identity_to_seed_pct", "Identity to the nearest seed of the gene, %; the seeds include plant cT-DNA proteins, so this is not identity to the bacterial genes"),
-        ("pid_bact_seed", "identity_to_bacterial_seed_pct", "Identity to the nearest bacterial T-DNA seed of the same gene (30 bacterial seeds; DIAMOND blastp), %; given only for the T-DNA candidates analysed in Tables S17a,b, blank otherwise"),
-        ("cov_seed", "seed_coverage", "Fraction of the seed covered"),
+        ("pident_seed", "identity_to_seed_pct", "Identity to the nearest reference query of the gene, %; the reference queries include plant cT-DNA proteins, so this is not identity to the bacterial genes"),
+        ("pid_bact_seed", "identity_to_bacterial_seed_pct", "Identity to the nearest bacterial T-DNA reference query of the same gene (30 bacterial reference queries; DIAMOND blastp), %; given only for the T-DNA candidates analysed in Tables S17a,b, blank otherwise"),
+        ("cov_seed", "seed_coverage", "Fraction of the reference query covered"),
         ("o_bact_org", "best_bacterial_hit_organism", "Best bacterial hit: organism"),
         ("o_bact_pid", "best_bacterial_hit_identity_pct", "Best bacterial hit: identity, %"),
         ("o_bact_bits", "best_bacterial_hit_bit_score", "Best bacterial hit: bit score"),
@@ -426,16 +426,16 @@ HYP["CUS_nb"] = ["cus-like outside Boletales + T-DNA cus forced monophyletic, se
                  "all cus-like outside Boletales in one clade (single acquisition)"]
 FAM["CUS_nb"] = FAM["CUS"]
 # chs-like (Fusarium, Dactylonectria); order in analysis/chs_fusarium/au/run_au.sh: ML, chs_tdna, chs_bactchs, chs_ags, chs_nat, chs_bact, chs_mono (journal 2026-10-11 AU_chs)
-HYP["CHS"] = ["fungal chs-like + T-DNA chs seed forced monophyletic, without the other Ti-plasmid chs genes",
-              "fungal chs-like + the four other Ti-plasmid chs genes forced monophyletic, without the seed",
-              "fungal chs-like + ags seed forced monophyletic",
+HYP["CHS"] = ["fungal chs-like + T-DNA chs reference query forced monophyletic, without the other Ti-plasmid chs genes",
+              "fungal chs-like + the four other Ti-plasmid chs genes forced monophyletic, without the reference query",
+              "fungal chs-like + ags reference query forced monophyletic",
               "fungal chs-like + native fungal ags homologs forced monophyletic",
               "fungal chs-like + other bacterial M24 aminopeptidases forced monophyletic",
               "all fungal chs-like (Fusarium + Dactylonectria) in one clade (single acquisition)"]
 FAM["CHS"] = "chrysopine synthase (Chs; M24 aminopeptidase family)"
 # chs-like, nested placements (2026-10-12, analysis/chs_fusarium/au_nested/RESULT.md; order hyp_order.txt): Ti-chs x = seed (pTi chrysopine synthase A0A2Z2PGA9),
 # WP_139103025.1, WP_272871282.1 (A. tumefaciens), WP_272951408.1 (A. vitis), WP_084631803.1 (A. larrymoorei); nest_x = all 11 fungal + x; fnest_x = 10 Fusarium + x
-_TI = [("the chs seed (pTi chrysopine synthase A0A2Z2PGA9)", "seed"), ("Ti-plasmid chs WP_139103025.1", "b139"),
+_TI = [("the chs reference query (pTi chrysopine synthase A0A2Z2PGA9)", "reference query"), ("Ti-plasmid chs WP_139103025.1", "b139"),
        ("Ti-plasmid chs WP_272871282.1 (A. tumefaciens)", "b272871"), ("Ti-plasmid chs WP_272951408.1 (A. vitis)", "b272951"),
        ("Ti-plasmid chs WP_084631803.1 (A. larrymoorei)", "b084")]
 HYP["CHS_nest"] = []
@@ -447,11 +447,11 @@ FAM["CHS_nest"] = FAM["CHS"]
 HYP["ODH"] = ["odh-island ODH + all native fungal ODH forced monophyletic",
               "odh-island ODH + native Sordariomycetes ODH (Apiospora, Astrocystis) forced monophyletic (vertical-inheritance expectation)",
               "control: native fungal ODH forced monophyletic (odh-island ODH unconstrained)",
-              "odh-island ODH inside the ML T-DNA clade (ocs/nos/vis seeds + Rhypophila/Butyriboletus + A. larrymoorei WP_309770762) forced monophyletic",
-              "odh-island ODH + T-DNA ocs/nos/vis seeds only forced monophyletic",
+              "odh-island ODH inside the ML T-DNA clade (ocs/nos/vis reference queries + Rhypophila/Butyriboletus + A. larrymoorei WP_309770762) forced monophyletic",
+              "odh-island ODH + T-DNA ocs/nos/vis reference queries only forced monophyletic",
               "control: odh-island ODH + A. larrymoorei WP_309770759 forced monophyletic (clade of the ML tree)",
               "odh-island ODH + all other bacterial ODH (both A. larrymoorei ODH excluded) forced monophyletic",
-              "odh-island ODH inside the nos subfamily (nos seed P00386 + Gillisella) forced monophyletic"]
+              "odh-island ODH inside the nos subfamily (nos reference query P00386 + Gillisella) forced monophyletic"]
 FAM["ODH"] = "opine dehydrogenase, odh island (Fusarium)"
 REFHYP = {"CUS_bm": "unconstrained maximum-likelihood tree (reference; separate test set for the monophyly of the Boletales cus-like genes; the four Boletales constraints above re-tested here gave p = 5.1e-07, 1.3e-56, 1.3e-46 and 3.2e-05)",
           "ACS_nat": "unconstrained maximum-likelihood tree (reference; separate test set with the native fungal GDPD constraint for the acc-type genes; constraints 1-6 above re-tested here gave p = 1.4e-31, 0.44, 0.16, 4.7e-61, 0.56 and 7.4e-11)",
@@ -671,7 +671,7 @@ for r in cg:
     if r["gene"].startswith("rolB ("): r["gene"] = "rolB/rolC (AAK90962; one query serves both genes)"
     if r["gene"].startswith("acs family queries"):
         r["gene"] = "GDPD family (acs-family queries)"
-        r["queries"] = "19 GDPD-family seed proteins of Table S2"
+        r["queries"] = "19 GDPD-family reference query proteins of Table S2"
         r["note"] = "The hits are the acc-type GDPD and pKerr14a-type acs-like loci of Table 2, not canonical T-DNA acs"
     elif num(r["max_pident_best_locus"]) is not None and num(r["max_pident_best_locus"]) >= 45 and r["n_asm_strong_locus_best_subject"] == "0":
         r["note"] = "Best single-locus hit above 45% identity but covering less than half of the query: not counted as a strong hit"
@@ -718,18 +718,18 @@ add("S12a", "chs-like loci in Fusarium and relatives",
         ("contig", "contig", "Contig"), ("start", "start", "Start"), ("end", "end", "End"), ("strand", "strand", "Strand"),
         ("contig_len", "contig_length_bp", "Contig length, bp"), ("dist_left", "distance_to_contig_start_bp", "Distance to the contig start, bp"),
         ("dist_right", "distance_to_contig_end_bp", "Distance to the contig end, bp"),
-        ("id_chs", "identity_to_chs", "Identity to the Ti-plasmid chs seed (A0A2Z2PGA9)"), ("cov_chs", "coverage_of_chs", "Coverage of the chs seed"),
+        ("id_chs", "identity_to_chs", "Identity to the Ti-plasmid chs reference query (A0A2Z2PGA9)"), ("cov_chs", "coverage_of_chs", "Coverage of the chs reference query"),
         ("id_EEU", "identity_to_EEU41297.1", "Identity to the fungal reference EEU41297.1"), ("cov_EEU", "coverage_of_EEU41297.1", "Coverage of EEU41297.1"),
         ("id_KNB", "identity_to_KNB14377.1", "Identity to the reference protein KNB14377.1"),
         ("cov_KNB", "coverage_of_KNB14377.1", "Coverage of KNB14377.1"),
         ("status", "status", "intact / truncated / pseudogene"),
-        ("primary_seed", "primary_seed", "Seed protein used for the gene model"), ("prim_qfrom", "seed_aln_start_aa", "Alignment start on the seed, aa"),
-        ("prim_qto", "seed_aln_end_aa", "Alignment end on the seed, aa"), ("prim_len", "seed_length_aa", "Seed length, aa"),
-        ("exons", "n_exons", "Exons in the model"), ("frameshifts", "frameshifts", "Frameshifts relative to the seed"),
-        ("stops", "in_frame_stops", "In-frame stop codons"), ("missing", "missing_seed_segments", "Missing N-/C-terminal segments of the seed"),
+        ("primary_seed", "primary_seed", "Reference query protein used for the gene model"), ("prim_qfrom", "seed_aln_start_aa", "Alignment start on the reference query, aa"),
+        ("prim_qto", "seed_aln_end_aa", "Alignment end on the reference query, aa"), ("prim_len", "seed_length_aa", "Seed length, aa"),
+        ("exons", "n_exons", "Exons in the model"), ("frameshifts", "frameshifts", "Frameshifts relative to the reference query"),
+        ("stops", "in_frame_stops", "In-frame stop codons"), ("missing", "missing_seed_segments", "Missing N-/C-terminal segments of the reference query"),
         ("edge", "contig_edge", "Locus truncated by a contig edge"), ("gene_gc", "locus_gc_pct", "GC content of the locus, %"),
         ("assembly_gc", "assembly_gc_pct", "GC content of the assembly, %"),
-        ("stop_pos_in_primary_seed", "stop_positions_in_seed_aa", "Positions of in-frame stops on the seed, aa"), ("note", "note", "Free-text note")])
+        ("stop_pos_in_primary_seed", "stop_positions_in_seed_aa", "Positions of in-frame stops on the reference query, aa"), ("note", "note", "Free-text note")])
 # Table S12b (chs-like loci per species) replaced by the new Table S7 (324 assemblies), 2026-10-13q
 runs = {r["run"]: r for r in rd(CH + "/expression/runs.tsv")}
 smm = rd(CH + "/expression/summary.tsv")
@@ -980,32 +980,32 @@ s18b.sort(key=lambda r: (gene_rank(r["gene"]), r["group"] != "plant cT-DNA"))
 s18a_spec = [
     ("gene", "gene", "T-DNA gene"), ("group", "protein_group", "Protein group: plant cT-DNA (cellular T-DNA of naturally transgenic plants) or fungal T-DNA candidate (T-DNA-type fungal proteins)"),
     ("n", "n_proteins", "Number of proteins"),
-    ("median_pident", "median_identity_pct", "Median identity to the nearest bacterial T-DNA seed of the same gene, %"),
+    ("median_pident", "median_identity_pct", "Median identity to the nearest bacterial T-DNA reference query of the same gene, %"),
     ("min", "min_identity_pct", "Minimum identity, %"), ("max", "max_identity_pct", "Maximum identity, %"),
     ("median_qcov", "median_query_coverage", "Median fraction of the protein covered by the alignment"),
-    ("n_fulllen_scov70", "n_full_length", "Proteins covering at least 70% of the seed length"),
+    ("n_fulllen_scov70", "n_full_length", "Proteins covering at least 70% of the reference query length"),
     ("median_pident_fulllen", "median_identity_full_length_pct", "Median identity of the full-length proteins, %"),
     ("min_fulllen", "min_identity_full_length_pct", "Minimum identity of the full-length proteins, %"),
     ("max_fulllen", "max_identity_full_length_pct", "Maximum identity of the full-length proteins, %"),
     ("n_unique_seq", "n_unique_sequences", "Number of distinct sequences"),
     ("median_pident_unique", "median_identity_unique_pct", "Median identity over distinct sequences, %"),
-    ("median_pident_seed11", "median_identity_reference_seed_pct", "Median identity to the reference bacterial seed of the gene (canonical seed of the 11-seed set), %"),
-    ("range_seed11", "range_identity_reference_seed_pct", "Range of identity to the reference seed, %"),
+    ("median_pident_seed11", "median_identity_reference_seed_pct", "Median identity to the reference bacterial reference query of the gene (canonical reference query of the 11-query set), %"),
+    ("range_seed11", "range_identity_reference_seed_pct", "Range of identity to the reference query, %"),
     ("median_pident_to_plant_cTDNA", "median_identity_to_plant_cTDNA_pct", "Fungal proteins only: median identity to the nearest plant cT-DNA protein of the same gene, %")]
 s18b_spec = [
     ("gene", "gene", "T-DNA gene"), ("group", "protein_group", "Protein group: plant cT-DNA or fungal T-DNA candidate"),
     ("query", "protein", "Protein accession (or identifier of the miniprot model, Ntom_*)"),
     ("status", "status", "'include' = used in Table S17a; otherwise the reason for exclusion"),
     ("origin", "origin", "Source of the sequence"), ("qlen", "protein_length_aa", "Protein length, aa"),
-    ("best_seed", "best_bacterial_seed", "Nearest bacterial seed of the same gene"),
-    ("pident", "identity_to_bacterial_seed_pct", "Identity to that seed, %"),
-    ("qcov", "query_coverage", "Fraction of the protein covered by the alignment"), ("scov", "seed_coverage", "Fraction of the seed covered by the alignment"),
+    ("best_seed", "best_bacterial_seed", "Nearest bacterial reference query of the same gene"),
+    ("pident", "identity_to_bacterial_seed_pct", "Identity to that reference query, %"),
+    ("qcov", "query_coverage", "Fraction of the protein covered by the alignment"), ("scov", "seed_coverage", "Fraction of the reference query covered by the alignment"),
     ("bits", "bit_score", "Bit score"), ("evalue", "e_value", "E-value"),
-    ("seed11", "reference_seed", "Reference bacterial seed of the gene (11-seed set)"),
-    ("pident_seed11", "identity_to_reference_seed_pct", "Identity to the reference seed, %"),
-    ("qcov_seed11", "query_coverage_reference_seed", "Fraction of the protein covered by the alignment to the reference seed"),
-    ("top_any_seed", "nearest_seed_any_gene", "Nearest bacterial seed of any gene (gene|accession)"),
-    ("top_any_pident", "identity_to_nearest_seed_any_gene_pct", "Identity to the nearest seed of any gene, %"),
+    ("seed11", "reference_seed", "Reference bacterial reference query of the gene (11-query set)"),
+    ("pident_seed11", "identity_to_reference_seed_pct", "Identity to the reference query, %"),
+    ("qcov_seed11", "query_coverage_reference_seed", "Fraction of the protein covered by the alignment to the reference query"),
+    ("top_any_seed", "nearest_seed_any_gene", "Nearest bacterial reference query of any gene (gene|accession)"),
+    ("top_any_pident", "identity_to_nearest_seed_any_gene_pct", "Identity to the nearest reference query of any gene, %"),
     ("best_plasmid", "nearest_plasmid_protein", "Nearest protein of the Ti/Ri plasmid catalogue (category|annotation)"),
     ("pident_plasmid", "identity_to_plasmid_protein_pct", "Identity to that protein, %"),
     ("qcov_plasmid", "query_coverage_plasmid_protein", "Fraction of the protein covered by the alignment to the plasmid protein"),
@@ -1014,11 +1014,11 @@ s18b_spec = [
     ("qcov_plant_cTDNA", "query_coverage_plant_cTDNA_protein", "Fraction of the protein covered by the alignment to the plant cT-DNA protein")]
 for tid, title, desc, rows, spec in [
         ("S17a", "Identity of plant cT-DNA and fungal T-DNA-candidate proteins to bacterial T-DNA proteins: summary",
-         "Summary by gene and protein group of the amino-acid identity to the nearest bacterial T-DNA seed of the same gene (30 bacterial seeds; DIAMOND blastp, very-sensitive). "
-         "Plant cT-DNA proteins: seed-set members of plant origin, GenBank/Entrez entries and miniprot models in the Nicotiana tomentosiformis genome; fungal T-DNA candidates: proteins classified as T-DNA candidates (Table S3). "
+         "Summary by gene and protein group of the amino-acid identity to the nearest bacterial T-DNA reference query of the same gene (30 bacterial reference queries; DIAMOND blastp, very-sensitive). "
+         "Plant cT-DNA proteins: query-set members of plant origin, GenBank/Entrez entries and miniprot models in the Nicotiana tomentosiformis genome; fungal T-DNA candidates: proteins classified as T-DNA candidates (Table S3). "
          "Proteins excluded in Table S17b are not counted. One row per gene and group.", s18a, s18a_spec),
         ("S17b", "Identity of plant cT-DNA and fungal T-DNA-candidate proteins to bacterial T-DNA proteins: by protein",
-         "Pairwise comparison of every plant cT-DNA and fungal T-DNA-candidate protein with the bacterial T-DNA seeds of the same gene, with the reference seed, with the Ti/Ri plasmid protein catalogue and, for fungal proteins, with the plant cT-DNA proteins. "
+         "Pairwise comparison of every plant cT-DNA and fungal T-DNA-candidate protein with the bacterial T-DNA reference queries of the same gene, with the reference query, with the Ti/Ri plasmid protein catalogue and, for fungal proteins, with the plant cT-DNA proteins. "
          "One row per protein.", s18b, s18b_spec)]:
     pr, cols = proj(rows, spec)
     TABLES.append((tid, title, desc, cols, pr))
@@ -1402,7 +1402,8 @@ FINAL.append(("S18", "Evidence for each lineage by the three criteria of horizon
     "Loci with integration confirmed / supported / not assessable: per-locus status (Table S1a, column integration_status; rules in Methods 2.5 of the main text). omega, dN/dS of the M0 model (Table S15; in parentheses, pairs with dS <= 2); transcription from RNA-seq (Table S16); n.d., not determined. "
     "Closest sampled relatives and locus context: affinities, not established sources of transfer. Numbers of loci, assemblies and species are in Table 2 of the main text.", cols18, s18m))
 
-TABLES = FINAL
+from revision_exports import revised_tables, extend_data4
+TABLES = revised_tables(FINAL)
 TNAME = {"S1a": "Table S1a"}
 # ---------------------------------------------------------------- write
 NAMES = {}
@@ -1448,16 +1449,16 @@ FIGS = [("S1", "Distributions of the statistics underlying the thresholds", "fig
          "In panel (b) of Figure 3 one native fungal gene detected by the cus profile (Boletus austroedulis; excluded from the analysis) is omitted from the schematic; it is labelled here as \"native fungal gene, excluded\". Supports, rooting and scale as in Figure S2; because of the size of the tree the labels are small and the vector files (PDF, in figures_pdf/) should be used for reading. Data S2: cus.*."),
         ("S4", "Full tree of the M24 aminopeptidase family (Chs, Ags)", "figures/FigureS4_tree_chs.png",
          "The Fusarium chs-like genes are sister to the Ti-plasmid chs clade and are not nested within it. Full maximum-likelihood tree of the M24 aminopeptidase family (58 sequences, 687 sites, Q.PFAM+I+G4), from which panel (c) of Figure 3 was collapsed: "
-         "Fusarium and Dactylonectria chs-like genes, Ti-plasmid chs clade (the chs of pTi14-818c and other agrobacterial chs), native fungal Ags homologs, other bacterial M24 aminopeptidases; rooted on the ags seed. Supports and scale as in Figure S2. Data S2: chs.*."),
+         "Fusarium and Dactylonectria chs-like genes, Ti-plasmid chs clade (the chs of pTi14-818c and other agrobacterial chs), native fungal Ags homologs, other bacterial M24 aminopeptidases; rooted on the ags reference query. Supports and scale as in Figure S2. Data S2: chs.*."),
         ("S5", "Full tree of the GDPD family", "figures/FigureS5_tree_gdpd.png",
          "The acc-type and pKerr14a-type GDPD genes group with the GDPD of rhizobial acc-like loci and with the acs of pKerr14a, respectively, and not with the T-DNA acs clade. Full maximum-likelihood tree of the GDPD family (259 sequences, 989 sites, JTT+R5), from which panel (d) of Figure 3 was collapsed: "
          "T-DNA acs clade, acc-type GDPD with the bacterial acc-locus references, pKerr14a-type acs-like with the acs of pKerr14a and the Parasponia cT-DNA fragment, native fungal GDPD, fungal GDPD of unresolved position, outgroup. Supports, rooting and scale as in Figure S2. Data S2: gdpd.*."),
         ("S6", "Full tree of the opine dehydrogenase family, nos subfamily", "figures/FigureS6_tree_nos.png",
          "The nos-subfamily genes of Boletales form a clade sister to the bacterial genes of the subfamily; the Rhypophila homolog is shown but not assigned to any lineage. Full maximum-likelihood tree of the opine dehydrogenase family around the nos subfamily (64 sequences, 390 sites, Q.PFAM+R4), from which panel (e) of Figure 3 was collapsed: "
-         "nos-subfamily genes of Boletales, the Rhypophila nos homolog, T-DNA nos clade, rhizobial nos-like genes, odh-island genes, native fungal and other bacterial opine dehydrogenases; rooted on the ocs/vis seeds. Supports and scale as in Figure S2. Data S2: nos.*."),
+         "nos-subfamily genes of Boletales, the Rhypophila nos homolog, T-DNA nos clade, rhizobial nos-like genes, odh-island genes, native fungal and other bacterial opine dehydrogenases; rooted on the ocs/vis reference queries. Supports and scale as in Figure S2. Data S2: nos.*."),
         ("S7", "Full tree of the opine dehydrogenase family, odh island", "figures/FigureS7_tree_odh.png",
          "The odh-island genes of Fusarium are sister to the plasmid opine dehydrogenase of Agrobacterium larrymoorei. Full maximum-likelihood tree of the opine dehydrogenase family around the odh island (44 sequences, 423 sites, Q.PFAM+G4), from which panel (f) of Figure 3 was collapsed: "
-         "odh-island genes of F. poae and F. langsethiae, the plasmid opine dehydrogenase of A. larrymoorei (donor locus), nos subfamily, native fungal and other bacterial opine dehydrogenases; rooted on the ocs/vis seeds. Supports and scale as in Figure S2. Data S2: odh.*."),
+         "odh-island genes of F. poae and F. langsethiae, the plasmid opine dehydrogenase of A. larrymoorei (donor locus), nos subfamily, native fungal and other bacterial opine dehydrogenases; rooted on the ocs/vis reference queries. Supports and scale as in Figure S2. Data S2: odh.*."),
         ("S8", "Approximately unbiased (AU) tests of the lineage hypotheses", "figures/FigureS8_AU_tests.png",
          "AU tests of the topological constraints for all lineages, drawn from Table S11. Each row is one constrained tree; the dot shows p-AU on a logarithmic scale (dashed line, p = 0.05); squares mark the unconstrained maximum-likelihood tree of each run; "
          "dlnL, log-likelihood difference from the best tree. Yellow, constraint not rejected; black, rejected. Hypotheses are worded as in Table S11 (Methods 2.6)."),
@@ -1636,17 +1637,25 @@ DATA_DESC = {
        "the trimmed protein alignment given to IQ-TREE (`<family>.aln.faa`) and the IQ-TREE report with model and run settings (`<family>.iqtree`). MANIFEST.tsv lists for each file the family, the number of sequences and sites and the substitution model. Compressed archive (tar.gz).",
  "S2b": "Constraint trees (Newick) and IQ-TREE outputs (.treefile, .iqtree, .log) of the 60 constrained maximum-likelihood searches behind Table S11, with the IQ-TREE AU reports (.iqtree, .log, .trees) and the user-tree sets of each run; "
         "MANIFEST.tsv gives for each constraint_id (as in Tables S11 and S11b) the files. Layout <family>/<run>/{constraint,search,run}. Compressed archive (tar.gz, 2.1 MB).",
- "S4": "For each of the 16 gene sets of Table S15: the codon alignment (`.codon.phy`, `.codon.fna`), the tree given to codeml (`.tree.nwk`), the codeml control files and outputs (M0; site models M7/M8 and M8a where run) and the yn00 control file and output (pairwise dN/dS), in two sub-folders per set: `strict` (alignment used for the main results) and `le20pct_gaps` (alignment keeping columns with up to 20% gaps; M0 and yn00 only). "
+ "S4": "For each of the 16 original gene sets of Table S15: the codon alignment (`.codon.phy`, `.codon.fna`), the tree given to codeml (`.tree.nwk`), the codeml control files and outputs (M0; site models M7/M8 and M8a where run) and the yn00 control file and output (pairwise dN/dS), in two sub-folders per set: `strict` (alignment used for the main results) and `le20pct_gaps` (alignment keeping columns with up to 20% gaps; M0 and yn00 only). "
        "The sets odh island: pepP and orf3 have only yn00 files (2 and 3 sequences, no tree). The set nos-subfamily ODH, Boletales, confirmed or supported only has M0 on a star tree and no site models. MANIFEST.tsv lists set, file and description. Compressed archive (tar.gz).",
  "S3": "The 2,215 distinct genome assemblies screened, 2,227 rows because 12 assemblies of Fusarium relatives belong to both the 1,386 and the 324 set: the 517 assemblies of Boletales (Table S6), 1,386 assemblies of other fungal orders (accession, organism, order, class; a note where the order was inferred) and the 324 assemblies of Fusarium, Neocosmospora and Dactylonectria (Table S7), "
        "in one table with the column set identifying the group (12 assemblies of Fusarium-related genera were included in both the screen of other orders and the Fusarium set and appear twice; 2,215 distinct assemblies). Tab-separated file."}
+
+# Revision evidence is retained when the original supplementary files are rebuilt.
+extend_data4(os.path.join(OUT, "data", DATA_S4))
+DATA.append(("S5", "Additional WGS and reference-provenance evidence", "Data_S5_revision_evidence.tar.gz"))
+DATA_DESC["S4"] += " Two additional integration-filtered datasets, SUS_conf and cus_nonBol_conf, include M0 only under both alignment treatments and both starting omega values; the full table has 18 rows."
+DATA_DESC["S5"] = "Additional WGS metadata, genomic coverage, Fp133 molecules spanning both fungal anchors, anchor homologs, reference-plasmid provenance, and reproducible scripts (Tables S19-S20). Large FASTQ and BAM inputs are identified by public accessions and checksums."
+shutil.copy(os.path.join(G, "analysis/revision_20261104/Data_S5_revision_evidence.tar.gz"), os.path.join(OUT, "data", "Data_S5_revision_evidence.tar.gz"))
+FIGS = [(a,b,c,d + (" Additional integration-filtered M0 results are in Table S15." if a == "S11" else "")) for a,b,c,d in FIGS]
 
 def table_head(tid):
     return "Table %s" % tid
 
 with open(os.path.join(OUT, "README_supplementary.md"), "w") as fh:
-    fh.write("# Supplementary Materials: Tables, Figures and Data\n\nTables S1a-S18 are in `Supplementary_Tables.xlsx` (one sheet per table; each sheet starts with the table title and legend, then the column header and the data; blank = not available). "
-             "This archive contains: `Supplementary_Tables.xlsx` (Tables S1a-S18); `Supplementary_Materials.docx` (the legends of all figures, tables and data files); `Extended_Methods.docx` (Extended Methods, the full text of the Methods); `figures/` (Figures S1-S13 as PNG) and `figures_pdf/` (the same figures as PDF); the data files Data S1, S2, S2b, S3 and S4, described at the end of this file; and this file. "
+    fh.write("# Supplementary Materials: Tables, Figures and Data\n\nTables S1a-S20d are in `Supplementary_Tables.xlsx` (one sheet per table; each sheet starts with the table title and legend, then the column header and the data; blank = not available). "
+             "This archive contains: `Supplementary_Tables.xlsx` (Tables S1a-S20d); `Supplementary_Materials.docx` (the legends of all figures, tables and data files); `Extended_Methods.docx` (Extended Methods, the full text of the Methods); `figures/` (Figures S1-S13 as PNG) and `figures_pdf/` (the same figures as PDF); the data files Data S1, S2, S2b, S3, S4 and S5, described at the end of this file; and this file. "
              "Nomenclature: families OCD fold (Sus), cucumopine synthase (Cus), GDPD, M24 aminopeptidase (Chs/Ags), opine dehydrogenase; "
              "lineages of bacterial origin (Table 2): sus-like, cus-like, chs-like, acc-type GDPD, pKerr14a-type acs-like, nos-subfamily opine dehydrogenase (Boletales), odh island; "
              "other groups of the catalogue (Table S1c): mis group, actinobacterial-type, native fungal GDPD, GDPD of unresolved position, OCD-like outside the sus-like clade.\n\n## Supplementary Tables\n\n")
@@ -1668,7 +1677,7 @@ try:
     import openpyxl
     from openpyxl.styles import Font
     wb = openpyxl.Workbook(); ws = wb.active; ws.title = "README"
-    ws.append(["Supplementary Tables S1a-S18. Each sheet starts with the table title (row 1) and legend (row 2), then the column header and the data. Figures S1-S13 and Data S1-S4: see Supplementary_Materials.docx."])
+    ws.append(["Supplementary Tables S1a-S20d. Each sheet starts with the table title (row 1) and legend (row 2), then the column header and the data. Figures S1-S13 and Data S1-S5: see Supplementary_Materials.docx."])
     ws.append([]); ws.append(["Table", "Title", "Legend", "Rows"])
     for tid, title, desc, cols, rows in TABLES:
         ws.append([tid, title, disp(desc), len(rows)])
@@ -1692,9 +1701,9 @@ except ImportError:
     print("openpyxl not available: xlsx skipped")
 
 # ---------------------------------------------------------------- Supplementary_Materials.md / .docx
-TITLE = "Opine metabolism genes horizontally transferred into fungal genomes"
+TITLE = "Horizontal Acquisition and Evolution of Opine Metabolism Genes in Fungal Genomes"
 md = ["# Supplementary Materials for: %s" % TITLE, "",
-      "This document contains the legends of Figures S1-S13, Tables S1a-S18 and Data S1-S4 and S2b. The tables are in Supplementary_Tables.xlsx (one sheet per table), the figures in the folders figures/ (PNG) and figures_pdf/ (PDF), the data files as named below. The full text of the Methods is given in Extended Methods (Extended_Methods.docx).", "", "## Figures", ""]
+      "This document contains the legends of Figures S1-S13, Tables S1a-S20d and Data S1-S5 and S2b. The tables are in Supplementary_Tables.xlsx (one sheet per table), the figures in the folders figures/ (PNG) and figures_pdf/ (PDF), the data files as named below. The full text of the Methods is given in Extended Methods (Extended_Methods.docx).", "", "## Figures", ""]
 for fid, ftitle, ffile, fcap in FIGS:
     md += ["![Figure S%s](%s)" % (fid[1:], ffile), "", "**Figure %s. %s.** %s" % (fid, ftitle, fcap), ""]
 md += ["## Tables", ""]
@@ -1734,6 +1743,7 @@ except ImportError:
 
 # ---------------------------------------------------------------- paragraph for the article
 SHORT_DATA = {"S1": "protein sequences of the loci of bacterial origin", "S2": "protein-family trees, alignments and IQ-TREE reports", "S3": "genome assemblies screened", "S2b": "constraint trees and IQ-TREE outputs of the AU tests", "S4": "codon alignments, trees and codeml/yn00 files of the dN/dS analyses"}
+SHORT_DATA["S5"] = "additional WGS and reference-provenance evidence"
 def low(t): return t if t[:2].isupper() or t.startswith(("chs", "vir")) else t[0].lower() + t[1:]
 PARA_T = {"S16": "RNA-seq at the loci of Boletaceae and Fusarium"}
 items = ["Figure S%s: %s" % (f[0][1:], low(f[1])) for f in FIGS] + ["Table S%s: %s" % (t[0][1:], PARA_T.get(t[0]) or low(t[1]).replace(": ", ", ")) for t in TABLES] + ["Data S%s: %s" % (d[0][1:], SHORT_DATA[d[0]]) for d in DATA]

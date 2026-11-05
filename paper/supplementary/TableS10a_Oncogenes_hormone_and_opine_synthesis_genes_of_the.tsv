@@ -15,4 +15,4 @@ ags (WP_080864006 M24 peptidase; cluster ags)	1	WP_080864006.1	0	40.0	0	26.1
 ocs	1	AAF77127.1	0	40.0	0	27.3	
 nos	1	WP_010974826.1	0	41.1	0	39.2	
 acs agrocinopine synthase (WP_010974816 acsx, cluster)	1	WP_010974816.1	0	0.0	0	32.7	
-GDPD family (acs-family queries)	19	19 GDPD-family seed proteins of Table S2	31	74.5	33	69.5	The hits are the acc-type GDPD and pKerr14a-type acs-like loci of Table 2, not canonical T-DNA acs
+GDPD family (acs-family queries)	19	19 GDPD-family reference query proteins of Table S2	31	74.5	33	69.5	The hits are the acc-type GDPD and pKerr14a-type acs-like loci of Table 2, not canonical T-DNA acs

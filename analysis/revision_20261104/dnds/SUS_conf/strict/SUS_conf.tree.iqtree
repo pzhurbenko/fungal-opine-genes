@@ -1,0 +1,136 @@
+IQ-TREE 3.1.1 built Apr  8 2026
+
+Input file name: SUS_conf.codon.fna
+Type of analysis: tree reconstruction
+Random seed number: 20261104
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 15 sequences with 441 nucleotide sites
+Number of constant sites: 84 (= 19.0476% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 84 (= 19.0476% of all sites)
+Number of parsimony informative sites: 307
+Number of distinct site patterns: 338
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+G4
+
+Rate parameter R:
+
+  A-C: 1.6381
+  A-G: 5.2527
+  A-T: 1.4415
+  C-G: 1.2706
+  C-T: 5.1994
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.2305
+  pi(C) = 0.2686
+  pi(G) = 0.2515
+  pi(T) = 0.2493
+
+Rate matrix Q:
+
+  A    -1.076    0.2232    0.6703    0.1823
+  C    0.1916    -1.011    0.1621    0.6575
+  G    0.6143    0.1732   -0.9139    0.1265
+  T    0.1686    0.7085    0.1276    -1.005
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 1.093
+
+ Category  Relative_rate  Proportion
+  1         0.1551         0.25
+  2         0.503          0.25
+  3         1.014          0.25
+  4         2.328          0.25
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -4661.5807 (s.e. 110.2582)
+Unconstrained log-likelihood (without tree): -2385.4923
+Number of free parameters (#branches + #model parameters): 36
+Akaike information criterion (AIC) score: 9395.1615
+Corrected Akaike information criterion (AICc) score: 9401.7555
+Bayesian information criterion (BIC) score: 9542.3671
+
+Total tree length (sum of branch lengths): 4.1227
+Sum of internal branch lengths: 2.0614 (50.0006% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'SUS_JBBPLV010001121_L1' is drawn at root
+
++--SUS_JBBPLV010001121_L1
+|
+|  +------------------------SUS_JBBPOG010000890_L1
++--|
+|  |  +--SUS_JBBPKI010000869_L1
+|  +--|
+|     +--SUS_JBBPKI010000567_L1
+|
+|                              +--SUS_JBBPVF010000849_L1
+|                      +-------|
+|                      |       |     +--SUS_JBBPLU010000323_L1
+|                      |       |  +--|
+|                      |       |  |  +--SUS_JBBPMG010000116_L1
+|                      |       +--|
+|                      |          +--SUS_JBBPLV010001943_L1
++----------------------|
+                       |      +---------SUS_JBBPUD010000148_L1
+                       +------|
+                              |                       +---SUS_JBBPVZ010000240_L1
+                              |                 +-----|
+                              |                 |     +--SUS_JBBPXK010000119_L1
+                              |              +--|
+                              |              |  +--SUS_JBBPWT010000047_L1
+                              |        +-----|
+                              |        |     |  +---SUS_JBBPXA010000488_L1
+                              |        |     +--|
+                              |        |        +--SUS_JBBPXF010000575_L1
+                              +--------|
+                                       +---SUS_JBBPXB010001911_L1
+
+Tree in newick format:
+
+(SUS_JBBPLV010001121_L1:0.0887374604,(SUS_JBBPOG010000890_L1:0.7383385725,(SUS_JBBPKI010000869_L1:0.0487610283,SUS_JBBPKI010000567_L1:0.0394761732):0.0119081801):0.0493096576,((SUS_JBBPVF010000849_L1:0.0659069040,((SUS_JBBPLU010000323_L1:0.0155226024,SUS_JBBPMG010000116_L1:0.0745212127):0.0150756044,SUS_JBBPLV010001943_L1:0.0382893327):0.1097544638):0.2459548710,(SUS_JBBPUD010000148_L1:0.3044888290,((((SUS_JBBPVZ010000240_L1:0.1350696213,SUS_JBBPXK010000119_L1:0.0889227252):0.1797382717,SUS_JBBPWT010000047_L1:0.0849965189):0.0407631542,(SUS_JBBPXA010000488_L1:0.1180575176,SUS_JBBPXF010000575_L1:0.0873543398):0.0357966239):0.1876201599,SUS_JBBPXB010001911_L1:0.1328902883):0.2871989857):0.2232228161):0.6750401174);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t SUS_conf.tree.treefile -m "GTR{1.63806,5.25273,1.44147,1.27062,5.19937}+F{0.230537,0.268632,0.25155,0.249282}+G4{1.09295}" --length 441
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s SUS_conf.codon.fna --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s SUS_conf.codon.fna --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Wed Nov  4 13:08:46 2026
+Total CPU time used: 3.66639 seconds (0h:0m:3s)
+Total wall-clock time used: 2.35707 seconds (0h:0m:2s)
+

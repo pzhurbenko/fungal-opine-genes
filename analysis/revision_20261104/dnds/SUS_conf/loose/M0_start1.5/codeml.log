@@ -1,0 +1,20 @@
+CODONML in paml version 4.10.7, June 2023
+2 ambiguous codons are seen in the data:
+ --- NNN
+
+
+      840 bytes for distance
+   317200 bytes for conP
+        0 bytes for fhK
+  5000000 bytes for space
+
+TREE #  1
+(1, (2, (3, 4)), ((5, ((6, 7), 8)), (9, ((((10, 11), 12), (13, 14)), 15))));   MP score: -1
+  2061800 bytes for conP, adjusted
+
+ntime & nrate & np:    27     2    29
+Out..
+lnL  = -9730.108949
+2735 lfun, 2735 eigenQcodon, 73845 P(t)
+
+Time used:  0:49

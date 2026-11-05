@@ -1,0 +1,38 @@
+[
+  {
+    "dataset": "cus_nonBol_conf",
+    "mode": "strict",
+    "n": 19,
+    "codons": 268,
+    "start_omega": 0.4,
+    "omega": 0.09842,
+    "lnL": -6158.002556
+  },
+  {
+    "dataset": "cus_nonBol_conf",
+    "mode": "strict",
+    "n": 19,
+    "codons": 268,
+    "start_omega": 1.5,
+    "omega": 0.09842,
+    "lnL": -6158.002556
+  },
+  {
+    "dataset": "cus_nonBol_conf",
+    "mode": "loose",
+    "n": 19,
+    "codons": 290,
+    "start_omega": 0.4,
+    "omega": 0.09965,
+    "lnL": -6611.468131
+  },
+  {
+    "dataset": "cus_nonBol_conf",
+    "mode": "loose",
+    "n": 19,
+    "codons": 290,
+    "start_omega": 1.5,
+    "omega": 0.09965,
+    "lnL": -6611.468131
+  }
+]

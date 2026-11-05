@@ -1,0 +1,38 @@
+[
+  {
+    "dataset": "SUS_conf",
+    "mode": "strict",
+    "n": 15,
+    "codons": 147,
+    "start_omega": 0.4,
+    "omega": 0.21949,
+    "lnL": -4618.814394
+  },
+  {
+    "dataset": "SUS_conf",
+    "mode": "strict",
+    "n": 15,
+    "codons": 147,
+    "start_omega": 1.5,
+    "omega": 0.21949,
+    "lnL": -4618.814394
+  },
+  {
+    "dataset": "SUS_conf",
+    "mode": "loose",
+    "n": 15,
+    "codons": 326,
+    "start_omega": 0.4,
+    "omega": 0.22671,
+    "lnL": -9730.108949
+  },
+  {
+    "dataset": "SUS_conf",
+    "mode": "loose",
+    "n": 15,
+    "codons": 326,
+    "start_omega": 1.5,
+    "omega": 0.22671,
+    "lnL": -9730.108949
+  }
+]

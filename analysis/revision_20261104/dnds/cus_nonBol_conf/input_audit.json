@@ -1,0 +1,162 @@
+[
+  {
+    "locus_id": "CUS_CAVMBW010000015_L1",
+    "status": "confirmed",
+    "included": true,
+    "cds_bp": 1011,
+    "ambiguous_bases": 0,
+    "sha256": "491c247416736011852ad11c7bce9cde4c1431d836dfeb0fcf408d0b9e6c72dd"
+  },
+  {
+    "locus_id": "CUS_JABYQR010000063_L1",
+    "status": "confirmed",
+    "included": true,
+    "cds_bp": 906,
+    "ambiguous_bases": 0,
+    "sha256": "64b2c02f7b418cade7e220828e7d823fe41c4b69bc2852bf29bcd213d8280674"
+  },
+  {
+    "locus_id": "CUS_JACCMO010000008_L1",
+    "status": "confirmed",
+    "included": true,
+    "cds_bp": 897,
+    "ambiguous_bases": 0,
+    "sha256": "e36e6535799d18df5bd38eec2b85d7178f61d142679d7570473579d666ee020b"
+  },
+  {
+    "locus_id": "CUS_JAFJTQ020000041_L1",
+    "status": "supported",
+    "included": true,
+    "cds_bp": 894,
+    "ambiguous_bases": 0,
+    "sha256": "0ae5109f5b3a70e55ea51e6a6d198077da734fc1d8743ce2eb019b2261d90583"
+  },
+  {
+    "locus_id": "CUS_JAKOOT010000021_L1",
+    "status": "confirmed",
+    "included": true,
+    "cds_bp": 1011,
+    "ambiguous_bases": 0,
+    "sha256": "dd172a8a2358d2a008d1c0cc472da199f7cd96b46168e6fb76cad819e9fa1f71"
+  },
+  {
+    "locus_id": "CUS_JAKTTD010000547_L1",
+    "status": "confirmed",
+    "included": true,
+    "cds_bp": 1011,
+    "ambiguous_bases": 0,
+    "sha256": "491c247416736011852ad11c7bce9cde4c1431d836dfeb0fcf408d0b9e6c72dd"
+  },
+  {
+    "locus_id": "CUS_JARJCM010000025_L1",
+    "status": "supported",
+    "included": true,
+    "cds_bp": 1020,
+    "ambiguous_bases": 0,
+    "sha256": "44cd657b66ed3a1eed310a12c1271fb12992f769442a8a184083e3d0a4b4aace"
+  },
+  {
+    "locus_id": "CUS_JARJCX010000004_L1",
+    "status": "confirmed",
+    "included": true,
+    "cds_bp": 1023,
+    "ambiguous_bases": 0,
+    "sha256": "80825574c880e123f37a94cbe05653aa15e645f3b0c215c9a8497cc10956604f"
+  },
+  {
+    "locus_id": "CUS_JARJCX010000328_L1",
+    "status": "supported",
+    "included": true,
+    "cds_bp": 1023,
+    "ambiguous_bases": 0,
+    "sha256": "02ae5d8901a436333882eae2389c6d9bbb763cc53dd19b60b73c5241d403d33a"
+  },
+  {
+    "locus_id": "CUS_JARKIB010000016_L1",
+    "status": "supported",
+    "included": true,
+    "cds_bp": 1020,
+    "ambiguous_bases": 0,
+    "sha256": "2aee5bbe7afbd008f66a42e71bdc934e529edc6b50c88a133173ac0a0ef88c98"
+  },
+  {
+    "locus_id": "CUS_JAVLWG010000008_L1",
+    "status": "confirmed",
+    "included": true,
+    "cds_bp": 897,
+    "ambiguous_bases": 0,
+    "sha256": "e36e6535799d18df5bd38eec2b85d7178f61d142679d7570473579d666ee020b"
+  },
+  {
+    "locus_id": "CUS_JAXQHM010000038_L1",
+    "status": "confirmed",
+    "included": true,
+    "cds_bp": 1011,
+    "ambiguous_bases": 0,
+    "sha256": "1e5b9e6975caacfa18a2e740306b905f7912b637edadef954336f11e3cd8caa7"
+  },
+  {
+    "locus_id": "CUS_JBEEQB010000010_L1",
+    "status": "confirmed",
+    "included": true,
+    "cds_bp": 897,
+    "ambiguous_bases": 0,
+    "sha256": "83888b7ac49d46d88066288b5ea645ee92559487a9e50f26a5066bddff40d4b5"
+  },
+  {
+    "locus_id": "CUS_JNHV02000108_L1",
+    "status": "uncertain",
+    "included": false,
+    "cds_bp": 891,
+    "ambiguous_bases": 0,
+    "sha256": "05d93f8422b60f8df99864963f299fead03a8a34c92a84f932f376ecbccee6b2"
+  },
+  {
+    "locus_id": "CUS_NJIJ01000084_L1",
+    "status": "confirmed",
+    "included": true,
+    "cds_bp": 1011,
+    "ambiguous_bases": 0,
+    "sha256": "1e5b9e6975caacfa18a2e740306b905f7912b637edadef954336f11e3cd8caa7"
+  },
+  {
+    "locus_id": "CUS_PTQT01000015_L1",
+    "status": "confirmed",
+    "included": true,
+    "cds_bp": 1011,
+    "ambiguous_bases": 0,
+    "sha256": "1e5b9e6975caacfa18a2e740306b905f7912b637edadef954336f11e3cd8caa7"
+  },
+  {
+    "locus_id": "CUS_VWSB01000009_L1",
+    "status": "confirmed",
+    "included": true,
+    "cds_bp": 1011,
+    "ambiguous_bases": 0,
+    "sha256": "3941108e91ce6c7d4760fb04afe55cfac85abd12723f17fdf04fdb1679606416"
+  },
+  {
+    "locus_id": "CUS_VWSC01000016_L1",
+    "status": "confirmed",
+    "included": true,
+    "cds_bp": 1011,
+    "ambiguous_bases": 0,
+    "sha256": "16f3aa3e4ff89bee814efa5bf56b74d1e33b366d2cfd96f5dfb6c2cdbe22ebf6"
+  },
+  {
+    "locus_id": "CUS_JBZWEJ010000015_A1",
+    "status": "supported",
+    "included": true,
+    "cds_bp": 957,
+    "ambiguous_bases": 0,
+    "sha256": "6ac00abcb3d917865e8556b7da541fc7be7a61721c87137f00a7e9f1809dfcfd"
+  },
+  {
+    "locus_id": "CUS_OZ188520_A1",
+    "status": "supported",
+    "included": true,
+    "cds_bp": 1011,
+    "ambiguous_bases": 0,
+    "sha256": "491c247416736011852ad11c7bce9cde4c1431d836dfeb0fcf408d0b9e6c72dd"
+  }
+]

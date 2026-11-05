@@ -1,0 +1,214 @@
+CODONML (in paml version 4.10.7, June 2023)  cus_Bol_sp_conf.codon.phy
+Model: One dN/dS ratio, 
+Codon frequency model: F3x4
+Site-class models: 
+ns =   4  ls = 269
+
+Codon usage in sequences
+------------------------------------------------------------------------------------------------------
+Phe TTT   4   1   3   5 | Ser TCT   5   1   1   4 | Tyr TAT   4   2   1   4 | Cys TGT   1   1   1   2
+    TTC   8  11   9   9 |     TCC   6   6   7   2 |     TAC   7   9   9   7 |     TGC   5   6   9   2
+Leu TTA   0   0   0   0 |     TCA   0   0   0   3 | *** TAA   0   0   0   0 | *** TGA   0   0   0   0
+    TTG   3   2   2   2 |     TCG   2   1   1   2 |     TAG   0   0   0   0 | Trp TGG   6   6   6   6
+------------------------------------------------------------------------------------------------------
+Leu CTT   8   4   3   2 | Pro CCT   5   3   5   4 | His CAT   3   2   4   3 | Arg CGT   3   3   3   4
+    CTC  12  16  17  13 |     CCC   7   6   3   4 |     CAC   5   4   1   4 |     CGC   4   3   2   9
+    CTA   0   0   0   1 |     CCA   1   1   2   5 | Gln CAA   6   5   5   1 |     CGA   0   0   0   0
+    CTG   0   0   1   5 |     CCG   0   2   0   3 |     CAG   4   5   6   7 |     CGG   0   1   0   1
+------------------------------------------------------------------------------------------------------
+Ile ATT   4   3   9   7 | Thr ACT  10   7   6   6 | Asn AAT   4   3   3   2 | Ser AGT   1   2   3   1
+    ATC   7  11   8  12 |     ACC  10  10  11   7 |     AAC   7   8   9   7 |     AGC   2   4   4   7
+    ATA   1   0   0   2 |     ACA   3   3   3   0 | Lys AAA   7   1   1   2 | Arg AGA   0   0   0   3
+Met ATG  11   9   9   4 |     ACG   2   4   3   1 |     AAG   6  11  15   8 |     AGG   1   1   1   1
+------------------------------------------------------------------------------------------------------
+Val GTT  10   5   3   4 | Ala GCT   7   6   7   3 | Asp GAT   0   5   7   2 | Gly GGT   3   3   4   2
+    GTC  11  13  12   9 |     GCC   6   7   6  10 |     GAC  12   9   7  10 |     GGC   8  13  10   5
+    GTA   0   4   4   3 |     GCA   1   2   4   4 | Glu GAA   5   6   6   8 |     GGA   2   1   1   3
+    GTG   4   2   3   4 |     GCG   3   5   3   2 |     GAG  10  10   6  12 |     GGG   2   0   0   4
+------------------------------------------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: CUS_JAGTXK010000090_L1
+position  1:    T:0.18959    C:0.21561    A:0.28253    G:0.31227
+position  2:    T:0.30855    C:0.25279    A:0.29740    G:0.14126
+position  3:    T:0.26766    C:0.43494    A:0.09665    G:0.20074
+Average         T:0.25527    C:0.30112    A:0.22553    G:0.21809
+
+#2: CUS_JBBPJK010006192_L1
+position  1:    T:0.17100    C:0.20446    A:0.28625    G:0.33829
+position  2:    T:0.30112    C:0.23792    A:0.29740    G:0.16357
+position  3:    T:0.18959    C:0.50558    A:0.08550    G:0.21933
+Average         T:0.22057    C:0.31599    A:0.22305    G:0.24040
+
+#3: CUS_JBBPKL010012429_L1
+position  1:    T:0.18216    C:0.19331    A:0.31599    G:0.30855
+position  2:    T:0.30855    C:0.23048    A:0.29740    G:0.16357
+position  3:    T:0.23420    C:0.46097    A:0.09665    G:0.20818
+Average         T:0.24164    C:0.29492    A:0.23668    G:0.22677
+
+#4: CUS_JBBPKX010002099_L1
+position  1:    T:0.17844    C:0.24535    A:0.26022    G:0.31599
+position  2:    T:0.30483    C:0.22305    A:0.28625    G:0.18587
+position  3:    T:0.20446    C:0.43494    A:0.13011    G:0.23048
+Average         T:0.22924    C:0.30112    A:0.22553    G:0.24411
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      13 | Ser S TCT      11 | Tyr Y TAT      11 | Cys C TGT       5
+      TTC      37 |       TCC      21 |       TAC      32 |       TGC      22
+Leu L TTA       0 |       TCA       3 | *** * TAA       0 | *** * TGA       0
+      TTG       9 |       TCG       6 |       TAG       0 | Trp W TGG      24
+------------------------------------------------------------------------------
+Leu L CTT      17 | Pro P CCT      17 | His H CAT      12 | Arg R CGT      13
+      CTC      58 |       CCC      20 |       CAC      14 |       CGC      18
+      CTA       1 |       CCA       9 | Gln Q CAA      17 |       CGA       0
+      CTG       6 |       CCG       5 |       CAG      22 |       CGG       2
+------------------------------------------------------------------------------
+Ile I ATT      23 | Thr T ACT      29 | Asn N AAT      12 | Ser S AGT       7
+      ATC      38 |       ACC      38 |       AAC      31 |       AGC      17
+      ATA       3 |       ACA       9 | Lys K AAA      11 | Arg R AGA       3
+Met M ATG      33 |       ACG      10 |       AAG      40 |       AGG       4
+------------------------------------------------------------------------------
+Val V GTT      22 | Ala A GCT      23 | Asp D GAT      14 | Gly G GGT      12
+      GTC      45 |       GCC      29 |       GAC      38 |       GGC      36
+      GTA      11 |       GCA      11 | Glu E GAA      25 |       GGA       7
+      GTG      13 |       GCG      13 |       GAG      38 |       GGG       6
+------------------------------------------------------------------------------
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.18030    C:0.21468    A:0.28625    G:0.31877
+position  2:    T:0.30576    C:0.23606    A:0.29461    G:0.16357
+position  3:    T:0.22398    C:0.45911    A:0.10223    G:0.21468
+Average         T:0.23668    C:0.30328    A:0.22770    G:0.23234
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+CUS_JAGTXK010000090_L1
+CUS_JBBPJK010006192_L1 0.0945 (0.1151 1.2181)
+CUS_JBBPKL010012429_L1 0.1251 (0.1505 1.2025) 0.4671 (0.0627 0.1341)
+CUS_JBBPKX010002099_L1 0.1993 (0.4110 2.0619) 0.1991 (0.4019 2.0187) 0.2003 (0.4158 2.0756)
+
+NSsites Model 7: beta (10 categories)
+
+TREE #  1:  (1, (2, 3), 4);   MP score: 363
+lnL(ntime:  5  np:  8):  -2590.672421      +0.000000
+   5..1     5..6     6..2     6..3     5..4  
+ 0.974711 0.266098 0.044900 0.224474 7.119080 4.817173 0.321443 1.527335
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per nucleotide site).
+
+tree length =  8.629263
+
+(1: 0.974711, (2: 0.044900, 3: 0.224474): 0.266098, 4: 7.119080);
+
+(CUS_JAGTXK010000090_L1: 0.974711, (CUS_JBBPJK010006192_L1: 0.044900, CUS_JBBPKL010012429_L1: 0.224474): 0.266098, CUS_JBBPKX010002099_L1: 7.119080);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  4.81717
+
+Parameters in M7 (beta):
+ p =   0.32144  q =   1.52733
+
+
+MLEs of dN/dS (w) for site classes (K=10)
+
+p:   0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000  0.10000
+w:   0.00005  0.00159  0.00781  0.02236  0.04941  0.09395  0.16261  0.26547  0.42141  0.68437
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   5..1      0.975   604.0   203.0  0.1709  0.1463  0.8561  88.4 173.8
+   5..6      0.266   604.0   203.0  0.1709  0.0399  0.2337  24.1  47.5
+   6..2      0.045   604.0   203.0  0.1709  0.0067  0.0394   4.1   8.0
+   6..3      0.224   604.0   203.0  0.1709  0.0337  0.1972  20.4  40.0
+   5..4      7.119   604.0   203.0  0.1709  1.0686  6.2529 645.4 1269.6
+
+
+
+NSsites Model 8: beta&w>1 (11 categories)
+
+TREE #  1:  (1, (2, 3), 4);   MP score: 363
+lnL(ntime:  5  np: 10):  -2590.037472      +0.000000
+   5..1     5..6     6..2     6..3     5..4  
+ 1.032633 0.294377 0.037750 0.237652 7.906978 4.930956 0.982678 0.342095 1.863893 3.135187
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per nucleotide site).
+
+tree length =  9.509390
+
+(1: 1.032633, (2: 0.037750, 3: 0.237652): 0.294377, 4: 7.906978);
+
+(CUS_JAGTXK010000090_L1: 1.032633, (CUS_JBBPJK010006192_L1: 0.037750, CUS_JBBPKL010012429_L1: 0.237652): 0.294377, CUS_JBBPKX010002099_L1: 7.906978);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  4.93096
+
+Parameters in M8 (beta&w>1):
+  p0 =   0.98268  p =   0.34209 q =   1.86389
+ (p1 =   0.01732) w =   3.13519
+
+
+MLEs of dN/dS (w) for site classes (K=11)
+
+p:   0.09827  0.09827  0.09827  0.09827  0.09827  0.09827  0.09827  0.09827  0.09827  0.09827  0.01732
+w:   0.00007  0.00180  0.00803  0.02166  0.04588  0.08461  0.14338  0.23133  0.36722  0.61228  3.13519
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   5..1      1.033   603.4   203.6  0.2033  0.1731  0.8513 104.4 173.3
+   5..6      0.294   603.4   203.6  0.2033  0.0493  0.2427  29.8  49.4
+   6..2      0.038   603.4   203.6  0.2033  0.0063  0.0311   3.8   6.3
+   6..3      0.238   603.4   203.6  0.2033  0.0398  0.1959  24.0  39.9
+   5..4      7.907   603.4   203.6  0.2033  1.3253  6.5187 799.6 1327.3
+
+
+Naive Empirical Bayes (NEB) analysis
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: CUS_JAGTXK010000090_L1)
+
+            Pr(w>1)     post mean +- SE for w
+
+    90 S      0.759         2.509
+   149 S      0.507         1.849
+
+
+Bayes Empirical Bayes (BEB) analysis (Yang, Wong & Nielsen 2005. Mol. Biol. Evol. 22:1107-1118)
+Positively selected sites (*: P>95%; **: P>99%)
+(amino acids refer to 1st sequence: CUS_JAGTXK010000090_L1)
+
+            Pr(w>1)     post mean +- SE for w
+
+    90 S      0.787         2.156 +- 1.542
+    92 V      0.623         1.797 +- 1.430
+   149 S      0.674         1.885 +- 1.425
+   154 S      0.582         1.652 +- 1.307
+   222 A      0.515         1.634 +- 1.516
+
+
+
+The grid 
+
+p0:   0.050  0.150  0.250  0.350  0.450  0.550  0.650  0.750  0.850  0.950
+p :   0.100  0.300  0.500  0.700  0.900  1.100  1.300  1.500  1.700  1.900
+q :   0.100  0.300  0.500  0.700  0.900  1.100  1.300  1.500  1.700  1.900
+ws:   1.500  2.500  3.500  4.500  5.500  6.500  7.500  8.500  9.500 10.500
+
+
+Posterior on the grid
+
+p0:   0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.017  0.983
+p :   0.980  0.020  0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000
+q :   0.000  0.000  0.073  0.350  0.308  0.149  0.059  0.024  0.015  0.021
+ws:   0.555  0.234  0.101  0.049  0.026  0.015  0.009  0.006  0.004  0.003

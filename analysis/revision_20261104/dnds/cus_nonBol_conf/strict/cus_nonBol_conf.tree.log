@@ -1,0 +1,129 @@
+IQ-TREE version 3.1.1 for Linux x86 64-bit built Apr  8 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    cn785.wexac.weizmann.ac.il (AVX512, FMA3, 250 GB RAM)
+Command: /home/labs/alevy/petrzhu/miniforge3/envs/phylo_env/bin/iqtree -s cus_nonBol_conf.codon.fna -st DNA -m GTR+G -T 2 -seed 20261104 -pre cus_nonBol_conf.tree -redo
+Seed:    20261104 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Nov  4 13:08:44 2026
+Kernel:  AVX+FMA - 2 threads (2 CPU cores detected)
+
+Reading alignment file cus_nonBol_conf.codon.fna ... Fasta format detected
+Reading fasta file: done in 0.000280055 secs using 21.78% CPU
+Alignment most likely contains DNA/RNA sequences
+Constructing alignment: done in 0.000689826 secs using 137.1% CPU
+Alignment has 19 sequences with 804 columns, 538 distinct patterns
+557 parsimony-informative, 86 singleton sites, 161 constant sites
+                        Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 1.87391e-05 secs using 96.06% CPU
+   1  CUS_CAVMBW010000015_L1    0.00%    passed     89.11%
+   2  CUS_JABYQR010000063_L1    0.00%    failed      4.58%
+   3  CUS_JACCMO010000008_L1    0.00%    passed      5.37%
+   4  CUS_JAFJTQ020000041_L1    0.00%    passed     65.32%
+   5  CUS_JAKOOT010000021_L1    0.00%    passed     97.30%
+   6  CUS_JAKTTD010000547_L1    0.00%    passed     89.11%
+   7  CUS_JARJCM010000025_L1    0.00%    passed     52.38%
+   8  CUS_JARJCX010000004_L1    0.00%    passed      6.63%
+   9  CUS_JARJCX010000328_L1    0.00%    passed      7.82%
+  10  CUS_JARKIB010000016_L1    0.00%    passed     50.13%
+  11  CUS_JAVLWG010000008_L1    0.00%    passed      5.37%
+  12  CUS_JAXQHM010000038_L1    0.00%    passed     99.12%
+  13  CUS_JBEEQB010000010_L1    0.00%    passed     10.33%
+  14  CUS_NJIJ01000084_L1       0.00%    passed     99.12%
+  15  CUS_PTQT01000015_L1       0.00%    passed     99.12%
+  16  CUS_VWSB01000009_L1       0.00%    passed     97.94%
+  17  CUS_VWSC01000016_L1       0.00%    passed     97.94%
+  18  CUS_JBZWEJ010000015_A1    0.00%    passed     68.66%
+  19  CUS_OZ188520_A1           0.00%    passed     89.11%
+****  TOTAL                     0.00%  1 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: CUS_JAKTTD010000547_L1 is identical to CUS_CAVMBW010000015_L1 but kept for subsequent analysis
+NOTE: CUS_JAVLWG010000008_L1 is identical to CUS_JACCMO010000008_L1 but kept for subsequent analysis
+NOTE: CUS_NJIJ01000084_L1 is identical to CUS_JAXQHM010000038_L1 but kept for subsequent analysis
+NOTE: CUS_VWSC01000016_L1 is identical to CUS_VWSB01000009_L1 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.000109888 secs using 459.6% CPU
+Identifying sites to remove: done in 0.000407511 secs using 99.87% CPU
+NOTE: 2 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: CUS_OZ188520_A1 (identical to CUS_CAVMBW010000015_L1) is ignored but added at the end
+NOTE: CUS_PTQT01000015_L1 (identical to CUS_JAXQHM010000038_L1) is ignored but added at the end
+Alignment was printed to cus_nonBol_conf.tree.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to cus_nonBol_conf.tree.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+
+NOTE: 1 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -6590.600
+2. Current log-likelihood: -6440.042
+3. Current log-likelihood: -6437.593
+4. Current log-likelihood: -6437.413
+Optimal log-likelihood: -6437.350
+Rate parameters:  A-C: 1.77929  A-G: 3.66075  A-T: 1.00368  C-G: 1.46123  C-T: 4.11655  G-T: 1.00000
+Base frequencies:  A: 0.228  C: 0.290  G: 0.253  T: 0.228
+Gamma shape alpha: 0.985
+Parameters optimization took 4 rounds (0.035 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.000518834 secs using 305.5% CPU
+Computing ML distances took 0.002291 sec (of wall-clock time) 0.003728 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000136612 secs using 104.7% CPU
+Constructing RapidNJ tree: done in 0.00499756 secs using 92.83% CPU
+Computing RapidNJ tree took 0.005257 sec (of wall-clock time) 0.004846 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -6442.262
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.099 second
+Computing log-likelihood of 98 initial trees ... 0.140 seconds
+Current best score: -6437.350
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -6436.547
+UPDATE BEST LOG-LIKELIHOOD: -6436.546
+Iteration 10 / LogL: -6436.548 / Time: 0h:0m:0s
+Iteration 20 / LogL: -6436.552 / Time: 0h:0m:1s
+Finish initializing candidate tree set (2)
+Current best tree score: -6436.546 / CPU time: 0.691
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -6436.546 / Time: 0h:0m:1s (0h:0m:2s left)
+Iteration 40 / LogL: -6521.502 / Time: 0h:0m:1s (0h:0m:2s left)
+Iteration 50 / LogL: -6436.550 / Time: 0h:0m:2s (0h:0m:1s left)
+Iteration 60 / LogL: -6521.467 / Time: 0h:0m:2s (0h:0m:1s left)
+Iteration 70 / LogL: -6481.072 / Time: 0h:0m:2s (0h:0m:1s left)
+Iteration 80 / LogL: -6479.831 / Time: 0h:0m:2s (0h:0m:0s left)
+Iteration 90 / LogL: -6481.156 / Time: 0h:0m:3s (0h:0m:0s left)
+Iteration 100 / LogL: -6479.891 / Time: 0h:0m:3s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:0m:3s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -6436.546
+Optimal log-likelihood: -6436.540
+Rate parameters:  A-C: 1.76641  A-G: 3.68359  A-T: 0.99810  C-G: 1.45709  C-T: 4.13769  G-T: 1.00000
+Base frequencies:  A: 0.228  C: 0.290  G: 0.253  T: 0.228
+Gamma shape alpha: 0.971
+Parameters optimization took 1 rounds (0.005 sec)
+BEST SCORE FOUND : -6436.540
+Total tree length: 4.172
+
+Total number of iterations: 102
+CPU time used for tree search: 5.903 sec (0h:0m:5s)
+Wall-clock time used for tree search: 3.154 sec (0h:0m:3s)
+Total CPU time used: 6.090 sec (0h:0m:6s)
+Total wall-clock time used: 3.596 sec (0h:0m:3s)
+
+Analysis results written to: 
+  IQ-TREE report:                cus_nonBol_conf.tree.iqtree
+  Maximum-likelihood tree:       cus_nonBol_conf.tree.treefile
+  Likelihood distances:          cus_nonBol_conf.tree.mldist
+  Screen log file:               cus_nonBol_conf.tree.log
+
+Date and Time: Wed Nov  4 13:08:47 2026

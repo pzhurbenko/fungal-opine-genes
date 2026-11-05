@@ -1,0 +1,30 @@
+[M::mm_idx_gen::1.931*1.11] collected minimizers
+[M::mm_idx_gen::2.007*1.51] sorted minimizers
+[M::main::2.007*1.51] loaded/built the index for 88 target sequence(s)
+[M::mm_mapopt_update::2.007*1.51] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 88
+[M::mm_idx_stat::2.122*1.48] distinct minimizers: 8205426 (91.29% are singletons); average occurrences: 1.219; average spacing: 6.147; total length: 61471697
+[M::worker_pipeline::5.640*6.41] mapped 495050 sequences
+[M::worker_pipeline::7.252*7.88] mapped 495050 sequences
+[M::worker_pipeline::8.980*8.85] mapped 495050 sequences
+[M::worker_pipeline::10.601*9.40] mapped 495050 sequences
+[M::worker_pipeline::12.213*9.88] mapped 495050 sequences
+[M::worker_pipeline::13.849*10.25] mapped 495050 sequences
+[M::worker_pipeline::15.553*10.56] mapped 495050 sequences
+[M::worker_pipeline::17.096*10.79] mapped 495050 sequences
+[M::worker_pipeline::18.839*10.99] mapped 495050 sequences
+[M::worker_pipeline::20.440*11.16] mapped 495050 sequences
+[M::worker_pipeline::22.092*11.27] mapped 495050 sequences
+[M::worker_pipeline::23.771*11.39] mapped 495050 sequences
+[M::worker_pipeline::25.374*11.49] mapped 495050 sequences
+[M::worker_pipeline::26.986*11.59] mapped 495050 sequences
+[M::worker_pipeline::28.709*11.66] mapped 495050 sequences
+[M::worker_pipeline::30.273*11.73] mapped 495050 sequences
+[M::worker_pipeline::32.005*11.80] mapped 495050 sequences
+[M::worker_pipeline::33.625*11.86] mapped 495050 sequences
+[M::worker_pipeline::35.209*11.91] mapped 495050 sequences
+[M::worker_pipeline::37.006*11.94] mapped 495050 sequences
+[M::worker_pipeline::38.022*11.73] mapped 418446 sequences
+[M::main] Version: 2.30-r1287
+[M::main] CMD: /home/labs/alevy/petrzhu/miniforge3/envs/minimap2_env/bin/minimap2 -ax sr -t 12 /home/labs/alevy/petrzhu/GMO/data/fungal_genomes/fusarium/fus/ncbi_dataset/data/GCA_000149955.2/GCA_000149955.2_ASM14995v2_genomic.fna /home/labs/alevy/petrzhu/GMO/analysis/revision_20261104/wgs/reads/SRR305351_1.fastq.gz /home/labs/alevy/petrzhu/GMO/analysis/revision_20261104/wgs/reads/SRR305351_2.fastq.gz
+[M::main] Real time: 38.138 sec; CPU: 445.945 sec; Peak RSS: 1.289 GB

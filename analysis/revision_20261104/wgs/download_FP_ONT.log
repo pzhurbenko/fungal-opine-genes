@@ -1,0 +1,54 @@
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) ncurses/6.4
+
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:22 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:23 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:24 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:25 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:26 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:27 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:28 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:29 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:30 --:--:--     0
+curl: (28) Operation timed out after 30002 milliseconds with 0 out of 0 bytes received
+Warning: Problem : timeout. Will retry in 1 seconds. 5 retries left.
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to ftp.sra.ebi.ac.uk port 443: Connection refused
+Traceback (most recent call last):
+  File "/home/labs/alevy/petrzhu/GMO/analysis/revision_20261104/wgs/download_reads.py", line 16, in <module>
+    subprocess.run(['curl','-fL','--retry','5','--connect-timeout','30','--speed-time','120',
+  File "/home/labs/alevy/petrzhu/miniforge3/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['curl', '-fL', '--retry', '5', '--connect-timeout', '30', '--speed-time', '120', '--speed-limit', '1000', '-C', '-', '-o', '/home/labs/alevy/petrzhu/GMO/analysis/revision_20261104/wgs/reads/SRR23927956_1.fastq.gz', 'https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR239/056/SRR23927956/SRR23927956_1.fastq.gz']' returned non-zero exit status 7.
+
+------------------------------------------------------------
+Sender: LSF System <DoNotReply>
+Subject: Job 154323: <GMO_DL_FP_ONT> in cluster <wexac> Exited
+
+Job <GMO_DL_FP_ONT> was submitted from host <login2> by user <petrzhu> in cluster <wexac> at Wed Nov  4 13:07:22 2026
+Job was executed on host(s) <cn428>, in queue <short>, as user <petrzhu> in cluster <wexac> at Wed Nov  4 13:07:38 2026
+</home/labs/alevy/petrzhu> was used as the home directory.
+</home/labs/alevy/petrzhu> was used as the working directory.
+Started at Wed Nov  4 13:07:38 2026
+Terminated at Wed Nov  4 13:08:21 2026
+Results reported at Wed Nov  4 13:08:21 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python3 /home/labs/alevy/petrzhu/GMO/analysis/revision_20261104/wgs/download_reads.py SRR23927956
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   2.80 sec.
+    Max Memory :                                 17 MB
+    Average Memory :                             15.62 MB
+    Total Requested Memory :                     1000.00 MB
+    Delta Memory :                               983.00 MB
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                6
+    Run time :                                   47 sec.
+    Turnaround time :                            59 sec.
+
+The output (if any) is above this job summary.
+

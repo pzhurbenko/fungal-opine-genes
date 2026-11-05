@@ -1,0 +1,18 @@
+CODONML in paml version 4.10.7, June 2023
+
+
+     1368 bytes for distance
+   260592 bytes for conP
+        0 bytes for fhK
+  5000000 bytes for space
+
+TREE #  1
+(1, (((((2, (((7, 10), (8, 9)), 18)), (((3, 11), 13), 4)), (5, ((12, 15), 14))), (16, 17)), 6), 19);   MP score: 1107
+  2215032 bytes for conP, adjusted
+
+ntime & nrate & np:    35     2    37
+Out..
+lnL  = -6158.002556
+4170 lfun, 4170 eigenQcodon, 145950 P(t)
+
+Time used:  1:14

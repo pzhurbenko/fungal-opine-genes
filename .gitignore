@@ -23,3 +23,7 @@ paper/submission/
 paper/supplementary/build_supplementary.log
 paper/supplementary/*.docx
 paper/supplementary/*.xlsx
+
+# Full PAML outputs are evidence for the revision analyses.
+!analysis/revision_20261104/dnds/**/*.out
+!analysis/dnds/**/*.out

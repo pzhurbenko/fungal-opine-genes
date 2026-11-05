@@ -15,3 +15,5 @@ nos-subfamily ODH, Boletales, confirmed or supported only (3 genes; star tree, M
 odh island: odh	5	324	324	0.48413	0.48413	-0.00	1	1	0	7	0.433	0.433	0
 odh island: pepP	2	383	383							1	0.137	0.137	0
 odh island: orf3	3	258	258							2	0.660	0.660	0
+sus-like, confirmed or supported only	15	147	326	0.21949	0.22671	n.d.	n.d.	n.d.	n.d.	n.d.	n.d.	n.d.	n.d.
+cus-like, outside Boletales, confirmed or supported only	19	268	290	0.09842	0.09965	n.d.	n.d.	n.d.	n.d.	n.d.	n.d.	n.d.	n.d.
