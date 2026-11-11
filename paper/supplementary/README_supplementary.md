@@ -2,7 +2,7 @@
 
 Supplementary methods and data for **Horizontal Acquisition and Evolution of Opine Metabolism Genes in Fungal Genomes**.
 
-Tables S1a–S20d are in `Supplementary_Tables.xlsx`. Each sheet begins with a title, legend and column names. Figures S1–S13 are in `figures/` and `figures_pdf/`. Methods are in `Extended_Methods.docx`; data files S1–S5 (including S2b) are described below. Plain-text table exports are in `tables_tsv/`.
+Tables S1a–S20d are in `Supplementary_Tables.xlsx`. Each sheet begins with a title, legend and column names. Figures S1–S13 are in `figures/` and `figures_pdf/`. Methods are in `Supplementary_Methods.docx`; data files S1–S5 (including S2b) are described below. Plain-text table exports are in `tables_tsv/`.
 
 ## Supplementary Tables
 

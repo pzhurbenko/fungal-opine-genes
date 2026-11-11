@@ -18,7 +18,7 @@ The pipeline builds gene models on assembly contigs and evaluates genomic contex
 | `paper/tables/` | `build_table1.py`, `build_catalog.py`, `check_order.py` and the main tables / catalogue inputs |
 | `paper/supplementary/` | `build_supplementary.py`, supplementary tables S1-S20, Data S1 (proteins of the loci), Data S2b (AU constraints, tar.gz), Data S3 (screened assemblies), tree files |
 | `paper/rebuild_all.sh` | Rebuilds figures (300 dpi PNG and 600 dpi TIFF) and the supplementary tables |
-| `docs/methods_extended.md` | Extended Methods: full, parameter-level description of the methods (section numbers follow Section 2 of the article) |
+| `docs/methods_extended.md` | Extended version of the Supplementary Methods (`Supplementary_Methods.docx`): full, parameter-level description of the methods (section numbers follow Section 2 of the article) |
 | `docs/thresholds.md` | Table of every numerical threshold of the classification, with the range over which the result is unchanged (copy of Table S4) |
 | `analysis/susD_screen/` | DIAMOND screen of the annotated proteomes for *Agrobacterium* susD (ARU12249.1) and susL (AAZ50401.1): `screen_one.sh`, `best_hits.tsv`, `SUMMARY.txt`, `README.md` |
 | `data/` | Small inputs only (BLAST hit table, representative sequences, assembly accession lists, proteome download script) |

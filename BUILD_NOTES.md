@@ -112,5 +112,14 @@ Removed: `analysis/report_A`, `analysis/report_B`, `analysis/quarantine`, `analy
   SUS/ACS AU reports -> `trees_final/SUS/SUS.AU.iqtree`, `trees_final/ACS/ACS.lineage.AU.iqtree`; `island_gene_order.tsv` -> `analysis/island_order/`;
   `dnds_summary.tsv` -> `analysis/dnds/`; `expression_summary.tsv` -> `analysis/expression/`; `locus_coverage.tsv` -> `analysis/read_coverage/`;
   `contig_reproducibility.tsv` -> `analysis/indep_assemblies/`.
-* `build_supplementary.py` takes `Extended_Methods.md` from `docs/methods_extended.md`.
+* `build_supplementary.py` builds `Supplementary_Methods.docx` from `paper/supplementary/src_supplementary_methods/Supplementary_Methods_submission.md` (the concise version; `docs/methods_extended.md` is the extended one).
 Added: `analysis/susD_screen/`, `paper/figures/make_graphical_abstract_v2.py`, `docs/thresholds.md`.
+
+## 2026-11-11: second review round
+
+* The methods supplement is now called Supplementary Methods (MDPI naming): `Extended_Methods.docx` -> `Supplementary_Methods.docx`,
+  source folder `src_extended_methods/` -> `src_supplementary_methods/`. The submitted archive carries DOCX only
+  (`Supplementary_Methods.docx`, `README_supplementary.docx`; the latter is made from `README_supplementary.md` by `readme_to_docx.py` in `make_zip.sh`).
+* Tables S1a and S1b: `taxonomic_family` was blank for 67 loci (chs-like and odh-island loci of Fusarium and Dactylonectria, nos-subfamily loci of
+  Boletus and Butyriboletus); filled with Nectriaceae and Boletaceae. The TSV files were corrected directly and `build_supplementary.py` now
+  fills these genera (`GENUS_FAMILY`); the full build was not re-run after this change.

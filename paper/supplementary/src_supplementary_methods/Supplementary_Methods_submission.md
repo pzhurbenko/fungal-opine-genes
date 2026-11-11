@@ -1,4 +1,4 @@
-## Extended Methods
+## Supplementary Methods
 
 Supplementary methods for: Horizontal Acquisition and Evolution of Opine Metabolism Genes in Fungal Genomes
 

@@ -117,6 +117,9 @@ status_map = lambda v: STATUS.get(v, v)
 MAIN_RAW = {r["group"] for r in rd(G + "/paper/tables/Table2a_lineages.tsv") if r["main_lineage"] == "True"}
 _cat = {r["locus_id"]: r for r in rd(G + "/paper/tables/TableS1_loci_catalog.tsv") if "ORF358" not in r["family"]}
 s1 = []
+# genera whose family is blank in the catalogue (loci added outside the profile screen): filled here so that
+# taxonomic_family is complete for all loci of the seven lineages (Tables S1a, S1b)
+GENUS_FAMILY = {"Fusarium": "Nectriaceae", "Dactylonectria": "Nectriaceae", "Boletus": "Boletaceae", "Butyriboletus": "Boletaceae"}
 for r in rd(G + "/paper/tables/TableS1_all_lineages.tsv"):
     c = _cat.get(r["locus_id"], {})
     row = dict(r)
@@ -125,7 +128,7 @@ for r in rd(G + "/paper/tables/TableS1_all_lineages.tsv"):
     assert row["lineage_of_bacterial_origin"] == r["origin"].startswith(("T-DNA", "non-T-DNA")), r["locus_id"]
     row["basis"] = c.get("basis", "")
     row["hmm_subgroup"] = c.get("hmm_subgroup", "")
-    row["division"] = c.get("division", ""); row["class"] = c.get("class", ""); row["family_tax"] = c.get("family_tax", "")
+    row["division"] = c.get("division", ""); row["class"] = c.get("class", ""); row["family_tax"] = c.get("family_tax", "") or GENUS_FAMILY.get((r.get("species") or "").split(" ")[0], "")
     row["species_cluster"] = c.get("species_cluster", ""); row["context_call"] = c.get("context_call", "")
     row["identity_T1T2"] = c.get("identity_T1T2", ""); row["species_source"] = c.get("species_source", "")
     s1.append(row)
@@ -1177,6 +1180,8 @@ print("models in ACS/CUS/SUS_models.faa without a row in the catalogue:", len(_m
 print("protein_length_aa: profile-screen loci whose model length differs from the previous value:", len(len_mism), len_mism[:15])
 s1a = [o for o in s1a_all if o["placed_on_tree"] == "yes"]
 s1a.sort(key=lambda r: (lineage_rank(r["lineage"], r["family"]), r["species"], r["contig"], num(r["start"]) or 0))
+for _r in s1a:
+    if not _r.get("taxonomic_family"): _r["taxonomic_family"] = GENUS_FAMILY.get((_r.get("species") or "").split(" ")[0], "")
 assert len(s1a) == n_placed_s19 == 254, (len(s1a), n_placed_s19)
 assert len(s1a_all) - len(s1a) == n_frag_s19 == 152, (len(s1a_all), n_frag_s19)
 fasta = []; src_cnt = collections.Counter(); noprot = collections.Counter()
@@ -1524,11 +1529,11 @@ with tarfile.open(os.path.join(OUT, "data", DATA_S4), "w:gz") as tf:
 shutil.rmtree(S4_TMP)
 _s4mb = os.path.getsize(os.path.join(OUT, "data", DATA_S4)) / 1e6
 print("Data S4: %d files, %.2f MB" % (len(s4_man) + 1, _s4mb)); assert _s4mb < 20
-# ---------------------------------------------------------------- Extended Methods: concise submission version (markdown) -> Extended_Methods.docx
-EXT_METHODS_SRC = OUT + "/src_extended_methods/Extended_Methods_submission.md"
+# ---------------------------------------------------------------- Supplementary Methods: concise submission version (markdown) -> Supplementary_Methods.docx
+EXT_METHODS_SRC = OUT + "/src_supplementary_methods/Supplementary_Methods_submission.md"
 
 def new_docx_document():
-    """A4 document with 2.5 cm margins and Palatino 10 pt (shared by Supplementary_Materials.docx and Extended_Methods.docx)"""
+    """A4 document with 2.5 cm margins and Palatino 10 pt (shared by Supplementary_Materials.docx and Supplementary_Methods.docx)"""
     from docx import Document
     from docx.shared import Cm, Pt
     doc = Document()
@@ -1617,9 +1622,9 @@ def md_to_docx(md_path, docx_path):
     doc.save(docx_path)
 
 if not os.path.exists(EXT_METHODS_SRC):
-    raise FileNotFoundError("Extended Methods source not found: " + EXT_METHODS_SRC + " (the concise submission version of the Extended Methods must be placed there)")
-md_to_docx(EXT_METHODS_SRC, os.path.join(OUT, "Extended_Methods.docx"))
-print("Extended_Methods.docx written")
+    raise FileNotFoundError("Supplementary Methods source not found: " + EXT_METHODS_SRC + " (the concise submission version of the Supplementary Methods must be placed there)")
+md_to_docx(EXT_METHODS_SRC, os.path.join(OUT, "Supplementary_Methods.docx"))
+print("Supplementary_Methods.docx written")
 DATA = [("S1", "Proteins of the loci of bacterial origin", DATA_S1),
         ("S2", "Protein-family trees, alignments and IQ-TREE reports", "Data_S2_trees_alignments.tar.gz"),
         ("S2b", "Constraint trees and IQ-TREE outputs of the AU tests", "Data_S2b_AU_constraints.tar.gz"),
@@ -1655,7 +1660,7 @@ def table_head(tid):
 
 with open(os.path.join(OUT, "README_supplementary.md"), "w") as fh:
     fh.write("# Supplementary Materials: Tables, Figures and Data\n\nTables S1a-S20d are in `Supplementary_Tables.xlsx` (one sheet per table; each sheet starts with the table title and legend, then the column header and the data; blank = not available). "
-             "This archive contains: `Supplementary_Tables.xlsx` (Tables S1a-S20d); `Supplementary_Materials.docx` (the legends of all figures, tables and data files); `Extended_Methods.docx` (Extended Methods, the full text of the Methods); `figures/` (Figures S1-S13 as PNG) and `figures_pdf/` (the same figures as PDF); the data files Data S1, S2, S2b, S3, S4 and S5, described at the end of this file; and this file. "
+             "This archive contains: `Supplementary_Tables.xlsx` (Tables S1a-S20d); `Supplementary_Materials.docx` (the legends of all figures, tables and data files); `Supplementary_Methods.docx` (Supplementary Methods, the full text of the Methods); `figures/` (Figures S1-S13 as PNG) and `figures_pdf/` (the same figures as PDF); the data files Data S1, S2, S2b, S3, S4 and S5, described at the end of this file; and this file. "
              "Nomenclature: families OCD fold (Sus), cucumopine synthase (Cus), GDPD, M24 aminopeptidase (Chs/Ags), opine dehydrogenase; "
              "lineages of bacterial origin (Table 2): sus-like, cus-like, chs-like, acc-type GDPD, pKerr14a-type acs-like, nos-subfamily opine dehydrogenase (Boletales), odh island; "
              "other groups of the catalogue (Table S1c): mis group, actinobacterial-type, native fungal GDPD, GDPD of unresolved position, OCD-like outside the sus-like clade.\n\n## Supplementary Tables\n\n")
@@ -1703,7 +1708,7 @@ except ImportError:
 # ---------------------------------------------------------------- Supplementary_Materials.md / .docx
 TITLE = "Horizontal Acquisition and Evolution of Opine Metabolism Genes in Fungal Genomes"
 md = ["# Supplementary Materials for: %s" % TITLE, "",
-      "This document contains the legends of Figures S1-S13, Tables S1a-S20d and Data S1-S5 and S2b. The tables are in Supplementary_Tables.xlsx (one sheet per table), the figures in the folders figures/ (PNG) and figures_pdf/ (PDF), the data files as named below. The full text of the Methods is given in Extended Methods (Extended_Methods.docx).", "", "## Figures", ""]
+      "This document contains the legends of Figures S1-S13, Tables S1a-S20d and Data S1-S5 and S2b. The tables are in Supplementary_Tables.xlsx (one sheet per table), the figures in the folders figures/ (PNG) and figures_pdf/ (PDF), the data files as named below. The full text of the Methods is given in Supplementary Methods (Supplementary_Methods.docx).", "", "## Figures", ""]
 for fid, ftitle, ffile, fcap in FIGS:
     md += ["![Figure S%s](%s)" % (fid[1:], ffile), "", "**Figure %s. %s.** %s" % (fid, ftitle, fcap), ""]
 md += ["## Tables", ""]
