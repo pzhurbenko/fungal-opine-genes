@@ -41,7 +41,7 @@ for g, ylab in rows:
     nc = rr[rr.o_bact_pid >= 90]; nonc = rr[rr.o_bact_pid < 90]
     axb.scatter(nonc.pident_seed, y0 + rng.uniform(-0.12, 0.12, len(nonc)), s=22, c=VERM, ec="white", lw=0.4, zorder=4)
     axb.scatter(nc.pident_seed, y0 + rng.uniform(-0.12, 0.12, len(nc)), s=30, c=BLUE, marker="x", lw=1.2, zorder=5)
-    axb.text(1.02, y0, f"n = {nn:,}", transform=axb.get_yaxis_transform(), va="center", ha="left", fontsize=7)
+    axb.text(1.02, y0, f"n = {nn}", transform=axb.get_yaxis_transform(), va="center", ha="left", fontsize=7)
     print(g, nn, f"non-fungal nearest {len(nonc)}, excluded as likely contamination {len(nc)}")
     for k, gen in enumerate(labels_wanted.get(g, [])):
         s = rr[rr.organism.str.startswith(gen)]
@@ -60,11 +60,11 @@ for t, lab in zip(ticks, tl):
         axb.text(-0.015, t, r"$\it{acs}$ (pKerr14a)", transform=axb.get_yaxis_transform(), ha="right", va="center", fontsize=8)
     else:
         axb.text(-0.015, t, lab, transform=axb.get_yaxis_transform(), ha="right", va="center", fontsize=8, style="italic")
-axb.set_xlabel("Identity of best fungal hit to seed protein (%)")
+axb.set_xlabel("Identity of best fungal hit to reference query protein (%)")
 axb.grid(axis="x", color="#e6e6e6", lw=0.5); axb.set_axisbelow(True)
 for s in ("top", "right"): axb.spines[s].set_visible(False)
 axb.tick_params(axis="y", length=0)
-h = [Line2D([], [], marker="o", ls="", ms=3, color=GREY, alpha=0.6, label="forward search: best hit per assembly"),
+h = [Line2D([], [], marker="o", ls="", ms=3, color=GREY, alpha=0.6, label="forward search: best hit per proteome"),
      Line2D([], [], marker="o", ls="", ms=5, color=VERM, mec="white", label="reverse search: closest relatives non-fungal (bacterial or plant)"),
      Line2D([], [], marker="x", ls="", ms=5, color=BLUE, mew=1.2, label="excluded as likely contamination (≥90% identical to a protein of a non-rhizobial soil bacterium)")]
 fig.legend(handles=h, loc="lower left", bbox_to_anchor=(0.02, 0.0), fontsize=6.5, frameon=False, ncol=1, handletextpad=0.3, labelspacing=0.3)

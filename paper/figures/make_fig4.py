@@ -116,14 +116,14 @@ LAB = {
                      'g23': ('IS481\ntransposase', 0, 1, 1), 'CUS_JAHRGV010000066_L1': ('$\\it{cus}$-like\n(pseudogene)', 2.5, -1, 0),
                      'g26': ('repeat', 0, 1, 0), 'g27': ('repeat', 0, 1, 0)},
  'JAHRGV010000067': {'ACS_JAHRGV010000067_L1': ('acc-type GDPD\n(pseudogene)', -2.5, 1, 0),
-                     'CUS_JAHRGV010000067_L1': ('$\\it{mis}$-lineage\ngene', 1.0, -1, 0), 'g30': ('nopaline-dehydrogenase-like', 6.0, 1, 0),
+                     'CUS_JAHRGV010000067_L1': ('$\\it{mis}$-group\ngene', 1.0, -1, 0), 'g30': ('$\\it{nos}$-subfamily opine dehydrogenase', 6.0, 1, 0),
                      'SUS_JAHRGV010000067_L1': ('$\\it{sus}$-like\nfragment', 0, -1, 0)},
  'JAHRGV010000044': {'CUS_JAHRGV010000044_L1': ('$\\it{cus}$-like\n(pseudogene)', 0, 1, 0),
                      'CUS_JAHRGV010000044_L2': ('$\\it{cus}$-like\n(intact)', 0, 1, 0)},
- 'JBBPJK010000045': {'CUS_JBBPJK010000045_L1': ('$\\it{mis}$-lineage\n(pseudogene)', -1.5, 1, 0),
+ 'JBBPJK010000045': {'CUS_JBBPJK010000045_L1': ('$\\it{mis}$-group\n(pseudogene)', -1.5, 1, 0),
                      'ACS_JBBPJK010000045_L1': ('acc-type GDPD\n(pseudogene)', 0, 1, 0)},
  'JBBPWX010000076': {'ACS_JBBPWX010000076_S2L1': ('acc-type GDPD\n(pseudogene)', -1.0, 1, 0),
-                     'CUS_JBBPWX010000076_S2L1': ('$\\it{mis}$-lineage\n(fragment)', 3.0, -1, 0)},
+                     'CUS_JBBPWX010000076_S2L1': ('$\\it{mis}$-group\n(fragment)', 3.0, -1, 0)},
 }
 PITCH = 1.8
 y = 0.45
@@ -148,7 +148,7 @@ for i, (ctg, (w0, w1), (gn, sp), gca) in enumerate(tracks):
     # left label
     fig.text((LM - 0.2) / FW, 1 - (y + (PITCH - 0.05) / 2) / FH,
              (f'$\\it{{{gn}}}$\n$\\it{{{sp}}}$' if not sp.startswith('sp.') else f'$\\it{{{gn}}}$\nsp. UT-M0000335')
-             + f'\n{ctg}\n{w0/1000:,.1f}\u2013{w1/1000:,.1f} kb',
+             + f'\n{ctg}\n{w0/1000:.1f}\u2013{w1/1000:.1f} kb',
              fontsize=FS, ha='right', va='center', linespacing=1.05)
     fig.text((LM + wk * KB + 0.15) / FW, 1 - (y + (PITCH - 0.05) / 2 - 0.0) / FH, f'{wk:.1f} kb', fontsize=FS, ha='left', va='center', fontweight='bold')
     axes_a.append(ax)
@@ -186,7 +186,7 @@ axm.plot([6.65, wb + 0.3], [2.35, 2.35], color='#666666', lw=0.4, clip_on=False)
 axm.add_patch(mp.Rectangle((0, 0.95), 1.313, 0.5, fc='#bfe3b4', ec='none'))
 axm.add_patch(mp.Rectangle((7.202, 0.95), 0.213, 0.5, fc='#bfe3b4', ec='none'))
 axm.add_patch(mp.Rectangle((1.313, 0.95), 5.889, 0.5, fc='#f3a58a', ec='none'))
-axm.text(wb + 0.4, 1.5, 'segment 1,313–7,202 bp (5.9 kb) absent from\nfive other assemblies of the species', fontsize=FS, va='center', clip_on=False, color='#a8472a')
+axm.text(wb + 0.4, 1.5, 'segment 1313–7202 bp (5.9 kb) absent from\nfive other assemblies of the species', fontsize=FS, va='center', clip_on=False, color='#a8472a')
 axm.text(wb + 0.4, 0.83, 'flanks (green) present in other assemblies', fontsize=FS, va='center', clip_on=False, color='#3d7a30')
 axm.set_clip_on(False)
 axm.axvline(1.313, color='k', ls=':', lw=0.8, ymax=1)
@@ -294,7 +294,7 @@ y_c_end = y_c + 0.25 + HC
 
 # ---------------- legend (bottom) ----------------
 leg = [('$\\it{sus}$-like', 'sus', 'sus'), ('$\\it{cus}$-like', 'cus', 'cus'), ('acc-type GDPD', 'acc', 'acc'),
-       ('pKerr14a-type $\\it{acs}$-like', 'kerr', 'kerr'), ('$\\it{mis}$ lineage', 'mis', 'mis'),
+       ('pKerr14a-type $\\it{acs}$-like', 'kerr', 'kerr'), ('$\\it{mis}$ group', 'mis', 'mis'),
        ('GDPD, unplaced', 'unpl', 'unpl'), ('opine dehydrogenase (nos/ocs-like)', 'nos', 'nos'),
        ('transposase / integrase', 'tn', 'tn')]
 def sw(ax, x, yy, cat, hatch=False, dashed=False):
