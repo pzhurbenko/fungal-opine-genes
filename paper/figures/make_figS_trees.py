@@ -159,7 +159,7 @@ def draw(fam):
                 fontweight='bold' if c in F3.KEY[fam] else 'normal')
     # title
     ax.text(0.3, H - 0.15, TITLE[fam], fontsize=8, fontweight='bold', va='top')
-    ax.text(0.3, H - 0.5, f'{n} sequences; {nsites}; model {model}; node labels SH-aLRT (%) / UFBoot (%), shown when UFBoot ≥ 50; '
+    ax.text(0.3, H - 0.5, f'{nsites}; model {model}; node labels SH-aLRT (%) / UFBoot (%), shown when UFBoot ≥ 50; '
             f'rooted as in Fig. 3', fontsize=6, va='top', color='#333333')
     # scale bar
     sb = 0.5 if maxd > 2 else 0.2
@@ -177,7 +177,7 @@ def draw(fam):
     # (legend sits in the bottom margin below the scale bar; adjust bottom if it overlaps)
     os.makedirs(OUTD, exist_ok=True)
     out = os.path.join(OUTD, f'Figure{OUTNAME[fam]}')
-    for ext, kw in (('png', dict(dpi=300 if n > 200 else 200)), ('svg', {}), ('pdf', {})):
+    for ext, kw in (('png', dict(dpi=750 if n > 300 else 600)), ('svg', {}), ('pdf', {})):
         fig.savefig(f'{out}.{ext}', **kw)
     plt.close(fig)
     print(f'{fam}: {n} leaves, {dict(counts)}, size cm {W} x {H:.1f}, font {fs:.1f} pt, model {model}')

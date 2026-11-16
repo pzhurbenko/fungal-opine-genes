@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Supplementary Figure: AU topology tests of all lineages, drawn from Table S11
-(supplementary/TableS11_Approximately_unbiased_AU_topology_tests.tsv). Split off Fig. 3 on 2026-10-12 (decision 6.3b).
+"""Supplementary Figure: AU topology tests of all lineages, drawn from Table S11a
+(supplementary/TableS11a_Approximately_unbiased_AU_topology_tests.tsv). Split off Fig. 3 on 2026-10-12 (decision 6.3b).
 Run: python make_figS_AU.py
 Blocks = runs of rows starting with tree_number 0 (one block per AU run); rows with tree_number 0 are the ML reference
 and are listed first (p = 1 by construction unless the reference tree was not the best)."""
@@ -14,7 +14,7 @@ from matplotlib.lines import Line2D
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 PAPER = os.path.dirname(HERE)
-TSV = glob.glob(os.path.join(PAPER, 'supplementary', 'TableS11_*.tsv'))[0]
+TSV = glob.glob(os.path.join(PAPER, 'supplementary', 'TableS11a_*.tsv'))[0]
 OUT = os.path.join(PAPER, 'supplementary', 'figures', 'FigureS8_AU_tests')
 
 plt.rcParams.update({'font.family': 'sans-serif', 'font.sans-serif': ['Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans'],
@@ -84,7 +84,7 @@ def main():
     ax.axvline(0.05, color='#333333', lw=0.8, ls='--', zorder=1)
     ax0.text(axl + axw * (-math.log10(0.05) + math.log10(2.0)) / (83 + math.log10(2.0)), H - 0.08, 'p = 0.05', fontsize=FS, ha='center', va='top')
     def Y(yc): return H - yc  # cm from top -> axes-cm from bottom
-    ax0.text(0.05, H - 0.1, 'AU tests of the monophyly constraints (Table S11)', fontsize=FS + 1.5, fontweight='bold', va='top')
+    ax0.text(0.05, H - 0.1, 'AU tests of the monophyly constraints (Table S11a)', fontsize=FS + 1.5, fontweight='bold', va='top')
     ax0.text(13.75, H - 0.1, 'ΔlnL', fontsize=FS, fontweight='bold', va='top')
     ax0.text(15.5, H - 0.1, 'p-AU', fontsize=FS, fontweight='bold', va='top')
     for r in rows:
@@ -110,7 +110,7 @@ def main():
                         Line2D([], [], marker='o', ls='', color=REJ, ms=4.0, label='constraint rejected (p < 0.05)')],
                loc='lower left', bbox_to_anchor=(0.01, 0.002), ncol=1, columnspacing=1.0, fontsize=FS, frameon=False, handletextpad=0.3, labelspacing=0.2)
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    for ext, kw in (('png', dict(dpi=300)), ('svg', {}), ('pdf', {})):
+    for ext, kw in (('png', dict(dpi=600)), ('svg', {}), ('pdf', {})):
         fig.savefig(f'{OUT}.{ext}', **kw)
     print('blocks', len(blocks), 'rows', sum(len(b[1]) for b in blocks), 'size cm', W, round(H, 2))
 

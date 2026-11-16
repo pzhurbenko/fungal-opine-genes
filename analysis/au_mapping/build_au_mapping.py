@@ -1,4 +1,4 @@
-"""Build the AU constraint mapping (Table S11 companion) and the au_constraints data folder.
+"""Build the AU constraint mapping (Table S11a companion) and the au_constraints data folder.
 Leaf sets are derived from the actual constraint Newick files; texts are curated below.
 Run:  python3 -I build_au_mapping.py
 """
@@ -334,7 +334,7 @@ a("ODH-8", "The island genes lie inside the nos subfamily.",
   "Rejected (p = 1.4e-51).", "Negative test.")
 
 # ---------------------------------------------------------------- build
-s11 = list(csv.DictReader(open(SUP + "/TableS11_Approximately_unbiased_AU_topology_tests.tsv"), delimiter="\t"))
+s11 = list(csv.DictReader(open(SUP + "/TableS11a_Approximately_unbiased_AU_topology_tests.tsv"), delimiter="\t"))
 rows_by_run = []
 run = -1
 for r in s11:

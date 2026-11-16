@@ -2,6 +2,12 @@
 """Build Supplementary Tables (Biology/MDPI) from the finished analysis tables.
 
 Re-runnable; reads only existing files, writes only into this directory.
+
+Note (2026-11-16, proofs stage): at the editor's request Table S11 was renamed Table S11a and Data S2 was renamed
+Data S2a. The rename was applied directly to the shipped files (Supplementary_Materials.docx, Supplementary_Tables.xlsx,
+README, Supplementary Methods, tables_tsv, Data_S2a_trees_alignments.tar.gz) and to the Markdown sources in this
+directory; the Data S5 legend was added to Supplementary_Materials.docx. This script still uses the earlier labels
+(sheet "S11", "Data S2") internally and would have to be updated before a full rebuild.
 Run with the paper_build python to also get Supplementary_Tables.xlsx (openpyxl).
 """
 import sys as _sys, os as _os; _sys.path.insert(0, _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..', '..')))

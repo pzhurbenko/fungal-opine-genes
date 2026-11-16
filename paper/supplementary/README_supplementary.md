@@ -2,7 +2,7 @@
 
 Supplementary methods and data for **Horizontal Acquisition and Evolution of Opine Metabolism Genes in Fungal Genomes**.
 
-Tables S1a–S20d are in `Supplementary_Tables.xlsx`. Each sheet begins with a title, legend and column names. Figures S1–S13 are in `figures/` and `figures_pdf/`. Methods are in `Supplementary_Methods.docx`; data files S1–S5 (including S2b) are described below. Plain-text table exports are in `tables_tsv/`.
+Tables S1a–S20d are in `Supplementary_Tables.xlsx`. Each sheet begins with a title, legend and column names. Figures S1–S13 are in `figures/` and `figures_pdf/`. Methods are in `Supplementary_Methods.docx`; data files S1–S5 are described below. Plain-text table exports are in `tables_tsv/`.
 
 ## Supplementary Tables
 
@@ -387,9 +387,9 @@ Loci in Boletales assemblies matching bacterial opine (nopaline) dehydrogenase q
 | note | Reason for a manual reclassification, or other comment on the locus |
 
 
-### Table S11. Approximately unbiased (AU) topology tests
+### Table S11a. Approximately unbiased (AU) topology tests
 
-Sheet `S11` (73 data rows).
+Sheet `S11a` (73 data rows).
 
 AU tests of constrained topologies against the unconstrained ML tree, per family (IQ-TREE, 10,000 RELL resamplings). Verdict: rejected if p-AU < 0.05. The first row of each family is the unconstrained ML tree used as the reference (its deltaL is not necessarily 0 when a constrained tree has a higher likelihood). Within each family, Holm adjustment of the p-values over the listed constraints changes no verdict. Where a family has several reference rows, the rows form separate runs (separate user-tree sets), and p-values are comparable only within a run.
 
@@ -409,14 +409,14 @@ AU tests of constrained topologies against the unconstrained ML tree, per family
 
 Sheet `S11b` (60 data rows).
 
-One row per constraint (constraint_id = run code and tree number, e.g. ODH-1; the same identifier is the folder key in Data S2b). Columns: tested_topology_constraint, p_AU, deltaL and verdict repeat Table S11; biological_alternative, the hypothesis the constraint stands for; constraint_definition, the leaf sets forced into one clade, read from the constraint tree actually used (all other leaves free; the forced clade must contain exactly the listed leaves); constraint_leaves, candidate_leaves (fungal genes under test) and partner_leaves, the numbers of leaves; partner_set_monophyletic_in_ML_tree, whether the partner (non-candidate) leaves of the constraint form a clade in the unconstrained ML tree after the fungal genes under test are pruned from it; native_fungal_set_in_constraint and native_set_monophyletic_in_ML_tree, the same for constraints that force a native fungal set into the clade (yes/no/n.a.); interpretation, what rejection or non-rejection means; caveat, limits on that reading. Where the native fungal set is not itself monophyletic in the ML tree (SUS_nat-3 and -4, ACS-4, ACS_nat-7, NOS_nat-4 and -5, NOS_rh-7 and -8, ODH-1 and -2), rejection of the constraint shows that the fungal genes do not fall inside one clade with all of those native genes, not by itself that they are of non-fungal origin; the control ODH-3 (native fungal ODH forced together, island free) is itself rejected (p = 0.0064). Non-rejection is compatibility only. The constraint trees and the IQ-TREE outputs of the constrained searches are in Data S2b.
+One row per constraint (constraint_id = run code and tree number, e.g. ODH-1; the same identifier is the folder key in Data S2b). Columns: tested_topology_constraint, p_AU, deltaL and verdict repeat Table S11a; biological_alternative, the hypothesis the constraint stands for; constraint_definition, the leaf sets forced into one clade, read from the constraint tree actually used (all other leaves free; the forced clade must contain exactly the listed leaves); constraint_leaves, candidate_leaves (fungal genes under test) and partner_leaves, the numbers of leaves; partner_set_monophyletic_in_ML_tree, whether the partner (non-candidate) leaves of the constraint form a clade in the unconstrained ML tree after the fungal genes under test are pruned from it; native_fungal_set_in_constraint and native_set_monophyletic_in_ML_tree, the same for constraints that force a native fungal set into the clade (yes/no/n.a.); interpretation, what rejection or non-rejection means; caveat, limits on that reading. Where the native fungal set is not itself monophyletic in the ML tree (SUS_nat-3 and -4, ACS-4, ACS_nat-7, NOS_nat-4 and -5, NOS_rh-7 and -8, ODH-1 and -2), rejection of the constraint shows that the fungal genes do not fall inside one clade with all of those native genes, not by itself that they are of non-fungal origin; the control ODH-3 (native fungal ODH forced together, island free) is itself rejected (p = 0.0064). Non-rejection is compatibility only. The constraint trees and the IQ-TREE outputs of the constrained searches are in Data S2b.
 
 | Column | Description |
 |---|---|
-| constraint_id | Identifier of the constraint (run code and tree number), as in Table S11 and Data S2b |
+| constraint_id | Identifier of the constraint (run code and tree number), as in Table S11a and Data S2b |
 | family | Protein family |
 | tree_number | Tree number in the IQ-TREE user-tree set |
-| tested_topology_constraint | Tested topology (constraint), as in Table S11 |
+| tested_topology_constraint | Tested topology (constraint), as in Table S11a |
 | p_AU | p-value of the AU test |
 | deltaL | Log-likelihood difference from the best tree |
 | verdict | rejected / not rejected (p-AU < 0.05) |
@@ -738,7 +738,7 @@ Pairwise comparison of every plant cT-DNA and fungal T-DNA-candidate protein wit
 
 Sheet `S18` (9 data rows).
 
-The seven lineages of bacterial origin (cus-like split into Boletales and other orders): evidence by the three criteria of the Introduction (rows 1-5), the prerequisite that contamination is excluded (rows 6-7), the fate of the genes (row 8) and the closest sampled relatives (row 9); Table 3 of the main text gives the same lineages in words. Clusters with: the bacterial genes with which the fungal genes group in the tree of the family, with the support of the node that joins them (SH-aLRT/UFBoot, %; the support of the fungal clade itself is in Figure 3 of the main text); the alternative placements rejected by the AU test, and which constraints are informative, are in Tables S11 and S11b. For the pKerr14a-type lineage the grouping node is weakly supported and placement with the acc-type GDPD is not rejected (p = 0.415 and 0.132), so criterion 1 is met with low confidence. Patchy distribution: species with the gene among the species screened (358 species-level clusters of Boletales; 90 species of Fusarium and relatives; Tables S6, S7). Genomic context: a single gene among fungal genes or an island with genes of other acquired lineages (Table S12). Intact genes with introns: genes with at least one intron over all intact genes of the lineage (Table S1a). GC: median difference of the genes' GC from the carrier genome in percentage points (Boletales, from the median of the neighbouring genes; Fusarium, from the assembly) and the number of genes above the 95th percentile of the genome's genes (Table S14); met, at least half of the genes above that percentile or a difference above 5 points; partly, fewer than half; not met otherwise. Contamination excluded by: the tests passed by at least one locus of the lineage: F, fungal genes on both flanks; A, the locus at the same place with the same flanks in an independent assembly of the species (Table S9); S, a gene of the lineage present in several assemblies of the species, flanks not compared; C, the locus on an assembled chromosome; R, read depth equal to the genome and reads spanning the junctions (Tables S8, S20); P, no plasmid vir, tra or rep genes on the contig (Table S5b); a letter is omitted when the test was not done. Loci with integration confirmed / supported / not assessable: per-locus status (Table S1a, column integration_status; rules in Methods 2.5 of the main text). omega, dN/dS of the M0 model (Table S15; in parentheses, pairs with dS <= 2); transcription from RNA-seq (Table S16); n.d., not determined. Closest sampled relatives and locus context: affinities, not established sources of transfer. Numbers of loci, assemblies and species are in Table 2 of the main text.
+The seven lineages of bacterial origin (cus-like split into Boletales and other orders): evidence by the three criteria of the Introduction (rows 1-5), the prerequisite that contamination is excluded (rows 6-7), the fate of the genes (row 8) and the closest sampled relatives (row 9); Table 3 of the main text gives the same lineages in words. Clusters with: the bacterial genes with which the fungal genes group in the tree of the family, with the support of the node that joins them (SH-aLRT/UFBoot, %; the support of the fungal clade itself is in Figure 3 of the main text); the alternative placements rejected by the AU test, and which constraints are informative, are in Tables S11a and S11b. For the pKerr14a-type lineage the grouping node is weakly supported and placement with the acc-type GDPD is not rejected (p = 0.415 and 0.132), so criterion 1 is met with low confidence. Patchy distribution: species with the gene among the species screened (358 species-level clusters of Boletales; 90 species of Fusarium and relatives; Tables S6, S7). Genomic context: a single gene among fungal genes or an island with genes of other acquired lineages (Table S12). Intact genes with introns: genes with at least one intron over all intact genes of the lineage (Table S1a). GC: median difference of the genes' GC from the carrier genome in percentage points (Boletales, from the median of the neighbouring genes; Fusarium, from the assembly) and the number of genes above the 95th percentile of the genome's genes (Table S14); met, at least half of the genes above that percentile or a difference above 5 points; partly, fewer than half; not met otherwise. Contamination excluded by: the tests passed by at least one locus of the lineage: F, fungal genes on both flanks; A, the locus at the same place with the same flanks in an independent assembly of the species (Table S9); S, a gene of the lineage present in several assemblies of the species, flanks not compared; C, the locus on an assembled chromosome; R, read depth equal to the genome and reads spanning the junctions (Tables S8, S20); P, no plasmid vir, tra or rep genes on the contig (Table S5b); a letter is omitted when the test was not done. Loci with integration confirmed / supported / not assessable: per-locus status (Table S1a, column integration_status; rules in Methods 2.5 of the main text). omega, dN/dS of the M0 model (Table S15; in parentheses, pairs with dS <= 2); transcription from RNA-seq (Table S16); n.d., not determined. Closest sampled relatives and locus context: affinities, not established sources of transfer. Numbers of loci, assemblies and species are in Table 2 of the main text.
 
 | Column | Description |
 |---|---|
@@ -819,43 +819,43 @@ The 11 thresholds of the classification of proteins, loci and contigs are shown 
 
 Files: `figures/FigureS2_tree_sus.png` (PDF: `figures_pdf/FigureS2_tree_sus.pdf`)
 
-The fungal sus-like genes lie within the clade of T-DNA sus genes. Full maximum-likelihood tree of the OCD-fold family (125 sequences, 434 sites, Q.PFAM+R5), from which panel (a) of Figure 3 was collapsed. Leaf colours: T-DNA sus clade (fungal sus-like genes with the Ti/Ri plasmid and plant cT-DNA references), Rhizobiales chromosomal OCD, other bacterial OCD, native fungal homologs, outgroup; key lineages in bold. Node labels, SH-aLRT/UFBoot (%), shown when UFBoot is at least 50; rooted as in Figure 3; scale bar, substitutions per site. Tree, alignment and IQ-TREE report in Data S2 (sus.*).
+The fungal sus-like genes lie within the clade of T-DNA sus genes. Full maximum-likelihood tree of the OCD-fold family (125 sequences, 434 sites, Q.PFAM+R5), from which panel (a) of Figure 3 was collapsed. Leaf colours: T-DNA sus clade (fungal sus-like genes with the Ti/Ri plasmid and plant cT-DNA references), Rhizobiales chromosomal OCD, other bacterial OCD, native fungal homologs, outgroup; key lineages in bold. Node labels, SH-aLRT/UFBoot (%), shown when UFBoot is at least 50; rooted as in Figure 3; scale bar, substitutions per site. Tree, alignment and IQ-TREE report in Data S2a (sus.*).
 
 ### Figure S3. Full tree of the cucumopine synthase family (Cus)
 
 Files: `figures/FigureS3_tree_cus.png` (PDF: `figures_pdf/FigureS3_tree_cus.pdf`)
 
-The fungal cus-like genes lie within the T-DNA cus clade, interleaved with the references. Full maximum-likelihood tree of the cucumopine synthase family (436 sequences, 810 sites, JTT+R7), from which panel (b) of Figure 3 was collapsed: T-DNA cus clade (fungal cus-like genes of Boletales and of other orders with the Ti/Ri plasmid, plant cT-DNA and four other bacterial references), actinobacterial-type clade, mis group, other bacterial homologs, outgroup. In panel (b) of Figure 3 one native fungal gene detected by the cus profile (Boletus austroedulis; excluded from the analysis) is omitted from the schematic; it is labelled here as "native fungal gene, excluded". Supports, rooting and scale as in Figure S2; because of the size of the tree the labels are small and the vector files (PDF, in figures_pdf/) should be used for reading. Data S2: cus.*.
+The fungal cus-like genes lie within the T-DNA cus clade, interleaved with the references. Full maximum-likelihood tree of the cucumopine synthase family (436 sequences, 810 sites, JTT+R7), from which panel (b) of Figure 3 was collapsed: T-DNA cus clade (fungal cus-like genes of Boletales and of other orders with the Ti/Ri plasmid, plant cT-DNA and four other bacterial references), actinobacterial-type clade, mis group, other bacterial homologs, outgroup. In panel (b) of Figure 3 one native fungal gene detected by the cus profile (Boletus austroedulis; excluded from the analysis) is omitted from the schematic; it is labelled here as "native fungal gene, excluded". Supports, rooting and scale as in Figure S2; because of the size of the tree the labels are small and the vector files (PDF, in figures_pdf/) should be used for reading. Data S2a: cus.*.
 
 ### Figure S4. Full tree of the M24 aminopeptidase family (Chs, Ags)
 
 Files: `figures/FigureS4_tree_chs.png` (PDF: `figures_pdf/FigureS4_tree_chs.pdf`)
 
-The Fusarium chs-like genes are sister to the Ti-plasmid chs clade and are not nested within it. Full maximum-likelihood tree of the M24 aminopeptidase family (58 sequences, 687 sites, Q.PFAM+I+G4), from which panel (c) of Figure 3 was collapsed: Fusarium and Dactylonectria chs-like genes, Ti-plasmid chs clade (the chs of pTi14-818c and other agrobacterial chs), native fungal Ags homologs, other bacterial M24 aminopeptidases; rooted on the ags reference query. Supports and scale as in Figure S2. Data S2: chs.*.
+The Fusarium chs-like genes are sister to the Ti-plasmid chs clade and are not nested within it. Full maximum-likelihood tree of the M24 aminopeptidase family (58 sequences, 687 sites, Q.PFAM+I+G4), from which panel (c) of Figure 3 was collapsed: Fusarium and Dactylonectria chs-like genes, Ti-plasmid chs clade (the chs of pTi14-818c and other agrobacterial chs), native fungal Ags homologs, other bacterial M24 aminopeptidases; rooted on the ags reference query. Supports and scale as in Figure S2. Data S2a: chs.*.
 
 ### Figure S5. Full tree of the GDPD family
 
 Files: `figures/FigureS5_tree_gdpd.png` (PDF: `figures_pdf/FigureS5_tree_gdpd.pdf`)
 
-The acc-type and pKerr14a-type GDPD genes group with the GDPD of rhizobial acc-like loci and with the acs of pKerr14a, respectively, and not with the T-DNA acs clade. Full maximum-likelihood tree of the GDPD family (259 sequences, 989 sites, JTT+R5), from which panel (d) of Figure 3 was collapsed: T-DNA acs clade, acc-type GDPD with the bacterial acc-locus references, pKerr14a-type acs-like with the acs of pKerr14a and the Parasponia cT-DNA fragment, native fungal GDPD, fungal GDPD of unresolved position, outgroup. Supports, rooting and scale as in Figure S2. Data S2: gdpd.*.
+The acc-type and pKerr14a-type GDPD genes group with the GDPD of rhizobial acc-like loci and with the acs of pKerr14a, respectively, and not with the T-DNA acs clade. Full maximum-likelihood tree of the GDPD family (259 sequences, 989 sites, JTT+R5), from which panel (d) of Figure 3 was collapsed: T-DNA acs clade, acc-type GDPD with the bacterial acc-locus references, pKerr14a-type acs-like with the acs of pKerr14a and the Parasponia cT-DNA fragment, native fungal GDPD, fungal GDPD of unresolved position, outgroup. Supports, rooting and scale as in Figure S2. Data S2a: gdpd.*.
 
 ### Figure S6. Full tree of the opine dehydrogenase family, nos subfamily
 
 Files: `figures/FigureS6_tree_nos.png` (PDF: `figures_pdf/FigureS6_tree_nos.pdf`)
 
-The nos-subfamily genes of Boletales form a clade sister to the bacterial genes of the subfamily; the Rhypophila homolog is shown but not assigned to any lineage. Full maximum-likelihood tree of the opine dehydrogenase family around the nos subfamily (64 sequences, 390 sites, Q.PFAM+R4), from which panel (e) of Figure 3 was collapsed: nos-subfamily genes of Boletales, the Rhypophila nos homolog, T-DNA nos clade, rhizobial nos-like genes, odh-island genes, native fungal and other bacterial opine dehydrogenases; rooted on the ocs/vis reference queries. Supports and scale as in Figure S2. Data S2: nos.*.
+The nos-subfamily genes of Boletales form a clade sister to the bacterial genes of the subfamily; the Rhypophila homolog is shown but not assigned to any lineage. Full maximum-likelihood tree of the opine dehydrogenase family around the nos subfamily (64 sequences, 390 sites, Q.PFAM+R4), from which panel (e) of Figure 3 was collapsed: nos-subfamily genes of Boletales, the Rhypophila nos homolog, T-DNA nos clade, rhizobial nos-like genes, odh-island genes, native fungal and other bacterial opine dehydrogenases; rooted on the ocs/vis reference queries. Supports and scale as in Figure S2. Data S2a: nos.*.
 
 ### Figure S7. Full tree of the opine dehydrogenase family, odh island
 
 Files: `figures/FigureS7_tree_odh.png` (PDF: `figures_pdf/FigureS7_tree_odh.pdf`)
 
-The odh-island genes of Fusarium are sister to the plasmid opine dehydrogenase of Agrobacterium larrymoorei. Full maximum-likelihood tree of the opine dehydrogenase family around the odh island (44 sequences, 423 sites, Q.PFAM+G4), from which panel (f) of Figure 3 was collapsed: odh-island genes of F. poae and F. langsethiae, the plasmid opine dehydrogenase of A. larrymoorei (donor locus), nos subfamily, native fungal and other bacterial opine dehydrogenases; rooted on the ocs/vis reference queries. Supports and scale as in Figure S2. Data S2: odh.*.
+The odh-island genes of Fusarium are sister to the plasmid opine dehydrogenase of Agrobacterium larrymoorei. Full maximum-likelihood tree of the opine dehydrogenase family around the odh island (44 sequences, 423 sites, Q.PFAM+G4), from which panel (f) of Figure 3 was collapsed: odh-island genes of F. poae and F. langsethiae, the plasmid opine dehydrogenase of A. larrymoorei (donor locus), nos subfamily, native fungal and other bacterial opine dehydrogenases; rooted on the ocs/vis reference queries. Supports and scale as in Figure S2. Data S2a: odh.*.
 
 ### Figure S8. Approximately unbiased (AU) tests of the lineage hypotheses
 
 Files: `figures/FigureS8_AU_tests.png` (PDF: `figures_pdf/FigureS8_AU_tests.pdf`)
 
-AU tests of the topological constraints for all lineages, drawn from Table S11. Each row is one constrained tree; the dot shows p-AU on a logarithmic scale (dashed line, p = 0.05); squares mark the unconstrained maximum-likelihood tree of each run; dlnL, log-likelihood difference from the best tree. Yellow, constraint not rejected; black, rejected. Hypotheses are worded as in Table S11 (Methods 2.6).
+AU tests of the topological constraints for all lineages, drawn from Table S11a. Each row is one constrained tree; the dot shows p-AU on a logarithmic scale (dashed line, p = 0.05); squares mark the unconstrained maximum-likelihood tree of each run; dlnL, log-likelihood difference from the best tree. Yellow, constraint not rejected; black, rejected. Hypotheses are worded as in Table S11a (Methods 2.6).
 
 ### Figure S9. Structural phylogeny of the GDPD family
 
@@ -895,9 +895,9 @@ File: `Data_S1_proteins_of_loci_of_bacterial_origin.faa`
 
 Predicted protein sequences of the loci of Table S1a (the 254 loci of the seven lineages: 239 placed on the trees directly or through a representative, 13 fragments assigned by identity, 2 added from NCBI annotations after the trees were built; the fragments assigned by profile only are not included). Header: `>locus_id lineage= status= species= assembly= coords=contig:start-end(strand)`; stop codons of pseudogenes are kept as `*`. Sources: gene models of the profile screen (185; 172 models of intact genes and pseudogenes, 13 translations of fragments and remnants), the NCBI protein annotations of the two cus-like loci added after the trees were built (2), miniprot translations of the chs-like and odh-island loci of the targeted scans (61), and miniprot models of the nos-subfamily opine dehydrogenase of Boletales (6). Every locus of Table S1a has a sequence. FASTA file (254 sequences).
 
-### Data S2. Protein-family trees, alignments and IQ-TREE reports
+### Data S2a. Protein-family trees, alignments and IQ-TREE reports
 
-File: `Data_S2_trees_alignments.tar.gz`
+File: `Data_S2a_trees_alignments.tar.gz`
 
 For each of the protein-family trees of Figure 3 and Figures S2-S7 (sus, cus, chs, gdpd, nos, odh): the maximum-likelihood tree with SH-aLRT/UFBoot supports (`<family>.treefile`), the UFBoot consensus tree (`<family>.contree`), the trimmed protein alignment given to IQ-TREE (`<family>.aln.faa`) and the IQ-TREE report with model and run settings (`<family>.iqtree`). MANIFEST.tsv lists for each file the family, the number of sequences and sites and the substitution model. Compressed archive (tar.gz).
 
@@ -905,7 +905,7 @@ For each of the protein-family trees of Figure 3 and Figures S2-S7 (sus, cus, ch
 
 File: `Data_S2b_AU_constraints.tar.gz`
 
-Constraint trees (Newick) and IQ-TREE outputs (.treefile, .iqtree, .log) of the 60 constrained maximum-likelihood searches behind Table S11, with the IQ-TREE AU reports (.iqtree, .log, .trees) and the user-tree sets of each run; MANIFEST.tsv gives for each constraint_id (as in Tables S11 and S11b) the files. Layout <family>/<run>/{constraint,search,run}. Compressed archive (tar.gz, 2.1 MB).
+Constraint trees (Newick) and IQ-TREE outputs (.treefile, .iqtree, .log) of the 60 constrained maximum-likelihood searches behind Table S11a, with the IQ-TREE AU reports (.iqtree, .log, .trees) and the user-tree sets of each run; MANIFEST.tsv gives for each constraint_id (as in Tables S11a and S11b) the files. Layout <family>/<run>/{constraint,search,run}. Compressed archive (tar.gz, 2.1 MB).
 
 ### Data S3. Genome assemblies screened
 
